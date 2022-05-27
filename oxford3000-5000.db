@@ -5936,7 +5936,7 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 5934,yet,True,True,adverb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/yet_1
 5935,yet,True,True,conjunction,b2,https://www.oxfordlearnersdictionaries.com/definition/english/yet_2
 5936,yield,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/yield_1
-5937,yield,False,True,verb,c1,
+5937,yield,False,True,verb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/yield_2
 5938,you,True,True,pronoun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/you
 5939,young,True,True,adjective,a1,https://www.oxfordlearnersdictionaries.com/definition/english/young_1
 5940,young,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/young_2
