@@ -1,6 +1,6 @@
+import os
 import json
 import urllib
-import os.path
 import pathlib
 import requests
 
@@ -25,7 +25,7 @@ content_kana = download_json(api.format(24667))
 
 pathlib.Path("master_hira_kana").mkdir(parents=True, exist_ok=True)
 with open("master_hira_kana/db.csv", "w") as f:
-  f.write("index|hira|kana|en|pos|sound\n")
+  f.write("index|hira|kana|en|pos|sound|audio|image_hira|image_kana|detail_hira|detail_kana\n")
   for index, (item_hira, item_kana) in enumerate(zip(content_hira["goal_items"],
                                                      content_kana["goal_items"])):
     hira = item_hira["item"]["cue"]["text"]
@@ -37,7 +37,41 @@ with open("master_hira_kana/db.csv", "w") as f:
     response = download_response(sound_url)
     with open("master_hira_kana/{}".format(sound), "wb") as sound_file:
       sound_file.write(response.content)
-    f.write("{}|{}|{}|{}|{}|{}\n".format(index, hira, kana, en, pos, sound))
+    # Except for some exceptions
+    alter_index = index
+    if index > 97:
+      alter_index -= 12
+    elif index > 91:
+      alter_index += 6
+    elif index > 82:
+      alter_index -= 6
+    elif index > 79:
+      alter_index += 15
+    elif index > 76:
+      alter_index -= 3
+    elif index > 73:
+      alter_index += 18
+    # Expect that indices of "master_hira_kana" and "db" are the same
+    audio = ""
+    image_hira = ""
+    image_kana = ""
+    detail_hira = ""
+    detail_kana = ""
+    path = "db/{}".format(alter_index)
+    for name in os.listdir(path):
+        subpath = os.path.join(path, name)
+        if "audio" in name:
+            audio = subpath
+        if "detail_hira" in name:
+            detail_hira = subpath
+        elif "hira" in name:
+            image_hira = subpath
+        if "detail_kana" in name:
+            detail_kana = subpath
+        elif "kana" in name:
+            image_kana = subpath
+    f.write("{}|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}\n".format(index, hira, kana, en, pos, sound,
+                                                        audio, image_hira, image_kana, detail_hira, detail_kana))
 
 # Japanese Core
 course_codes = []
