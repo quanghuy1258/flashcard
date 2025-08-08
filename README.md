@@ -1,2 +1,2 @@
 # flashcard
-Flashcard application based on Jupyter to learn English
+Some flashcard decks → import into Anki
