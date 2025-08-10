@@ -1,0 +1,751 @@
+index,phrase,belong_to,definition
+0,a bit,a2,https://www.oxfordlearnersdictionaries.com/definition/english/bit_1#bit_sng_1
+1,a bit more,b1,https://www.oxfordlearnersdictionaries.com/definition/english/bit_1#bit_sng_1
+2,a bit of a…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/bit_1#bit_sng_15
+3,a bit of sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/bit_1#bit_sng_3
+4,a couple of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/couple_1#couple_sng_3
+5,a few,a1,https://www.oxfordlearnersdictionaries.com/definition/english/few_1#few_sng_2
+6,a good idea,a1,https://www.oxfordlearnersdictionaries.com/definition/english/idea#idea_sng_1
+7,a great deal,b1,https://www.oxfordlearnersdictionaries.com/definition/english/deal_2#deal_sng_32
+8,a kind of...,b1,https://www.oxfordlearnersdictionaries.com/definition/english/kind_1#kind_sng_4
+9,a little,a1,https://www.oxfordlearnersdictionaries.com/definition/english/little_2#little_sng_9
+10,a little bit,b1,https://www.oxfordlearnersdictionaries.com/definition/english/bit_1#bit_sng_1
+11,a little more,b1,https://www.oxfordlearnersdictionaries.com/definition/english/little_3#little_sng_12
+12,a long time ago,a2,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_6
+13,a long way,a2,https://www.oxfordlearnersdictionaries.com/definition/english/long_1#long_sng_1
+14,a lot,a1,https://www.oxfordlearnersdictionaries.com/definition/english/lot_1#lot_sng_1
+15,a lot more,b1,https://www.oxfordlearnersdictionaries.com/definition/english/lot_3#lot_sng_3
+16,a lot of sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/lot_2#lot_sng_2
+17,a means of sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/means#means_sng_1
+18,a number of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/number_1#number_sng_4
+19,a period of time,a1,https://www.oxfordlearnersdictionaries.com/definition/english/period_1#period_sng_1
+20,a range of sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/range_1#range_sng_1
+21,a variety of sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/variety_1#variety_sng_1
+22,able to do sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/able_1#able_sng_1
+23,above all,c1,https://www.oxfordlearnersdictionaries.com/definition/english/above_1#above_sng_6
+24,access to sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/access_1#access_sng_2
+25,account for sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/account-for#accountfor2_e
+26,accused of sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/accuse#accuse_e
+27,act as sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/act_1#act_sng_18
+28,add to sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/add-to#add_sng_18
+29,after all,b1,https://www.oxfordlearnersdictionaries.com/definition/english/after_1#after_sng_12
+30,again and again,a2,https://www.oxfordlearnersdictionaries.com/definition/english/again#again_sng_1
+31,agree with sb,a1,https://www.oxfordlearnersdictionaries.com/definition/english/agree#agree_sng_1
+32,aim to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/aim_1#aim_sng_4
+33,aimed at doing sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/aim_1#aim_sng_5
+34,aimed at sb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/aim_1#aim_sng_7
+35,all about…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/about_1#about_sng_9
+36,all but,c1,https://www.oxfordlearnersdictionaries.com/definition/english/all_3#all_sng_29
+37,all day,a1,https://www.oxfordlearnersdictionaries.com/definition/english/day#day_sng_2
+38,all kinds of…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/kind_1#kind_sng_1
+39,all over the world,a1,https://www.oxfordlearnersdictionaries.com/definition/english/world#world_sng_1
+40,all over…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/over_1#over_sng_21
+41,all sorts of…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/sort_1#sort_sng_1
+42,all the more,c1,https://www.oxfordlearnersdictionaries.com/definition/english/all_3#all_sng_28
+43,all the time,a2,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_17
+44,all the way,b2,https://www.oxfordlearnersdictionaries.com/definition/english/way_1#way_sng_15
+45,along with sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/along_2#along_sng_7
+46,alternative to sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/alternative_1#alternative_sng_1
+47,and so on,b1,https://www.oxfordlearnersdictionaries.com/definition/english/forth_1#so_sng_11
+48,anything else,a1,https://www.oxfordlearnersdictionaries.com/definition/english/anything#anything_sng_1
+49,apart from,b1,https://www.oxfordlearnersdictionaries.com/definition/english/apart-from#apartfrom_e
+50,appeal to sb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/appeal_2#appeal_sng_7
+51,apply for sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/apply#apply_sng_1
+52,apply to sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/apply#apply_sng_4
+53,around the world,a1,https://www.oxfordlearnersdictionaries.com/definition/english/world#world_sng_1
+54,arrive at…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/arrive#arrive_sng_1
+55,arrive in…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/arrive#arrive_sng_1
+56,art gallery,a2,https://www.oxfordlearnersdictionaries.com/definition/english/art-gallery#artgallery_e
+57,as a result,a2,https://www.oxfordlearnersdictionaries.com/definition/english/result_1#result_sng_1
+58,as a whole,b2,https://www.oxfordlearnersdictionaries.com/definition/english/whole_2#whole_sng_10
+59,as far as I am concerned,b2,https://www.oxfordlearnersdictionaries.com/definition/english/concerned#far_sng_36
+60,as far as sb/sth is concerned,c1,https://www.oxfordlearnersdictionaries.com/definition/english/concerned#far_sng_36
+61,as follows…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/follow#follow_sng_2
+62,as for sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/as_3#as_sng_13
+63,as if…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/as_3#as_sng_15
+64,as long as…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/long_2#long_sng_33
+65,as much as,b1,https://www.oxfordlearnersdictionaries.com/definition/english/as_2#as_sng_4
+66,as of…,c1,https://www.oxfordlearnersdictionaries.com/definition/english/as_3#as_sng_14
+67,as opposed to,c1,https://www.oxfordlearnersdictionaries.com/definition/english/opposed#opposed_sng_3
+68,as part of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/part_1#part_sng_3
+69,as soon as,a2,https://www.oxfordlearnersdictionaries.com/definition/english/soon#soon_sng_2
+70,as soon as possible,b1,https://www.oxfordlearnersdictionaries.com/definition/english/possible_1#possible_sng_5
+71,as such,c1,https://www.oxfordlearnersdictionaries.com/definition/english/such#such_sng_5
+72,as though…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/as_3#as_sng_15
+73,as to,c1,https://www.oxfordlearnersdictionaries.com/definition/english/as_3#as_sng_18
+74,as well,a2,https://www.oxfordlearnersdictionaries.com/definition/english/well_1#well_sng_7
+75,ask for sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/ask_1#ask_sng_3
+76,associated with sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/associated#associated_sng_1
+77,at first,a2,https://www.oxfordlearnersdictionaries.com/definition/english/first_2#first_sng_8
+78,at home,a1,https://www.oxfordlearnersdictionaries.com/definition/english/home_1#home_sng_9
+79,at last,b1,https://www.oxfordlearnersdictionaries.com/definition/english/last1_3#last_hm1_sng_20
+80,at least,a2,https://www.oxfordlearnersdictionaries.com/definition/english/least_2#least_sng_5
+81,at once,b2,https://www.oxfordlearnersdictionaries.com/definition/english/once_1#once_sng_6
+82,at present,b2,https://www.oxfordlearnersdictionaries.com/definition/english/present_2#present_sng_7
+83,at risk,b1,https://www.oxfordlearnersdictionaries.com/definition/english/risk_1#risk_sng_4
+84,at school,a1,https://www.oxfordlearnersdictionaries.com/definition/english/school_1#school_sng_3
+85,at some point,b2,https://www.oxfordlearnersdictionaries.com/definition/english/point_1#point_sng_6
+86,at the age of…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/age_1#age_sng_1
+87,at the beginning of sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/beginning#beginning_sng_1
+88,at the end,a1,https://www.oxfordlearnersdictionaries.com/definition/english/end_1#end_sng_1
+89,at the end of sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/end_1#end_sng_1
+90,at the end of the day,b2,https://www.oxfordlearnersdictionaries.com/definition/english/day#end_sng_43
+91,at the expense of sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/expense#expense_sng_7
+92,at the hands of sb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/hand_1#hand_sng_15
+93,at the moment,a1,https://www.oxfordlearnersdictionaries.com/definition/english/moment#moment_sng_2
+94,at the same time,a1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_21
+95,at the start of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/start_2#start_sng_28
+96,at the time,a2,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_4
+97,at the time of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_7
+98,at the top,a2,https://www.oxfordlearnersdictionaries.com/definition/english/top_1#top_sng_1
+99,at the weekend,a1,https://www.oxfordlearnersdictionaries.com/definition/english/weekend_1#weekend_sng_1
+100,at this point,b2,https://www.oxfordlearnersdictionaries.com/definition/english/point_1#point_sng_6
+101,at this stage,b2,https://www.oxfordlearnersdictionaries.com/definition/english/stage_1#stage_sng_1
+102,at times,b1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_25
+103,at university,a1,https://www.oxfordlearnersdictionaries.com/definition/english/university#university_sng_1
+104,at work,a1,https://www.oxfordlearnersdictionaries.com/definition/english/work_2#work_sng_43
+105,attached to sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/attached#attached_sng_3
+106,awareness of sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/awareness#awareness_sng_1
+107,away from sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/away_1#away_sng_1
+108,back and forth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/back_3#back_sng_41
+109,back sb/sth up,b2,https://www.oxfordlearnersdictionaries.com/definition/english/back-up#backup3_e
+110,bad for sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/bad_1#bad_sng_8
+111,bad news,a1,https://www.oxfordlearnersdictionaries.com/definition/english/bad_1#bad_sng_1
+112,bad thing,a1,https://www.oxfordlearnersdictionaries.com/definition/english/bad_1#bad_sng_1
+113,based on sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/based#based_sng_1
+114,be about to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/about_3#about_sng_18
+115,be allowed to do sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/allow#allow_sng_1
+116,be attributed to sb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/attribute_1#attribute2_e
+117,be charged with sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/charge_2#charge_sng_16
+118,be derived from sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/be-derived-from#derive_sng_4
+119,be entitled to sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/entitle#entitle_sng_1
+120,be expected to do sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/expect#expect_sng_1
+121,be found to do sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/find_1#find_sng_4
+122,be going on,b1,https://www.oxfordlearnersdictionaries.com/definition/english/go-on#go_sng_303
+123,be going to do sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/go_1#go_sng_40
+124,be known as sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/know_1#know_sng_5
+125,be known to do sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/know_1#know_sng_5
+126,be made of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/make_1#make_sng_1
+127,be made up of sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/make-up_1#make_sng_83
+128,be meant to do sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/mean_1#mean_sng_3
+129,be reported to be sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/report_2#report_sng_1
+130,be said to be sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/say_1#say_sng_1
+131,be supposed to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/suppose#suppose_sng_4
+132,be surrounded by sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/surround_1#surround_sng_1
+133,be to blame,b2,https://www.oxfordlearnersdictionaries.com/definition/english/blame_1#blame_sng_2
+134,bear sb/sth in mind,c1,https://www.oxfordlearnersdictionaries.com/definition/english/bear_1#mind_sng_60
+135,because of,a1,https://www.oxfordlearnersdictionaries.com/definition/english/because-of#becauseof_e
+136,begin with sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/begin#begin_sng_4
+137,believe in sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/believe-in#believein2_e
+138,belong to sb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/belong-to#belong_sng_3
+139,belong to sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/belong-to#belong_sng_9
+140,benefit from sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/benefit_2#benefit_sng_8
+141,best friend,a1,https://www.oxfordlearnersdictionaries.com/definition/english/friend_1#friend_sng_1
+142,black and white,a1,https://www.oxfordlearnersdictionaries.com/definition/english/black_2#black_sng_16
+143,both sides,b2,https://www.oxfordlearnersdictionaries.com/definition/english/side_1#side_sng_13
+144,bound to do sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/bound_1#bound_sng_1
+145,break up,b1,https://www.oxfordlearnersdictionaries.com/definition/english/break-up_1#breakup3_e
+146,bring sb up,b2,https://www.oxfordlearnersdictionaries.com/definition/english/bring-up#bring_sng_97
+147,bring sth about,c1,https://www.oxfordlearnersdictionaries.com/definition/english/bring-about#bring_sng_56
+148,bring sth up,c1,https://www.oxfordlearnersdictionaries.com/definition/english/bring-up#bring_sng_99
+149,by means of sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/means#means_sng_4
+150,by no means,c1,https://www.oxfordlearnersdictionaries.com/definition/english/means#means_sng_5
+151,by now,b2,https://www.oxfordlearnersdictionaries.com/definition/english/now_1#now_sng_1
+152,by the end of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/end_1#end_sng_1
+153,by the time (that)…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_4
+154,call for sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/call-for#call_sng_71
+155,call on sb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/call-on#call_sng_79
+156,can't afford sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/afford#afford_e
+157,car park,a1,https://www.oxfordlearnersdictionaries.com/definition/english/car-park#carpark_e
+158,care about sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/care_2#care_sng_12
+159,care for sb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/care-for#care_sng_25
+160,carry on,a2,https://www.oxfordlearnersdictionaries.com/definition/english/carry-on_1#carryon3_e
+161,carry sth out,a2,https://www.oxfordlearnersdictionaries.com/definition/english/carry-out_1#carry_sng_56
+162,case study,b2,https://www.oxfordlearnersdictionaries.com/definition/english/case-study#casestudy_e
+163,caused by sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/cause_2#cause_sng_6
+164,cell phone,a1,https://www.oxfordlearnersdictionaries.com/definition/english/cell-phone#cellphone_e
+165,check in,a2,https://www.oxfordlearnersdictionaries.com/definition/english/check-in_1#checkin3_e
+166,check out,a2,https://www.oxfordlearnersdictionaries.com/definition/english/check-out#check_sng_40
+167,check sb/sth out,b1,https://www.oxfordlearnersdictionaries.com/definition/english/check-out#check_sng_41
+168,choose to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/choose#choose_sng_1
+169,city centre,a1,https://www.oxfordlearnersdictionaries.com/definition/english/city#city_sng_1
+170,clean up,b1,https://www.oxfordlearnersdictionaries.com/definition/english/clean-up_1#clean_sng_54
+171,click on sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/click_1#click_sng_2
+172,climate change,a2,https://www.oxfordlearnersdictionaries.com/definition/english/climate-change#climatechange_e
+173,close to sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/close2_1#close2_sng_1
+174,come across sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/come-across#come_sng_167
+175,come back,a2,https://www.oxfordlearnersdictionaries.com/definition/english/come-back#comeback3_e
+176,come from…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/come-from#come_sng_209
+177,come into sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/come_1#come_sng_1
+178,Come on!,a2,https://www.oxfordlearnersdictionaries.com/definition/english/come-on_1#come_sng_235
+179,come true,b2,https://www.oxfordlearnersdictionaries.com/definition/english/true_1#true_sng_8
+180,come up with sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/come-up-with#come_sng_303
+181,compared with sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/compare_1#compare_sng_1
+182,concentrate on sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/concentrate_1#concentrate_sng_1
+183,concerned about sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/concerned#concerned_sng_1
+184,concerned with sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/concerned#concerned_sng_2
+185,confidence in sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/confidence#confidence_sng_1
+186,connected to sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/connected#connected_sng_1
+187,connected with sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/connected#connected_sng_1
+188,consist of sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/consist-of#consist_sng_5
+189,consistent with sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/consistent#consistent_sng_3
+190,contribute to sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/contribute#contribute_sng_1
+191,control over sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/control_1#control_sng_1
+192,cope with sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/cope_1#cope_sng_1
+193,credit card,a2,https://www.oxfordlearnersdictionaries.com/definition/english/credit-card#creditcard_e
+194,deal with sb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/deal-with#deal_sng_28
+195,deal with sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/deal-with#deal_sng_30
+196,decide on sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/decide-on#decide_sng_6
+197,decline in sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/decline_2#decline_sng_1
+198,dedicated to sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/dedicated#dedicated_sng_1
+199,depend on sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/depend-on#depend_sng_7
+200,depend on sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/depend-on#depend_sng_10
+201,dependent on sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/dependent_1#dependent_sng_1
+202,depending on,b1,https://www.oxfordlearnersdictionaries.com/definition/english/depend#depend_sng_1
+203,deprive sb/sth of sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/deprive-of#deprive_sng_2
+204,despite the fact that…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/fact#fact_sng_1
+205,developing countries,b1,https://www.oxfordlearnersdictionaries.com/definition/english/developing#developing_sng_1
+206,differences between A and B,a1,https://www.oxfordlearnersdictionaries.com/definition/english/difference#difference_sng_1
+207,difficult for sb,a1,https://www.oxfordlearnersdictionaries.com/definition/english/difficult#difficult_sng_1
+208,dispose of sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/dispose-of#dispose_sng_6
+209,do well,a2,https://www.oxfordlearnersdictionaries.com/definition/english/well_1#well_sng_13
+210,draw attention to sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/draw_1#draw_sng_52
+211,due to sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/due_1#due_sng_1
+212,each one,a2,https://www.oxfordlearnersdictionaries.com/definition/english/each#each_sng_1
+213,each other,a1,https://www.oxfordlearnersdictionaries.com/definition/english/each-other#eachother_e
+214,economic growth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/economic#economic_sng_1
+215,end in sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/end-in#end_sng_51
+216,end up,b1,https://www.oxfordlearnersdictionaries.com/definition/english/end-up#endup2_e
+217,end with sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/end_2#end_sng_32
+218,engage in sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/engage-in#engage_sng_7
+219,engaged in sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/engaged#engaged_sng_1
+220,even if,b1,https://www.oxfordlearnersdictionaries.com/definition/english/even_1#even_sng_5
+221,even more…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/even_1#even_sng_2
+222,even though,b1,https://www.oxfordlearnersdictionaries.com/definition/english/even_1#even_sng_27
+223,ever since,b2,https://www.oxfordlearnersdictionaries.com/definition/english/since_2#since_sng_3
+224,every day,a1,https://www.oxfordlearnersdictionaries.com/definition/english/every#every_sng_1
+225,everyone else,a2,https://www.oxfordlearnersdictionaries.com/definition/english/everyone#everyone_sng_1
+226,exactly the same,b1,https://www.oxfordlearnersdictionaries.com/definition/english/same_1#same_sng_1
+227,except for,a2,https://www.oxfordlearnersdictionaries.com/definition/english/except_1#except_sng_1
+228,excuse me,a1,https://www.oxfordlearnersdictionaries.com/definition/english/excuse_2#excuse_sng_9
+229,experience in sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/experience_1#experience_sng_1
+230,exposure to sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/exposure#exposure_sng_1
+231,fail to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/fail_1#fail_sng_2
+232,fall asleep,b1,https://www.oxfordlearnersdictionaries.com/definition/english/asleep#asleep_sng_1
+233,fall in love,a2,https://www.oxfordlearnersdictionaries.com/definition/english/love_1#love_sng_2
+234,fall off,a2,https://www.oxfordlearnersdictionaries.com/definition/english/fall_1#fall_sng_1
+235,family member,a1,https://www.oxfordlearnersdictionaries.com/definition/english/member#member_sng_1
+236,far away,a2,https://www.oxfordlearnersdictionaries.com/definition/english/far_1#far_sng_1
+237,far from sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/far_1#far_sng_17
+238,far more,b1,https://www.oxfordlearnersdictionaries.com/definition/english/far_1#far_sng_4
+239,far too,b1,https://www.oxfordlearnersdictionaries.com/definition/english/far_1#far_sng_4
+240,fed up,b1,https://www.oxfordlearnersdictionaries.com/definition/english/fed-up#fedup_e
+241,feel good,a2,https://www.oxfordlearnersdictionaries.com/definition/english/feel_1#feel_sng_13
+242,feel like sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/feel_1#feel_sng_1
+243,figure sb/sth out,b2,https://www.oxfordlearnersdictionaries.com/definition/english/figure-out#figure_sng_26
+244,fill sth in,a2,https://www.oxfordlearnersdictionaries.com/definition/english/fill-in_1#fill_sng_28
+245,find it difficult to do sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/difficult#difficult_sng_1
+246,find out,a1,https://www.oxfordlearnersdictionaries.com/definition/english/find-out#findout2_e
+247,find yourself doing sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/find_1#find_sng_7
+248,first of all,a2,https://www.oxfordlearnersdictionaries.com/definition/english/first_2#first_sng_13
+249,focus on sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/focus_1#focus_sng_1
+250,follow sth up,c1,https://www.oxfordlearnersdictionaries.com/definition/english/follow-up_1#follow_sng_37
+251,followed by sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/follow#follow_sng_2
+252,for a long time,a1,https://www.oxfordlearnersdictionaries.com/definition/english/long_1#long_sng_3
+253,for a moment,a1,https://www.oxfordlearnersdictionaries.com/definition/english/moment#moment_sng_1
+254,for a while,b1,https://www.oxfordlearnersdictionaries.com/definition/english/while_2#while_sng_7
+255,for example,a1,https://www.oxfordlearnersdictionaries.com/definition/english/example#example_sng_5
+256,for free,b1,https://www.oxfordlearnersdictionaries.com/definition/english/free_1#free_sng_5
+257,for instance,b1,https://www.oxfordlearnersdictionaries.com/definition/english/instance_1#instance_sng_2
+258,for life,b1,https://www.oxfordlearnersdictionaries.com/definition/english/life_1#life_sng_4
+259,for long,b1,https://www.oxfordlearnersdictionaries.com/definition/english/long_2#long_sng_35
+260,for lunch,a1,https://www.oxfordlearnersdictionaries.com/definition/english/lunch_1#lunch_sng_1
+261,for many years,a1,https://www.oxfordlearnersdictionaries.com/definition/english/year#year_sng_2
+262,for some time,b1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_5
+263,for that matter,c1,https://www.oxfordlearnersdictionaries.com/definition/english/matter_1#matter_sng_23
+264,for the benefit of sb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/benefit_1#benefit_sng_6
+265,for the first time,a1,https://www.oxfordlearnersdictionaries.com/definition/english/first_1#first_sng_1
+266,for the rest of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/rest_1#rest_sng_1
+267,for the sake of sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/sake1#sake1_sng_4
+268,for this reason,a2,https://www.oxfordlearnersdictionaries.com/definition/english/reason_1#reason_sng_1
+269,get away with sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/get-away-with#getawaywith2_e
+270,get back,a2,https://www.oxfordlearnersdictionaries.com/definition/english/get-back#getback2_e
+271,get better,a2,https://www.oxfordlearnersdictionaries.com/definition/english/better_1#better_sng_4
+272,get home,a1,https://www.oxfordlearnersdictionaries.com/definition/english/home_2#home_sng_24
+273,get in,b2,https://www.oxfordlearnersdictionaries.com/definition/english/get-in#getin2_e
+274,get lost,a2,https://www.oxfordlearnersdictionaries.com/definition/english/lost_1#lost_sng_1
+275,get married,a1,https://www.oxfordlearnersdictionaries.com/definition/english/married#married_sng_1
+276,get off,a1,https://www.oxfordlearnersdictionaries.com/definition/english/get#get_sng_18
+277,get on,a1,https://www.oxfordlearnersdictionaries.com/definition/english/get#get_sng_18
+278,get on with sb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/get-on-with#get_sng_225
+279,get out,a2,https://www.oxfordlearnersdictionaries.com/definition/english/get-out_1#get_sng_230
+280,get over sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/get-over#get_sng_236
+281,get ready,a1,https://www.oxfordlearnersdictionaries.com/definition/english/ready_1#ready_sng_1
+282,get rid of sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/rid#rid_sng_2
+283,get there,a1,https://www.oxfordlearnersdictionaries.com/definition/english/get#get_sng_17
+284,get to know sb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/know_1#know_sng_4
+285,get to…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/get#get_sng_17
+286,get up,a1,https://www.oxfordlearnersdictionaries.com/definition/english/get-up_1#getup3_e
+287,get used to sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/used1#used_e
+288,give sth up,a2,https://www.oxfordlearnersdictionaries.com/definition/english/give-up#give_sng_88
+289,give up,a2,https://www.oxfordlearnersdictionaries.com/definition/english/give-up#giveup2_e
+290,given that…,c1,https://www.oxfordlearnersdictionaries.com/definition/english/given-that#giventhat_e
+291,global warming,b1,https://www.oxfordlearnersdictionaries.com/definition/english/global-warming#globalwarming_e
+292,go ahead,b1,https://www.oxfordlearnersdictionaries.com/definition/english/go-ahead_2#goahead5_e
+293,go and…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/go_1#go_sng_1
+294,go away,a2,https://www.oxfordlearnersdictionaries.com/definition/english/go-away#goaway2_e
+295,go back,a1,https://www.oxfordlearnersdictionaries.com/definition/english/go-back#go_sng_241
+296,go down,a2,https://www.oxfordlearnersdictionaries.com/definition/english/go-down#godown3_e
+297,go down sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/down_2#down_sng_22
+298,go for sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/go_1#go_sng_9
+299,go home,a1,https://www.oxfordlearnersdictionaries.com/definition/english/home_2#home_sng_24
+300,go into sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/go_1#go_sng_1
+301,go off,b2,https://www.oxfordlearnersdictionaries.com/definition/english/go-off#gooff2_e
+302,go on to do sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/go-on-to-do#goontodo2_e
+303,go out,a1,https://www.oxfordlearnersdictionaries.com/definition/english/go-out#goout2_e
+304,go through sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/go-through#gothrough2_e
+305,go to bed,a1,https://www.oxfordlearnersdictionaries.com/definition/english/bed_1#bed2_e
+306,go to school,a1,https://www.oxfordlearnersdictionaries.com/definition/english/school_1#school_sng_2
+307,go to work,a1,https://www.oxfordlearnersdictionaries.com/definition/english/work_2#work_sng_43
+308,go up,a2,https://www.oxfordlearnersdictionaries.com/definition/english/go-up#goup2_e
+309,go wrong,b1,https://www.oxfordlearnersdictionaries.com/definition/english/wrong_2#wrong_sng_15
+310,good at sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/good_1#good_sng_5
+311,good for sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/good_1#good_sng_12
+312,good luck,a2,https://www.oxfordlearnersdictionaries.com/definition/english/luck_1#luck_sng_2
+313,Good morning,a1,https://www.oxfordlearnersdictionaries.com/definition/english/good-morning#goodmorning_e
+314,good news,a1,https://www.oxfordlearnersdictionaries.com/definition/english/news#news_sng_1
+315,good thing,a1,https://www.oxfordlearnersdictionaries.com/definition/english/thing#thing_sng_45
+316,grow up,a1,https://www.oxfordlearnersdictionaries.com/definition/english/grow-up#growup2_e
+317,growth in sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/growth#growth_sng_2
+318,Guess what…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/guess_1#guess_sng_4
+319,had better,b2,https://www.oxfordlearnersdictionaries.com/definition/english/better_2#better_sng_15
+320,half an hour,a1,https://www.oxfordlearnersdictionaries.com/definition/english/hour#hour_sng_1
+321,hang on,b2,https://www.oxfordlearnersdictionaries.com/definition/english/hang-on#hangon2_e
+322,happen to sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/happen-to#happen_sng_15
+323,happy with sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/happy#happy_sng_4
+324,hard work,a1,https://www.oxfordlearnersdictionaries.com/definition/english/work_2#work_sng_44
+325,have a look,a2,https://www.oxfordlearnersdictionaries.com/definition/english/look_2#look_sng_55
+326,have fun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/fun_1#fun_sng_1
+327,have got,a1,https://www.oxfordlearnersdictionaries.com/definition/english/have_1#have_sng_1
+328,have got to,a2,https://www.oxfordlearnersdictionaries.com/definition/english/have-to#haveto_sng_1
+329,have no idea,b1,https://www.oxfordlearnersdictionaries.com/definition/english/idea#idea_sng_7
+330,have nothing to do with sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/nothing#nothing_sng_4
+331,have sb/sth in mind,c1,https://www.oxfordlearnersdictionaries.com/definition/english/mind_1#mind_sng_18
+332,have sth in common,b1,https://www.oxfordlearnersdictionaries.com/definition/english/common_2#common_sng_10
+333,have time,a1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_5
+334,Have you ever…?,a2,https://www.oxfordlearnersdictionaries.com/definition/english/ever#ever_sng_1
+335,he or she,a1,https://www.oxfordlearnersdictionaries.com/definition/english/she_1#she_sng_1
+336,health problems,a2,https://www.oxfordlearnersdictionaries.com/definition/english/problem_1#problem_sng_1
+337,hear about sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/hear#hear_sng_3
+338,hear of sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/hear-of#hear_sng_21
+339,heart disease,b1,https://www.oxfordlearnersdictionaries.com/definition/english/heart_1#heart_sng_1
+340,high school,a1,https://www.oxfordlearnersdictionaries.com/definition/english/high-school#highschool_e
+341,high street,b1,https://www.oxfordlearnersdictionaries.com/definition/english/high-street#highstreet_e
+342,higher education,b1,https://www.oxfordlearnersdictionaries.com/definition/english/higher-education#highereducation_e
+343,his or her,a1,https://www.oxfordlearnersdictionaries.com/definition/english/his_1#his_sng_1
+344,How about…?,a1,https://www.oxfordlearnersdictionaries.com/definition/english/how#how_sng_7
+345,How are you?,a1,https://www.oxfordlearnersdictionaries.com/definition/english/how#how_sng_2
+346,How long…?,a1,https://www.oxfordlearnersdictionaries.com/definition/english/long_1#long_sng_2
+347,How many…?,a1,https://www.oxfordlearnersdictionaries.com/definition/english/how#how_sng_4
+348,How much…?,a1,https://www.oxfordlearnersdictionaries.com/definition/english/much_1#much_sng_1
+349,How often…?,a1,https://www.oxfordlearnersdictionaries.com/definition/english/often#often_sng_1
+350,human being,b2,https://www.oxfordlearnersdictionaries.com/definition/english/human_2#human_sng_6
+351,human rights,b2,https://www.oxfordlearnersdictionaries.com/definition/english/human-right#humanright_e
+352,I don't care,a2,https://www.oxfordlearnersdictionaries.com/definition/english/care_2#care_sng_12
+353,I guess,a2,https://www.oxfordlearnersdictionaries.com/definition/english/guess_1#guess_sng_3
+354,I have to say…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/say_1#say_sng_1
+355,I mean,a2,https://www.oxfordlearnersdictionaries.com/definition/english/mean_1#mean_sng_8
+356,I think so,a2,https://www.oxfordlearnersdictionaries.com/definition/english/think_1#think_sng_1
+357,I wonder if…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/wonder_1#wonder_sng_2
+358,I would say…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/would#would_sng_10
+359,I'm afraid…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/afraid#afraid_sng_4
+360,I'm sorry,a1,https://www.oxfordlearnersdictionaries.com/definition/english/sorry_1#sorry_sng_7
+361,If I were you,b1,https://www.oxfordlearnersdictionaries.com/definition/english/if_1#if_sng_12
+362,if necessary,a2,https://www.oxfordlearnersdictionaries.com/definition/english/necessary#necessary_sng_1
+363,if only…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/if_1#if_sng_16
+364,if you want to,a2,https://www.oxfordlearnersdictionaries.com/definition/english/want_1#want_sng_1
+365,important for sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/important#important_sng_1
+366,in a position to do sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/position_1#position_sng_4
+367,in a way that…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/way_1#way_sng_1
+368,in accordance with sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/accordance#accordance_sng_1
+369,in action,b2,https://www.oxfordlearnersdictionaries.com/definition/english/action_1#action_sng_11
+370,in addition,b1,https://www.oxfordlearnersdictionaries.com/definition/english/addition#addition_sng_5
+371,in advance,b2,https://www.oxfordlearnersdictionaries.com/definition/english/advance_1#advance_sng_6
+372,in an attempt to do sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/attempt_1#attempt_sng_1
+373,in any case,c1,https://www.oxfordlearnersdictionaries.com/definition/english/case_1#case_sng_17
+374,in April,a1,https://www.oxfordlearnersdictionaries.com/definition/english/april#april_sng_1
+375,in bed,a1,https://www.oxfordlearnersdictionaries.com/definition/english/bed_1#bed_sng_2
+376,in business,a2,https://www.oxfordlearnersdictionaries.com/definition/english/business#business_sng_1
+377,in case…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/case_1#case_sng_18
+378,in charge of sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/charge_1#charge_sng_5
+379,in class,a1,https://www.oxfordlearnersdictionaries.com/definition/english/class_1#class_sng_2
+380,in conjunction with sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/conjunction#conjunction_sng_4
+381,in connection with sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/connection#connection_sng_8
+382,in contrast,b1,https://www.oxfordlearnersdictionaries.com/definition/english/contrast_1#contrast_sng_1
+383,in danger,a2,https://www.oxfordlearnersdictionaries.com/definition/english/danger#danger_sng_1
+384,in effect,c1,https://www.oxfordlearnersdictionaries.com/definition/english/effect_1#effect_sng_6
+385,in fact,a1,https://www.oxfordlearnersdictionaries.com/definition/english/fact#fact_sng_10
+386,in favour of sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/favour_1#favour_sng_8
+387,in front of,a1,https://www.oxfordlearnersdictionaries.com/definition/english/front_1#front_sng_16
+388,in full,c1,https://www.oxfordlearnersdictionaries.com/definition/english/full_1#full_sng_15
+389,in general,b1,https://www.oxfordlearnersdictionaries.com/definition/english/general_1#general_sng_8
+390,in history,a2,https://www.oxfordlearnersdictionaries.com/definition/english/history#history_sng_1
+391,in hospital,a2,https://www.oxfordlearnersdictionaries.com/definition/english/hospital#hospital_e
+392,in line with sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/line_1#line_sng_43
+393,in love,a2,https://www.oxfordlearnersdictionaries.com/definition/english/love_1#love_sng_2
+394,in my opinion,a1,https://www.oxfordlearnersdictionaries.com/definition/english/opinion#opinion_sng_1
+395,in order of sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/order_1#order_sng_1
+396,in order to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/order_1#order_sng_22
+397,in other words,b1,https://www.oxfordlearnersdictionaries.com/definition/english/word_1#word_sng_11
+398,in part,b2,https://www.oxfordlearnersdictionaries.com/definition/english/part_1#part_sng_20
+399,in particular,b1,https://www.oxfordlearnersdictionaries.com/definition/english/particular_1#particular_sng_4
+400,in place,b2,https://www.oxfordlearnersdictionaries.com/definition/english/place_1#place_sng_27
+401,in practice,c1,https://www.oxfordlearnersdictionaries.com/definition/english/practice_1#practice_sng_6
+402,in prison,a2,https://www.oxfordlearnersdictionaries.com/definition/english/prison#prison_sng_1
+403,in public,b1,https://www.oxfordlearnersdictionaries.com/definition/english/public_2#public_sng_13
+404,in recent years,b1,https://www.oxfordlearnersdictionaries.com/definition/english/recent#recent_sng_1
+405,in relation to sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/relation#relation_sng_2
+406,in respect of sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/respect_1#respect_sng_4
+407,in response to sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/response#response_sng_1
+408,in school,a1,https://www.oxfordlearnersdictionaries.com/definition/english/school_1#school_sng_2
+409,in some cases,a2,https://www.oxfordlearnersdictionaries.com/definition/english/case_1#case_sng_1
+410,in space,a1,https://www.oxfordlearnersdictionaries.com/definition/english/space_1#space_sng_6
+411,in spite of sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/spite_1#spite_sng_2
+412,in such a way (that)…,c1,https://www.oxfordlearnersdictionaries.com/definition/english/such#such_sng_2
+413,in summer,a1,https://www.oxfordlearnersdictionaries.com/definition/english/summer_1#summer_sng_1
+414,in terms of sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/terms#terms_sng_11
+415,in the absence of sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/absence#absence_sng_2
+416,in the air,a2,https://www.oxfordlearnersdictionaries.com/definition/english/air_1#air_sng_2
+417,in the case of sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/case_1#case_sng_1
+418,in the centre,a1,https://www.oxfordlearnersdictionaries.com/definition/english/centre_1#centre_sng_2
+419,in the country,a1,https://www.oxfordlearnersdictionaries.com/definition/english/country#country_sng_4
+420,in the course of…,c1,https://www.oxfordlearnersdictionaries.com/definition/english/course_1#course_sng_14
+421,in the end,a2,https://www.oxfordlearnersdictionaries.com/definition/english/end_1#end_sng_22
+422,in the event of sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/event#event_sng_7
+423,in the face of sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/face_1#face_sng_18
+424,in the first place,b2,https://www.oxfordlearnersdictionaries.com/definition/english/place_1#place_sng_23
+425,in the form of sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/form_1#form_sng_2
+426,in the future,a1,https://www.oxfordlearnersdictionaries.com/definition/english/future_1#future_sng_1
+427,in the hands of sb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/hand_1#hand_sng_41
+428,in the light of sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/light_1#light_sng_15
+429,in the meantime,c1,https://www.oxfordlearnersdictionaries.com/definition/english/meantime_1#meantime_sng_2
+430,in the middle,a2,https://www.oxfordlearnersdictionaries.com/definition/english/middle_1#middle_sng_1
+431,in the midst of sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/midst#midst_sng_1
+432,in the morning,a1,https://www.oxfordlearnersdictionaries.com/definition/english/morning_1#morning_sng_5
+433,in the near future,b2,https://www.oxfordlearnersdictionaries.com/definition/english/future_1#future_sng_1
+434,in the north,a1,https://www.oxfordlearnersdictionaries.com/definition/english/north_1#north_sng_2
+435,in the past,a1,https://www.oxfordlearnersdictionaries.com/definition/english/past_2#past_sng_5
+436,in the presence of sb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/presence#presence_sng_6
+437,in the same way,a2,https://www.oxfordlearnersdictionaries.com/definition/english/way_1#way_sng_1
+438,in the street,a1,https://www.oxfordlearnersdictionaries.com/definition/english/street_1#street_sng_1
+439,in the summer,a1,https://www.oxfordlearnersdictionaries.com/definition/english/summer_1#summer_sng_1
+440,in the wake of sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/wake_2#wake_sng_9
+441,in the way (that)…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/way_1#way_sng_1
+442,in this case,b1,https://www.oxfordlearnersdictionaries.com/definition/english/case_1#case_sng_3
+443,in this way,a2,https://www.oxfordlearnersdictionaries.com/definition/english/way_1#way_sng_1
+444,in time,b1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_41
+445,in touch,b1,https://www.oxfordlearnersdictionaries.com/definition/english/touch_2#touch_sng_32
+446,in town,a1,https://www.oxfordlearnersdictionaries.com/definition/english/town#town_sng_3
+447,in turn,b2,https://www.oxfordlearnersdictionaries.com/definition/english/turn_2#turn_sng_89
+448,instead of,a2,https://www.oxfordlearnersdictionaries.com/definition/english/instead-of#insteadof_e
+449,investment in sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/investment#investment_sng_1
+450,involvement in sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/involvement#involvement_sng_2
+451,it depends,a2,https://www.oxfordlearnersdictionaries.com/definition/english/depend#depend_sng_2
+452,It is important to do sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/important#important_sng_1
+453,It takes …,a1,https://www.oxfordlearnersdictionaries.com/definition/english/take_1#take_sng_29
+454,kind of sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/kind_1#kind_sng_1
+455,know how,a1,https://www.oxfordlearnersdictionaries.com/definition/english/know_1#know_sng_9
+456,last time,a1,https://www.oxfordlearnersdictionaries.com/definition/english/last1_1#last1_sng_2
+457,last year,a1,https://www.oxfordlearnersdictionaries.com/definition/english/year#year_sng_1
+458,lead to sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/lead1_1#lead1_sng_4
+459,learn how to do sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/learn#learn_sng_1
+460,leave sb/sth out,b1,https://www.oxfordlearnersdictionaries.com/definition/english/leave-out#leave_sng_41
+461,less than…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/less_3#less_sng_6
+462,let alone,c1,https://www.oxfordlearnersdictionaries.com/definition/english/alone#alone_sng_9
+463,let me know,a2,https://www.oxfordlearnersdictionaries.com/definition/english/know_1#know_sng_34
+464,Let me…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/let_1#let_sng_5
+465,likely to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/likely_1#likely_sng_1
+466,listen to sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/listen_1#listen_sng_1
+467,little more than…,c1,https://www.oxfordlearnersdictionaries.com/definition/english/more_2#more_sng_4
+468,live on sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/live-on#live_sng_16
+469,live with sb,a1,https://www.oxfordlearnersdictionaries.com/definition/english/live-with#live_sng_27
+470,living room,a1,https://www.oxfordlearnersdictionaries.com/definition/english/living-room#livingroom_e
+471,loads of sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/load_1#load_sng_4
+472,look after sb/sth/yourself,a2,https://www.oxfordlearnersdictionaries.com/definition/english/look-after#look_sng_64
+473,look at sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/look_1#look_sng_1
+474,look back at sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/look-back#look_sng_76
+475,look for sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/look_1#look_sng_2
+476,look forward to sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/look-forward-to#look_sng_80
+477,look like sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/look_1#look_sng_4
+478,look out,b1,https://www.oxfordlearnersdictionaries.com/definition/english/look-out#lookout3_e
+479,look sth up,a2,https://www.oxfordlearnersdictionaries.com/definition/english/look-up#look_sng_103
+480,lots of…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/lot_2#lot_sng_2
+481,make a difference,b1,https://www.oxfordlearnersdictionaries.com/definition/english/difference#difference_sng_4
+482,make a mistake,a2,https://www.oxfordlearnersdictionaries.com/definition/english/mistake_1#mistake_sng_1
+483,make money,a2,https://www.oxfordlearnersdictionaries.com/definition/english/money#money_sng_11
+484,make sense,a2,https://www.oxfordlearnersdictionaries.com/definition/english/sense_1#sense_sng_8
+485,make sth up,b1,https://www.oxfordlearnersdictionaries.com/definition/english/make-up_1#make_sng_83
+486,make sure,a2,https://www.oxfordlearnersdictionaries.com/definition/english/sure_1#sure_sng_8
+487,manage to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/manage#manage_sng_1
+488,may well,c1,https://www.oxfordlearnersdictionaries.com/definition/english/may_1#may_sng_2
+489,mean to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/mean_1#mean_sng_3
+490,mental health,b2,https://www.oxfordlearnersdictionaries.com/definition/english/mental-health#mentalhealth_e
+491,millions of…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/million#million_sng_1
+492,mobile phone,a1,https://www.oxfordlearnersdictionaries.com/definition/english/mobile-phone#mobilephone_e
+493,more and more,b1,https://www.oxfordlearnersdictionaries.com/definition/english/more_1#more_sng_2
+494,more or less,b2,https://www.oxfordlearnersdictionaries.com/definition/english/less_3#more_sng_10
+495,more than…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/more_1#more_sng_1
+496,move on,b1,https://www.oxfordlearnersdictionaries.com/definition/english/move-on#moveon2_e
+497,much better,a2,https://www.oxfordlearnersdictionaries.com/definition/english/better_1#better_sng_1
+498,next time,a1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_8
+499,next year,a1,https://www.oxfordlearnersdictionaries.com/definition/english/year#year_sng_1
+500,no doubt,b2,https://www.oxfordlearnersdictionaries.com/definition/english/doubt_1#doubt_sng_6
+501,no longer,b1,https://www.oxfordlearnersdictionaries.com/definition/english/long_2#long_sng_38
+502,no matter…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/matter_1#matter_sng_17
+503,no more than…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/more_1#more_sng_1
+504,No problem,a1,https://www.oxfordlearnersdictionaries.com/definition/english/problem_1#problem_sng_4
+505,no way,a2,https://www.oxfordlearnersdictionaries.com/definition/english/way_1#way_sng_63
+506,not at all,a2,https://www.oxfordlearnersdictionaries.com/definition/english/all_2#all_sng_18
+507,not even,b1,https://www.oxfordlearnersdictionaries.com/definition/english/even_1#even3_e
+508,not necessarily,b1,https://www.oxfordlearnersdictionaries.com/definition/english/necessarily#necessarily_sng_2
+509,not only,b1,https://www.oxfordlearnersdictionaries.com/definition/english/not#only_sng_12
+510,not to mention,c1,https://www.oxfordlearnersdictionaries.com/definition/english/mention_1#mention_sng_3
+511,nothing but,b2,https://www.oxfordlearnersdictionaries.com/definition/english/nothing#nothing_sng_10
+512,nothing like,c1,https://www.oxfordlearnersdictionaries.com/definition/english/nothing#nothing_sng_13
+513,of course,a1,https://www.oxfordlearnersdictionaries.com/definition/english/course_1#course_sng_17
+514,Oh dear,a2,https://www.oxfordlearnersdictionaries.com/definition/english/dear_2#dear_sng_6
+515,Oh no!,a1,https://www.oxfordlearnersdictionaries.com/definition/english/no_1#no_sng_2
+516,Oh well,a2,https://www.oxfordlearnersdictionaries.com/definition/english/well_3#well_sng_32
+517,Oh yes,a1,https://www.oxfordlearnersdictionaries.com/definition/english/yes_1#yes_sng_8
+518,old friend,a2,https://www.oxfordlearnersdictionaries.com/definition/english/friend_1#friend_sng_1
+519,on a regular basis,b1,https://www.oxfordlearnersdictionaries.com/definition/english/basis#basis_sng_2
+520,on behalf of sb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/behalf#behalf_sng_2
+521,on board,b2,https://www.oxfordlearnersdictionaries.com/definition/english/board_1#board_sng_12
+522,on earth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/earth_1#earth_sng_1
+523,on holiday,a1,https://www.oxfordlearnersdictionaries.com/definition/english/holiday_1#holiday_sng_1
+524,on Monday,a1,https://www.oxfordlearnersdictionaries.com/definition/english/monday#monday_sng_1
+525,on my own,b1,https://www.oxfordlearnersdictionaries.com/definition/english/own_1#own_sng_6
+526,on television,a1,https://www.oxfordlearnersdictionaries.com/definition/english/television#television_sng_4
+527,on the basis of sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/basis#basis_sng_1
+528,on the beach,a1,https://www.oxfordlearnersdictionaries.com/definition/english/beach_1#beach_sng_1
+529,on the floor,a1,https://www.oxfordlearnersdictionaries.com/definition/english/floor_1#floor_sng_1
+530,on the ground,a2,https://www.oxfordlearnersdictionaries.com/definition/english/ground_1#ground_sng_1
+531,on the internet,a1,https://www.oxfordlearnersdictionaries.com/definition/english/internet#internet_sng_1
+532,on the left,a1,https://www.oxfordlearnersdictionaries.com/definition/english/left_3#left_sng_5
+533,on the one hand,b2,https://www.oxfordlearnersdictionaries.com/definition/english/hand_1#hand_sng_51
+534,on the other hand,b1,https://www.oxfordlearnersdictionaries.com/definition/english/hand_1#hand_sng_51
+535,on the other side,a2,https://www.oxfordlearnersdictionaries.com/definition/english/side_1#side_sng_2
+536,on the part of sb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/part_1#part_sng_23
+537,on the phone,a1,https://www.oxfordlearnersdictionaries.com/definition/english/phone_1#phone_sng_1
+538,on the street,b1,https://www.oxfordlearnersdictionaries.com/definition/english/street_1#street_sng_3
+539,on the wall,a2,https://www.oxfordlearnersdictionaries.com/definition/english/wall_1#wall_sng_2
+540,on the way,b1,https://www.oxfordlearnersdictionaries.com/definition/english/way_1#way_sng_65
+541,on time,a2,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#
+542,on top of sth/sb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/top_1#top_sng_22
+543,on TV,a1,https://www.oxfordlearnersdictionaries.com/definition/english/television#television_sng_4
+544,once a…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/once_1#once_sng_1
+545,once again,b2,https://www.oxfordlearnersdictionaries.com/definition/english/once_1#once_sng_10
+546,one another,b2,https://www.oxfordlearnersdictionaries.com/definition/english/one-another#oneanother_e
+547,one day,a1,https://www.oxfordlearnersdictionaries.com/definition/english/day#day_sng_30
+548,one or two,a2,https://www.oxfordlearnersdictionaries.com/definition/english/one_1#one_sng_22
+549,opposed to sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/opposed#opposed_sng_2
+550,or so,b2,https://www.oxfordlearnersdictionaries.com/definition/english/or_1#or_sng_8
+551,or something,b1,https://www.oxfordlearnersdictionaries.com/definition/english/or_1#or_sng_9
+552,or two,b1,https://www.oxfordlearnersdictionaries.com/definition/english/two#two_sng_2
+553,ordinary people,a2,https://www.oxfordlearnersdictionaries.com/definition/english/ordinary#ordinary_sng_1
+554,other than,b2,https://www.oxfordlearnersdictionaries.com/definition/english/other_1#other_sng_6
+555,ought to,b1,https://www.oxfordlearnersdictionaries.com/definition/english/ought-to#oughtto_e
+556,out of sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/out_1#out_sng_1
+557,out there,b1,https://www.oxfordlearnersdictionaries.com/definition/english/there_1#there_sng_3
+558,over the course of…,c1,https://www.oxfordlearnersdictionaries.com/definition/english/course_1#course_sng_14
+559,over the years,b1,https://www.oxfordlearnersdictionaries.com/definition/english/year#year_sng_6
+560,over there,a1,https://www.oxfordlearnersdictionaries.com/definition/english/over_2#over_sng_3
+561,over time,b1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_1
+562,participate in sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/participate#participate_sng_1
+563,pay attention,a2,https://www.oxfordlearnersdictionaries.com/definition/english/attention_1#attention_sng_1
+564,pay for sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/pay_1#pay_sng_1
+565,per hour,a2,https://www.oxfordlearnersdictionaries.com/definition/english/per#per_sng_1
+566,phone call,a1,https://www.oxfordlearnersdictionaries.com/definition/english/phone-call#phonecall_e
+567,phone number,a1,https://www.oxfordlearnersdictionaries.com/definition/english/phone-number#phonenumber_e
+568,pick sb/sth up,a2,https://www.oxfordlearnersdictionaries.com/definition/english/pick-up#pick_sng_91
+569,plan for sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/plan_1#plan_sng_1
+570,play with sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/play_1#play_sng_1
+571,point of view,b1,https://www.oxfordlearnersdictionaries.com/definition/english/point-of-view#pointofview_e
+572,point out,b1,https://www.oxfordlearnersdictionaries.com/definition/english/point-out#point_sng_62
+573,police officer,a2,https://www.oxfordlearnersdictionaries.com/definition/english/police-officer#policeofficer_e
+574,police station,a2,https://www.oxfordlearnersdictionaries.com/definition/english/police-station#policestation_e
+575,post office,a1,https://www.oxfordlearnersdictionaries.com/definition/english/post-office#postoffice_e
+576,potential for sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/potential_2#potential_sng_3
+577,prepared to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/prepared#prepared_sng_2
+578,pretty good,a1,https://www.oxfordlearnersdictionaries.com/definition/english/pretty_1#pretty_sng_1
+579,pretty much,b2,https://www.oxfordlearnersdictionaries.com/definition/english/near_3#pretty_sng_13
+580,primary school,b1,https://www.oxfordlearnersdictionaries.com/definition/english/primary-school#primaryschool_e
+581,prime minister,b1,https://www.oxfordlearnersdictionaries.com/definition/english/prime-minister#primeminister_e
+582,prior to,b2,https://www.oxfordlearnersdictionaries.com/definition/english/prior_1#prior_sng_3
+583,prove to be sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/prove#prove_sng_2
+584,public transport,a2,https://www.oxfordlearnersdictionaries.com/definition/english/public-transport#publictransport_e
+585,put it,c1,https://www.oxfordlearnersdictionaries.com/definition/english/put#put_sng_10
+586,put sth forward,b2,https://www.oxfordlearnersdictionaries.com/definition/english/put-forward#put_sng_168
+587,put sth on,a2,https://www.oxfordlearnersdictionaries.com/definition/english/put-on_1#put_sng_193
+588,put sth together,b2,https://www.oxfordlearnersdictionaries.com/definition/english/put-together#put_sng_230
+589,put sth up,b1,https://www.oxfordlearnersdictionaries.com/definition/english/put-up#put_sng_236
+590,quality of life,b2,https://www.oxfordlearnersdictionaries.com/definition/english/quality-of-life#qualityoflife_e
+591,quite a lot,a2,https://www.oxfordlearnersdictionaries.com/definition/english/quite#quite_sng_6
+592,quite a…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/quite#quite_sng_1
+593,raise money,b1,https://www.oxfordlearnersdictionaries.com/definition/english/raise_1#raise_sng_4
+594,ranging from,b2,https://www.oxfordlearnersdictionaries.com/definition/english/range_2#range_sng_14
+595,rather than,b1,https://www.oxfordlearnersdictionaries.com/definition/english/rather_1#rather_sng_6
+596,reaction to sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/reaction#reaction_sng_1
+597,really enjoy,a1,https://www.oxfordlearnersdictionaries.com/definition/english/enjoy#enjoy_sng_1
+598,really good,a1,https://www.oxfordlearnersdictionaries.com/definition/english/really#really_sng_3
+599,really like,a1,https://www.oxfordlearnersdictionaries.com/definition/english/like_3#like_sng_12
+600,reasons why,a2,https://www.oxfordlearnersdictionaries.com/definition/english/reason_1#reason2_e
+601,refer to sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/refer-to#refer_sng_7
+602,regarded as sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/regard_1#regard_sng_1
+603,relate to sth/sb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/relate-to#relate_sng_6
+604,related to sth/sb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/related#related_sng_1
+605,relevant to sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/relevant#relevant_sng_1
+606,rely on sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/rely-on#rely_sng_3
+607,report on sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/report_2#report_sng_1
+608,respect for sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/respect_1#respect_sng_1
+609,respond to sth/sb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/respond#respond_sng_1
+610,result in sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/result_2#result_sng_11
+611,right now,a1,https://www.oxfordlearnersdictionaries.com/definition/english/right_2#right_sng_26
+612,rise in sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/rise_2#rise_sng_1
+613,role model,b2,https://www.oxfordlearnersdictionaries.com/definition/english/role-model#rolemodel_e
+614,run out,b1,https://www.oxfordlearnersdictionaries.com/definition/english/run-out_1#runout3_e
+615,run out of sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/run-out_1#run_sng_167
+616,save money,a2,https://www.oxfordlearnersdictionaries.com/definition/english/save_1#save_sng_5
+617,science fiction,a2,https://www.oxfordlearnersdictionaries.com/definition/english/science-fiction#sciencefiction_e
+618,search engine,b1,https://www.oxfordlearnersdictionaries.com/definition/english/search-engine#searchengine_e
+619,search for sth/sb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/search_2#search_sng_3
+620,secondary school,b1,https://www.oxfordlearnersdictionaries.com/definition/english/secondary-school#secondaryschool_e
+621,See you,a1,https://www.oxfordlearnersdictionaries.com/definition/english/see_1#see_sng_25
+622,seek to do sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/seek#seek_sng_4
+623,set out,b2,https://www.oxfordlearnersdictionaries.com/definition/english/set-out#setout2_e
+624,set sth up,b1,https://www.oxfordlearnersdictionaries.com/definition/english/set-up_1#set_sng_121
+625,set to do sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/set_3#set_sng_79
+626,short of sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/short_1#short_sng_5
+627,sit down,a1,https://www.oxfordlearnersdictionaries.com/definition/english/sit-down_1#sitdown4_e
+628,slow down,b1,https://www.oxfordlearnersdictionaries.com/definition/english/slow_2#slow_sng_12
+629,so as to do sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/so_1#so_sng_13
+630,so far,b1,https://www.oxfordlearnersdictionaries.com/definition/english/far_1#far_sng_27
+631,so that…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/so_3#so_sng_22
+632,solution to sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/solution#solution_sng_1
+633,some kind of…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/some_1#some_sng_5
+634,someone else,a1,https://www.oxfordlearnersdictionaries.com/definition/english/someone#someone_sng_1
+635,something like…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/something_1#something_sng_3
+636,sort of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/sort_1#sort_sng_1
+637,sort sb/sth/yourself out,b2,https://www.oxfordlearnersdictionaries.com/definition/english/sort-out_1#sort_sng_26
+638,sound like sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/sound_2#sound_sng_9
+639,speak to sb,a1,https://www.oxfordlearnersdictionaries.com/definition/english/speak_1#speak_sng_1
+640,spend time,a1,https://www.oxfordlearnersdictionaries.com/definition/english/spend_1#spend_sng_2
+641,stand up,a1,https://www.oxfordlearnersdictionaries.com/definition/english/stand-up_2#standup5_e
+642,start with sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/start_1#start_sng_8
+643,stay in,a1,https://www.oxfordlearnersdictionaries.com/definition/english/stay_1#stay_sng_1
+644,stick to sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/stick-to#stick_sng_72
+645,subject to sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/subject_2#subject_sng_7
+646,succeed in doing sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/succeed#succeed_sng_1
+647,such a/an…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/such#such_sng_3
+648,such as,a1,https://www.oxfordlearnersdictionaries.com/definition/english/such#such_sng_6
+649,suffer from sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/suffer#suffer_sng_1
+650,sum up,b2,https://www.oxfordlearnersdictionaries.com/definition/english/sum-up#sumup2_e
+651,sure to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/sure_1#sure_sng_3
+652,swimming pool,a1,https://www.oxfordlearnersdictionaries.com/definition/english/swimming-pool#swimmingpool_e
+653,take advantage of sb/sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/advantage_1#advantage_sng_5
+654,take care of sb/sth/yourself,a2,https://www.oxfordlearnersdictionaries.com/definition/english/care_1#care_sng_9
+655,take off,a2,https://www.oxfordlearnersdictionaries.com/definition/english/take-off_1#takeoff3_e
+656,take over,b2,https://www.oxfordlearnersdictionaries.com/definition/english/take-over#take_sng_193
+657,take part,a2,https://www.oxfordlearnersdictionaries.com/definition/english/part_1#part_sng_27
+658,take place,a2,https://www.oxfordlearnersdictionaries.com/definition/english/place_1#place_sng_36
+659,take sth into account,b2,https://www.oxfordlearnersdictionaries.com/definition/english/account_1#account_sng_20
+660,take sth off,a2,https://www.oxfordlearnersdictionaries.com/definition/english/take-off_1#take_sng_170
+661,take sth up,b1,https://www.oxfordlearnersdictionaries.com/definition/english/take-up_1#take_sng_203
+662,take sth/sb on,b1,https://www.oxfordlearnersdictionaries.com/definition/english/take-on#take_sng_180
+663,take up sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/take-up_1#take_sng_202
+664,talk about sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/talk_1#talk_sng_1
+665,tell the truth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/truth#truth_sng_1
+666,tend to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/tend#tend_sng_1
+667,Thank you,a1,https://www.oxfordlearnersdictionaries.com/definition/english/thank-you_2#thankyou2_e
+668,thanks to sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/thanks_2#thanks_sng_8
+669,that day,a1,https://www.oxfordlearnersdictionaries.com/definition/english/day#day_sng_1
+670,that is,b2,https://www.oxfordlearnersdictionaries.com/definition/english/that_2#that_sng_8
+671,that's it,b1,https://www.oxfordlearnersdictionaries.com/definition/english/that_2#that_sng_9
+672,the 20th century,a1,https://www.oxfordlearnersdictionaries.com/definition/english/century#century_sng_2
+673,the best thing,a2,https://www.oxfordlearnersdictionaries.com/definition/english/thing#thing_sng_7
+674,the case,b1,https://www.oxfordlearnersdictionaries.com/definition/english/case_1#case_sng_2
+675,the extent to which…,c1,https://www.oxfordlearnersdictionaries.com/definition/english/extent#extent_sng_3
+676,the fact that…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/fact#fact_sng_1
+677,the first thing,a2,https://www.oxfordlearnersdictionaries.com/definition/english/thing#thing_sng_5
+678,the following…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/following_1#following_sng_2
+679,the important thing,a2,https://www.oxfordlearnersdictionaries.com/definition/english/important#important_sng_1
+680,the next day,a1,https://www.oxfordlearnersdictionaries.com/definition/english/day#day_sng_1
+681,the other side of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/side_1#side_sng_1
+682,the rest of sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/rest_1#rest_sng_1
+683,the vast majority of sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/vast#vast_sng_1
+684,there is,a1,https://www.oxfordlearnersdictionaries.com/definition/english/there_1#there_sng_1
+685,these days,a2,https://www.oxfordlearnersdictionaries.com/definition/english/day#day_sng_36
+686,they say…,a2,https://www.oxfordlearnersdictionaries.com/definition/english/they#they_sng_3
+687,think about sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/think-about#think_sng_56
+688,think of sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/think-of#think_sng_60
+689,This is…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/this_1#this_sng_3
+690,this kind of…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/kind_1#kind_sng_1
+691,this morning,a1,https://www.oxfordlearnersdictionaries.com/definition/english/morning_1#morning_sng_1
+692,this time,a1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_8
+693,this year,a1,https://www.oxfordlearnersdictionaries.com/definition/english/year#year_sng_1
+694,those who…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/that_2#that_sng_5
+695,thousands of…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/thousand#thousand_sng_2
+696,throw sth away,a2,https://www.oxfordlearnersdictionaries.com/definition/english/throw-away#throw_sng_55
+697,to date,c1,https://www.oxfordlearnersdictionaries.com/definition/english/date_1#date_sng_7
+698,to do with sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/do1_1#do1_sng_27
+699,together with,b1,https://www.oxfordlearnersdictionaries.com/definition/english/together_1#together_sng_7
+700,too bad,b1,https://www.oxfordlearnersdictionaries.com/definition/english/bad_1#bad_sng_18
+701,too long,a1,https://www.oxfordlearnersdictionaries.com/definition/english/long_2#long_sng_30
+702,too much,a1,https://www.oxfordlearnersdictionaries.com/definition/english/much_1#much_sng_1
+703,town centre,a1,https://www.oxfordlearnersdictionaries.com/definition/english/town-centre#towncentre_e
+704,try and…,b1,https://www.oxfordlearnersdictionaries.com/definition/english/try_1#try_sng_1
+705,turn into sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/turn-into#turn_sng_124
+706,turn out,b1,https://www.oxfordlearnersdictionaries.com/definition/english/turn-out#turnout3_e
+707,turn sth off,a2,https://www.oxfordlearnersdictionaries.com/definition/english/turn-off_1#turn_sng_130
+708,turn sth on,a2,https://www.oxfordlearnersdictionaries.com/definition/english/turn-on_1#turn_sng_136
+709,turn sth up,b1,https://www.oxfordlearnersdictionaries.com/definition/english/turn-up_1#turn_sng_165
+710,TV show,a1,https://www.oxfordlearnersdictionaries.com/definition/english/tv#tv_sng_1
+711,unable to do sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/unable#unable_sng_1
+712,up against sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/up_1#up_sng_15
+713,up and down,a2,https://www.oxfordlearnersdictionaries.com/definition/english/up_1#up_sng_16
+714,up to sb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/up_1#up_sng_13
+715,up to sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/up_1#up_sng_26
+716,wait for sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/wait_1#wait_sng_1
+717,wake up,a1,https://www.oxfordlearnersdictionaries.com/definition/english/wake-up#wakeup2_e
+718,way of life,b1,https://www.oxfordlearnersdictionaries.com/definition/english/life_1#way_sng_94
+719,welcome to sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/welcome_1#welcome_sng_12
+720,well known,b1,https://www.oxfordlearnersdictionaries.com/definition/english/well-known#wellknown_e
+721,What about…?,a1,https://www.oxfordlearnersdictionaries.com/definition/english/what#what_sng_11
+722,when it comes to sth,b2,https://www.oxfordlearnersdictionaries.com/definition/english/come_1#come_sng_28
+723,whether or not…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/whether#whether_sng_1
+724,Why not…?,a2,https://www.oxfordlearnersdictionaries.com/definition/english/why_1#why_sng_5
+725,with regard to sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/regard_2#regard_sng_9
+726,with respect to sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/respect_1#respect_sng_7
+727,with the exception of sb/sth,c1,https://www.oxfordlearnersdictionaries.com/definition/english/exception#exception_sng_6
+728,work as sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/work_1#work_sng_2
+729,work for sb/sth,a1,https://www.oxfordlearnersdictionaries.com/definition/english/work_1#work_sng_2
+730,work hard,a1,https://www.oxfordlearnersdictionaries.com/definition/english/work_1#work_sng_1
+731,work on sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/work-on#work_sng_85
+732,work out,a2,https://www.oxfordlearnersdictionaries.com/definition/english/work-out#workout3_e
+733,work sth out,b1,https://www.oxfordlearnersdictionaries.com/definition/english/work-out#work_sng_90
+734,work together,a1,https://www.oxfordlearnersdictionaries.com/definition/english/work_1#work_sng_4
+735,work with sb,a1,https://www.oxfordlearnersdictionaries.com/definition/english/work_1#work_sng_1
+736,worried about sb/sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/worried#worried_sng_1
+737,would like,a1,https://www.oxfordlearnersdictionaries.com/definition/english/like_3#like_sng_16
+738,would love to do sth,a2,https://www.oxfordlearnersdictionaries.com/definition/english/love_2#love_sng_17
+739,would rather…,b2,https://www.oxfordlearnersdictionaries.com/definition/english/rather_1#rather_sng_7
+740,Would you like…?,a1,https://www.oxfordlearnersdictionaries.com/definition/english/would#would_sng_8
+741,write sth down,a2,https://www.oxfordlearnersdictionaries.com/definition/english/write-down_1#write_sng_31
+742,wrong with sb/sth,b1,https://www.oxfordlearnersdictionaries.com/definition/english/wrong_1#wrong_sng_3
+743,X hours a day,a1,https://www.oxfordlearnersdictionaries.com/definition/english/hour#hour_sng_1
+744,X times a…,a1,https://www.oxfordlearnersdictionaries.com/definition/english/time_1#time_sng_8
+745,X years ago,a1,https://www.oxfordlearnersdictionaries.com/definition/english/year#year_sng_2
+746,X years later,a1,https://www.oxfordlearnersdictionaries.com/definition/english/year#year_sng_2
+747,X years old,a1,https://www.oxfordlearnersdictionaries.com/definition/english/year#year_sng_5
+748,you see,b1,https://www.oxfordlearnersdictionaries.com/definition/english/see_1#see_sng_26
+749,You're welcome,a1,https://www.oxfordlearnersdictionaries.com/definition/english/welcome_3#welcome_sng_8
