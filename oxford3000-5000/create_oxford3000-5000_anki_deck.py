@@ -26,7 +26,7 @@ f.write("#deck column:2\n")
 f.write("#tags column:5\n")
 
 template_string = "Basic (type in the answer)\toxford3000-5000\t\"Oxford 3000: {ox3000}<br>Oxford 5000: {ox5000}<br>POS: {pos}<br>Belong to: {belong_to}<br><a href=\"\"{definition}\"\">Definition</a><br>{note}\"\t{word}\t\n"
-note_string = "<ol><li>This is the first meaning.</li><ul><li>This is the first example of the first meaning.</li><li>This is the second one. To do this, we use Ordered List (1, 2, 3, ...) for meanings, then Increase Indent (in Alignment) and use Unordered List for examples.</li></ul><li>This is the second meaning. To do this, we may use Decrease Indent (in Alignment) first.</li><ul><li>This is the second example of the first meaning.</li><li>This is second one. Sometimes, we need to hide keywords. If we want to do that, for example keyword = {}, we can write keyword = ___.</li></ul></ol>"
+note_string = "<ol><li>This is the first meaning.</li><ul><li>This is the first example of the first meaning.</li><li>This is the second one. To do this, we use Ordered List (1, 2, 3, ...) for meanings, then Increase Indent (in Alignment) and use Unordered List for examples.</li></ul><li>This is the second meaning. To do this, we may use Decrease Indent (in Alignment) first.</li><ul><li>This is the second example of the first meaning.</li><li>This is the second one. Sometimes, we need to hide keywords. If we want to do that, for example keyword = {}, we can write keyword = ___.</li></ul></ol>"
 for index, row in db.iterrows():
   note_s = note_string.format(row["word"])
   if str(row["index"]) in note:
