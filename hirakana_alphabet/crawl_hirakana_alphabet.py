@@ -2,8 +2,15 @@ import os.path
 import pathlib
 import requests
 import subprocess
+import itertools
 
 import scrapy
+from PIL import Image
+
+white = (255, 255, 255)
+standard_size = (880, 739)
+paste_pos = (0, 610, 880, 739)
+background = Image.new('RGBA', standard_size, white)
 
 url = "https://www.nhk.or.jp/lesson/en/letters/hiragana.html"
 response = requests.get(url, headers={"User-agent": "Mozilla/5.0"})
@@ -32,4 +39,19 @@ for node in sel.xpath('//div[@class="swiper-slide"]'):
   subprocess.run(["ffmpeg", "-loglevel", "fatal", "-i",
                   "https://vod-stream.nhk.jp/lesson/assets/data/hls/{}/index.m3u8".format(code),
                   "db/{:03d}/audio.mp3".format(code)])
+
+  im = Image.open("db/{:03d}/detail_hira_{}".format(code, name)).convert("RGBA")
+  for coor in itertools.product(range(im.size[0]), range(im.size[1])):
+    if im.getpixel(coor)[0] > 150 and im.getpixel(coor)[1] > 150 and im.getpixel(coor)[2] > 150:
+        im.putpixel(coor, white)
+  im = Image.alpha_composite(background, im.resize(standard_size))
+  im.paste(white, paste_pos)
+  im.save("db/{:03d}/test_hira_{}".format(code, name))
+  im = Image.open("db/{:03d}/detail_kana_{}".format(code, name)).convert("RGBA")
+  for coor in itertools.product(range(im.size[0]), range(im.size[1])):
+    if im.getpixel(coor)[0] > 150 and im.getpixel(coor)[1] > 150 and im.getpixel(coor)[2] > 150:
+        im.putpixel(coor, white)
+  im = Image.alpha_composite(background, im.resize(standard_size))
+  im.paste(white, paste_pos)
+  im.save("db/{:03d}/test_kana_{}".format(code, name))
   print("{:03d} {}".format(code, name))
