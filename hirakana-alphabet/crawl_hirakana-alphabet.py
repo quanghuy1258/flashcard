@@ -38,7 +38,7 @@ for node in sel.xpath('//div[@class="swiper-slide"]'):
 
   subprocess.run(["ffmpeg", "-loglevel", "fatal", "-i",
                   "https://vod-stream.nhk.jp/lesson/assets/data/hls/{}/index.m3u8".format(code),
-                  "db/{:03d}/audio.mp3".format(code)])
+                  "db/{:03d}/audio_{}.mp3".format(code, name[:-4])])
 
   im = Image.open("db/{:03d}/detail_hira_{}".format(code, name)).convert("RGBA")
   for coor in itertools.product(range(im.size[0]), range(im.size[1])):
