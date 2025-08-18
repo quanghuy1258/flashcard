@@ -19,13 +19,15 @@ for hira_item, kana_item in zip(hira_kana_json(24666), hira_kana_json(24667)):
   kana = kana_item["item"]["cue"]["text"]
   en = hira_item["item"]["response"]["text"]
   assert en == kana_item["item"]["response"]["text"]
+  sound_url = hira_item["sound"]
+  assert sound_url == kana_item["sound"]
   if en == "di":
     name = "ji2.png"
   elif en == "du":
     name = "zu2.png"
   else:
     name = "{}.png".format(en)
-  name2hirakana[name] = {"hira": hira, "kana": kana, "en": en}
+  name2hirakana[name] = {"hira": hira, "kana": kana, "en": en, "sound_url": sound_url}
 
 white = (255, 255, 255)
 standard_size = (880, 739)
@@ -60,6 +62,12 @@ for node in sel.xpath('//div[@class="swiper-slide"]'):
                   "https://vod-stream.nhk.jp/lesson/assets/data/hls/{}/index.m3u8".format(code),
                   "db/{:03d}/audio_{}.mp3".format(code, name[:-4])])
 
+  response = requests.get(name2hirakana[name]["sound_url"], headers={"User-agent": "Mozilla/5.0"})
+  if response.status_code != 200:
+    raise Exception("Error code: {}. Please check url = {}".format(response.status_code, name2hirakana[name]["sound_url"]))
+  with open("db/{:03d}/sound_{}.mp3".format(code, name[:-4]), "wb") as f:
+    f.write(response.content)
+
   im = Image.open("db/{:03d}/detail_hira_{}".format(code, name)).convert("RGBA")
   for coor in itertools.product(range(im.size[0]), range(im.size[1])):
     if im.getpixel(coor)[0] > 150 and im.getpixel(coor)[1] > 150 and im.getpixel(coor)[2] > 150:
@@ -67,6 +75,7 @@ for node in sel.xpath('//div[@class="swiper-slide"]'):
   im = Image.alpha_composite(background, im.resize(standard_size))
   im.paste(white, paste_pos)
   im.save("db/{:03d}/test_hira_{}".format(code, name))
+
   im = Image.open("db/{:03d}/detail_kana_{}".format(code, name)).convert("RGBA")
   for coor in itertools.product(range(im.size[0]), range(im.size[1])):
     if im.getpixel(coor)[0] > 150 and im.getpixel(coor)[1] > 150 and im.getpixel(coor)[2] > 150:
