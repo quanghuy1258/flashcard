@@ -21,10 +21,10 @@ for code in listdir("db"):
   kana_img = "test_kana_{}.png".format(label_txt[6:-4])
   f.write(template_string.format(character = hira,
                                  image = hira_img,
-                                 label = en))
+                                 label = "hira, {}".format(en)))
   f.write(template_string.format(character = kana,
                                  image = kana_img,
-                                 label = en))
+                                 label = "kana, {}".format(en)))
   shutil.copy("db/{}/{}".format(code, hira_img), "{}/{}".format(media_folder, hira_img))
   shutil.copy("db/{}/{}".format(code, kana_img), "{}/{}".format(media_folder, kana_img))
 
