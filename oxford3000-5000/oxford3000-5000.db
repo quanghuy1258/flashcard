@@ -1773,8 +1773,8 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 1771,employer,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/employer
 1772,employment,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/employment
 1773,empower,False,True,verb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/empower
-1774,empty,True,True,adjective,a2,https://www.oxfordlearnersdictionaries.com/definition/english/empty_2
-1775,empty,True,True,verb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/empty_3
+1774,empty,True,True,adjective,a2,https://www.oxfordlearnersdictionaries.com/definition/english/empty_1
+1775,empty,True,True,verb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/empty_2
 1776,enable,True,True,verb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/enable
 1777,enact,False,True,verb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/enact
 1778,encompass,False,True,verb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/encompass
