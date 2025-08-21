@@ -511,7 +511,7 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 509,below,True,True,adverb,a1,https://www.oxfordlearnersdictionaries.com/definition/english/below_1
 510,below,True,True,preposition,a1,https://www.oxfordlearnersdictionaries.com/definition/english/below_2
 511,belt,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/belt_1
-512,bench,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/bench
+512,bench,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/bench_1
 513,benchmark,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/benchmark_1
 514,bend,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/bend_2
 515,bend,True,True,verb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/bend_1
@@ -556,7 +556,7 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 554,birthday,True,True,noun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/birthday
 555,biscuit,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/biscuit
 556,bishop,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/bishop
-557,bit,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/bit
+557,bit,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/bit_1
 558,bite,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/bite_2
 559,bite,True,True,verb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/bite_1
 560,bitter,True,True,adjective,b2,https://www.oxfordlearnersdictionaries.com/definition/english/bitter_1
@@ -841,7 +841,7 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 839,chemical,True,True,adjective,b1,https://www.oxfordlearnersdictionaries.com/definition/english/chemical_1
 840,chemical,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/chemical_2
 841,chemistry,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/chemistry
-842,chest,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/chest
+842,chest,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/chest_1
 843,chicken,True,True,noun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/chicken_1
 844,chief,True,True,adjective,b2,https://www.oxfordlearnersdictionaries.com/definition/english/chief_1
 845,chief,True,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/chief_2
@@ -941,7 +941,7 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 939,collapse,True,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/collapse_2
 940,collapse,True,True,verb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/collapse_1
 941,colleague,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/colleague
-942,collect,True,True,verb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/collect_2
+942,collect,True,True,verb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/collect_1
 943,collection,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/collection
 944,collective,False,True,adjective,c1,https://www.oxfordlearnersdictionaries.com/definition/english/collective_1
 945,collector,False,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/collector
@@ -1657,7 +1657,7 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 1655,drum,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/drum_1
 1656,drunk,True,True,adjective,b1,https://www.oxfordlearnersdictionaries.com/definition/english/drunk_1
 1657,dry,True,True,adjective,a2,https://www.oxfordlearnersdictionaries.com/definition/english/dry_1
-1658,dry,True,True,verb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/dry_2
+1658,dry,True,True,verb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/dry_3
 1659,dual,False,True,adjective,c1,https://www.oxfordlearnersdictionaries.com/definition/english/dual
 1660,dub,False,True,verb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/dub_1
 1661,due,True,True,adjective,b1,https://www.oxfordlearnersdictionaries.com/definition/english/due_1
@@ -2043,8 +2043,8 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 2041,favour,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/favour_1
 2042,favour,True,True,verb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/favour_2
 2043,favourable,False,True,adjective,c1,https://www.oxfordlearnersdictionaries.com/definition/english/favourable
-2044,favourite,True,True,adjective,a1,https://www.oxfordlearnersdictionaries.com/definition/english/favourite_2
-2045,favourite,True,True,noun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/favourite_3
+2044,favourite,True,True,adjective,a1,https://www.oxfordlearnersdictionaries.com/definition/english/favourite_1
+2045,favourite,True,True,noun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/favourite_2
 2046,fear,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/fear_1
 2047,fear,True,True,verb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/fear_2
 2048,feat,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/feat
@@ -3118,8 +3118,8 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 3116,long,True,True,adjective,a1,https://www.oxfordlearnersdictionaries.com/definition/english/long_1
 3117,long,True,True,adverb,a1,https://www.oxfordlearnersdictionaries.com/definition/english/long_2
 3118,long-standing,False,True,adjective,c1,https://www.oxfordlearnersdictionaries.com/definition/english/long-standing
-3119,long-term,True,True,adjective,b2,https://www.oxfordlearnersdictionaries.com/definition/english/long-term_2
-3120,long-term,True,True,adverb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/long-term_1
+3119,long-term,True,True,adjective,b2,https://www.oxfordlearnersdictionaries.com/definition/english/long-term_1
+3120,long-term,True,True,adverb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/long-term_2
 3121,long-time,False,True,adjective,c1,https://www.oxfordlearnersdictionaries.com/definition/english/long-time
 3122,look,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/look_2
 3123,look,True,True,verb,a1,https://www.oxfordlearnersdictionaries.com/definition/english/look_1
@@ -3285,7 +3285,7 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 3283,mental,True,True,adjective,b1,https://www.oxfordlearnersdictionaries.com/definition/english/mental_1
 3284,mention,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/mention_2
 3285,mention,True,True,verb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/mention_1
-3286,mentor,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/mentor
+3286,mentor,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/mentor_1
 3287,menu,True,True,noun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/menu
 3288,merchant,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/merchant_1
 3289,mercy,False,True,noun,c1,https://www.oxfordlearnersdictionaries.com/definition/english/mercy
@@ -3673,8 +3673,8 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 3671,original,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/original_2
 3672,originally,True,True,adverb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/originally
 3673,originate,False,True,verb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/originate
-3674,other,True,True,adjective,a1,https://www.oxfordlearnersdictionaries.com/definition/english/other
-3675,other,True,True,pronoun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/other
+3674,other,True,True,adjective,a1,https://www.oxfordlearnersdictionaries.com/definition/english/other_1
+3675,other,True,True,pronoun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/other_1
 3676,otherwise,True,True,adverb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/otherwise
 3677,ought,True,True,modal verb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/ought-to
 3678,our,True,True,determiner,a1,https://www.oxfordlearnersdictionaries.com/definition/english/our
@@ -3724,8 +3724,8 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 3722,owner,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/owner
 3723,ownership,False,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/ownership
 3724,oxygen,False,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/oxygen_1
-3725,pace,True,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/pace1
-3726,pace,True,True,verb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/pace_1
+3725,pace,True,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/pace1_1
+3726,pace,True,True,verb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/pace1_2
 3727,pack,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/pack_2
 3728,pack,True,True,verb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/pack_1
 3729,package,True,True,noun,b1,https://www.oxfordlearnersdictionaries.com/definition/english/package_1
@@ -4300,7 +4300,7 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 4298,record,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/record_1
 4299,record,True,True,verb,a2,https://www.oxfordlearnersdictionaries.com/definition/english/record_2
 4300,recording,True,True,noun,a2,https://www.oxfordlearnersdictionaries.com/definition/english/recording
-4301,recount,False,True,verb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/recount1
+4301,recount,False,True,verb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/recount1_1
 4302,recover,True,True,verb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/recover
 4303,recovery,False,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/recovery
 4304,recruit,False,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/recruit_2
@@ -4458,7 +4458,7 @@ index,word,ox3000,ox5000,pos,belong_to,definition
 4456,result,True,True,noun,a1,https://www.oxfordlearnersdictionaries.com/definition/english/result_1
 4457,result,True,True,verb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/result_2
 4458,resume,False,True,verb,c1,https://www.oxfordlearnersdictionaries.com/definition/english/resume_1
-4459,retail,False,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/retail1_1
+4459,retail,False,True,noun,b2,https://www.oxfordlearnersdictionaries.com/definition/english/retail_1
 4460,retain,True,True,verb,b2,https://www.oxfordlearnersdictionaries.com/definition/english/retain
 4461,retire,True,True,verb,b1,https://www.oxfordlearnersdictionaries.com/definition/english/retire
 4462,retired,True,True,adjective,b1,https://www.oxfordlearnersdictionaries.com/definition/english/retired
