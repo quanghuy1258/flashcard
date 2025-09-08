@@ -19,6 +19,12 @@ for code in listdir("db"):
     hira, kana, en = label_file.read().splitlines()
   hira_img = "test_hira_{}.png".format(label_txt[6:-4])
   kana_img = "test_kana_{}.png".format(label_txt[6:-4])
+  if label_txt in ["label_he.txt"]:
+    f.write(template_string.format(character = hira,
+                                   image = hira_img,
+                                   label = "hira+kana, {}".format(en)))
+    shutil.copy("db/{}/{}".format(code, hira_img), "{}/{}".format(media_folder, hira_img))
+    continue
   f.write(template_string.format(character = hira,
                                  image = hira_img,
                                  label = "hira, {}".format(en)))
