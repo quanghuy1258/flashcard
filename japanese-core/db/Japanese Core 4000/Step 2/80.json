@@ -1,0 +1,18 @@
+{
+  "ja": "券",
+  "hrkt": "けん",
+  "latn": "ken",
+  "en": "voucher, ticket",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01694A.mp3",
+  "sentences": [
+    {
+      "ja": "入場<b>券</b>をお持ちですか。",
+      "hrkt": "にゅうじょう <b>けん</b> を おもち です か。",
+      "latn": "nyuujou <b>ken</b> wo omochi desu ka.",
+      "en": "Do you have an admission ticket?",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/717u4g40n4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01694A.mp3"
+    }
+  ]
+}

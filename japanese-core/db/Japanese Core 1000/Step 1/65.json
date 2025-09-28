@@ -1,0 +1,26 @@
+{
+  "ja": "呼ぶ",
+  "hrkt": "よぶ",
+  "latn": "yobu",
+  "en": "call, name",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09717A.mp3",
+  "sentences": [
+    {
+      "ja": "ウェイターを<b>呼びましょう</b>。",
+      "hrkt": "ウェイター を <b>よびましょう</b>。",
+      "latn": "weita- wo <b>yobimashou</b>.",
+      "en": "Let's call the waiter.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2440276.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09717A.mp3"
+    },
+    {
+      "ja": "タクシーを<b>呼んで</b>ください。",
+      "hrkt": "タクシー を <b>よんで</b> ください。",
+      "latn": "takushi- wo <b>yonde</b> kudasai.",
+      "en": "Please call a taxi.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5704470.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05312A.mp3"
+    }
+  ]
+}

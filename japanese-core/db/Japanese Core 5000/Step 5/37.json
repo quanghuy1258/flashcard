@@ -1,0 +1,18 @@
+{
+  "ja": "肌着",
+  "hrkt": "はだぎ",
+  "latn": "hadagi",
+  "en": "undergarment",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03379A.mp3",
+  "sentences": [
+    {
+      "ja": "寒いので暖かい<b>肌着</b>を着ました。",
+      "hrkt": "さむい ので あたたかい <b>はだぎ</b> を きました。",
+      "latn": "samui node atatakai <b>hadagi</b> wo kimashita.",
+      "en": "It was cold, so I put on some warm undergarment.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03379A.mp3"
+    }
+  ]
+}

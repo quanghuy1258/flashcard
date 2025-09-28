@@ -1,0 +1,26 @@
+{
+  "ja": "問題",
+  "hrkt": "もんだい",
+  "latn": "mondai",
+  "en": "problem, question",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09359A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>問題</b>が一つあります。",
+      "hrkt": "<b>もんだい</b> が ひとつ あります。",
+      "latn": "<b>mondai</b> ga hitotsu arimasu.",
+      "en": "There's one problem.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5483714.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09359A.mp3"
+    },
+    {
+      "ja": "この<b>問題</b>はかなり易しいです。",
+      "hrkt": "この <b>もんだい</b> は かなり やさしい です。",
+      "latn": "kono <b>mondai</b> ha kanari yasashii desu.",
+      "en": "This problem is fairly easy.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5984971.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09402A.mp3"
+    }
+  ]
+}

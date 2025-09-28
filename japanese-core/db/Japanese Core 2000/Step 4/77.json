@@ -1,0 +1,26 @@
+{
+  "ja": "作品",
+  "hrkt": "さくひん",
+  "latn": "sakuhin",
+  "en": "work of art, creation",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03394A.mp3",
+  "sentences": [
+    {
+      "ja": "この絵はゴッホの<b>作品</b>だ。",
+      "hrkt": "この え は ゴッホ の <b>さくひん</b> だ。",
+      "latn": "kono e ha gohho no <b>sakuhin</b> da.",
+      "en": "This painting is one of van Gogh's works.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1369139.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03394A.mp3"
+    },
+    {
+      "ja": "彼の<b>作品</b>はいつも高く売れます。",
+      "hrkt": "かれ の <b>さくひん</b> は いつも たかく うれます。",
+      "latn": "kare no <b>sakuhin</b> ha itsumo takaku uremasu.",
+      "en": "His works of art always sells at a high price.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/450e5oe7nk.mp3"
+    }
+  ]
+}

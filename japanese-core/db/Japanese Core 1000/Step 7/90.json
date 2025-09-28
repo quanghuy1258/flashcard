@@ -1,0 +1,26 @@
+{
+  "ja": "課題",
+  "hrkt": "かだい",
+  "latn": "kadai",
+  "en": "task, assignment",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01634A.mp3",
+  "sentences": [
+    {
+      "ja": "夏休みの<b>課題</b>は何ですか。",
+      "hrkt": "なつやすみ の <b>かだい</b> は なん です か。",
+      "latn": "natsuyasumi no <b>kadai</b> ha nan desu ka.",
+      "en": "What's our summer assignment?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5708312.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01634A.mp3"
+    },
+    {
+      "ja": "姉が日本語の<b>課題</b>を手伝ってくれた。",
+      "hrkt": "あね が にほん ご の <b>かだい</b> を てつだって くれた。",
+      "latn": "ane ga nihon go no <b>kadai</b> wo tetsudatte kureta.",
+      "en": "My older sister helped me with my Japanese assignment.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a2cfbobdbk.mp3"
+    }
+  ]
+}

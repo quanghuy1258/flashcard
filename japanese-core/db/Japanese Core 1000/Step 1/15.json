@@ -1,0 +1,26 @@
+{
+  "ja": "持つ",
+  "hrkt": "もつ",
+  "latn": "motsu",
+  "en": "have, possess",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09291A.mp3",
+  "sentences": [
+    {
+      "ja": "私は車を<b>持って</b>います。",
+      "hrkt": "わたし は くるま を <b>もって</b> います。",
+      "latn": "watashi ha kuruma wo <b>motte</b> imasu.",
+      "en": "I have a car.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4648939.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09291A.mp3"
+    },
+    {
+      "ja": "私は黒いバッグを<b>持って</b>います。",
+      "hrkt": "わたし は くろい バッグ を <b>もって</b> います。",
+      "latn": "watashi ha kuroi baggu wo <b>motte</b> imasu.",
+      "en": "I have a black bag.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5468502.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07365A.mp3"
+    }
+  ]
+}

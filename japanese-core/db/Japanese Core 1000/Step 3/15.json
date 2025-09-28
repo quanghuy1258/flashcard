@@ -1,0 +1,26 @@
+{
+  "ja": "手伝う",
+  "hrkt": "てつだう",
+  "latn": "tetsudau",
+  "en": "help, assist",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06098A.mp3",
+  "sentences": [
+    {
+      "ja": "私が<b>手伝いましょう</b>。",
+      "hrkt": "わたし が <b>てつだいましょう</b>。",
+      "latn": "watashi ga <b>tetsudaimashou</b>.",
+      "en": "I can help you.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5226438.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06098A.mp3"
+    },
+    {
+      "ja": "宿題、<b>手伝って</b>くれない？",
+      "hrkt": "しゅくだい、 <b>てつだって</b> くれない？",
+      "latn": "shukudai, <b>tetsudatte</b> kurenai?",
+      "en": "Could you help me with my homework?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4630257.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04038A.mp3"
+    }
+  ]
+}

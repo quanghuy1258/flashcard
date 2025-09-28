@@ -1,0 +1,18 @@
+{
+  "ja": "方言",
+  "hrkt": "ほうげん",
+  "latn": "hougen",
+  "en": "dialect",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01640A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>方言</b>で話します。",
+      "hrkt": "かれ は <b>ほうげん</b> で はなします。",
+      "latn": "kare ha <b>hougen</b> de hanashimasu.",
+      "en": "He speaks in a dialect.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01640A.mp3"
+    }
+  ]
+}

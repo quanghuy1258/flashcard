@@ -1,0 +1,26 @@
+{
+  "ja": "大分",
+  "hrkt": "だいぶ",
+  "latn": "daibu",
+  "en": "greatly, fairly, highly",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05250A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>大分</b>ピアノが上手くなりました。",
+      "hrkt": "<b>だいぶ</b> ピアノ が うまく なりました。",
+      "latn": "<b>daibu</b> piano ga umaku narimashita.",
+      "en": "You've become fairly good at the piano.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5246124.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05250A.mp3"
+    },
+    {
+      "ja": "<b>大分</b>早く着きましたね。",
+      "hrkt": "<b>だいぶ</b> はやく つきました ね。",
+      "latn": "<b>daibu</b> hayaku tsukimashita ne.",
+      "en": "We arrived fairly early.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/85fldnbcbk.mp3"
+    }
+  ]
+}

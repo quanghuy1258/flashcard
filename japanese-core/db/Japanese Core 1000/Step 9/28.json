@@ -1,0 +1,26 @@
+{
+  "ja": "細かい",
+  "hrkt": "こまかい",
+  "latn": "komakai",
+  "en": "minute, fine",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03198A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>細かい</b>ことにうるさい。",
+      "hrkt": "かのじょ は <b>こまかい</b> こと に うるさい。",
+      "latn": "kanojo ha <b>komakai</b> koto ni urusai.",
+      "en": "She's fussy about small details.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5457208.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03198A.mp3"
+    },
+    {
+      "ja": "<b>細かい</b>ことはあとで決めましょう。",
+      "hrkt": "<b>こまかい</b> こと は あと で きめましょう。",
+      "latn": "<b>komakai</b> koto ha ato de kimemashou.",
+      "en": "Let's decide on the details later.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/92ce9o2dho.mp3"
+    }
+  ]
+}

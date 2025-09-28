@@ -1,0 +1,18 @@
+{
+  "ja": "方面",
+  "hrkt": "ほうめん",
+  "latn": "houmen",
+  "en": "direction, area",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01311A.mp3",
+  "sentences": [
+    {
+      "ja": "沖縄<b>方面</b>にお出かけの方は台風にご注意ください。",
+      "hrkt": "おきなわ <b>ほうめん</b> に おでかけ の かた は たいふう に ごちゅうい ください。",
+      "latn": "okinawa <b>houmen</b> ni odekake no kata ha taifuu ni gochuui kudasai.",
+      "en": "People heading for the Okinawa area should be careful of typhoons.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01311A.mp3"
+    }
+  ]
+}

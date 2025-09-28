@@ -1,0 +1,18 @@
+{
+  "ja": "海流",
+  "hrkt": "かいりゅう",
+  "latn": "kairyuu",
+  "en": "ocean current",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03016A.mp3",
+  "sentences": [
+    {
+      "ja": "ここで二つの<b>海流</b>が出合っている。",
+      "hrkt": "ここ で ふたつ の <b>かいりゅう</b> が であって いる。",
+      "latn": "koko de futatsu no <b>kairyuu</b> ga deatte iru.",
+      "en": "The two ocean currents converge here.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03016A.mp3"
+    }
+  ]
+}

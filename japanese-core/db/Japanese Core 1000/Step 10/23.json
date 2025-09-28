@@ -1,0 +1,26 @@
+{
+  "ja": "一部",
+  "hrkt": "いちぶ",
+  "latn": "ichibu",
+  "en": "part",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00495A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>一部</b>の生徒は大学に行きませんでした。",
+      "hrkt": "<b>いちぶ</b> の せいと は だいがく に いきません でした。",
+      "latn": "<b>ichibu</b> no seito ha daigaku ni ikimasen deshita.",
+      "en": "Some students didn't go to university.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a16i4k69gc.mp3"
+    },
+    {
+      "ja": "日本はアジアの<b>一部</b>です。",
+      "hrkt": "にほん は アジア の <b>いちぶ</b> です。",
+      "latn": "nihon ha ajia no <b>ichibu</b> desu.",
+      "en": "Japan is part of Asia.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/633r98bli8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "終わり",
+  "hrkt": "おわり",
+  "latn": "owari",
+  "en": "end, finish",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01269A.mp3",
+  "sentences": [
+    {
+      "ja": "夏休みももう<b>終わり</b>だ。",
+      "hrkt": "なつやすみ も もう <b>おわり</b> だ。",
+      "latn": "natsuyasumi mo mou <b>owari</b> da.",
+      "en": "Summer vacation's already over.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5825802.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01269A.mp3"
+    },
+    {
+      "ja": "今日はもう<b>終わり</b>にしましょう。",
+      "hrkt": "きょう は もう <b>おわり</b> に しましょう。",
+      "latn": "kyou ha mou <b>owari</b> ni shimashou.",
+      "en": "Let's finish (what we've been doing) for today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/450u180oak.mp3"
+    }
+  ]
+}

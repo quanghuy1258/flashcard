@@ -1,0 +1,26 @@
+{
+  "ja": "少ない",
+  "hrkt": "すくない",
+  "latn": "sukunai",
+  "en": "few, little",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04547A.mp3",
+  "sentences": [
+    {
+      "ja": "今年は雨が<b>少ない</b>です。",
+      "hrkt": "ことし は あめ が <b>すくない</b> です。",
+      "latn": "kotoshi ha ame ga <b>sukunai</b> desu.",
+      "en": "There's not much rain this year.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4997333.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04547A.mp3"
+    },
+    {
+      "ja": "この町には外人が<b>少ない</b>。",
+      "hrkt": "この まち に は がいじん が <b>すくない</b>。",
+      "latn": "kono machi ni ha gaijin ga <b>sukunai</b>.",
+      "en": "There are few foreigners in this town.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3429833.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01374A.mp3"
+    }
+  ]
+}

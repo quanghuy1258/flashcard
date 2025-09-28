@@ -1,0 +1,26 @@
+{
+  "ja": "教会",
+  "hrkt": "きょうかい",
+  "latn": "kyoukai",
+  "en": "church",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02241A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>教会</b>で結婚式をしました。",
+      "hrkt": "わたし たち は <b>きょうかい</b> で けっこん しき を しました。",
+      "latn": "watashi tachi ha <b>kyoukai</b> de kekkon shiki wo shimashita.",
+      "en": "We had our wedding in a church.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2915572.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02241A.mp3"
+    },
+    {
+      "ja": "母は毎週日曜日に<b>教会</b>に行きます。",
+      "hrkt": "はは は まいしゅう にちようび に <b>きょうかい</b> に いきます。",
+      "latn": "haha ha maishuu nichiyoubi ni <b>kyoukai</b> ni ikimasu.",
+      "en": "My mother goes to church every Sunday.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a2aq2ic9rg.mp3"
+    }
+  ]
+}

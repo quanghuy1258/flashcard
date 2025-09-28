@@ -1,0 +1,18 @@
+{
+  "ja": "論理",
+  "hrkt": "ろんり",
+  "latn": "ronri",
+  "en": "logic",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00635A.mp3",
+  "sentences": [
+    {
+      "ja": "数学は<b>論理</b>に基づく学問です。",
+      "hrkt": "すうがく は <b>ろんり</b> に もとづく がくもん です。",
+      "latn": "suugaku ha <b>ronri</b> ni motozuku gakumon desu.",
+      "en": "Mathematics is a field of study based on logic.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00635A.mp3"
+    }
+  ]
+}

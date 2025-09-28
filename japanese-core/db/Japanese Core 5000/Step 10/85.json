@@ -1,0 +1,18 @@
+{
+  "ja": "遅れ",
+  "hrkt": "おくれ",
+  "latn": "okure",
+  "en": "delay, being late",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01063A.mp3",
+  "sentences": [
+    {
+      "ja": "電車が10分<b>遅れ</b>で到着したんだ。",
+      "hrkt": "でんしゃ が 10 ぷん <b>おくれ</b> で とうちゃく した ん だ。",
+      "latn": "densha ga 10 pun <b>okure</b> de touchaku shita n da.",
+      "en": "The train arrived ten minutes late.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01063A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "断定",
+  "hrkt": "だんてい",
+  "latn": "dantei",
+  "en": "decision, conclusion",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03088A.mp3",
+  "sentences": [
+    {
+      "ja": "まだ原因は<b>断定</b>できません。",
+      "hrkt": "まだ げんいん は <b>だんてい</b> できません。",
+      "latn": "mada genin ha <b>dantei</b> dekimasen.",
+      "en": "The cause is yet to be determined.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03088A.mp3"
+    }
+  ]
+}

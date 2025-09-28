@@ -1,0 +1,18 @@
+{
+  "ja": "生理",
+  "hrkt": "せいり",
+  "latn": "seiri",
+  "en": "period, menstruation",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02777A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、<b>生理</b>が始まったの。",
+      "hrkt": "きのう、<b>せいり</b> が はじまった の。",
+      "latn": "kinou,<b>seiri</b> ga hajimatta no.",
+      "en": "My period started yesterday.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02777A.mp3"
+    }
+  ]
+}

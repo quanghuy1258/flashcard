@@ -1,0 +1,18 @@
+{
+  "ja": "締め切り",
+  "hrkt": "しめきり",
+  "latn": "shimekiri",
+  "en": "deadline",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01903A.mp3",
+  "sentences": [
+    {
+      "ja": "申し込みの<b>締め切り</b>はいつですか。",
+      "hrkt": "もうしこみ の <b>しめきり</b> は いつ です か。",
+      "latn": "moushikomi no <b>shimekiri</b> ha itsu desu ka.",
+      "en": "When is the deadline for the application?",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/853id7fboo.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01903A.mp3"
+    }
+  ]
+}

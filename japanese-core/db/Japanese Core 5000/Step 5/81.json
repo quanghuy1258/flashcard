@@ -1,0 +1,18 @@
+{
+  "ja": "電卓",
+  "hrkt": "でんたく",
+  "latn": "dentaku",
+  "en": "calculator",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01806A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>電卓</b>はポケットに入ります。",
+      "hrkt": "この <b>でんたく</b> は ポケット に はいります。",
+      "latn": "kono <b>dentaku</b> ha poketto ni hairimasu.",
+      "en": "This calculator fits in your pocket.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01806A.mp3"
+    }
+  ]
+}

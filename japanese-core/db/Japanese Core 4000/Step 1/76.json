@@ -1,0 +1,18 @@
+{
+  "ja": "分類",
+  "hrkt": "ぶんるい",
+  "latn": "bunrui",
+  "en": "classification",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00332A.mp3",
+  "sentences": [
+    {
+      "ja": "これらの本を<b>分類</b>してください。",
+      "hrkt": "これら の ほん を <b>ぶんるい</b> して ください。",
+      "latn": "korera no hon wo <b>bunrui</b> shite kudasai.",
+      "en": "Please classify these books.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d39q9pfh7g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00332A.mp3"
+    }
+  ]
+}

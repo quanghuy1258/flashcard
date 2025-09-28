@@ -1,0 +1,18 @@
+{
+  "ja": "宝石",
+  "hrkt": "ほうせき",
+  "latn": "houseki",
+  "en": "gem, jewel",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01310A.mp3",
+  "sentences": [
+    {
+      "ja": "私が一番好きな<b>宝石</b>はダイヤモンドなの。",
+      "hrkt": "わたし が いちばん すきな <b>ほうせき</b> は ダイヤモンド な の。",
+      "latn": "watashi ga ichiban sukina <b>houseki</b> ha daiyamondo na no.",
+      "en": "Diamond is my favorite jewel.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01310A.mp3"
+    }
+  ]
+}

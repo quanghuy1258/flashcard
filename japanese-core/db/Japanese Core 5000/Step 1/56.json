@@ -1,0 +1,18 @@
+{
+  "ja": "初級",
+  "hrkt": "しょきゅう",
+  "latn": "shokyuu",
+  "en": "beginner class, elementary level",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02823A.mp3",
+  "sentences": [
+    {
+      "ja": "これは<b>初級</b>の教科書です。",
+      "hrkt": "これ は <b>しょきゅう</b> の きょうかしょ です。",
+      "latn": "kore ha <b>shokyuu</b> no kyoukasho desu.",
+      "en": "This is a beginner's textbook.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02823A.mp3"
+    }
+  ]
+}

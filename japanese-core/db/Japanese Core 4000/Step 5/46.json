@@ -1,0 +1,18 @@
+{
+  "ja": "目次",
+  "hrkt": "もくじ",
+  "latn": "mokuji",
+  "en": "table of contents",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03402A.mp3",
+  "sentences": [
+    {
+      "ja": "読みたい章を<b>目次</b>で探しました。",
+      "hrkt": "よみたい しょう を <b>もくじ</b> で さがしました。",
+      "latn": "yomitai shou wo <b>mokuji</b> de sagashimashita.",
+      "en": "I looked for the chapter I wanted to read in the table of contents.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03402A.mp3"
+    }
+  ]
+}

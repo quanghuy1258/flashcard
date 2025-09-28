@@ -1,0 +1,26 @@
+{
+  "ja": "すいか",
+  "hrkt": "すいか",
+  "latn": "suika",
+  "en": "watermelon",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04469A.mp3",
+  "sentences": [
+    {
+      "ja": "夏は<b>すいか</b>が美味しい。",
+      "hrkt": "なつ は <b>すいか</b> が おいしい。",
+      "latn": "natsu ha <b>suika</b> ga oishii.",
+      "en": "Watermelon is delicious in summer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3584369.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04469A.mp3"
+    },
+    {
+      "ja": "<b>すいか</b>に塩をかける人もいます。",
+      "hrkt": "<b>すいか</b> に しお を かける ひと も います。",
+      "latn": "<b>suika</b> ni shio wo kakeru hito mo imasu.",
+      "en": "Some people salt (their) watermelon.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c62k8ud4to.mp3"
+    }
+  ]
+}

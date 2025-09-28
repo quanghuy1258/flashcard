@@ -1,0 +1,26 @@
+{
+  "ja": "所",
+  "hrkt": "ところ",
+  "latn": "tokoro",
+  "en": "place",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06416A.mp3",
+  "sentences": [
+    {
+      "ja": "私は友達の<b>所</b>に泊まった。",
+      "hrkt": "わたし は ともだち の <b>ところ</b> に とまった。",
+      "latn": "watashi ha tomodachi no <b>tokoro</b> ni tomatta.",
+      "en": "I stayed at my friend's place for the night.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1875761.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06416A.mp3"
+    },
+    {
+      "ja": "今年の夏休みには静かな<b>所</b>へ行きたい。",
+      "hrkt": "ことし の なつやすみ に は しずかな <b>ところ</b> へ いきたい。",
+      "latn": "kotoshi no natsuyasumi ni ha shizukana <b>tokoro</b> he ikitai.",
+      "en": "I want to go to a quiet place this summer vacation.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4923968.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03696A.mp3"
+    }
+  ]
+}

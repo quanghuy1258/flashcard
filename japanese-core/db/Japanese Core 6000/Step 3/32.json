@@ -1,0 +1,18 @@
+{
+  "ja": "忠告",
+  "hrkt": "ちゅうこく",
+  "latn": "chuukoku",
+  "en": "advice, warning",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02071A.mp3",
+  "sentences": [
+    {
+      "ja": "先生からの<b>忠告</b>を聞くべきだよ。",
+      "hrkt": "せんせい から の <b>ちゅうこく</b> を きく べき だ よ。",
+      "latn": "sensei kara no <b>chuukoku</b> wo kiku beki da yo.",
+      "en": "You should follow your teacher's advice.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02071A.mp3"
+    }
+  ]
+}

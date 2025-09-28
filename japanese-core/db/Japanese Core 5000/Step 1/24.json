@@ -1,0 +1,18 @@
+{
+  "ja": "校舎",
+  "hrkt": "こうしゃ",
+  "latn": "kousha",
+  "en": "school building",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01265A.mp3",
+  "sentences": [
+    {
+      "ja": "古い<b>校舎</b>の修理が必要です。",
+      "hrkt": "ふるい <b>こうしゃ</b> の しゅうり が ひつよう です。",
+      "latn": "furui <b>kousha</b> no shuuri ga hitsuyou desu.",
+      "en": "The old school building needs to be repaired.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01265A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "出発",
+  "hrkt": "しゅっぱつ",
+  "latn": "shuppatsu",
+  "en": "departure, starting",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04075A.mp3",
+  "sentences": [
+    {
+      "ja": "あと15分で<b>出発</b>です。",
+      "hrkt": "あと 15 ふん で <b>しゅっぱつ</b> です。",
+      "latn": "ato 15 fun de <b>shuppatsu</b> desu.",
+      "en": "Departure will be in fifteen minutes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6217674.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04075A.mp3"
+    },
+    {
+      "ja": "明日はいよいよ<b>出発</b>の日です。",
+      "hrkt": "あした は いよいよ <b>しゅっぱつ</b> の ひ です。",
+      "latn": "ashita ha iyoiyo <b>shuppatsu</b> no hi desu.",
+      "en": "We'll finally leave here tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3257236.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00810A.mp3"
+    }
+  ]
+}

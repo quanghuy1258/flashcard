@@ -1,0 +1,18 @@
+{
+  "ja": "網",
+  "hrkt": "あみ",
+  "latn": "ami",
+  "en": "net",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01575A.mp3",
+  "sentences": [
+    {
+      "ja": "少年は<b>網</b>でそのちょうを捕まえた。",
+      "hrkt": "しょうねん は <b>あみ</b> で その ちょう を つかまえた。",
+      "latn": "shounen ha <b>ami</b> de sono chou wo tsukamaeta.",
+      "en": "The boy caught the butterfly with his net.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01575A.mp3"
+    }
+  ]
+}

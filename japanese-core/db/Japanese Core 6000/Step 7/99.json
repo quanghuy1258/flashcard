@@ -1,0 +1,18 @@
+{
+  "ja": "諸国",
+  "hrkt": "しょこく",
+  "latn": "shokoku",
+  "en": "various countries",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04292A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はヨーロッパ<b>諸国</b>を旅行した。",
+      "hrkt": "かれ は ヨーロッパ <b>しょこく</b> を りょこう した。",
+      "latn": "kare ha yo-roppa <b>shokoku</b> wo ryokou shita.",
+      "en": "He traveled through various European countries.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04292A.mp3"
+    }
+  ]
+}

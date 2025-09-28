@@ -1,0 +1,26 @@
+{
+  "ja": "つぶる",
+  "hrkt": "つぶる",
+  "latn": "tsuburu",
+  "en": "close (eyes)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03751A.mp3",
+  "sentences": [
+    {
+      "ja": "目を<b>つぶって</b>ください。",
+      "hrkt": "め を <b>つぶって</b> ください。",
+      "latn": "me wo <b>tsubutte</b> kudasai.",
+      "en": "Close your eyes.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/dl6b9eetednfc.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03751A.mp3"
+    },
+    {
+      "ja": "私は目を<b>つぶって</b>よく考えました。",
+      "hrkt": "わたし は め を <b>つぶって</b> よく かんがえました。",
+      "latn": "watashi ha me wo <b>tsubutte</b> yoku kangaemashita.",
+      "en": "I closed my eyes and thought carefully.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/93be8o061c.mp3"
+    }
+  ]
+}

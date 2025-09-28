@@ -1,0 +1,26 @@
+{
+  "ja": "小包",
+  "hrkt": "こづつみ",
+  "latn": "kozutsumi",
+  "en": "parcel, package",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03153A.mp3",
+  "sentences": [
+    {
+      "ja": "フランスの友達から<b>小包</b>が届いた。",
+      "hrkt": "フランス の ともだち から <b>こづつみ</b> が とどいた。",
+      "latn": "furansu no tomodachi kara <b>kozutsumi</b> ga todoita.",
+      "en": "A package arrived from my friend in France.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5661589.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03153A.mp3"
+    },
+    {
+      "ja": "イギリスに<b>小包</b>を送るのにいくらかかりますか。",
+      "hrkt": "イギリス に <b>こづつみ</b> を おくる の に いくら かかります か。",
+      "latn": "igirisu ni <b>kozutsumi</b> wo okuru no ni ikura kakarimasu ka.",
+      "en": "How much does it cost to send a parcel to England?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/96f4cj2urs.mp3"
+    }
+  ]
+}

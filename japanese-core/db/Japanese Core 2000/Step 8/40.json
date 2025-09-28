@@ -1,0 +1,26 @@
+{
+  "ja": "大幅",
+  "hrkt": "おおはば",
+  "latn": "oohaba",
+  "en": "drastically, substantially",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00989A.mp3",
+  "sentences": [
+    {
+      "ja": "計画を<b>大幅</b>に変更した。",
+      "hrkt": "けいかく を <b>おおはば</b> に へんこう した。",
+      "latn": "keikaku wo <b>oohaba</b> ni henkou shita.",
+      "en": "We made a substantial change to the plan.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2655923.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00989A.mp3"
+    },
+    {
+      "ja": "野菜の値段が<b>大幅</b>に上がりました。",
+      "hrkt": "やさい の ねだん が <b>おおはば</b> に あがりました。",
+      "latn": "yasai no nedan ga <b>oohaba</b> ni agarimashita.",
+      "en": "The prices of vegetables have drastically gone up.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a6cmal2tbk.mp3"
+    }
+  ]
+}

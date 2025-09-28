@@ -1,0 +1,18 @@
+{
+  "ja": "法学部",
+  "hrkt": "ほうがくぶ",
+  "latn": "hougakubu",
+  "en": "faculty of law",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02054A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>法学部</b>の学生です。",
+      "hrkt": "かのじょ は <b>ほう がくぶ</b> の がくせい です。",
+      "latn": "kanojo ha <b>hou gakubu</b> no gakusei desu.",
+      "en": "She's a student in the Department of Law.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02054A.mp3"
+    }
+  ]
+}

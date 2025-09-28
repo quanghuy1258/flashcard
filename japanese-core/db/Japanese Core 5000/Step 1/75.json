@@ -1,0 +1,18 @@
+{
+  "ja": "省く",
+  "hrkt": "はぶく",
+  "latn": "habuku",
+  "en": "omit",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01947A.mp3",
+  "sentences": [
+    {
+      "ja": "時間がないので詳細は<b>省きます</b>。",
+      "hrkt": "じかん が ない ので しょうさい は <b>はぶきます</b>。",
+      "latn": "jikan ga nai node shousai ha <b>habukimasu</b>.",
+      "en": "We don't have much time, so we'll omit the details.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01947A.mp3"
+    }
+  ]
+}

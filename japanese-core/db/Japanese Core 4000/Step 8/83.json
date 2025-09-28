@@ -1,0 +1,18 @@
+{
+  "ja": "狂う",
+  "hrkt": "くるう",
+  "latn": "kuruu",
+  "en": "become insane, get out of order",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01764A.mp3",
+  "sentences": [
+    {
+      "ja": "この時計はすぐ<b>狂う</b>の。",
+      "hrkt": "この とけい は すぐ <b>くるう</b> の。",
+      "latn": "kono tokei ha sugu <b>kuruu</b> no.",
+      "en": "This clock often gets out of whack.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01764A.mp3"
+    }
+  ]
+}

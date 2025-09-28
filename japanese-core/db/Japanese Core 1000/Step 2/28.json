@@ -1,0 +1,26 @@
+{
+  "ja": "姉",
+  "hrkt": "あね",
+  "latn": "ane",
+  "en": "(one's own) older sister",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00200A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>姉</b>は大学生です。",
+      "hrkt": "<b>あね</b> は だいがくせい です。",
+      "latn": "<b>ane</b> ha daigakusei desu.",
+      "en": "My big sister's a college student.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5657620.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00200A.mp3"
+    },
+    {
+      "ja": "<b>姉</b>は銀行で働いています。",
+      "hrkt": "<b>あね</b> は ぎんこう で はたらいて います。",
+      "latn": "<b>ane</b> ha ginkou de hataraite imasu.",
+      "en": "My big sister works at a bank.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3700093.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07338A.mp3"
+    }
+  ]
+}

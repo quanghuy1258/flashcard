@@ -1,0 +1,26 @@
+{
+  "ja": "細か",
+  "hrkt": "こまか",
+  "latn": "komaka",
+  "en": "small, fine, detailed",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03199A.mp3",
+  "sentences": [
+    {
+      "ja": "それは<b>細か</b>な問題です。",
+      "hrkt": "それ は <b>こまか</b>な もんだい です。",
+      "latn": "sore ha <b>komaka</b>na mondai desu.",
+      "en": "That's a small but complex issue.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1533233.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03199A.mp3"
+    },
+    {
+      "ja": "彼女は<b>細か</b>な気づかいができる人です。",
+      "hrkt": "かのじょ は <b>こまか</b>な きづかい が できる ひと です。",
+      "latn": "kanojo ha <b>komaka</b>na kizukai ga dekiru hito desu.",
+      "en": "She is a person who can be considerate even about small things.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/659fcqf0g0.mp3"
+    }
+  ]
+}

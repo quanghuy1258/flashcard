@@ -1,0 +1,18 @@
+{
+  "ja": "出国",
+  "hrkt": "しゅっこく",
+  "latn": "shukkoku",
+  "en": "departure (from a country)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01276A.mp3",
+  "sentences": [
+    {
+      "ja": "1週間後に<b>出国</b>します。",
+      "hrkt": "1 しゅうかん ご に <b>しゅっこく</b> します。",
+      "latn": "1 shuukan go ni <b>shukkoku</b> shimasu.",
+      "en": "I'm leaving the country in one week.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01276A.mp3"
+    }
+  ]
+}

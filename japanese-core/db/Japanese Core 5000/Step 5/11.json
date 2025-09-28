@@ -1,0 +1,18 @@
+{
+  "ja": "伝染",
+  "hrkt": "でんせん",
+  "latn": "densen",
+  "en": "contagion, infection",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03153A.mp3",
+  "sentences": [
+    {
+      "ja": "その国ではコレラの<b>伝染</b>がまん延しています。",
+      "hrkt": "その くに で は コレラ の <b>でんせん</b> が まんえん して います。",
+      "latn": "sono kuni de ha korera no <b>densen</b> ga manen shite imasu.",
+      "en": "There's an epidemic of cholera in that country.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03153A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "考える",
+  "hrkt": "かんがえる",
+  "latn": "kangaeru",
+  "en": "think, consider",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01880A.mp3",
+  "sentences": [
+    {
+      "ja": "よく<b>考えて</b>ください。",
+      "hrkt": "よく <b>かんがえて</b> ください。",
+      "latn": "yoku <b>kangaete</b> kudasai.",
+      "en": "Please think carefully.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5296473.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01880A.mp3"
+    },
+    {
+      "ja": "今、何を<b>考えて</b>いたんですか。",
+      "hrkt": "いま、なに を <b>かんがえて</b> いた ん です か。",
+      "latn": "ima,nani wo <b>kangaete</b> ita n desu ka.",
+      "en": "What were you thinking about just now?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e44b9ec27c.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "びっくりする",
+  "hrkt": "びっくりする",
+  "latn": "bikkurisuru",
+  "en": "be surprised, be startled (casual)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07725A.mp3",
+  "sentences": [
+    {
+      "ja": "大きな音に<b>びっくりしました</b>。",
+      "hrkt": "おおきな おと に <b>びっくり しました</b>。",
+      "latn": "ookina oto ni <b>bikkuri shimashita</b>.",
+      "en": "I was startled by a sudden noise.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2651996.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07725A.mp3"
+    },
+    {
+      "ja": "急に名前を呼ばれて<b>びっくりしました</b>。",
+      "hrkt": "きゅう に なまえ を よばれて <b>びっくり しました</b>。",
+      "latn": "kyuu ni namae wo yobarete <b>bikkuri shimashita</b>.",
+      "en": "I was surprised when my name was suddenly called.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/03avd0bqmk.mp3"
+    }
+  ]
+}

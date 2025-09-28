@@ -1,0 +1,18 @@
+{
+  "ja": "闘う",
+  "hrkt": "たたかう",
+  "latn": "tatakau",
+  "en": "fight, battle",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00461A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は病気と<b>闘った</b>の。",
+      "hrkt": "かれ は びょうき と <b>たたかった</b> の。",
+      "latn": "kare ha byouki to <b>tatakatta</b> no.",
+      "en": "He battled against his illness.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01786A.mp3"
+    }
+  ]
+}

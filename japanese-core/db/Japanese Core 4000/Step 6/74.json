@@ -1,0 +1,18 @@
+{
+  "ja": "飼う",
+  "hrkt": "かう",
+  "latn": "kau",
+  "en": "keep (an animal)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01050A.mp3",
+  "sentences": [
+    {
+      "ja": "ペットを<b>飼った</b>ことはありますか。",
+      "hrkt": "ペット を <b>かった</b> こと は あります か。",
+      "latn": "petto wo <b>katta</b> koto ha arimasu ka.",
+      "en": "Have you ever had a pet?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01050A.mp3"
+    }
+  ]
+}

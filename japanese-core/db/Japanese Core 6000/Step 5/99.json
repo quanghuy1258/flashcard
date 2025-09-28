@@ -1,0 +1,18 @@
+{
+  "ja": "野原",
+  "hrkt": "のはら",
+  "latn": "nohara",
+  "en": "open field",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02391A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>野原</b>で花をつんだの。",
+      "hrkt": "わたし たち は <b>のはら</b> で はな を つんだ の。",
+      "latn": "watashi tachi ha <b>nohara</b> de hana wo tsunda no.",
+      "en": "We picked flowers in the field.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02391A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "喉",
+  "hrkt": "のど",
+  "latn": "nodo",
+  "en": "throat",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03812A.mp3",
+  "sentences": [
+    {
+      "ja": "風邪をひいて<b>喉</b>が痛いです。",
+      "hrkt": "かぜ を ひいて <b>のど</b> が いたい です。",
+      "latn": "kaze wo hiite <b>nodo</b> ga itai desu.",
+      "en": "I have a cold and a sore throat.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/559vdnb9n8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03812A.mp3?1220181198"
+    },
+    {
+      "ja": "<b>喉</b>が渇きました。",
+      "hrkt": "<b>のど</b> が かわきました。",
+      "latn": "<b>nodo</b> ga kawakimashita.",
+      "en": "I'm thirsty.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3555306.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01855A.mp3"
+    }
+  ]
+}

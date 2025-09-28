@@ -1,0 +1,18 @@
+{
+  "ja": "濡らす",
+  "hrkt": "ぬらす",
+  "latn": "nurasu",
+  "en": "get (something) wet",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03801A.mp3",
+  "sentences": [
+    {
+      "ja": "携帯電話を水で<b>濡らして</b>しまったんだ。",
+      "hrkt": "けいたい でんわ を みず で <b>ぬらして</b> しまった んだ。",
+      "latn": "keitai denwa wo mizu de <b>nurashite</b> shimatta nda.",
+      "en": "I got my cell phone wet.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d580cs60cc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03801A.mp3"
+    }
+  ]
+}

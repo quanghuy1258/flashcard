@@ -1,0 +1,18 @@
+{
+  "ja": "受け止める",
+  "hrkt": "うけとめる",
+  "latn": "uketomeru",
+  "en": "catch, receive",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01026A.mp3",
+  "sentences": [
+    {
+      "ja": "ボールが速すぎて<b>受け止められなかった</b>の。",
+      "hrkt": "ボール が はや すぎて <b>うけとめられなかった</b> の。",
+      "latn": "bo-ru ga haya sugite <b>uketomerarenakatta</b> no.",
+      "en": "The ball was thrown so fast that I couldn't catch it.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01026A.mp3"
+    }
+  ]
+}

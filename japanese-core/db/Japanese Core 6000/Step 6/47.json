@@ -1,0 +1,18 @@
+{
+  "ja": "乗り出す",
+  "hrkt": "のりだす",
+  "latn": "noridasu",
+  "en": "lean forward, embark on",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00032A.mp3",
+  "sentences": [
+    {
+      "ja": "船が長い航海に<b>乗り出した</b>の。",
+      "hrkt": "ふね が ながい こうかい に <b>のりだした</b> の。",
+      "latn": "fune ga nagai koukai ni <b>noridashita</b> no.",
+      "en": "The ship has embarked on a long sea voyage.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00032A.mp3"
+    }
+  ]
+}

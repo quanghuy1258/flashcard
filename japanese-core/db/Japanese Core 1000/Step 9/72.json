@@ -1,0 +1,26 @@
+{
+  "ja": "打つ",
+  "hrkt": "うつ",
+  "latn": "utsu",
+  "en": "hit, strike",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00722A.mp3",
+  "sentences": [
+    {
+      "ja": "転んでひざを<b>打ちました</b>。",
+      "hrkt": "ころんで ひざ を <b>うちました</b>。",
+      "latn": "koronde hiza wo <b>uchimashita</b>.",
+      "en": "I fell down and hit my knee.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5216384.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00722A.mp3"
+    },
+    {
+      "ja": "祖父は倒れた時、頭を強く<b>打ちました</b>。",
+      "hrkt": "そふ は たおれた とき、あたま を つよく <b>うちました</b>。",
+      "latn": "sofu ha taoreta toki,atama wo tsuyoku <b>uchimashita</b>.",
+      "en": "When my grandfather collapsed, he hit his head hard.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/54236d29i8.mp3"
+    }
+  ]
+}

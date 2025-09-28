@@ -1,0 +1,26 @@
+{
+  "ja": "勉強",
+  "hrkt": "べんきょう",
+  "latn": "benkyou",
+  "en": "study",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08353A.mp3",
+  "sentences": [
+    {
+      "ja": "私は日本語を<b>勉強</b>しています。",
+      "hrkt": "わたし は にほん ご を <b>べんきょう</b> して います。",
+      "latn": "watashi ha nihon go wo <b>benkyou</b> shite imasu.",
+      "en": "I'm studying Japanese.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/344558.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08353A.mp3"
+    },
+    {
+      "ja": "彼は今、<b>勉強</b>しています。",
+      "hrkt": "かれ は いま、<b>べんきょう</b> して います。",
+      "latn": "kare ha ima,<b>benkyou</b> shite imasu.",
+      "en": "He's studying now.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5055255.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00573A.mp3"
+    }
+  ]
+}

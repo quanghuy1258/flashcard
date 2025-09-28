@@ -1,0 +1,26 @@
+{
+  "ja": "現在",
+  "hrkt": "げんざい",
+  "latn": "genzai",
+  "en": "the present, present time",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02766A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>現在</b>の気温は30度です。",
+      "hrkt": "<b>げんざい</b> の きおん は 30 ど です。",
+      "latn": "<b>genzai</b> no kion ha 30 do desu.",
+      "en": "The current temperature is 30 degrees.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5853957.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02766A.mp3"
+    },
+    {
+      "ja": "この電話番号は<b>現在</b>、使われておりません。",
+      "hrkt": "この でんわ ばんごう は <b>げんざい</b>、つかわれて おりません。",
+      "latn": "kono denwa bangou ha <b>genzai</b>,tsukawarete orimasen.",
+      "en": "This telephone number is currently not in service.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/11cleaav08.mp3"
+    }
+  ]
+}

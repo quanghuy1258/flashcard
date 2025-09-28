@@ -1,0 +1,18 @@
+{
+  "ja": "手首",
+  "hrkt": "てくび",
+  "latn": "tekubi",
+  "en": "wrist",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02217A.mp3",
+  "sentences": [
+    {
+      "ja": "転んで<b>手首</b>を痛めました。",
+      "hrkt": "ころんで <b>てくび</b> を いためました。",
+      "latn": "koronde <b>tekubi</b> wo itamemashita.",
+      "en": "I fell down and hurt my wrist.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c4c76013jk.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02217A.mp3"
+    }
+  ]
+}

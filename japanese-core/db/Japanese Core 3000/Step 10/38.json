@@ -1,0 +1,18 @@
+{
+  "ja": "交通",
+  "hrkt": "こうつう",
+  "latn": "koutsuu",
+  "en": "traffic, transportation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00715A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>交通</b>の便がよいですね。",
+      "hrkt": "ここ は <b>こうつう</b> の べん が よい です ね。",
+      "latn": "koko ha <b>koutsuu</b> no ben ga yoi desu ne.",
+      "en": "This place is easily accessible by public transportation.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/34c41n0ln4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00715A.mp3"
+    }
+  ]
+}

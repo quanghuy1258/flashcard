@@ -1,0 +1,26 @@
+{
+  "ja": "トレーニング",
+  "hrkt": "トレーニング",
+  "latn": "tore-ningu",
+  "en": "training, workout",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01606A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は毎日<b>トレーニング</b>をする。",
+      "hrkt": "かれ は まいにち <b>トレーニング</b> を する。",
+      "latn": "kare ha mainichi <b>tore-ningu</b> wo suru.",
+      "en": "He works out every day.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2657610.jpg",
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/53a29m67vg.mp3"
+    },
+    {
+      "ja": "彼はサッカー選手になるために<b>トレーニング</b>しています。",
+      "hrkt": "かれ は サッカー せんしゅ に なる ため に <b>トレーニング</b> して います。",
+      "latn": "kare ha sakka- senshu ni naru tame ni <b>tore-ningu</b> shite imasu.",
+      "en": "He's been training to become a soccer player.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c4bm198s5g.mp3"
+    }
+  ]
+}

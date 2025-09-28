@@ -1,0 +1,18 @@
+{
+  "ja": "取り替える",
+  "hrkt": "とりかえる",
+  "latn": "torikaeru",
+  "en": "change, replace",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02782A.mp3",
+  "sentences": [
+    {
+      "ja": "シーツを<b>取り替えました</b>。",
+      "hrkt": "シーツ を <b>とりかえました</b>。",
+      "latn": "shi-tsu wo <b>torikaemashita</b>.",
+      "en": "I changed the sheets.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e3bbe4aocg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02782A.mp3"
+    }
+  ]
+}

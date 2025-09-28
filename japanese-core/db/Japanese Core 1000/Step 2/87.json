@@ -1,0 +1,26 @@
+{
+  "ja": "ここ",
+  "hrkt": "ここ",
+  "latn": "koko",
+  "en": "here",
+  "pos": "Pronoun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03083A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ここ</b>に本があります。",
+      "hrkt": "<b>ここ</b> に ほん が あります。",
+      "latn": "<b>koko</b> ni hon ga arimasu.",
+      "en": "There's a book here.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4069899.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03083A.mp3"
+    },
+    {
+      "ja": "<b>ここ</b>が私の家です。",
+      "hrkt": "<b>ここ</b> が わたし の いえ です。",
+      "latn": "<b>koko</b> ga watashi no ie desu.",
+      "en": "This is my house.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6304376.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00354A.mp3"
+    }
+  ]
+}

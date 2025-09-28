@@ -1,0 +1,18 @@
+{
+  "ja": "裂ける",
+  "hrkt": "さける",
+  "latn": "sakeru",
+  "en": "rip, tear",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03217A.mp3",
+  "sentences": [
+    {
+      "ja": "釘に引っかけて袖が<b>裂けて</b>しまったな。",
+      "hrkt": "くぎ に ひっかけて そで が <b>さけて</b> しまった な。",
+      "latn": "kugi ni hikkakete sode ga <b>sakete</b> shimatta na.",
+      "en": "My sleeve got caught on the nail and ripped.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03217A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "お世辞",
+  "hrkt": "おせじ",
+  "latn": "oseji",
+  "en": "compliment, flattery",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03011A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>お世辞</b>を言うのが上手い。",
+      "hrkt": "かれ は <b>おせじ</b> を いう の が うまい。",
+      "latn": "kare ha <b>oseji</b> wo iu no ga umai.",
+      "en": "He is good at flattering people.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3342515.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03011A.mp3"
+    },
+    {
+      "ja": "うちの子は<b>お世辞</b>にも絵が上手いとは言えません。",
+      "hrkt": "うち の こ は <b>おせじ</b> に も え が うまい と は いえません。",
+      "latn": "uchi no ko ha <b>oseji</b> ni mo e ga umai to ha iemasen.",
+      "en": "We cannot say that our child is good at drawing even as a compliment.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/858h4943u4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "兄",
+  "hrkt": "あに",
+  "latn": "ani",
+  "en": "(one's own) older brother",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00199A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>兄</b>は水泳が得意です。",
+      "hrkt": "<b>あに</b> は すいえい が とくい です。",
+      "latn": "<b>ani</b> ha suiei ga tokui desu.",
+      "en": "My big brother is good at swimming.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4939638.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00199A.mp3"
+    },
+    {
+      "ja": "<b>兄</b>はゴルフを始めました。",
+      "hrkt": "<b>あに</b> は ゴルフ を はじめました。",
+      "latn": "<b>ani</b> ha gorufu wo hajimemashita.",
+      "en": "My older brother started playing golf.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4672792.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03225A.mp3"
+    }
+  ]
+}

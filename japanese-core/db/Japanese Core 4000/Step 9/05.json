@@ -1,0 +1,18 @@
+{
+  "ja": "火災",
+  "hrkt": "かさい",
+  "latn": "kasai",
+  "en": "fire, fire disaster",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01029A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>火災</b>の原因は放火だそうです。",
+      "hrkt": "<b>かさい</b> の げんいん は ほうか だ そう です。",
+      "latn": "<b>kasai</b> no genin ha houka da sou desu.",
+      "en": "I heard that arson was the cause of the fire.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01029A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "発音",
+  "hrkt": "はつおん",
+  "latn": "hatsuon",
+  "en": "pronunciation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01402A.mp3",
+  "sentences": [
+    {
+      "ja": "この単語を<b>発音</b>してください。",
+      "hrkt": "この たんご を <b>はつおん</b> して ください。",
+      "latn": "kono tango wo <b>hatsuon</b> shite kudasai.",
+      "en": "Please pronounce this word.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01402A.mp3"
+    }
+  ]
+}

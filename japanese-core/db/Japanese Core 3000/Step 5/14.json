@@ -1,0 +1,18 @@
+{
+  "ja": "キス",
+  "hrkt": "キス",
+  "latn": "kisu",
+  "en": "kiss",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02858A.mp3",
+  "sentences": [
+    {
+      "ja": "初めての<b>キス</b>は海岸でだったの。",
+      "hrkt": "はじめて の <b>キス</b> は かいがん で だった の。",
+      "latn": "hajimete no <b>kisu</b> ha kaigan de datta no.",
+      "en": "I had my first kiss on the beach.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/047u1r6clg.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02858A.mp3"
+    }
+  ]
+}

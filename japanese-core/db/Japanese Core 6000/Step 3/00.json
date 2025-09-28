@@ -1,0 +1,18 @@
+{
+  "ja": "手当て",
+  "hrkt": "てあて",
+  "latn": "teate",
+  "en": "treatment (of a wound or injury)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01617A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は急いで怪我の<b>手当て</b>をしたよ。",
+      "hrkt": "かのじょ は いそいで けが の <b>てあて</b> を した よ。",
+      "latn": "kanojo ha isoide kega no <b>teate</b> wo shita yo.",
+      "en": "She quickly provided treatment to the injury.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01617A.mp3"
+    }
+  ]
+}

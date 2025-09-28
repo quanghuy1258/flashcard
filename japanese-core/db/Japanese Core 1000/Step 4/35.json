@@ -1,0 +1,26 @@
+{
+  "ja": "お願い",
+  "hrkt": "おねがい",
+  "latn": "onegai",
+  "en": "favor",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01166A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>お願い</b>があります。",
+      "hrkt": "<b>おねがい</b> が あります。",
+      "latn": "<b>onegai</b> ga arimasu.",
+      "en": "I have a favor to ask.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3534853.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01166A.mp3"
+    },
+    {
+      "ja": "支払いはカードで<b>お願い</b>します。",
+      "hrkt": "しはらい は カード で <b>おねがい</b> します。",
+      "latn": "shiharai ha ka-do de <b>onegai</b> shimasu.",
+      "en": "Please pay by credit card.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4059371.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01309A.mp3"
+    }
+  ]
+}

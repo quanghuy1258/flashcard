@@ -1,0 +1,26 @@
+{
+  "ja": "三",
+  "hrkt": "さん",
+  "latn": "san",
+  "en": "three",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03521A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>三</b>人の子供の母親だ。",
+      "hrkt": "かのじょ は <b>さん</b> にん の こども の ははおや だ。",
+      "latn": "kanojo ha <b>san</b> nin no kodomo no hahaoya da.",
+      "en": "She's a mother of three children.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4100372.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03521A.mp3"
+    },
+    {
+      "ja": "息子は今、<b>三</b>歳です。",
+      "hrkt": "むすこ は いま、 <b>さん</b> さい です。",
+      "latn": "musuko ha ima, <b>san</b> sai desu.",
+      "en": "My son is three years old now.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/364b2e9mb0.mp3"
+    }
+  ]
+}

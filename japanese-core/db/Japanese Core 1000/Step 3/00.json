@@ -1,0 +1,26 @@
+{
+  "ja": "閉じる",
+  "hrkt": "とじる",
+  "latn": "tojiru",
+  "en": "shut, close (books, eyes, etc.)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06438A.mp3",
+  "sentences": [
+    {
+      "ja": "教科書を<b>閉じて</b>ください。",
+      "hrkt": "きょうかしょ を <b>とじて</b> ください。",
+      "latn": "kyoukasho wo <b>tojite</b> kudasai.",
+      "en": "Please close your textbook.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5547222.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06438A.mp3"
+    },
+    {
+      "ja": "彼女は目を<b>閉じた</b>。",
+      "hrkt": "かのじょ は め を <b>とじた</b>。",
+      "latn": "kanojo ha me wo <b>tojita</b>.",
+      "en": "She closed her eyes.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/76c790fejc.mp3"
+    }
+  ]
+}

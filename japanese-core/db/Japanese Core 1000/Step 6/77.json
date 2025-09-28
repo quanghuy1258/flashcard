@@ -1,0 +1,26 @@
+{
+  "ja": "風呂",
+  "hrkt": "ふろ",
+  "latn": "furo",
+  "en": "bath",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08214A.mp3",
+  "sentences": [
+    {
+      "ja": "父は今お<b>風呂</b>に入っています。",
+      "hrkt": "ちち は いま お<b>ふろ</b> に はいって います。",
+      "latn": "chichi ha ima o<b>furo</b> ni haitte imasu.",
+      "en": "My father's taking a bath right now.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2831641.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08214A.mp3?1216608454"
+    },
+    {
+      "ja": "お<b>風呂</b>のお湯が一杯です。",
+      "hrkt": "お<b>ふろ</b> の おゆ が いっぱい です。",
+      "latn": "o<b>furo</b> no oyu ga ippai desu.",
+      "en": "The bath is filled with hot water.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4589149.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09471A.mp3?1216608468"
+    }
+  ]
+}

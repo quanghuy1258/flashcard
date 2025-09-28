@@ -1,0 +1,18 @@
+{
+  "ja": "家屋",
+  "hrkt": "かおく",
+  "latn": "kaoku",
+  "en": "house, building",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01586A.mp3",
+  "sentences": [
+    {
+      "ja": "私は木造の<b>家屋</b>が好きです。",
+      "hrkt": "わたし は もくぞう の <b>かおく</b> が すき です。",
+      "latn": "watashi ha mokuzou no <b>kaoku</b> ga suki desu.",
+      "en": "I like wooden houses.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01586A.mp3"
+    }
+  ]
+}

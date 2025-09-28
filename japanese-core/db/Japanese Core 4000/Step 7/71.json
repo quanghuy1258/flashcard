@@ -1,0 +1,18 @@
+{
+  "ja": "掘る",
+  "hrkt": "ほる",
+  "latn": "horu",
+  "en": "dig, unearth",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01129A.mp3",
+  "sentences": [
+    {
+      "ja": "ここに穴を<b>掘りましょう</b>。",
+      "hrkt": "ここ に あな を <b>ほりましょう</b>。",
+      "latn": "koko ni ana wo <b>horimashou</b>.",
+      "en": "Let's dig a hole here.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01129A.mp3"
+    }
+  ]
+}

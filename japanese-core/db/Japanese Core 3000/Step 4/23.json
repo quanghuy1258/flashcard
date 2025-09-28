@@ -1,0 +1,18 @@
+{
+  "ja": "ストライキ",
+  "hrkt": "ストライキ",
+  "latn": "sutoraiki",
+  "en": "strike",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02095A.mp3",
+  "sentences": [
+    {
+      "ja": "従業員は明日から<b>ストライキ</b>です。",
+      "hrkt": "じゅうぎょう いん は あす から <b>ストライキ</b> です。",
+      "latn": "juugyou in ha asu kara <b>sutoraiki</b> desu.",
+      "en": "Employees will go on strike from tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/84dg576dek.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02095A.mp3"
+    }
+  ]
+}

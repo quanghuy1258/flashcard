@@ -1,0 +1,18 @@
+{
+  "ja": "キャンセル",
+  "hrkt": "キャンセル",
+  "latn": "kyanseru",
+  "en": "cancellation (loan word)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02409A.mp3",
+  "sentences": [
+    {
+      "ja": "予約を<b>キャンセル</b>したよ。",
+      "hrkt": "よやく を <b>キャンセル</b> した よ。",
+      "latn": "yoyaku wo <b>kyanseru</b> shita yo.",
+      "en": "I canceled the reservation.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/157l634ods.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02409A.mp3"
+    }
+  ]
+}

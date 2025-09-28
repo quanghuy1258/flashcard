@@ -1,0 +1,26 @@
+{
+  "ja": "太陽",
+  "hrkt": "たいよう",
+  "latn": "taiyou",
+  "en": "sun",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05270A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>太陽</b>が雲に隠れた。",
+      "hrkt": "<b>たいよう</b> が くも に かくれた。",
+      "latn": "<b>taiyou</b> ga kumo ni kakureta.",
+      "en": "The sun hid behind the clouds.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5254692.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05270A.mp3"
+    },
+    {
+      "ja": "もう1週間、<b>太陽</b>を見ていません。",
+      "hrkt": "もう 1 しゅうかん、<b>たいよう</b> を みて いません。",
+      "latn": "mou 1 shuukan,<b>taiyou</b> wo mite imasen.",
+      "en": "We haven't seen the sun for a week now.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/639var21r4.mp3"
+    }
+  ]
+}

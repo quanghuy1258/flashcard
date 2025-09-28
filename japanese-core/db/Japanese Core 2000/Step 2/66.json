@@ -1,0 +1,26 @@
+{
+  "ja": "部分",
+  "hrkt": "ぶぶん",
+  "latn": "bubun",
+  "en": "part, section",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08148A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>部分</b>は問題ないです。",
+      "hrkt": "この <b>ぶぶん</b> は もんだい ない です。",
+      "latn": "kono <b>bubun</b> ha mondai nai desu.",
+      "en": "There's no problem with this part.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5377823.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08148A.mp3"
+    },
+    {
+      "ja": "あなたのレポートのこの<b>部分</b>を直してください。",
+      "hrkt": "あなた の レポート の この <b>ぶぶん</b> を なおして ください。",
+      "latn": "anata no repo-to no kono <b>bubun</b> wo naoshite kudasai.",
+      "en": "Please modify this part of your report.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/457vac35a8.mp3"
+    }
+  ]
+}

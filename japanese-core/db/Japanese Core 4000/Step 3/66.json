@@ -1,0 +1,18 @@
+{
+  "ja": "玉",
+  "hrkt": "たま",
+  "latn": "tama",
+  "en": "bead, ball",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03364A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の顔に<b>玉</b>のような汗が流れていたの。",
+      "hrkt": "かれ の かお に <b>たま</b> の ような あせ が ながれて いた の。",
+      "latn": "kare no kao ni <b>tama</b> no youna ase ga nagarete ita no.",
+      "en": "Beads of sweat were rolling down his face.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03364A.mp3"
+    }
+  ]
+}

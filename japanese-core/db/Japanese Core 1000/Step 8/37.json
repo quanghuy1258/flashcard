@@ -1,0 +1,26 @@
+{
+  "ja": "被る",
+  "hrkt": "かぶる",
+  "latn": "kaburu",
+  "en": "wear, put on (on one's head)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01757A.mp3",
+  "sentences": [
+    {
+      "ja": "帽子を<b>被って</b>外出した。",
+      "hrkt": "ぼうし を <b>かぶって</b> がいしゅつ した。",
+      "latn": "boushi wo <b>kabutte</b> gaishutsu shita.",
+      "en": "I went out wearing a hat.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2318963.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01757A.mp3"
+    },
+    {
+      "ja": "暑いので帽子を<b>被りましょう</b>。",
+      "hrkt": "あつい ので ぼうし を <b>かぶりましょう</b>。",
+      "latn": "atsui node boushi wo <b>kaburimashou</b>.",
+      "en": "You should wear a hat because it's hot.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5870286.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08418A.mp3"
+    }
+  ]
+}

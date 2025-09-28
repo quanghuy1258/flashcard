@@ -1,0 +1,18 @@
+{
+  "ja": "予言",
+  "hrkt": "よげん",
+  "latn": "yogen",
+  "en": "prediction, forecast",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03950A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>予言</b>は当たったことがないね。",
+      "hrkt": "かれ の <b>よげん</b> は あたった こと が ない ね。",
+      "latn": "kare no <b>yogen</b> ha atatta koto ga nai ne.",
+      "en": "His predictions have never come true.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03950A.mp3"
+    }
+  ]
+}

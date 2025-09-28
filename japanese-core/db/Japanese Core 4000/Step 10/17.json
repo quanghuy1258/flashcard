@@ -1,0 +1,18 @@
+{
+  "ja": "社説",
+  "hrkt": "しゃせつ",
+  "latn": "shasetsu",
+  "en": "editorial",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02093A.mp3",
+  "sentences": [
+    {
+      "ja": "この新聞の<b>社説</b>は面白いね。",
+      "hrkt": "この しんぶん の <b>しゃせつ</b> は おもしろい ね。",
+      "latn": "kono shinbun no <b>shasetsu</b> ha omoshiroi ne.",
+      "en": "The editorial in this newspaper is interesting.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02093A.mp3"
+    }
+  ]
+}

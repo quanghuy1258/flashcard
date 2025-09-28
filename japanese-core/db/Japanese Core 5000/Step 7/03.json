@@ -1,0 +1,18 @@
+{
+  "ja": "年収",
+  "hrkt": "ねんしゅう",
+  "latn": "nenshuu",
+  "en": "annual income",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01514A.mp3",
+  "sentences": [
+    {
+      "ja": "税金の額は<b>年収</b>によって変わります。",
+      "hrkt": "ぜいきん の がく は <b>ねんしゅう</b> に よって かわります。",
+      "latn": "zeikin no gaku ha <b>nenshuu</b> ni yotte kawarimasu.",
+      "en": "The amount of tax depends on your annual income.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01514A.mp3"
+    }
+  ]
+}

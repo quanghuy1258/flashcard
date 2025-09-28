@@ -1,0 +1,18 @@
+{
+  "ja": "操縦",
+  "hrkt": "そうじゅう",
+  "latn": "soujuu",
+  "en": "steering, operating (a vehicle etc.)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02648A.mp3",
+  "sentences": [
+    {
+      "ja": "このボートは<b>操縦</b>が簡単です。",
+      "hrkt": "この ボート は <b>そうじゅう</b> が かんたん です。",
+      "latn": "kono bo-to ha <b>soujuu</b> ga kantan desu.",
+      "en": "This boat is easy to operate.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02648A.mp3"
+    }
+  ]
+}

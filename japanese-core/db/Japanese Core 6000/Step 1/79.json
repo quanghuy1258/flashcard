@@ -1,0 +1,18 @@
+{
+  "ja": "登校",
+  "hrkt": "とうこう",
+  "latn": "toukou",
+  "en": "going to school, attending school",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01889A.mp3",
+  "sentences": [
+    {
+      "ja": "生徒たちは朝8時ごろ<b>登校</b>します。",
+      "hrkt": "せいと たち は あさ 8 じ ごろ <b>とうこう</b> します。",
+      "latn": "seito tachi ha asa 8 ji goro <b>toukou</b> shimasu.",
+      "en": "Pupils arrive at school around 8 AM.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01889A.mp3"
+    }
+  ]
+}

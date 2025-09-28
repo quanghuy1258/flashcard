@@ -1,0 +1,26 @@
+{
+  "ja": "金",
+  "hrkt": "きん",
+  "latn": "kin",
+  "en": "gold",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02346A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>金</b>のネックレスをしています。",
+      "hrkt": "かのじょ は <b>きん</b> の ネックレス を して います。",
+      "latn": "kanojo ha <b>kin</b> no nekkuresu wo shite imasu.",
+      "en": "She's wearing a gold necklace.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5546869.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02346A.mp3"
+    },
+    {
+      "ja": "このカップは<b>金</b>でできています。",
+      "hrkt": "この カップ は <b>きん</b> で できて います。",
+      "latn": "kono kappu ha <b>kin</b> de dekite imasu.",
+      "en": "This cup is made of gold.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/42ai99f290.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "外人",
+  "hrkt": "がいじん",
+  "latn": "gaijin",
+  "en": "foreigner, alien",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01374A.mp3",
+  "sentences": [
+    {
+      "ja": "この町には<b>外人</b>が少ない。",
+      "hrkt": "この まち に は <b>がいじん</b> が すくない。",
+      "latn": "kono machi ni ha <b>gaijin</b> ga sukunai.",
+      "en": "There are few foreigners in this town.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3429833.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01374A.mp3"
+    },
+    {
+      "ja": "今日、<b>外人</b>に道を聞かれました。",
+      "hrkt": "きょう、<b>がいじん</b> に みち を きかれました。",
+      "latn": "kyou,<b>gaijin</b> ni michi wo kikaremashita.",
+      "en": "Today, a foreigner asked me for directions.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/14cb687dcg.mp3"
+    }
+  ]
+}

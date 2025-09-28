@@ -1,0 +1,18 @@
+{
+  "ja": "味噌",
+  "hrkt": "みそ",
+  "latn": "miso",
+  "en": "soybean paste",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03903A.mp3",
+  "sentences": [
+    {
+      "ja": "きゅうりに<b>味噌</b>をつけて食べたんだ。",
+      "hrkt": "きゅうり に <b>みそ</b> を つけて たべた ん だ。",
+      "latn": "kyuuri ni <b>miso</b> wo tsukete tabeta n da.",
+      "en": "I put miso on the cucumber and ate it.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b3bg8r9430.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03903A.mp3"
+    }
+  ]
+}

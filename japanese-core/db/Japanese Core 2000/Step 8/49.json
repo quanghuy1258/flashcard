@@ -1,0 +1,26 @@
+{
+  "ja": "国内",
+  "hrkt": "こくない",
+  "latn": "kokunai",
+  "en": "domestic, internal",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03061A.mp3",
+  "sentences": [
+    {
+      "ja": "この携帯電話が使えるのは<b>国内</b>だけです。",
+      "hrkt": "この けいたい でんわ が つかえる の は <b>こくない</b> だけ です。",
+      "latn": "kono keitai denwa ga tsukaeru no ha <b>kokunai</b> dake desu.",
+      "en": "You can only make domestic calls on this cell-phone.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5147464.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03061A.mp3"
+    },
+    {
+      "ja": "今年は<b>国内</b>旅行しかしませんでした。",
+      "hrkt": "ことし は <b>こくない</b> りょこう しか しません でした。",
+      "latn": "kotoshi ha <b>kokunai</b> ryokou shika shimasen deshita.",
+      "en": "This year I only traveled within the country.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f57g9p5fuo.mp3"
+    }
+  ]
+}

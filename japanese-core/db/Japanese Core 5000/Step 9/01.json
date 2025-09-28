@@ -1,0 +1,18 @@
+{
+  "ja": "真実",
+  "hrkt": "しんじつ",
+  "latn": "shinjitsu",
+  "en": "true fact",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02153A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>真実</b>は一つです。",
+      "hrkt": "<b>しんじつ</b> は ひとつ です。",
+      "latn": "<b>shinjitsu</b> ha hitotsu desu.",
+      "en": "There is only one true fact.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02153A.mp3"
+    }
+  ]
+}

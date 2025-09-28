@@ -1,0 +1,26 @@
+{
+  "ja": "ダンス",
+  "hrkt": "ダンス",
+  "latn": "dansu",
+  "en": "dance, dancing (loan word)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05520A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>ダンス</b>が大好きです。",
+      "hrkt": "かのじょ は <b>ダンス</b> が だいすき です。",
+      "latn": "kanojo ha <b>dansu</b> ga daisuki desu.",
+      "en": "She loves to dance.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5777721.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05520A.mp3"
+    },
+    {
+      "ja": "私は<b>ダンス</b>を習っています。",
+      "hrkt": "わたし は <b>ダンス</b> を ならって います。",
+      "latn": "watashi ha <b>dansu</b> wo naratte imasu.",
+      "en": "I'm learning to dance.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5590506.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06740A.mp3"
+    }
+  ]
+}

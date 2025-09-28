@@ -1,0 +1,18 @@
+{
+  "ja": "打ち上げる",
+  "hrkt": "うちあげる",
+  "latn": "uchiageru",
+  "en": "blast off, set off",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01397A.mp3",
+  "sentences": [
+    {
+      "ja": "夏祭りで花火を<b>打ち上げます</b>。",
+      "hrkt": "なつ まつり で はなび を <b>うちあげます</b>。",
+      "latn": "natsu matsuri de hanabi wo <b>uchiagemasu</b>.",
+      "en": "We'll set off fireworks at the summer festival.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01397A.mp3"
+    }
+  ]
+}

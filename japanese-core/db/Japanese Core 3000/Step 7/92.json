@@ -1,0 +1,18 @@
+{
+  "ja": "使用",
+  "hrkt": "しよう",
+  "latn": "shiyou",
+  "en": "use",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00743A.mp3",
+  "sentences": [
+    {
+      "ja": "この製品を<b>使用</b>する前に、説明書をお読みください。",
+      "hrkt": "この せいひん を <b>しよう</b> する まえ に、せつめい しょ を およみ ください。",
+      "latn": "kono seihin wo <b>shiyou</b> suru mae ni,setsumei sho wo oyomi kudasai.",
+      "en": "Please read the manual before use of this product.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/956v22b700.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00743A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "向かう",
+  "hrkt": "むかう",
+  "latn": "mukau",
+  "en": "face, head toward",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09038A.mp3",
+  "sentences": [
+    {
+      "ja": "今、会社に<b>向かって</b>います。",
+      "hrkt": "いま、かいしゃ に <b>むかって</b> います。",
+      "latn": "ima,kaisha ni <b>mukatte</b> imasu.",
+      "en": "I'm heading for the office right now.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5843022.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09038A.mp3"
+    },
+    {
+      "ja": "これから車でそちらに<b>向かいます</b>。",
+      "hrkt": "これから くるま で そちら に <b>むかいます</b>。",
+      "latn": "korekara kuruma de sochira ni <b>mukaimasu</b>.",
+      "en": "I'll head there by car from now.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d37q07enf0.mp3"
+    }
+  ]
+}

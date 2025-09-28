@@ -1,0 +1,26 @@
+{
+  "ja": "下る",
+  "hrkt": "くだる",
+  "latn": "kudaru",
+  "en": "go down, go away from",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02462A.mp3",
+  "sentences": [
+    {
+      "ja": "小さな船が川を<b>下って</b>います。",
+      "hrkt": "ちいさな ふね が かわ を <b>くだって</b> います。",
+      "latn": "chiisana fune ga kawa wo <b>kudatte</b> imasu.",
+      "en": "A small ship is going down the river.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4412950.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02462A.mp3"
+    },
+    {
+      "ja": "彼らは今、山を<b>下って</b>います。",
+      "hrkt": "かれら は いま、やま を <b>くだって</b> います。",
+      "latn": "karera ha ima,yama wo <b>kudatte</b> imasu.",
+      "en": "They are going down the mountain now.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/5638d1b560.mp3"
+    }
+  ]
+}

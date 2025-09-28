@@ -1,0 +1,26 @@
+{
+  "ja": "アイデア",
+  "hrkt": "アイデア",
+  "latn": "aidea",
+  "en": "idea (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01094A.mp3",
+  "sentences": [
+    {
+      "ja": "彼がいい<b>アイデア</b>を出したね。",
+      "hrkt": "かれ が いい <b>アイデア</b> を だした ね。",
+      "latn": "kare ga ii <b>aidea</b> wo dashita ne.",
+      "en": "He came up with a good idea.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5117945.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01094A.mp3"
+    },
+    {
+      "ja": "その<b>アイデア</b>は彼の提案です。",
+      "hrkt": "その <b>アイデア</b> は かれ の ていあん です。",
+      "latn": "sono <b>aidea</b> ha kare no teian desu.",
+      "en": "The idea is his suggestion.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3936884.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05982A.mp3"
+    }
+  ]
+}

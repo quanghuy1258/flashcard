@@ -1,0 +1,26 @@
+{
+  "ja": "配達",
+  "hrkt": "はいたつ",
+  "latn": "haitatsu",
+  "en": "delivery",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07192A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は新聞<b>配達</b>をしている。",
+      "hrkt": "かれ は しんぶん <b>はいたつ</b> を して いる。",
+      "latn": "kare ha shinbun <b>haitatsu</b> wo shite iru.",
+      "en": "He's delivering newspapers.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5126658.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07192A.mp3"
+    },
+    {
+      "ja": "私は夏にピザの<b>配達</b>のアルバイトをしました。",
+      "hrkt": "わたし は なつ に ピザ の <b>はいたつ</b> の アルバイト を しました。",
+      "latn": "watashi ha natsu ni piza no <b>haitatsu</b> no arubaito wo shimashita.",
+      "en": "I delivered pizza as a part-time job in the summer.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/74e081e798.mp3"
+    }
+  ]
+}

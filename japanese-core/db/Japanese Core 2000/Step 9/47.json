@@ -1,0 +1,26 @@
+{
+  "ja": "社員",
+  "hrkt": "しゃいん",
+  "latn": "shain",
+  "en": "staff member, employee",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03894A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は優秀な<b>社員</b>です。",
+      "hrkt": "かれ は ゆうしゅうな <b>しゃいん</b> です。",
+      "latn": "kare ha yuushuuna <b>shain</b> desu.",
+      "en": "He's an excellent employee.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/525251.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03894A.mp3"
+    },
+    {
+      "ja": "社長が<b>社員</b>を集めて大切な話をしました。",
+      "hrkt": "しゃちょう が <b>しゃいん</b> を あつめて たいせつな はなし を しました。",
+      "latn": "shachou ga <b>shain</b> wo atsumete taisetsuna hanashi wo shimashita.",
+      "en": "The president gathered employees and had an important talk.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/84c1b1f0m4.mp3"
+    }
+  ]
+}

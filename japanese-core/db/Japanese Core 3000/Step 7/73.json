@@ -1,0 +1,18 @@
+{
+  "ja": "新聞社",
+  "hrkt": "しんぶんしゃ",
+  "latn": "shinbunsha",
+  "en": "newspaper publisher",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01326A.mp3",
+  "sentences": [
+    {
+      "ja": "このビルは<b>新聞社</b>です。",
+      "hrkt": "この ビル は <b>しんぶん しゃ</b> です。",
+      "latn": "kono biru ha <b>shinbun sha</b> desu.",
+      "en": "This building is a newspaper publisher.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d40g2a1v7s.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01326A.mp3"
+    }
+  ]
+}

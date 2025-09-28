@@ -1,0 +1,18 @@
+{
+  "ja": "交渉",
+  "hrkt": "こうしょう",
+  "latn": "koushou",
+  "en": "negotiation, bargaining",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02923A.mp3",
+  "sentences": [
+    {
+      "ja": "今、値段を<b>交渉</b>しています。",
+      "hrkt": "いま、ねだん を <b>こうしょう</b> して います。",
+      "latn": "ima,nedan wo <b>koushou</b> shite imasu.",
+      "en": "We're currently negotiating the price.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02923A.mp3"
+    }
+  ]
+}

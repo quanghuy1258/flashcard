@@ -1,0 +1,26 @@
+{
+  "ja": "アクセサリー",
+  "hrkt": "アクセサリー",
+  "latn": "akusesari-",
+  "en": "accessories, jewelry",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00076A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>アクセサリー</b>は素敵ね。",
+      "hrkt": "この <b>アクセサリー</b> は すてき ね。",
+      "latn": "kono <b>akusesari-</b> ha suteki ne.",
+      "en": "This jewelry is lovely.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4920209.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00076A.mp3"
+    },
+    {
+      "ja": "彼女は<b>アクセサリー</b>を自分で作ります。",
+      "hrkt": "かのじょ は <b>アクセサリー</b> を じぶん で つくります。",
+      "latn": "kanojo ha <b>akusesari-</b> wo jibun de tsukurimasu.",
+      "en": "She makes accessories herself.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d58j710tv0.mp3"
+    }
+  ]
+}

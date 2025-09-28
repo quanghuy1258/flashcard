@@ -1,0 +1,26 @@
+{
+  "ja": "二人",
+  "hrkt": "ふたり",
+  "latn": "futari",
+  "en": "two persons",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08090A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は妻と<b>二人</b>で食事をします。",
+      "hrkt": "きょう は つま と <b>ふたり</b> で しょくじ を します。",
+      "latn": "kyou ha tsuma to <b>futari</b> de shokuji wo shimasu.",
+      "en": "Today I'm having dinner with my wife, just the two of us.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5353877.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08090A.mp3"
+    },
+    {
+      "ja": "私には兄が<b>二人</b>います。",
+      "hrkt": "わたし に は あに が <b>ふたり</b> います。",
+      "latn": "watashi ni ha ani ga <b>futari</b> imasu.",
+      "en": "I have two brothers.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b36o6pd32o.mp3"
+    }
+  ]
+}

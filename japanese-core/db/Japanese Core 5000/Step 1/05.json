@@ -1,0 +1,18 @@
+{
+  "ja": "笛",
+  "hrkt": "ふえ",
+  "latn": "fue",
+  "en": "whistle",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02737A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>笛</b>を吹くのが上手いね。",
+      "hrkt": "かれ は <b>ふえ</b> を ふく の が うまい ね。",
+      "latn": "kare ha <b>fue</b> wo fuku no ga umai ne.",
+      "en": "He's good at playing the flute.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02737A.mp3"
+    }
+  ]
+}

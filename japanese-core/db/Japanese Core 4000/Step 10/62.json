@@ -1,0 +1,18 @@
+{
+  "ja": "湿度",
+  "hrkt": "しつど",
+  "latn": "shitsudo",
+  "en": "humidity",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02189A.mp3",
+  "sentences": [
+    {
+      "ja": "日本の夏は<b>湿度</b>が高いです。",
+      "hrkt": "にほん の なつ は <b>しつど</b> が たかい です。",
+      "latn": "nihon no natsu ha <b>shitsudo</b> ga takai desu.",
+      "en": "Humidity is high during summer in Japan.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02189A.mp3"
+    }
+  ]
+}

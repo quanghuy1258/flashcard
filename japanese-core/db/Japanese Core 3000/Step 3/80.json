@@ -1,0 +1,18 @@
+{
+  "ja": "作戦",
+  "hrkt": "さくせん",
+  "latn": "sakusen",
+  "en": "tactic, strategy",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00586A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは次の試合のために<b>作戦</b>を立てたのよ。",
+      "hrkt": "かれら は つぎ の しあい の ため に <b>さくせん</b> を たてた の よ。",
+      "latn": "karera ha tsugi no shiai no tame ni <b>sakusen</b> wo tateta no yo.",
+      "en": "They built a strategy for the next game.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f5drcudb5o.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00586A.mp3"
+    }
+  ]
+}

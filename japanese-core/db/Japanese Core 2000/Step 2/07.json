@@ -1,0 +1,26 @@
+{
+  "ja": "迷惑",
+  "hrkt": "めいわく",
+  "latn": "meiwaku",
+  "en": "trouble, annoyance",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09171A.mp3",
+  "sentences": [
+    {
+      "ja": "人に<b>迷惑</b>をかけてはいけません。",
+      "hrkt": "ひと に <b>めいわく</b> を かけて は いけません。",
+      "latn": "hito ni <b>meiwaku</b> wo kakete ha ikemasen.",
+      "en": "You shouldn't cause trouble for other people.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3556092.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09171A.mp3"
+    },
+    {
+      "ja": "夜中に電話したら<b>迷惑</b>ですよ。",
+      "hrkt": "よなか に でんわ したら <b>めいわく</b> です よ。",
+      "latn": "yonaka ni denwa shitara <b>meiwaku</b> desu yo.",
+      "en": "It's annoying if you call at midnight.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/050g4g3gms.mp3"
+    }
+  ]
+}

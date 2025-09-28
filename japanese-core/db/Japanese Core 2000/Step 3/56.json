@@ -1,0 +1,26 @@
+{
+  "ja": "気に入る",
+  "hrkt": "きにいる",
+  "latn": "kiniiru",
+  "en": "like, become fond of",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02128A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい靴がとても<b>気に入りました</b>。",
+      "hrkt": "あたらしい くつ が とても <b>きにいりました</b>。",
+      "latn": "atarashii kutsu ga totemo <b>kiniirimashita</b>.",
+      "en": "I really like my new shoes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6510980.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02128A.mp3"
+    },
+    {
+      "ja": "私はこのかばんが<b>気に入って</b>います。",
+      "hrkt": "わたし は この かばん が <b>きにいって</b> います。",
+      "latn": "watashi ha kono kaban ga <b>kiniitte</b> imasu.",
+      "en": "I like this bag.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c54ka06kls.mp3"
+    }
+  ]
+}

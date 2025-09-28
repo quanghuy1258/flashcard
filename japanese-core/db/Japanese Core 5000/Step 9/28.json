@@ -1,0 +1,18 @@
+{
+  "ja": "指揮",
+  "hrkt": "しき",
+  "latn": "shiki",
+  "en": "command, initiative",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01782A.mp3",
+  "sentences": [
+    {
+      "ja": "彼がそのプロジェクトの<b>指揮</b>を取ったの。",
+      "hrkt": "かれ が その プロジェクト の <b>しき</b> を とった の。",
+      "latn": "kare ga sono purojekuto no <b>shiki</b> wo totta no.",
+      "en": "He took the initiative in the project.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01782A.mp3"
+    }
+  ]
+}

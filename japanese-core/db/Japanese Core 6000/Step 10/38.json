@@ -1,0 +1,18 @@
+{
+  "ja": "打ち消す",
+  "hrkt": "うちけす",
+  "latn": "uchikesu",
+  "en": "negate, deny",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03428A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はその噂を<b>打ち消した</b>。",
+      "hrkt": "かれ は その うわさ を <b>うちけした</b>。",
+      "latn": "kare ha sono uwasa wo <b>uchikeshita</b>.",
+      "en": "He denied the rumor.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/81dkaoc0j8.mp3"
+    }
+  ]
+}

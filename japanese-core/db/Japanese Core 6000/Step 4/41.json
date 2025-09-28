@@ -1,0 +1,18 @@
+{
+  "ja": "膨れる",
+  "hrkt": "ふくれる",
+  "latn": "fukureru",
+  "en": "expand, grow big",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03052A.mp3",
+  "sentences": [
+    {
+      "ja": "お腹が<b>膨れたら</b>眠くなった。",
+      "hrkt": "おなか が <b>ふくれたら</b> ねむく なった。",
+      "latn": "onaka ga <b>fukuretara</b> nemuku natta.",
+      "en": "Now that I'm full, I'm sleepy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03052A.mp3"
+    }
+  ]
+}

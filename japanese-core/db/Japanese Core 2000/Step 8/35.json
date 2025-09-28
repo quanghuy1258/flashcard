@@ -1,0 +1,26 @@
+{
+  "ja": "ぺらぺら",
+  "hrkt": "ぺらぺら",
+  "latn": "perapera",
+  "en": "fluently, in a chatty way",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08333A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はドイツ語が<b>ぺらぺら</b>です。",
+      "hrkt": "かのじょ は ドイツ ご が <b>ぺらぺら</b> です。",
+      "latn": "kanojo ha doitsu go ga <b>perapera</b> desu.",
+      "en": "She speaks German fluently.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1757360.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08333A.mp3"
+    },
+    {
+      "ja": "私は日本語が<b>ぺらぺら</b>になりたいです。",
+      "hrkt": "わたし は にほん ご が <b>ぺらぺら</b> に なりたい です。",
+      "latn": "watashi ha nihon go ga <b>perapera</b> ni naritai desu.",
+      "en": "I want to be fluent in Japanese.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/821ta73i54.mp3"
+    }
+  ]
+}

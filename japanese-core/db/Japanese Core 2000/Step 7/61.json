@@ -1,0 +1,26 @@
+{
+  "ja": "消しゴム",
+  "hrkt": "けしゴム",
+  "latn": "keshigomu",
+  "en": "eraser",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02665A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>消しゴム</b>を貸してください。",
+      "hrkt": "<b>けしゴム</b> を かして ください。",
+      "latn": "<b>keshigomu</b> wo kashite kudasai.",
+      "en": "Can I borrow your eraser?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6321251.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02665A.mp3"
+    },
+    {
+      "ja": "えんぴつや<b>消しゴム</b>にも名前を書いてください。",
+      "hrkt": "えんぴつ や <b>けしゴム</b> に も なまえ を かいて ください。",
+      "latn": "enpitsu ya <b>keshigomu</b> ni mo namae wo kaite kudasai.",
+      "en": "Please write your name on the pencils and erasers.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/519jci8s0s.mp3"
+    }
+  ]
+}

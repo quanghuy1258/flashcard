@@ -1,0 +1,26 @@
+{
+  "ja": "死ぬ",
+  "hrkt": "しぬ",
+  "latn": "shinu",
+  "en": "die",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03814A.mp3",
+  "sentences": [
+    {
+      "ja": "犬が病気で<b>死にました</b>。",
+      "hrkt": "いぬ が びょうき で <b>しにました</b>。",
+      "latn": "inu ga byouki de <b>shinimashita</b>.",
+      "en": "Our dog died of disease.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/401011.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03814A.mp3"
+    },
+    {
+      "ja": "うちのネコが<b>死んで</b>、とても悲しいです。",
+      "hrkt": "うち の ネコ が <b>しんで</b>、とても かなしい です。",
+      "latn": "uchi no neko ga <b>shinde</b>,totemo kanashii desu.",
+      "en": "I'm very sad that our cat died.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f452187o7g.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "走る",
+  "hrkt": "はしる",
+  "latn": "hashiru",
+  "en": "run",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07309A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は毎晩3キロ<b>走って</b>います。",
+      "hrkt": "かれ は まいばん 3 キロ <b>はしって</b> います。",
+      "latn": "kare ha maiban 3 kiro <b>hashitte</b> imasu.",
+      "en": "Every night he runs three kilometers.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4182446.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07309A.mp3"
+    },
+    {
+      "ja": "彼は<b>走る</b>のが速い。",
+      "hrkt": "かれ は <b>はしる</b> の が はやい。",
+      "latn": "kare ha <b>hashiru</b> no ga hayai.",
+      "en": "He runs fast.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4542942.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07466A.mp3"
+    }
+  ]
+}

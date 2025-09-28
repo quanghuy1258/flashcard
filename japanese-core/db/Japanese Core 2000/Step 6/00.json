@@ -1,0 +1,26 @@
+{
+  "ja": "再来年",
+  "hrkt": "さらいねん",
+  "latn": "sarainen",
+  "en": "the year after next",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03502A.mp3",
+  "sentences": [
+    {
+      "ja": "次のオリンピックは<b>再来年</b>です。",
+      "hrkt": "つぎ の オリンピック は <b>さらいねん</b> です。",
+      "latn": "tsugi no orinpikku ha <b>sarainen</b> desu.",
+      "en": "The next Olympics will be held the year after next.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/926298.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03502A.mp3"
+    },
+    {
+      "ja": "娘は<b>再来年</b>、小学生になります。",
+      "hrkt": "むすめ は <b>さらいねん</b>、しょうがくせい に なります。",
+      "latn": "musume ha <b>sarainen</b>,shougakusei ni narimasu.",
+      "en": "My daughter will be an elementary school student the year after next.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c3eefh98dg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "狭める",
+  "hrkt": "せばめる",
+  "latn": "sebameru",
+  "en": "narrow (something)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02690A.mp3",
+  "sentences": [
+    {
+      "ja": "もっと範囲を<b>狭めて</b>探しましょう。",
+      "hrkt": "もっと はんい を <b>せばめて</b> さがしましょう。",
+      "latn": "motto hani wo <b>sebamete</b> sagashimashou.",
+      "en": "Let's narrow down our search field even further.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02690A.mp3"
+    }
+  ]
+}

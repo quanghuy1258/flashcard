@@ -1,0 +1,18 @@
+{
+  "ja": "大して",
+  "hrkt": "たいして",
+  "latn": "taishite",
+  "en": "(not) very, (not that) much",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03146A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>大して</b>嬉しそうには見えなかったよね。",
+      "hrkt": "かれ は <b>たいして</b> うれし そう に は みえなかった よ ね。",
+      "latn": "kare ha <b>taishite</b> ureshi sou ni ha mienakatta yo ne.",
+      "en": "He didn't look that happy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03146A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "借り",
+  "hrkt": "かり",
+  "latn": "kari",
+  "en": "debt, to owe someone something",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03276A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>借り</b>は必ず返します。",
+      "hrkt": "この <b>かり</b> は かならず かえします。",
+      "latn": "kono <b>kari</b> ha kanarazu kaeshimasu.",
+      "en": "I will definitely pay you back.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03276A.mp3"
+    }
+  ]
+}

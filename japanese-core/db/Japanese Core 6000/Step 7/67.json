@@ -1,0 +1,18 @@
+{
+  "ja": "相づち",
+  "hrkt": "あいづち",
+  "latn": "aizuchi",
+  "en": "supportive reaction",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03416A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の話に私は<b>相づち</b>を打ったの。",
+      "hrkt": "かれ の はなし に わたし は <b>あいづち</b> を うった の。",
+      "latn": "kare no hanashi ni watashi ha <b>aizuchi</b> wo utta no.",
+      "en": "I chimed in with him as he spoke.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03416A.mp3"
+    }
+  ]
+}

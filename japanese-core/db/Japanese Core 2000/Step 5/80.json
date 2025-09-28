@@ -1,0 +1,26 @@
+{
+  "ja": "ソース",
+  "hrkt": "ソース",
+  "latn": "so-su",
+  "en": "sauce",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05025A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ソース</b>はどれですか。",
+      "hrkt": "<b>ソース</b> は どれ です か。",
+      "latn": "<b>so-su</b> ha dore desu ka.",
+      "en": "Which is the sauce?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/181192.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05025A.mp3"
+    },
+    {
+      "ja": "今日はトマト<b>ソース</b>をたくさん作りました。",
+      "hrkt": "きょう は トマト <b>ソース</b> を たくさん つくりました。",
+      "latn": "kyou ha tomato <b>so-su</b> wo takusan tsukurimashita.",
+      "en": "I made a lot of tomato sauce today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/332r2dcu0s.mp3"
+    }
+  ]
+}

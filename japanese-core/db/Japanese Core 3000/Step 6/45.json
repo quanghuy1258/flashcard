@@ -1,0 +1,18 @@
+{
+  "ja": "マヨネーズ",
+  "hrkt": "マヨネーズ",
+  "latn": "mayone-zu",
+  "en": "mayonnaise",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03256A.mp3",
+  "sentences": [
+    {
+      "ja": "サラダに<b>マヨネーズ</b>をかけたの。",
+      "hrkt": "サラダ に <b>マヨネーズ</b> を かけた の。",
+      "latn": "sarada ni <b>mayone-zu</b> wo kaketa no.",
+      "en": "I put mayonnaise on the salad.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/232r0v5plc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03256A.mp3"
+    }
+  ]
+}

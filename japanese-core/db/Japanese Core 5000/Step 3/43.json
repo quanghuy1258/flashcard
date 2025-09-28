@@ -1,0 +1,18 @@
+{
+  "ja": "増減",
+  "hrkt": "ぞうげん",
+  "latn": "zougen",
+  "en": "increase and decrease, rise and fall",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02452A.mp3",
+  "sentences": [
+    {
+      "ja": "この数年、体重は<b>増減</b>していません。",
+      "hrkt": "この すうねん、たいじゅう は <b>ぞうげん</b> して いません。",
+      "latn": "kono suunen,taijuu ha <b>zougen</b> shite imasen.",
+      "en": "My weight has not increased or decreased for the past few years.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02452A.mp3"
+    }
+  ]
+}

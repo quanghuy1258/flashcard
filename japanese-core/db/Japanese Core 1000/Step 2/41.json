@@ -1,0 +1,26 @@
+{
+  "ja": "紙",
+  "hrkt": "かみ",
+  "latn": "kami",
+  "en": "paper",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01768A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>紙</b>と鉛筆はありますか。",
+      "hrkt": "<b>かみ</b> と えんぴつ は あります か。",
+      "latn": "<b>kami</b> to enpitsu ha arimasu ka.",
+      "en": "Do you have paper and pencil?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5330999.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01768A.mp3"
+    },
+    {
+      "ja": "<b>紙</b>に大きな丸を描きました。",
+      "hrkt": "<b>かみ</b> に おおきな まる を かきました。",
+      "latn": "<b>kami</b> ni ookina maru wo kakimashita.",
+      "en": "I drew a big circle on the paper.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5197423.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08806A.mp3"
+    }
+  ]
+}

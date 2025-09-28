@@ -1,0 +1,18 @@
+{
+  "ja": "冷凍",
+  "hrkt": "れいとう",
+  "latn": "reitou",
+  "en": "freeze, frozen",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02134A.mp3",
+  "sentences": [
+    {
+      "ja": "残ったカレーを<b>冷凍</b>しました。",
+      "hrkt": "のこった カレー を <b>れいとう</b> しました。",
+      "latn": "nokotta kare- wo <b>reitou</b> shimashita.",
+      "en": "I froze the left-over curry.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02134A.mp3"
+    }
+  ]
+}

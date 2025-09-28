@@ -1,0 +1,18 @@
+{
+  "ja": "同時",
+  "hrkt": "どうじ",
+  "latn": "douji",
+  "en": "simultaneous, at the same time",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00365A.mp3",
+  "sentences": [
+    {
+      "ja": "二人の走者は<b>同時</b>にゴールしたよ。",
+      "hrkt": "ふたり の そうしゃ は <b>どうじ</b> に ゴール した よ。",
+      "latn": "futari no sousha ha <b>douji</b> ni go-ru shita yo.",
+      "en": "The two runners reached the goal at the same time.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00365A.mp3"
+    }
+  ]
+}

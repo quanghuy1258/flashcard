@@ -1,0 +1,18 @@
+{
+  "ja": "割り算",
+  "hrkt": "わりざん",
+  "latn": "warizan",
+  "en": "division (math)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW10070A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>割り算</b>は小学校で習います。",
+      "hrkt": "<b>わりざん</b> は しょうがっこう で ならいます。",
+      "latn": "<b>warizan</b> ha shougakkou de naraimasu.",
+      "en": "Division is taught in elementary school.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10070A.mp3"
+    }
+  ]
+}

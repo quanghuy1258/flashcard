@@ -1,0 +1,26 @@
+{
+  "ja": "急行",
+  "hrkt": "きゅうこう",
+  "latn": "kyuukou",
+  "en": "express train",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02203A.mp3",
+  "sentences": [
+    {
+      "ja": "ちょうど<b>急行</b>電車が来た。",
+      "hrkt": "ちょうど <b>きゅうこう</b> でんしゃ が きた。",
+      "latn": "choudo <b>kyuukou</b> densha ga kita.",
+      "en": "The express train just arrived.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3658613.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02203A.mp3"
+    },
+    {
+      "ja": "<b>急行</b>はその駅には止まりません。",
+      "hrkt": "<b>きゅうこう</b> は その えき に は とまりません。",
+      "latn": "<b>kyuukou</b> ha sono eki ni ha tomarimasen.",
+      "en": "The express train doesn't stop at that station.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/95881r7t8o.mp3"
+    }
+  ]
+}

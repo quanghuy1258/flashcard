@@ -1,0 +1,26 @@
+{
+  "ja": "履く",
+  "hrkt": "はく",
+  "latn": "haku",
+  "en": "put on (shoes), wear (pants, skirt)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07240A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はブーツを<b>履いて</b>います。",
+      "hrkt": "かのじょ は ブーツ を <b>はいて</b> います。",
+      "latn": "kanojo ha bu-tsu wo <b>haite</b> imasu.",
+      "en": "She's wearing boots.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5778808.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07240A.mp3"
+    },
+    {
+      "ja": "彼女は茶色の靴を<b>履いて</b>います。",
+      "hrkt": "かのじょ は ちゃいろ の くつ を <b>はいて</b> います。",
+      "latn": "kanojo ha chairo no kutsu wo <b>haite</b> imasu.",
+      "en": "She's wearing brown shoes.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3940210.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05621A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "当分",
+  "hrkt": "とうぶん",
+  "latn": "toubun",
+  "en": "for some time, for the time being",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01654A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>当分</b>学校を休むそうです。",
+      "hrkt": "かのじょ は <b>とうぶん</b> がっこう を やすむ そうです。",
+      "latn": "kanojo ha <b>toubun</b> gakkou wo yasumu soudesu.",
+      "en": "It seems she'll be absent from school for some time.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01654A.mp3"
+    }
+  ]
+}

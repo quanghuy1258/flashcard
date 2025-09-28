@@ -1,0 +1,26 @@
+{
+  "ja": "ドル",
+  "hrkt": "ドル",
+  "latn": "doru",
+  "en": "dollar",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06571A.mp3",
+  "sentences": [
+    {
+      "ja": "この服は300<b>ドル</b>しました。",
+      "hrkt": "この ふく は 300 <b>ドル</b> しました。",
+      "latn": "kono fuku ha 300 <b>doru</b> shimashita.",
+      "en": "These clothes cost 300 dollars.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3868669.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06571A.mp3"
+    },
+    {
+      "ja": "今、１<b>ドル</b>何円ですか。",
+      "hrkt": "いま、 １ <b>ドル</b> なん えん です か。",
+      "latn": "ima, 1 <b>doru</b> nan en desu ka.",
+      "en": "How much is a dollar in Japanese yen now?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/154t3rfpmg.mp3"
+    }
+  ]
+}

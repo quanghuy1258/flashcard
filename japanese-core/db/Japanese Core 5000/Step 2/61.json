@@ -1,0 +1,18 @@
+{
+  "ja": "潜る",
+  "hrkt": "もぐる",
+  "latn": "moguru",
+  "en": "dive, go under the water",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03926A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は長い間、海に<b>潜って</b>いたの。",
+      "hrkt": "かれ は ながい あいだ 、 うみ に <b>もぐって</b> いた の。",
+      "latn": "kare ha nagai aida , umi ni <b>mogutte</b> ita no.",
+      "en": "He was diving in the sea for a long time.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03926A.mp3"
+    }
+  ]
+}

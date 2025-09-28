@@ -1,0 +1,18 @@
+{
+  "ja": "地上",
+  "hrkt": "ちじょう",
+  "latn": "chijou",
+  "en": "above ground",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00390A.mp3",
+  "sentences": [
+    {
+      "ja": "この電車は<b>地上</b>を走ります。",
+      "hrkt": "この でんしゃ は <b>ちじょう</b> を はしります。",
+      "latn": "kono densha ha <b>chijou</b> wo hashirimasu.",
+      "en": "This train runs above ground.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00390A.mp3"
+    }
+  ]
+}

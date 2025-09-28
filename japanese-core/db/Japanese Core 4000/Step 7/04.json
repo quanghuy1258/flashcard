@@ -1,0 +1,18 @@
+{
+  "ja": "文法",
+  "hrkt": "ぶんぽう",
+  "latn": "bunpou",
+  "en": "grammar",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00745A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は英語の<b>文法</b>を勉強します。",
+      "hrkt": "きょう は えいご の <b>ぶんぽう</b> を べんきょう します。",
+      "latn": "kyou ha eigo no <b>bunpou</b> wo benkyou shimasu.",
+      "en": "I'll study English grammar today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00745A.mp3"
+    }
+  ]
+}

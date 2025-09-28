@@ -1,0 +1,18 @@
+{
+  "ja": "通過",
+  "hrkt": "つうか",
+  "latn": "tsuuka",
+  "en": "passing, passage",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05799A.mp3",
+  "sentences": [
+    {
+      "ja": "次の駅は<b>通過</b>します。",
+      "hrkt": "つぎ の えき は <b>つうか</b> します。",
+      "latn": "tsugi no eki ha <b>tsuuka</b> shimasu.",
+      "en": "This train will skip the next station.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05799A.mp3"
+    }
+  ]
+}

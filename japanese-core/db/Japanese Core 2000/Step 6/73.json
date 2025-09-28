@@ -1,0 +1,26 @@
+{
+  "ja": "当時",
+  "hrkt": "とうじ",
+  "latn": "touji",
+  "en": "at that time",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06252A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>当時</b>、まだ3才だった。",
+      "hrkt": "かのじょ は <b>とうじ</b>、まだ 3 さい だった。",
+      "latn": "kanojo ha <b>touji</b>,mada 3 sai datta.",
+      "en": "She was only three years old at the time.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1217073.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06252A.mp3"
+    },
+    {
+      "ja": "事故<b>当時</b>、ここにはマンションが建っていました。",
+      "hrkt": "じこ <b>とうじ</b>、 ここ に は マンション が たって いました。",
+      "latn": "jiko <b>touji</b>, koko ni ha manshon ga tatte imashita.",
+      "en": "At the time of the accident, there was an apartment here.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d466ak9gfc.mp3"
+    }
+  ]
+}

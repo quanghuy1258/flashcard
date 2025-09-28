@@ -1,0 +1,26 @@
+{
+  "ja": "種類",
+  "hrkt": "しゅるい",
+  "latn": "shurui",
+  "en": "kind, type",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04095A.mp3",
+  "sentences": [
+    {
+      "ja": "バラにはいろいろな<b>種類</b>があります。",
+      "hrkt": "バラ に は いろいろな <b>しゅるい</b> が あります。",
+      "latn": "bara ni ha iroirona <b>shurui</b> ga arimasu.",
+      "en": "There are various types of rose.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/370761.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04095A.mp3"
+    },
+    {
+      "ja": "あのレストランはワインの<b>種類</b>が少ないです。",
+      "hrkt": "あの レストラン は ワイン の <b>しゅるい</b> が すくない です。",
+      "latn": "ano resutoran ha wain no <b>shurui</b> ga sukunai desu.",
+      "en": "That restaurant has only a few types of wine.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/2i857aclk.mp3"
+    }
+  ]
+}

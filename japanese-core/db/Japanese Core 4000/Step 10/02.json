@@ -1,0 +1,18 @@
+{
+  "ja": "都心",
+  "hrkt": "としん",
+  "latn": "toshin",
+  "en": "heart of a city, urban area",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00668A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>都心</b>に住んでいます。",
+      "hrkt": "かれ は <b>としん</b> に すんで います。",
+      "latn": "kare ha <b>toshin</b> ni sunde imasu.",
+      "en": "He lives in the urban area of the city.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00668A.mp3"
+    }
+  ]
+}

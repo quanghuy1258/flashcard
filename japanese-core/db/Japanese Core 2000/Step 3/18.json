@@ -1,0 +1,26 @@
+{
+  "ja": "弁当",
+  "hrkt": "べんとう",
+  "latn": "bentou",
+  "en": "boxed lunch",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08374A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>弁当</b>を持ってきました。",
+      "hrkt": "きょう は <b>べんとう</b> を もって きました。",
+      "latn": "kyou ha <b>bentou</b> wo motte kimashita.",
+      "en": "I brought a boxed lunch today.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3457409.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08374A.mp3"
+    },
+    {
+      "ja": "お母さんが毎日美味しいお<b>弁当</b>を作ってくれます。",
+      "hrkt": "おかあさん が まいにち おいしい お<b>べんとう</b> を つくって くれます。",
+      "latn": "okaasan ga mainichi oishii o<b>bentou</b> wo tsukutte kuremasu.",
+      "en": "My mother makes me a delicious boxed lunch every day.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/460f6a6crg.mp3"
+    }
+  ]
+}

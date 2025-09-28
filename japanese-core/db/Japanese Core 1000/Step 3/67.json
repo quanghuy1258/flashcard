@@ -1,0 +1,26 @@
+{
+  "ja": "締める",
+  "hrkt": "しめる",
+  "latn": "shimeru",
+  "en": "tighten, fasten",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03876A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はシートベルトを<b>締めた</b>。",
+      "hrkt": "かれ は シートベルト を <b>しめた</b>。",
+      "latn": "kare ha shi-toberuto wo <b>shimeta</b>.",
+      "en": "He fastened his seatbelt.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4346447.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03876A.mp3"
+    },
+    {
+      "ja": "彼は最後にネクタイを<b>締めました</b>。",
+      "hrkt": "かれ は さいご に ネクタイ を <b>しめました</b>。",
+      "latn": "kare ha saigo ni nekutai wo <b>shimemashita</b>.",
+      "en": "Lastly, he tied his tie.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/534t5q7hp4.mp3"
+    }
+  ]
+}

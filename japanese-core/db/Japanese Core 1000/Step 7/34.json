@@ -1,0 +1,26 @@
+{
+  "ja": "動物",
+  "hrkt": "どうぶつ",
+  "latn": "doubutsu",
+  "en": "animal",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06311A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>動物</b>が大好きです。",
+      "hrkt": "わたし は <b>どうぶつ</b> が だいすき です。",
+      "latn": "watashi ha <b>doubutsu</b> ga daisuki desu.",
+      "en": "I love animals.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3905904.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06311A.mp3"
+    },
+    {
+      "ja": "私はアフリカで<b>動物</b>をたくさん見ました。",
+      "hrkt": "わたし は アフリカ で <b>どうぶつ</b> を たくさん みました。",
+      "latn": "watashi ha afurika de <b>doubutsu</b> wo takusan mimashita.",
+      "en": "I saw many animals in Africa.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/6m6r2cads.mp3"
+    }
+  ]
+}

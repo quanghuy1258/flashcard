@@ -1,0 +1,18 @@
+{
+  "ja": "有毒",
+  "hrkt": "ゆうどく",
+  "latn": "yuudoku",
+  "en": "poisonous, toxic",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02664A.mp3",
+  "sentences": [
+    {
+      "ja": "その工場は<b>有毒</b>ガスを出している。",
+      "hrkt": "その こうじょう は <b>ゆうどく</b> ガス を だして いる。",
+      "latn": "sono koujou ha <b>yuudoku</b> gasu wo dashite iru.",
+      "en": "That factory discharges toxic gas.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/2l9k4h8nse5mg.mp3"
+    }
+  ]
+}

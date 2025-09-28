@@ -1,0 +1,26 @@
+{
+  "ja": "期待",
+  "hrkt": "きたい",
+  "latn": "kitai",
+  "en": "expectation, anticipation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02091A.mp3",
+  "sentences": [
+    {
+      "ja": "みんな私たちに<b>期待</b>しています。",
+      "hrkt": "みんな わたし たち に <b>きたい</b> して います。",
+      "latn": "minna watashi tachi ni <b>kitai</b> shite imasu.",
+      "en": "Everyone has high expectations of us.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2329274.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02091A.mp3"
+    },
+    {
+      "ja": "私にはみんなの<b>期待</b>が重過ぎました。",
+      "hrkt": "わたし に は みんな の <b>きたい</b> が おもすぎ ました。",
+      "latn": "watashi ni ha minna no <b>kitai</b> ga omosugi mashita.",
+      "en": "Everybody's expectation weighed me down too much.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/94el1gd64g.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "色",
+  "hrkt": "いろ",
+  "latn": "iro",
+  "en": "color",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00614A.mp3",
+  "sentences": [
+    {
+      "ja": "すてきな<b>色</b>のセーターですね。",
+      "hrkt": "すてきな <b>いろ</b> の セーター です ね。",
+      "latn": "sutekina <b>iro</b> no se-ta- desu ne.",
+      "en": "I like the color of your sweater.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4733263.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00614A.mp3"
+    },
+    {
+      "ja": "どっちの<b>色</b>が好きですか。",
+      "hrkt": "どっち の <b>いろ</b> が すき です か。",
+      "latn": "docchi no <b>iro</b> ga suki desu ka.",
+      "en": "Which color do you like?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5856048.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06462A.mp3"
+    }
+  ]
+}

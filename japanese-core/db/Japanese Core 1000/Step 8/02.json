@@ -1,0 +1,26 @@
+{
+  "ja": "あちら",
+  "hrkt": "あちら",
+  "latn": "achira",
+  "en": "over there (polite)",
+  "pos": "Pronoun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00153A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>あちら</b>に行ってみよう。",
+      "hrkt": "<b>あちら</b> に いって みよう。",
+      "latn": "<b>achira</b> ni itte miyou.",
+      "en": "Let's go over there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5321780.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00153A.mp3"
+    },
+    {
+      "ja": "お手洗いは<b>あちら</b>です。",
+      "hrkt": "おてあらい は <b>あちら</b> です。",
+      "latn": "otearai ha <b>achira</b> desu.",
+      "en": "The washroom is over there.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a34tdkegag.mp3"
+    }
+  ]
+}

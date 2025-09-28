@@ -1,0 +1,26 @@
+{
+  "ja": "必ず",
+  "hrkt": "かならず",
+  "latn": "kanarazu",
+  "en": "without exception, always",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01727A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>必ず</b>シートベルトを着けてください。",
+      "hrkt": "<b>かならず</b> シートベルト を つけて ください。",
+      "latn": "<b>kanarazu</b> shi-toberuto wo tsukete kudasai.",
+      "en": "Always wear your seatbelt.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5844186.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01727A.mp3"
+    },
+    {
+      "ja": "この薬を<b>必ず</b>飲んでください。",
+      "hrkt": "この くすり を <b>かならず</b> のんで ください。",
+      "latn": "kono kusuri wo <b>kanarazu</b> nonde kudasai.",
+      "en": "Please be sure to take this medicine.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4317504.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02445A.mp3"
+    }
+  ]
+}

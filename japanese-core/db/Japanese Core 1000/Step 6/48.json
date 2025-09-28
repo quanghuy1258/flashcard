@@ -1,0 +1,26 @@
+{
+  "ja": "止まる",
+  "hrkt": "とまる",
+  "latn": "tomaru",
+  "en": "come to a stop, cease",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06502A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝、事故で電車が<b>止まりました</b>。",
+      "hrkt": "けさ、じこ で でんしゃ が <b>とまりました</b>。",
+      "latn": "kesa,jiko de densha ga <b>tomarimashita</b>.",
+      "en": "The train stopped this morning due to an accident.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/916v8l3e8tp9e4.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06502A.mp3"
+    },
+    {
+      "ja": "目の前にタクシーが<b>止まった</b>。",
+      "hrkt": "め の まえ に タクシー が <b>とまった</b>。",
+      "latn": "me no mae ni takushi- ga <b>tomatta</b>.",
+      "en": "A taxi stopped right in front of me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d6ab918ojk.mp3"
+    }
+  ]
+}

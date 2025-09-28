@@ -1,0 +1,26 @@
+{
+  "ja": "冷える",
+  "hrkt": "ひえる",
+  "latn": "hieru",
+  "en": "cool down, get chilled",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07609A.mp3",
+  "sentences": [
+    {
+      "ja": "クーラーで体が<b>冷えた</b>。",
+      "hrkt": "クーラー で からだ が <b>ひえた</b>。",
+      "latn": "ku-ra- de karada ga <b>hieta</b>.",
+      "en": "The air conditioner's given me the chills.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4080250.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07609A.mp3"
+    },
+    {
+      "ja": "ビールが<b>冷えて</b>ますよ。",
+      "hrkt": "ビール が <b>ひえて</b> ます よ。",
+      "latn": "bi-ru ga <b>hiete</b> masu yo.",
+      "en": "The beer has been chilled.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b1cmbl7t8g.mp3"
+    }
+  ]
+}

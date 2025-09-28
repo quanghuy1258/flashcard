@@ -1,0 +1,26 @@
+{
+  "ja": "辞める",
+  "hrkt": "やめる",
+  "latn": "yameru",
+  "en": "resign, leave (one's job), quit",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09450A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は会社を<b>辞めます</b>。",
+      "hrkt": "かれ は かいしゃ を <b>やめます</b>。",
+      "latn": "kare ha kaisha wo <b>yamemasu</b>.",
+      "en": "He's leaving the company.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4323139.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09450A.mp3"
+    },
+    {
+      "ja": "こんな会社、もう<b>辞めたい</b>。",
+      "hrkt": "こんな かいしゃ、もう <b>やめたい</b>。",
+      "latn": "konna kaisha,mou <b>yametai</b>.",
+      "en": "I want to leave this (sort of) company now.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/46cl4c76ng.mp3"
+    }
+  ]
+}

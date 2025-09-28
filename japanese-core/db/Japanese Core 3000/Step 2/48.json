@@ -1,0 +1,18 @@
+{
+  "ja": "かじる",
+  "hrkt": "かじる",
+  "latn": "kajiru",
+  "en": "nibble, bite",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03571A.mp3",
+  "sentences": [
+    {
+      "ja": "弟は美味しそうにりんごを<b>かじって</b>いたよ。",
+      "hrkt": "おとうと は おいしそう に りんご を <b>かじって</b> いた よ。",
+      "latn": "otouto ha oishisou ni ringo wo <b>kajitte</b> ita yo.",
+      "en": "My little brother enjoyed nibbling an apple.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/03bo6564c0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03571A.mp3"
+    }
+  ]
+}

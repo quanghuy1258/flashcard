@@ -1,0 +1,18 @@
+{
+  "ja": "座席",
+  "hrkt": "ざせき",
+  "latn": "zaseki",
+  "en": "seat",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00927A.mp3",
+  "sentences": [
+    {
+      "ja": "飛行機の<b>座席</b>はゆったりしていたよ。",
+      "hrkt": "ひこうき の <b>ざせき</b> は ゆったり して いた よ。",
+      "latn": "hikouki no <b>zaseki</b> ha yuttari shite ita yo.",
+      "en": "The airplane seat was spacious.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00927A.mp3"
+    }
+  ]
+}

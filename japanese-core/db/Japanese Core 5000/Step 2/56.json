@@ -1,0 +1,18 @@
+{
+  "ja": "噴火",
+  "hrkt": "ふんか",
+  "latn": "funka",
+  "en": "eruption",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00712A.mp3",
+  "sentences": [
+    {
+      "ja": "島で火山が<b>噴火</b>したよ。",
+      "hrkt": "しま で かざん が <b>ふんか</b> した よ。",
+      "latn": "shima de kazan ga <b>funka</b> shita yo.",
+      "en": "There was a volcano eruption in the island.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00712A.mp3"
+    }
+  ]
+}

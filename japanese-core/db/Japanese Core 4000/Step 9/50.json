@@ -1,0 +1,18 @@
+{
+  "ja": "潰す",
+  "hrkt": "つぶす",
+  "latn": "tsubusu",
+  "en": "crush (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03749A.mp3",
+  "sentences": [
+    {
+      "ja": "ペットボトルは<b>潰して</b>捨てましょう。",
+      "hrkt": "ペットボトル は <b>つぶして</b> すてましょう。",
+      "latn": "pettobotoru ha <b>tsubushite</b> sutemashou.",
+      "en": "Before you throw away plastic bottles, make sure you crush them.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03749A.mp3"
+    }
+  ]
+}

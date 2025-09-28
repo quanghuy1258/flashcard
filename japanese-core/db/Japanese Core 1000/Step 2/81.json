@@ -1,0 +1,26 @@
+{
+  "ja": "木",
+  "hrkt": "き",
+  "latn": "ki",
+  "en": "tree, wood",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01982A.mp3",
+  "sentences": [
+    {
+      "ja": "台風で<b>木</b>が倒れた。",
+      "hrkt": "たいふう で <b>き</b> が たおれた。",
+      "latn": "taifuu de <b>ki</b> ga taoreta.",
+      "en": "A tree fell down in the typhoon.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/801899.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01982A.mp3"
+    },
+    {
+      "ja": "猿も<b>木</b>から落ちる。",
+      "hrkt": "さる も <b>き</b> から おちる。",
+      "latn": "saru mo <b>ki</b> kara ochiru.",
+      "en": "Even monkeys fall from trees.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2713295.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01124A.mp3"
+    }
+  ]
+}

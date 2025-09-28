@@ -1,0 +1,18 @@
+{
+  "ja": "ユーモア",
+  "hrkt": "ユーモア",
+  "latn": "yu-moa",
+  "en": "humor",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02168A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>ユーモア</b>のセンスがあります。",
+      "hrkt": "かのじょ は <b>ユーモア</b> の センス が あります。",
+      "latn": "kanojo ha <b>yu-moa</b> no sensu ga arimasu.",
+      "en": "She has a sense of humor.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02168A.mp3"
+    }
+  ]
+}

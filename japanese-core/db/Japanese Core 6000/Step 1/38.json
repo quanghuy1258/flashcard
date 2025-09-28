@@ -1,0 +1,18 @@
+{
+  "ja": "主題",
+  "hrkt": "しゅだい",
+  "latn": "shudai",
+  "en": "main theme",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01165A.mp3",
+  "sentences": [
+    {
+      "ja": "この小説の<b>主題</b>は反戦です。",
+      "hrkt": "この しょうせつ の <b>しゅだい</b> は はんせん です。",
+      "latn": "kono shousetsu no <b>shudai</b> ha hansen desu.",
+      "en": "The main theme of this novel is opposition to war.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01165A.mp3"
+    }
+  ]
+}

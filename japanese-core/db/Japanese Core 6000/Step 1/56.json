@@ -1,0 +1,18 @@
+{
+  "ja": "領土",
+  "hrkt": "りょうど",
+  "latn": "ryoudo",
+  "en": "territory, domain",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01659A.mp3",
+  "sentences": [
+    {
+      "ja": "ここから先は隣の国の<b>領土</b>です。",
+      "hrkt": "ここ から さき は となり の くに の <b>りょうど</b> です。",
+      "latn": "koko kara saki ha tonari no kuni no <b>ryoudo</b> desu.",
+      "en": "From here onward is a territory of the neighboring country.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01659A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "昇る",
+  "hrkt": "のぼる",
+  "latn": "noboru",
+  "en": "rise, ascend",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02783A.mp3",
+  "sentences": [
+    {
+      "ja": "太陽は東から<b>昇ります</b>。",
+      "hrkt": "たいよう は ひがし から <b>のぼります</b>。",
+      "latn": "taiyou ha higashi kara <b>noborimasu</b>.",
+      "en": "The sun rises in the east.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02783A.mp3"
+    }
+  ]
+}

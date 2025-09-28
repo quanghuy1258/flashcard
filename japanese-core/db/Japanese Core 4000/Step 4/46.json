@@ -1,0 +1,18 @@
+{
+  "ja": "指す",
+  "hrkt": "さす",
+  "latn": "sasu",
+  "en": "point to, aim at",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00492A.mp3",
+  "sentences": [
+    {
+      "ja": "時計が12時を<b>指してる</b>。",
+      "hrkt": "とけい が 12 じ を <b>さしてる</b>。",
+      "latn": "tokei ga 12 ji wo <b>sashiteru</b>.",
+      "en": "The clock is pointing to 12 o'clock.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00492A.mp3"
+    }
+  ]
+}

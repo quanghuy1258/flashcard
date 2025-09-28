@@ -1,0 +1,18 @@
+{
+  "ja": "勝敗",
+  "hrkt": "しょうはい",
+  "latn": "shouhai",
+  "en": "victory or defeat",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02385A.mp3",
+  "sentences": [
+    {
+      "ja": "このセットで<b>勝敗</b>が決まります。",
+      "hrkt": "この セット で <b>しょうはい</b> が きまります。",
+      "latn": "kono setto de <b>shouhai</b> ga kimarimasu.",
+      "en": "Victory or defeat will be decided in this set.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02385A.mp3"
+    }
+  ]
+}

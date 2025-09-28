@@ -1,0 +1,18 @@
+{
+  "ja": "派閥",
+  "hrkt": "はばつ",
+  "latn": "habatsu",
+  "en": "clique, faction",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00358A.mp3",
+  "sentences": [
+    {
+      "ja": "あの大学には<b>派閥</b>がたくさんあります。",
+      "hrkt": "あの だいがく に は <b>はばつ</b> が たくさん あります。",
+      "latn": "ano daigaku ni ha <b>habatsu</b> ga takusan arimasu.",
+      "en": "There are a lot of cliques at that university.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00358A.mp3"
+    }
+  ]
+}

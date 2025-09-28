@@ -1,0 +1,26 @@
+{
+  "ja": "口",
+  "hrkt": "くち",
+  "latn": "kuchi",
+  "en": "mouth",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02463A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>口</b>を大きく開けてください。",
+      "hrkt": "<b>くち</b> を おおきく あけて ください。",
+      "latn": "<b>kuchi</b> wo ookiku akete kudasai.",
+      "en": "Open wide, please.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5665028.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02463A.mp3"
+    },
+    {
+      "ja": "食べる時は<b>口</b>を閉じなさい。",
+      "hrkt": "たべる とき は <b>くち</b> を とじなさい。",
+      "latn": "taberu toki ha <b>kuchi</b> wo tojinasai.",
+      "en": "Close your mouth when eating.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/964j8tf5ig.mp3"
+    }
+  ]
+}

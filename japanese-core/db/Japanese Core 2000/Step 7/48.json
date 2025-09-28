@@ -1,0 +1,26 @@
+{
+  "ja": "航空便",
+  "hrkt": "こうくうびん",
+  "latn": "koukuubin",
+  "en": "airmail, airfreight",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02893A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>航空便</b>で書類が届きました。",
+      "hrkt": "<b>こうくうびん</b> で しょるい が とどきました。",
+      "latn": "<b>koukuubin</b> de shorui ga todokimashita.",
+      "en": "The document was delivered by airmail.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4745137.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02893A.mp3"
+    },
+    {
+      "ja": "この荷物を<b>航空便</b>で送りたいのですが。",
+      "hrkt": "この にもつ を <b>こうくうびん</b> で おくりたい の です が。",
+      "latn": "kono nimotsu wo <b>koukuubin</b> de okuritai no desu ga.",
+      "en": "I'd like to send this package by airmail.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c24i6m6uc8.mp3"
+    }
+  ]
+}

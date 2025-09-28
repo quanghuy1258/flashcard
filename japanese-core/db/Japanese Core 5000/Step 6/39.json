@@ -1,0 +1,18 @@
+{
+  "ja": "陸",
+  "hrkt": "りく",
+  "latn": "riku",
+  "en": "land, shore",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03959A.mp3",
+  "sentences": [
+    {
+      "ja": "ウミガメが<b>陸</b>に上がってきたんだ。",
+      "hrkt": "ウミガメ が <b>りく</b> に あがって きた ん だ。",
+      "latn": "umigame ga <b>riku</b> ni agatte kita n da.",
+      "en": "The sea turtles came up to the land.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03959A.mp3"
+    }
+  ]
+}

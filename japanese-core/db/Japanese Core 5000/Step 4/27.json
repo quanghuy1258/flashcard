@@ -1,0 +1,18 @@
+{
+  "ja": "刺さる",
+  "hrkt": "ささる",
+  "latn": "sasaru",
+  "en": "stick, get stuck",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02519A.mp3",
+  "sentences": [
+    {
+      "ja": "靴の底に釘が<b>刺さって</b>しまったんだ。",
+      "hrkt": "くつ の そこ に くぎ が <b>ささって</b> しまった ん だ。",
+      "latn": "kutsu no soko ni kugi ga <b>sasatte</b> shimatta n da.",
+      "en": "I got a nail stuck in the bottom of my shoe.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02519A.mp3"
+    }
+  ]
+}

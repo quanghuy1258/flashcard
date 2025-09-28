@@ -1,0 +1,18 @@
+{
+  "ja": "辺り",
+  "hrkt": "あたり",
+  "latn": "atari",
+  "en": "vicinity, around",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01020A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>辺り</b>を見回したの。",
+      "hrkt": "<b>あたり</b> を みまわした の。",
+      "latn": "<b>atari</b> wo mimawashita no.",
+      "en": "I looked around the area.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01020A.mp3"
+    }
+  ]
+}

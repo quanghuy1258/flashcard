@@ -1,0 +1,26 @@
+{
+  "ja": "緑色",
+  "hrkt": "みどりいろ",
+  "latn": "midoriiro",
+  "en": "green color",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08955A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>緑色</b>のジャケットを着ています。",
+      "hrkt": "かれ は <b>みどり いろ</b> の ジャケット を きて います。",
+      "latn": "kare ha <b>midori iro</b> no jaketto wo kite imasu.",
+      "en": "He's wearing a green color jacket.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5205977.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08955A.mp3"
+    },
+    {
+      "ja": "彼女の目はきれいな<b>緑色</b>です。",
+      "hrkt": "かのじょ の め は きれいな <b>みどり いろ</b> です。",
+      "latn": "kanojo no me ha kireina <b>midori iro</b> desu.",
+      "en": "Her eyes are a beautiful green.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e3dp6e23bs.mp3"
+    }
+  ]
+}

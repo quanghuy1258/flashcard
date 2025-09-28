@@ -1,0 +1,26 @@
+{
+  "ja": "南",
+  "hrkt": "みなみ",
+  "latn": "minami",
+  "en": "south",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08964A.mp3",
+  "sentences": [
+    {
+      "ja": "私の家は町の<b>南</b>にあります。",
+      "hrkt": "わたし の いえ は まち の <b>みなみ</b> に あります。",
+      "latn": "watashi no ie ha machi no <b>minami</b> ni arimasu.",
+      "en": "My house is in the south of the town.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/27847.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08964A.mp3"
+    },
+    {
+      "ja": "来年は<b>南</b>の島に行きたいです。",
+      "hrkt": "らいねん は <b>みなみ</b> の しま に いきたい です。",
+      "latn": "rainen ha <b>minami</b> no shima ni ikitai desu.",
+      "en": "Next year I want to go to a southern (tropical) island.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/638vcv9aqs.mp3"
+    }
+  ]
+}

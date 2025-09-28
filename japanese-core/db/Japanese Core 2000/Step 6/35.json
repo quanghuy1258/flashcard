@@ -1,0 +1,26 @@
+{
+  "ja": "扇風機",
+  "hrkt": "せんぷうき",
+  "latn": "senpuuki",
+  "en": "electric fan",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04929A.mp3",
+  "sentences": [
+    {
+      "ja": "暑いから<b>扇風機</b>をつけよう。",
+      "hrkt": "あつい から <b>せんぷうき</b> を つけよう。",
+      "latn": "atsui kara <b>senpuuki</b> wo tsukeyou.",
+      "en": "It's hot, so let's turn on the fan.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/f16vcnfv7un24k.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04929A.mp3"
+    },
+    {
+      "ja": "寒いので<b>扇風機</b>を止めてください。",
+      "hrkt": "さむい ので <b>せんぷうき</b> を とめて ください。",
+      "latn": "samui node <b>senpuuki</b> wo tomete kudasai.",
+      "en": "It's cold, so please stop the electric fan.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/66585r56pk.mp3"
+    }
+  ]
+}

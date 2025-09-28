@@ -1,0 +1,18 @@
+{
+  "ja": "優勝",
+  "hrkt": "ゆうしょう",
+  "latn": "yuushou",
+  "en": "championship",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00560A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちのチームが<b>優勝</b>しました。",
+      "hrkt": "わたし たち の チーム が <b>ゆうしょう</b> しました。",
+      "latn": "watashi tachi no chi-mu ga <b>yuushou</b> shimashita.",
+      "en": "Our team won the championship.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/94b12d9oes.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00560A.mp3"
+    }
+  ]
+}

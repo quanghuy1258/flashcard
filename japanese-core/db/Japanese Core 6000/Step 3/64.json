@@ -1,0 +1,18 @@
+{
+  "ja": "緩める",
+  "hrkt": "ゆるめる",
+  "latn": "yurumeru",
+  "en": "loosen (something) up",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01850A.mp3",
+  "sentences": [
+    {
+      "ja": "食べ過ぎたのでベルトを<b>緩めた</b>の。",
+      "hrkt": "たべ すぎた ので ベルト を <b>ゆるめた</b> の。",
+      "latn": "tabe sugita node beruto wo <b>yurumeta</b> no.",
+      "en": "I loosened my belt because I ate too much.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01850A.mp3"
+    }
+  ]
+}

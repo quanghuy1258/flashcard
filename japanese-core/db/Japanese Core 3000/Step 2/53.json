@@ -1,0 +1,18 @@
+{
+  "ja": "からかう",
+  "hrkt": "からかう",
+  "latn": "karakau",
+  "en": "make fun of, tease",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02636A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は時々妹を<b>からかいます</b>。",
+      "hrkt": "かれ は ときどき いもうと を <b>からかいます</b>。",
+      "latn": "kare ha tokidoki imouto wo <b>karakaimasu</b>.",
+      "en": "He sometimes makes fun of his younger sister.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a3601mesug.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02636A.mp3"
+    }
+  ]
+}

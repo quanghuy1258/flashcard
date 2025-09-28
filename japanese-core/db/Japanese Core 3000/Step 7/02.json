@@ -1,0 +1,18 @@
+{
+  "ja": "でこぼこ",
+  "hrkt": "でこぼこ",
+  "latn": "dekoboko",
+  "en": "unevenness, bumpiness",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03765A.mp3",
+  "sentences": [
+    {
+      "ja": "この道は<b>でこぼこ</b>していますね。",
+      "hrkt": "この みち は <b>でこぼこ</b> して います ね。",
+      "latn": "kono michi ha <b>dekoboko</b> shite imasu ne.",
+      "en": "This road is bumpy.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d1do89dpfc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03765A.mp3"
+    }
+  ]
+}

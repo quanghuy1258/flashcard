@@ -1,0 +1,18 @@
+{
+  "ja": "溝",
+  "hrkt": "みぞ",
+  "latn": "mizo",
+  "en": "ditch, groove",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03904A.mp3",
+  "sentences": [
+    {
+      "ja": "車が<b>溝</b>にはまったの。",
+      "hrkt": "くるま が <b>みぞ</b> に はまった の。",
+      "latn": "kuruma ga <b>mizo</b> ni hamatta no.",
+      "en": "My car got stuck in a ditch.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03904A.mp3"
+    }
+  ]
+}

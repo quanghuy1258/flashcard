@@ -1,0 +1,26 @@
+{
+  "ja": "勝つ",
+  "hrkt": "かつ",
+  "latn": "katsu",
+  "en": "win",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01669A.mp3",
+  "sentences": [
+    {
+      "ja": "今日はヤンキースが<b>勝った</b>。",
+      "hrkt": "きょう は ヤンキース が <b>かった</b>。",
+      "latn": "kyou ha yanki-su ga <b>katta</b>.",
+      "en": "The Yankees won today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/650111.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01669A.mp3"
+    },
+    {
+      "ja": "誰も彼には<b>勝てません</b>。",
+      "hrkt": "だれ も かれ に は <b>かてません</b>。",
+      "latn": "dare mo kare ni ha <b>katemasen</b>.",
+      "en": "Nobody can win against him.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/355cd91a30.mp3"
+    }
+  ]
+}

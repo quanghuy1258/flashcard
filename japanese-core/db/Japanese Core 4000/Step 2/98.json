@@ -1,0 +1,18 @@
+{
+  "ja": "科目",
+  "hrkt": "かもく",
+  "latn": "kamoku",
+  "en": "school subject",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01404A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は3<b>科目</b>のテストを受けたよ。",
+      "hrkt": "きょう は 3 <b>かもく</b> の テスト を うけた よ。",
+      "latn": "kyou ha 3 <b>kamoku</b> no tesuto wo uketa yo.",
+      "en": "I took exams for three subjects today.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c5359gcglg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01404A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "至る",
+  "hrkt": "いたる",
+  "latn": "itaru",
+  "en": "come to, reach",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00328A.mp3",
+  "sentences": [
+    {
+      "ja": "ようやく結論に<b>至った</b>ようね",
+      "hrkt": "ようやく けつろん に <b>いたった</b> よう ね。",
+      "latn": "youyaku ketsuron ni <b>itatta</b> you ne.",
+      "en": "It seems that we've finally reached a conclusion.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c553eebmcs.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00328A.mp3"
+    },
+    {
+      "ja": "彼らはやっと結論に<b>至った</b>。",
+      "hrkt": "かれら は やっと けつろん に <b>いたった</b>。",
+      "latn": "karera ha yatto ketsuron ni <b>itatta</b>.",
+      "en": "They've finally reached a conclusion.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e4695t0ek0.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/9494e434k0.mp3"
+    }
+  ]
+}

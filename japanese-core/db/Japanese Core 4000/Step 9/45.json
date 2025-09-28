@@ -1,0 +1,18 @@
+{
+  "ja": "鳴らす",
+  "hrkt": "ならす",
+  "latn": "narasu",
+  "en": "make a sound with (something)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01367A.mp3",
+  "sentences": [
+    {
+      "ja": "お坊さんが鐘を<b>鳴らして</b>いますね。",
+      "hrkt": "おぼうさん が かね を <b>ならして</b> います ね。",
+      "latn": "obousan ga kane wo <b>narashite</b> imasu ne.",
+      "en": "The monk is sounding the bell.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01367A.mp3"
+    }
+  ]
+}

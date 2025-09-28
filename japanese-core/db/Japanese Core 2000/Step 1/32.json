@@ -1,0 +1,26 @@
+{
+  "ja": "趣味",
+  "hrkt": "しゅみ",
+  "latn": "shumi",
+  "en": "hobby, interest",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04088A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>趣味</b>は映画とテニスです。",
+      "hrkt": "わたし の <b>しゅみ</b> は えいが と テニス です。",
+      "latn": "watashi no <b>shumi</b> ha eiga to tenisu desu.",
+      "en": "My hobbies are playing tennis and watching movies.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5573923.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04088A.mp3"
+    },
+    {
+      "ja": "私の<b>趣味</b>は読書です。",
+      "hrkt": "わたし の <b>しゅみ</b> は どくしょ です。",
+      "latn": "watashi no <b>shumi</b> ha dokusho desu.",
+      "en": "My hobby is reading.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/6l0eel1iufhc0.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00823A.mp3"
+    }
+  ]
+}

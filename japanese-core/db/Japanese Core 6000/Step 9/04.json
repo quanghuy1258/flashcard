@@ -1,0 +1,18 @@
+{
+  "ja": "裏表",
+  "hrkt": "うらおもて",
+  "latn": "uraomote",
+  "en": "inside-out, front and back",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03543A.mp3",
+  "sentences": [
+    {
+      "ja": "シャツを<b>裏表</b>に着ていますよ。",
+      "hrkt": "シャツ を <b>うらおもて</b> に きて います よ。",
+      "latn": "shatsu wo <b>uraomote</b> ni kite imasu yo.",
+      "en": "You are wearing your shirt inside-out.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03543A.mp3"
+    }
+  ]
+}

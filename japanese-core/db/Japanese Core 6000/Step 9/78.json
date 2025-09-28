@@ -1,0 +1,18 @@
+{
+  "ja": "武士",
+  "hrkt": "ぶし",
+  "latn": "bushi",
+  "en": "Samurai warrior",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02458A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の家柄は<b>武士</b>でした。",
+      "hrkt": "かれ の いえがら は <b>ぶし</b> でした。",
+      "latn": "kare no iegara ha <b>bushi</b> deshita.",
+      "en": "He comes from a Samurai warrior family.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02458A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "冷める",
+  "hrkt": "さめる",
+  "latn": "sameru",
+  "en": "cool off",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03491A.mp3",
+  "sentences": [
+    {
+      "ja": "彼への気持ちが<b>冷めた</b>。",
+      "hrkt": "かれ へ の きもち が <b>さめた</b>。",
+      "latn": "kare he no kimochi ga <b>sameta</b>.",
+      "en": "My feelings for him have died down.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6243131.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03491A.mp3"
+    },
+    {
+      "ja": "スープが<b>冷めて</b>います。",
+      "hrkt": "スープ が <b>さめて</b> います。",
+      "latn": "su-pu ga <b>samete</b> imasu.",
+      "en": "The soup has gone cold.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/533t434bms.mp3"
+    }
+  ]
+}

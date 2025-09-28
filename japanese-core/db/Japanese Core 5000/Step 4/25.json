@@ -1,0 +1,18 @@
+{
+  "ja": "出迎え",
+  "hrkt": "でむかえ",
+  "latn": "demukae",
+  "en": "picking someone up, greeting",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02488A.mp3",
+  "sentences": [
+    {
+      "ja": "空港へ彼女を<b>出迎え</b>に行きました。",
+      "hrkt": "くうこう へ かのじょ を <b>でむかえ</b> に いきました。",
+      "latn": "kuukou he kanojo wo <b>demukae</b> ni ikimashita.",
+      "en": "I went to the airport to pick her up.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02488A.mp3"
+    }
+  ]
+}

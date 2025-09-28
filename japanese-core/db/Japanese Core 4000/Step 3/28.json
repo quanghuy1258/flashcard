@@ -1,0 +1,18 @@
+{
+  "ja": "楽器",
+  "hrkt": "がっき",
+  "latn": "gakki",
+  "en": "musical instrument",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01303A.mp3",
+  "sentences": [
+    {
+      "ja": "私が好きな<b>楽器</b>はギターです。",
+      "hrkt": "わたし が すきな <b>がっき</b> は ギター です。",
+      "latn": "watashi ga sukina <b>gakki</b> ha gita- desu.",
+      "en": "My favorite instrument is the guitar.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01303A.mp3"
+    }
+  ]
+}

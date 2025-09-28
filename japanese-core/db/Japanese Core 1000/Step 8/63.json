@@ -1,0 +1,26 @@
+{
+  "ja": "魚",
+  "hrkt": "さかな",
+  "latn": "sakana",
+  "en": "fish",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03363A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>魚</b>がたくさん泳いでいます。",
+      "hrkt": "<b>さかな</b> が たくさん およいで います。",
+      "latn": "<b>sakana</b> ga takusan oyoide imasu.",
+      "en": "There are a lot of fish swimming.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3853486.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03363A.mp3"
+    },
+    {
+      "ja": "肉と<b>魚</b>とどちらが好きですか。",
+      "hrkt": "にく と <b>さかな</b> と どちら が すき です か。",
+      "latn": "niku to <b>sakana</b> to dochira ga suki desu ka.",
+      "en": "Which do you prefer, meat or fish?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4268469.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06450A.mp3"
+    }
+  ]
+}

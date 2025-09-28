@@ -1,0 +1,18 @@
+{
+  "ja": "区域",
+  "hrkt": "くいき",
+  "latn": "kuiki",
+  "en": "zone, district",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01042A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは危険<b>区域</b>よ。",
+      "hrkt": "ここ は きけん <b>くいき</b> よ。",
+      "latn": "koko ha kiken <b>kuiki</b> yo.",
+      "en": "This is a danger zone.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01042A.mp3"
+    }
+  ]
+}

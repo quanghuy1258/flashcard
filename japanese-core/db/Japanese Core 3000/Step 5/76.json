@@ -1,0 +1,18 @@
+{
+  "ja": "おにぎり",
+  "hrkt": "おにぎり",
+  "latn": "onigiri",
+  "en": "rice ball",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03268A.mp3",
+  "sentences": [
+    {
+      "ja": "昼食に<b>おにぎり</b>を食べました。",
+      "hrkt": "ちゅうしょく に <b>おにぎり</b> を たべました。",
+      "latn": "chuushoku ni <b>onigiri</b> wo tabemashita.",
+      "en": "I ate rice balls for lunch.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e51b93aabs.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03268A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "結ぶ",
+  "hrkt": "むすぶ",
+  "latn": "musubu",
+  "en": "tie, join",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00429A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は髪にリボンを<b>結んだ</b>ね。",
+      "hrkt": "かのじょ は かみ に リボン を <b>むすんだ</b> ね。",
+      "latn": "kanojo ha kami ni ribon wo <b>musunda</b> ne.",
+      "en": "She tied a ribbon in her hair.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b19o633reo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00429A.mp3"
+    }
+  ]
+}

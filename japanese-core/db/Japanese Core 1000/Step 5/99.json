@@ -1,0 +1,26 @@
+{
+  "ja": "パート",
+  "hrkt": "パート",
+  "latn": "pa-to",
+  "en": "part-time",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/2ldl5n3jkga5s.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>パート</b>で働いています。",
+      "hrkt": "かのじょ は <b>パート</b> で はたらいて います。",
+      "latn": "kanojo ha <b>pa-to</b> de hataraite imasu.",
+      "en": "She is working part time.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2469664.jpg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/el3l8n2jk47ik.mp3"
+    },
+    {
+      "ja": "妻が<b>パート</b>の仕事を探しています。",
+      "hrkt": "つま が <b>パート</b> の しごと を さがして います。",
+      "latn": "tsuma ga <b>pa-to</b> no shigoto wo sagashite imasu.",
+      "en": "My wife is looking for a part-time job.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e58f4kb2rs.mp3"
+    }
+  ]
+}

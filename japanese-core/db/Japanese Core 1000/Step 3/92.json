@@ -1,0 +1,26 @@
+{
+  "ja": "戻る",
+  "hrkt": "もどる",
+  "latn": "modoru",
+  "en": "return to a point of departure",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09318A.mp3",
+  "sentences": [
+    {
+      "ja": "今、会社に<b>戻ります</b>。",
+      "hrkt": "いま、かいしゃ に <b>もどります</b>。",
+      "latn": "ima,kaisha ni <b>modorimasu</b>.",
+      "en": "I'm going back to the office now.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4724688.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09318A.mp3"
+    },
+    {
+      "ja": "彼は一人でホテルに<b>戻った</b>。",
+      "hrkt": "かれ は ひとり で ホテル に <b>もどった</b>。",
+      "latn": "kare ha hitori de hoteru ni <b>modotta</b>.",
+      "en": "He returned to the hotel by himself.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/835d0d4mbc.mp3"
+    }
+  ]
+}

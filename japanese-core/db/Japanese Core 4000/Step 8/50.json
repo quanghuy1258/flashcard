@@ -1,0 +1,18 @@
+{
+  "ja": "東洋",
+  "hrkt": "とうよう",
+  "latn": "touyou",
+  "en": "the East",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01807A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>東洋</b>文化を研究しているよ。",
+      "hrkt": "かれ は <b>とうよう</b> ぶんか を けんきゅう して いる よ。",
+      "latn": "kare ha <b>touyou</b> bunka wo kenkyuu shite iru yo.",
+      "en": "He's doing research on Eastern cultures.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01807A.mp3"
+    }
+  ]
+}

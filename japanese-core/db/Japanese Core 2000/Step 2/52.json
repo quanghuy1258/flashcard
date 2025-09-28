@@ -1,0 +1,26 @@
+{
+  "ja": "光る",
+  "hrkt": "ひかる",
+  "latn": "hikaru",
+  "en": "shine, emit light, sparkle",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07623A.mp3",
+  "sentences": [
+    {
+      "ja": "波がきらきら<b>光って</b>いました。",
+      "hrkt": "なみ が きらきら <b>ひかって</b> いました。",
+      "latn": "nami ga kirakira <b>hikatte</b> imashita.",
+      "en": "The waves sparkled brilliantly.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5155238.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07623A.mp3"
+    },
+    {
+      "ja": "星がきらきら<b>光って</b>いる。",
+      "hrkt": "ほし が きらきら <b>ひかって</b> いる。",
+      "latn": "hoshi ga kirakira <b>hikatte</b> iru.",
+      "en": "The stars are shining brightly.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5488424.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02315A.mp3"
+    }
+  ]
+}

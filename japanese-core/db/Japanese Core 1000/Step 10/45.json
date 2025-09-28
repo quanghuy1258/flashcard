@@ -1,0 +1,26 @@
+{
+  "ja": "分かれる",
+  "hrkt": "わかれる",
+  "latn": "wakareru",
+  "en": "be divided, split off",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW10014A.mp3",
+  "sentences": [
+    {
+      "ja": "グループの中で意見が<b>分かれました</b>。",
+      "hrkt": "グループ の なか で いけん が <b>わかれました</b>。",
+      "latn": "guru-pu no naka de iken ga <b>wakaremashita</b>.",
+      "en": "Opinion was divided within the group.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1805738.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10014A.mp3"
+    },
+    {
+      "ja": "彼とクラスが<b>分かれて</b>しまった。",
+      "hrkt": "かれ と クラス が <b>わかれて</b> しまった。",
+      "latn": "kare to kurasu ga <b>wakarete</b> shimatta.",
+      "en": "He and I were separated into different classes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/157i3he7r4.mp3"
+    }
+  ]
+}

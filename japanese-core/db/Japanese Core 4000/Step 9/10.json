@@ -1,0 +1,18 @@
+{
+  "ja": "独り言",
+  "hrkt": "ひとりごと",
+  "latn": "hitorigoto",
+  "en": "to talk to oneself",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03249A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はいつも<b>独り言</b>を言うんだ。",
+      "hrkt": "かのじょ は いつも <b>ひとりごと</b> を いう んだ。",
+      "latn": "kanojo ha itsumo <b>hitorigoto</b> wo iu nda.",
+      "en": "She's always talking to herself.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03249A.mp3"
+    }
+  ]
+}

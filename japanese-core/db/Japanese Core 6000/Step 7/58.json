@@ -1,0 +1,18 @@
+{
+  "ja": "現住所",
+  "hrkt": "げんじゅうしょ",
+  "latn": "genjuusho",
+  "en": "present address",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03213A.mp3",
+  "sentences": [
+    {
+      "ja": "ここには<b>現住所</b>を書いてください。",
+      "hrkt": "ここ に は <b>げんじゅうしょ</b> を かいて ください。",
+      "latn": "koko ni ha <b>genjuusho</b> wo kaite kudasai.",
+      "en": "Please write your current address here.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03213A.mp3"
+    }
+  ]
+}

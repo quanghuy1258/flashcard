@@ -1,0 +1,26 @@
+{
+  "ja": "奥さん",
+  "hrkt": "おくさん",
+  "latn": "okusan",
+  "en": "(someone else's) wife, married woman",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01035A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>奥さん</b>はきれいな方です。",
+      "hrkt": "かれ の <b>おくさん</b> は きれいな かた です。",
+      "latn": "kare no <b>okusan</b> ha kireina kata desu.",
+      "en": "His wife is beautiful.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5501294.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01035A.mp3"
+    },
+    {
+      "ja": "彼は<b>奥さん</b>より年下です。",
+      "hrkt": "かれ は <b>おくさん</b> より としした です。",
+      "latn": "kare ha <b>okusan</b> yori toshishita desu.",
+      "en": "He's younger than his wife.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2690348.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06427A.mp3"
+    }
+  ]
+}

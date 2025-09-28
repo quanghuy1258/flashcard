@@ -1,0 +1,26 @@
+{
+  "ja": "ジャム",
+  "hrkt": "ジャム",
+  "latn": "jamu",
+  "en": "jam",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03929A.mp3",
+  "sentences": [
+    {
+      "ja": "このいちごで<b>ジャム</b>を作りましょう。",
+      "hrkt": "この いちご で <b>ジャム</b> を つくりましょう。",
+      "latn": "kono ichigo de <b>jamu</b> wo tsukurimashou.",
+      "en": "Let's make jam from these strawberries.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4750212.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03929A.mp3"
+    },
+    {
+      "ja": "朝、パンにリンゴ<b>ジャム</b>を塗って食べました。",
+      "hrkt": "あさ、パン に リンゴ <b>ジャム</b> を ぬって たべました。",
+      "latn": "asa,pan ni ringo <b>jamu</b> wo nutte tabemashita.",
+      "en": "In the morning, I spread apple jam on bread and ate it.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/257pen7mks.mp3"
+    }
+  ]
+}

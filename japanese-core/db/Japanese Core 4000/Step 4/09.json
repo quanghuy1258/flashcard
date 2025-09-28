@@ -1,0 +1,18 @@
+{
+  "ja": "影",
+  "hrkt": "かげ",
+  "latn": "kage",
+  "en": "shadow, shade",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00991A.mp3",
+  "sentences": [
+    {
+      "ja": "窓に男性の<b>影</b>が映っています。",
+      "hrkt": "まど に だんせい の <b>かげ</b> が うつって います。",
+      "latn": "mado ni dansei no <b>kage</b> ga utsutte imasu.",
+      "en": "There is a man's shadow reflected in the window.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00991A.mp3"
+    }
+  ]
+}

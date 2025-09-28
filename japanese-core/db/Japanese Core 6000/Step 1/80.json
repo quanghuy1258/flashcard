@@ -1,0 +1,18 @@
+{
+  "ja": "追跡",
+  "hrkt": "ついせき",
+  "latn": "tsuiseki",
+  "en": "chase, tracking down",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01636A.mp3",
+  "sentences": [
+    {
+      "ja": "パトカーが車を<b>追跡</b>しているわ。",
+      "hrkt": "パトカー が くるま を <b>ついせき</b> して いる わ。",
+      "latn": "patoka- ga kuruma wo <b>tsuiseki</b> shite iru wa.",
+      "en": "A police car is chasing a car.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01636A.mp3"
+    }
+  ]
+}

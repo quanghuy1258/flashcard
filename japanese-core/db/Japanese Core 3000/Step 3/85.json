@@ -1,0 +1,18 @@
+{
+  "ja": "悩み",
+  "hrkt": "なやみ",
+  "latn": "nayami",
+  "en": "troubles, worries",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00841A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大きな<b>悩み</b>を抱えていました。",
+      "hrkt": "かれ は おおきな <b>なやみ</b> を かかえて いました。",
+      "latn": "kare ha ookina <b>nayami</b> wo kakaete imashita.",
+      "en": "He had a major concern.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f5c349bomk.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00841A.mp3"
+    }
+  ]
+}

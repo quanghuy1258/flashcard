@@ -1,0 +1,18 @@
+{
+  "ja": "要する",
+  "hrkt": "ようする",
+  "latn": "yousuru",
+  "en": "require, need",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00945A.mp3",
+  "sentences": [
+    {
+      "ja": "このビルは完成までに2年を<b>要した</b>。",
+      "hrkt": "この ビル は かんせい まで に 2 ねん を <b>ようした</b>。",
+      "latn": "kono biru ha kansei made ni 2 nen wo <b>youshita</b>.",
+      "en": "This building needed two years to be completed.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00945A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "本当",
+  "hrkt": "ほんとう",
+  "latn": "hontou",
+  "en": "reality, genuine",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08605A.mp3",
+  "sentences": [
+    {
+      "ja": "その話は<b>本当</b>ですか。",
+      "hrkt": "その はなし は <b>ほんとう</b> です か。",
+      "latn": "sono hanashi ha <b>hontou</b> desu ka.",
+      "en": "Is the story real?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5759102.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08605A.mp3"
+    },
+    {
+      "ja": "<b>本当</b>は私は彼女が好きです。",
+      "hrkt": "<b>ほんとう</b> は わたし は かのじょ が すき です。",
+      "latn": "<b>hontou</b> ha watashi ha kanojo ga suki desu.",
+      "en": "Actually, I like her.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/188r9j21b4.mp3"
+    }
+  ]
+}

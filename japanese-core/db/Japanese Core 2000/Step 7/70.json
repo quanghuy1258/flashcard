@@ -1,0 +1,26 @@
+{
+  "ja": "臭い",
+  "hrkt": "くさい",
+  "latn": "kusai",
+  "en": "stinky",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02427A.mp3",
+  "sentences": [
+    {
+      "ja": "納豆は<b>臭い</b>。",
+      "hrkt": "なっとう は <b>くさい</b>。",
+      "latn": "nattou ha <b>kusai</b>.",
+      "en": "Natto stinks.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5292385.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02427A.mp3"
+    },
+    {
+      "ja": "ドリアンは<b>臭い</b>けど、美味しいです。",
+      "hrkt": "ドリアン は <b>くさい</b> けど 、 おいしい です 。",
+      "latn": "dorian ha <b>kusai</b> kedo , oishii desu .",
+      "en": "Durian stinks but tastes good.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e6bp8p5ems.mp3"
+    }
+  ]
+}

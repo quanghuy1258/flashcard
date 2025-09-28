@@ -1,0 +1,18 @@
+{
+  "ja": "左利き",
+  "hrkt": "ひだりきき",
+  "latn": "hidarikiki",
+  "en": "left-handedness",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03844A.mp3",
+  "sentences": [
+    {
+      "ja": "私の息子は<b>左利き</b>です。",
+      "hrkt": "わたし の むすこ は <b>ひだりきき</b> です。",
+      "latn": "watashi no musuko ha <b>hidarikiki</b> desu.",
+      "en": "My son is left-handed.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/944gc05ob8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03844A.mp3"
+    }
+  ]
+}

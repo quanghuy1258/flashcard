@@ -1,0 +1,18 @@
+{
+  "ja": "おしまい",
+  "hrkt": "おしまい",
+  "latn": "oshimai",
+  "en": "end",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03555A.mp3",
+  "sentences": [
+    {
+      "ja": "話はこれで<b>おしまい</b>です。",
+      "hrkt": "はなし は これ で <b>おしまい</b> です。",
+      "latn": "hanashi ha kore de <b>oshimai</b> desu.",
+      "en": "This is the end of the story.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03555A.mp3"
+    }
+  ]
+}

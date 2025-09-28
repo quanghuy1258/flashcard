@@ -1,0 +1,26 @@
+{
+  "ja": "ちょうど",
+  "hrkt": "ちょうど",
+  "latn": "choudo",
+  "en": "just, exactly",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05722A.mp3",
+  "sentences": [
+    {
+      "ja": "値段は<b>ちょうど</b>3万円です。",
+      "hrkt": "ねだん は <b>ちょうど</b> 3 まん えん です。",
+      "latn": "nedan ha <b>choudo</b> 3 man en desu.",
+      "en": "The price is exactly 30,000 yen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5458575.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05722A.mp3"
+    },
+    {
+      "ja": "時計を見たら<b>ちょうど</b>3時だった。",
+      "hrkt": "とけい を みたら <b>ちょうど</b> 3 じ だった。",
+      "latn": "tokei wo mitara <b>choudo</b> 3 ji datta.",
+      "en": "It was exactly three when I looked at the clock.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6112542.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06405A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "イカ",
+  "hrkt": "イカ",
+  "latn": "ika",
+  "en": "squid",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/4ldfaa938jnkg.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>イカ</b>の刺し身が大好きです。",
+      "hrkt": "わたし は <b>イカ</b> の さしみ が だいすき です。",
+      "latn": "watashi ha <b>ika</b> no sashimi ga daisuki desu.",
+      "en": "I love squid sashimi.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/453vem1g8s.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03525A.mp3"
+    }
+  ]
+}

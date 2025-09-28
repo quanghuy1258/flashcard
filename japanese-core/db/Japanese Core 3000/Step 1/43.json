@@ -1,0 +1,18 @@
+{
+  "ja": "速達",
+  "hrkt": "そくたつ",
+  "latn": "sokutatsu",
+  "en": "special delivery, express delivery",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05038A.mp3",
+  "sentences": [
+    {
+      "ja": "これを<b>速達</b>で送りたいのですが。",
+      "hrkt": "これ を <b>そくたつ</b> で おくりたい の です が。",
+      "latn": "kore wo <b>sokutatsu</b> de okuritai no desu ga.",
+      "en": "I want to send this by special delivery.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a56fajca4k.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05038A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "カレーライス",
+  "hrkt": "カレーライス",
+  "latn": "kare-raisu",
+  "en": "curry rice",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01836A.mp3",
+  "sentences": [
+    {
+      "ja": "子供は<b>カレーライス</b>が好きです。",
+      "hrkt": "こども は <b>カレーライス</b> が すき です。",
+      "latn": "kodomo ha <b>kare-raisu</b> ga suki desu.",
+      "en": "Kids like curry and rice.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/431121.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01836A.mp3"
+    },
+    {
+      "ja": "<b>カレーライス</b>は700円です。",
+      "hrkt": "<b>カレーライス</b> は 700 えん です。",
+      "latn": "<b>kare-raisu</b> ha 700 en desu.",
+      "en": "The curry and rice is 700 yen.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/878927.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00884A.mp3"
+    }
+  ]
+}

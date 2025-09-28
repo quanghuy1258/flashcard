@@ -1,0 +1,18 @@
+{
+  "ja": "物音",
+  "hrkt": "ものおと",
+  "latn": "monooto",
+  "en": "noise, sound",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02227A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>物音</b>がしたので見にいった。",
+      "hrkt": "<b>ものおと</b> が した ので み に いった 。",
+      "latn": "<b>monooto</b> ga shita node mi ni itta .",
+      "en": "I heard a noise, so I went to look.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02227A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "緩む",
+  "hrkt": "ゆるむ",
+  "latn": "yurumu",
+  "en": "come loose, be off-guard",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02502A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は気が<b>緩んで</b>います。",
+      "hrkt": "かれ は き が <b>ゆるんで</b> います。",
+      "latn": "kare ha ki ga <b>yurunde</b> imasu.",
+      "en": "He's off-guard.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02502A.mp3"
+    }
+  ]
+}

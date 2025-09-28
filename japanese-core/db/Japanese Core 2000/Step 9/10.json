@@ -1,0 +1,26 @@
+{
+  "ja": "暖まる",
+  "hrkt": "あたたまる",
+  "latn": "atatamaru",
+  "en": "get warm (air, atmosphere, etc.)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00143A.mp3",
+  "sentences": [
+    {
+      "ja": "まだ部屋が<b>暖まらない</b>。",
+      "hrkt": "まだ へや が <b>あたたまらない</b>。",
+      "latn": "mada heya ga <b>atatamaranai</b>.",
+      "en": "The room hasn't warmed up yet.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5924466.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00143A.mp3"
+    },
+    {
+      "ja": "早くお風呂に入って<b>暖まりたい</b>。",
+      "hrkt": "はやく おふろ に はいって <b>あたたまりたい</b>。",
+      "latn": "hayaku ofuro ni haitte <b>atatamaritai</b>.",
+      "en": "I can't wait to take a bath and warm up.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/14f3cb35s0.mp3"
+    }
+  ]
+}

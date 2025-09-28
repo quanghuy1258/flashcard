@@ -1,0 +1,26 @@
+{
+  "ja": "カラー",
+  "hrkt": "カラー",
+  "latn": "kara-",
+  "en": "color (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01799A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>カラー</b>コピーは一枚いくらですか。",
+      "hrkt": "<b>カラー</b> コピー は いち まい いくら です か。",
+      "latn": "<b>kara-</b> kopi- ha ichi mai ikura desu ka.",
+      "en": "How much is a color copy?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5009635.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01799A.mp3"
+    },
+    {
+      "ja": "私たちのチームの<b>カラー</b>は青です。",
+      "hrkt": "わたし たち の チーム の <b>カラー</b> は あお です。",
+      "latn": "watashi tachi no chi-mu no <b>kara-</b> ha ao desu.",
+      "en": "Our team color is blue.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/05986mbhqg.mp3"
+    }
+  ]
+}

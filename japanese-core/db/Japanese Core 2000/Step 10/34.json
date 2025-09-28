@@ -1,0 +1,26 @@
+{
+  "ja": "分野",
+  "hrkt": "ぶんや",
+  "latn": "bun'ya",
+  "en": "field, area",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08275A.mp3",
+  "sentences": [
+    {
+      "ja": "音楽は彼の得意な<b>分野</b>です。",
+      "hrkt": "おんがく は かれ の とくいな <b>ぶんや</b> です。",
+      "latn": "ongaku ha kare no tokuina <b>bun'ya</b> desu.",
+      "en": "Music is his field of specialty.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4096332.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08275A.mp3"
+    },
+    {
+      "ja": "私は、ほかの<b>分野</b>で働いたことがありません。",
+      "hrkt": "わたし は、ほか の <b>ぶんや</b> で はたらいた こと が ありません。",
+      "latn": "watashi ha,hoka no <b>bun'ya</b> de hataraita koto ga arimasen.",
+      "en": "I've never worked in other fields.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/04976m2l2g.mp3"
+    }
+  ]
+}

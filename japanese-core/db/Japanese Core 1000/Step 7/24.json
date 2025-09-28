@@ -1,0 +1,26 @@
+{
+  "ja": "孫",
+  "hrkt": "まご",
+  "latn": "mago",
+  "en": "grandchild",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08682A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、<b>孫</b>が生まれました。",
+      "hrkt": "きのう、<b>まご</b> が うまれました。",
+      "latn": "kinou,<b>mago</b> ga umaremashita.",
+      "en": "My grandchild was born yesterday.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3829930.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08682A.mp3"
+    },
+    {
+      "ja": "彼には<b>孫</b>が8人いる。",
+      "hrkt": "かれ に は <b>まご</b> が 8 にん いる。",
+      "latn": "kare ni ha <b>mago</b> ga 8 nin iru.",
+      "en": "He has eight grandchildren.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/54754a8g4k.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "無くす",
+  "hrkt": "なくす",
+  "latn": "nakusu",
+  "en": "lose, get rid of",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06663A.mp3",
+  "sentences": [
+    {
+      "ja": "今日、鍵を<b>無くしました</b>。",
+      "hrkt": "きょう かぎ を <b>なくしました</b>。",
+      "latn": "kyou kagi wo <b>nakushimashita</b>.",
+      "en": "I lost my key today.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2871963.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06663A.mp3"
+    },
+    {
+      "ja": "学校で財布を<b>無くした</b>。",
+      "hrkt": "がっこう で さいふ を <b>なくした</b>。",
+      "latn": "gakkou de saifu wo <b>nakushita</b>.",
+      "en": "I lost my wallet at school.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/14691v8e54.mp3"
+    }
+  ]
+}

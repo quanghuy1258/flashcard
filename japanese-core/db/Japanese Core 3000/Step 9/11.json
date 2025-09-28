@@ -1,0 +1,18 @@
+{
+  "ja": "建築",
+  "hrkt": "けんちく",
+  "latn": "kenchiku",
+  "en": "construction, architecture",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00242A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは家を<b>建築</b>中です。",
+      "hrkt": "かれら は いえ を <b>けんちく</b> ちゅう です。",
+      "latn": "karera ha ie wo <b>kenchiku</b> chuu desu.",
+      "en": "They are building a house.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/54855e3otg.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00242A.mp3"
+    }
+  ]
+}

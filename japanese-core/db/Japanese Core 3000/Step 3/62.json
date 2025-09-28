@@ -1,0 +1,18 @@
+{
+  "ja": "所得",
+  "hrkt": "しょとく",
+  "latn": "shotoku",
+  "en": "income, earnings",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00593A.mp3",
+  "sentences": [
+    {
+      "ja": "ここに去年の<b>所得</b>をご記入ください。",
+      "hrkt": "ここ に きょねん の <b>しょとく</b> を ごきにゅう ください。",
+      "latn": "koko ni kyonen no <b>shotoku</b> wo gokinyuu kudasai.",
+      "en": "Please fill in last year's income here.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f4buc54f7s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00593A.mp3"
+    }
+  ]
+}

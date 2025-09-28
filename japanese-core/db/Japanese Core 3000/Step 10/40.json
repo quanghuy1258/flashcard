@@ -1,0 +1,18 @@
+{
+  "ja": "組",
+  "hrkt": "くみ",
+  "latn": "kumi",
+  "en": "school class, group, pair",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00729A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は1年2<b>組</b>の生徒です。",
+      "hrkt": "かれ は 1 ねん 2 <b>くみ</b> の せいと です。",
+      "latn": "kare ha 1 nen 2 <b>kumi</b> no seito desu.",
+      "en": "He's a student in first grade, second class.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f1284516ts.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00729A.mp3"
+    }
+  ]
+}

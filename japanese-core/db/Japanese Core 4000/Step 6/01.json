@@ -1,0 +1,18 @@
+{
+  "ja": "恐れる",
+  "hrkt": "おそれる",
+  "latn": "osoreru",
+  "en": "fear, worry",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00834A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は受験の失敗を<b>恐れて</b>います。",
+      "hrkt": "かれ は じゅけん の しっぱい を <b>おそれて</b> います。",
+      "latn": "kare ha juken no shippai wo <b>osorete</b> imasu.",
+      "en": "He is worried that he might fail the exam.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00834A.mp3"
+    }
+  ]
+}

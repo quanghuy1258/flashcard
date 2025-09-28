@@ -1,0 +1,18 @@
+{
+  "ja": "月日",
+  "hrkt": "がっぴ",
+  "latn": "gappi",
+  "en": "month and date",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03578A.mp3",
+  "sentences": [
+    {
+      "ja": "ここに生年<b>月日</b>を記入してください。",
+      "hrkt": "ここ に せいねん<b>がっぴ</b> を きにゅう して ください。",
+      "latn": "koko ni seinen<b>gappi</b> wo kinyuu shite kudasai.",
+      "en": "Please write your date of birth here.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03578A.mp3"
+    }
+  ]
+}

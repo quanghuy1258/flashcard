@@ -1,0 +1,26 @@
+{
+  "ja": "おしゃれ",
+  "hrkt": "おしゃれ",
+  "latn": "oshare",
+  "en": "trendy, fashionable",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01089A.mp3",
+  "sentences": [
+    {
+      "ja": "あの子は<b>おしゃれ</b>だね。",
+      "hrkt": "あの こ は <b>おしゃれ</b> だ ね。",
+      "latn": "ano ko ha <b>oshare</b> da ne.",
+      "en": "That girl is trendy.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5567295.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01089A.mp3"
+    },
+    {
+      "ja": "彼はいつも<b>おしゃれ</b>な服を着ています。",
+      "hrkt": "かれ は いつも <b>おしゃれ</b>な ふく を きて います。",
+      "latn": "kare ha itsumo <b>oshare</b>na fuku wo kite imasu.",
+      "en": "He always wears fashionable clothes.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f4ce560q4s.mp3"
+    }
+  ]
+}

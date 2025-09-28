@@ -1,0 +1,26 @@
+{
+  "ja": "熱い",
+  "hrkt": "あつい",
+  "latn": "atsui",
+  "en": "hot (to touch)",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00157A.mp3",
+  "sentences": [
+    {
+      "ja": "このスープはとても<b>熱い</b>。",
+      "hrkt": "この スープ は とても <b>あつい</b>。",
+      "latn": "kono su-pu ha totemo <b>atsui</b>.",
+      "en": "This soup is very hot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3935018.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00157A.mp3"
+    },
+    {
+      "ja": "私のおばあちゃんは<b>熱い</b>お茶が好きです。",
+      "hrkt": "わたし の おばあちゃん は <b>あつい</b> おちゃ が すき です。",
+      "latn": "watashi no obaachan ha <b>atsui</b> ocha ga suki desu.",
+      "en": "My grandmother likes hot tea.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/645t6c6fac.mp3"
+    }
+  ]
+}

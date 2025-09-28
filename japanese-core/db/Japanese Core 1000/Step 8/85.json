@@ -1,0 +1,26 @@
+{
+  "ja": "鳥",
+  "hrkt": "とり",
+  "latn": "tori",
+  "en": "bird",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06533A.mp3",
+  "sentences": [
+    {
+      "ja": "あそこに綺麗な<b>鳥</b>がいます。",
+      "hrkt": "あそこ に きれいな <b>とり</b> が います 。",
+      "latn": "asoko ni kireina <b>tori</b> ga imasu .",
+      "en": "There's a beautiful bird there.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4025666.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06533A.mp3"
+    },
+    {
+      "ja": "<b>鳥</b>が飛んでいます。",
+      "hrkt": "<b>とり</b> が とんで います。",
+      "latn": "<b>tori</b> ga tonde imasu.",
+      "en": "A bird is flying.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4974442.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06495A.mp3"
+    }
+  ]
+}

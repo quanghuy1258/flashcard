@@ -1,0 +1,18 @@
+{
+  "ja": "斜め",
+  "hrkt": "ななめ",
+  "latn": "naname",
+  "en": "diagonal, slant",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02047A.mp3",
+  "sentences": [
+    {
+      "ja": "ここに<b>斜め</b>に線を引いてください。",
+      "hrkt": "ここ に <b>ななめ</b> に せん を ひいて ください。",
+      "latn": "koko ni <b>naname</b> ni sen wo hiite kudasai.",
+      "en": "Please draw a diagonal line here.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02047A.mp3"
+    }
+  ]
+}

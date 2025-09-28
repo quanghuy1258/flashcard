@@ -1,0 +1,18 @@
+{
+  "ja": "寄り集まる",
+  "hrkt": "よりあつまる",
+  "latn": "yoriatsumaru",
+  "en": "gather, get together",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03408A.mp3",
+  "sentences": [
+    {
+      "ja": "ニューヨークには芸術家が<b>寄り集まって</b>いるの。",
+      "hrkt": "ニューヨーク に は げいじゅつ か が <b>よりあつまって</b> いる の。",
+      "latn": "nyu-yo-ku ni ha geijutsu ka ga <b>yoriatsumatte</b> iru no.",
+      "en": "New York is where artists come and get together.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03408A.mp3"
+    }
+  ]
+}

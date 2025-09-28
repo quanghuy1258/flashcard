@@ -1,0 +1,18 @@
+{
+  "ja": "単数",
+  "hrkt": "たんすう",
+  "latn": "tansuu",
+  "en": "singular",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03365A.mp3",
+  "sentences": [
+    {
+      "ja": "penは<b>単数</b>でpensは複数です。",
+      "hrkt": "pen は <b>たんすう</b> で pens は ふくすう です。",
+      "latn": "pen ha <b>tansuu</b> de pens ha fukusuu desu.",
+      "en": "\"Pen\" is the singular and \"pens\" is the plural.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03365A.mp3"
+    }
+  ]
+}

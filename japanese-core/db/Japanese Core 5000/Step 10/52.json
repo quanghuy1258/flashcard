@@ -1,0 +1,18 @@
+{
+  "ja": "徒歩",
+  "hrkt": "とほ",
+  "latn": "toho",
+  "en": "on foot",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03779A.mp3",
+  "sentences": [
+    {
+      "ja": "家から駅まで<b>徒歩</b>3分です。",
+      "hrkt": "いえ から えき まで <b>とほ</b> 3 ぷん です。",
+      "latn": "ie kara eki made <b>toho</b> 3 pun desu.",
+      "en": "It takes 3 minutes to get to the station from home on foot.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03779A.mp3"
+    }
+  ]
+}

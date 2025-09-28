@@ -1,0 +1,26 @@
+{
+  "ja": "クーラー",
+  "hrkt": "クーラー",
+  "latn": "ku-ra-",
+  "en": "air conditioner (cooling)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02418A.mp3",
+  "sentences": [
+    {
+      "ja": "暑いので<b>クーラー</b>をつけました。",
+      "hrkt": "あつい ので <b>クーラー</b> を つけました。",
+      "latn": "atsui node <b>ku-ra-</b> wo tsukemashita.",
+      "en": "I turned on the air conditioning because it was hot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5200319.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02418A.mp3"
+    },
+    {
+      "ja": "今年の夏は<b>クーラー</b>がよく売れた。",
+      "hrkt": "ことし の なつ は <b>クーラー</b> が よく うれた。",
+      "latn": "kotoshi no natsu ha <b>ku-ra-</b> ga yoku ureta.",
+      "en": "Air conditioners sold well this summer.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1853187.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00803A.mp3"
+    }
+  ]
+}

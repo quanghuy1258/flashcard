@@ -1,0 +1,18 @@
+{
+  "ja": "引っ掛かる",
+  "hrkt": "ひっかかる",
+  "latn": "hikkakaru",
+  "en": "be caught, be trapped",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03168A.mp3",
+  "sentences": [
+    {
+      "ja": "魚の骨がのどに<b>引っ掛かった</b>。",
+      "hrkt": "さかな の ほね が のど に <b>ひっかかった</b>。",
+      "latn": "sakana no hone ga nodo ni <b>hikkakatta</b>.",
+      "en": "A fish bone got caught in my throat.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03168A.mp3"
+    }
+  ]
+}

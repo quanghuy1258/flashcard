@@ -1,0 +1,18 @@
+{
+  "ja": "幹",
+  "hrkt": "みき",
+  "latn": "miki",
+  "en": "tree trunk",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03899A.mp3",
+  "sentences": [
+    {
+      "ja": "この木の<b>幹</b>はとても太いよ。",
+      "hrkt": "この き の <b>みき</b> は とても ふとい よ。",
+      "latn": "kono ki no <b>miki</b> ha totemo futoi yo.",
+      "en": "The trunk of this tree is very thick.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03899A.mp3"
+    }
+  ]
+}

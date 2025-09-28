@@ -1,0 +1,26 @@
+{
+  "ja": "朝刊",
+  "hrkt": "ちょうかん",
+  "latn": "choukan",
+  "en": "morning edition paper",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05703A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の<b>朝刊</b>に面白い記事があった。",
+      "hrkt": "きょう の <b>ちょうかん</b> に おもしろい きじ が あった。",
+      "latn": "kyou no <b>choukan</b> ni omoshiroi kiji ga atta.",
+      "en": "There was an interesting article in today's morning paper.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5164843.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05703A.mp3"
+    },
+    {
+      "ja": "今日は<b>朝刊</b>が来なかった。",
+      "hrkt": "きょう は <b>ちょうかん</b> が こなかった。",
+      "latn": "kyou ha <b>choukan</b> ga konakatta.",
+      "en": "The morning paper didn't come today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/45088g0nv0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "昨日",
+  "hrkt": "さくじつ",
+  "latn": "sakujitsu",
+  "en": "yesterday (formal)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03634A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>昨日</b>は雨でしたね。",
+      "hrkt": "<b>さくじつ</b> は あめ でした ね。",
+      "latn": "<b>sakujitsu</b> ha ame deshita ne.",
+      "en": "It rained yesterday.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/94623r4g9c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03634A.mp3"
+    }
+  ]
+}

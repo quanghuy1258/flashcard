@@ -1,0 +1,18 @@
+{
+  "ja": "空き",
+  "hrkt": "あき",
+  "latn": "aki",
+  "en": "vacancy, free time",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03504A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋の<b>空き</b>はありますか。",
+      "hrkt": "へや の <b>あき</b> は あります か。",
+      "latn": "heya no <b>aki</b> ha arimasu ka.",
+      "en": "Are there any vacant rooms?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03504A.mp3"
+    }
+  ]
+}

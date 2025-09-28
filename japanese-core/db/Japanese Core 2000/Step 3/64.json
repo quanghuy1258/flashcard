@@ -1,0 +1,26 @@
+{
+  "ja": "今まで",
+  "hrkt": "いままで",
+  "latn": "imamade",
+  "en": "until now",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00581A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今まで</b>どこにいたのですか。",
+      "hrkt": "<b>いま まで</b> どこ に いた の です か。",
+      "latn": "<b>ima made</b> doko ni ita no desu ka.",
+      "en": "Where have you been?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6445944.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00581A.mp3"
+    },
+    {
+      "ja": "私は<b>今まで</b>とは違いますよ。",
+      "hrkt": "わたし は <b>いま まで</b> と は ちがいます よ。",
+      "latn": "watashi ha <b>ima made</b> to ha chigaimasu yo.",
+      "en": "I'm different from before.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b664eq0lsg.mp3"
+    }
+  ]
+}

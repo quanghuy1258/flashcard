@@ -1,0 +1,26 @@
+{
+  "ja": "普段",
+  "hrkt": "ふだん",
+  "latn": "fudan",
+  "en": "usual, ordinary",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02622A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>普段</b>はTシャツとジーンズを着ています。",
+      "hrkt": "わたし は <b>ふだん</b> は ティーシャツ と ジーンズ を きて います。",
+      "latn": "watashi ha <b>fudan</b> ha ti-shatsu to ji-nzu wo kite imasu.",
+      "en": "I usually wear a T-shirt and jeans.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/0l5gds3vginqs.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02622A.mp3"
+    },
+    {
+      "ja": "私は<b>普段</b>、自転車で大学に行きます。",
+      "hrkt": "わたし は <b>ふだん</b>、 じてんしゃ で だいがく に いきます。",
+      "latn": "watashi ha <b>fudan</b>, jitensha de daigaku ni ikimasu.",
+      "en": "I usually go to university by bicycle.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b3eg6o837k.mp3"
+    }
+  ]
+}

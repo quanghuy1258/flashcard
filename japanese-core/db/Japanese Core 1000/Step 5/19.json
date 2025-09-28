@@ -1,0 +1,26 @@
+{
+  "ja": "ほとんど",
+  "hrkt": "ほとんど",
+  "latn": "hotondo",
+  "en": "almost, hardly",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08565A.mp3",
+  "sentences": [
+    {
+      "ja": "お金が<b>ほとんど</b>ありません。",
+      "hrkt": "おかね が <b>ほとんど</b> ありません。",
+      "latn": "okane ga <b>hotondo</b> arimasen.",
+      "en": "I have little money.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5730991.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08565A.mp3"
+    },
+    {
+      "ja": "ここは<b>ほとんど</b>変わっていませんね。",
+      "hrkt": "ここ は <b>ほとんど</b> かわって いません ね。",
+      "latn": "koko ha <b>hotondo</b> kawatte imasen ne.",
+      "en": "This place has hardly changed.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/94256a0rjg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "北風",
+  "hrkt": "きたかぜ",
+  "latn": "kitakaze",
+  "en": "north wind",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02444A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>北風</b>が冷たいです。",
+      "hrkt": "<b>きたかぜ</b> が つめたい です。",
+      "latn": "<b>kitakaze</b> ga tsumetai desu.",
+      "en": "The north wind is cold.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/047l3ictug.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02444A.mp3"
+    }
+  ]
+}

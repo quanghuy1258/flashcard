@@ -1,0 +1,26 @@
+{
+  "ja": "四つ",
+  "hrkt": "よっつ",
+  "latn": "yottsu",
+  "en": "four (things)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09702A.mp3",
+  "sentences": [
+    {
+      "ja": "私は腕時計を<b>四つ</b>持っています。",
+      "hrkt": "わたし は うでどけい を <b>よっつ</b> もって います。",
+      "latn": "watashi ha udedokei wo <b>yottsu</b> motte imasu.",
+      "en": "I have four wristwatches.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6094039.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09702A.mp3"
+    },
+    {
+      "ja": "じゃがいもを<b>四つ</b>に切ってください。",
+      "hrkt": "じゃがいも を <b>よっつ</b> に きって ください。",
+      "latn": "jagaimo wo <b>yottsu</b> ni kitte kudasai.",
+      "en": "Please cut the potato in four.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/969j0se1cc.mp3"
+    }
+  ]
+}

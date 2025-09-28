@@ -1,0 +1,26 @@
+{
+  "ja": "コピー",
+  "hrkt": "コピー",
+  "latn": "kopi-",
+  "en": "copy, photocopy",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03190A.mp3",
+  "sentences": [
+    {
+      "ja": "会議で書類の<b>コピー</b>を配った。",
+      "hrkt": "かいぎ で しょるい の <b>コピー</b> を くばった。",
+      "latn": "kaigi de shorui no <b>kopi-</b> wo kubatta.",
+      "en": "I handed out copies of the document at the meeting.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3784355.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03190A.mp3"
+    },
+    {
+      "ja": "カラー<b>コピー</b>は一枚いくらですか。",
+      "hrkt": "カラー <b>コピー</b> は いち まい いくら です か。",
+      "latn": "kara- <b>kopi-</b> ha ichi mai ikura desu ka.",
+      "en": "How much is a color copy?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5009635.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01799A.mp3"
+    }
+  ]
+}

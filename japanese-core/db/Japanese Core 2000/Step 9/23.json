@@ -1,0 +1,26 @@
+{
+  "ja": "掃除機",
+  "hrkt": "そうじき",
+  "latn": "soujiki",
+  "en": "vacuum cleaner",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04984A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>掃除機</b>が壊れた。",
+      "hrkt": "<b>そうじき</b> が こわれた。",
+      "latn": "<b>soujiki</b> ga kowareta.",
+      "en": "The vacuum cleaner broke.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/c14vfn0vb7qt5g.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04984A.mp3"
+    },
+    {
+      "ja": "母は毎日<b>掃除機</b>をかけます。",
+      "hrkt": "はは は まいにち <b>そうじき</b> を かけます。",
+      "latn": "haha ha mainichi <b>soujiki</b> wo kakemasu.",
+      "en": "My mother vacuums the floor every day.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a5ah5b5c7s.mp3"
+    }
+  ]
+}

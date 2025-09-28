@@ -1,0 +1,18 @@
+{
+  "ja": "旅",
+  "hrkt": "たび",
+  "latn": "tabi",
+  "en": "journey, travel",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00361A.mp3",
+  "sentences": [
+    {
+      "ja": "姉はよく<b>旅</b>をします。",
+      "hrkt": "あね は よく <b>たび</b> を します。",
+      "latn": "ane ha yoku <b>tabi</b> wo shimasu.",
+      "en": "My big sister travels a lot.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/842af088k0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00361A.mp3"
+    }
+  ]
+}

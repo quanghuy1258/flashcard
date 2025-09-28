@@ -1,0 +1,26 @@
+{
+  "ja": "季節",
+  "hrkt": "きせつ",
+  "latn": "kisetsu",
+  "en": "season",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02077A.mp3",
+  "sentences": [
+    {
+      "ja": "私の一番好きな<b>季節</b>は春です。",
+      "hrkt": "わたし の いちばん すきな <b>きせつ</b> は はる です。",
+      "latn": "watashi no ichiban sukina <b>kisetsu</b> ha haru desu.",
+      "en": "My favorite season is spring.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5724729.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02077A.mp3"
+    },
+    {
+      "ja": "日本には四つの<b>季節</b>があります。",
+      "hrkt": "にほん に は よっつ の <b>きせつ</b> が あります。",
+      "latn": "nihon ni ha yottsu no <b>kisetsu</b> ga arimasu.",
+      "en": "There are four seasons in Japan.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/33aq7l42hs.mp3"
+    }
+  ]
+}

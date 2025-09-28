@@ -1,0 +1,18 @@
+{
+  "ja": "期限",
+  "hrkt": "きげん",
+  "latn": "kigen",
+  "en": "time limit, deadline",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01186A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>期限</b>までに申し込みました。",
+      "hrkt": "<b>きげん</b> まで に もうしこみました。",
+      "latn": "<b>kigen</b> made ni moushikomimashita.",
+      "en": "I signed up before the deadline.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01186A.mp3"
+    }
+  ]
+}

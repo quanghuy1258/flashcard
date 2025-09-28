@@ -1,0 +1,18 @@
+{
+  "ja": "漬ける",
+  "hrkt": "つける",
+  "latn": "tsukeru",
+  "en": "pickle, marinade",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02933A.mp3",
+  "sentences": [
+    {
+      "ja": "魚を味噌に<b>漬けました</b>。",
+      "hrkt": "さかな を みそ に <b>つけました</b>。",
+      "latn": "sakana wo miso ni <b>tsukemashita</b>.",
+      "en": "I marinaded the fish in miso.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02933A.mp3"
+    }
+  ]
+}

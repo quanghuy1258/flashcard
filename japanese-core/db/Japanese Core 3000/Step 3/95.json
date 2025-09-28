@@ -1,0 +1,18 @@
+{
+  "ja": "驚き",
+  "hrkt": "おどろき",
+  "latn": "odoroki",
+  "en": "surprise, amazement",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01521A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>驚き</b>を隠せませんでしたよ。",
+      "hrkt": "かのじょ は <b>おどろき</b> を かくせませんでした よ。",
+      "latn": "kanojo ha <b>odoroki</b> wo kakusemasendeshita yo.",
+      "en": "She was not able to conceal her surprise.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/25fa5r5p38.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01521A.mp3"
+    }
+  ]
+}

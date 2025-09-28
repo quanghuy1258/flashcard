@@ -1,0 +1,26 @@
+{
+  "ja": "九つ",
+  "hrkt": "ここのつ",
+  "latn": "kokonotsu",
+  "en": "nine (things)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03089A.mp3",
+  "sentences": [
+    {
+      "ja": "娘は明日<b>九つ</b>になります。",
+      "hrkt": "むすめ は あす <b>ここのつ</b> に なります。",
+      "latn": "musume ha asu <b>kokonotsu</b> ni narimasu.",
+      "en": "My daughter's turning nine tomorrow.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5669371.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03089A.mp3"
+    },
+    {
+      "ja": "兄はおにぎりを<b>九つ</b>も食べた。",
+      "hrkt": "あに は おにぎり を <b>ここのつ</b> も たべた。",
+      "latn": "ani ha onigiri wo <b>kokonotsu</b> mo tabeta.",
+      "en": "My older brother ate nine rice balls.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/751i1f9uj4.mp3"
+    }
+  ]
+}

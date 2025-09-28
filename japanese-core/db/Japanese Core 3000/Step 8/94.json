@@ -1,0 +1,18 @@
+{
+  "ja": "得る",
+  "hrkt": "える",
+  "latn": "eru",
+  "en": "obtain, gain",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03547A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大金を<b>得ました</b>よ。",
+      "hrkt": "かれ は たいきん を <b>えました</b> よ。",
+      "latn": "kare ha taikin wo <b>emashita</b> yo.",
+      "en": "He gained a lot of money.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e4523r4v68.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03547A.mp3"
+    }
+  ]
+}

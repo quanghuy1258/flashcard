@@ -1,0 +1,26 @@
+{
+  "ja": "真面目",
+  "hrkt": "まじめ",
+  "latn": "majime",
+  "en": "serious and sincere",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08697A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>真面目</b>な人です。",
+      "hrkt": "かれ は <b>まじめ</b>な ひと です。",
+      "latn": "kare ha <b>majime</b>na hito desu.",
+      "en": "He's a serious and sincere person.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6395135.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08697A.mp3"
+    },
+    {
+      "ja": "彼は<b>真面目</b>な学生です。",
+      "hrkt": "かれ は <b>まじめ</b>な がくせい です。",
+      "latn": "kare ha <b>majime</b>na gakusei desu.",
+      "en": "He's a serious student.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3570153.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01515A.mp3?1220256862"
+    }
+  ]
+}

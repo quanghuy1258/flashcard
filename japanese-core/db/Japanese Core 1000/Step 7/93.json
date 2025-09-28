@@ -1,0 +1,26 @@
+{
+  "ja": "実際",
+  "hrkt": "じっさい",
+  "latn": "jissai",
+  "en": "reality, actual state",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03761A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>実際</b>にはあまり背が高くない。",
+      "hrkt": "かれ は <b>じっさい</b> に は あまり せ が たかくない。",
+      "latn": "kare ha <b>jissai</b> ni ha amari se ga takakunai.",
+      "en": "Actually, he's not very tall.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/7025888.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03761A.mp3"
+    },
+    {
+      "ja": "これは<b>実際</b>にあった話です。",
+      "hrkt": "これ は <b>じっさい</b> に あった はなし です。",
+      "latn": "kore ha <b>jissai</b> ni atta hanashi desu.",
+      "en": "This is a true story.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/04563obhl4.mp3"
+    }
+  ]
+}

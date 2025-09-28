@@ -1,0 +1,26 @@
+{
+  "ja": "食べる",
+  "hrkt": "たべる",
+  "latn": "taberu",
+  "en": "eat",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05443A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日タイカレーを<b>食べました</b>。",
+      "hrkt": "きのう タイ カレー を <b>たべました</b>。",
+      "latn": "kinou tai kare- wo <b>tabemashita</b>.",
+      "en": "I had Thai curry yesterday.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5650405.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05443A.mp3"
+    },
+    {
+      "ja": "昨日の夜は肉をたくさん<b>食べました</b>。",
+      "hrkt": "きのう の よる は にく を たくさん <b>たべました</b>。",
+      "latn": "kinou no yoru ha niku wo takusan <b>tabemashita</b>.",
+      "en": "I ate a lot of meat last night.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5083062.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06814A.mp3"
+    }
+  ]
+}

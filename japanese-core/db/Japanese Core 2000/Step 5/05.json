@@ -1,0 +1,26 @@
+{
+  "ja": "サッカー",
+  "hrkt": "サッカー",
+  "latn": "sakka-",
+  "en": "soccer, football",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03448A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>サッカー</b>の選手です。",
+      "hrkt": "かれ は <b>サッカー</b> の せんしゅ です。",
+      "latn": "kare ha <b>sakka-</b> no senshu desu.",
+      "en": "He's a soccer player.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1599174.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03448A.mp3"
+    },
+    {
+      "ja": "男の子たちが<b>サッカー</b>をしている。",
+      "hrkt": "おとこのこ たち が <b>サッカー</b> を して いる 。",
+      "latn": "otokonoko tachi ga <b>sakka-</b> wo shite iru .",
+      "en": "The boys are playing soccer.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/629842.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01138A.mp3"
+    }
+  ]
+}

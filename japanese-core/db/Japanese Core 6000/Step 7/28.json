@@ -1,0 +1,18 @@
+{
+  "ja": "洋画",
+  "hrkt": "ようが",
+  "latn": "youga",
+  "en": "foreign film",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02792A.mp3",
+  "sentences": [
+    {
+      "ja": "私は週に3本<b>洋画</b>を見ます。",
+      "hrkt": "わたし は しゅう に 3 ぼん <b>ようが</b> を みます。",
+      "latn": "watashi ha shuu ni 3 bon <b>youga</b> wo mimasu.",
+      "en": "I watch three foreign films a week.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02792A.mp3"
+    }
+  ]
+}

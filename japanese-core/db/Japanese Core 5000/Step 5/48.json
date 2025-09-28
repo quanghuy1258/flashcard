@@ -1,0 +1,18 @@
+{
+  "ja": "回り道",
+  "hrkt": "まわりみち",
+  "latn": "mawarimichi",
+  "en": "detour",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03486A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>回り道</b>して帰ろう。",
+      "hrkt": "きょう は <b>まわりみち</b> して かえろう。",
+      "latn": "kyou ha <b>mawarimichi</b> shite kaerou.",
+      "en": "Today, let's make a detour on our way home.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03486A.mp3"
+    }
+  ]
+}

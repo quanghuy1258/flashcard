@@ -1,0 +1,26 @@
+{
+  "ja": "提供",
+  "hrkt": "ていきょう",
+  "latn": "teikyou",
+  "en": "offer, provide",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05996A.mp3",
+  "sentences": [
+    {
+      "ja": "彼がパーティー会場を<b>提供</b>してくれました。",
+      "hrkt": "かれ が パーティー かいじょう を <b>ていきょう</b> して くれました。",
+      "latn": "kare ga pa-ti- kaijou wo <b>teikyou</b> shite kuremashita.",
+      "en": "He offered us a venue for the party.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5622601.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05996A.mp3"
+    },
+    {
+      "ja": "もうすぐこのサービスの<b>提供</b>が中止される。",
+      "hrkt": "もうすぐ この サービス の <b>ていきょう</b> が ちゅうし される。",
+      "latn": "mousugu kono sa-bisu no <b>teikyou</b> ga chuushi sareru.",
+      "en": "The provision of the service will be cancelled soon.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d4db6f1kb4.mp3"
+    }
+  ]
+}

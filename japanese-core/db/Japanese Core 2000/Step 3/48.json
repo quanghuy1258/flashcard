@@ -1,0 +1,26 @@
+{
+  "ja": "神社",
+  "hrkt": "じんじゃ",
+  "latn": "jinja",
+  "en": "Shinto shrine",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04393A.mp3",
+  "sentences": [
+    {
+      "ja": "京都には<b>神社</b>がたくさんある。",
+      "hrkt": "きょうと に は <b>じんじゃ</b> が たくさん ある。",
+      "latn": "kyouto ni ha <b>jinja</b> ga takusan aru.",
+      "en": "There are many Shinto shrines in Kyoto.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4859793.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04393A.mp3"
+    },
+    {
+      "ja": "今日、<b>神社</b>でお祭りがあります。",
+      "hrkt": "きょう、<b>じんじゃ</b> で おまつり が あります。",
+      "latn": "kyou,<b>jinja</b> de omatsuri ga arimasu.",
+      "en": "Today, there is a festival at the shrine.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/95bh0380og.mp3"
+    }
+  ]
+}

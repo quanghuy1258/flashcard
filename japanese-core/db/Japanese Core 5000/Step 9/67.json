@@ -1,0 +1,18 @@
+{
+  "ja": "沿う",
+  "hrkt": "そう",
+  "latn": "sou",
+  "en": "follow along",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00487A.mp3",
+  "sentences": [
+    {
+      "ja": "川に<b>沿って</b>歩いたんだ。",
+      "hrkt": "かわ に <b>そって</b> あるいた ん だ。",
+      "latn": "kawa ni <b>sotte</b> aruita n da.",
+      "en": "I walked along the river.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00487A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "九日",
+  "hrkt": "ここのか",
+  "latn": "kokonoka",
+  "en": "nine days, ninth of the month",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03088A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>九日</b>に荷物が届きます。",
+      "hrkt": "<b>ここのか</b> に にもつ が とどきます。",
+      "latn": "<b>kokonoka</b> ni nimotsu ga todokimasu.",
+      "en": "The package will arrive on the ninth.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4840075.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03088A.mp3"
+    },
+    {
+      "ja": "<b>九日</b>2時にこちらのオフィスでお会いしましょう。",
+      "hrkt": "<b>ここのか</b> 2 じ に こちら の オフィス で おあいしましょう。",
+      "latn": "<b>kokonoka</b> 2 ji ni kochira no ofisu de oaishimashou.",
+      "en": "Let's meet at our office here at 2 o'clock on the 9th.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a6fid84hfs.mp3"
+    }
+  ]
+}

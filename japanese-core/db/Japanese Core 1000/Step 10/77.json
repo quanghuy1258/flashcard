@@ -1,0 +1,26 @@
+{
+  "ja": "涙",
+  "hrkt": "なみだ",
+  "latn": "namida",
+  "en": "tear",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06734A.mp3",
+  "sentences": [
+    {
+      "ja": "母は<b>涙</b>を流していた。",
+      "hrkt": "はは は <b>なみだ</b> を ながして いた。",
+      "latn": "haha ha <b>namida</b> wo nagashite ita.",
+      "en": "My mother was crying.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4984513.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06734A.mp3"
+    },
+    {
+      "ja": "彼女は<b>涙</b>を流したんだ。",
+      "hrkt": "かのじょ は <b>なみだ</b> を ながした ん だ。",
+      "latn": "kanojo ha <b>namida</b> wo nagashita n da.",
+      "en": "She shed tears.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/15ch8dc3dg.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00759A.mp3"
+    }
+  ]
+}

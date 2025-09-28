@@ -1,0 +1,18 @@
+{
+  "ja": "万歳",
+  "hrkt": "ばんざい",
+  "latn": "banzai",
+  "en": "hurray",
+  "pos": "Interjection",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07540A.mp3",
+  "sentences": [
+    {
+      "ja": "勝った、<b>万歳</b>！",
+      "hrkt": "かった、<b>ばんざい</b>！",
+      "latn": "katta,<b>banzai</b>!",
+      "en": "We won--hurray!",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07540A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "計算",
+  "hrkt": "けいさん",
+  "latn": "keisan",
+  "en": "calculation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02615A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>計算</b>は間違っている。",
+      "hrkt": "その <b>けいさん</b> は まちがって いる。",
+      "latn": "sono <b>keisan</b> ha machigatte iru.",
+      "en": "That calculation is wrong.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2824685.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02615A.mp3"
+    },
+    {
+      "ja": "合計金額を<b>計算</b>してください。",
+      "hrkt": "ごうけい きんがく を <b>けいさん</b> して ください。",
+      "latn": "goukei kingaku wo <b>keisan</b> shite kudasai.",
+      "en": "Please calculate the total amount of money.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/25d88t72e4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00721A.mp3"
+    }
+  ]
+}

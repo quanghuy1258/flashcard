@@ -1,0 +1,18 @@
+{
+  "ja": "分裂",
+  "hrkt": "ぶんれつ",
+  "latn": "bunretsu",
+  "en": "division, split",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00929A.mp3",
+  "sentences": [
+    {
+      "ja": "会社が二つの派閥に<b>分裂</b>しているんだ。",
+      "hrkt": "かいしゃ が ふたつ の はばつ に <b>ぶんれつ</b> して いる ん だ。",
+      "latn": "kaisha ga futatsu no habatsu ni <b>bunretsu</b> shite iru n da.",
+      "en": "The company is divided into two factions.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00929A.mp3"
+    }
+  ]
+}

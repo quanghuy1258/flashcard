@@ -1,0 +1,18 @@
+{
+  "ja": "伸ばす",
+  "hrkt": "のばす",
+  "latn": "nobasu",
+  "en": "stretch, grow (something)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00543A.mp3",
+  "sentences": [
+    {
+      "ja": "ストレッチで筋肉を<b>伸ばしましょう</b>。",
+      "hrkt": "ストレッチ で きんにく を <b>のばしましょう</b>。",
+      "latn": "sutorecchi de kinniku wo <b>nobashimashou</b>.",
+      "en": "Let's stretch our muscles with exercises.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00543A.mp3"
+    }
+  ]
+}

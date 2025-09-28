@@ -1,0 +1,26 @@
+{
+  "ja": "俺",
+  "hrkt": "おれ",
+  "latn": "ore",
+  "en": "I (masculine sense)",
+  "pos": "Pronoun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01027A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>俺</b>の頼みを聞いてくれ。",
+      "hrkt": "<b>おれ</b> の たのみ を きいて くれ。",
+      "latn": "<b>ore</b> no tanomi wo kiite kure.",
+      "en": "Do me a favor.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d5f17b0irk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01027A.mp3"
+    },
+    {
+      "ja": "<b>俺</b>はロックを聞くのが好きだ。",
+      "hrkt": "<b>おれ</b> は ロック を きく の が すき だ。",
+      "latn": "<b>ore</b> ha rokku wo kiku no ga suki da.",
+      "en": "I like to listen to rock.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f5b701dlq4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01301A.mp3"
+    }
+  ]
+}

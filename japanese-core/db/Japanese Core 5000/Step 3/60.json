@@ -1,0 +1,18 @@
+{
+  "ja": "免税",
+  "hrkt": "めんぜい",
+  "latn": "menzei",
+  "en": "tax exemption",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01465A.mp3",
+  "sentences": [
+    {
+      "ja": "この商品は<b>免税</b>です。",
+      "hrkt": "この しょうひん は <b>めんぜい</b> です。",
+      "latn": "kono shouhin ha <b>menzei</b> desu.",
+      "en": "This product is tax-exempt.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01465A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "あだ名",
+  "hrkt": "あだな",
+  "latn": "adana",
+  "en": "nickname",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03513A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>あだ名</b>は「りき」です。",
+      "hrkt": "かれ の <b>あだな</b> は 「 りき 」 です。",
+      "latn": "kare no <b>adana</b> ha 「 riki 」 desu.",
+      "en": "His nickname is \"Riki.\"",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/56ee4o1544.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03513A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "曲線",
+  "hrkt": "きょくせん",
+  "latn": "kyokusen",
+  "en": "curve, curved line",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01379A.mp3",
+  "sentences": [
+    {
+      "ja": "この道は、ゆるい<b>曲線</b>を描いているよ。",
+      "hrkt": "この みち は、ゆるい <b>きょくせん</b> を えがいて いる よ。",
+      "latn": "kono michi ha,yurui <b>kyokusen</b> wo egaite iru yo.",
+      "en": "This road curves gently.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01379A.mp3"
+    }
+  ]
+}

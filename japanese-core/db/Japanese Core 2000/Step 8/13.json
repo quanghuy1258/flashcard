@@ -1,0 +1,26 @@
+{
+  "ja": "包む",
+  "hrkt": "つつむ",
+  "latn": "tsutsumu",
+  "en": "wrap, pack",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05897A.mp3",
+  "sentences": [
+    {
+      "ja": "プレゼントをきれいな紙で<b>包みました</b>。",
+      "hrkt": "プレゼント を きれいな かみ で <b>つつみました</b>。",
+      "latn": "purezento wo kireina kami de <b>tsutsumimashita</b>.",
+      "en": "I wrapped the present in beautiful paper.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5943954.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05897A.mp3"
+    },
+    {
+      "ja": "お皿を新聞紙で<b>包んで</b>ください。",
+      "hrkt": "おさら を しんぶんし で <b>つつんで</b> ください。",
+      "latn": "osara wo shinbunshi de <b>tsutsunde</b> kudasai.",
+      "en": "Please wrap the plates in newspaper.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/754k5ha5vc.mp3"
+    }
+  ]
+}

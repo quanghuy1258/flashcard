@@ -1,0 +1,26 @@
+{
+  "ja": "家内",
+  "hrkt": "かない",
+  "latn": "kanai",
+  "en": "one's wife",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01717A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>家内</b>は九州出身です。",
+      "hrkt": "<b>かない</b> は きゅうしゅう しゅっしん です。",
+      "latn": "<b>kanai</b> ha kyuushuu shusshin desu.",
+      "en": "My wife is from Kyushu.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/813569.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01717A.mp3"
+    },
+    {
+      "ja": "<b>家内</b>は今、ヨーロッパに旅行中です。",
+      "hrkt": "<b>かない</b> は いま、ヨーロッパ に りょこう ちゅう です。",
+      "latn": "<b>kanai</b> ha ima,yo-roppa ni ryokou chuu desu.",
+      "en": "My wife is on a trip to Europe now.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/229nedd7mc.mp3"
+    }
+  ]
+}

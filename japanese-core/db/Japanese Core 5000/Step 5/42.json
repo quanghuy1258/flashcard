@@ -1,0 +1,18 @@
+{
+  "ja": "休講",
+  "hrkt": "きゅうこう",
+  "latn": "kyuukou",
+  "en": "cancellation of a lecture",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03436A.mp3",
+  "sentences": [
+    {
+      "ja": "今日のフランス語の講座は<b>休講</b>です。",
+      "hrkt": "きょう の フランス ご の こうざ は <b>きゅうこう</b> です。",
+      "latn": "kyou no furansu go no kouza ha <b>kyuukou</b> desu.",
+      "en": "Today's French class has been cancelled.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03436A.mp3"
+    }
+  ]
+}

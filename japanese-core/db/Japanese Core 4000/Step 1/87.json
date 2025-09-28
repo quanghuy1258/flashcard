@@ -1,0 +1,18 @@
+{
+  "ja": "人形",
+  "hrkt": "にんぎょう",
+  "latn": "ningyou",
+  "en": "doll",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06913A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>人形</b>をたくさん持っています。",
+      "hrkt": "かのじょ は <b>にんぎょう</b> を たくさん もって います。",
+      "latn": "kanojo ha <b>ningyou</b> wo takusan motte imasu.",
+      "en": "She has a lot of dolls.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c4ed5pftu8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06913A.mp3"
+    }
+  ]
+}

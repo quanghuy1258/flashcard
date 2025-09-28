@@ -1,0 +1,26 @@
+{
+  "ja": "接続",
+  "hrkt": "せつぞく",
+  "latn": "setsuzoku",
+  "en": "connection, joining",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00060A.mp3",
+  "sentences": [
+    {
+      "ja": "コンピューターをネットワークに<b>接続</b>しました。",
+      "hrkt": "コンピューター を ネットワーク に <b>せつぞく</b> しました。",
+      "latn": "konpyu-ta- wo nettowa-ku ni <b>setsuzoku</b> shimashita.",
+      "en": "The computer has been connected with the network.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6176399.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00060A.mp3"
+    },
+    {
+      "ja": "地下鉄のWi-Fiは<b>接続</b>が悪いです。",
+      "hrkt": "ちかてつ の ワイファイ は <b>せつぞく</b> が わるい です。",
+      "latn": "chikatetsu no waifai ha <b>setsuzoku</b> ga warui desu.",
+      "en": "The Wi-Fi connection in the subway is bad.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c5dl7ic664.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "病気",
+  "hrkt": "びょうき",
+  "latn": "byouki",
+  "en": "illness",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07851A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父が<b>病気</b>になった。",
+      "hrkt": "そふ が <b>びょうき</b> に なった。",
+      "latn": "sofu ga <b>byouki</b> ni natta.",
+      "en": "My grandfather got sick.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4812445.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07851A.mp3"
+    },
+    {
+      "ja": "彼女は<b>病気</b>の犬を助けた。",
+      "hrkt": "かのじょ は <b>びょうき</b> の いぬ を たすけた。",
+      "latn": "kanojo ha <b>byouki</b> no inu wo tasuketa.",
+      "en": "She helped a sick dog.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5604597.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05338A.mp3"
+    }
+  ]
+}

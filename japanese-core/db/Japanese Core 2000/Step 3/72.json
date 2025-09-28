@@ -1,0 +1,26 @@
+{
+  "ja": "会話",
+  "hrkt": "かいわ",
+  "latn": "kaiwa",
+  "en": "conversation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01428A.mp3",
+  "sentences": [
+    {
+      "ja": "親子の<b>会話</b>は大切です。",
+      "hrkt": "おやこ の <b>かいわ</b> は たいせつ です。",
+      "latn": "oyako no <b>kaiwa</b> ha taisetsu desu.",
+      "en": "Conversation between parents and children is important.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5665586.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01428A.mp3"
+    },
+    {
+      "ja": "あの夫婦は<b>会話</b>がない。",
+      "hrkt": "あの ふうふ は <b>かいわ</b> が ない。",
+      "latn": "ano fuufu ha <b>kaiwa</b> ga nai.",
+      "en": "The couple is not having a conversation.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c54d0v9evg.mp3"
+    }
+  ]
+}

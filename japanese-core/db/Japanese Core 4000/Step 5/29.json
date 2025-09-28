@@ -1,0 +1,18 @@
+{
+  "ja": "血液",
+  "hrkt": "けつえき",
+  "latn": "ketsueki",
+  "en": "blood (formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01085A.mp3",
+  "sentences": [
+    {
+      "ja": "心臓は全身に<b>血液</b>を送り出している。",
+      "hrkt": "しんぞう は ぜんしん に <b>けつえき</b> を おくりだして いる。",
+      "latn": "shinzou ha zenshin ni <b>ketsueki</b> wo okuridashite iru.",
+      "en": "A heart sends blood to the whole body.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01085A.mp3"
+    }
+  ]
+}

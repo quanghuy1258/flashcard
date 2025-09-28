@@ -1,0 +1,18 @@
+{
+  "ja": "展覧会",
+  "hrkt": "てんらんかい",
+  "latn": "tenrankai",
+  "en": "exhibition",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01401A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、絵の<b>展覧会</b>に行ってきました。",
+      "hrkt": "きのう、え の <b>てんらん かい</b> に いって きました。",
+      "latn": "kinou,e no <b>tenran kai</b> ni itte kimashita.",
+      "en": "I went to an art exhibition yesterday.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01401A.mp3"
+    }
+  ]
+}

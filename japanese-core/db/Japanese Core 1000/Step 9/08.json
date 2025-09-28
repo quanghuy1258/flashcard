@@ -1,0 +1,26 @@
+{
+  "ja": "遊び",
+  "hrkt": "あそび",
+  "latn": "asobi",
+  "en": "game, amusement",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00135A.mp3",
+  "sentences": [
+    {
+      "ja": "お正月にはいろいろな<b>遊び</b>をします。",
+      "hrkt": "おしょうがつ に は いろいろな <b>あそび</b> を します。",
+      "latn": "oshougatsu ni ha iroirona <b>asobi</b> wo shimasu.",
+      "en": "We play a lot of games at New Year's.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3869295.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00135A.mp3"
+    },
+    {
+      "ja": "日本の<b>遊び</b>を教えてください。",
+      "hrkt": "にほん の <b>あそび</b> を おしえて ください。",
+      "latn": "nihon no <b>asobi</b> wo oshiete kudasai.",
+      "en": "Please teach me Japanese games.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/244kavead8.mp3"
+    }
+  ]
+}

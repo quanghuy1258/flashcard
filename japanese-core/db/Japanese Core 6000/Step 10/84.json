@@ -1,0 +1,18 @@
+{
+  "ja": "最上",
+  "hrkt": "さいじょう",
+  "latn": "saijou",
+  "en": "best, highest",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02476A.mp3",
+  "sentences": [
+    {
+      "ja": "このホテルでは<b>最上</b>のサービスが受けられます。",
+      "hrkt": "この ホテル で は <b>さいじょう</b> の サービス が うけられます。",
+      "latn": "kono hoteru de ha <b>saijou</b> no sa-bisu ga ukeraremasu.",
+      "en": "You can get the best service at this hotel.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02476A.mp3"
+    }
+  ]
+}

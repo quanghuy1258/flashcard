@@ -1,0 +1,26 @@
+{
+  "ja": "激しい",
+  "hrkt": "はげしい",
+  "latn": "hageshii",
+  "en": "violent, intense",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07273A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>激しい</b>雨が降っています。",
+      "hrkt": "<b>はげしい</b> あめ が ふって います。",
+      "latn": "<b>hageshii</b> ame ga futte imasu.",
+      "en": "It's raining heavily.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4929287.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07273A.mp3"
+    },
+    {
+      "ja": "彼らは昨日、<b>激しい</b>夫婦喧嘩をしました。",
+      "hrkt": "かれら は きのう 、 <b>はげしい</b> ふうふ けんか を しました 。",
+      "latn": "karera ha kinou , <b>hageshii</b> fuufu kenka wo shimashita .",
+      "en": "The married couple had an intense fight yesterday.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c5b69t3884.mp3"
+    }
+  ]
+}

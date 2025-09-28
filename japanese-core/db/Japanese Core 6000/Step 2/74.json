@@ -1,0 +1,18 @@
+{
+  "ja": "定食",
+  "hrkt": "ていしょく",
+  "latn": "teishoku",
+  "en": "set meal",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03306A.mp3",
+  "sentences": [
+    {
+      "ja": "昼の<b>定食</b>は3種類あります。",
+      "hrkt": "ひる の <b>ていしょく</b> は 3 しゅるい あります。",
+      "latn": "hiru no <b>teishoku</b> ha 3 shurui arimasu.",
+      "en": "There are three kinds of set lunch.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03306A.mp3"
+    }
+  ]
+}

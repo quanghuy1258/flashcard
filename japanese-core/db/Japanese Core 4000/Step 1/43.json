@@ -1,0 +1,18 @@
+{
+  "ja": "防止",
+  "hrkt": "ぼうし",
+  "latn": "boushi",
+  "en": "prevention",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00599A.mp3",
+  "sentences": [
+    {
+      "ja": "警察は犯罪の<b>防止</b>に努めています。",
+      "hrkt": "けいさつ は はんざい の <b>ぼうし</b> に つとめて います。",
+      "latn": "keisatsu ha hanzai no <b>boushi</b> ni tsutomete imasu.",
+      "en": "The police are making efforts to prevent crime.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/832pfc6l0o.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00599A.mp3"
+    }
+  ]
+}

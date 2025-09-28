@@ -1,0 +1,18 @@
+{
+  "ja": "組み合わせ",
+  "hrkt": "くみあわせ",
+  "latn": "kumiawase",
+  "en": "combination",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01901A.mp3",
+  "sentences": [
+    {
+      "ja": "色の<b>組み合わせ</b>で印象が変わりますよ。",
+      "hrkt": "いろ の <b>くみあわせ</b> で いんしょう が かわります よ。",
+      "latn": "iro no <b>kumiawase</b> de inshou ga kawarimasu yo.",
+      "en": "The image would change according to color combinations.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01901A.mp3"
+    }
+  ]
+}

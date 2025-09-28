@@ -1,0 +1,18 @@
+{
+  "ja": "逆",
+  "hrkt": "ぎゃく",
+  "latn": "gyaku",
+  "en": "reverse, opposite",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00648A.mp3",
+  "sentences": [
+    {
+      "ja": "駅は<b>逆</b>方向です。",
+      "hrkt": "えき は <b>ぎゃく</b> ほうこう です。",
+      "latn": "eki ha <b>gyaku</b> houkou desu.",
+      "en": "The station is in the opposite direction.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/915icj0q6c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00648A.mp3"
+    }
+  ]
+}

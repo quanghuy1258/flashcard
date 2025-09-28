@@ -1,0 +1,18 @@
+{
+  "ja": "選挙",
+  "hrkt": "せんきょ",
+  "latn": "senkyo",
+  "en": "election",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04865A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>選挙</b>に出るつもりだ。",
+      "hrkt": "かれ は <b>せんきょ</b> に でる つもり だ。",
+      "latn": "kare ha <b>senkyo</b> ni deru tsumori da.",
+      "en": "He is going to run for election.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/14a32g7ok0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04865A.mp3"
+    }
+  ]
+}

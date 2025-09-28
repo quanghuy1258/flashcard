@@ -1,0 +1,18 @@
+{
+  "ja": "寝転ぶ",
+  "hrkt": "ねころぶ",
+  "latn": "nekorobu",
+  "en": "lie down",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03802A.mp3",
+  "sentences": [
+    {
+      "ja": "土手に<b>寝転んで</b>空をながめました。",
+      "hrkt": "どて に <b>ねころんで</b> そら を ながめました。",
+      "latn": "dote ni <b>nekoronde</b> sora wo nagamemashita.",
+      "en": "I lay down on the bank and looked at the sky.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03802A.mp3"
+    }
+  ]
+}

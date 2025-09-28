@@ -1,0 +1,26 @@
+{
+  "ja": "氷",
+  "hrkt": "こおり",
+  "latn": "koori",
+  "en": "ice",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03031A.mp3",
+  "sentences": [
+    {
+      "ja": "グラスに<b>氷</b>を入れてください。",
+      "hrkt": "グラス に <b>こおり</b> を いれて ください。",
+      "latn": "gurasu ni <b>koori</b> wo irete kudasai.",
+      "en": "Please put some ice in my glass.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1081144.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03031A.mp3"
+    },
+    {
+      "ja": "アイスコーヒーを<b>氷</b>なしでお願いします。",
+      "hrkt": "アイス コーヒー を <b>こおり</b> なし で おねがい します。",
+      "latn": "aisu ko-hi- wo <b>koori</b> nashi de onegai shimasu.",
+      "en": "I'll have iced coffee without ice.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/854u9o9pus.mp3"
+    }
+  ]
+}

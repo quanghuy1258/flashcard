@@ -1,0 +1,18 @@
+{
+  "ja": "停止",
+  "hrkt": "ていし",
+  "latn": "teishi",
+  "en": "stop, suspension",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03764A.mp3",
+  "sentences": [
+    {
+      "ja": "突然、機械が<b>停止</b>してしまったの。",
+      "hrkt": "とつぜん、きかい が <b>ていし</b> して しまった の。",
+      "latn": "totsuzen,kikai ga <b>teishi</b> shite shimatta no.",
+      "en": "The machine stopped all of a sudden.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a4dm867ru4.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03764A.mp3"
+    }
+  ]
+}

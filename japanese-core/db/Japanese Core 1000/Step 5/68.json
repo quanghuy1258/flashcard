@@ -1,0 +1,26 @@
+{
+  "ja": "バス",
+  "hrkt": "バス",
+  "latn": "basu",
+  "en": "bus",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07312A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>バス</b>で行こう。",
+      "hrkt": "<b>バス</b> で いこう。",
+      "latn": "<b>basu</b> de ikou.",
+      "en": "Let's go by bus.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1037230.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07312A.mp3"
+    },
+    {
+      "ja": "私は毎朝、8時20分の<b>バス</b>に乗ります。",
+      "hrkt": "わたし は まいあさ、8 じ 20 ぷん の <b>バス</b> に のります。",
+      "latn": "watashi ha maiasa,8 ji 20 pun no <b>basu</b> ni norimasu.",
+      "en": "I take the 8:20 bus every morning.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c53md94has.mp3"
+    }
+  ]
+}

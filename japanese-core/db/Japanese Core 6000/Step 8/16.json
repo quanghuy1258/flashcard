@@ -1,0 +1,18 @@
+{
+  "ja": "高気圧",
+  "hrkt": "こうきあつ",
+  "latn": "koukiatsu",
+  "en": "high atmospheric pressure",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02922A.mp3",
+  "sentences": [
+    {
+      "ja": "この暑さは<b>高気圧</b>のせいです。",
+      "hrkt": "この あつさ は <b>こうきあつ</b> の せい です。",
+      "latn": "kono atsusa ha <b>koukiatsu</b> no sei desu.",
+      "en": "This heat is due to high atmospheric pressure.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02922A.mp3"
+    }
+  ]
+}

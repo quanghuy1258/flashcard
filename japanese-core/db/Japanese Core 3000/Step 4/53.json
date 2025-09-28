@@ -1,0 +1,18 @@
+{
+  "ja": "うつむく",
+  "hrkt": "うつむく",
+  "latn": "utsumuku",
+  "en": "look down, lower one's eyes",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03541A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>うつむいて</b>何かを考えているね。",
+      "hrkt": "かれ は <b>うつむいて</b> なに か を かんがえて いる ね。",
+      "latn": "kare ha <b>utsumuite</b> nani ka wo kangaete iru ne.",
+      "en": "He is thinking about something with his head down.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a383193e9k.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03541A.mp3"
+    }
+  ]
+}

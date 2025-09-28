@@ -1,0 +1,18 @@
+{
+  "ja": "青空",
+  "hrkt": "あおぞら",
+  "latn": "aozora",
+  "en": "blue sky",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01870A.mp3",
+  "sentences": [
+    {
+      "ja": "雲一つない<b>青空</b>ですね。",
+      "hrkt": "くも ひとつ ない <b>あおぞら</b> です ね。",
+      "latn": "kumo hitotsu nai <b>aozora</b> desu ne.",
+      "en": "It is a cloudless blue sky.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d5bjfbdbko.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01870A.mp3"
+    }
+  ]
+}

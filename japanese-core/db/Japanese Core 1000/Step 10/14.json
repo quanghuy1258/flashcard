@@ -1,0 +1,26 @@
+{
+  "ja": "撮る",
+  "hrkt": "とる",
+  "latn": "toru",
+  "en": "take (a photograph), film",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06568A.mp3",
+  "sentences": [
+    {
+      "ja": "写真をたくさん<b>撮りました</b>。",
+      "hrkt": "しゃしん を たくさん <b>とりました</b>。",
+      "latn": "shashin wo takusan <b>torimashita</b>.",
+      "en": "I took a lot of photographs.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5386516.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06568A.mp3"
+    },
+    {
+      "ja": "空の写真を<b>撮る</b>のが好きです。",
+      "hrkt": "そら の しゃしん を <b>とる</b> の が すき です。",
+      "latn": "sora no shashin wo <b>toru</b> no ga suki desu.",
+      "en": "I like to take photographs of the sky.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4782851.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05102A.mp3?1216463416"
+    }
+  ]
+}

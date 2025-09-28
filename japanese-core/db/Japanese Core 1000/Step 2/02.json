@@ -1,0 +1,26 @@
+{
+  "ja": "足",
+  "hrkt": "あし",
+  "latn": "ashi",
+  "en": "leg, foot",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00114A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>足</b>が長い。",
+      "hrkt": "かれ は <b>あし</b> が ながい。",
+      "latn": "kare ha <b>ashi</b> ga nagai.",
+      "en": "He has long legs.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5328885.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00114A.mp3"
+    },
+    {
+      "ja": "彼女は<b>足</b>が太い。",
+      "hrkt": "かのじょ は <b>あし</b> が ふとい。",
+      "latn": "kanojo ha <b>ashi</b> ga futoi.",
+      "en": "She has fat legs.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/61fv2jc76s4rlk.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08123A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "かなり",
+  "hrkt": "かなり",
+  "latn": "kanari",
+  "en": "fairly, rather",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01729A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>かなり</b>英語が上手です。",
+      "hrkt": "かれ は <b>かなり</b> えいご が じょうず です。",
+      "latn": "kare ha <b>kanari</b> eigo ga jouzu desu.",
+      "en": "His English is pretty good.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6000774.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01729A.mp3"
+    },
+    {
+      "ja": "この問題は<b>かなり</b>易しいです。",
+      "hrkt": "この もんだい は <b>かなり</b> やさしい です。",
+      "latn": "kono mondai ha <b>kanari</b> yasashii desu.",
+      "en": "This problem is fairly easy.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5984971.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09402A.mp3"
+    }
+  ]
+}

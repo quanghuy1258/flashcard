@@ -1,0 +1,26 @@
+{
+  "ja": "箸",
+  "hrkt": "はし",
+  "latn": "hashi",
+  "en": "chopsticks",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07289A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>箸</b>を上手に使えるよ。",
+      "hrkt": "<b>はし</b> を じょうず に つかえる よ。",
+      "latn": "<b>hashi</b> wo jouzu ni tsukaeru yo.",
+      "en": "I'm good at using chopsticks.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5826285.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07289A.mp3"
+    },
+    {
+      "ja": "お<b>箸</b>の使い方を直しなさい。",
+      "hrkt": "お<b>はし</b> の つかいかた を なおしなさい。",
+      "latn": "o<b>hashi</b> no tsukaikata wo naoshinasai.",
+      "en": "Fix the way you use chopsticks.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b3etc44iv4.mp3"
+    }
+  ]
+}

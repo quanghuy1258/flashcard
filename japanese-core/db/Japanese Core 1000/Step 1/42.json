@@ -1,0 +1,26 @@
+{
+  "ja": "言葉",
+  "hrkt": "ことば",
+  "latn": "kotoba",
+  "en": "word, language",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03172A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>言葉</b>の意味が分かりません。",
+      "hrkt": "この <b>ことば</b> の いみ が わかりません。",
+      "latn": "kono <b>kotoba</b> no imi ga wakarimasen.",
+      "en": "I don't understand the meaning of this word.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5964197.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03172A.mp3"
+    },
+    {
+      "ja": "<b>言葉</b>に気を付けてください。",
+      "hrkt": "<b>ことば</b> に き を つけて ください。",
+      "latn": "<b>kotoba</b> ni ki wo tsukete kudasai.",
+      "en": "Watch your mouth.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/85ek0467oc.mp3"
+    }
+  ]
+}

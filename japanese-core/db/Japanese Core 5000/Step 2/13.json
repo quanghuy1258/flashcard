@@ -1,0 +1,18 @@
+{
+  "ja": "束",
+  "hrkt": "たば",
+  "latn": "taba",
+  "en": "bundle, bunch",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03713A.mp3",
+  "sentences": [
+    {
+      "ja": "これは一<b>束</b>で300円です。",
+      "hrkt": "これ は ひと <b>たば</b> で 300 えん です。",
+      "latn": "kore ha hito <b>taba</b> de 300 en desu.",
+      "en": "These are 300 yen a bunch.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03713A.mp3"
+    }
+  ]
+}

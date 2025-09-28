@@ -1,0 +1,26 @@
+{
+  "ja": "お宅",
+  "hrkt": "おたく",
+  "latn": "otaku",
+  "en": "(someone else's) home",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01112A.mp3",
+  "sentences": [
+    {
+      "ja": "先生の<b>お宅</b>はどちらですか。",
+      "hrkt": "せんせい の <b>おたく</b> は どちら です か。",
+      "latn": "sensei no <b>otaku</b> ha dochira desu ka.",
+      "en": "Which is the teacher's house?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6237813.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01112A.mp3?1216463744"
+    },
+    {
+      "ja": "今日は社長の<b>お宅</b>にお邪魔しました。",
+      "hrkt": "きょう は しゃちょう の <b>おたく</b> に おじゃま しました。",
+      "latn": "kyou ha shachou no <b>otaku</b> ni ojama shimashita.",
+      "en": "Today I went to the president's home.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/757edrbn3c.mp3"
+    }
+  ]
+}

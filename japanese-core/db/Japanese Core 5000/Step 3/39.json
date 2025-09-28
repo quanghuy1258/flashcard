@@ -1,0 +1,18 @@
+{
+  "ja": "くむ",
+  "hrkt": "くむ",
+  "latn": "kumu",
+  "en": "collect, scoop up",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03438A.mp3",
+  "sentences": [
+    {
+      "ja": "小さなバケツで水を<b>くんだ</b>の。",
+      "hrkt": "ちいさな バケツ で みず を <b>くんだ</b> の 。",
+      "latn": "chiisana baketsu de mizu wo <b>kunda</b> no .",
+      "en": "I scooped up some water with a small bucket.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03438A.mp3"
+    }
+  ]
+}

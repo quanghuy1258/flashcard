@@ -1,0 +1,18 @@
+{
+  "ja": "向き",
+  "hrkt": "むき",
+  "latn": "muki",
+  "en": "direction, turn",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01260A.mp3",
+  "sentences": [
+    {
+      "ja": "花瓶の<b>向き</b>を変えたの。",
+      "hrkt": "かびん の <b>むき</b> を かえた の。",
+      "latn": "kabin no <b>muki</b> wo kaeta no.",
+      "en": "I turned the vase around.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01260A.mp3"
+    }
+  ]
+}

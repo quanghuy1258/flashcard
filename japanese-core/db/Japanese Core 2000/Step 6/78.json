@@ -1,0 +1,26 @@
+{
+  "ja": "正確",
+  "hrkt": "せいかく",
+  "latn": "seikaku",
+  "en": "accurate, precise",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04672A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の計算は<b>正確</b>です。",
+      "hrkt": "かれ の けいさん は <b>せいかく</b> です。",
+      "latn": "kare no keisan ha <b>seikaku</b> desu.",
+      "en": "His calculation is accurate.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2865844.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04672A.mp3"
+    },
+    {
+      "ja": "あのサッカー選手は<b>正確</b>なパスが出せません。",
+      "hrkt": "あの サッカー せんしゅ は <b>せいかく</b>な パス が だせません。",
+      "latn": "ano sakka- senshu ha <b>seikaku</b>na pasu ga dasemasen.",
+      "en": "That soccer player can't pass the ball accurately.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/363jet8lqg.mp3"
+    }
+  ]
+}

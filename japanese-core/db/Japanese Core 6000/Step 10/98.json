@@ -1,0 +1,18 @@
+{
+  "ja": "引き延ばす",
+  "hrkt": "ひきのばす",
+  "latn": "hikinobasu",
+  "en": "extend, prolong",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02938A.mp3",
+  "sentences": [
+    {
+      "ja": "司会者は話を<b>引き延ばした</b>わ。",
+      "hrkt": "しかい しゃ は はなし を <b>ひきのばした</b> わ。",
+      "latn": "shikai sha ha hanashi wo <b>hikinobashita</b> wa.",
+      "en": "The host dragged out the timeframe of his speech.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02938A.mp3"
+    }
+  ]
+}

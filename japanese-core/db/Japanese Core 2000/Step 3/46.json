@@ -1,0 +1,26 @@
+{
+  "ja": "見物",
+  "hrkt": "けんぶつ",
+  "latn": "kenbutsu",
+  "en": "sightseeing, visit",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02812A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなで東京<b>見物</b>をした。",
+      "hrkt": "みんな で とうきょう <b>けんぶつ</b> を した。",
+      "latn": "minna de toukyou <b>kenbutsu</b> wo shita.",
+      "en": "We all went sightseeing in Tokyo.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5739231.jpg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/659d4sc87c.mp3"
+    },
+    {
+      "ja": "今日、浅草を<b>見物</b>しました。",
+      "hrkt": "きょう、あさくさ を <b>けんぶつ</b> しました。",
+      "latn": "kyou,asakusa wo <b>kenbutsu</b> shimashita.",
+      "en": "Today, we did sightseeing in Asakusa.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d5bb2843ps.mp3"
+    }
+  ]
+}

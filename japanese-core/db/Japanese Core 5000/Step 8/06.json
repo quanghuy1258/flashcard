@@ -1,0 +1,18 @@
+{
+  "ja": "保険",
+  "hrkt": "ほけん",
+  "latn": "hoken",
+  "en": "insurance",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00882A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたは<b>保険</b>に加入していますか。",
+      "hrkt": "あなた は <b>ほけん</b> に かにゅう して います か。",
+      "latn": "anata ha <b>hoken</b> ni kanyuu shite imasu ka.",
+      "en": "Do you have insurance?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00882A.mp3"
+    }
+  ]
+}

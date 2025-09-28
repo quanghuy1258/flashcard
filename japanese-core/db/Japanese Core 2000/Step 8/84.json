@@ -1,0 +1,26 @@
+{
+  "ja": "線路",
+  "hrkt": "せんろ",
+  "latn": "senro",
+  "en": "railway track, line",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01353A.mp3",
+  "sentences": [
+    {
+      "ja": "子猫が<b>線路</b>に迷い込んだぞ。",
+      "hrkt": "こ ねこ が <b>せんろ</b> に まよいこんだ ぞ。",
+      "latn": "ko neko ga <b>senro</b> ni mayoikonda zo.",
+      "en": "A kitten strayed onto the railway track.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/7l2gesfvadmp0.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01353A.mp3"
+    },
+    {
+      "ja": "<b>線路</b>には絶対に入らないでください。",
+      "hrkt": "<b>せんろ</b> に は ぜったい に はいらないで ください。",
+      "latn": "<b>senro</b> ni ha zettai ni hairanaide kudasai.",
+      "en": "Please never enter the railway track.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f36t5fb85s.mp3"
+    }
+  ]
+}

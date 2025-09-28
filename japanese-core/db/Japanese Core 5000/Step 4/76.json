@@ -1,0 +1,18 @@
+{
+  "ja": "物差し",
+  "hrkt": "ものさし",
+  "latn": "monosashi",
+  "en": "ruler",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02897A.mp3",
+  "sentences": [
+    {
+      "ja": "30センチの<b>物差し</b>をください。",
+      "hrkt": "30 センチ の <b>ものさし</b> を ください。",
+      "latn": "30 senchi no <b>monosashi</b> wo kudasai.",
+      "en": "Please give me a 30 centimeter ruler.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02897A.mp3"
+    }
+  ]
+}

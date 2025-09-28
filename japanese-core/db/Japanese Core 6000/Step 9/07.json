@@ -1,0 +1,18 @@
+{
+  "ja": "がぶがぶ",
+  "hrkt": "がぶがぶ",
+  "latn": "gabugabu",
+  "en": "guzzling, gulping",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03579A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は水を<b>がぶがぶ</b>飲んだんだ。",
+      "hrkt": "かれ は みず を <b>がぶがぶ</b> のんだ ん だ。",
+      "latn": "kare ha mizu wo <b>gabugabu</b> nonda n da.",
+      "en": "He gulped down water.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03579A.mp3"
+    }
+  ]
+}

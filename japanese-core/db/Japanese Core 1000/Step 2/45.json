@@ -1,0 +1,26 @@
+{
+  "ja": "速い",
+  "hrkt": "はやい",
+  "latn": "hayai",
+  "en": "fast",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07465A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は走るのが<b>速い</b>。",
+      "hrkt": "かれ は はしる の が <b>はやい</b>。",
+      "latn": "kare ha hashiru no ga <b>hayai</b>.",
+      "en": "He runs fast.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4542942.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07466A.mp3"
+    },
+    {
+      "ja": "この車はとても<b>速い</b>ですよ。",
+      "hrkt": "この くるま は とても <b>はやい</b> です よ。",
+      "latn": "kono kuruma ha totemo <b>hayai</b> desu yo.",
+      "en": "This car is very fast.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c1fn1e1k8c.mp3"
+    }
+  ]
+}

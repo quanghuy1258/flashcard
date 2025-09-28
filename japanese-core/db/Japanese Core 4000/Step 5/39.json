@@ -1,0 +1,18 @@
+{
+  "ja": "日程",
+  "hrkt": "にってい",
+  "latn": "nittei",
+  "en": "daily schedule",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00310A.mp3",
+  "sentences": [
+    {
+      "ja": "試験の<b>日程</b>が発表されました。",
+      "hrkt": "しけん の <b>にってい</b> が はっぴょう されました。",
+      "latn": "shiken no <b>nittei</b> ga happyou saremashita.",
+      "en": "The exam schedule has been announced.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00310A.mp3"
+    }
+  ]
+}

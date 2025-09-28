@@ -1,0 +1,26 @@
+{
+  "ja": "匂い",
+  "hrkt": "におい",
+  "latn": "nioi",
+  "en": "(pleasant) smell, odor",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06796A.mp3",
+  "sentences": [
+    {
+      "ja": "いい<b>匂い</b>がする。",
+      "hrkt": "いい <b>におい</b> が する。",
+      "latn": "ii <b>nioi</b> ga suru.",
+      "en": "It smells good.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5475471.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06796A.mp3"
+    },
+    {
+      "ja": "私はバラの<b>匂い</b>が大好きです。",
+      "hrkt": "わたし は バラ の <b>におい</b> が だいすき です。",
+      "latn": "watashi ha bara no <b>nioi</b> ga daisuki desu.",
+      "en": "I love the smell of roses.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/156t2ge6jg.mp3"
+    }
+  ]
+}

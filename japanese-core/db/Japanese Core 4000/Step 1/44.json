@@ -1,0 +1,18 @@
+{
+  "ja": "需要",
+  "hrkt": "じゅよう",
+  "latn": "juyou",
+  "en": "demand",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00043A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>需要</b>が多過ぎて生産が追い付きません。",
+      "hrkt": "<b>じゅよう</b> が おお すぎて せいさん が おいつきません。",
+      "latn": "<b>juyou</b> ga oo sugite seisan ga oitsukimasen.",
+      "en": "The demand is so high that production can't keep up.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/35664mb28o.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00043A.mp3"
+    }
+  ]
+}

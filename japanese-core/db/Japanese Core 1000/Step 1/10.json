@@ -1,0 +1,26 @@
+{
+  "ja": "出る",
+  "hrkt": "でる",
+  "latn": "deru",
+  "en": "go out, leave",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06128A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝は早く家を<b>出ました</b>。",
+      "hrkt": "けさ は はやく いえ を <b>でました</b>。",
+      "latn": "kesa ha hayaku ie wo <b>demashita</b>.",
+      "en": "I left the house early this morning.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4786067.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06128A.mp3"
+    },
+    {
+      "ja": "今日は5時に会社を<b>出ます</b>。",
+      "hrkt": "きょう は 5 じ に かいしゃ を <b>でます</b>。",
+      "latn": "kyou ha 5 ji ni kaisha wo <b>demasu</b>.",
+      "en": "I'll leave the office at five today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c4dg1n9hhk.mp3"
+    }
+  ]
+}

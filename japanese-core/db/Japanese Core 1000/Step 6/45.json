@@ -1,0 +1,26 @@
+{
+  "ja": "眠い",
+  "hrkt": "ねむい",
+  "latn": "nemui",
+  "en": "sleepy",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07009A.mp3",
+  "sentences": [
+    {
+      "ja": "今日はとても<b>眠い</b>です。",
+      "hrkt": "きょう は とても <b>ねむい</b> です。",
+      "latn": "kyou ha totemo <b>nemui</b> desu.",
+      "en": "I'm very sleepy today.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5058401.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07009A.mp3"
+    },
+    {
+      "ja": "今日は午後、すごく<b>眠かった</b>。",
+      "hrkt": "きょう は ごご、すごく <b>ねむかった</b>。",
+      "latn": "kyou ha gogo,sugoku <b>nemukatta</b>.",
+      "en": "Today I was very sleepy in the afternoon.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/2840ea317g.mp3"
+    }
+  ]
+}

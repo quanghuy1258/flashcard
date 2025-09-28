@@ -1,0 +1,26 @@
+{
+  "ja": "生まれる",
+  "hrkt": "うまれる",
+  "latn": "umareru",
+  "en": "be born, come into existence",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00761A.mp3",
+  "sentences": [
+    {
+      "ja": "姉夫婦に男の子が<b>生まれました</b>。",
+      "hrkt": "あね ふうふ に おとこのこ が <b>うまれました</b>。",
+      "latn": "ane fuufu ni otokonoko ga <b>umaremashita</b>.",
+      "en": "My sister and her husband had a baby boy.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/f1ev2l2e10m2rs.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00761A.mp3"
+    },
+    {
+      "ja": "祖母は京都で<b>生まれました</b>。",
+      "hrkt": "そぼ は きょうと で <b>うまれました</b>。",
+      "latn": "sobo ha kyouto de <b>umaremashita</b>.",
+      "en": "My grandmother was born in Kyoto.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5857384.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05094A.mp3"
+    }
+  ]
+}

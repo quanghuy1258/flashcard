@@ -1,0 +1,18 @@
+{
+  "ja": "のろのろ",
+  "hrkt": "のろのろ",
+  "latn": "noronoro",
+  "en": "slowly, sluggishly",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03378A.mp3",
+  "sentences": [
+    {
+      "ja": "車は雪道を<b>のろのろ</b>と走ったの。",
+      "hrkt": "くるま は ゆきみち を <b>のろのろ</b> と はしった の。",
+      "latn": "kuruma ha yukimichi wo <b>noronoro</b> to hashitta no.",
+      "en": "The car drove very slowly on the snowy road.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a5a039en64.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03378A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "六",
+  "hrkt": "ろく",
+  "latn": "roku",
+  "en": "six",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09968A.mp3",
+  "sentences": [
+    {
+      "ja": "彼には子供が<b>六</b>人います。",
+      "hrkt": "かれ に は こども が <b>ろく</b> にん います。",
+      "latn": "kare ni ha kodomo ga <b>roku</b> nin imasu.",
+      "en": "He has six children.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5558801.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09968A.mp3"
+    },
+    {
+      "ja": "左から<b>六</b>番目が娘です。",
+      "hrkt": "ひだり から <b>ろく</b> ばん め が むすめ です。",
+      "latn": "hidari kara <b>roku</b> ban me ga musume desu.",
+      "en": "The sixth person from the left is my daughter.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/73aqcpbkro.mp3"
+    }
+  ]
+}

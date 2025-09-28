@@ -1,0 +1,26 @@
+{
+  "ja": "どこ",
+  "hrkt": "どこ",
+  "latn": "doko",
+  "en": "where",
+  "pos": "Interrogative",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06412A.mp3",
+  "sentences": [
+    {
+      "ja": "あの本を<b>どこ</b>に置きましたか。",
+      "hrkt": "あの ほん を <b>どこ</b> に おきました か。",
+      "latn": "ano hon wo <b>doko</b> ni okimashita ka.",
+      "en": "Where did you put that book?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/538057.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06412A.mp3"
+    },
+    {
+      "ja": "郵便局は<b>どこ</b>ですか。",
+      "hrkt": "ゆうびんきょく は <b>どこ</b> です か。",
+      "latn": "yuubinkyoku ha <b>doko</b> desu ka.",
+      "en": "Where's the post office?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6300399.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09514A.mp3"
+    }
+  ]
+}

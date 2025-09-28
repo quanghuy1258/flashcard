@@ -1,0 +1,26 @@
+{
+  "ja": "代わる",
+  "hrkt": "かわる",
+  "latn": "kawaru",
+  "en": "substitute, be substituted for",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01862A.mp3",
+  "sentences": [
+    {
+      "ja": "上司に<b>代わって</b>会議に出た。",
+      "hrkt": "じょうし に <b>かわって</b> かいぎ に でた。",
+      "latn": "joushi ni <b>kawatte</b> kaigi ni deta.",
+      "en": "I attended the conference in place of my boss.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4180441.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01862A.mp3"
+    },
+    {
+      "ja": "彼に<b>代わる</b>人はいません。",
+      "hrkt": "かれ に <b>かわる</b> ひと は いません。",
+      "latn": "kare ni <b>kawaru</b> hito ha imasen.",
+      "en": "Nobody can replace him.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a24ra37t54.mp3"
+    }
+  ]
+}

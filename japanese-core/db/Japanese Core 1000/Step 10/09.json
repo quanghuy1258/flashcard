@@ -1,0 +1,26 @@
+{
+  "ja": "日時",
+  "hrkt": "にちじ",
+  "latn": "nichiji",
+  "en": "date and time",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02576A.mp3",
+  "sentences": [
+    {
+      "ja": "試写会の<b>日時</b>を教えてください。",
+      "hrkt": "ししゃ かい の <b>にちじ</b> を おしえて ください。",
+      "latn": "shisha kai no <b>nichiji</b> wo oshiete kudasai.",
+      "en": "Please tell me the date of the sneak preview.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6724252.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02576A.mp3"
+    },
+    {
+      "ja": "次のミーティングの<b>日時</b>が決まりました。",
+      "hrkt": "つぎ の ミーティング の <b>にちじ</b> が きまりました。",
+      "latn": "tsugi no mi-tingu no <b>nichiji</b> ga kimarimashita.",
+      "en": "The date and time of the next meeting have been decided.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f27g6084i8.mp3"
+    }
+  ]
+}

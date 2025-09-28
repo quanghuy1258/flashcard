@@ -1,0 +1,18 @@
+{
+  "ja": "慣らす",
+  "hrkt": "ならす",
+  "latn": "narasu",
+  "en": "accustom (oneself or someone) to",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03041A.mp3",
+  "sentences": [
+    {
+      "ja": "水の温度に体を<b>慣らして</b>から、潜ったほうがいいぞ。",
+      "hrkt": "みず の おんど に からだ を <b>ならして</b> から、もぐった ほう が いい ぞ。",
+      "latn": "mizu no ondo ni karada wo <b>narashite</b> kara,mogutta hou ga ii zo.",
+      "en": "You should get used to the water temperature first before you dive in.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03041A.mp3"
+    }
+  ]
+}

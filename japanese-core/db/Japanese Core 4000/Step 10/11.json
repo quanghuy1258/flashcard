@@ -1,0 +1,18 @@
+{
+  "ja": "痛む",
+  "hrkt": "いたむ",
+  "latn": "itamu",
+  "en": "feel pain, hurt",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02206A.mp3",
+  "sentences": [
+    {
+      "ja": "虫歯がずきずき<b>痛みます</b>。",
+      "hrkt": "むしば が ずきずき <b>いたみます</b>。",
+      "latn": "mushiba ga zukizuki <b>itamimasu</b>.",
+      "en": "My cavity hurts really badly.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02206A.mp3"
+    }
+  ]
+}

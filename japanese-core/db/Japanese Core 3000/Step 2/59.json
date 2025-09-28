@@ -1,0 +1,18 @@
+{
+  "ja": "ワンピース",
+  "hrkt": "ワンピース",
+  "latn": "wanpi-su",
+  "en": "one-piece dress",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02405A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は白い<b>ワンピース</b>を着ていたよ。",
+      "hrkt": "かのじょ は しろい <b>ワンピース</b> を きて いた よ。",
+      "latn": "kanojo ha shiroi <b>wanpi-su</b> wo kite ita yo.",
+      "en": "She was wearing a white dress.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/632h1t4jr0.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02405A.mp3"
+    }
+  ]
+}

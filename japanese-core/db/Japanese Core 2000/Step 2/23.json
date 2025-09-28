@@ -1,0 +1,26 @@
+{
+  "ja": "泣く",
+  "hrkt": "なく",
+  "latn": "naku",
+  "en": "cry, weep",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06661A.mp3",
+  "sentences": [
+    {
+      "ja": "妹はすぐに<b>泣く</b>。",
+      "hrkt": "いもうと は すぐ に <b>なく</b>。",
+      "latn": "imouto ha sugu ni <b>naku</b>.",
+      "en": "My little sister cries easily.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4945966.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06661A.mp3"
+    },
+    {
+      "ja": "どうして<b>泣いて</b>いるの。",
+      "hrkt": "どうして <b>ないて</b> いる の。",
+      "latn": "doushite <b>naite</b> iru no.",
+      "en": "How come you are crying?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4564511.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06260A.mp3"
+    }
+  ]
+}

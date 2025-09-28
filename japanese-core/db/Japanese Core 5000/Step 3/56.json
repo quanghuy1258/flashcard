@@ -1,0 +1,18 @@
+{
+  "ja": "車輪",
+  "hrkt": "しゃりん",
+  "latn": "sharin",
+  "en": "wheel",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02026A.mp3",
+  "sentences": [
+    {
+      "ja": "このトラックの<b>車輪</b>は頑丈そうですね。",
+      "hrkt": "この トラック の <b>しゃりん</b> は がんじょう そう です ね。",
+      "latn": "kono torakku no <b>sharin</b> ha ganjou sou desu ne.",
+      "en": "The wheels of this truck look sturdy.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02026A.mp3"
+    }
+  ]
+}

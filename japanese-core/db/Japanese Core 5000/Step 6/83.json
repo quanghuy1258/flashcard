@@ -1,0 +1,18 @@
+{
+  "ja": "見つめる",
+  "hrkt": "みつめる",
+  "latn": "mitsumeru",
+  "en": "stare, gaze",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02846A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はその絵をずっと<b>見つめて</b>いたの。",
+      "hrkt": "かれ は その え を ずっと <b>みつめて</b> いた の。",
+      "latn": "kare ha sono e wo zutto <b>mitsumete</b> ita no.",
+      "en": "He was staring at the painting for a long time.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02846A.mp3"
+    }
+  ]
+}

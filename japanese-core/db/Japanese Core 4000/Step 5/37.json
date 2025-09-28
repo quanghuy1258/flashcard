@@ -1,0 +1,18 @@
+{
+  "ja": "段",
+  "hrkt": "だん",
+  "latn": "dan",
+  "en": "step, grade, rank",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03714A.mp3",
+  "sentences": [
+    {
+      "ja": "この階段は18<b>段</b>ありますね。",
+      "hrkt": "この かいだん は 18 <b>だん</b> あります ね。",
+      "latn": "kono kaidan ha 18 <b>dan</b> arimasu ne.",
+      "en": "This staircase has 18 steps.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03714A.mp3"
+    }
+  ]
+}

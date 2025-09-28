@@ -1,0 +1,18 @@
+{
+  "ja": "飛び込む",
+  "hrkt": "とびこむ",
+  "latn": "tobikomu",
+  "en": "dive into, jump into",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03778A.mp3",
+  "sentences": [
+    {
+      "ja": "カエルが池に<b>飛び込んだ</b>ね。",
+      "hrkt": "カエル が いけ に <b>とびこんだ</b> ね。",
+      "latn": "kaeru ga ike ni <b>tobikonda</b> ne.",
+      "en": "A frog jumped into the pond.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f53a98e8mk.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03778A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "貨物",
+  "hrkt": "かもつ",
+  "latn": "kamotsu",
+  "en": "freight, cargo",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03583A.mp3",
+  "sentences": [
+    {
+      "ja": "このトランクは<b>貨物</b>で送ろう。",
+      "hrkt": "この トランク は <b>かもつ</b> で おくろう。",
+      "latn": "kono toranku ha <b>kamotsu</b> de okurou.",
+      "en": "Let's send this trunk by freight.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03583A.mp3"
+    }
+  ]
+}

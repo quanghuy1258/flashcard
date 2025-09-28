@@ -1,0 +1,18 @@
+{
+  "ja": "トースト",
+  "hrkt": "トースト",
+  "latn": "to-suto",
+  "en": "toast",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03372A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎朝<b>トースト</b>を2枚食べます。",
+      "hrkt": "わたし は まいあさ <b>トースト</b> を 2 まい たべます。",
+      "latn": "watashi ha maiasa <b>to-suto</b> wo 2 mai tabemasu.",
+      "en": "I eat two slices of toast every morning.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c5fh96ch0c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03372A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "七",
+  "hrkt": "なな",
+  "latn": "nana",
+  "en": "seven (Japanese origin)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06702A.mp3",
+  "sentences": [
+    {
+      "ja": "バナナが<b>七</b>本あります。",
+      "hrkt": "バナナ が <b>なな</b> ほん あります。",
+      "latn": "banana ga <b>nana</b> hon arimasu.",
+      "en": "There are seven bananas.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6284017.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06702A.mp3"
+    },
+    {
+      "ja": "父は今日、本を<b>七</b>冊も買った。",
+      "hrkt": "ちち は きょう、ほん を <b>なな</b> さつ も かった。",
+      "latn": "chichi ha kyou,hon wo <b>nana</b> satsu mo katta.",
+      "en": "My father bought seven books today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/63aq2tb0d0.mp3"
+    }
+  ]
+}

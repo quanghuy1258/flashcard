@@ -1,0 +1,26 @@
+{
+  "ja": "愛",
+  "hrkt": "あい",
+  "latn": "ai",
+  "en": "love",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00003A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>愛</b>をこめて手紙を書いた。",
+      "hrkt": "かのじょ は <b>あい</b> を こめて てがみ を かいた。",
+      "latn": "kanojo ha <b>ai</b> wo komete tegami wo kaita.",
+      "en": "She wrote the letter with love.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5851655.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00003A.mp3"
+    },
+    {
+      "ja": "子供は親の<b>愛</b>を求めます。",
+      "hrkt": "こども は おや の <b>あい</b> を もとめます。",
+      "latn": "kodomo ha oya no <b>ai</b> wo motomemasu.",
+      "en": "Children need their parents' love.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/55ei1d5jfc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03931A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "歩行者天国",
+  "hrkt": "ほこうしゃてんごく",
+  "latn": "hokoushatengoku",
+  "en": "vehicle-free promenade",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03054A.mp3",
+  "sentences": [
+    {
+      "ja": "日曜日はこの通りが<b>歩行者天国</b>になります。",
+      "hrkt": "にちようび は この とおり が <b>ほこうしゃ てんごく</b> に なります。",
+      "latn": "nichiyoubi ha kono toori ga <b>hokousha tengoku</b> ni narimasu.",
+      "en": "This street turns into a vehicle-free promenade on Sundays.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03054A.mp3"
+    }
+  ]
+}

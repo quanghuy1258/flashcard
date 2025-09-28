@@ -1,0 +1,26 @@
+{
+  "ja": "入場券",
+  "hrkt": "にゅうじょうけん",
+  "latn": "nyuujouken",
+  "en": "entrance ticket",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06889A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>入場券</b>は3000円です。",
+      "hrkt": "<b>にゅうじょう けん</b> は 3000 えん です。",
+      "latn": "<b>nyuujou ken</b> ha 3000 en desu.",
+      "en": "The admission ticket is 3,000 yen.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3856203.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06889A.mp3"
+    },
+    {
+      "ja": "<b>入場券</b>をお持ちですか。",
+      "hrkt": "<b>にゅうじょう けん</b> を おもち です か。",
+      "latn": "<b>nyuujou ken</b> wo omochi desu ka.",
+      "en": "Do you have an admission ticket?",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/b39q3ae1gc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01694A.mp3"
+    }
+  ]
+}

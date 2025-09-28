@@ -1,0 +1,26 @@
+{
+  "ja": "やっと",
+  "hrkt": "やっと",
+  "latn": "yatto",
+  "en": "at last, finally (used only for a good outcome)",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09426A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>やっと</b>仕事が終わりました。",
+      "hrkt": "<b>やっと</b> しごと が おわりました。",
+      "latn": "<b>yatto</b> shigoto ga owarimashita.",
+      "en": "At last, I finished my work.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6368571.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09426A.mp3"
+    },
+    {
+      "ja": "<b>やっと</b>母に会えました。",
+      "hrkt": "<b>やっと</b> はは に あえました。",
+      "latn": "<b>yatto</b> haha ni aemashita.",
+      "en": "I finally met my mother.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/037e40a57g.mp3"
+    }
+  ]
+}

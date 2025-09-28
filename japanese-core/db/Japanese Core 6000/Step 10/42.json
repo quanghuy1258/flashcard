@@ -1,0 +1,18 @@
+{
+  "ja": "札",
+  "hrkt": "ふだ",
+  "latn": "fuda",
+  "en": "sign, tag",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01517A.mp3",
+  "sentences": [
+    {
+      "ja": "店の外にまだ営業中の<b>札</b>がでているよ。",
+      "hrkt": "みせ の そと に まだ えいぎょう ちゅう の <b>ふだ</b> が でて いる よ。",
+      "latn": "mise no soto ni mada eigyou chuu no <b>fuda</b> ga dete iru yo.",
+      "en": "They still have the open sign outside the store.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01517A.mp3"
+    }
+  ]
+}

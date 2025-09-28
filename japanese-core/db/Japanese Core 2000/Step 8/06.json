@@ -1,0 +1,26 @@
+{
+  "ja": "ふらふら",
+  "hrkt": "ふらふら",
+  "latn": "furafura",
+  "en": "be dizzy, lightheaded",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08181A.mp3",
+  "sentences": [
+    {
+      "ja": "私は疲れて<b>ふらふら</b>です。",
+      "hrkt": "わたし は つかれて <b>ふらふら</b> です。",
+      "latn": "watashi ha tsukarete <b>furafura</b> desu.",
+      "en": "I'm tired and feel dizzy.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2433830.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08181A.mp3"
+    },
+    {
+      "ja": "朝から頭が<b>ふらふら</b>します。",
+      "hrkt": "あさ から あたま が <b>ふらふら</b> します。",
+      "latn": "asa kara atama ga <b>furafura</b> shimasu.",
+      "en": "I've been feeling dizzy since morning.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/553r47fcuo.mp3"
+    }
+  ]
+}

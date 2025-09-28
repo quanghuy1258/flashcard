@@ -1,0 +1,26 @@
+{
+  "ja": "迎える",
+  "hrkt": "むかえる",
+  "latn": "mukaeru",
+  "en": "welcome, receive (a visitor)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09040A.mp3",
+  "sentences": [
+    {
+      "ja": "みんな、私を温かく<b>迎えて</b>くれました。",
+      "hrkt": "みんな、わたし を あたたかく <b>むかえて</b> くれました。",
+      "latn": "minna,watashi wo atatakaku <b>mukaete</b> kuremashita.",
+      "en": "Everybody welcomed me warmly.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/247i7hbhv8.mp3"
+    },
+    {
+      "ja": "今日は海外からのお客様を<b>迎えて</b>います。",
+      "hrkt": "きょう は かいがい から の おきゃくさま を <b>むかえて</b> います。",
+      "latn": "kyou ha kaigai kara no okyakusama wo <b>mukaete</b> imasu.",
+      "en": "Today we have a guest from overseas.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e4f1cm896c.mp3"
+    }
+  ]
+}

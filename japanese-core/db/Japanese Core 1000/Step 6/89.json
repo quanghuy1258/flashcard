@@ -1,0 +1,26 @@
+{
+  "ja": "方",
+  "hrkt": "かた",
+  "latn": "kata",
+  "en": "person (polite form)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01627A.mp3",
+  "sentences": [
+    {
+      "ja": "次の<b>方</b>、どうぞ。",
+      "hrkt": "つぎ の <b>かた</b>、どうぞ。",
+      "latn": "tsugi no <b>kata</b>,douzo.",
+      "en": "Next please.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4904739.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01627A.mp3"
+    },
+    {
+      "ja": "質問のある<b>方</b>はどうぞ。",
+      "hrkt": "しつもん の ある <b>かた</b> は どうぞ。",
+      "latn": "shitsumon no aru <b>kata</b> ha douzo.",
+      "en": "Those who have questions, please feel free to ask.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1589846.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03783A.mp3"
+    }
+  ]
+}

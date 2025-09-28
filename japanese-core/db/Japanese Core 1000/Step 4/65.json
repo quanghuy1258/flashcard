@@ -1,0 +1,26 @@
+{
+  "ja": "欲しい",
+  "hrkt": "ほしい",
+  "latn": "hoshii",
+  "en": "want, desire (of the speaker)",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08515A.mp3",
+  "sentences": [
+    {
+      "ja": "僕は新しい靴が<b>欲しい</b>です。",
+      "hrkt": "ぼく は あたらしい くつ が <b>ほしい</b> です。",
+      "latn": "boku ha atarashii kutsu ga <b>hoshii</b> desu.",
+      "en": "I want new shoes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4292715.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08515A.mp3?1220269766"
+    },
+    {
+      "ja": "何か飲み物が<b>欲しい</b>な。",
+      "hrkt": "なに か のみもの が <b>ほしい</b> な。",
+      "latn": "nani ka nomimono ga <b>hoshii</b> na.",
+      "en": "I could really use something to drink.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1871015.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07114A.mp3?1216574582"
+    }
+  ]
+}

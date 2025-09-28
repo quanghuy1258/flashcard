@@ -1,0 +1,18 @@
+{
+  "ja": "日の出",
+  "hrkt": "ひので",
+  "latn": "hinode",
+  "en": "sunrise",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02840A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>日の出</b>がとてもきれいですね。",
+      "hrkt": "<b>ひので</b> が とても きれい です ね。",
+      "latn": "<b>hinode</b> ga totemo kirei desu ne.",
+      "en": "The sunrise is very beautiful.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02840A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "看板",
+  "hrkt": "かんばん",
+  "latn": "kanban",
+  "en": "signboard, billboard",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01647A.mp3",
+  "sentences": [
+    {
+      "ja": "店の<b>看板</b>を塗り替えました。",
+      "hrkt": "みせ の <b>かんばん</b> を ぬりかえました。",
+      "latn": "mise no <b>kanban</b> wo nurikaemashita.",
+      "en": "I repainted the shop's signboard.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01647A.mp3"
+    }
+  ]
+}

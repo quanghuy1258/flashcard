@@ -1,0 +1,18 @@
+{
+  "ja": "利息",
+  "hrkt": "りそく",
+  "latn": "risoku",
+  "en": "interest (to be received)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02464A.mp3",
+  "sentences": [
+    {
+      "ja": "預金には<b>利息</b>がつきます。",
+      "hrkt": "よきん に は <b>りそく</b> が つきます。",
+      "latn": "yokin ni ha <b>risoku</b> ga tsukimasu.",
+      "en": "Your savings will earn interest.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02464A.mp3"
+    }
+  ]
+}

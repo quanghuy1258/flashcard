@@ -1,0 +1,18 @@
+{
+  "ja": "乞食",
+  "hrkt": "こじき",
+  "latn": "kojiki",
+  "en": "beggar",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03620A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>乞食</b>が公園のベンチで寝ている。",
+      "hrkt": "<b>こじき</b> が こうえん の ベンチ で ねて いる。",
+      "latn": "<b>kojiki</b> ga kouen no benchi de nete iru.",
+      "en": "A beggar is sleeping on the park bench.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03620A.mp3"
+    }
+  ]
+}

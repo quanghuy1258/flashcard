@@ -1,0 +1,26 @@
+{
+  "ja": "持ってくる",
+  "hrkt": "もってくる",
+  "latn": "mottekuru",
+  "en": "bring",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09297A.mp3",
+  "sentences": [
+    {
+      "ja": "そのいすを<b>持ってきて</b>ください。",
+      "hrkt": "その いす を <b>もって きて</b> ください。",
+      "latn": "sono isu wo <b>motte kite</b> kudasai.",
+      "en": "Please bring the chair.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3428586.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09297A.mp3"
+    },
+    {
+      "ja": "今日は弁当を<b>持ってきました</b>。",
+      "hrkt": "きょう は べんとう を <b>もって きました</b>。",
+      "latn": "kyou ha bentou wo <b>motte kimashita</b>.",
+      "en": "I brought a boxed lunch today.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3457409.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08374A.mp3"
+    }
+  ]
+}

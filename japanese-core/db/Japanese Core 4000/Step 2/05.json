@@ -1,0 +1,18 @@
+{
+  "ja": "受験",
+  "hrkt": "じゅけん",
+  "latn": "juken",
+  "en": "take an examination",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00258A.mp3",
+  "sentences": [
+    {
+      "ja": "日本語能力試験を<b>受験</b>したんだ。",
+      "hrkt": "にほん ご のうりょく しけん を <b>じゅけん</b> した ん だ。",
+      "latn": "nihon go nouryoku shiken wo <b>juken</b> shita n da.",
+      "en": "I took the Japanese proficiency test.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/843reb1dio.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00258A.mp3"
+    }
+  ]
+}

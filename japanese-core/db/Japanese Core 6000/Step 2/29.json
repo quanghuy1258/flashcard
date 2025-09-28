@@ -1,0 +1,18 @@
+{
+  "ja": "対比",
+  "hrkt": "たいひ",
+  "latn": "taihi",
+  "en": "contrast, comparison",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01399A.mp3",
+  "sentences": [
+    {
+      "ja": "この絵は赤と黒の<b>対比</b>が美しいですね。",
+      "hrkt": "この え は あか と くろ の <b>たいひ</b> が うつくしい です ね。",
+      "latn": "kono e ha aka to kuro no <b>taihi</b> ga utsukushii desu ne.",
+      "en": "The red and black contrast in this picture is beautiful.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01399A.mp3"
+    }
+  ]
+}

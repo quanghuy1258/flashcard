@@ -1,0 +1,18 @@
+{
+  "ja": "水平線",
+  "hrkt": "すいへいせん",
+  "latn": "suiheisen",
+  "en": "horizon where the sky meets the ocean",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03145A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>水平線</b>に太陽が沈んでいった。",
+      "hrkt": "<b>すいへいせん</b> に たいよう が しずんで いった。",
+      "latn": "<b>suiheisen</b> ni taiyou ga shizunde itta.",
+      "en": "The sun was setting below the horizon where the sky meets the ocean.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03145A.mp3"
+    }
+  ]
+}

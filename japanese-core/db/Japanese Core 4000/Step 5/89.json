@@ -1,0 +1,18 @@
+{
+  "ja": "重なる",
+  "hrkt": "かさなる",
+  "latn": "kasanaru",
+  "en": "come one after another, overlap",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01005A.mp3",
+  "sentences": [
+    {
+      "ja": "高速道路で事故が<b>重なった</b>。",
+      "hrkt": "こうそく どうろ で じこ が <b>かさなった</b>。",
+      "latn": "kousoku douro de jiko ga <b>kasanatta</b>.",
+      "en": "Accidents occurred one after another on the highway.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01005A.mp3"
+    }
+  ]
+}

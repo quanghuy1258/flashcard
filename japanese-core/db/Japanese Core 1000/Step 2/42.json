@@ -1,0 +1,26 @@
+{
+  "ja": "歌う",
+  "hrkt": "うたう",
+  "latn": "utau",
+  "en": "sing",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00702A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは大きな声で<b>歌いました</b>。",
+      "hrkt": "わたし たち は おおきな こえ で <b>うたいました</b>。",
+      "latn": "watashi tachi ha ookina koe de <b>utaimashita</b>.",
+      "en": "We sang loudly.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4904585.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00702A.mp3"
+    },
+    {
+      "ja": "母はいつもその歌を<b>歌います</b>。",
+      "hrkt": "はは は いつも その うた を <b>うたいます</b>。",
+      "latn": "haha ha itsumo sono uta wo <b>utaimasu</b>.",
+      "en": "My mother always sings the song.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/14aa7le458.mp3"
+    }
+  ]
+}

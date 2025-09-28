@@ -1,0 +1,26 @@
+{
+  "ja": "横書き",
+  "hrkt": "よこがき",
+  "latn": "yokogaki",
+  "en": "horizontal writing",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09666A.mp3",
+  "sentences": [
+    {
+      "ja": "この本は<b>横書き</b>です。",
+      "hrkt": "この ほん は <b>よこがき</b> です。",
+      "latn": "kono hon ha <b>yokogaki</b> desu.",
+      "en": "This book is printed horizontally.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5328013.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09666A.mp3"
+    },
+    {
+      "ja": "明日、<b>横書き</b>のノートが3冊必要です。",
+      "hrkt": "あした、<b>よこがき</b> の ノート が 3 さつ ひつよう です。",
+      "latn": "ashita,<b>yokogaki</b> no no-to ga 3 satsu hitsuyou desu.",
+      "en": "Tomorrow I need three notebooks with horizontal writing lines.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a6ad48b5rc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "私鉄",
+  "hrkt": "してつ",
+  "latn": "shitetsu",
+  "en": "private railway",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01372A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>私鉄</b>の職員です。",
+      "hrkt": "わたし は <b>してつ</b> の しょくいん です。",
+      "latn": "watashi ha <b>shitetsu</b> no shokuin desu.",
+      "en": "I'm an employee of a private railway company.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01372A.mp3"
+    }
+  ]
+}

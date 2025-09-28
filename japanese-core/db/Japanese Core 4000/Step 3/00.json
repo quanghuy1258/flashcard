@@ -1,0 +1,18 @@
+{
+  "ja": "鉄道",
+  "hrkt": "てつどう",
+  "latn": "tetsudou",
+  "en": "railway",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00425A.mp3",
+  "sentences": [
+    {
+      "ja": "日本は<b>鉄道</b>がとても発達しています。",
+      "hrkt": "にっぽん は <b>てつどう</b> が とても はったつ して います。",
+      "latn": "nippon ha <b>tetsudou</b> ga totemo hattatsu shite imasu.",
+      "en": "The railway system in Japan is well developed.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00425A.mp3"
+    }
+  ]
+}

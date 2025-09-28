@@ -1,0 +1,26 @@
+{
+  "ja": "ポケット",
+  "hrkt": "ポケット",
+  "latn": "poketto",
+  "en": "pocket",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08499A.mp3",
+  "sentences": [
+    {
+      "ja": "財布を<b>ポケット</b>にしまった。",
+      "hrkt": "さいふ を <b>ポケット</b> に しまった。",
+      "latn": "saifu wo <b>poketto</b> ni shimatta.",
+      "en": "I put my wallet in my pocket.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6220155.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08499A.mp3"
+    },
+    {
+      "ja": "右の<b>ポケット</b>にハンカチが入っています。",
+      "hrkt": "みぎ の <b>ポケット</b> に ハンカチ が はいって います。",
+      "latn": "migi no <b>poketto</b> ni hankachi ga haitte imasu.",
+      "en": "I have a handkerchief in my right pocket.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5444157.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08869A.mp3"
+    }
+  ]
+}

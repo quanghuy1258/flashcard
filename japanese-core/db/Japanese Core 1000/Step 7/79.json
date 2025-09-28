@@ -1,0 +1,26 @@
+{
+  "ja": "年度",
+  "hrkt": "ねんど",
+  "latn": "nendo",
+  "en": "year, school year",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07036A.mp3",
+  "sentences": [
+    {
+      "ja": "売り上げは<b>年度</b>によって違います。",
+      "hrkt": "うりあげ は <b>ねんど</b> に よって ちがいます。",
+      "latn": "uriage ha <b>nendo</b> ni yotte chigaimasu.",
+      "en": "Sales differ in each fiscal year.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2122846.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07036A.mp3"
+    },
+    {
+      "ja": "明日から新<b>年度</b>が始まります。",
+      "hrkt": "あした から しん <b>ねんど</b> が はじまります。",
+      "latn": "ashita kara shin <b>nendo</b> ga hajimarimasu.",
+      "en": "A new year starts tomorrow.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/54d2b91o1k.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "手洗い",
+  "hrkt": "てあらい",
+  "latn": "tearai",
+  "en": "washing hands",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03368A.mp3",
+  "sentences": [
+    {
+      "ja": "風邪をひかないように<b>手洗い</b>とうがいをしましょう。",
+      "hrkt": "かぜ を ひかない ように <b>てあらい</b> と うがい を しましょう。",
+      "latn": "kaze wo hikanai youni <b>tearai</b> to ugai wo shimashou.",
+      "en": "Make sure you wash your hands and gargle to avoid a cold.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03368A.mp3"
+    }
+  ]
+}

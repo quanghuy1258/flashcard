@@ -1,0 +1,26 @@
+{
+  "ja": "枕",
+  "hrkt": "まくら",
+  "latn": "makura",
+  "en": "pillow",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08674A.mp3",
+  "sentences": [
+    {
+      "ja": "私は低い<b>枕</b>が好きです。",
+      "hrkt": "わたし は ひくい <b>まくら</b> が すき です。",
+      "latn": "watashi ha hikui <b>makura</b> ga suki desu.",
+      "en": "I like thin pillows.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3478198.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08674A.mp3"
+    },
+    {
+      "ja": "この<b>枕</b>は低すぎる。",
+      "hrkt": "この <b>まくら</b> は ひく すぎる。",
+      "latn": "kono <b>makura</b> ha hiku sugiru.",
+      "en": "This pillow is too low.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f31u3obk28.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "欠く",
+  "hrkt": "かく",
+  "latn": "kaku",
+  "en": "lack",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01587A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の態度は誠意を<b>欠いて</b>います。",
+      "hrkt": "かれ の たいど は せいい を <b>かいて</b> います。",
+      "latn": "kare no taido ha seii wo <b>kaite</b> imasu.",
+      "en": "His attitude lacks sincerity.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01587A.mp3"
+    }
+  ]
+}

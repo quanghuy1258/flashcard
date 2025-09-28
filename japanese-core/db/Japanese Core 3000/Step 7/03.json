@@ -1,0 +1,18 @@
+{
+  "ja": "手のひら",
+  "hrkt": "てのひら",
+  "latn": "tenohira",
+  "en": "palm",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03767A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>手のひら</b>に汗をかきました。",
+      "hrkt": "<b>てのひら</b> に あせ を かきました。",
+      "latn": "<b>tenohira</b> ni ase wo kakimashita.",
+      "en": "My palms are sweaty.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/06e40leco0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03767A.mp3"
+    }
+  ]
+}

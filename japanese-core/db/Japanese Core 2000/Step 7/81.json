@@ -1,0 +1,26 @@
+{
+  "ja": "延ばす",
+  "hrkt": "のばす",
+  "latn": "nobasu",
+  "en": "extend, postpone",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02124A.mp3",
+  "sentences": [
+    {
+      "ja": "出発を一週間<b>延ばした</b>の。",
+      "hrkt": "しゅっぱつ を いっ しゅうかん <b>のばした</b> の。",
+      "latn": "shuppatsu wo i shuukan <b>nobashita</b> no.",
+      "en": "I postponed my departure for a week.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2891757.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02124A.mp3"
+    },
+    {
+      "ja": "彼女はプロポーズの返事を<b>延ばして</b>いる。",
+      "hrkt": "かのじょ は プロポーズ の へんじ を <b>のばして</b> いる。",
+      "latn": "kanojo ha puropo-zu no henji wo <b>nobashite</b> iru.",
+      "en": "She's putting off her reply to the marriage proposal.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/86944jeb5s.mp3"
+    }
+  ]
+}

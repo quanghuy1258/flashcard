@@ -1,0 +1,26 @@
+{
+  "ja": "暇",
+  "hrkt": "ひま",
+  "latn": "hima",
+  "en": "free time, spare time",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07819A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は<b>暇</b>ですか。",
+      "hrkt": "あした は <b>ひま</b> です か。",
+      "latn": "ashita ha <b>hima</b> desu ka.",
+      "en": "Are you free tomorrow?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6213971.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07819A.mp3"
+    },
+    {
+      "ja": "今日はお昼ご飯を食べる<b>暇</b>もなかった。",
+      "hrkt": "きょう は おひる ごはん を たべる <b>ひま</b> も なかった。",
+      "latn": "kyou ha ohiru gohan wo taberu <b>hima</b> mo nakatta.",
+      "en": "I didn't have spare time to have lunch today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/654g742qtk.mp3"
+    }
+  ]
+}

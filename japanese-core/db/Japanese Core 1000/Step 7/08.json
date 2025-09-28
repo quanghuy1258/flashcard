@@ -1,0 +1,26 @@
+{
+  "ja": "嫌",
+  "hrkt": "いや",
+  "latn": "iya",
+  "en": "dislike, don't like",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00588A.mp3",
+  "sentences": [
+    {
+      "ja": "私は待つのが<b>嫌</b>だ。",
+      "hrkt": "わたし は まつ の が <b>いや</b> だ。",
+      "latn": "watashi ha matsu no ga <b>iya</b> da.",
+      "en": "I don't like to wait.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5282415.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00588A.mp3"
+    },
+    {
+      "ja": "彼は<b>嫌</b>な男だ。",
+      "hrkt": "かれ は <b>いや</b>な おとこ だ。",
+      "latn": "kare ha <b>iya</b>na otoko da.",
+      "en": "He is an unlikable man.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/61bof404vo.mp3"
+    }
+  ]
+}

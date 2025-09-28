@@ -1,0 +1,26 @@
+{
+  "ja": "海外",
+  "hrkt": "かいがい",
+  "latn": "kaigai",
+  "en": "overseas, abroad",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01327A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>海外</b>での生活が長いです。",
+      "hrkt": "かれ は <b>かいがい</b> で の せいかつ が ながい です。",
+      "latn": "kare ha <b>kaigai</b> de no seikatsu ga nagai desu.",
+      "en": "He's lived abroad for a long time.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2088734.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01327A.mp3"
+    },
+    {
+      "ja": "私は毎年、<b>海外</b>旅行に行きます。",
+      "hrkt": "わたし は まいとし、<b>かいがい</b> りょこう に いきます。",
+      "latn": "watashi ha maitoshi,<b>kaigai</b> ryokou ni ikimasu.",
+      "en": "I travel abroad every year.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3759495.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08639A.mp3"
+    }
+  ]
+}

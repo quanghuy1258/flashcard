@@ -1,0 +1,26 @@
+{
+  "ja": "患者",
+  "hrkt": "かんじゃ",
+  "latn": "kanja",
+  "en": "patient",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01912A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>患者</b>は眠っています。",
+      "hrkt": "<b>かんじゃ</b> は ねむって います。",
+      "latn": "<b>kanja</b> ha nemutte imasu.",
+      "en": "The patient is sleeping.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/737157.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01912A.mp3"
+    },
+    {
+      "ja": "この病院は<b>患者</b>さんにとても親切です。",
+      "hrkt": "この びょういん は <b>かんじゃ</b> さん に とても しんせつ です。",
+      "latn": "kono byouin ha <b>kanja</b> san ni totemo shinsetsu desu.",
+      "en": "This hospital is very kind to its patients.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e46e55ao1k.mp3"
+    }
+  ]
+}

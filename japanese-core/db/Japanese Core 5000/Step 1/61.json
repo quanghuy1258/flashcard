@@ -1,0 +1,18 @@
+{
+  "ja": "盗難",
+  "hrkt": "とうなん",
+  "latn": "tounan",
+  "en": "theft",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01991A.mp3",
+  "sentences": [
+    {
+      "ja": "昨夜、自転車の<b>盗難</b>にあったよ。",
+      "hrkt": "さくや、じてんしゃ の <b>とうなん</b> に あった よ。",
+      "latn": "sakuya,jitensha no <b>tounan</b> ni atta yo.",
+      "en": "My bicycle was stolen last night.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01991A.mp3"
+    }
+  ]
+}

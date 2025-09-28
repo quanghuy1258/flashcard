@@ -1,0 +1,26 @@
+{
+  "ja": "バレーボール",
+  "hrkt": "バレーボール",
+  "latn": "bare-bo-ru",
+  "en": "volleyball",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07506A.mp3",
+  "sentences": [
+    {
+      "ja": "妹は<b>バレーボール</b>が得意です。",
+      "hrkt": "いもうと は <b>バレーボール</b> が とくい です。",
+      "latn": "imouto ha <b>bare-bo-ru</b> ga tokui desu.",
+      "en": "My little sister is good at volleyball.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3803441.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07506A.mp3"
+    },
+    {
+      "ja": "今日、学校の休み時間に<b>バレーボール</b>をしました。",
+      "hrkt": "きょう、がっこう の やすみ じかん に <b>バレーボール</b> を しました。",
+      "latn": "kyou,gakkou no yasumi jikan ni <b>bare-bo-ru</b> wo shimashita.",
+      "en": "Today I played volleyball during recess at school.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d6e60ubejs.mp3"
+    }
+  ]
+}

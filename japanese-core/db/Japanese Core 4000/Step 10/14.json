@@ -1,0 +1,18 @@
+{
+  "ja": "通路",
+  "hrkt": "つうろ",
+  "latn": "tsuuro",
+  "en": "pathway, aisle",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03734A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>通路</b>の右側にトイレがありますよ。",
+      "hrkt": "<b>つうろ</b> の みぎ がわ に トイレ が あります よ。",
+      "latn": "<b>tsuuro</b> no migi gawa ni toire ga arimasu yo.",
+      "en": "There's a restroom on the right side of the aisle.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03734A.mp3"
+    }
+  ]
+}

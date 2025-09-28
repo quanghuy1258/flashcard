@@ -1,0 +1,26 @@
+{
+  "ja": "直ぐ",
+  "hrkt": "すぐ",
+  "latn": "sugu",
+  "en": "at once, soon",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/6l6f811fh7dk0.mp3",
+  "sentences": [
+    {
+      "ja": "<b>直ぐ</b>行きます。",
+      "hrkt": "<b>すぐ</b> いきます。",
+      "latn": "<b>sugu</b> ikimasu.",
+      "en": "I'll go right away.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5595991.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04542A.mp3"
+    },
+    {
+      "ja": "<b>直ぐ</b>来てください。",
+      "hrkt": "<b>すぐ</b> きて ください。",
+      "latn": "<b>sugu</b> kite kudasai.",
+      "en": "Please come at once.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/751k7iahgg.mp3"
+    }
+  ]
+}

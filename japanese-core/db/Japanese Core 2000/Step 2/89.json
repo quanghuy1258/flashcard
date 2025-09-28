@@ -1,0 +1,26 @@
+{
+  "ja": "離婚",
+  "hrkt": "りこん",
+  "latn": "rikon",
+  "en": "divorce",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09807A.mp3",
+  "sentences": [
+    {
+      "ja": "友人が<b>離婚</b>しました。",
+      "hrkt": "ゆうじん が <b>りこん</b> しました。",
+      "latn": "yuujin ga <b>rikon</b> shimashita.",
+      "en": "My friend got divorced.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2899126.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09807A.mp3"
+    },
+    {
+      "ja": "私たちには子供がいますが、<b>離婚</b>を考えています。",
+      "hrkt": "わたし たち に は こども が います が、<b>りこん</b> を かんがえ ています。",
+      "latn": "watashi tachi ni ha kodomo ga imasu ga,<b>rikon</b> wo kangae teimasu.",
+      "en": "We have a child, but we are thinking about a divorce.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/65cn9ud8jc.mp3"
+    }
+  ]
+}

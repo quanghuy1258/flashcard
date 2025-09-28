@@ -1,0 +1,18 @@
+{
+  "ja": "検索",
+  "hrkt": "けんさく",
+  "latn": "kensaku",
+  "en": "search",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/6620bd5o40.mp3",
+  "sentences": [
+    {
+      "ja": "ネットで自分の名前を<b>検索</b>してみた。",
+      "hrkt": "ネット で じぶん の なまえ を <b>けんさく</b> して みた。",
+      "latn": "netto de jibun no namae wo <b>kensaku</b> shite mita.",
+      "en": "I searched my name on the Internet.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/65ef7ofa58.mp3"
+    }
+  ]
+}

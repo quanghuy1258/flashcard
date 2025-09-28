@@ -1,0 +1,18 @@
+{
+  "ja": "引き分け",
+  "hrkt": "ひきわけ",
+  "latn": "hikiwake",
+  "en": "draw, tie",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03104A.mp3",
+  "sentences": [
+    {
+      "ja": "この勝負は<b>引き分け</b>です。",
+      "hrkt": "この しょうぶ は <b>ひきわけ</b> です。",
+      "latn": "kono shoubu ha <b>hikiwake</b> desu.",
+      "en": "This match is a draw.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03104A.mp3"
+    }
+  ]
+}

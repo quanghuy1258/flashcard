@@ -1,0 +1,26 @@
+{
+  "ja": "火傷",
+  "hrkt": "やけど",
+  "latn": "yakedo",
+  "en": "burn",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09399A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は手に<b>火傷</b>をしました。",
+      "hrkt": "かれ は て に <b>やけど</b> を しました。",
+      "latn": "kare ha te ni <b>yakedo</b> wo shimashita.",
+      "en": "He burned his hand.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/640544.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09399A.mp3"
+    },
+    {
+      "ja": "腕の<b>火傷</b>が治りません。",
+      "hrkt": "うで の <b>やけど</b> が なおりません。",
+      "latn": "ude no <b>yakedo</b> ga naorimasen.",
+      "en": "The burn on my arm isn't healing.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/63cpcd3uuk.mp3"
+    }
+  ]
+}

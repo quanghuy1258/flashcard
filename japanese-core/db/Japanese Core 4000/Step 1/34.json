@@ -1,0 +1,18 @@
+{
+  "ja": "物質",
+  "hrkt": "ぶっしつ",
+  "latn": "busshitsu",
+  "en": "matter, substance",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00264A.mp3",
+  "sentences": [
+    {
+      "ja": "この製品は有害な化学<b>物質</b>を含んでいるわよ。",
+      "hrkt": "この せいひん は ゆうがいな かがく <b>ぶっしつ</b> を ふくんで いる わ よ。",
+      "latn": "kono seihin ha yuugaina kagaku <b>busshitsu</b> wo fukunde iru wa yo.",
+      "en": "This product contains a harmful substance.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/74243kevi8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00264A.mp3"
+    }
+  ]
+}

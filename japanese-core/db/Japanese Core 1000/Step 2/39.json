@@ -1,0 +1,26 @@
+{
+  "ja": "電車",
+  "hrkt": "でんしゃ",
+  "latn": "densha",
+  "en": "train",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06162A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>電車</b>で通学しています。",
+      "hrkt": "わたし は <b>でんしゃ</b> で つうがく して います。",
+      "latn": "watashi ha <b>densha</b> de tsuugaku shite imasu.",
+      "en": "I go to school by train.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4602298.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06162A.mp3"
+    },
+    {
+      "ja": "<b>電車</b>に傘を忘れた。",
+      "hrkt": "<b>でんしゃ</b> に かさ を わすれた。",
+      "latn": "<b>densha</b> ni kasa wo wasureta.",
+      "en": "I left my umbrella on the train.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2768501.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01571A.mp3"
+    }
+  ]
+}

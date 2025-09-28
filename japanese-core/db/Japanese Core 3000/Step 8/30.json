@@ -1,0 +1,18 @@
+{
+  "ja": "大臣",
+  "hrkt": "だいじん",
+  "latn": "daijin",
+  "en": "minister",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03707A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>大臣</b>が汚職で逮捕されました。",
+      "hrkt": "<b>だいじん</b> が おしょく で たいほ されました。",
+      "latn": "<b>daijin</b> ga oshoku de taiho saremashita.",
+      "en": "The minister was arrested for corruption.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/030i0v0hg8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03707A.mp3"
+    }
+  ]
+}

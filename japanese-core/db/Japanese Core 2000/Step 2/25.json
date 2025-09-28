@@ -1,0 +1,26 @@
+{
+  "ja": "メモ",
+  "hrkt": "メモ",
+  "latn": "memo",
+  "en": "memo, note",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09213A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>メモ</b>を取ってください。",
+      "hrkt": "<b>メモ</b> を とって ください。",
+      "latn": "<b>memo</b> wo totte kudasai.",
+      "en": "Please take notes.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5176483.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09213A.mp3"
+    },
+    {
+      "ja": "用件を<b>メモ</b>しておきました。",
+      "hrkt": "ようけん を <b>メモ</b> して おきました。",
+      "latn": "youken wo <b>memo</b> shite okimashita.",
+      "en": "I made a note of the matter.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2139332.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02590A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "婚約",
+  "hrkt": "こんやく",
+  "latn": "kon'yaku",
+  "en": "engagement",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02557A.mp3",
+  "sentences": [
+    {
+      "ja": "二人は<b>婚約</b>しています。",
+      "hrkt": "ふたり は <b>こんやく</b> して います。",
+      "latn": "futari ha <b>kon'yaku</b> shite imasu.",
+      "en": "They are engaged.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02557A.mp3"
+    }
+  ]
+}

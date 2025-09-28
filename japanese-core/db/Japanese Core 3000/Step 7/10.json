@@ -1,0 +1,18 @@
+{
+  "ja": "まな板",
+  "hrkt": "まないた",
+  "latn": "manaita",
+  "en": "chopping board",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03890A.mp3",
+  "sentences": [
+    {
+      "ja": "魚を切ったあと、<b>まな板</b>を洗ったの。",
+      "hrkt": "さかな を きった あと、<b>まないた</b> を あらった の。",
+      "latn": "sakana wo kitta ato,<b>manaita</b> wo aratta no.",
+      "en": "I washed the chopping board after cutting fish.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/9123585f0g.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03890A.mp3"
+    }
+  ]
+}

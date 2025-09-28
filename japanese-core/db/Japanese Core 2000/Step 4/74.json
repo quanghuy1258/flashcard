@@ -1,0 +1,26 @@
+{
+  "ja": "具体的",
+  "hrkt": "ぐたいてき",
+  "latn": "gutaiteki",
+  "en": "concrete, specific",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02451A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>具体的</b>な例をいくつか見せてください。",
+      "hrkt": "<b>ぐたいてき</b>な れい を いくつ か みせて ください。",
+      "latn": "<b>gutaiteki</b>na rei wo ikutsu ka misete kudasai.",
+      "en": "Please show me some specific examples.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6136827.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02451A.mp3"
+    },
+    {
+      "ja": "もっと<b>具体的</b>に説明してください。",
+      "hrkt": "もっと <b>ぐたいてき</b> に せつめい して ください。",
+      "latn": "motto <b>gutaiteki</b> ni setsumei shite kudasai.",
+      "en": "Please explain more specifically.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e3drc9dc0c.mp3"
+    }
+  ]
+}

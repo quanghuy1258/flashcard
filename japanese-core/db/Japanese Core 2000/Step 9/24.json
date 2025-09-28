@@ -1,0 +1,26 @@
+{
+  "ja": "剃る",
+  "hrkt": "そる",
+  "latn": "soru",
+  "en": "shave",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05104A.mp3",
+  "sentences": [
+    {
+      "ja": "父は毎日髭を<b>剃ります</b>。",
+      "hrkt": "ちち は まいにち ひげ を <b>そります</b>。",
+      "latn": "chichi ha mainichi hige wo <b>sorimasu</b>.",
+      "en": "My father shaves every day.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2747991.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05104A.mp3"
+    },
+    {
+      "ja": "床屋で顔を<b>剃って</b>もらいました。",
+      "hrkt": "とこや で かお を <b>そって</b> もらいました。",
+      "latn": "tokoya de kao wo <b>sotte</b> moraimashita.",
+      "en": "I had my face shaved at a barber.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/458nejaip8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "前もって",
+  "hrkt": "まえもって",
+  "latn": "maemotte",
+  "en": "in advance",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02432A.mp3",
+  "sentences": [
+    {
+      "ja": "休むときは<b>前もって</b>連絡をください。",
+      "hrkt": "やすむ とき は <b>まえもって</b> れんらく を ください 。",
+      "latn": "yasumu toki ha <b>maemotte</b> renraku wo kudasai .",
+      "en": "If you're going to take a day off, please let me know in advance.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02432A.mp3"
+    }
+  ]
+}

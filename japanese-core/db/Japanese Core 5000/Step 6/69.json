@@ -1,0 +1,18 @@
+{
+  "ja": "距離",
+  "hrkt": "きょり",
+  "latn": "kyori",
+  "en": "distance",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00337A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは長い<b>距離</b>を歩き続けたんだ。",
+      "hrkt": "かれら は ながい <b>きょり</b> を あるき つづけた ん だ。",
+      "latn": "karera ha nagai <b>kyori</b> wo aruki tsuzuketa n da.",
+      "en": "They kept walking a long distance.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00337A.mp3"
+    }
+  ]
+}

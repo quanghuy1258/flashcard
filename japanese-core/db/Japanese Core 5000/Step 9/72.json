@@ -1,0 +1,18 @@
+{
+  "ja": "抗議",
+  "hrkt": "こうぎ",
+  "latn": "kougi",
+  "en": "protest",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00767A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の発言に対してたくさんの<b>抗議</b>があったよ。",
+      "hrkt": "かれ の はつげん に たいして たくさん の <b>こうぎ</b> が あった よ。",
+      "latn": "kare no hatsugen ni taishite takusan no <b>kougi</b> ga atta yo.",
+      "en": "His remark provoked a lot of protesting claims.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00767A.mp3"
+    }
+  ]
+}

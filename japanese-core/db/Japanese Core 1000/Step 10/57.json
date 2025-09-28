@@ -1,0 +1,26 @@
+{
+  "ja": "間違える",
+  "hrkt": "まちがえる",
+  "latn": "machigaeru",
+  "en": "make a (careless) mistake, fail at (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08731A.mp3",
+  "sentences": [
+    {
+      "ja": "電話番号を<b>間違えました</b>。",
+      "hrkt": "でんわ ばんごう を <b>まちがえました</b>。",
+      "latn": "denwa bangou wo <b>machigaemashita</b>.",
+      "en": "I called the wrong number.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/913112.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08731A.mp3"
+    },
+    {
+      "ja": "曜日を<b>間違えました</b>。",
+      "hrkt": "ようび を <b>まちがえました</b>。",
+      "latn": "youbi wo <b>machigaemashita</b>.",
+      "en": "I got the day of the week wrong.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1567495.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09626A.mp3"
+    }
+  ]
+}

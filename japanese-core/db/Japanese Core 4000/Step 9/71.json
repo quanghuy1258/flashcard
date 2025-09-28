@@ -1,0 +1,18 @@
+{
+  "ja": "ぶつける",
+  "hrkt": "ぶつける",
+  "latn": "butsukeru",
+  "en": "hit, strike (forcefully)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01736A.mp3",
+  "sentences": [
+    {
+      "ja": "車を壁に<b>ぶつけて</b>しまいました。",
+      "hrkt": "くるま を かべ に <b>ぶつけて</b> しまいました。",
+      "latn": "kuruma wo kabe ni <b>butsukete</b> shimaimashita.",
+      "en": "I hit my car against the wall.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01736A.mp3"
+    }
+  ]
+}

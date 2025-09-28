@@ -1,0 +1,18 @@
+{
+  "ja": "過労",
+  "hrkt": "かろう",
+  "latn": "karou",
+  "en": "overwork",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02598A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>過労</b>のために倒れたの。",
+      "hrkt": "かれ は <b>かろう</b> の ため に たおれた の。",
+      "latn": "kare ha <b>karou</b> no tame ni taoreta no.",
+      "en": "He collapsed from overwork.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02598A.mp3"
+    }
+  ]
+}

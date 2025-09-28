@@ -1,0 +1,26 @@
+{
+  "ja": "売り切れる",
+  "hrkt": "うりきれる",
+  "latn": "urikireru",
+  "en": "sell out, go out of stock",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00789A.mp3",
+  "sentences": [
+    {
+      "ja": "その本は直ぐ<b>売り切れた</b>。",
+      "hrkt": "その ほん は すぐ <b>うりきれた</b>。",
+      "latn": "sono hon ha sugu <b>urikireta</b>.",
+      "en": "The books sold out quickly.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5193306.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00789A.mp3"
+    },
+    {
+      "ja": "Mサイズは<b>売り切れて</b>しまいました。",
+      "hrkt": "M サイズ は <b>うりきれて</b> しまいました。",
+      "latn": "M saizu ha <b>urikirete</b> shimaimashita.",
+      "en": "The medium size has sold out.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/553a9831uc.mp3"
+    }
+  ]
+}

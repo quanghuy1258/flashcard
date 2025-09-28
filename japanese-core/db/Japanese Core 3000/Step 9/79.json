@@ -1,0 +1,18 @@
+{
+  "ja": "疑問",
+  "hrkt": "ぎもん",
+  "latn": "gimon",
+  "en": "question, doubt",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00617A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の言葉が本当かは<b>疑問</b>です。",
+      "hrkt": "かれ の ことば が ほんとう か は <b>ぎもん</b> です。",
+      "latn": "kare no kotoba ga hontou ka ha <b>gimon</b> desu.",
+      "en": "I doubt if he was telling the truth.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/141lb36c7k.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00617A.mp3"
+    }
+  ]
+}

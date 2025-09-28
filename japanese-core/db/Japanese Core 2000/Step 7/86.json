@@ -1,0 +1,26 @@
+{
+  "ja": "いびき",
+  "hrkt": "いびき",
+  "latn": "ibiki",
+  "en": "snoring",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03123A.mp3",
+  "sentences": [
+    {
+      "ja": "父の<b>いびき</b>は大きいんだ。",
+      "hrkt": "ちち の <b>いびき</b> は おおきい ん だ。",
+      "latn": "chichi no <b>ibiki</b> ha ookii n da.",
+      "en": "My father snores loudly.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/0l2e0l3j1og4k.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03123A.mp3"
+    },
+    {
+      "ja": "自分の<b>いびき</b>で目が覚めました。",
+      "hrkt": "じぶん の <b>いびき</b> で め が さめました。",
+      "latn": "jibun no <b>ibiki</b> de me ga samemashita.",
+      "en": "I woke up because of my own snoring.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/020h58fmto.mp3"
+    }
+  ]
+}

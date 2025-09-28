@@ -1,0 +1,26 @@
+{
+  "ja": "怖い",
+  "hrkt": "こわい",
+  "latn": "kowai",
+  "en": "scary, be afraid",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03237A.mp3",
+  "sentences": [
+    {
+      "ja": "私は犬が<b>怖い</b>です。",
+      "hrkt": "わたし は いぬ が <b>こわい</b> です。",
+      "latn": "watashi ha inu ga <b>kowai</b> desu.",
+      "en": "I'm scared of dogs.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3324801.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03237A.mp3"
+    },
+    {
+      "ja": "私は<b>怖い</b>夢を見ました。",
+      "hrkt": "わたし は <b>こわい</b> ゆめ を みました。",
+      "latn": "watashi ha <b>kowai</b> yume wo mimashita.",
+      "en": "I had a scary dream.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/522f9eel84.mp3"
+    }
+  ]
+}

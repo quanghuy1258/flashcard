@@ -1,0 +1,26 @@
+{
+  "ja": "また",
+  "hrkt": "また",
+  "latn": "mata",
+  "en": "again, also, or",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08717A.mp3",
+  "sentences": [
+    {
+      "ja": "明日、<b>また</b>来ます。",
+      "hrkt": "あした、<b>また</b> きます。",
+      "latn": "ashita,<b>mata</b> kimasu.",
+      "en": "I'll come again tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4825997.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08717A.mp3"
+    },
+    {
+      "ja": "<b>また</b>いつか会いたいですね。",
+      "hrkt": "<b>また</b> いつか あいたい です ね。",
+      "latn": "<b>mata</b> itsuka aitai desu ne.",
+      "en": "I hope we can see each other again someday.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/322m35bh4s.mp3"
+    }
+  ]
+}

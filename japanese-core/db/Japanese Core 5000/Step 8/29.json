@@ -1,0 +1,18 @@
+{
+  "ja": "審議",
+  "hrkt": "しんぎ",
+  "latn": "shingi",
+  "en": "deliberation, consideration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00107A.mp3",
+  "sentences": [
+    {
+      "ja": "その問題は<b>審議</b>中です。",
+      "hrkt": "その もんだい は <b>しんぎ</b> ちゅう です。",
+      "latn": "sono mondai ha <b>shingi</b> chuu desu.",
+      "en": "The issue is under deliberation.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00107A.mp3"
+    }
+  ]
+}

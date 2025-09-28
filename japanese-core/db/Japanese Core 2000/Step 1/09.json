@@ -1,0 +1,26 @@
+{
+  "ja": "思い出",
+  "hrkt": "おもいで",
+  "latn": "omoide",
+  "en": "memory",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01209A.mp3",
+  "sentences": [
+    {
+      "ja": "旅行で楽しい<b>思い出</b>ができました。",
+      "hrkt": "りょこう で たのしい <b>おもいで</b> が できました。",
+      "latn": "ryokou de tanoshii <b>omoide</b> ga dekimashita.",
+      "en": "I made wonderful memories during my trip.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5098890.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01209A.mp3"
+    },
+    {
+      "ja": "写真は良い<b>思い出</b>になります。",
+      "hrkt": "しゃしん は いい <b>おもいで</b> に なります。",
+      "latn": "shashin ha ii <b>omoide</b> ni narimasu.",
+      "en": "Photographs make a good souvenir.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3503180.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03912A.mp3"
+    }
+  ]
+}

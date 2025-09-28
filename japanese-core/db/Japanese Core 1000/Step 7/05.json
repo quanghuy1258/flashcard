@@ -1,0 +1,26 @@
+{
+  "ja": "簡単",
+  "hrkt": "かんたん",
+  "latn": "kantan",
+  "en": "simple, easy",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01942A.mp3",
+  "sentences": [
+    {
+      "ja": "この料理はとても<b>簡単</b>です。",
+      "hrkt": "この りょうり は とても <b>かんたん</b> です。",
+      "latn": "kono ryouri ha totemo <b>kantan</b> desu.",
+      "en": "This dish is very easy to make.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4945168.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01942A.mp3"
+    },
+    {
+      "ja": "このゲームのルールは<b>簡単</b>です。",
+      "hrkt": "この ゲーム の ルール は <b>かんたん</b> です。",
+      "latn": "kono ge-mu no ru-ru ha <b>kantan</b> desu.",
+      "en": "The rules of this game are easy.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/c23c4g6ntg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00777A.mp3"
+    }
+  ]
+}

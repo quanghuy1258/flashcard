@@ -1,0 +1,18 @@
+{
+  "ja": "海老",
+  "hrkt": "えび",
+  "latn": "ebi",
+  "en": "shrimp",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02471A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>海老</b>の天ぷらは私の好物です。",
+      "hrkt": "<b>えび</b> の てんぷら は わたし の こうぶつ です。",
+      "latn": "<b>ebi</b> no tenpura ha watashi no koubutsu desu.",
+      "en": "Shrimp tempura is my favorite dish.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f47me68ol4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02471A.mp3"
+    }
+  ]
+}

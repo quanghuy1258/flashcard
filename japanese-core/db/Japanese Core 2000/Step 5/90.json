@@ -1,0 +1,26 @@
+{
+  "ja": "おしゃべり",
+  "hrkt": "おしゃべり",
+  "latn": "oshaberi",
+  "en": "chatter, idle talk",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01917A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女たちは<b>おしゃべり</b>に夢中です。",
+      "hrkt": "かのじょ たち は <b>おしゃべり</b> に むちゅう です 。",
+      "latn": "kanojo tachi ha <b>oshaberi</b> ni muchuu desu .",
+      "en": "Those women are absorbed in conversation.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3279611.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01917A.mp3"
+    },
+    {
+      "ja": "母は外で友達のお母さんと<b>おしゃべり</b>してます。",
+      "hrkt": "はは は そと で ともだち の おかあさん と <b>おしゃべり</b> してます。",
+      "latn": "haha ha soto de tomodachi no okaasan to <b>oshaberi</b> shitemasu.",
+      "en": "My mother is chatting with my friend's mother outside.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d5ae917b54.mp3"
+    }
+  ]
+}

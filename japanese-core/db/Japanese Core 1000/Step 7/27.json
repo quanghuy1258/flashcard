@@ -1,0 +1,26 @@
+{
+  "ja": "年上",
+  "hrkt": "としうえ",
+  "latn": "toshiue",
+  "en": "older, senior",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06423A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は私より<b>年上</b>です。",
+      "hrkt": "かれ は わたし より <b>としうえ</b> です。",
+      "latn": "kare ha watashi yori <b>toshiue</b> desu.",
+      "en": "He's older than me.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5868472.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06423A.mp3"
+    },
+    {
+      "ja": "彼は<b>年上</b>の女の人が好きだ。",
+      "hrkt": "かれ は <b>としうえ</b> の おんな の ひと が すき だ。",
+      "latn": "kare ha <b>toshiue</b> no onna no hito ga suki da.",
+      "en": "He likes women who are older than him.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b4290idp4g.mp3"
+    }
+  ]
+}

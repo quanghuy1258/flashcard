@@ -1,0 +1,18 @@
+{
+  "ja": "ぶら下げる",
+  "hrkt": "ぶらさげる",
+  "latn": "burasageru",
+  "en": "hang (something) down",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02944A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は首にカメラを<b>ぶら下げて</b>いるね。",
+      "hrkt": "かれ は くび に カメラを <b>ぶらさげて</b> いる ね。",
+      "latn": "kare ha kubi ni kamerawo <b>burasagete</b> iru ne.",
+      "en": "He has a camera hanging around his neck.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02944A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "毎日",
+  "hrkt": "まいにち",
+  "latn": "mainichi",
+  "en": "every day",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08641A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>毎日</b>散歩をします。",
+      "hrkt": "わたし たち は <b>まいにち</b> さんぽ を します。",
+      "latn": "watashi tachi ha <b>mainichi</b> sanpo wo shimasu.",
+      "en": "We go for a walk every day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4669594.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08641A.mp3"
+    },
+    {
+      "ja": "彼は<b>毎日</b>トレーニングをするの。",
+      "hrkt": "かれ は <b>まいにち</b> トレーニング を する の。",
+      "latn": "kare ha <b>mainichi</b> tore-ningu wo suru no.",
+      "en": "He works out every day.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2657610.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01606A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "君",
+  "hrkt": "きみ",
+  "latn": "kimi",
+  "en": "you (referring to fellows or subordinates)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02915A.mp3",
+  "sentences": [
+    {
+      "ja": "この本を<b>君</b>にあげます。",
+      "hrkt": "この ほん を <b>きみ</b> に あげます。",
+      "latn": "kono hon wo <b>kimi</b> ni agemasu.",
+      "en": "I'm going to give you this book.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/5lae8leislojc.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02915A.mp3"
+    },
+    {
+      "ja": "<b>君</b>は何を言っているのかな。",
+      "hrkt": "<b>きみ</b> は なに を いって いる の か な。",
+      "latn": "<b>kimi</b> ha nani wo itte iru no ka na.",
+      "en": "What are you talking about?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d6dd480290.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "混む",
+  "hrkt": "こむ",
+  "latn": "komu",
+  "en": "be crowded, be congested",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03204A.mp3",
+  "sentences": [
+    {
+      "ja": "電車が<b>混んで</b>いる。",
+      "hrkt": "でんしゃ が <b>こんで</b> いる。",
+      "latn": "densha ga <b>konde</b> iru.",
+      "en": "The train is crowded.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/589396.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03204A.mp3"
+    },
+    {
+      "ja": "週末はお店が<b>混んで</b>います。",
+      "hrkt": "しゅうまつ は おみせ が <b>こんで</b> います。",
+      "latn": "shuumatsu ha omise ga <b>konde</b> imasu.",
+      "en": "Shops are crowded on weekends.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e6ba93dhq4.mp3"
+    }
+  ]
+}

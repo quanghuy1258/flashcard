@@ -1,0 +1,26 @@
+{
+  "ja": "林",
+  "hrkt": "はやし",
+  "latn": "hayashi",
+  "en": "woods, forest",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07471A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>林</b>の中に入っていった。",
+      "hrkt": "わたし たち は <b>はやし</b> の なか に はいって いった。",
+      "latn": "watashi tachi ha <b>hayashi</b> no naka ni haitte itta.",
+      "en": "We entered the woods.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/966329.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07471A.mp3"
+    },
+    {
+      "ja": "その<b>林</b>には鹿がいます。",
+      "hrkt": "その <b>はやし</b> に は しか が います。",
+      "latn": "sono <b>hayashi</b> ni ha shika ga imasu.",
+      "en": "There are deer in the forest.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/032h7r1fhc.mp3"
+    }
+  ]
+}

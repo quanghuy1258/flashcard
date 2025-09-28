@@ -1,0 +1,18 @@
+{
+  "ja": "酔う",
+  "hrkt": "よう",
+  "latn": "you",
+  "en": "get drunk, get motion sickness",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01810A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなかなり<b>酔って</b>いたの。",
+      "hrkt": "みんな かなり <b>よって</b> いた の。",
+      "latn": "minna kanari <b>yotte</b> ita no.",
+      "en": "Everyone got heavily drunk.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01810A.mp3"
+    }
+  ]
+}

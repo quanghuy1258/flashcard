@@ -1,0 +1,18 @@
+{
+  "ja": "詰まる",
+  "hrkt": "つまる",
+  "latn": "tsumaru",
+  "en": "get clogged, become stuffed",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01926A.mp3",
+  "sentences": [
+    {
+      "ja": "このパイプは<b>詰まって</b>いますよ。",
+      "hrkt": "この パイプ は <b>つまって</b> います よ。",
+      "latn": "kono paipu ha <b>tsumatte</b> imasu yo.",
+      "en": "This pipe is clogged.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01014A.mp3"
+    }
+  ]
+}

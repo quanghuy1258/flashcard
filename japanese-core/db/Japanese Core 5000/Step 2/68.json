@@ -1,0 +1,18 @@
+{
+  "ja": "稲",
+  "hrkt": "いね",
+  "latn": "ine",
+  "en": "rice plant",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03532A.mp3",
+  "sentences": [
+    {
+      "ja": "日本は<b>稲</b>の品種が多いよ。",
+      "hrkt": "にっぽん は <b>いね</b> の ひんしゅ が おおい よ。",
+      "latn": "nippon ha <b>ine</b> no hinshu ga ooi yo.",
+      "en": "There's a variety of rice in Japan.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03532A.mp3"
+    }
+  ]
+}

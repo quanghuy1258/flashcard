@@ -1,0 +1,18 @@
+{
+  "ja": "申す",
+  "hrkt": "もうす",
+  "latn": "mousu",
+  "en": "say, tell (humble)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03925A.mp3",
+  "sentences": [
+    {
+      "ja": "私は鈴木と<b>申します</b>。",
+      "hrkt": "わたくし は すずき と <b>もうします</b>。",
+      "latn": "watakushi ha suzuki to <b>moushimasu</b>.",
+      "en": "My name is Suzuki.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/04ad5c101g.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03925A.mp3"
+    }
+  ]
+}

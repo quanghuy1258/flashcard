@@ -1,0 +1,26 @@
+{
+  "ja": "百",
+  "hrkt": "ひゃく",
+  "latn": "hyaku",
+  "en": "hundred",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07831A.mp3",
+  "sentences": [
+    {
+      "ja": "私の祖母は<b>百</b>才です。",
+      "hrkt": "わたし の そぼ は <b>ひゃく</b> さい です。",
+      "latn": "watashi no sobo ha <b>hyaku</b> sai desu.",
+      "en": "My grandmother is 100 years old.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5431594.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07831A.mp3"
+    },
+    {
+      "ja": "この古い時計は<b>百</b>年前のものだ。",
+      "hrkt": "この ふるい とけい は <b>ひゃく</b> ねん まえ の もの だ。",
+      "latn": "kono furui tokei ha <b>hyaku</b> nen mae no mono da.",
+      "en": "This old clock is a hundred years old.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/53fl7c18jc.mp3"
+    }
+  ]
+}

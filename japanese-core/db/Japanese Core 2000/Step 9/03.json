@@ -1,0 +1,26 @@
+{
+  "ja": "汚れ",
+  "hrkt": "よごれ",
+  "latn": "yogore",
+  "en": "dirt, blot",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09676A.mp3",
+  "sentences": [
+    {
+      "ja": "靴の<b>汚れ</b>を落としました。",
+      "hrkt": "くつ の <b>よごれ</b> を おとしました。",
+      "latn": "kutsu no <b>yogore</b> wo otoshimashita.",
+      "en": "I cleaned the dirt off the shoes.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4736420.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09676A.mp3"
+    },
+    {
+      "ja": "この<b>汚れ</b>はなかなか落ちません。",
+      "hrkt": "この <b>よごれ</b> は なかなか おちません。",
+      "latn": "kono <b>yogore</b> ha nakanaka ochimasen.",
+      "en": "This dirt doesn't come off easily.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/440hat30ps.mp3"
+    }
+  ]
+}

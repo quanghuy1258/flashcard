@@ -1,0 +1,18 @@
+{
+  "ja": "スピーカー",
+  "hrkt": "スピーカー",
+  "latn": "supi-ka-",
+  "en": "speaker",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01886A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>スピーカー</b>は音がいいですね。",
+      "hrkt": "この <b>スピーカー</b> は おと が いい です ね。",
+      "latn": "kono <b>supi-ka-</b> ha oto ga ii desu ne.",
+      "en": "This speaker has good sound.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01886A.mp3"
+    }
+  ]
+}

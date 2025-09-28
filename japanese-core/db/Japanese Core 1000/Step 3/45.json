@@ -1,0 +1,26 @@
+{
+  "ja": "要る",
+  "hrkt": "いる",
+  "latn": "iru",
+  "en": "need, require",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00609A.mp3",
+  "sentences": [
+    {
+      "ja": "予約は<b>要りません</b>。",
+      "hrkt": "よやく は <b>いりません</b>。",
+      "latn": "yoyaku ha <b>irimasen</b>.",
+      "en": "Reservations are not required.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3253087.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00609A.mp3"
+    },
+    {
+      "ja": "袋は<b>要りません</b>。",
+      "hrkt": "ふくろ は <b>いりません</b>。",
+      "latn": "fukuro ha <b>irimasen</b>.",
+      "en": "I don't need a bag.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5893830.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08026A.mp3"
+    }
+  ]
+}

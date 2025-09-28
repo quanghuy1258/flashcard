@@ -1,0 +1,18 @@
+{
+  "ja": "水面",
+  "hrkt": "すいめん",
+  "latn": "suimen",
+  "en": "surface of the water",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01287A.mp3",
+  "sentences": [
+    {
+      "ja": "湖の<b>水面</b>に小さく波が立っているな。",
+      "hrkt": "みずうみ の <b>すいめん</b> に ちいさく なみ が たって いる な。",
+      "latn": "mizuumi no <b>suimen</b> ni chiisaku nami ga tatte iru na.",
+      "en": "There are a lot of small waves on the surface of the lake.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01287A.mp3"
+    }
+  ]
+}

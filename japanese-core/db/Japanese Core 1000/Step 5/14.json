@@ -1,0 +1,26 @@
+{
+  "ja": "増える",
+  "hrkt": "ふえる",
+  "latn": "fueru",
+  "en": "increase, accrue",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07973A.mp3",
+  "sentences": [
+    {
+      "ja": "この町は人口が<b>増えた</b>。",
+      "hrkt": "この まち は じんこう が <b>ふえた</b>。",
+      "latn": "kono machi ha jinkou ga <b>fueta</b>.",
+      "en": "The population in this town has increased.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/232657.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07973A.mp3"
+    },
+    {
+      "ja": "日本に住む外国人が<b>増えて</b>います。",
+      "hrkt": "にほん に すむ がいこく じん が <b>ふえて</b> います。",
+      "latn": "nihon ni sumu gaikoku jin ga <b>fuete</b> imasu.",
+      "en": "The number of foreigners living in Japan is increasing.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4129663.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01351A.mp3"
+    }
+  ]
+}

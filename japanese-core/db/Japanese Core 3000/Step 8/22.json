@@ -1,0 +1,18 @@
+{
+  "ja": "参考",
+  "hrkt": "さんこう",
+  "latn": "sankou",
+  "en": "reference, consultation",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00943A.mp3",
+  "sentences": [
+    {
+      "ja": "この本を<b>参考</b>にしてください。",
+      "hrkt": "この ほん を <b>さんこう</b> に して ください 。",
+      "latn": "kono hon wo <b>sankou</b> ni shite kudasai .",
+      "en": "Please refer to this book.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/7262c54pds.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00943A.mp3"
+    }
+  ]
+}

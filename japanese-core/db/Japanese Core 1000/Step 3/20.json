@@ -1,0 +1,26 @@
+{
+  "ja": "しゃべる",
+  "hrkt": "しゃべる",
+  "latn": "shaberu",
+  "en": "chat, talk",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03926A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はよく<b>しゃべる</b>ね。",
+      "hrkt": "かのじょ は よく <b>しゃべる</b> ね。",
+      "latn": "kanojo ha yoku <b>shaberu</b> ne.",
+      "en": "She talks a lot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5806124.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03926A.mp3"
+    },
+    {
+      "ja": "彼は授業中、ずっと<b>しゃべって</b>いました。",
+      "hrkt": "かれ は じゅぎょう ちゅう、 ずっと <b>しゃべって</b> いました。",
+      "latn": "kare ha jugyou chuu, zutto <b>shabette</b> imashita.",
+      "en": "He was talking during the entire class.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/551hadbbkk.mp3"
+    }
+  ]
+}

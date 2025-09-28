@@ -1,0 +1,26 @@
+{
+  "ja": "七",
+  "hrkt": "しち",
+  "latn": "shichi",
+  "en": "seven (Chinese origin)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03739A.mp3",
+  "sentences": [
+    {
+      "ja": "そのグループのメンバーは全部で<b>七</b>人だ。",
+      "hrkt": "その グループ の メンバー は ぜんぶ で <b>しち</b> にん だ。",
+      "latn": "sono guru-pu no menba- ha zenbu de <b>shichi</b> nin da.",
+      "en": "In total, there are seven members in the group.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4425513.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03739A.mp3"
+    },
+    {
+      "ja": "<b>七</b>時に朝ご飯を食べました。",
+      "hrkt": "<b>しち</b> じ に あさ ごはん を たべました。",
+      "latn": "<b>shichi</b> ji ni asa gohan wo tabemashita.",
+      "en": "I ate breakfast at seven o'clock.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5359436.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00106A.mp3"
+    }
+  ]
+}

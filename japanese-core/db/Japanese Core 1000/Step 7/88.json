@@ -1,0 +1,26 @@
+{
+  "ja": "手術",
+  "hrkt": "しゅじゅつ",
+  "latn": "shujutsu",
+  "en": "surgical operation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04049A.mp3",
+  "sentences": [
+    {
+      "ja": "父は胸の<b>手術</b>をした。",
+      "hrkt": "ちち は むね の <b>しゅじゅつ</b> を した。",
+      "latn": "chichi ha mune no <b>shujutsu</b> wo shita.",
+      "en": "My father had a chest operation.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3812878.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04049A.mp3"
+    },
+    {
+      "ja": "腕の<b>手術</b>に4時間かかった。",
+      "hrkt": "うで の <b>しゅじゅつ</b> に 4 じかん かかった。",
+      "latn": "ude no <b>shujutsu</b> ni 4 jikan kakatta.",
+      "en": "The surgery on my arm took 4 hours.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/94227l6qic.mp3"
+    }
+  ]
+}

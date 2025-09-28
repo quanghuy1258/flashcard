@@ -1,0 +1,18 @@
+{
+  "ja": "日韓",
+  "hrkt": "にっかん",
+  "latn": "nikkan",
+  "en": "Japan and (South) Korea",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01913A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>日韓</b>合同のコンサートが開かれたよ。",
+      "hrkt": "<b>にっかん</b> ごうどう の コンサート が ひらかれた よ。",
+      "latn": "<b>nikkan</b> goudou no konsa-to ga hirakareta yo.",
+      "en": "There was a joint concert with Japan and South Korea.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01913A.mp3"
+    }
+  ]
+}

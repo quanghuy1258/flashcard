@@ -1,0 +1,26 @@
+{
+  "ja": "建設",
+  "hrkt": "けんせつ",
+  "latn": "kensetsu",
+  "en": "construction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02786A.mp3",
+  "sentences": [
+    {
+      "ja": "新しいビルの<b>建設</b>が始まった。",
+      "hrkt": "あたらしい ビル の <b>けんせつ</b> が はじまった。",
+      "latn": "atarashii biru no <b>kensetsu</b> ga hajimatta.",
+      "en": "Construction began on the new building.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5621338.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02786A.mp3"
+    },
+    {
+      "ja": "近所の人たちはマンションの<b>建設</b>に反対しています。",
+      "hrkt": "きんじょ の ひと たち は マンション の <b>けんせつ</b> に はんたい して います。",
+      "latn": "kinjo no hito tachi ha manshon no <b>kensetsu</b> ni hantai shite imasu.",
+      "en": "Neighbors are opposed to the apartment construction.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/8600ds4a6c.mp3"
+    }
+  ]
+}

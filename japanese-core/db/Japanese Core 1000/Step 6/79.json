@@ -1,0 +1,26 @@
+{
+  "ja": "ぬるい",
+  "hrkt": "ぬるい",
+  "latn": "nurui",
+  "en": "tepid, lukewarm",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06942A.mp3",
+  "sentences": [
+    {
+      "ja": "風呂が<b>ぬるかった</b>。",
+      "hrkt": "ふろ が <b>ぬるかった</b>。",
+      "latn": "furo ga <b>nurukatta</b>.",
+      "en": "The bath was lukewarm.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4959141.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06942A.mp3"
+    },
+    {
+      "ja": "<b>ぬるい</b>ココアは美味しくない。",
+      "hrkt": "<b>ぬるい</b> ココア は おいしく ない。",
+      "latn": "<b>nurui</b> kokoa ha oishiku nai.",
+      "en": "Lukewarm cocoa is not good.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f54n8bf3h8.mp3"
+    }
+  ]
+}

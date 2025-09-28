@@ -1,0 +1,18 @@
+{
+  "ja": "従う",
+  "hrkt": "したがう",
+  "latn": "shitagau",
+  "en": "follow, obey",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00215A.mp3",
+  "sentences": [
+    {
+      "ja": "上司の指示に<b>従った</b>。",
+      "hrkt": "じょうし の しじ に <b>したがった</b>。",
+      "latn": "joushi no shiji ni <b>shitagatta</b>.",
+      "en": "I followed the instructions from my boss.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00215A.mp3"
+    }
+  ]
+}

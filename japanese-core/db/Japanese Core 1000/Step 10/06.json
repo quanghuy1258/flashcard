@@ -1,0 +1,26 @@
+{
+  "ja": "素晴らしい",
+  "hrkt": "すばらしい",
+  "latn": "subarashii",
+  "en": "excellent, wonderful",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04604A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>素晴らしい</b>景色ですね。",
+      "hrkt": "<b>すばらしい</b> けしき です ね。",
+      "latn": "<b>subarashii</b> keshiki desu ne.",
+      "en": "The scenery is great.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4518879.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04604A.mp3"
+    },
+    {
+      "ja": "これは<b>素晴らしい</b>チャンスだ。",
+      "hrkt": "これ は <b>すばらしい</b> チャンス だ。",
+      "latn": "kore ha <b>subarashii</b> chansu da.",
+      "en": "This is a great chance.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2969100.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00919A.mp3"
+    }
+  ]
+}

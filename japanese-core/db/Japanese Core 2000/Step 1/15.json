@@ -1,0 +1,26 @@
+{
+  "ja": "赤ちゃん",
+  "hrkt": "あかちゃん",
+  "latn": "akachan",
+  "en": "baby (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00047A.mp3",
+  "sentences": [
+    {
+      "ja": "ベッドで<b>赤ちゃん</b>が眠っています。",
+      "hrkt": "ベッド で <b>あかちゃん</b> が ねむって います。",
+      "latn": "beddo de <b>akachan</b> ga nemutte imasu.",
+      "en": "The baby's sleeping in the bed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5363353.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00047A.mp3"
+    },
+    {
+      "ja": "<b>赤ちゃん</b>にミルクをあげた。",
+      "hrkt": "<b>あかちゃん</b> に ミルク を あげた。",
+      "latn": "<b>akachan</b> ni miruku wo ageta.",
+      "en": "I gave the baby some milk.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4300028.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09013A.mp3"
+    }
+  ]
+}

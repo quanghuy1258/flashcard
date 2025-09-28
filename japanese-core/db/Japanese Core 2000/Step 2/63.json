@@ -1,0 +1,26 @@
+{
+  "ja": "立派",
+  "hrkt": "りっぱ",
+  "latn": "rippa",
+  "en": "fine, elegant, magnificent",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09821A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>立派</b>な人です。",
+      "hrkt": "かれ は <b>りっぱ</b>な ひと です。",
+      "latn": "kare ha <b>rippa</b>na hito desu.",
+      "en": "He's a fine man.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5691126.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09821A.mp3"
+    },
+    {
+      "ja": "彼らは<b>立派</b>な家を建てました。",
+      "hrkt": "かれら は <b>りっぱ</b>な いえ を たてました。",
+      "latn": "karera ha <b>rippa</b>na ie wo tatemashita.",
+      "en": "They built a magnificent house.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/852efj3mpg.mp3"
+    }
+  ]
+}

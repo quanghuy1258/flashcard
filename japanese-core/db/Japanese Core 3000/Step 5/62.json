@@ -1,0 +1,18 @@
+{
+  "ja": "蛇",
+  "hrkt": "へび",
+  "latn": "hebi",
+  "en": "snake",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03868A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>蛇</b>がカエルを捕まえたの。",
+      "hrkt": "<b>へび</b> が カエル を つかまえた の。",
+      "latn": "<b>hebi</b> ga kaeru wo tsukamaeta no.",
+      "en": "The snake captured a frog.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/84bmed5r3c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03868A.mp3"
+    }
+  ]
+}

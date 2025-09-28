@@ -1,0 +1,18 @@
+{
+  "ja": "国境",
+  "hrkt": "こっきょう",
+  "latn": "kokkyou",
+  "en": "national border",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03443A.mp3",
+  "sentences": [
+    {
+      "ja": "あの山のすぐ近くが<b>国境</b>です。",
+      "hrkt": "あの やま の すぐ ちかく が <b>こっきょう</b> です。",
+      "latn": "ano yama no sugu chikaku ga <b>kokkyou</b> desu.",
+      "en": "The border is right near that mountain.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03443A.mp3"
+    }
+  ]
+}

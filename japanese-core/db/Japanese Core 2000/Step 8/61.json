@@ -1,0 +1,26 @@
+{
+  "ja": "将来",
+  "hrkt": "しょうらい",
+  "latn": "shourai",
+  "en": "future, in the future",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00233A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>将来</b>はパイロットになりたいです。",
+      "hrkt": "<b>しょうらい</b> は パイロット に なりたい です。",
+      "latn": "<b>shourai</b> ha pairotto ni naritai desu.",
+      "en": "I want to become a pilot in the future.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3383260.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00233A.mp3"
+    },
+    {
+      "ja": "私は子供の<b>将来</b>が心配です。",
+      "hrkt": "わたし は こども の <b>しょうらい</b> が しんぱい です。",
+      "latn": "watashi ha kodomo no <b>shourai</b> ga shinpai desu.",
+      "en": "I'm worried about my child's future.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/63fv7l81es.mp3"
+    }
+  ]
+}

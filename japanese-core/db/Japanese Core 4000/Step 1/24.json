@@ -1,0 +1,18 @@
+{
+  "ja": "流す",
+  "hrkt": "ながす",
+  "latn": "nagasu",
+  "en": "run (water etc.), shed",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00759A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は涙を<b>流した</b>んだ。",
+      "hrkt": "かのじょ は なみだ を <b>ながした</b> ん だ。",
+      "latn": "kanojo ha namida wo <b>nagashita</b> n da.",
+      "en": "She shed tears.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c31ufu42rc.png",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00759A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "入試",
+  "hrkt": "にゅうし",
+  "latn": "nyuushi",
+  "en": "entrance examination",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00861A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は高校の<b>入試</b>です。",
+      "hrkt": "あした は こうこう の <b>にゅうし</b> です。",
+      "latn": "ashita ha koukou no <b>nyuushi</b> desu.",
+      "en": "The high school entrance exam is tomorrow.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00861A.mp3"
+    }
+  ]
+}

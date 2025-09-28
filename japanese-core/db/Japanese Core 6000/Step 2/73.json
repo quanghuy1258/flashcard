@@ -1,0 +1,18 @@
+{
+  "ja": "行進",
+  "hrkt": "こうしん",
+  "latn": "koushin",
+  "en": "march, parade",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01767A.mp3",
+  "sentences": [
+    {
+      "ja": "開会式で選手たちが<b>行進</b>しました。",
+      "hrkt": "かいかい しき で せんしゅ たち が <b>こうしん</b> しました。",
+      "latn": "kaikai shiki de senshu tachi ga <b>koushin</b> shimashita.",
+      "en": "The athletes marched in the opening ceremony.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01767A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "気持ち",
+  "hrkt": "きもち",
+  "latn": "kimochi",
+  "en": "feeling, sensation",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02164A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>気持ち</b>が分からない。",
+      "hrkt": "かれ の <b>きもち</b> が わからない。",
+      "latn": "kare no <b>kimochi</b> ga wakaranai.",
+      "en": "I don't know how he feels about me.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4244190.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02164A.mp3"
+    },
+    {
+      "ja": "このソファーは<b>気持ち</b>がいい。",
+      "hrkt": "この ソファー は <b>きもち</b> が いい。",
+      "latn": "kono sofa- ha <b>kimochi</b> ga ii.",
+      "en": "This sofa feels good.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5305671.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05092A.mp3"
+    }
+  ]
+}

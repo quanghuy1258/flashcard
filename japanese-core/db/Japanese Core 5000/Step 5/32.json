@@ -1,0 +1,18 @@
+{
+  "ja": "至急",
+  "hrkt": "しきゅう",
+  "latn": "shikyuu",
+  "en": "urgent",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03353A.mp3",
+  "sentences": [
+    {
+      "ja": "会社から「<b>至急</b>」との連絡があったんだ。",
+      "hrkt": "かいしゃ から 「<b>しきゅう</b>」 と の れんらく が あった ん だ。",
+      "latn": "kaisha kara 「<b>shikyuu</b>」 to no renraku ga atta n da.",
+      "en": "The company contacted me on an \"urgent\" matter.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03353A.mp3"
+    }
+  ]
+}

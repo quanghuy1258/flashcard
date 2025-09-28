@@ -1,0 +1,26 @@
+{
+  "ja": "薬",
+  "hrkt": "くすり",
+  "latn": "kusuri",
+  "en": "drug, medicine",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02445A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>薬</b>を必ず飲んでください。",
+      "hrkt": "この <b>くすり</b> を かならず のんで ください。",
+      "latn": "kono <b>kusuri</b> wo kanarazu nonde kudasai.",
+      "en": "Please be sure to take this medicine.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4317504.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02445A.mp3"
+    },
+    {
+      "ja": "昼ご飯の前に<b>薬</b>を飲みました。",
+      "hrkt": "ひる ごはん の まえ に <b>くすり</b> を のみました。",
+      "latn": "hiru gohan no mae ni <b>kusuri</b> wo nomimashita.",
+      "en": "I took medicine before lunch.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/25e0bi34n4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "広げる",
+  "hrkt": "ひろげる",
+  "latn": "hirogeru",
+  "en": "spread (something)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00294A.mp3",
+  "sentences": [
+    {
+      "ja": "電車の中では新聞を<b>広げない</b>で。",
+      "hrkt": "でんしゃ の なか で は しんぶん を <b>ひろげない</b> で。",
+      "latn": "densha no naka de ha shinbun wo <b>hirogenai</b> de.",
+      "en": "Don't spread your newspaper wide open in the train.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00294A.mp3"
+    }
+  ]
+}

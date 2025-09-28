@@ -1,0 +1,26 @@
+{
+  "ja": "見方",
+  "hrkt": "みかた",
+  "latn": "mikata",
+  "en": "view, perspective",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08863A.mp3",
+  "sentences": [
+    {
+      "ja": "彼に対する<b>見方</b>が変わりました。",
+      "hrkt": "かれ に たいする <b>みかた</b> が かわりました。",
+      "latn": "kare ni taisuru <b>mikata</b> ga kawarimashita.",
+      "en": "My view of him has changed.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6445944.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08863A.mp3"
+    },
+    {
+      "ja": "あなたのものの<b>見方</b>はおもしろいですね。",
+      "hrkt": "あなた の もの の <b>みかた</b> は おもしろい です ね。",
+      "latn": "anata no mono no <b>mikata</b> ha omoshiroi desu ne.",
+      "en": "Your outlook on life is interesting.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b449at4h3c.mp3"
+    }
+  ]
+}

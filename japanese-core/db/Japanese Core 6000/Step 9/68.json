@@ -1,0 +1,18 @@
+{
+  "ja": "一種",
+  "hrkt": "いっしゅ",
+  "latn": "isshu",
+  "en": "a type of, a kind of",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00295A.mp3",
+  "sentences": [
+    {
+      "ja": "それは果物の<b>一種</b>です。",
+      "hrkt": "それ は くだもの の <b>いっしゅ</b> です。",
+      "latn": "sore ha kudamono no <b>isshu</b> desu.",
+      "en": "It's a kind of fruit.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00295A.mp3"
+    }
+  ]
+}

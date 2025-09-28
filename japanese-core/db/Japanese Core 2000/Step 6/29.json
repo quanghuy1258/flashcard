@@ -1,0 +1,26 @@
+{
+  "ja": "皆様",
+  "hrkt": "みなさま",
+  "latn": "minasama",
+  "en": "everyone, ladies and gentlemen",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08960A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>皆様</b>、こんにちは。",
+      "hrkt": "<b>みなさま</b>、こんにちは。",
+      "latn": "<b>minasama</b>,konnichiha.",
+      "en": "Hello everyone.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6155284.jpg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e381aofpik.mp3"
+    },
+    {
+      "ja": "<b>皆様</b>、お元気ですか。",
+      "hrkt": "<b>みなさま</b>、おげんき です か。",
+      "latn": "<b>minasama</b>,ogenki desu ka.",
+      "en": "How is everyone?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/665bd02dcg.mp3"
+    }
+  ]
+}

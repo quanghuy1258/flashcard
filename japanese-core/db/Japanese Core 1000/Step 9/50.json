@@ -1,0 +1,26 @@
+{
+  "ja": "数学",
+  "hrkt": "すうがく",
+  "latn": "suugaku",
+  "en": "mathematics",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04510A.mp3",
+  "sentences": [
+    {
+      "ja": "兄は<b>数学</b>の先生です。",
+      "hrkt": "あに は <b>すうがく</b> の せんせい です。",
+      "latn": "ani ha <b>suugaku</b> no sensei desu.",
+      "en": "My big brother's a math teacher.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3729440.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04510A.mp3"
+    },
+    {
+      "ja": "彼は<b>数学</b>を教えています。",
+      "hrkt": "かれ は <b>すうがく</b> を おしえて います。",
+      "latn": "kare ha <b>suugaku</b> wo oshiete imasu.",
+      "en": "He teaches mathematics.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5376900.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01077A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "動く",
+  "hrkt": "うごく",
+  "latn": "ugoku",
+  "en": "move",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00683A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>動かない</b>で。",
+      "hrkt": "<b>うごかない</b> で。",
+      "latn": "<b>ugokanai</b> de.",
+      "en": "Don't move!",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4442212.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00683A.mp3"
+    },
+    {
+      "ja": "お腹が痛くて<b>動けません</b>。",
+      "hrkt": "おなか が いたくて <b>うごけません</b>。",
+      "latn": "onaka ga itakute <b>ugokemasen</b>.",
+      "en": "My stomach hurts so much that I can't move.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a4de4r77ao.mp3"
+    }
+  ]
+}

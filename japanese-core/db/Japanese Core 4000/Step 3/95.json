@@ -1,0 +1,18 @@
+{
+  "ja": "国会",
+  "hrkt": "こっかい",
+  "latn": "kokkai",
+  "en": "National Diet, parliament",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03142A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>国会</b>が再開した。",
+      "hrkt": "<b>こっかい</b> が さいかい した。",
+      "latn": "<b>kokkai</b> ga saikai shita.",
+      "en": "The Diet reconvened.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03142A.mp3"
+    }
+  ]
+}

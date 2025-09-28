@@ -1,0 +1,18 @@
+{
+  "ja": "カーブ",
+  "hrkt": "カーブ",
+  "latn": "ka-bu",
+  "en": "curve",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02175A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>カーブ</b>は気をつけて。",
+      "hrkt": "この <b>カーブ</b> は きをつけて。",
+      "latn": "kono <b>ka-bu</b> ha kiwotsukete.",
+      "en": "Be careful on this curve.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02175A.mp3?1220197102"
+    }
+  ]
+}

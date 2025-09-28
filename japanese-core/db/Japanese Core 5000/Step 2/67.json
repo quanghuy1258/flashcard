@@ -1,0 +1,18 @@
+{
+  "ja": "逆らう",
+  "hrkt": "さからう",
+  "latn": "sakarau",
+  "en": "go against, rebel",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02273A.mp3",
+  "sentences": [
+    {
+      "ja": "親に<b>逆らう</b>のは良くないことです。",
+      "hrkt": "おや に <b>さからう</b> の は よくない こと です。",
+      "latn": "oya ni <b>sakarau</b> no ha yokunai koto desu.",
+      "en": "It's not good to rebel against your parents.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02273A.mp3"
+    }
+  ]
+}

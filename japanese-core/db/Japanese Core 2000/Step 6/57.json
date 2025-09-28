@@ -1,0 +1,26 @@
+{
+  "ja": "交通費",
+  "hrkt": "こうつうひ",
+  "latn": "koutsuuhi",
+  "en": "traveling expense, transportation fee",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02954A.mp3",
+  "sentences": [
+    {
+      "ja": "会社までの<b>交通費</b>は1か月8,000円です。",
+      "hrkt": "かいしゃ まで の <b>こうつうひ</b> は いっかげつ 8000 えん です。",
+      "latn": "kaisha made no <b>koutsuuhi</b> ha ikkagetsu 8000 en desu.",
+      "en": "Transportation to the company costs 8,000 yen a month.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3432875.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02954A.mp3"
+    },
+    {
+      "ja": "広島までの<b>交通費</b>を調べてください。",
+      "hrkt": "ひろしま まで の <b>こうつうひ</b> を しらべて ください。",
+      "latn": "hiroshima made no <b>koutsuuhi</b> wo shirabete kudasai.",
+      "en": "Please check the fare to Hiroshima.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/462d6v35dg.mp3"
+    }
+  ]
+}

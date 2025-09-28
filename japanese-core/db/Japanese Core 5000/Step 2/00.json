@@ -1,0 +1,18 @@
+{
+  "ja": "日光",
+  "hrkt": "にっこう",
+  "latn": "nikkou",
+  "en": "sunshine, sunlight",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02363A.mp3",
+  "sentences": [
+    {
+      "ja": "この部屋は<b>日光</b>がよく当たるね。",
+      "hrkt": "この へや は <b>にっこう</b> が よく あたる ね。",
+      "latn": "kono heya ha <b>nikkou</b> ga yoku ataru ne.",
+      "en": "This room gets quite a lot of sunshine.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02363A.mp3"
+    }
+  ]
+}

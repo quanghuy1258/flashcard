@@ -1,0 +1,18 @@
+{
+  "ja": "売り場",
+  "hrkt": "うりば",
+  "latn": "uriba",
+  "en": "sales floor, department",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00793A.mp3",
+  "sentences": [
+    {
+      "ja": "くつ<b>売り場</b>はどこですか。",
+      "hrkt": "くつ <b>うりば</b> は どこ です か。",
+      "latn": "kutsu <b>uriba</b> ha doko desu ka.",
+      "en": "Where is the shoe department?",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/25d6345ejs.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00793A.mp3"
+    }
+  ]
+}

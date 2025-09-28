@@ -1,0 +1,26 @@
+{
+  "ja": "苦手",
+  "hrkt": "にがて",
+  "latn": "nigate",
+  "en": "not good at, be bad at",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06804A.mp3",
+  "sentences": [
+    {
+      "ja": "私は料理が<b>苦手</b>です。",
+      "hrkt": "わたし は りょうり が <b>にがて</b> です。",
+      "latn": "watashi ha ryouri ga <b>nigate</b> desu.",
+      "en": "I'm not good at cooking.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5591403.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06804A.mp3"
+    },
+    {
+      "ja": "数字は<b>苦手</b>です。",
+      "hrkt": "すうじ は <b>にがて</b> です。",
+      "latn": "suuji ha <b>nigate</b> desu.",
+      "en": "I'm not good with numbers.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5914333.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04511A.mp3"
+    }
+  ]
+}

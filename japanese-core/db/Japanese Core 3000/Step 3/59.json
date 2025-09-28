@@ -1,0 +1,18 @@
+{
+  "ja": "前提",
+  "hrkt": "ぜんてい",
+  "latn": "zentei",
+  "en": "assumption, premise",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00829A.mp3",
+  "sentences": [
+    {
+      "ja": "交渉が成立するという<b>前提</b>で話を進めます。",
+      "hrkt": "こうしょう が せいりつ する と いう <b>ぜんてい</b> で はなし を すすめます。",
+      "latn": "koushou ga seiritsu suru to iu <b>zentei</b> de hanashi wo susumemasu.",
+      "en": "We're proceeding with talks under the assumption we'll get the deal.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/2abr9h8d0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00829A.mp3"
+    }
+  ]
+}

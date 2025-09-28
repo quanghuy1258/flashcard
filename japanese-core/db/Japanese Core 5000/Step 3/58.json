@@ -1,0 +1,18 @@
+{
+  "ja": "頼み",
+  "hrkt": "たのみ",
+  "latn": "tanomi",
+  "en": "request, favor",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02302A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたに<b>頼み</b>があるんですけど。",
+      "hrkt": "あなた に <b>たのみ</b> が ある ん です けど。",
+      "latn": "anata ni <b>tanomi</b> ga aru n desu kedo.",
+      "en": "I have a favor to ask you.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02302A.mp3"
+    }
+  ]
+}

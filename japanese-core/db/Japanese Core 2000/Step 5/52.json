@@ -1,0 +1,26 @@
+{
+  "ja": "交番",
+  "hrkt": "こうばん",
+  "latn": "kouban",
+  "en": "police box",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02982A.mp3",
+  "sentences": [
+    {
+      "ja": "あそこの<b>交番</b>で道を聞きましょう。",
+      "hrkt": "あそこ の <b>こうばん</b> で みち を ききましょう。",
+      "latn": "asoko no <b>kouban</b> de michi wo kikimashou.",
+      "en": "Let's ask for directions at that police box.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3953848.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02982A.mp3"
+    },
+    {
+      "ja": "駅前に<b>交番</b>があります。",
+      "hrkt": "えき まえ に <b>こうばん</b> が あります 。",
+      "latn": "eki mae ni <b>kouban</b> ga arimasu .",
+      "en": "There is a police box in front of the station.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/95298j47o8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01272A.mp3"
+    }
+  ]
+}

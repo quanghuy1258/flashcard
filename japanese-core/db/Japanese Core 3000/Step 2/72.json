@@ -1,0 +1,18 @@
+{
+  "ja": "ぴかぴか",
+  "hrkt": "ぴかぴか",
+  "latn": "pikapika",
+  "en": "shiny, glittering",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03382A.mp3",
+  "sentences": [
+    {
+      "ja": "新車は<b>ぴかぴか</b>ですね。",
+      "hrkt": "しんしゃ は <b>ぴかぴか</b> です ね。",
+      "latn": "shinsha ha <b>pikapika</b> desu ne.",
+      "en": "The new car is really shiny.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/940u1e55do.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03382A.mp3"
+    }
+  ]
+}

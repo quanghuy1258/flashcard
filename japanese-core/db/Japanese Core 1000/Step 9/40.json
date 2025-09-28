@@ -1,0 +1,26 @@
+{
+  "ja": "小学校",
+  "hrkt": "しょうがっこう",
+  "latn": "shougakkou",
+  "en": "elementary school",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04146A.mp3",
+  "sentences": [
+    {
+      "ja": "家の近くに<b>小学校</b>があります。",
+      "hrkt": "いえ の ちかく に <b>しょうがっこう</b> が あります。",
+      "latn": "ie no chikaku ni <b>shougakkou</b> ga arimasu.",
+      "en": "There's an elementary school near my house.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2060586.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04146A.mp3"
+    },
+    {
+      "ja": "娘は今年、<b>小学校</b>に入りました。",
+      "hrkt": "むすめ は ことし、<b>しょうがっこう</b> に はいりました。",
+      "latn": "musume ha kotoshi,<b>shougakkou</b> ni hairimashita.",
+      "en": "My daughter started elementary school this year.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e3bc385ke0.mp3"
+    }
+  ]
+}

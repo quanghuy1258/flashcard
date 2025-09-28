@@ -1,0 +1,18 @@
+{
+  "ja": "鉄",
+  "hrkt": "てつ",
+  "latn": "tetsu",
+  "en": "iron",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03766A.mp3",
+  "sentences": [
+    {
+      "ja": "この鍋は<b>鉄</b>でできています。",
+      "hrkt": "この なべ は <b>てつ</b> で できて います。",
+      "latn": "kono nabe ha <b>tetsu</b> de dekite imasu.",
+      "en": "This pot is made of iron.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03766A.mp3"
+    }
+  ]
+}

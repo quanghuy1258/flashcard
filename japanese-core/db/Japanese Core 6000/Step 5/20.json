@@ -1,0 +1,18 @@
+{
+  "ja": "交わる",
+  "hrkt": "まじわる",
+  "latn": "majiwaru",
+  "en": "cross, intersect",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02399A.mp3",
+  "sentences": [
+    {
+      "ja": "二つの国道はここで<b>交わります</b>。",
+      "hrkt": "ふたつ の こくどう は ここ で <b>まじわります</b>。",
+      "latn": "futatsu no kokudou ha koko de <b>majiwarimasu</b>.",
+      "en": "The two national roads intersect here.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02399A.mp3"
+    }
+  ]
+}

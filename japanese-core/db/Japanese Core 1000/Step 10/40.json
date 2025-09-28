@@ -1,0 +1,26 @@
+{
+  "ja": "有名",
+  "hrkt": "ゆうめい",
+  "latn": "yuumei",
+  "en": "famous",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09519A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>有名</b>な歌手です。",
+      "hrkt": "かれ は <b>ゆうめい</b>な かしゅ です。",
+      "latn": "kare ha <b>yuumei</b>na kashu desu.",
+      "en": "He's a famous singer.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2836755.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09519A.mp3"
+    },
+    {
+      "ja": "このレストランはとても<b>有名</b>です。",
+      "hrkt": "この レストラン は とても <b>ゆうめい</b> です。",
+      "latn": "kono resutoran ha totemo <b>yuumei</b> desu.",
+      "en": "This restaurant is very famous.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/56c0532n0c.mp3"
+    }
+  ]
+}

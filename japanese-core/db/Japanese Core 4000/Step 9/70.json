@@ -1,0 +1,18 @@
+{
+  "ja": "東西",
+  "hrkt": "とうざい",
+  "latn": "touzai",
+  "en": "east and west",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00708A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>東西</b>に大きな道路が通っています。",
+      "hrkt": "<b>とうざい</b> に おおき な どうろ が とおって います。",
+      "latn": "<b>touzai</b> ni ooki na douro ga tootte imasu.",
+      "en": "There's a major road running from east to west.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00708A.mp3"
+    }
+  ]
+}

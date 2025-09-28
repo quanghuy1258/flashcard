@@ -1,0 +1,18 @@
+{
+  "ja": "落とし物",
+  "hrkt": "おとしもの",
+  "latn": "otoshimono",
+  "en": "lost property",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03559A.mp3",
+  "sentences": [
+    {
+      "ja": "財布の<b>落とし物</b>を拾いました。",
+      "hrkt": "さいふ の <b>おとしもの</b> を ひろいました。",
+      "latn": "saifu no <b>otoshimono</b> wo hiroimashita.",
+      "en": "I picked up someone's lost wallet.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/43c95n59fk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03559A.mp3"
+    }
+  ]
+}

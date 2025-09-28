@@ -1,0 +1,18 @@
+{
+  "ja": "迎え",
+  "hrkt": "むかえ",
+  "latn": "mukae",
+  "en": "greeting, picking (someone) up",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02540A.mp3",
+  "sentences": [
+    {
+      "ja": "駅まで<b>迎え</b>に来てください。",
+      "hrkt": "えき まで <b>むかえ</b>に きて ください。",
+      "latn": "eki made <b>mukae</b>ni kite kudasai.",
+      "en": "Please come pick me up at the station.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02540A.mp3"
+    }
+  ]
+}

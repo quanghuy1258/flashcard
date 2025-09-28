@@ -1,0 +1,18 @@
+{
+  "ja": "救助",
+  "hrkt": "きゅうじょ",
+  "latn": "kyuujo",
+  "en": "rescue, save",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01322A.mp3",
+  "sentences": [
+    {
+      "ja": "プールで男の子が<b>救助</b>されました。",
+      "hrkt": "プール で おとこのこ が <b>きゅうじょ</b> されました。",
+      "latn": "pu-ru de otokonoko ga <b>kyuujo</b> saremashita.",
+      "en": "A boy was rescued in the swimming pool.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01322A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "元旦",
+  "hrkt": "がんたん",
+  "latn": "gantan",
+  "en": "morning of the January 1st, New Year's Day",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01944A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>元旦</b>に彼から年賀状がきた。",
+      "hrkt": "<b>がんたん</b> に かれ から ねんがじょう が きた。",
+      "latn": "<b>gantan</b> ni kare kara nengajou ga kita.",
+      "en": "I got a New Year's card from him in the morning of January 1.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4947367.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01944A.mp3"
+    },
+    {
+      "ja": "<b>元旦</b>に家族で神社に行きました。",
+      "hrkt": "<b>がんたん</b> に かぞく で じんじゃ に いきました。",
+      "latn": "<b>gantan</b> ni kazoku de jinja ni ikimashita.",
+      "en": "I went to the shrine in the morning of New Year's Day with my family.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e4ek1lfn44.mp3"
+    }
+  ]
+}

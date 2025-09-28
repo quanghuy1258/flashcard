@@ -1,0 +1,26 @@
+{
+  "ja": "妻",
+  "hrkt": "つま",
+  "latn": "tsuma",
+  "en": "(one's own) wife",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05925A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>妻</b>の誕生日だ。",
+      "hrkt": "きょう は <b>つま</b> の たんじょうび だ。",
+      "latn": "kyou ha <b>tsuma</b> no tanjoubi da.",
+      "en": "It's my wife's birthday today.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5176004.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05925A.mp3"
+    },
+    {
+      "ja": "<b>妻</b>にネックレスをプレゼントしました。",
+      "hrkt": "<b>つま</b> に ネックレス を プレゼント しました。",
+      "latn": "<b>tsuma</b> ni nekkuresu wo purezento shimashita.",
+      "en": "I gave my wife a necklace.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1214292.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06989A.mp3"
+    }
+  ]
+}

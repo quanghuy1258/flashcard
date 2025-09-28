@@ -1,0 +1,18 @@
+{
+  "ja": "省略",
+  "hrkt": "しょうりゃく",
+  "latn": "shouryaku",
+  "en": "omission, abbreviation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02192A.mp3",
+  "sentences": [
+    {
+      "ja": "地図内の小さい建物は<b>省略</b>してあります。",
+      "hrkt": "ちず ない の ちいさい たてもの は <b>しょうりゃく</b> して あります。",
+      "latn": "chizu nai no chiisai tatemono ha <b>shouryaku</b> shite arimasu.",
+      "en": "Small buildings have been omitted from the map.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02192A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "候補",
+  "hrkt": "こうほ",
+  "latn": "kouho",
+  "en": "candidate",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02992A.mp3",
+  "sentences": [
+    {
+      "ja": "会長の<b>候補</b>は3人います。",
+      "hrkt": "かいちょう の <b>こうほ</b> は 3 にん います。",
+      "latn": "kaichou no <b>kouho</b> ha 3 nin imasu.",
+      "en": "There are three candidates for chairperson.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/718q7b7e90.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02992A.mp3"
+    }
+  ]
+}

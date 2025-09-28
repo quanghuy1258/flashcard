@@ -1,0 +1,26 @@
+{
+  "ja": "心配",
+  "hrkt": "しんぱい",
+  "latn": "shinpai",
+  "en": "anxiety, worry",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04434A.mp3",
+  "sentences": [
+    {
+      "ja": "明日のプレゼンテーションが<b>心配</b>だ。",
+      "hrkt": "あす の プレゼンテーション が <b>しんぱい</b> だ。",
+      "latn": "asu no purezente-shon ga <b>shinpai</b> da.",
+      "en": "I'm worried about tomorrow's presentation.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5289783.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04434A.mp3"
+    },
+    {
+      "ja": "<b>心配</b>してくれてありがとう。",
+      "hrkt": "<b>しんぱい</b> して くれて ありがとう。",
+      "latn": "<b>shinpai</b> shite kurete arigatou.",
+      "en": "Thank you for worrying about me.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f81p030im4.mp3"
+    }
+  ]
+}

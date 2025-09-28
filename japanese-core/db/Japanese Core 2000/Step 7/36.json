@@ -1,0 +1,26 @@
+{
+  "ja": "いちご",
+  "hrkt": "いちご",
+  "latn": "ichigo",
+  "en": "strawberry",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00483A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>いちご</b>はとても甘い。",
+      "hrkt": "この <b>いちご</b> は とても あまい。",
+      "latn": "kono <b>ichigo</b> ha totemo amai.",
+      "en": "This strawberry is very sweet.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4228282.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00483A.mp3"
+    },
+    {
+      "ja": "この<b>いちご</b>でジャムを作りましょう。",
+      "hrkt": "この <b>いちご</b> で ジャム を つくりましょう。",
+      "latn": "kono <b>ichigo</b> de jamu wo tsukurimashou.",
+      "en": "Let's make jam from these strawberries.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4750212.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03929A.mp3"
+    }
+  ]
+}

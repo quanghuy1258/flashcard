@@ -1,0 +1,26 @@
+{
+  "ja": "五つ",
+  "hrkt": "いつつ",
+  "latn": "itsutsu",
+  "en": "five (things)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00531A.mp3",
+  "sentences": [
+    {
+      "ja": "桃を<b>五つ</b>ください。",
+      "hrkt": "もも を <b>いつつ</b> ください。",
+      "latn": "momo wo <b>itsutsu</b> kudasai.",
+      "en": "I'd like five peaches, please.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1838689.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00531A.mp3"
+    },
+    {
+      "ja": "私の家には部屋が<b>五つ</b>あります。",
+      "hrkt": "わたし の いえ に は へや が <b>いつつ</b> あります。",
+      "latn": "watashi no ie ni ha heya ga <b>itsutsu</b> arimasu.",
+      "en": "There are five rooms in my house.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/24e91m4ecc.mp3"
+    }
+  ]
+}

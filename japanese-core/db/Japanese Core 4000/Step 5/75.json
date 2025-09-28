@@ -1,0 +1,18 @@
+{
+  "ja": "通訳",
+  "hrkt": "つうやく",
+  "latn": "tsuuyaku",
+  "en": "interpreting, interpreter",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01457A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>通訳</b>です。",
+      "hrkt": "わたし は <b>つうやく</b> です。",
+      "latn": "watashi ha <b>tsuuyaku</b> desu.",
+      "en": "I'm an interpreter.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01457A.mp3"
+    }
+  ]
+}

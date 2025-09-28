@@ -1,0 +1,18 @@
+{
+  "ja": "医学",
+  "hrkt": "いがく",
+  "latn": "igaku",
+  "en": "medical science, medicine",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00923A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>医学</b>を学んでいます。",
+      "hrkt": "かれ は <b>いがく</b> を まなんで います。",
+      "latn": "kare ha <b>igaku</b> wo manande imasu.",
+      "en": "He studies medicine.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/95b54s73lc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00923A.mp3"
+    }
+  ]
+}

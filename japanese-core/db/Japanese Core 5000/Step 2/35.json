@@ -1,0 +1,18 @@
+{
+  "ja": "ヘリコプター",
+  "hrkt": "ヘリコプター",
+  "latn": "herikoputa-",
+  "en": "helicopter",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00786A.mp3",
+  "sentences": [
+    {
+      "ja": "事故現場の上空を<b>ヘリコプター</b>が飛んでいます。",
+      "hrkt": "じこ げんば の じょうくう を <b>ヘリコプター</b> が とんで います。",
+      "latn": "jiko genba no joukuu wo <b>herikoputa-</b> ga tonde imasu.",
+      "en": "There's a helicopter flying over the accident site.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00786A.mp3"
+    }
+  ]
+}

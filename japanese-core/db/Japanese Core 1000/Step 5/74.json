@@ -1,0 +1,26 @@
+{
+  "ja": "郵便局",
+  "hrkt": "ゆうびんきょく",
+  "latn": "yuubinkyoku",
+  "en": "post office",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09514A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>郵便局</b>はどこですか。",
+      "hrkt": "<b>ゆうびんきょく</b> は どこ です か。",
+      "latn": "<b>yuubinkyoku</b> ha doko desu ka.",
+      "en": "Where's the post office?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6300399.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09514A.mp3"
+    },
+    {
+      "ja": "<b>郵便局</b>で切手を買いました。",
+      "hrkt": "<b>ゆうびんきょく</b> で きって を かいました。",
+      "latn": "<b>yuubinkyoku</b> de kitte wo kaimashita.",
+      "en": "I bought a stamp at the post office.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5663703.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01429A.mp3"
+    }
+  ]
+}

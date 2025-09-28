@@ -1,0 +1,26 @@
+{
+  "ja": "初めて",
+  "hrkt": "はじめて",
+  "latn": "hajimete",
+  "en": "for the first time",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07301A.mp3",
+  "sentences": [
+    {
+      "ja": "東京に来るのは<b>初めて</b>です。",
+      "hrkt": "とうきょう に くる の は <b>はじめて</b> です。",
+      "latn": "toukyou ni kuru no ha <b>hajimete</b> desu.",
+      "en": "It's my first time visiting Tokyo.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5788385.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07301A.mp3"
+    },
+    {
+      "ja": "彼女は寿司を<b>初めて</b>食べました。",
+      "hrkt": "かのじょ は すし を <b>はじめて</b> たべました。",
+      "latn": "kanojo ha sushi wo <b>hajimete</b> tabemashita.",
+      "en": "She ate sushi for the first time.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2078671.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04561A.mp3"
+    }
+  ]
+}

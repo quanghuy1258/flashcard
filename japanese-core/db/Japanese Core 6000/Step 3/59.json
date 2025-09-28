@@ -1,0 +1,18 @@
+{
+  "ja": "弾む",
+  "hrkt": "はずむ",
+  "latn": "hazumu",
+  "en": "spring back, bounce",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02578A.mp3",
+  "sentences": [
+    {
+      "ja": "このボールはよく<b>弾みます</b>ね。",
+      "hrkt": "この ボール は よく <b>はずみます</b> ね。",
+      "latn": "kono bo-ru ha yoku <b>hazumimasu</b> ne.",
+      "en": "This ball bounces well.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02578A.mp3"
+    }
+  ]
+}

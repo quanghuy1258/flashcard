@@ -1,0 +1,26 @@
+{
+  "ja": "あと",
+  "hrkt": "あと",
+  "latn": "ato",
+  "en": "after",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00187A.mp3",
+  "sentences": [
+    {
+      "ja": "仕事の<b>あと</b>、映画を見た。",
+      "hrkt": "しごと の <b>あと</b>、 えいが を みた。",
+      "latn": "shigoto no <b>ato</b>, eiga wo mita.",
+      "en": "I saw a movie after work.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4302585.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00187A.mp3"
+    },
+    {
+      "ja": "この<b>あと</b>、時間がありますか。",
+      "hrkt": "この <b>あと</b>、じかん が あります か。",
+      "latn": "kono <b>ato</b>,jikan ga arimasu ka.",
+      "en": "Do you have time after this?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/54esf24k7o.mp3"
+    }
+  ]
+}

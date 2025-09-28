@@ -1,0 +1,18 @@
+{
+  "ja": "追い掛ける",
+  "hrkt": "おいかける",
+  "latn": "oikakeru",
+  "en": "chase, run after",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03265A.mp3",
+  "sentences": [
+    {
+      "ja": "パトカーがバイクを<b>追いかけてる</b>ぞ。",
+      "hrkt": "パトカー が バイク を <b>おいかけてる</b> ぞ。",
+      "latn": "patoka- ga baiku wo <b>oikaketeru</b> zo.",
+      "en": "A police car is chasing a motorcycle.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d52cf23stc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03265A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "暗記",
+  "hrkt": "あんき",
+  "latn": "anki",
+  "en": "memorization",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02757A.mp3",
+  "sentences": [
+    {
+      "ja": "試験の前に英文を<b>暗記</b>したんだ。",
+      "hrkt": "しけん の まえ に えいぶん を <b>あんき</b> した ん だ。",
+      "latn": "shiken no mae ni eibun wo <b>anki</b> shita n da.",
+      "en": "I memorized the English text before the exam.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02757A.mp3"
+    }
+  ]
+}

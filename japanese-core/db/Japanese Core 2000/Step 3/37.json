@@ -1,0 +1,26 @@
+{
+  "ja": "ビザ",
+  "hrkt": "ビザ",
+  "latn": "biza",
+  "en": "visa",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07680A.mp3",
+  "sentences": [
+    {
+      "ja": "学生<b>ビザ</b>を持っています。",
+      "hrkt": "がくせい <b>ビザ</b> を もって います。",
+      "latn": "gakusei <b>biza</b> wo motte imasu.",
+      "en": "I have a student visa.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3494095.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07680A.mp3"
+    },
+    {
+      "ja": "その国は<b>ビザ</b>なしで入れますか。",
+      "hrkt": "その くに は <b>ビザ</b> なし で はいれます か。",
+      "latn": "sono kuni ha <b>biza</b> nashi de hairemasu ka.",
+      "en": "Can we enter the country without a visa?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/350iai546k.mp3"
+    }
+  ]
+}

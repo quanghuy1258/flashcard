@@ -1,0 +1,26 @@
+{
+  "ja": "欧米",
+  "hrkt": "おうべい",
+  "latn": "oubei",
+  "en": "Europe and America",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00120A.mp3",
+  "sentences": [
+    {
+      "ja": "その会社は<b>欧米</b>に進出しているよね。",
+      "hrkt": "その かいしゃ は <b>おうべい</b> に しんしゅつ して いる よ ね。",
+      "latn": "sono kaisha ha <b>oubei</b> ni shinshutsu shite iru yo ne.",
+      "en": "The company has expanded into Europe and America.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/413284.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00120A.mp3"
+    },
+    {
+      "ja": "私は大学で<b>欧米</b>文化を勉強しています。",
+      "hrkt": "わたし は だいがく で <b>おうべい</b> ぶんか を べんきょう して います。",
+      "latn": "watashi ha daigaku de <b>oubei</b> bunka wo benkyou shite imasu.",
+      "en": "I study European and American culture at university.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/054kapamrs.mp3"
+    }
+  ]
+}

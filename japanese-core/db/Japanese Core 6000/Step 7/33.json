@@ -1,0 +1,18 @@
+{
+  "ja": "目的地",
+  "hrkt": "もくてきち",
+  "latn": "mokutekichi",
+  "en": "destination",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01849A.mp3",
+  "sentences": [
+    {
+      "ja": "やっと<b>目的地</b>に着いたよ。",
+      "hrkt": "やっと <b>もくてき ち</b> に ついた よ。",
+      "latn": "yatto <b>mokuteki chi</b> ni tsuita yo.",
+      "en": "I've finally arrived at the destination.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01849A.mp3"
+    }
+  ]
+}

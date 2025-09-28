@@ -1,0 +1,18 @@
+{
+  "ja": "月末",
+  "hrkt": "げつまつ",
+  "latn": "getsumatsu",
+  "en": "end of the month",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02321A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>月末</b>までに申込書を送ってください。",
+      "hrkt": "<b>げつまつ</b> まで に もうしこみ しょ を おくって ください。",
+      "latn": "<b>getsumatsu</b> made ni moushikomi sho wo okutte kudasai.",
+      "en": "Please send the application form by the end of the month.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/22c83b1g9s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02321A.mp3"
+    }
+  ]
+}

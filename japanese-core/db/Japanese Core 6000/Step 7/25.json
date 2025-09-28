@@ -1,0 +1,18 @@
+{
+  "ja": "旅費",
+  "hrkt": "りょひ",
+  "latn": "ryohi",
+  "en": "travel expense",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01976A.mp3",
+  "sentences": [
+    {
+      "ja": "父が<b>旅費</b>を出してくれました。",
+      "hrkt": "ちち が <b>りょひ</b> を だして くれました。",
+      "latn": "chichi ga <b>ryohi</b> wo dashite kuremashita.",
+      "en": "My father paid travel expenses for me.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01976A.mp3"
+    }
+  ]
+}

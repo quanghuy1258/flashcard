@@ -1,0 +1,18 @@
+{
+  "ja": "響く",
+  "hrkt": "ひびく",
+  "latn": "hibiku",
+  "en": "reverberate, vibrate",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00331A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の声はよく<b>響きます</b>。",
+      "hrkt": "かれ の こえ は よく <b>ひびきます</b>。",
+      "latn": "kare no koe ha yoku <b>hibikimasu</b>.",
+      "en": "His voice carries well.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00331A.mp3"
+    }
+  ]
+}

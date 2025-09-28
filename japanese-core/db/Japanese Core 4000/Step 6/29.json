@@ -1,0 +1,18 @@
+{
+  "ja": "栄養",
+  "hrkt": "えいよう",
+  "latn": "eiyou",
+  "en": "nutrition, nourishment",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01467A.mp3",
+  "sentences": [
+    {
+      "ja": "豆腐は<b>栄養</b>のある食べ物です。",
+      "hrkt": "とうふ は <b>えいよう</b> の ある たべもの です。",
+      "latn": "toufu ha <b>eiyou</b> no aru tabemono desu.",
+      "en": "Tofu is a nutritious food.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01467A.mp3"
+    }
+  ]
+}

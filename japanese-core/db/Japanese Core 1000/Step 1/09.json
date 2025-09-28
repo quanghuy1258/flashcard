@@ -1,0 +1,26 @@
+{
+  "ja": "する",
+  "hrkt": "する",
+  "latn": "suru",
+  "en": "do, make",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04644A.mp3",
+  "sentences": [
+    {
+      "ja": "友達と一緒に宿題を<b>した</b>。",
+      "hrkt": "ともだち と いっしょ に しゅくだい を <b>した</b>。",
+      "latn": "tomodachi to issho ni shukudai wo <b>shita</b>.",
+      "en": "I did my homework with my friend.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4292526.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04644A.mp3"
+    },
+    {
+      "ja": "男の子たちがサッカーを<b>して</b>いる。",
+      "hrkt": "おとこのこ たち が サッカー を <b>して</b> いる 。",
+      "latn": "otokonoko tachi ga sakka- wo <b>shite</b> iru .",
+      "en": "The boys are playing soccer.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/629842.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01138A.mp3"
+    }
+  ]
+}

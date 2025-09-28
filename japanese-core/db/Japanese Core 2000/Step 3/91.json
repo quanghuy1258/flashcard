@@ -1,0 +1,26 @@
+{
+  "ja": "付く",
+  "hrkt": "つく",
+  "latn": "tsuku",
+  "en": "stick to, cling to",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05850A.mp3",
+  "sentences": [
+    {
+      "ja": "靴に泥が<b>付いて</b>います。",
+      "hrkt": "くつ に どろ が <b>ついて</b> います。",
+      "latn": "kutsu ni doro ga <b>tsuite</b> imasu.",
+      "en": "I have mud on my shoes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1119339.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05850A.mp3"
+    },
+    {
+      "ja": "猫の毛がセーターに<b>付いた</b>。",
+      "hrkt": "ねこ の け が セーター に <b>ついた</b>。",
+      "latn": "neko no ke ga se-ta- ni <b>tsuita</b>.",
+      "en": "I got cat hair on my sweater.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1212869.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02589A.mp3"
+    }
+  ]
+}

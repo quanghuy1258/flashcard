@@ -1,0 +1,26 @@
+{
+  "ja": "緊張",
+  "hrkt": "きんちょう",
+  "latn": "kinchou",
+  "en": "tension, strain",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00455A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>緊張</b>していたな。",
+      "hrkt": "かれ は <b>きんちょう</b> して いた な。",
+      "latn": "kare ha <b>kinchou</b> shite ita na.",
+      "en": "He was nervous.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2226694.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00455A.mp3"
+    },
+    {
+      "ja": "試験で<b>緊張</b>してしまいました。",
+      "hrkt": "しけん で <b>きんちょう</b> して しまいました。",
+      "latn": "shiken de <b>kinchou</b> shite shimaimashita.",
+      "en": "I got tense during the exam.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/929ldp3co4.mp3"
+    }
+  ]
+}

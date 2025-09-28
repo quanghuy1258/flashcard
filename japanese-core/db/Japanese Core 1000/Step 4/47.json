@@ -1,0 +1,26 @@
+{
+  "ja": "月",
+  "hrkt": "つき",
+  "latn": "tsuki",
+  "en": "moon",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05834A.mp3",
+  "sentences": [
+    {
+      "ja": "今夜は<b>月</b>がとてもきれいです。",
+      "hrkt": "こんや は <b>つき</b> が とても きれい です。",
+      "latn": "kon'ya ha <b>tsuki</b> ga totemo kirei desu.",
+      "en": "The moon looks so beautiful tonight.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1153467.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05834A.mp3"
+    },
+    {
+      "ja": "雲の間から<b>月</b>が出た。",
+      "hrkt": "くも の あいだ から <b>つき</b> が でた。",
+      "latn": "kumo no aida kara <b>tsuki</b> ga deta.",
+      "en": "The moon came out from between the clouds.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4517310.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00013A.mp3"
+    }
+  ]
+}

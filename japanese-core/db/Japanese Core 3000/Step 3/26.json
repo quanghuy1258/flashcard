@@ -1,0 +1,18 @@
+{
+  "ja": "言葉遣い",
+  "hrkt": "ことばづかい",
+  "latn": "kotobazukai",
+  "en": "wording, language",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02325A.mp3",
+  "sentences": [
+    {
+      "ja": "先生にそんな<b>言葉遣い</b>をしてはいけません。",
+      "hrkt": "せんせい に そんな <b>ことばづかい</b> を して は いけません。",
+      "latn": "sensei ni sonna <b>kotobazukai</b> wo shite ha ikemasen.",
+      "en": "Do not speak to your teacher like that.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/46e271figo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02325A.mp3"
+    }
+  ]
+}

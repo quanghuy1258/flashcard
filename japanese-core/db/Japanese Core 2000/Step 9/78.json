@@ -1,0 +1,26 @@
+{
+  "ja": "ブラシ",
+  "hrkt": "ブラシ",
+  "latn": "burashi",
+  "en": "brush",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03252A.mp3",
+  "sentences": [
+    {
+      "ja": "犬の毛を<b>ブラシ</b>でとかしてやったの。",
+      "hrkt": "いぬ の け を <b>ブラシ</b> で とかして やった の。",
+      "latn": "inu no ke wo <b>burashi</b> de tokashite yatta no.",
+      "en": "I brushed the dog's hair with a brush.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/3lcb4eatkmm58.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03252A.mp3"
+    },
+    {
+      "ja": "この<b>ブラシ</b>でコートの汚れを落とせます。",
+      "hrkt": "この <b>ブラシ</b> で コート の よごれ を おとせます。",
+      "latn": "kono <b>burashi</b> de ko-to no yogore wo otosemasu.",
+      "en": "You can use this brush to take the dirt off your coat.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b2ct4c634g.mp3"
+    }
+  ]
+}

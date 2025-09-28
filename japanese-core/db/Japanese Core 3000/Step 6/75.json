@@ -1,0 +1,18 @@
+{
+  "ja": "非常口",
+  "hrkt": "ひじょうぐち",
+  "latn": "hijouguchi",
+  "en": "emergency exit",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03166A.mp3",
+  "sentences": [
+    {
+      "ja": "ビルの<b>非常口</b>を確認したの。",
+      "hrkt": "ビル の <b>ひじょうぐち</b> を かくにん した の。",
+      "latn": "biru no <b>hijouguchi</b> wo kakunin shita no.",
+      "en": "I checked the building's emergency exit.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d61b643s90.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03166A.mp3"
+    }
+  ]
+}

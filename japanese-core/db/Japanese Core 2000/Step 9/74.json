@@ -1,0 +1,26 @@
+{
+  "ja": "スケジュール",
+  "hrkt": "スケジュール",
+  "latn": "sukeju-ru",
+  "en": "schedule (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01288A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>スケジュール</b>の調整は君に任せるわ。",
+      "hrkt": "<b>スケジュール</b> の ちょうせい は きみ に まかせる わ。",
+      "latn": "<b>sukeju-ru</b> no chousei ha kimi ni makaseru wa.",
+      "en": "I'll let you coordinate my schedule.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/971562.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01288A.mp3"
+    },
+    {
+      "ja": "今、<b>スケジュール</b>の調整をしています。",
+      "hrkt": "いま、<b>スケジュール</b> の ちょうせい を して います。",
+      "latn": "ima,<b>sukeju-ru</b> no chousei wo shite imasu.",
+      "en": "I'm adjusting the schedule now.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00293A.mp3"
+    }
+  ]
+}

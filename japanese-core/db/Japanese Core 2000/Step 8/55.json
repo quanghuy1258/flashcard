@@ -1,0 +1,26 @@
+{
+  "ja": "ねずみ",
+  "hrkt": "ねずみ",
+  "latn": "nezumi",
+  "en": "rat, mouse",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03803A.mp3",
+  "sentences": [
+    {
+      "ja": "台所に<b>ねずみ</b>が出た。",
+      "hrkt": "だいどころ に <b>ねずみ</b> が でた。",
+      "latn": "daidokoro ni <b>nezumi</b> ga deta.",
+      "en": "A mouse came out in the kitchen.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/2l6iedc0k9ffg.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03803A.mp3"
+    },
+    {
+      "ja": "地下鉄のホームで大きな<b>ねずみ</b>を見ました。",
+      "hrkt": "ちかてつ の ホーム で おおきな <b>ねずみ</b> を みました。",
+      "latn": "chikatetsu no ho-mu de ookina <b>nezumi</b> wo mimashita.",
+      "en": "I saw a big rat at the subway platform.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a5881r4tjc.mp3"
+    }
+  ]
+}

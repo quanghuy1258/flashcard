@@ -1,0 +1,26 @@
+{
+  "ja": "パソコン",
+  "hrkt": "パソコン",
+  "latn": "pasokon",
+  "en": "personal computer",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07322A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>パソコン</b>を2台持っています。",
+      "hrkt": "かれ は <b>パソコン</b> を 2 だい もって います。",
+      "latn": "kare ha <b>pasokon</b> wo 2 dai motte imasu.",
+      "en": "He has two personal computers.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5653541.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07322A.mp3"
+    },
+    {
+      "ja": "この<b>パソコン</b>を使ってください。",
+      "hrkt": "この <b>パソコン</b> を つかって ください。",
+      "latn": "kono <b>pasokon</b> wo tsukatte kudasai.",
+      "en": "Please use this computer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5927558.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05824A.mp3"
+    }
+  ]
+}

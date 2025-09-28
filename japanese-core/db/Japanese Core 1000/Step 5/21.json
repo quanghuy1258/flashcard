@@ -1,0 +1,26 @@
+{
+  "ja": "家",
+  "hrkt": "いえ",
+  "latn": "ie",
+  "en": "house, dwelling",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00354A.mp3",
+  "sentences": [
+    {
+      "ja": "ここが私の<b>家</b>です。",
+      "hrkt": "ここ が わたし の <b>いえ</b> です。",
+      "latn": "koko ga watashi no <b>ie</b> desu.",
+      "en": "This is my house.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6304376.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00354A.mp3"
+    },
+    {
+      "ja": "昨日の夜は<b>家</b>にいました。",
+      "hrkt": "きのう の よる は <b>いえ</b> に いました。",
+      "latn": "kinou no yoru ha <b>ie</b> ni imashita.",
+      "en": "I was at home last night.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6044035.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09743A.mp3"
+    }
+  ]
+}

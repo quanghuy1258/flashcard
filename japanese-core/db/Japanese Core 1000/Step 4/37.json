@@ -1,0 +1,26 @@
+{
+  "ja": "先",
+  "hrkt": "さき",
+  "latn": "saki",
+  "en": "ahead, first",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03371A.mp3",
+  "sentences": [
+    {
+      "ja": "ここから<b>先</b>は入らないでください。",
+      "hrkt": "ここ から <b>さき</b> は はいらないで ください。",
+      "latn": "koko kara <b>saki</b> ha hairanaide kudasai.",
+      "en": "Please do not go beyond this point.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/74bu7q9ebg.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/148u3qbeic.mp3"
+    },
+    {
+      "ja": "この<b>先</b>に何があるか誰も知らない。",
+      "hrkt": "この <b>さき</b> に なに が ある か だれ も しらない。",
+      "latn": "kono <b>saki</b> ni nani ga aru ka dare mo shiranai.",
+      "en": "Nobody knows what is beyond this.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d4053e6iek.mp3"
+    }
+  ]
+}

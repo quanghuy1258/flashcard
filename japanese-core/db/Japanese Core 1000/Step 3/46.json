@@ -1,0 +1,26 @@
+{
+  "ja": "無い",
+  "hrkt": "ない",
+  "latn": "nai",
+  "en": "to not be",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06600A.mp3",
+  "sentences": [
+    {
+      "ja": "ここには何も<b>無い</b>。",
+      "hrkt": "ここ に は なに も <b>ない</b>。",
+      "latn": "koko ni ha nani mo <b>nai</b>.",
+      "en": "There's nothing here.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5326086.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06600A.mp3"
+    },
+    {
+      "ja": "私はお金が<b>無い</b>ので家にいます。",
+      "hrkt": "わたし は おかね が <b>ない</b> ので いえ に います。",
+      "latn": "watashi ha okane ga <b>nai</b> node ie ni imasu.",
+      "en": "I don't have money, so I'll stay home.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/536qa60al8.mp3"
+    }
+  ]
+}

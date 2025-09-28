@@ -1,0 +1,26 @@
+{
+  "ja": "いる",
+  "hrkt": "いる",
+  "latn": "iru",
+  "en": "be present, stay",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00608A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は一日中家に<b>いました</b>。",
+      "hrkt": "きょう は いちにち じゅう うち に <b>いました</b>。",
+      "latn": "kyou ha ichinichi juu uchi ni <b>imashita</b>.",
+      "en": "I was at home all day today.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4991875.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00608A.mp3"
+    },
+    {
+      "ja": "父は家の中に<b>います</b>。",
+      "hrkt": "ちち は いえ の なか に <b>います</b>。",
+      "latn": "chichi ha ie no naka ni <b>imasu</b>.",
+      "en": "My father is inside the house.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5050654.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06625A.mp3"
+    }
+  ]
+}

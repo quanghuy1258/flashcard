@@ -1,0 +1,18 @@
+{
+  "ja": "締め切る",
+  "hrkt": "しめきる",
+  "latn": "shimekiru",
+  "en": "close, fix a deadline",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02067A.mp3",
+  "sentences": [
+    {
+      "ja": "応募受付は<b>締め切りました</b>。",
+      "hrkt": "おうぼ うけつけ は <b>しめきりました</b>。",
+      "latn": "oubo uketsuke ha <b>shimekirimashita</b>.",
+      "en": "The application deadline has been closed.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02067A.mp3"
+    }
+  ]
+}

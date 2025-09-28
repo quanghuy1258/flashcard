@@ -1,0 +1,18 @@
+{
+  "ja": "調子",
+  "hrkt": "ちょうし",
+  "latn": "choushi",
+  "en": "tone, condition",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01100A.mp3",
+  "sentences": [
+    {
+      "ja": "体の<b>調子</b>がとても良いです。",
+      "hrkt": "からだ の <b>ちょうし</b> が とても いい です。",
+      "latn": "karada no <b>choushi</b> ga totemo ii desu.",
+      "en": "I'm in good physical condition.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/8400ah6ji4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01100A.mp3?1220179450"
+    }
+  ]
+}

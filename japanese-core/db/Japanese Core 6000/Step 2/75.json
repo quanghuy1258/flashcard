@@ -1,0 +1,18 @@
+{
+  "ja": "目下",
+  "hrkt": "もっか",
+  "latn": "mokka",
+  "en": "now, at present",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03403A.mp3",
+  "sentences": [
+    {
+      "ja": "息子は<b>目下</b>勉強中です。",
+      "hrkt": "むすこ は <b>もっか</b> べんきょう ちゅう です。",
+      "latn": "musuko ha <b>mokka</b> benkyou chuu desu.",
+      "en": "My son is studying right now.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03403A.mp3"
+    }
+  ]
+}

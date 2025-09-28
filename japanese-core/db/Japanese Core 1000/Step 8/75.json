@@ -1,0 +1,26 @@
+{
+  "ja": "字",
+  "hrkt": "じ",
+  "latn": "ji",
+  "en": "(individual) character, letter",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03571A.mp3",
+  "sentences": [
+    {
+      "ja": "もっと大きく<b>字</b>を書いてください。",
+      "hrkt": "もっと おおきく <b>じ</b> を かいて ください。",
+      "latn": "motto ookiku <b>ji</b> wo kaite kudasai.",
+      "en": "Please write in larger letters.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1904687.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03571A.mp3"
+    },
+    {
+      "ja": "こう小さい<b>字</b>は読めない。",
+      "hrkt": "こう ちいさい <b>じ</b> は よめない。",
+      "latn": "kou chiisai <b>ji</b> ha yomenai.",
+      "en": "I can't read such small letters.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4832858.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02846A.mp3"
+    }
+  ]
+}

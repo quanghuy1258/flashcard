@@ -1,0 +1,18 @@
+{
+  "ja": "深さ",
+  "hrkt": "ふかさ",
+  "latn": "fukasa",
+  "en": "depth, profundity",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07982A.mp3",
+  "sentences": [
+    {
+      "ja": "このプールの<b>深さ</b>は2メートルです。",
+      "hrkt": "この プール の <b>ふかさ</b> は 2 メートル です。",
+      "latn": "kono pu-ru no <b>fukasa</b> ha 2 me-toru desu.",
+      "en": "This pool is two meters deep.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/33dl1p5j10.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07982A.mp3"
+    }
+  ]
+}

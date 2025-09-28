@@ -1,0 +1,18 @@
+{
+  "ja": "名物",
+  "hrkt": "めいぶつ",
+  "latn": "meibutsu",
+  "en": "specialty, famous product",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02499A.mp3",
+  "sentences": [
+    {
+      "ja": "この町の<b>名物</b>はぶどうです。",
+      "hrkt": "この まち の <b>めいぶつ</b> は ぶどう です。",
+      "latn": "kono machi no <b>meibutsu</b> ha budou desu.",
+      "en": "This town is famous for its grapes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02499A.mp3"
+    }
+  ]
+}

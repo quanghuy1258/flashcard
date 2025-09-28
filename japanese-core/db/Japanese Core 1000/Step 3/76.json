@@ -1,0 +1,26 @@
+{
+  "ja": "そば",
+  "hrkt": "そば",
+  "latn": "soba",
+  "en": "side, vicinity",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05088A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>そば</b>にいてください。",
+      "hrkt": "<b>そば</b> に いて ください。",
+      "latn": "<b>soba</b> ni ite kudasai.",
+      "en": "Stay with me.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5710164.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05088A.mp3"
+    },
+    {
+      "ja": "駅の<b>そば</b>にある古いお寿司屋さんはおいしいですよ。",
+      "hrkt": "えき の <b>そば</b> に ある ふるい おすし や さん は おいしい です よ。",
+      "latn": "eki no <b>soba</b> ni aru furui osushi ya san ha oishii desu yo.",
+      "en": "The old sushi restaurant near the station is good.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a56pecf5i8.mp3"
+    }
+  ]
+}

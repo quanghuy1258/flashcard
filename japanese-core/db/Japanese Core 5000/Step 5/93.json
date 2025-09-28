@@ -1,0 +1,18 @@
+{
+  "ja": "植物園",
+  "hrkt": "しょくぶつえん",
+  "latn": "shokubutsuen",
+  "en": "botanical garden",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03294A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>植物園</b>には珍しい花がたくさんありますね。",
+      "hrkt": "<b>しょくぶつえん</b> に は めずらしい はな が たくさん あります ね。",
+      "latn": "<b>shokubutsuen</b> ni ha mezurashii hana ga takusan arimasu ne.",
+      "en": "There are a lot of rare flowers in the botanical garden.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03294A.mp3"
+    }
+  ]
+}

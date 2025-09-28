@@ -1,0 +1,18 @@
+{
+  "ja": "申し訳ない",
+  "hrkt": "もうしわけない",
+  "latn": "moushiwakenai",
+  "en": "sorry, inexcusable",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02542A.mp3",
+  "sentences": [
+    {
+      "ja": "彼には<b>申し訳ない</b>ことをした。",
+      "hrkt": "かれ に は <b>もうしわけない</b> こと を した。",
+      "latn": "kare ni ha <b>moushiwakenai</b> koto wo shita.",
+      "en": "I did something inexcusable to him.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02542A.mp3"
+    }
+  ]
+}

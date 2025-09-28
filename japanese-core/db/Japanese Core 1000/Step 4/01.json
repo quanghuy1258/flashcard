@@ -1,0 +1,26 @@
+{
+  "ja": "お兄さん",
+  "hrkt": "おにいさん",
+  "latn": "oniisan",
+  "en": "older brother",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01163A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの<b>お兄さん</b>は何歳？",
+      "hrkt": "あなた の <b>おにいさん</b> は なん さい？",
+      "latn": "anata no <b>oniisan</b> ha nan sai?",
+      "en": "How old is your big brother?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4410599.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01163A.mp3"
+    },
+    {
+      "ja": "あの子は<b>お兄さん</b>と同じ大学に行っている。",
+      "hrkt": "あの こ は <b>おにいさん</b> と おなじ だいがく に いって いる。",
+      "latn": "ano ko ha <b>oniisan</b> to onaji daigaku ni itte iru.",
+      "en": "That girl goes to the same university as her brother.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/6639bc4uus.mp3"
+    }
+  ]
+}

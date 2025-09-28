@@ -1,0 +1,26 @@
+{
+  "ja": "先週",
+  "hrkt": "せんしゅう",
+  "latn": "senshuu",
+  "en": "last week",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04884A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>先週</b>は海に行った。",
+      "hrkt": "<b>せんしゅう</b> は うみ に いった。",
+      "latn": "<b>senshuu</b> ha umi ni itta.",
+      "en": "I went to the beach last week.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3390760.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04884A.mp3"
+    },
+    {
+      "ja": "私は<b>先週</b>、イギリスから帰ってきました。",
+      "hrkt": "わたし は <b>せんしゅう</b>、イギリス から かえって きました。",
+      "latn": "watashi ha <b>senshuu</b>,igirisu kara kaette kimashita.",
+      "en": "I returned from England last week.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/037vcp8c84.mp3"
+    }
+  ]
+}

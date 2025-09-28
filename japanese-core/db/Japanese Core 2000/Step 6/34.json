@@ -1,0 +1,26 @@
+{
+  "ja": "シャワー",
+  "hrkt": "シャワー",
+  "latn": "shawa-",
+  "en": "shower",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03935A.mp3",
+  "sentences": [
+    {
+      "ja": "朝、急いで<b>シャワー</b>を浴びました。",
+      "hrkt": "あさ、いそいで <b>シャワー</b> を あびました。",
+      "latn": "asa,isoide <b>shawa-</b> wo abimashita.",
+      "en": "I took a very quick shower in the morning.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5158101.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03935A.mp3"
+    },
+    {
+      "ja": "私は朝、<b>シャワー</b>を浴びます。",
+      "hrkt": "わたし は あさ、 <b>シャワー</b> を あびます。",
+      "latn": "watashi ha asa, <b>shawa-</b> wo abimasu.",
+      "en": "I take a shower in the morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4164425.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00209A.mp3"
+    }
+  ]
+}

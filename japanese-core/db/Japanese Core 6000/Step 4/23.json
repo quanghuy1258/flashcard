@@ -1,0 +1,18 @@
+{
+  "ja": "心掛ける",
+  "hrkt": "こころがける",
+  "latn": "kokorogakeru",
+  "en": "bear in mind",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02817A.mp3",
+  "sentences": [
+    {
+      "ja": "安全運転を<b>心掛けて</b>ください。",
+      "hrkt": "あんぜん うんてん を <b>こころがけて</b> ください。",
+      "latn": "anzen unten wo <b>kokorogakete</b> kudasai.",
+      "en": "Please remember to drive safely.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02817A.mp3"
+    }
+  ]
+}

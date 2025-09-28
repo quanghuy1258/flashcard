@@ -1,0 +1,26 @@
+{
+  "ja": "じっと",
+  "hrkt": "じっと",
+  "latn": "jitto",
+  "en": "without moving, still",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00854A.mp3",
+  "sentences": [
+    {
+      "ja": "あの生徒は<b>じっと</b>先生の話を聞いていたね。",
+      "hrkt": "あの せいと は <b>じっと</b> せんせい の はなし を きいて いた ね。",
+      "latn": "ano seito ha <b>jitto</b> sensei no hanashi wo kiite ita ne.",
+      "en": "The pupil was listening attentively to the teacher.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/9lbi4dc0et3do.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00854A.mp3"
+    },
+    {
+      "ja": "猫がドアの方を<b>じっと</b>見ている。",
+      "hrkt": "ねこ が ドア の ほう を <b>じっと</b> みて いる。",
+      "latn": "neko ga doa no hou wo <b>jitto</b> mite iru.",
+      "en": "The cat is staring at the door without moving.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f5as2i63pg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "絵本",
+  "hrkt": "えほん",
+  "latn": "ehon",
+  "en": "picture book",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02085A.mp3",
+  "sentences": [
+    {
+      "ja": "その子は<b>絵本</b>が大好きです。",
+      "hrkt": "その こ は <b>えほん</b> が だいすき です。",
+      "latn": "sono ko ha <b>ehon</b> ga daisuki desu.",
+      "en": "That kid loves picture books.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02085A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "救う",
+  "hrkt": "すくう",
+  "latn": "sukuu",
+  "en": "save, relieve",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01231A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は通りがかりの人に<b>救われた</b>よ。",
+      "hrkt": "かのじょ は とおりがかり の ひと に <b>すくわれた</b> よ。",
+      "latn": "kanojo ha toorigakari no hito ni <b>sukuwareta</b> yo.",
+      "en": "She was saved by a passing stranger.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01231A.mp3"
+    }
+  ]
+}

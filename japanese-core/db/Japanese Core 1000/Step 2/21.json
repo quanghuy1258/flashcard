@@ -1,0 +1,26 @@
+{
+  "ja": "胸",
+  "hrkt": "むね",
+  "latn": "mune",
+  "en": "chest, breast",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09112A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>胸</b>に少し痛みがあります。",
+      "hrkt": "<b>むね</b> に すこし いたみ が あります。",
+      "latn": "<b>mune</b> ni sukoshi itami ga arimasu.",
+      "en": "I have a slight pain in my chest.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3432515.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09112A.mp3"
+    },
+    {
+      "ja": "彼女の髪は<b>胸</b>まである。",
+      "hrkt": "かのじょ の かみ は <b>むね</b> まで ある。",
+      "latn": "kanojo no kami ha <b>mune</b> made aru.",
+      "en": "Her hair goes down to her chest.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/757u6qc7n8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "外国語",
+  "hrkt": "がいこくご",
+  "latn": "gaikokugo",
+  "en": "foreign language",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01350A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>外国語</b>を習うのは難しい。",
+      "hrkt": "<b>がいこく ご</b> を ならう の は むずかしい 。",
+      "latn": "<b>gaikoku go</b> wo narau no ha muzukashii .",
+      "en": "Learning a foreign language is hard.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5302977.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01350A.mp3"
+    },
+    {
+      "ja": "日本では<b>外国語</b>として英語を習います。",
+      "hrkt": "にほん で は <b>がいこく ご</b> として えいご を ならいます。",
+      "latn": "nihon de ha <b>gaikoku go</b> toshite eigo wo naraimasu.",
+      "en": "In Japan, people learn English as a foreign language.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/46bd9a3euo.mp3"
+    }
+  ]
+}

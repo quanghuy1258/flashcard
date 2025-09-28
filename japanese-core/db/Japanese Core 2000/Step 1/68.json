@@ -1,0 +1,26 @@
+{
+  "ja": "留学生",
+  "hrkt": "りゅうがくせい",
+  "latn": "ryuugakusei",
+  "en": "student studying abroad",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09832A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>留学生</b>です。",
+      "hrkt": "かれ は <b>りゅうがくせい</b> です。",
+      "latn": "kare ha <b>ryuugakusei</b> desu.",
+      "en": "He's an international student.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5118734.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09832A.mp3"
+    },
+    {
+      "ja": "私の学校にアメリカから<b>留学生</b>が来ます。",
+      "hrkt": "わたし の がっこう に アメリカ から <b>りゅうがくせい</b> が きます。",
+      "latn": "watashi no gakkou ni amerika kara <b>ryuugakusei</b> ga kimasu.",
+      "en": "A foreign student from America is coming to my school.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a1ch6v3vss.mp3"
+    }
+  ]
+}

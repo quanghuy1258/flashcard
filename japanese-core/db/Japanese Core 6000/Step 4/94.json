@@ -1,0 +1,18 @@
+{
+  "ja": "テープレコーダー",
+  "hrkt": "テープレコーダー",
+  "latn": "te-pureko-da-",
+  "en": "tape recorder",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06028A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>テープレコーダー</b>で自分の声を録音しました。",
+      "hrkt": "<b>テープ レコーダー</b> で じぶん の こえ を ろくおん しました。",
+      "latn": "<b>te-pu reko-da-</b> de jibun no koe wo rokuon shimashita.",
+      "en": "I recorded my voice on a tape recorder.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06028A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "鶏",
+  "hrkt": "にわとり",
+  "latn": "niwatori",
+  "en": "rooster, hen",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06907A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>鶏</b>は毎朝鳴きます。",
+      "hrkt": "その <b>にわとり</b> は まいあさ なきます。",
+      "latn": "sono <b>niwatori</b> ha maiasa nakimasu.",
+      "en": "The rooster crows every morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5280068.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06907A.mp3"
+    },
+    {
+      "ja": "<b>鶏</b>が卵を生みました。",
+      "hrkt": "<b>にわとり</b> が たまご を うみました。",
+      "latn": "<b>niwatori</b> ga tamago wo umimashita.",
+      "en": "The chicken laid eggs.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/12evfh3bhg.mp3"
+    }
+  ]
+}

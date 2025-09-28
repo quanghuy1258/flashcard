@@ -1,0 +1,26 @@
+{
+  "ja": "不思議",
+  "hrkt": "ふしぎ",
+  "latn": "fushigi",
+  "en": "mystery, wonder",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00547A.mp3",
+  "sentences": [
+    {
+      "ja": "それはとても<b>不思議</b>な話だね。",
+      "hrkt": "それ は とても <b>ふしぎ</b>な はなし だ ね。",
+      "latn": "sore ha totemo <b>fushigi</b>na hanashi da ne.",
+      "en": "It's a very mysterious story.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3771888.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00547A.mp3"
+    },
+    {
+      "ja": "ドアが自然に開いたなんて<b>不思議</b>ですね。",
+      "hrkt": "ドア が しぜん に あいた なんて <b>ふしぎ</b> です ね。",
+      "latn": "doa ga shizen ni aita nante <b>fushigi</b> desu ne.",
+      "en": "It's a mystery how the door opened by itself.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e5dm0u5aa8.mp3"
+    }
+  ]
+}

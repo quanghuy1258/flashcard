@@ -1,0 +1,18 @@
+{
+  "ja": "性格",
+  "hrkt": "せいかく",
+  "latn": "seikaku",
+  "en": "character, personality",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00284A.mp3",
+  "sentences": [
+    {
+      "ja": "僕と姉の<b>性格</b>は正反対です。",
+      "hrkt": "ぼく と あね の <b>せいかく</b> は せいはんたい です。",
+      "latn": "boku to ane no <b>seikaku</b> ha seihantai desu.",
+      "en": "My older sister and I have completely opposite personalities.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/622aa28cq0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00284A.mp3"
+    }
+  ]
+}

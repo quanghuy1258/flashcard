@@ -1,0 +1,18 @@
+{
+  "ja": "小麦",
+  "hrkt": "こむぎ",
+  "latn": "komugi",
+  "en": "wheat",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01539A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>小麦</b>はいろいろな食べ物に使われている。",
+      "hrkt": "<b>こむぎ</b> は いろいろな たべもの に つかわれて いる 。",
+      "latn": "<b>komugi</b> ha iroirona tabemono ni tsukawarete iru .",
+      "en": "Wheat is used in many foods.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01539A.mp3"
+    }
+  ]
+}

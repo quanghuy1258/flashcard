@@ -1,0 +1,26 @@
+{
+  "ja": "先輩",
+  "hrkt": "せんぱい",
+  "latn": "senpai",
+  "en": "senior, superior",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00799A.mp3",
+  "sentences": [
+    {
+      "ja": "日本人は<b>先輩</b>、後輩の関係をとても大切に考えます。",
+      "hrkt": "にっぽん じん は <b>せんぱい</b>、こうはい の かんけい を とても たいせつ に かんがえます。",
+      "latn": "nippon jin ha <b>senpai</b>,kouhai no kankei wo totemo taisetsu ni kangaemasu.",
+      "en": "Japanese people value the relationship between seniors and juniors.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/0l4e3lahtdhr4.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00799A.mp3?1220196806"
+    },
+    {
+      "ja": "妻は会社で私の<b>先輩</b>でした。",
+      "hrkt": "つま は かいしゃ で わたし の <b>せんぱい</b> でした。",
+      "latn": "tsuma ha kaisha de watashi no <b>senpai</b> deshita.",
+      "en": "My wife was my senior at work.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a54v5n5g3k.mp3"
+    }
+  ]
+}

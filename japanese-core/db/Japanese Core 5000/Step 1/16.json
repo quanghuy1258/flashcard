@@ -1,0 +1,18 @@
+{
+  "ja": "着ける",
+  "hrkt": "つける",
+  "latn": "tsukeru",
+  "en": "pull up, park (a vehicle)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02196A.mp3",
+  "sentences": [
+    {
+      "ja": "玄関に車を<b>着けます</b>。",
+      "hrkt": "げんかん に くるま を <b>つけます</b>。",
+      "latn": "genkan ni kuruma wo <b>tsukemasu</b>.",
+      "en": "I’ll pull the car up to the entrance door.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02196A.mp3"
+    }
+  ]
+}

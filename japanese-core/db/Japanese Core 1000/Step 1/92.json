@@ -1,0 +1,26 @@
+{
+  "ja": "あなた",
+  "hrkt": "あなた",
+  "latn": "anata",
+  "en": "you",
+  "pos": "Pronoun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00197A.mp3",
+  "sentences": [
+    {
+      "ja": "これは<b>あなた</b>の鞄ですか。",
+      "hrkt": "これ は <b>あなた</b> の かばん です か。",
+      "latn": "kore ha <b>anata</b> no kaban desu ka.",
+      "en": "Is this your bag?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5542044.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00197A.mp3"
+    },
+    {
+      "ja": "<b>あなた</b>の名前を教えてください。",
+      "hrkt": "<b>あなた</b> の なまえ を おしえて ください。",
+      "latn": "<b>anata</b> no namae wo oshiete kudasai.",
+      "en": "Please tell me your name.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4108445.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06723A.mp3"
+    }
+  ]
+}

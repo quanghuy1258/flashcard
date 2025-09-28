@@ -1,0 +1,26 @@
+{
+  "ja": "アイスクリーム",
+  "hrkt": "アイスクリーム",
+  "latn": "aisukuri-mu",
+  "en": "ice cream",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00009A.mp3",
+  "sentences": [
+    {
+      "ja": "弟は<b>アイスクリーム</b>が大好きです。",
+      "hrkt": "おとうと は <b>アイスクリーム</b> が だいすき です。",
+      "latn": "otouto ha <b>aisukuri-mu</b> ga daisuki desu.",
+      "en": "My little brother loves ice cream.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6213621.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00009A.mp3"
+    },
+    {
+      "ja": "暑いので<b>アイスクリーム</b>を食べました。",
+      "hrkt": "あつい ので <b>アイスクリーム</b> を たべました。",
+      "latn": "atsui node <b>aisukuri-mu</b> wo tabemashita.",
+      "en": "Because it was hot, I ate ice cream.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d51q5oaqnc.mp3"
+    }
+  ]
+}

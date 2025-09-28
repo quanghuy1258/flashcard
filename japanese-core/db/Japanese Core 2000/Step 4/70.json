@@ -1,0 +1,26 @@
+{
+  "ja": "商品",
+  "hrkt": "しょうひん",
+  "latn": "shouhin",
+  "en": "goods, commodities",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04227A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>商品</b>はよく売れている。",
+      "hrkt": "この <b>しょうひん</b> は よく うれて いる。",
+      "latn": "kono <b>shouhin</b> ha yoku urete iru.",
+      "en": "This product is selling well.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3622698.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04227A.mp3"
+    },
+    {
+      "ja": "新しい<b>商品</b>が入りました。",
+      "hrkt": "あたらしい <b>しょうひん</b> が はいりました。",
+      "latn": "atarashii <b>shouhin</b> ga hairimashita.",
+      "en": "A new product has come in.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/13cedgcsmg.mp3"
+    }
+  ]
+}

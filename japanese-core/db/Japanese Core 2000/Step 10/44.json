@@ -1,0 +1,26 @@
+{
+  "ja": "変化",
+  "hrkt": "へんか",
+  "latn": "henka",
+  "en": "change, alteration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08345A.mp3",
+  "sentences": [
+    {
+      "ja": "今年は<b>変化</b>の多い年でした。",
+      "hrkt": "ことし は <b>へんか</b> の おおい とし でした。",
+      "latn": "kotoshi ha <b>henka</b> no ooi toshi deshita.",
+      "en": "There was a lot of change this year.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5461904.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08345A.mp3"
+    },
+    {
+      "ja": "今週は気温の<b>変化</b>が激しいです。",
+      "hrkt": "こんしゅう は きおん の <b>へんか</b> が はげしい です。",
+      "latn": "konshuu ha kion no <b>henka</b> ga hageshii desu.",
+      "en": "The temperature this week has been considerably fluctuating.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/441a2c0gc8.mp3"
+    }
+  ]
+}

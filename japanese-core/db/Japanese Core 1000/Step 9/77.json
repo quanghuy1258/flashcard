@@ -1,0 +1,26 @@
+{
+  "ja": "高さ",
+  "hrkt": "たかさ",
+  "latn": "takasa",
+  "en": "height",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05297A.mp3",
+  "sentences": [
+    {
+      "ja": "富士山の<b>高さ</b>は3,776メートルです。",
+      "hrkt": "ふじさん の <b>たかさ</b> は 3776 メートル です。",
+      "latn": "fujisan no <b>takasa</b> ha 3776 me-toru desu.",
+      "en": "The height of Mt. Fuji is 3,776m.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4931177.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05297A.mp3?1216463898"
+    },
+    {
+      "ja": "東京スカイツリーの<b>高さ</b>を知っていますか。",
+      "hrkt": "とうきょう スカイツリー の <b>たかさ</b> を しって います か。",
+      "latn": "toukyou sukaitsuri- no <b>takasa</b> wo shitte imasu ka.",
+      "en": "Do you know the height of the Tokyo Skytree?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/23arcl6d6k.mp3"
+    }
+  ]
+}

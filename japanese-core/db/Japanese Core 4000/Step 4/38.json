@@ -1,0 +1,18 @@
+{
+  "ja": "免許",
+  "hrkt": "めんきょ",
+  "latn": "menkyo",
+  "en": "license, qualification",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01414A.mp3",
+  "sentences": [
+    {
+      "ja": "やっと運転<b>免許</b>を手に入れたよ。",
+      "hrkt": "やっと うんてん <b>めんきょ</b> を て に いれた よ。",
+      "latn": "yatto unten <b>menkyo</b> wo te ni ireta yo.",
+      "en": "I finally got my driver's license.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01414A.mp3"
+    }
+  ]
+}

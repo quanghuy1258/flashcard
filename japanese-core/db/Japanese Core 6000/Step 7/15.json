@@ -1,0 +1,18 @@
+{
+  "ja": "水害",
+  "hrkt": "すいがい",
+  "latn": "suigai",
+  "en": "flood damage",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02194A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>水害</b>でたくさんの人が家を失ったの。",
+      "hrkt": "<b>すいがい</b> で たくさん の ひと が いえ を うしなった の。",
+      "latn": "<b>suigai</b> de takusan no hito ga ie wo ushinatta no.",
+      "en": "A great number of people lost their homes due to flood damage.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02194A.mp3"
+    }
+  ]
+}

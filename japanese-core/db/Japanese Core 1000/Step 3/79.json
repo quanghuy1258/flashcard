@@ -1,0 +1,26 @@
+{
+  "ja": "渇く",
+  "hrkt": "かわく",
+  "latn": "kawaku",
+  "en": "be thirsty",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01855A.mp3",
+  "sentences": [
+    {
+      "ja": "喉が<b>渇きました</b>。",
+      "hrkt": "のど が <b>かわきました</b>。",
+      "latn": "nodo ga <b>kawakimashita</b>.",
+      "en": "I'm thirsty.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3555306.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01855A.mp3"
+    },
+    {
+      "ja": "今日は暑いので、すごく喉が<b>渇きます</b>。",
+      "hrkt": "きょう は あつい ので、すごく のど が <b>かわきます</b>。",
+      "latn": "kyou ha atsui node,sugoku nodo ga <b>kawakimasu</b>.",
+      "en": "It's hot today, so I get very thirsty.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/856mea8jsg.mp3"
+    }
+  ]
+}

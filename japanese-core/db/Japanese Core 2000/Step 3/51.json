@@ -1,0 +1,26 @@
+{
+  "ja": "作文",
+  "hrkt": "さくぶん",
+  "latn": "sakubun",
+  "en": "composition, essay",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03395A.mp3",
+  "sentences": [
+    {
+      "ja": "日本語で<b>作文</b>を書きました。",
+      "hrkt": "にほん ご で <b>さくぶん</b> を かきました。",
+      "latn": "nihon go de <b>sakubun</b> wo kakimashita.",
+      "en": "I wrote an essay in Japanese.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3826373.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03395A.mp3"
+    },
+    {
+      "ja": "先生に<b>作文</b>をたくさん直されました。",
+      "hrkt": "せんせい に <b>さくぶん</b> を たくさん なおされました。",
+      "latn": "sensei ni <b>sakubun</b> wo takusan naosaremashita.",
+      "en": "My teacher corrected my composition a lot.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/637p253fd8.mp3"
+    }
+  ]
+}

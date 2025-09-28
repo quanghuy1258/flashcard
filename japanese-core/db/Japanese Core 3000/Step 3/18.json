@@ -1,0 +1,18 @@
+{
+  "ja": "焦げる",
+  "hrkt": "こげる",
+  "latn": "kogeru",
+  "en": "be burned, be scorched",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03138A.mp3",
+  "sentences": [
+    {
+      "ja": "シチューが<b>焦げた</b>よ。",
+      "hrkt": "シチュー が <b>こげた</b> よ。",
+      "latn": "shichu- ga <b>kogeta</b> yo.",
+      "en": "The stew burnt.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d574bpah40.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03138A.mp3"
+    }
+  ]
+}

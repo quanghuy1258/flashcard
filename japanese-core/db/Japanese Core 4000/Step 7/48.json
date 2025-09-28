@@ -1,0 +1,18 @@
+{
+  "ja": "用途",
+  "hrkt": "ようと",
+  "latn": "youto",
+  "en": "purpose of use, usage",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00647A.mp3",
+  "sentences": [
+    {
+      "ja": "この道具の<b>用途</b>を説明します。",
+      "hrkt": "この どうぐ の <b>ようと</b> を せつめい します。",
+      "latn": "kono dougu no <b>youto</b> wo setsumei shimasu.",
+      "en": "I'll explain the usage of this tool.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00647A.mp3"
+    }
+  ]
+}

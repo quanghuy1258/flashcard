@@ -1,0 +1,26 @@
+{
+  "ja": "お祝い",
+  "hrkt": "おいわい",
+  "latn": "oiwai",
+  "en": "celebration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00935A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の就職の<b>お祝い</b>をしよう。",
+      "hrkt": "かれ の しゅうしょく の <b>おいわい</b> を しよう。",
+      "latn": "kare no shuushoku no <b>oiwai</b> wo shiyou.",
+      "en": "Let's celebrate his new employment.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1806216.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00935A.mp3"
+    },
+    {
+      "ja": "家族みんなで弟の卒業を<b>お祝い</b>しました。",
+      "hrkt": "かぞく みんな で おとうと の そつぎょう を <b>おいわい</b> しました。",
+      "latn": "kazoku minna de otouto no sotsugyou wo <b>oiwai</b> shimashita.",
+      "en": "My family celebrated my younger brother's graduation.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a33p3l18c0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "縦書き",
+  "hrkt": "たてがき",
+  "latn": "tategaki",
+  "en": "vertical writing",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03362A.mp3",
+  "sentences": [
+    {
+      "ja": "作文は<b>縦書き</b>で書いてください。",
+      "hrkt": "さくぶん は <b>たてがき</b> で かいて ください。",
+      "latn": "sakubun ha <b>tategaki</b> de kaite kudasai.",
+      "en": "Please write your composition vertically.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03362A.mp3"
+    }
+  ]
+}

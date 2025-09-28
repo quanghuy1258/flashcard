@@ -1,0 +1,18 @@
+{
+  "ja": "ため息",
+  "hrkt": "ためいき",
+  "latn": "tameiki",
+  "en": "sigh",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01772A.mp3",
+  "sentences": [
+    {
+      "ja": "母は<b>ため息</b>をついたの。",
+      "hrkt": "はは は <b>ためいき</b> を ついた の。",
+      "latn": "haha ha <b>tameiki</b> wo tsuita no.",
+      "en": "My mother sighed.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01772A.mp3"
+    }
+  ]
+}

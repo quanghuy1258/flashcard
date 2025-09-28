@@ -1,0 +1,26 @@
+{
+  "ja": "入り口",
+  "hrkt": "いりぐち",
+  "latn": "iriguchi",
+  "en": "entrance",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00605A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>入り口</b>は向こうです。",
+      "hrkt": "<b>いりぐち</b> は むこう です。",
+      "latn": "<b>iriguchi</b> ha mukou desu.",
+      "en": "The entrance is over there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3901786.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00605A.mp3?1219919452"
+    },
+    {
+      "ja": "デパートの<b>入り口</b>に人がたくさん並んでいます。",
+      "hrkt": "デパート の <b>いりぐち</b> に ひと が たくさん ならんで います。",
+      "latn": "depa-to no <b>iriguchi</b> ni hito ga takusan narande imasu.",
+      "en": "A lot of people are lining up at the entrance of the department store.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/75emar6f3g.mp3"
+    }
+  ]
+}

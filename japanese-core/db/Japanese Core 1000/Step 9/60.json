@@ -1,0 +1,26 @@
+{
+  "ja": "タクシー",
+  "hrkt": "タクシー",
+  "latn": "takushi-",
+  "en": "taxi",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05312A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>タクシー</b>を呼んでください。",
+      "hrkt": "<b>タクシー</b> を よんで ください。",
+      "latn": "<b>takushi-</b> wo yonde kudasai.",
+      "en": "Please call a taxi.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5704470.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05312A.mp3"
+    },
+    {
+      "ja": "駅からは<b>タクシー</b>に乗ってください。",
+      "hrkt": "えき から は <b>タクシー</b> に のって ください。",
+      "latn": "eki kara ha <b>takushi-</b> ni notte kudasai.",
+      "en": "Please take a taxi from the station.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/d43u9b512g.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07132A.mp3"
+    }
+  ]
+}

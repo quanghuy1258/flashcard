@@ -1,0 +1,18 @@
+{
+  "ja": "嘆く",
+  "hrkt": "なげく",
+  "latn": "nageku",
+  "en": "grieve, mourn",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01413A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>嘆いて</b>いても何も変わりません。",
+      "hrkt": "<b>なげいて</b> いて も なに も かわりません。",
+      "latn": "<b>nageite</b> ite mo nani mo kawarimasen.",
+      "en": "Grieving won't change anything.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01413A.mp3"
+    }
+  ]
+}

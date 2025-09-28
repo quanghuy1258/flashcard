@@ -1,0 +1,26 @@
+{
+  "ja": "二十歳",
+  "hrkt": "はたち",
+  "latn": "hatachi",
+  "en": "20 years old",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07336A.mp3",
+  "sentences": [
+    {
+      "ja": "妹は来年、<b>二十歳</b>になります。",
+      "hrkt": "いもうと は らいねん、<b>はたち</b> に なります。",
+      "latn": "imouto ha rainen,<b>hatachi</b> ni narimasu.",
+      "en": "My little sister will be 20 next year.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5271352.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07336A.mp3"
+    },
+    {
+      "ja": "日本では<b>二十歳</b>からお酒を飲めます。",
+      "hrkt": "にほん で は <b>はたち</b> から おさけ を のめます。",
+      "latn": "nihon de ha <b>hatachi</b> kara osake wo nomemasu.",
+      "en": "In Japan, people can drink alcohol after the age of twenty.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d5cl5ue68o.mp3"
+    }
+  ]
+}

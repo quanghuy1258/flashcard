@@ -1,0 +1,26 @@
+{
+  "ja": "アイス",
+  "hrkt": "アイス",
+  "latn": "aisu",
+  "en": "ice cream (for short)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00007A.mp3",
+  "sentences": [
+    {
+      "ja": "暑いので<b>アイス</b>を食べました。",
+      "hrkt": "あつい ので <b>アイス</b> を たべました。",
+      "latn": "atsui node <b>aisu</b> wo tabemashita.",
+      "en": "I ate ice cream because it was hot.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6040560.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00007A.mp3"
+    },
+    {
+      "ja": "私はチョコレート<b>アイス</b>を頼みました。",
+      "hrkt": "わたし は チョコレート <b>アイス</b> を たのみました。",
+      "latn": "watashi ha chokore-to <b>aisu</b> wo tanomimashita.",
+      "en": "I ordered chocolate ice cream.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/53cg0geqes.mp3"
+    }
+  ]
+}

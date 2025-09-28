@@ -1,0 +1,26 @@
+{
+  "ja": "たまに",
+  "hrkt": "たまに",
+  "latn": "tamani",
+  "en": "occasionally, sometimes",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02277A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>たまに</b>料理をします。",
+      "hrkt": "かれ は <b>たまに</b> りょうり を します。",
+      "latn": "kare ha <b>tamani</b> ryouri wo shimasu.",
+      "en": "He cooks on some occasions.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/8l8b2e8ti1kag.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02277A.mp3"
+    },
+    {
+      "ja": "私は<b>たまに</b>映画を見ます。",
+      "hrkt": "わたし は <b>たまに</b> えいが を みます。",
+      "latn": "watashi ha <b>tamani</b> eiga wo mimasu.",
+      "en": "I sometimes watch movies.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/95281c4758.mp3"
+    }
+  ]
+}

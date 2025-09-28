@@ -1,0 +1,18 @@
+{
+  "ja": "天候",
+  "hrkt": "てんこう",
+  "latn": "tenkou",
+  "en": "weather",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01551A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>天候</b>の変化が激しいですね。",
+      "hrkt": "ここ は <b>てんこう</b> の へんか が はげしい です ね。",
+      "latn": "koko ha <b>tenkou</b> no henka ga hageshii desu ne.",
+      "en": "The weather here changes a lot.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01551A.mp3"
+    }
+  ]
+}

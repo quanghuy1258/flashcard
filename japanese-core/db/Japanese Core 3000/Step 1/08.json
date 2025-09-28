@@ -1,0 +1,26 @@
+{
+  "ja": "湖",
+  "hrkt": "みずうみ",
+  "latn": "mizuumi",
+  "en": "lake",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03901A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>湖</b>にボートが浮かんでいます。",
+      "hrkt": "<b>みずうみ</b> に ボート が うかんで います。",
+      "latn": "<b>mizuumi</b> ni bo-to ga ukande imasu.",
+      "en": "A boat is floating in the lake.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e3dk645jv4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03901A.mp3"
+    },
+    {
+      "ja": "<b>湖</b>でスケートをした。",
+      "hrkt": "<b>みずうみ</b> で スケート を した。",
+      "latn": "<b>mizuumi</b> de suke-to wo shita.",
+      "en": "We went skating on the lake.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2551267.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04552A.mp3"
+    }
+  ]
+}

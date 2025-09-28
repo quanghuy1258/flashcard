@@ -1,0 +1,18 @@
+{
+  "ja": "実例",
+  "hrkt": "じつれい",
+  "latn": "jitsurei",
+  "en": "example, instance",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02119A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>実例</b>を使って説明してください。",
+      "hrkt": "<b>じつれい</b> を つかって せつめい して ください。",
+      "latn": "<b>jitsurei</b> wo tsukatte setsumei shite kudasai.",
+      "en": "Please explain by using examples.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02119A.mp3"
+    }
+  ]
+}

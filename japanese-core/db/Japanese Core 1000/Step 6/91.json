@@ -1,0 +1,26 @@
+{
+  "ja": "雲",
+  "hrkt": "くも",
+  "latn": "kumo",
+  "en": "cloud",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02512A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>雲</b>が多い。",
+      "hrkt": "きょう は <b>くも</b> が おおい。",
+      "latn": "kyou ha <b>kumo</b> ga ooi.",
+      "en": "It's cloudy today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4506105.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02512A.mp3"
+    },
+    {
+      "ja": "あの<b>雲</b>は鳥みたいだ。",
+      "hrkt": "あの <b>くも</b> は とり みたい だ。",
+      "latn": "ano <b>kumo</b> ha tori mitai da.",
+      "en": "That cloud looks like a bird.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c5f81d92uk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "およそ",
+  "hrkt": "およそ",
+  "latn": "oyoso",
+  "en": "approximately, about",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01935A.mp3",
+  "sentences": [
+    {
+      "ja": "家から駅まで<b>およそ</b>1キロあります。",
+      "hrkt": "いえ から えき まで <b>およそ</b> 1 キロ あります。",
+      "latn": "ie kara eki made <b>oyoso</b> 1 kiro arimasu.",
+      "en": "It's about one kilometer from my home to the station.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01935A.mp3"
+    }
+  ]
+}

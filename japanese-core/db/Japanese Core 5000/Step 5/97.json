@@ -1,0 +1,18 @@
+{
+  "ja": "根拠",
+  "hrkt": "こんきょ",
+  "latn": "konkyo",
+  "en": "grounds, basis",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01030A.mp3",
+  "sentences": [
+    {
+      "ja": "何を<b>根拠</b>にそんなことを言うのですか。",
+      "hrkt": "なに を <b>こんきょ</b> に そんな こと を いう の です か。",
+      "latn": "nani wo <b>konkyo</b> ni sonna koto wo iu no desu ka.",
+      "en": "On what grounds do you say such a thing?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01030A.mp3"
+    }
+  ]
+}

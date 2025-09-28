@@ -1,0 +1,18 @@
+{
+  "ja": "混雑",
+  "hrkt": "こんざつ",
+  "latn": "konzatsu",
+  "en": "congestion, to be crowded",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01531A.mp3",
+  "sentences": [
+    {
+      "ja": "今日はデパートが<b>混雑</b>していたよ。",
+      "hrkt": "きょう は デパート が <b>こんざつ</b> して いた よ。",
+      "latn": "kyou ha depa-to ga <b>konzatsu</b> shite ita yo.",
+      "en": "The department store was crowded today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01531A.mp3"
+    }
+  ]
+}

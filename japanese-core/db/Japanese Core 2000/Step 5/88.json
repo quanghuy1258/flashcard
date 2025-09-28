@@ -1,0 +1,26 @@
+{
+  "ja": "とにかく",
+  "hrkt": "とにかく",
+  "latn": "tonikaku",
+  "en": "in any case, anyway",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00979A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>とにかく</b>現場へ行ってみましょう。",
+      "hrkt": "<b>とにかく</b> げんば へ いって みましょう。",
+      "latn": "<b>tonikaku</b> genba he itte mimashou.",
+      "en": "Anyway, let's go to the site.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2668029.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00979A.mp3"
+    },
+    {
+      "ja": "<b>とにかく</b>、私の話を最後まで聞いてください。",
+      "hrkt": "<b>とにかく</b>、わたし の はなし を さいご まで きいて ください。",
+      "latn": "<b>tonikaku</b>,watashi no hanashi wo saigo made kiite kudasai.",
+      "en": "Anyways, please listen to me to the end.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b54j5g1ds0.mp3"
+    }
+  ]
+}

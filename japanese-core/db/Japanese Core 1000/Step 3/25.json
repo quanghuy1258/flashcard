@@ -1,0 +1,26 @@
+{
+  "ja": "始まる",
+  "hrkt": "はじまる",
+  "latn": "hajimaru",
+  "en": "begin",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07298A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい仕事が<b>始まりました</b>。",
+      "hrkt": "あたらしい しごと が <b>はじまりました</b>。",
+      "latn": "atarashii shigoto ga <b>hajimarimashita</b>.",
+      "en": "My new job started.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4377365.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07298A.mp3"
+    },
+    {
+      "ja": "新しい年が<b>始まりました</b>。",
+      "hrkt": "あたらしい とし が <b>はじまりました</b>。",
+      "latn": "atarashii toshi ga <b>hajimarimashita</b>.",
+      "en": "A new year has started.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4796732.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06421A.mp3"
+    }
+  ]
+}

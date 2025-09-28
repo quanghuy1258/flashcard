@@ -1,0 +1,18 @@
+{
+  "ja": "基地",
+  "hrkt": "きち",
+  "latn": "kichi",
+  "en": "base, military base",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00184A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは昔、軍事<b>基地</b>でした。",
+      "hrkt": "ここ は むかし、ぐんじ <b>きち</b> でした。",
+      "latn": "koko ha mukashi,gunji <b>kichi</b> deshita.",
+      "en": "There used to be a military base here.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/55053sbaug.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00184A.mp3"
+    }
+  ]
+}

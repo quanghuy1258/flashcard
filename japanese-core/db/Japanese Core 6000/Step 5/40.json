@@ -1,0 +1,18 @@
+{
+  "ja": "初期",
+  "hrkt": "しょき",
+  "latn": "shoki",
+  "en": "initial period",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00413A.mp3",
+  "sentences": [
+    {
+      "ja": "鼻水は風邪の<b>初期</b>症状のひとつです。",
+      "hrkt": "はなみず は かぜ の <b>しょき</b> しょうじょう の ひとつ です。",
+      "latn": "hanamizu ha kaze no <b>shoki</b> shoujou no hitotsu desu.",
+      "en": "A runny nose is one of the initial symptoms of a cold.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00413A.mp3"
+    }
+  ]
+}

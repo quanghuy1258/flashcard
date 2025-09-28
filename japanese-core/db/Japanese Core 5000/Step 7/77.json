@@ -1,0 +1,18 @@
+{
+  "ja": "連休",
+  "hrkt": "れんきゅう",
+  "latn": "renkyuu",
+  "en": "consecutive holidays",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01953A.mp3",
+  "sentences": [
+    {
+      "ja": "今度の<b>連休</b>は実家に帰ります。",
+      "hrkt": "こんど の <b>れんきゅう</b> は じっか に かえります。",
+      "latn": "kondo no <b>renkyuu</b> ha jikka ni kaerimasu.",
+      "en": "I'll go back to my parents' house for the next consecutive holidays.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01953A.mp3"
+    }
+  ]
+}

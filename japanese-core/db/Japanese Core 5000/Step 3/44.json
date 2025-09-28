@@ -1,0 +1,18 @@
+{
+  "ja": "彫る",
+  "hrkt": "ほる",
+  "latn": "horu",
+  "en": "engrave, carve",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03878A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は木の像を<b>彫った</b>の。",
+      "hrkt": "かれ は き の ぞう を <b>ほった</b> の。",
+      "latn": "kare ha ki no zou wo <b>hotta</b> no.",
+      "en": "He carved a wooden statue.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03878A.mp3"
+    }
+  ]
+}

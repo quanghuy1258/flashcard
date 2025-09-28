@@ -1,0 +1,18 @@
+{
+  "ja": "列島",
+  "hrkt": "れっとう",
+  "latn": "rettou",
+  "en": "archipelago",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02292A.mp3",
+  "sentences": [
+    {
+      "ja": "日本は<b>列島</b>です。",
+      "hrkt": "にっぽん は <b>れっとう</b> です。",
+      "latn": "nippon ha <b>rettou</b> desu.",
+      "en": "Japan is an archipelago.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02292A.mp3"
+    }
+  ]
+}

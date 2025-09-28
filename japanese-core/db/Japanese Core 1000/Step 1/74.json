@@ -1,0 +1,26 @@
+{
+  "ja": "そこ",
+  "hrkt": "そこ",
+  "latn": "soko",
+  "en": "there",
+  "pos": "Pronoun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05045A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>そこ</b>に座ってください。",
+      "hrkt": "<b>そこ</b> に すわって ください。",
+      "latn": "<b>soko</b> ni suwatte kudasai.",
+      "en": "Please sit there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1549229.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05045A.mp3"
+    },
+    {
+      "ja": "<b>そこ</b>を左に曲がってください。",
+      "hrkt": "<b>そこ</b> を ひだり に まがって ください。",
+      "latn": "<b>soko</b> wo hidari ni magatte kudasai.",
+      "en": "Please turn left there.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/656252.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07712A.mp3"
+    }
+  ]
+}

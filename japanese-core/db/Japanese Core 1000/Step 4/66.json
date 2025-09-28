@@ -1,0 +1,26 @@
+{
+  "ja": "万",
+  "hrkt": "まん",
+  "latn": "man",
+  "en": "ten thousand",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08819A.mp3",
+  "sentences": [
+    {
+      "ja": "この靴は1<b>万</b>円です。",
+      "hrkt": "この くつ は 1 <b>まん</b> えん です。",
+      "latn": "kono kutsu ha 1 <b>man</b> en desu.",
+      "en": "These shoes are ten thousand yen.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5267772.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08819A.mp3"
+    },
+    {
+      "ja": "値段はちょうど3<b>万</b>円です。",
+      "hrkt": "ねだん は ちょうど 3 <b>まん</b> えん です。",
+      "latn": "nedan ha choudo 3 <b>man</b> en desu.",
+      "en": "The price is exactly 30,000 yen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5458575.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05722A.mp3"
+    }
+  ]
+}

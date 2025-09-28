@@ -1,0 +1,18 @@
+{
+  "ja": "墓地",
+  "hrkt": "ぼち",
+  "latn": "bochi",
+  "en": "graveyard, cemetery",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01443A.mp3",
+  "sentences": [
+    {
+      "ja": "寺のとなりに<b>墓地</b>があります。",
+      "hrkt": "てら の となり に <b>ぼち</b> が あります。",
+      "latn": "tera no tonari ni <b>bochi</b> ga arimasu.",
+      "en": "There's a graveyard next to the temple.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01443A.mp3"
+    }
+  ]
+}

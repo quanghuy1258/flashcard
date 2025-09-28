@@ -1,0 +1,26 @@
+{
+  "ja": "左側",
+  "hrkt": "ひだりがわ",
+  "latn": "hidarigawa",
+  "en": "left side",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07714A.mp3",
+  "sentences": [
+    {
+      "ja": "画面の<b>左側</b>を見てください。",
+      "hrkt": "がめん の <b>ひだりがわ</b> を みて ください。",
+      "latn": "gamen no <b>hidarigawa</b> wo mite kudasai.",
+      "en": "Please look at the left side of the screen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5548960.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07714A.mp3"
+    },
+    {
+      "ja": "日本では車は道の<b>左側</b>を走ります。",
+      "hrkt": "にほん で は くるま は みち の <b>ひだりがわ</b> を はしります。",
+      "latn": "nihon de ha kuruma ha michi no <b>hidarigawa</b> wo hashirimasu.",
+      "en": "In Japan cars run on the left side of the road.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/95ff0pamgk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "小さい",
+  "hrkt": "ちいさい",
+  "latn": "chiisai",
+  "en": "small",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05553A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>小さい</b>花が咲いています。",
+      "hrkt": "<b>ちいさい</b> はな が さいて います。",
+      "latn": "<b>chiisai</b> hana ga saite imasu.",
+      "en": "Small flowers are blooming.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5507048.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05553A.mp3"
+    },
+    {
+      "ja": "こう<b>小さい</b>字は読めない。",
+      "hrkt": "こう <b>ちいさい</b> じ は よめない。",
+      "latn": "kou <b>chiisai</b> ji ha yomenai.",
+      "en": "I can't read such small letters.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4832858.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02846A.mp3"
+    }
+  ]
+}

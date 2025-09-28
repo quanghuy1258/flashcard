@@ -1,0 +1,18 @@
+{
+  "ja": "汽車",
+  "hrkt": "きしゃ",
+  "latn": "kisha",
+  "en": "steam train",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01957A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>汽車</b>で街まで行った。",
+      "hrkt": "<b>きしゃ</b> で まち まで いった。",
+      "latn": "<b>kisha</b> de machi made itta.",
+      "en": "I went to town by steam train.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01957A.mp3"
+    }
+  ]
+}

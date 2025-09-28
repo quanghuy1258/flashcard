@@ -1,0 +1,18 @@
+{
+  "ja": "震度",
+  "hrkt": "しんど",
+  "latn": "shindo",
+  "en": "seismic intensity",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02646A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝の地震は<b>震度</b>3でしたよ。",
+      "hrkt": "けさ の じしん は <b>しんど</b> 3 でした よ。",
+      "latn": "kesa no jishin ha <b>shindo</b> 3 deshita yo.",
+      "en": "The earthquake this morning measured 3 on the seismic intensity scale.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02646A.mp3"
+    }
+  ]
+}

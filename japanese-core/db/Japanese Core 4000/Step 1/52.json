@@ -1,0 +1,18 @@
+{
+  "ja": "多少",
+  "hrkt": "たしょう",
+  "latn": "tashou",
+  "en": "somewhat, to some extent",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01099A.mp3",
+  "sentences": [
+    {
+      "ja": "このソフトには<b>多少</b>問題がある。",
+      "hrkt": "この ソフト に は <b>たしょう</b> もんだい が ある。",
+      "latn": "kono sofuto ni ha <b>tashou</b> mondai ga aru.",
+      "en": "This software has some problems.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e2au12fhfc.png",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01099A.mp3"
+    }
+  ]
+}

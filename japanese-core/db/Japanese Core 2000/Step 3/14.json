@@ -1,0 +1,26 @@
+{
+  "ja": "畳",
+  "hrkt": "たたみ",
+  "latn": "tatami",
+  "en": "straw mat",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05359A.mp3",
+  "sentences": [
+    {
+      "ja": "そのホテルには<b>畳</b>の部屋がある。",
+      "hrkt": "その ホテル に は <b>たたみ</b> の へや が ある。",
+      "latn": "sono hoteru ni ha <b>tatami</b> no heya ga aru.",
+      "en": "That hotel has tatami rooms.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6350319.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05359A.mp3"
+    },
+    {
+      "ja": "新しい<b>畳</b>はいい匂いがします。",
+      "hrkt": "あたらしい <b>たたみ</b> は いい におい が します。",
+      "latn": "atarashii <b>tatami</b> ha ii nioi ga shimasu.",
+      "en": "The new tatami mats smell good.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c35u9b4pb4.mp3"
+    }
+  ]
+}

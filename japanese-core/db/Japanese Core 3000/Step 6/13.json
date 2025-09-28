@@ -1,0 +1,18 @@
+{
+  "ja": "送別会",
+  "hrkt": "そうべつかい",
+  "latn": "soubetsukai",
+  "en": "farewell party",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03087A.mp3",
+  "sentences": [
+    {
+      "ja": "来週、課長の<b>送別会</b>を開きます。",
+      "hrkt": "らいしゅう、かちょう の <b>そうべつ かい</b> を ひらきます。",
+      "latn": "raishuu,kachou no <b>soubetsu kai</b> wo hirakimasu.",
+      "en": "The section chief's farewell party will be held next week.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/733m4gd9qg.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03087A.mp3"
+    }
+  ]
+}

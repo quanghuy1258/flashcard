@@ -1,0 +1,26 @@
+{
+  "ja": "晴れる",
+  "hrkt": "はれる",
+  "latn": "hareru",
+  "en": "be sunny, clear up",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07508A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は<b>晴れる</b>といいですね。",
+      "hrkt": "あした は <b>はれる</b> と いい です ね。",
+      "latn": "ashita ha <b>hareru</b> to ii desu ne.",
+      "en": "I hope it'll be sunny tomorrow.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3781332.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07508A.mp3"
+    },
+    {
+      "ja": "今日はよく<b>晴れました</b>ね。",
+      "hrkt": "きょう は よく <b>はれました</b> ね。",
+      "latn": "kyou ha yoku <b>haremashita</b> ne.",
+      "en": "It's been very sunny today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e54oe21vsk.mp3"
+    }
+  ]
+}

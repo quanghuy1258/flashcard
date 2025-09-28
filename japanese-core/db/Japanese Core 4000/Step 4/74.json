@@ -1,0 +1,18 @@
+{
+  "ja": "当てる",
+  "hrkt": "あてる",
+  "latn": "ateru",
+  "en": "guess, hit the jackpot",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01143A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はくじ引きで一等賞を<b>当てた</b>よ。",
+      "hrkt": "かれ は くじびき で いっとう しょう を <b>あてた</b> よ。",
+      "latn": "kare ha kujibiki de ittou shou wo <b>ateta</b> yo.",
+      "en": "He won the first prize in the lottery.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01143A.mp3"
+    }
+  ]
+}

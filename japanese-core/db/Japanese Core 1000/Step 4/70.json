@@ -1,0 +1,26 @@
+{
+  "ja": "目",
+  "hrkt": "め",
+  "latn": "me",
+  "en": "eye",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09133A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は青い<b>目</b>をしています。",
+      "hrkt": "かのじょ は あおい <b>め</b> を して います。",
+      "latn": "kanojo ha aoi <b>me</b> wo shite imasu.",
+      "en": "She has blue eyes.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4059327.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09133A.mp3"
+    },
+    {
+      "ja": "<b>目</b>をつぶってください。",
+      "hrkt": "<b>め</b> を つぶって ください。",
+      "latn": "<b>me</b> wo tsubutte kudasai.",
+      "en": "Close your eyes.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/dl6b9eetednfc.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03751A.mp3"
+    }
+  ]
+}

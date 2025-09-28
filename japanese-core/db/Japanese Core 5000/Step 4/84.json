@@ -1,0 +1,18 @@
+{
+  "ja": "花瓶",
+  "hrkt": "かびん",
+  "latn": "kabin",
+  "en": "flower vase",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02964A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>花瓶</b>にお花を生けました。",
+      "hrkt": "<b>かびん</b> に おはな を いけました。",
+      "latn": "<b>kabin</b> ni ohana wo ikemashita.",
+      "en": "I arranged the flowers in the vase.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02964A.mp3"
+    }
+  ]
+}

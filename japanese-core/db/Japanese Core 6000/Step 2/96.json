@@ -1,0 +1,18 @@
+{
+  "ja": "ビデオテープ",
+  "hrkt": "ビデオテープ",
+  "latn": "bideote-pu",
+  "en": "videotape",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07753A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>ビデオテープ</b>を30本持っています。",
+      "hrkt": "わたし は <b>ビデオテープ</b> を 30 ぽん もって います。",
+      "latn": "watashi ha <b>bideote-pu</b> wo 30 pon motte imasu.",
+      "en": "I have 30 videotapes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07753A.mp3"
+    }
+  ]
+}

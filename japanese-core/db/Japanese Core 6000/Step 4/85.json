@@ -1,0 +1,18 @@
+{
+  "ja": "唾",
+  "hrkt": "つば",
+  "latn": "tsuba",
+  "en": "spit, saliva",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03747A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は地面に<b>唾</b>を吐いたよ。",
+      "hrkt": "かれ は じめん に <b>つば</b> を はいた よ。",
+      "latn": "kare ha jimen ni <b>tsuba</b> wo haita yo.",
+      "en": "He spat on the ground.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03747A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "奪う",
+  "hrkt": "うばう",
+  "latn": "ubau",
+  "en": "rob, take by force",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00641A.mp3",
+  "sentences": [
+    {
+      "ja": "その男は彼女のバッグを<b>奪った</b>ぞ。",
+      "hrkt": "その おとこ は かのじょ の バッグ を <b>うばった</b> ぞ。",
+      "latn": "sono otoko ha kanojo no baggu wo <b>ubatta</b> zo.",
+      "en": "The man stole her bag.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00641A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "保育園",
+  "hrkt": "ほいくえん",
+  "latn": "hoikuen",
+  "en": "day-care center, nursery school",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02537A.mp3",
+  "sentences": [
+    {
+      "ja": "娘を<b>保育園</b>に迎えに行きます。",
+      "hrkt": "むすめ を <b>ほいくえん</b> に むかえ に いきます。",
+      "latn": "musume wo <b>hoikuen</b> ni mukae ni ikimasu.",
+      "en": "I'm going to pick up my daughter at the day-care center.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d5cjdb187c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02537A.mp3?1220197117"
+    }
+  ]
+}

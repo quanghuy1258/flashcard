@@ -1,0 +1,18 @@
+{
+  "ja": "眠り",
+  "hrkt": "ねむり",
+  "latn": "nemuri",
+  "en": "sleep, doze",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03805A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はいつもより早く<b>眠り</b>に着いたよ。",
+      "hrkt": "かのじょ は いつも より はやく <b>ねむり</b> に ついた よ。",
+      "latn": "kanojo ha itsumo yori hayaku <b>nemuri</b> ni tsuita yo.",
+      "en": "She fell asleep faster than usual.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03805A.mp3"
+    }
+  ]
+}

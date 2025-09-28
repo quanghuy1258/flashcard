@@ -1,0 +1,18 @@
+{
+  "ja": "詩",
+  "hrkt": "し",
+  "latn": "shi",
+  "en": "poetry, poem",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00621A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の<b>詩</b>は世界中で有名になったんだ。",
+      "hrkt": "かのじょ の <b>し</b> は せかい じゅう で ゆうめい に なった ん だ。",
+      "latn": "kanojo no <b>shi</b> ha sekai juu de yuumei ni natta n da.",
+      "en": "Her poem became famous all over the world.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00621A.mp3"
+    }
+  ]
+}

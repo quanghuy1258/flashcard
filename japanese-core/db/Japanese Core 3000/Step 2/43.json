@@ -1,0 +1,18 @@
+{
+  "ja": "咳",
+  "hrkt": "せき",
+  "latn": "seki",
+  "en": "cough",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02354A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>咳</b>が止まらないので病院に行ってきたの。",
+      "hrkt": "<b>せき</b> が とまらない ので びょういん に いって きた の。",
+      "latn": "<b>seki</b> ga tomaranai node byouin ni itte kita no.",
+      "en": "I went to the hospital because my cough didn't stop.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/65fjcs1dd4.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02354A.mp3"
+    }
+  ]
+}

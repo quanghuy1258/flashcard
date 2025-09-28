@@ -1,0 +1,18 @@
+{
+  "ja": "八百屋",
+  "hrkt": "やおや",
+  "latn": "yaoya",
+  "en": "greengrocery, vegetable shop",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09366A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>八百屋</b>でみかんを買いました。",
+      "hrkt": "<b>やおや</b> で みかん を かいました。",
+      "latn": "<b>yaoya</b> de mikan wo kaimashita.",
+      "en": "I bought tangerines at the vegetable shop.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09366A.mp3"
+    }
+  ]
+}

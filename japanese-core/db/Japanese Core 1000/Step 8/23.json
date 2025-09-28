@@ -1,0 +1,26 @@
+{
+  "ja": "自然",
+  "hrkt": "しぜん",
+  "latn": "shizen",
+  "en": "nature",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03705A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなで<b>自然</b>を守りましょう。",
+      "hrkt": "みんな で <b>しぜん</b> を まもりましょう。",
+      "latn": "minna de <b>shizen</b> wo mamorimashou.",
+      "en": "Let us all work together to protect nature.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4633733.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03705A.mp3"
+    },
+    {
+      "ja": "この町は<b>自然</b>が美しいです。",
+      "hrkt": "この まち は <b>しぜん</b> が うつくしい です。",
+      "latn": "kono machi ha <b>shizen</b> ga utsukushii desu.",
+      "en": "This town has beautiful nature.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e30ofncd8s.mp3"
+    }
+  ]
+}

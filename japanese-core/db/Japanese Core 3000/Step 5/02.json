@@ -1,0 +1,18 @@
+{
+  "ja": "本社",
+  "hrkt": "ほんしゃ",
+  "latn": "honsha",
+  "en": "head office of a company",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00056A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>本社</b>で会議があります。",
+      "hrkt": "きょう は <b>ほんしゃ</b> で かいぎ が あります。",
+      "latn": "kyou ha <b>honsha</b> de kaigi ga arimasu.",
+      "en": "There's a meeting at the head office today.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d5744scca4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00056A.mp3"
+    }
+  ]
+}

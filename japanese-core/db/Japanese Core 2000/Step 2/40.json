@@ -1,0 +1,26 @@
+{
+  "ja": "強さ",
+  "hrkt": "つよさ",
+  "latn": "tsuyosa",
+  "en": "strength",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05953A.mp3",
+  "sentences": [
+    {
+      "ja": "風の<b>強さ</b>に驚きました。",
+      "hrkt": "かぜ の <b>つよさ</b> に おどろきました。",
+      "latn": "kaze no <b>tsuyosa</b> ni odorokimashita.",
+      "en": "I was surprised at the strength of the wind.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4401394.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05953A.mp3"
+    },
+    {
+      "ja": "私は女性にも<b>強さ</b>が必要だと思います。",
+      "hrkt": "わたし は じょせい に も <b>つよさ</b> が ひつよう だ と おもいます。",
+      "latn": "watashi ha josei ni mo <b>tsuyosa</b> ga hitsuyou da to omoimasu.",
+      "en": "I think women need strength, too.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c52920fv4o.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "続く",
+  "hrkt": "つづく",
+  "latn": "tsuzuku",
+  "en": "continue, follow",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05890A.mp3",
+  "sentences": [
+    {
+      "ja": "工事は3月まで<b>続きます</b>。",
+      "hrkt": "こうじ は 3 がつ まで <b>つづきます</b>。",
+      "latn": "kouji ha 3 gatsu made <b>tsuzukimasu</b>.",
+      "en": "Construction will continue until March.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4485510.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05890A.mp3"
+    },
+    {
+      "ja": "ここ3日間、雨が<b>続いて</b>います。",
+      "hrkt": "ここ 3か かん、 あめ が <b>つづいて</b> います。",
+      "latn": "koko 3ka kan, ame ga <b>tsuzuite</b> imasu.",
+      "en": "It has been raining for the last three days.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/4440bfbt0g.mp3"
+    }
+  ]
+}

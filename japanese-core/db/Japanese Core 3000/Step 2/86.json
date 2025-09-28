@@ -1,0 +1,18 @@
+{
+  "ja": "にっこり",
+  "hrkt": "にっこり",
+  "latn": "nikkori",
+  "en": "smiling brightly",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03097A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>にっこり</b>ほほえんだ。",
+      "hrkt": "かのじょ は <b>にっこり</b> ほほえんだ。",
+      "latn": "kanojo ha <b>nikkori</b> hohoenda.",
+      "en": "She had a bright smile on her face.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/9b9u6de6k.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03097A.mp3"
+    }
+  ]
+}

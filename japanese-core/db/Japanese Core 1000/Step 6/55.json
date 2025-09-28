@@ -1,0 +1,26 @@
+{
+  "ja": "ようこそ",
+  "hrkt": "ようこそ",
+  "latn": "youkoso",
+  "en": "welcome (greeting)",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09593A.mp3",
+  "sentences": [
+    {
+      "ja": "日本へ<b>ようこそ</b>。",
+      "hrkt": "にっぽん へ <b>ようこそ</b>。",
+      "latn": "nippon he <b>youkoso</b>.",
+      "en": "Welcome to Japan.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4449788.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09593A.mp3"
+    },
+    {
+      "ja": "<b>ようこそ</b>夢の国へ。",
+      "hrkt": "<b>ようこそ</b> ゆめ の くに へ。",
+      "latn": "<b>youkoso</b> yume no kuni he.",
+      "en": "Welcome to the dream land!",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/87am979cg8.mp3"
+    }
+  ]
+}

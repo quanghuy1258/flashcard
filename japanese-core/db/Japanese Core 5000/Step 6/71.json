@@ -1,0 +1,18 @@
+{
+  "ja": "お前",
+  "hrkt": "おまえ",
+  "latn": "omae",
+  "en": "you (vulgar language)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02961A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>お前</b>の言うことは信じられない。",
+      "hrkt": "<b>おまえ</b> の いう こと は しんじられない。",
+      "latn": "<b>omae</b> no iu koto ha shinjirarenai.",
+      "en": "I can't believe what you say.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02961A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "親友",
+  "hrkt": "しんゆう",
+  "latn": "shin'yuu",
+  "en": "best friend",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01802A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は私の<b>親友</b>です。",
+      "hrkt": "かれ は わたし の <b>しんゆう</b> です。",
+      "latn": "kare ha watashi no <b>shin'yuu</b> desu.",
+      "en": "He is my best friend.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01802A.mp3"
+    }
+  ]
+}

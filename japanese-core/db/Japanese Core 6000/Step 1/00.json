@@ -1,0 +1,18 @@
+{
+  "ja": "有力",
+  "hrkt": "ゆうりょく",
+  "latn": "yuuryoku",
+  "en": "powerful, influential",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00769A.mp3",
+  "sentences": [
+    {
+      "ja": "あの都市はオリンピックの<b>有力</b>な候補地です。",
+      "hrkt": "あの とし は オリンピック の <b>ゆうりょく</b>な こうほ ち です。",
+      "latn": "ano toshi ha orinpikku no <b>yuuryoku</b>na kouho chi desu.",
+      "en": "That city is a strong candidate to host the Olympics.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00769A.mp3"
+    }
+  ]
+}

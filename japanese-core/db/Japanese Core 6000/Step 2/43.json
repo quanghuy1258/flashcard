@@ -1,0 +1,18 @@
+{
+  "ja": "引き取る",
+  "hrkt": "ひきとる",
+  "latn": "hikitoru",
+  "en": "take back, take custody",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01774A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は息子を<b>引き取った</b>の。",
+      "hrkt": "かのじょ は むすこ を <b>ひきとった</b> の。",
+      "latn": "kanojo ha musuko wo <b>hikitotta</b> no.",
+      "en": "She took custody of her son.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01774A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "くっ付ける",
+  "hrkt": "くっつける",
+  "latn": "kuttsukeru",
+  "en": "attach (something), stick (something)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03604A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は壁に耳を<b>くっ付けて</b>隣の話を聞いていたの。",
+      "hrkt": "かれ は かべ に みみ を <b>くっつけて</b> となり の はなし を きいて いた の。",
+      "latn": "kare ha kabe ni mimi wo <b>kuttsukete</b> tonari no hanashi wo kiite ita no.",
+      "en": "He pressed his ear to the wall listening to what the people next door were saying.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/25ep80cvhc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03604A.mp3"
+    }
+  ]
+}

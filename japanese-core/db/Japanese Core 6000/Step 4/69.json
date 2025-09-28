@@ -1,0 +1,18 @@
+{
+  "ja": "手数",
+  "hrkt": "てすう",
+  "latn": "tesuu",
+  "en": "trouble, bother",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03371A.mp3",
+  "sentences": [
+    {
+      "ja": "お<b>手数</b>ですがよろしくお願いします。",
+      "hrkt": "お<b>てすう</b> です が よろしく おねがい します。",
+      "latn": "o<b>tesuu</b> desu ga yoroshiku onegai shimasu.",
+      "en": "Sorry to bother you, but please take care of it.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03371A.mp3"
+    }
+  ]
+}

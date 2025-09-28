@@ -1,0 +1,26 @@
+{
+  "ja": "薄い",
+  "hrkt": "うすい",
+  "latn": "usui",
+  "en": "thin, weak",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00689A.mp3",
+  "sentences": [
+    {
+      "ja": "この電子辞書はとても<b>薄い</b>。",
+      "hrkt": "この でんし じしょ は とても <b>うすい</b>。",
+      "latn": "kono denshi jisho ha totemo <b>usui</b>.",
+      "en": "This electronic dictionary is very thin.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/226025.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00689A.mp3"
+    },
+    {
+      "ja": "この料理は味が<b>薄い</b>。",
+      "hrkt": "この りょうり は あじ が <b>うすい</b>。",
+      "latn": "kono ryouri ha aji ga <b>usui</b>.",
+      "en": "This food is tasteless.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4842039.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00115A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "到底",
+  "hrkt": "とうてい",
+  "latn": "toutei",
+  "en": "(not) possibly, utterly",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02490A.mp3",
+  "sentences": [
+    {
+      "ja": "今夜中に東京に着くのは<b>到底</b>無理でしょう。",
+      "hrkt": "こんや じゅう に とうきょう に つく の は <b>とうてい</b> むり でしょう。",
+      "latn": "kon'ya juu ni toukyou ni tsuku no ha <b>toutei</b> muri deshou.",
+      "en": "We can't possibly arrive in Tokyo tonight.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02490A.mp3"
+    }
+  ]
+}

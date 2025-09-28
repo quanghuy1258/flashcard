@@ -1,0 +1,26 @@
+{
+  "ja": "切る",
+  "hrkt": "きる",
+  "latn": "kiru",
+  "en": "cut",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/users/Cerego/b1df3de12365024b455bd98b15a2695f.mp3",
+  "sentences": [
+    {
+      "ja": "この紙を半分に<b>切って</b>ください。",
+      "hrkt": "この かみ を はんぶん に <b>きって</b> ください。",
+      "latn": "kono kami wo hanbun ni <b>kitte</b> kudasai.",
+      "en": "Please cut this paper in half.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5316169.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02333A.mp3"
+    },
+    {
+      "ja": "昨日、髪を<b>切りました</b>。",
+      "hrkt": "きのう、かみ を <b>きりました</b>。",
+      "latn": "kinou,kami wo <b>kirimashita</b>.",
+      "en": "I had my hair cut yesterday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4246665.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01769A.mp3"
+    }
+  ]
+}

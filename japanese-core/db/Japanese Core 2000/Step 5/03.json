@@ -1,0 +1,26 @@
+{
+  "ja": "下ろす",
+  "hrkt": "おろす",
+  "latn": "orosu",
+  "en": "bring down, take down",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01264A.mp3",
+  "sentences": [
+    {
+      "ja": "棚からその箱を<b>下ろして</b>ください。",
+      "hrkt": "たな から その はこ を <b>おろして</b> ください。",
+      "latn": "tana kara sono hako wo <b>oroshite</b> kudasai.",
+      "en": "Please take the box down from the shelf.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/528121.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01264A.mp3"
+    },
+    {
+      "ja": "私の荷物も<b>下ろして</b>もらえますか。",
+      "hrkt": "わたし の にもつ も <b>おろして</b> もらえます か。",
+      "latn": "watashi no nimotsu mo <b>oroshite</b> moraemasu ka.",
+      "en": "Could you take down my baggage, too?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/75de3kdhr4.mp3"
+    }
+  ]
+}

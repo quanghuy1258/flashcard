@@ -1,0 +1,26 @@
+{
+  "ja": "人々",
+  "hrkt": "ひとびと",
+  "latn": "hitobito",
+  "en": "people",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07779A.mp3",
+  "sentences": [
+    {
+      "ja": "あの村の<b>人々</b>はとても親切です。",
+      "hrkt": "あの むら の <b>ひとびと</b> は とても しんせつ です。",
+      "latn": "ano mura no <b>hitobito</b> ha totemo shinsetsu desu.",
+      "en": "People in that village are very kind.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5507436.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07779A.mp3"
+    },
+    {
+      "ja": "私は<b>人々</b>の役に立ちたいと思っています。",
+      "hrkt": "わたし は <b>ひとびと</b> の やくにたちたい と おもって います。",
+      "latn": "watashi ha <b>hitobito</b> no yakunitachitai to omotte imasu.",
+      "en": "I want to be of service to others.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5469670.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09391A.mp3"
+    }
+  ]
+}

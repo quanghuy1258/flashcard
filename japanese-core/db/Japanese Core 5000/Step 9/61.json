@@ -1,0 +1,18 @@
+{
+  "ja": "側面",
+  "hrkt": "そくめん",
+  "latn": "sokumen",
+  "en": "side",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00964A.mp3",
+  "sentences": [
+    {
+      "ja": "これが建物の<b>側面</b>の写真です。",
+      "hrkt": "これ が たてもの の <b>そくめん</b> の しゃしん です。",
+      "latn": "kore ga tatemono no <b>sokumen</b> no shashin desu.",
+      "en": "This is a side-view picture of the building.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00964A.mp3"
+    }
+  ]
+}

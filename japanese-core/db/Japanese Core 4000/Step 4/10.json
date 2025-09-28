@@ -1,0 +1,18 @@
+{
+  "ja": "性質",
+  "hrkt": "せいしつ",
+  "latn": "seishitsu",
+  "en": "nature, property",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00231A.mp3",
+  "sentences": [
+    {
+      "ja": "この犬は穏やかな<b>性質</b>だよ。",
+      "hrkt": "この いぬ は おだやかな <b>せいしつ</b> だ よ。",
+      "latn": "kono inu ha odayakana <b>seishitsu</b> da yo.",
+      "en": "This dog has a calm nature.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00231A.mp3"
+    }
+  ]
+}

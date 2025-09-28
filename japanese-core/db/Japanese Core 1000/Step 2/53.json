@@ -1,0 +1,26 @@
+{
+  "ja": "右",
+  "hrkt": "みぎ",
+  "latn": "migi",
+  "en": "right",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08869A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>右</b>のポケットにハンカチが入っています。",
+      "hrkt": "<b>みぎ</b> の ポケット に ハンカチ が はいって います。",
+      "latn": "<b>migi</b> no poketto ni hankachi ga haitte imasu.",
+      "en": "I have a handkerchief in my right pocket.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5444157.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08869A.mp3"
+    },
+    {
+      "ja": "彼は<b>右</b>の耳がよく聞こえない。",
+      "hrkt": "かれ は <b>みぎ</b> の みみ が よく きこえ ない。",
+      "latn": "kare ha <b>migi</b> no mimi ga yoku kikoe nai.",
+      "en": "He can't hear well with his right ear.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b4470cdosc.mp3"
+    }
+  ]
+}

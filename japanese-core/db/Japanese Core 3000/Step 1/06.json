@@ -1,0 +1,18 @@
+{
+  "ja": "あれこれ",
+  "hrkt": "あれこれ",
+  "latn": "arekore",
+  "en": "this and that, one thing or another",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01933A.mp3",
+  "sentences": [
+    {
+      "ja": "服を買うのに<b>あれこれ</b>迷いました。",
+      "hrkt": "ふく を かう の に <b>あれこれ</b> まよいました。",
+      "latn": "fuku wo kau no ni <b>arekore</b> mayoimashita.",
+      "en": "I couldn't decide what clothes to buy.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/72d36q5hj4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01933A.mp3"
+    }
+  ]
+}

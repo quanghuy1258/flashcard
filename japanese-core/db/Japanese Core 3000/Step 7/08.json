@@ -1,0 +1,18 @@
+{
+  "ja": "日付け",
+  "hrkt": "ひづけ",
+  "latn": "hizuke",
+  "en": "date (written in a document, etc.)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03980A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の<b>日付け</b>は6月19日です。",
+      "hrkt": "きょう の <b>ひづけ</b> は 6 がつ 19 にち です。",
+      "latn": "kyou no <b>hizuke</b> ha 6 gatsu 19 nichi desu.",
+      "en": "Today's date is June 19th.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/06f45l08m0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03980A.mp3"
+    }
+  ]
+}

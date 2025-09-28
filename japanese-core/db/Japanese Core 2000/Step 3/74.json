@@ -1,0 +1,26 @@
+{
+  "ja": "茶",
+  "hrkt": "ちゃ",
+  "latn": "cha",
+  "en": "tea (plain form)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05620A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは毎日お<b>茶</b>を飲みます。",
+      "hrkt": "わたし たち は まいにち お<b>ちゃ</b> を のみます。",
+      "latn": "watashi tachi ha mainichi o<b>cha</b> wo nomimasu.",
+      "en": "We drink tea every day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6041881.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05620A.mp3"
+    },
+    {
+      "ja": "私のおばあちゃんは熱いお<b>茶</b>が好きです。",
+      "hrkt": "わたし の おばあちゃん は あつい お<b>ちゃ</b> が すき です。",
+      "latn": "watashi no obaachan ha atsui o<b>cha</b> ga suki desu.",
+      "en": "My grandmother likes hot tea.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/327e2s5bk4.mp3"
+    }
+  ]
+}

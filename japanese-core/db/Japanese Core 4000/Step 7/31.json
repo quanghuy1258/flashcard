@@ -1,0 +1,18 @@
+{
+  "ja": "どうか",
+  "hrkt": "どうか",
+  "latn": "douka",
+  "en": "please (used in difficult situations)",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00881A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>どうか</b>お許しください。",
+      "hrkt": "<b>どうか</b> おゆるし ください。",
+      "latn": "<b>douka</b> oyurushi kudasai.",
+      "en": "Please forgive me.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00881A.mp3"
+    }
+  ]
+}

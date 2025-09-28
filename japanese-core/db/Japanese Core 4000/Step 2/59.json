@@ -1,0 +1,18 @@
+{
+  "ja": "景気",
+  "hrkt": "けいき",
+  "latn": "keiki",
+  "en": "economic conditions",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00123A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>景気</b>が回復してきたね。",
+      "hrkt": "<b>けいき</b> が かいふく して きた ね。",
+      "latn": "<b>keiki</b> ga kaifuku shite kita ne.",
+      "en": "The economy is recovering.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f5ac4l8r7s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00123A.mp3"
+    }
+  ]
+}

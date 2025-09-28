@@ -1,0 +1,26 @@
+{
+  "ja": "異なる",
+  "hrkt": "ことなる",
+  "latn": "kotonaru",
+  "en": "differ",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03168A.mp3",
+  "sentences": [
+    {
+      "ja": "彼と私はいつも意見が<b>異なる</b>。",
+      "hrkt": "かれ と わたし は いつも いけん が <b>ことなる</b>。",
+      "latn": "kare to watashi ha itsumo iken ga <b>kotonaru</b>.",
+      "en": "He and I always have different opinions.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2612631.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03168A.mp3"
+    },
+    {
+      "ja": "商品を住所と<b>異なる</b>場所で受け取ることもできます。",
+      "hrkt": "しょうひん を じゅうしょ と <b>ことなる</b> ばしょ で うけとる こと も できます。",
+      "latn": "shouhin wo juusho to <b>kotonaru</b> basho de uketoru koto mo dekimasu.",
+      "en": "You can pick up the product at a location different from your address .",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d450f34hu0.mp3"
+    }
+  ]
+}

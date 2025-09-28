@@ -1,0 +1,18 @@
+{
+  "ja": "発つ",
+  "hrkt": "たつ",
+  "latn": "tatsu",
+  "en": "start, leave",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00090A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は明日メキシコへ<b>発ちます</b>。",
+      "hrkt": "かれ は あした メキシコ へ <b>たちます</b>。",
+      "latn": "kare ha ashita mekishiko he <b>tachimasu</b>.",
+      "en": "He will leave for Mexico tomorrow.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00090A.mp3?1220179194"
+    }
+  ]
+}

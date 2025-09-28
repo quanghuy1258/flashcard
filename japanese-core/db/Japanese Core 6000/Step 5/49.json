@@ -1,0 +1,18 @@
+{
+  "ja": "変換",
+  "hrkt": "へんかん",
+  "latn": "henkan",
+  "en": "change, conversion",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00029A.mp3",
+  "sentences": [
+    {
+      "ja": "ひらがなをカタカナに<b>変換</b>しました。",
+      "hrkt": "ひらがな を カタカナ に <b>へんかん</b> しました。",
+      "latn": "hiragana wo katakana ni <b>henkan</b> shimashita.",
+      "en": "I converted hiragana into katakana.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00029A.mp3"
+    }
+  ]
+}

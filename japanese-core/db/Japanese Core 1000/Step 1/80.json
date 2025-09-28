@@ -1,0 +1,26 @@
+{
+  "ja": "書く",
+  "hrkt": "かく",
+  "latn": "kaku",
+  "en": "write",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01487A.mp3",
+  "sentences": [
+    {
+      "ja": "彼に手紙を<b>書きました</b>。",
+      "hrkt": "かれ に てがみ を <b>かきました</b>。",
+      "latn": "kare ni tegami wo <b>kakimashita</b>.",
+      "en": "I wrote him a letter.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4221544.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01487A.mp3"
+    },
+    {
+      "ja": "お名前をカタカナで<b>書いて</b>ください。",
+      "hrkt": "おなまえ を カタカナ で <b>かいて</b> ください。",
+      "latn": "onamae wo katakana de <b>kaite</b> kudasai.",
+      "en": "Please write your name in katakana.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/946026.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01640A.mp3"
+    }
+  ]
+}

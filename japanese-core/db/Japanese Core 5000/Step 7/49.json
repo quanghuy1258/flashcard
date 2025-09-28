@@ -1,0 +1,18 @@
+{
+  "ja": "後ろ向き",
+  "hrkt": "うしろむき",
+  "latn": "ushiromuki",
+  "en": "facing backward",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02672A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は車を<b>後ろ向き</b>に駐車したの。",
+      "hrkt": "かれ は くるま を <b>うしろむき</b> に ちゅうしゃ した の。",
+      "latn": "kare ha kuruma wo <b>ushiromuki</b> ni chuusha shita no.",
+      "en": "He parked the car backward.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02672A.mp3"
+    }
+  ]
+}

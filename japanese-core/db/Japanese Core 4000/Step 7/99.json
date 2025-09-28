@@ -1,0 +1,18 @@
+{
+  "ja": "命じる",
+  "hrkt": "めいじる",
+  "latn": "meijiru",
+  "en": "order, give orders",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01317A.mp3",
+  "sentences": [
+    {
+      "ja": "急に出張を<b>命じられました</b>。",
+      "hrkt": "きゅうに しゅっちょう を <b>めいじられました</b>。",
+      "latn": "kyuuni shucchou wo <b>meijiraremashita</b>.",
+      "en": "I was sent on a business trip without notice.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01317A.mp3"
+    }
+  ]
+}

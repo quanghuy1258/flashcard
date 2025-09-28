@@ -1,0 +1,18 @@
+{
+  "ja": "物理",
+  "hrkt": "ぶつり",
+  "latn": "butsuri",
+  "en": "physics",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01369A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>物理</b>を専攻している。",
+      "hrkt": "かれ は <b>ぶつり</b> を せんこう して いる。",
+      "latn": "kare ha <b>butsuri</b> wo senkou shite iru.",
+      "en": "He majors in physics.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/04el1k9leo.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01369A.mp3"
+    }
+  ]
+}

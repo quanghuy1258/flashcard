@@ -1,0 +1,18 @@
+{
+  "ja": "花束",
+  "hrkt": "はなたば",
+  "latn": "hanataba",
+  "en": "flower bouquet",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03827A.mp3",
+  "sentences": [
+    {
+      "ja": "卒業式に<b>花束</b>をもらいました。",
+      "hrkt": "そつぎょう しき に <b>はなたば</b> を もらいました。",
+      "latn": "sotsugyou shiki ni <b>hanataba</b> wo moraimashita.",
+      "en": "I got a flower bouquet at my graduation ceremony.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03827A.mp3"
+    }
+  ]
+}

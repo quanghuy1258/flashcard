@@ -1,0 +1,26 @@
+{
+  "ja": "服",
+  "hrkt": "ふく",
+  "latn": "fuku",
+  "en": "clothes (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08005A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、新しい<b>服</b>を買った。",
+      "hrkt": "きのう、あたらしい <b>ふく</b> を かった。",
+      "latn": "kinou,atarashii <b>fuku</b> wo katta.",
+      "en": "I bought some new clothes yesterday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4163187.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08005A.mp3"
+    },
+    {
+      "ja": "この<b>服</b>はとても安かった。",
+      "hrkt": "この <b>ふく</b> は とても やすかった。",
+      "latn": "kono <b>fuku</b> ha totemo yasukatta.",
+      "en": "These clothes were very cheap.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4934354.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09409A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "空間",
+  "hrkt": "くうかん",
+  "latn": "kuukan",
+  "en": "space",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03601A.mp3",
+  "sentences": [
+    {
+      "ja": "狭い<b>空間</b>に物がたくさん置いてあるね。",
+      "hrkt": "せまい <b>くうかん</b> に もの が たくさん おいて ある ね。",
+      "latn": "semai <b>kuukan</b> ni mono ga takusan oite aru ne.",
+      "en": "There are a lot of things in this tiny space.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03601A.mp3"
+    }
+  ]
+}

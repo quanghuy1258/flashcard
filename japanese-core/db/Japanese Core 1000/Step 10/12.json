@@ -1,0 +1,26 @@
+{
+  "ja": "自動車",
+  "hrkt": "じどうしゃ",
+  "latn": "jidousha",
+  "en": "automobile",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03802A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>自動車</b>会社で働いています。",
+      "hrkt": "かれ は <b>じどうしゃ</b> がいしゃ で はたらいて います。",
+      "latn": "kare ha <b>jidousha</b> gaisha de hataraite imasu.",
+      "en": "He works for an automobile company.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/13fq1fb4ac.mp3"
+    },
+    {
+      "ja": "この道は人も<b>自動車</b>も多いです。",
+      "hrkt": "この みち は ひと も <b>じどうしゃ</b> も おおい です。",
+      "latn": "kono michi ha hito mo <b>jidousha</b> mo ooi desu.",
+      "en": "There are many people and cars on this street.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/04b6873cv0.mp3"
+    }
+  ]
+}

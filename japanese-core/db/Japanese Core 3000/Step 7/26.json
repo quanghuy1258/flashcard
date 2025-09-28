@@ -1,0 +1,18 @@
+{
+  "ja": "飛び下りる",
+  "hrkt": "とびおりる",
+  "latn": "tobioriru",
+  "en": "jump off, jump down",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03777A.mp3",
+  "sentences": [
+    {
+      "ja": "猫が屋根から<b>飛び下りました</b>。",
+      "hrkt": "ねこ が やね から <b>とびおりました</b>。",
+      "latn": "neko ga yane kara <b>tobiorimashita</b>.",
+      "en": "A cat jumped from the roof.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/3104198m8s.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03777A.mp3"
+    }
+  ]
+}

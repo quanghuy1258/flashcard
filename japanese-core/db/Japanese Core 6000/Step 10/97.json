@@ -1,0 +1,18 @@
+{
+  "ja": "用例",
+  "hrkt": "ようれい",
+  "latn": "yourei",
+  "en": "illustrative example, usage example",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02752A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>用例</b>を使って説明してください。",
+      "hrkt": "<b>ようれい</b> を つかって せつめい して ください。",
+      "latn": "<b>yourei</b> wo tsukatte setsumei shite kudasai.",
+      "en": "Please explain by using illustrative examples.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02752A.mp3"
+    }
+  ]
+}

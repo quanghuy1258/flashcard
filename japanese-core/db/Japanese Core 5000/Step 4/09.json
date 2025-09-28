@@ -1,0 +1,18 @@
+{
+  "ja": "日課",
+  "hrkt": "にっか",
+  "latn": "nikka",
+  "en": "daily routine",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02253A.mp3",
+  "sentences": [
+    {
+      "ja": "犬の散歩は私の<b>日課</b>です。",
+      "hrkt": "いぬ の さんぽ は わたし の <b>にっか</b> です。",
+      "latn": "inu no sanpo ha watashi no <b>nikka</b> desu.",
+      "en": "Walking the dog is my daily routine.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02253A.mp3"
+    }
+  ]
+}

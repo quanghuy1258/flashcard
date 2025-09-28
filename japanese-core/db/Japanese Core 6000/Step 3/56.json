@@ -1,0 +1,18 @@
+{
+  "ja": "沈没",
+  "hrkt": "ちんぼつ",
+  "latn": "chinbotsu",
+  "en": "sinking",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02692A.mp3",
+  "sentences": [
+    {
+      "ja": "船は<b>沈没</b>しました。",
+      "hrkt": "ふね は <b>ちんぼつ</b> しました。",
+      "latn": "fune ha <b>chinbotsu</b> shimashita.",
+      "en": "The ship sank.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02692A.mp3"
+    }
+  ]
+}

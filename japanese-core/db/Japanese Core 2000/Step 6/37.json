@@ -1,0 +1,26 @@
+{
+  "ja": "釣る",
+  "hrkt": "つる",
+  "latn": "tsuru",
+  "en": "fish, catch",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05966A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日大きな魚を<b>釣りました</b>。",
+      "hrkt": "きのう おおきな さかな を <b>つりました</b>。",
+      "latn": "kinou ookina sakana wo <b>tsurimashita</b>.",
+      "en": "I caught a big fish yesterday.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5099402.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05966A.mp3"
+    },
+    {
+      "ja": "今日は魚が一匹も<b>釣れません</b>でした。",
+      "hrkt": "きょう は さかな が いっぴき も <b>つれません</b> でした。",
+      "latn": "kyou ha sakana ga ippiki mo <b>tsuremasen</b> deshita.",
+      "en": "I couldn't catch any fish today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f4be250j78.mp3"
+    }
+  ]
+}

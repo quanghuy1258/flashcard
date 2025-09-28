@@ -1,0 +1,26 @@
+{
+  "ja": "皿",
+  "hrkt": "さら",
+  "latn": "sara",
+  "en": "plate, counter (for plates or helpings)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03498A.mp3",
+  "sentences": [
+    {
+      "ja": "空いたお<b>皿</b>をお下げします。",
+      "hrkt": "あいた お<b>さら</b> を おさげします。",
+      "latn": "aita o<b>sara</b> wo osageshimasu.",
+      "en": "I'll clear away the empty plates.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3208321.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03498A.mp3"
+    },
+    {
+      "ja": "<b>皿</b>にケーキを載せました。",
+      "hrkt": "<b>さら</b> に ケーキ を のせました。",
+      "latn": "<b>sara</b> ni ke-ki wo nosemashita.",
+      "en": "I put the cake on a plate.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4891810.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07083A.mp3"
+    }
+  ]
+}

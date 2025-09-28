@@ -1,0 +1,18 @@
+{
+  "ja": "共通",
+  "hrkt": "きょうつう",
+  "latn": "kyoutsuu",
+  "en": "commonality",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00208A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>共通</b>の趣味を持っています。",
+      "hrkt": "わたし たち は <b>きょうつう</b> の しゅみ を もって います。",
+      "latn": "watashi tachi ha <b>kyoutsuu</b> no shumi wo motte imasu.",
+      "en": "We have a common hobby.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c4c0bp7gu8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00208A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "失う",
+  "hrkt": "うしなう",
+  "latn": "ushinau",
+  "en": "lose, miss",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00085A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は地震で親を<b>失いました</b>。",
+      "hrkt": "かれ は じしん で おや を <b>うしないました</b>。",
+      "latn": "kare ha jishin de oya wo <b>ushinaimashita</b>.",
+      "en": "He lost his parents in the earthquake.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/31ei586r74.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00085A.mp3"
+    }
+  ]
+}

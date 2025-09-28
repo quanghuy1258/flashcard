@@ -1,0 +1,26 @@
+{
+  "ja": "周辺",
+  "hrkt": "しゅうへん",
+  "latn": "shuuhen",
+  "en": "area, region",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04013A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>周辺</b>には大学が多い。",
+      "hrkt": "この <b>しゅうへん</b> に は だいがく が おおい。",
+      "latn": "kono <b>shuuhen</b> ni ha daigaku ga ooi.",
+      "en": "There are a lot of universities in this area.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/552292.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04013A.mp3"
+    },
+    {
+      "ja": "東京ディズニーランド<b>周辺</b>にはホテルしかありません。",
+      "hrkt": "とうきょう ディズニーランド <b>しゅうへん</b> に は ホテル しか ありません。",
+      "latn": "toukyou dizuni-rando <b>shuuhen</b> ni ha hoteru shika arimasen.",
+      "en": "There are only hotels around the Tokyo Disneyland area.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/66769fb5l0.mp3"
+    }
+  ]
+}

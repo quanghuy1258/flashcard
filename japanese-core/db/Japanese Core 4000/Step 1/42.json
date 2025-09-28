@@ -1,0 +1,18 @@
+{
+  "ja": "保証",
+  "hrkt": "ほしょう",
+  "latn": "hoshou",
+  "en": "guarantee, warranty",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00776A.mp3",
+  "sentences": [
+    {
+      "ja": "この製品の<b>保証</b>期間は5年間となっております。",
+      "hrkt": "この せいひん の <b>ほしょう</b> きかん は 5 ねんかん と なって おります。",
+      "latn": "kono seihin no <b>hoshou</b> kikan ha 5 nenkan to natte orimasu.",
+      "en": "The guarantee period of this product is five years.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e34va16h7s.png",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00776A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "スーツ",
+  "hrkt": "スーツ",
+  "latn": "su-tsu",
+  "en": "suit",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04514A.mp3",
+  "sentences": [
+    {
+      "ja": "あの<b>スーツ</b>はそんなに高くない。",
+      "hrkt": "あの <b>スーツ</b> は そんな に たかくない。",
+      "latn": "ano <b>su-tsu</b> ha sonna ni takakunai.",
+      "en": "The suit is not that pricey.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4199361.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04514A.mp3"
+    },
+    {
+      "ja": "今日は<b>スーツ</b>を着ています。",
+      "hrkt": "きょう は <b>スーツ</b> を きて います。",
+      "latn": "kyou ha <b>su-tsu</b> wo kite imasu.",
+      "en": "I'm wearing a suit today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5651318.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02332A.mp3"
+    }
+  ]
+}

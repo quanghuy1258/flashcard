@@ -1,0 +1,26 @@
+{
+  "ja": "顔",
+  "hrkt": "かお",
+  "latn": "kao",
+  "en": "face",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01443A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はタオルで<b>顔</b>を拭きました。",
+      "hrkt": "かれ は タオル で <b>かお</b> を ふきました。",
+      "latn": "kare ha taoru de <b>kao</b> wo fukimashita.",
+      "en": "He wiped his face with a towel.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5215173.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01443A.mp3"
+    },
+    {
+      "ja": "早く<b>顔</b>を洗いなさい。",
+      "hrkt": "はやく <b>かお</b> を あらいなさい。",
+      "latn": "hayaku <b>kao</b> wo arainasai.",
+      "en": "Hurry up and wash your face.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3038269.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00260A.mp3"
+    }
+  ]
+}

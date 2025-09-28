@@ -1,0 +1,18 @@
+{
+  "ja": "すやすや",
+  "hrkt": "すやすや",
+  "latn": "suyasuya",
+  "en": "(sleep) peacefully, soundly",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03085A.mp3",
+  "sentences": [
+    {
+      "ja": "子供が<b>すやすや</b>眠っているね。",
+      "hrkt": "こども が <b>すやすや</b> ねむって いる ね。",
+      "latn": "kodomo ga <b>suyasuya</b> nemutte iru ne.",
+      "en": "The child is sleeping soundly.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/35fmcuf08c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03085A.mp3"
+    }
+  ]
+}

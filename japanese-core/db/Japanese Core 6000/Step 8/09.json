@@ -1,0 +1,18 @@
+{
+  "ja": "都庁",
+  "hrkt": "とちょう",
+  "latn": "tochou",
+  "en": "Tokyo Metropolitan Government",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02781A.mp3",
+  "sentences": [
+    {
+      "ja": "あの高い建物が<b>都庁</b>です。",
+      "hrkt": "あの たかい たてもの が <b>とちょう</b> です。",
+      "latn": "ano takai tatemono ga <b>tochou</b> desu.",
+      "en": "That tall building is the Tokyo Metropolitan Government tower.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02781A.mp3"
+    }
+  ]
+}

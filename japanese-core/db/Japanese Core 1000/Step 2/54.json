@@ -1,0 +1,26 @@
+{
+  "ja": "浴びる",
+  "hrkt": "あびる",
+  "latn": "abiru",
+  "en": "take (a shower), bask",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00209A.mp3",
+  "sentences": [
+    {
+      "ja": "私は朝、シャワーを<b>浴びます</b>。",
+      "hrkt": "わたし は あさ、シャワー を <b>あびます</b>。",
+      "latn": "watashi ha asa,shawa- wo <b>abimasu</b>.",
+      "en": "I take a shower in the morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4164425.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00209A.mp3"
+    },
+    {
+      "ja": "朝、急いでシャワーを<b>浴びました</b>。",
+      "hrkt": "あさ、いそいで シャワー を <b>あびました</b>。",
+      "latn": "asa,isoide shawa- wo <b>abimashita</b>.",
+      "en": "I took a very quick shower in the morning.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5158101.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03935A.mp3"
+    }
+  ]
+}

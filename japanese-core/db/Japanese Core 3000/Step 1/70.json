@@ -1,0 +1,18 @@
+{
+  "ja": "出席",
+  "hrkt": "しゅっせき",
+  "latn": "shusseki",
+  "en": "attendance, presence",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04072A.mp3",
+  "sentences": [
+    {
+      "ja": "午後は会議に<b>出席</b>します。",
+      "hrkt": "ごご は かいぎ に <b>しゅっせき</b> します。",
+      "latn": "gogo ha kaigi ni <b>shusseki</b> shimasu.",
+      "en": "I'll attend a meeting in the afternoon.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/15572icq7g.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04072A.mp3"
+    }
+  ]
+}

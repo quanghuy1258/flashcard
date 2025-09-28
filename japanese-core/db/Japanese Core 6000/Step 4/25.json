@@ -1,0 +1,18 @@
+{
+  "ja": "同封",
+  "hrkt": "どうふう",
+  "latn": "doufuu",
+  "en": "enclosure",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02831A.mp3",
+  "sentences": [
+    {
+      "ja": "手紙に写真が<b>同封</b>されていたよ。",
+      "hrkt": "てがみ に しゃしん が <b>どうふう</b> されて いた よ。",
+      "latn": "tegami ni shashin ga <b>doufuu</b> sarete ita yo.",
+      "en": "A photograph was enclosed with the letter.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02831A.mp3"
+    }
+  ]
+}

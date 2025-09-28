@@ -1,0 +1,26 @@
+{
+  "ja": "機械",
+  "hrkt": "きかい",
+  "latn": "kikai",
+  "en": "machine",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01995A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>機械</b>が壊れた。",
+      "hrkt": "あたらしい <b>きかい</b> が こわれた。",
+      "latn": "atarashii <b>kikai</b> ga kowareta.",
+      "en": "The new machine broke.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5660003.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01995A.mp3"
+    },
+    {
+      "ja": "この<b>機械</b>は何に使うんですか。",
+      "hrkt": "この <b>きかい</b> は なに に つかう ん です か。",
+      "latn": "kono <b>kikai</b> ha nani ni tsukau n desu ka.",
+      "en": "What do you use this machine for?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a487ba542k.mp3"
+    }
+  ]
+}

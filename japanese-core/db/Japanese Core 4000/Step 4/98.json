@@ -1,0 +1,18 @@
+{
+  "ja": "用いる",
+  "hrkt": "もちいる",
+  "latn": "mochiiru",
+  "en": "use, through use of, adopt",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09284A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はその詩を<b>用いて</b>自分の気持ちを伝えた。",
+      "hrkt": "かれ は その し を <b>もちいて</b> じぶん の きもち を つたえた。",
+      "latn": "kare ha sono shi wo <b>mochiite</b> jibun no kimochi wo tsutaeta.",
+      "en": "He conveyed his feelings through the poem.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09284A.mp3"
+    }
+  ]
+}

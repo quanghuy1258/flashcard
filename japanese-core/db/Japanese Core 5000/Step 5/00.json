@@ -1,0 +1,18 @@
+{
+  "ja": "量る",
+  "hrkt": "はかる",
+  "latn": "hakaru",
+  "en": "measure (weight or volume)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03101A.mp3",
+  "sentences": [
+    {
+      "ja": "はかりで小麦粉の分量を<b>量った</b>よ。",
+      "hrkt": "はかり で こむぎこ の ぶんりょう を <b>はかった</b> よ。",
+      "latn": "hakari de komugiko no bunryou wo <b>hakatta</b> yo.",
+      "en": "I measured flour using a kitchen scale.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03101A.mp3"
+    }
+  ]
+}

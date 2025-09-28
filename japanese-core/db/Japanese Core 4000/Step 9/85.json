@@ -1,0 +1,18 @@
+{
+  "ja": "順序",
+  "hrkt": "じゅんじょ",
+  "latn": "junjo",
+  "en": "order, sequence",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00894A.mp3",
+  "sentences": [
+    {
+      "ja": "正しい<b>順序</b>で操作してください。",
+      "hrkt": "ただしい <b>じゅんじょ</b> で そうさして ください。",
+      "latn": "tadashii <b>junjo</b> de sousashite kudasai.",
+      "en": "Please carry out the operation in the correct sequence.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00894A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "坂",
+  "hrkt": "さか",
+  "latn": "saka",
+  "en": "slope, hill",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02066A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>坂</b>を上るのはすごくきついね。",
+      "hrkt": "この <b>さか</b> を のぼる の は すごく きつい ね。",
+      "latn": "kono <b>saka</b> wo noboru no ha sugoku kitsui ne.",
+      "en": "Going up this slope is very hard.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/16692o1q9k.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02066A.mp3"
+    }
+  ]
+}

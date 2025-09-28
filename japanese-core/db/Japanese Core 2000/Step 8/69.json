@@ -1,0 +1,26 @@
+{
+  "ja": "すっかり",
+  "hrkt": "すっかり",
+  "latn": "sukkari",
+  "en": "all, completely",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00353A.mp3",
+  "sentences": [
+    {
+      "ja": "買い物を<b>すっかり</b>忘れていた。",
+      "hrkt": "かいもの を <b>すっかり</b> わすれて いた。",
+      "latn": "kaimono wo <b>sukkari</b> wasurete ita.",
+      "en": "I completely forgot about the shopping.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/0lfeel7j84pb8.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00353A.mp3"
+    },
+    {
+      "ja": "風邪は<b>すっかり</b>良くなりました。",
+      "hrkt": "かぜ は <b>すっかり</b> よく なりました。",
+      "latn": "kaze ha <b>sukkari</b> yoku narimashita.",
+      "en": "I've completely recovered from a cold.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/059fed9k7c.mp3"
+    }
+  ]
+}

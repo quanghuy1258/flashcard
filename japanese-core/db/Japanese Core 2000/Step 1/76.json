@@ -1,0 +1,26 @@
+{
+  "ja": "招待",
+  "hrkt": "しょうたい",
+  "latn": "shoutai",
+  "en": "invitation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04196A.mp3",
+  "sentences": [
+    {
+      "ja": "高校のときの先生を結婚式に<b>招待</b>した。",
+      "hrkt": "こうこう の とき の せんせい を けっこん しき に <b>しょうたい</b> した。",
+      "latn": "koukou no toki no sensei wo kekkon shiki ni <b>shoutai</b> shita.",
+      "en": "I invited my high school teacher to the wedding.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4928230.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04196A.mp3"
+    },
+    {
+      "ja": "ご<b>招待</b>、ありがとうございます。",
+      "hrkt": "ご<b>しょうたい</b>、ありがとう ございます。",
+      "latn": "go<b>shoutai</b>,arigatou gozaimasu.",
+      "en": "Thank you for the invitation.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/249i1ed83o.mp3"
+    }
+  ]
+}

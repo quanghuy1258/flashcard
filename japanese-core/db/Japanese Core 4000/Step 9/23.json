@@ -1,0 +1,18 @@
+{
+  "ja": "下旬",
+  "hrkt": "げじゅん",
+  "latn": "gejun",
+  "en": "the last ten days (of a month)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00534A.mp3",
+  "sentences": [
+    {
+      "ja": "この仕事は来月の<b>下旬</b>には終わります。",
+      "hrkt": "この しごと は らいげつ の <b>げじゅん</b> には おわります。",
+      "latn": "kono shigoto ha raigetsu no <b>gejun</b> niha owarimasu.",
+      "en": "I'll finish this work at the end of next month.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00534A.mp3"
+    }
+  ]
+}

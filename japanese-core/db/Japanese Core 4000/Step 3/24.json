@@ -1,0 +1,18 @@
+{
+  "ja": "題",
+  "hrkt": "だい",
+  "latn": "dai",
+  "en": "title, topic",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02930A.mp3",
+  "sentences": [
+    {
+      "ja": "その曲の<b>題</b>を思い出せません。",
+      "hrkt": "その きょく の <b>だい</b> を おもいだせません。",
+      "latn": "sono kyoku no <b>dai</b> wo omoidasemasen.",
+      "en": "I can't remember the title of the piece.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02930A.mp3"
+    }
+  ]
+}

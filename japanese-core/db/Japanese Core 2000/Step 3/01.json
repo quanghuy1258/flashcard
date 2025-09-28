@@ -1,0 +1,26 @@
+{
+  "ja": "着物",
+  "hrkt": "きもの",
+  "latn": "kimono",
+  "en": "traditional Japanese clothes",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02165A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>着物</b>がよく似合います。",
+      "hrkt": "かのじょ は <b>きもの</b> が よく にあいます。",
+      "latn": "kanojo ha <b>kimono</b> ga yoku niaimasu.",
+      "en": "She looks good in kimono.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/322061.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02165A.mp3"
+    },
+    {
+      "ja": "お正月に<b>着物</b>を着る人もいます。",
+      "hrkt": "おしょうがつ に <b>きもの</b> を きる ひと も います。",
+      "latn": "oshougatsu ni <b>kimono</b> wo kiru hito mo imasu.",
+      "en": "Some people wear kimonos during New Year.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b5aad4b398.mp3"
+    }
+  ]
+}

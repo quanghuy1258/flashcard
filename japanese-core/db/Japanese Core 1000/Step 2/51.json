@@ -1,0 +1,26 @@
+{
+  "ja": "耳",
+  "hrkt": "みみ",
+  "latn": "mimi",
+  "en": "ear",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08987A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>耳</b>がよく聞こえません。",
+      "hrkt": "かのじょ は <b>みみ</b> が よく きこえません。",
+      "latn": "kanojo ha <b>mimi</b> ga yoku kikoemasen.",
+      "en": "Her hearing isn't very good.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1931463.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08987A.mp3"
+    },
+    {
+      "ja": "うちのおじいちゃんは<b>耳</b>が遠い。",
+      "hrkt": "うち の おじいちゃん は <b>みみ</b> が とおい。",
+      "latn": "uchi no ojiichan ha <b>mimi</b> ga tooi.",
+      "en": "My grandfather is hard of hearing.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/540iac768s.mp3"
+    }
+  ]
+}

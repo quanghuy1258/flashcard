@@ -1,0 +1,18 @@
+{
+  "ja": "釣り合い",
+  "hrkt": "つりあい",
+  "latn": "tsuriai",
+  "en": "balance, proportion",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03151A.mp3",
+  "sentences": [
+    {
+      "ja": "この紙飛行機は左右の<b>釣り合い</b>がとれていないな。",
+      "hrkt": "この かみ ひこうき は さゆう の <b>つりあい</b> が とれて いない な。",
+      "latn": "kono kami hikouki ha sayuu no <b>tsuriai</b> ga torete inai na.",
+      "en": "The right-and-left balance on this paper airplane isn't good.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03151A.mp3"
+    }
+  ]
+}

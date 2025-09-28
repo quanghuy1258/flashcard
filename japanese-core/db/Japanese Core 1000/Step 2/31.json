@@ -1,0 +1,26 @@
+{
+  "ja": "赤い",
+  "hrkt": "あかい",
+  "latn": "akai",
+  "en": "red",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00044A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>赤い</b>バラを買いました。",
+      "hrkt": "<b>あかい</b> バラ を かいました。",
+      "latn": "<b>akai</b> bara wo kaimashita.",
+      "en": "I bought a red rose.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5811299.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00044A.mp3"
+    },
+    {
+      "ja": "<b>赤い</b>線を2本引いてください。",
+      "hrkt": "<b>あかい</b> せん を 2 ほん ひいて ください。",
+      "latn": "<b>akai</b> sen wo 2 hon hiite kudasai.",
+      "en": "Please draw two red lines.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3641072.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04852A.mp3"
+    }
+  ]
+}

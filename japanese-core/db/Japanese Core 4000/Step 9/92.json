@@ -1,0 +1,18 @@
+{
+  "ja": "越す",
+  "hrkt": "こす",
+  "latn": "kosu",
+  "en": "go across, pass",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01861A.mp3",
+  "sentences": [
+    {
+      "ja": "暑さは峠を<b>越した</b>ね。",
+      "hrkt": "あつさ は とうげ を <b>こした</b> ね。",
+      "latn": "atsusa ha touge wo <b>koshita</b> ne.",
+      "en": "The worst of the heat has passed.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01861A.mp3"
+    }
+  ]
+}

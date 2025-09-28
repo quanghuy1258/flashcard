@@ -1,0 +1,26 @@
+{
+  "ja": "奥",
+  "hrkt": "おく",
+  "latn": "oku",
+  "en": "inner part, the back",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01031A.mp3",
+  "sentences": [
+    {
+      "ja": "鋏は机の<b>奥</b>にあった。",
+      "hrkt": "はさみ は つくえ の <b>おく</b> に あった。",
+      "latn": "hasami ha tsukue no <b>oku</b> ni atta.",
+      "en": "The scissors were at the back of the desk.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3267634.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01031A.mp3"
+    },
+    {
+      "ja": "部屋の<b>奥</b>に大きなクローゼットがあります。",
+      "hrkt": "へや の <b>おく</b> に おおきな クローゼット が あります。",
+      "latn": "heya no <b>oku</b> ni ookina kuro-zetto ga arimasu.",
+      "en": "There is a big closet in the back of the room.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e27fbp9d54.mp3"
+    }
+  ]
+}

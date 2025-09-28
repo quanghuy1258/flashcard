@@ -1,0 +1,18 @@
+{
+  "ja": "電報",
+  "hrkt": "でんぽう",
+  "latn": "denpou",
+  "en": "telegram",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01967A.mp3",
+  "sentences": [
+    {
+      "ja": "実家の母から<b>電報</b>がきました。",
+      "hrkt": "じっか の はは から <b>でんぽう</b> が きました。",
+      "latn": "jikka no haha kara <b>denpou</b> ga kimashita.",
+      "en": "A telegram came from my mother at home.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01967A.mp3"
+    }
+  ]
+}

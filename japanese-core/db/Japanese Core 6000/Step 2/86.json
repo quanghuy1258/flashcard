@@ -1,0 +1,18 @@
+{
+  "ja": "着席",
+  "hrkt": "ちゃくせき",
+  "latn": "chakuseki",
+  "en": "taking a seat",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02779A.mp3",
+  "sentences": [
+    {
+      "ja": "みなさん、<b>着席</b>してください。",
+      "hrkt": "みなさん、<b>ちゃくせき</b> して ください。",
+      "latn": "minasan,<b>chakuseki</b> shite kudasai.",
+      "en": "Everyone, please take your seats.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02779A.mp3"
+    }
+  ]
+}

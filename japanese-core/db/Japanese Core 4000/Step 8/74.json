@@ -1,0 +1,18 @@
+{
+  "ja": "系統",
+  "hrkt": "けいとう",
+  "latn": "keitou",
+  "en": "system, lineage",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01419A.mp3",
+  "sentences": [
+    {
+      "ja": "電気<b>系統</b>を図面で確かめました。",
+      "hrkt": "でんき <b>けいとう</b> を ずめん で たしかめました。",
+      "latn": "denki <b>keitou</b> wo zumen de tashikamemashita.",
+      "en": "I checked the electrical system on the diagram.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01419A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "証明",
+  "hrkt": "しょうめい",
+  "latn": "shoumei",
+  "en": "proof, demonstration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00480A.mp3",
+  "sentences": [
+    {
+      "ja": "容疑者のアリバイが<b>証明</b>されました。",
+      "hrkt": "ようぎしゃ の アリバイ が <b>しょうめい</b> されました。",
+      "latn": "yougisha no aribai ga <b>shoumei</b> saremashita.",
+      "en": "The suspect's alibi has been proven.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/732p8oc30k.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00480A.mp3"
+    }
+  ]
+}

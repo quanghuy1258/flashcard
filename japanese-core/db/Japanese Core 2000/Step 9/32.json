@@ -1,0 +1,26 @@
+{
+  "ja": "缶",
+  "hrkt": "かん",
+  "latn": "kan",
+  "en": "can, tin",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01871A.mp3",
+  "sentences": [
+    {
+      "ja": "コーヒーはその<b>缶</b>に入っています。",
+      "hrkt": "コーヒー は その <b>かん</b> に はいって います。",
+      "latn": "ko-hi- ha sono <b>kan</b> ni haitte imasu.",
+      "en": "The coffee is in that can.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/689367.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01871A.mp3"
+    },
+    {
+      "ja": "<b>缶</b>にあめが入っています。",
+      "hrkt": "<b>かん</b> に あめ が はいって います。",
+      "latn": "<b>kan</b> ni ame ga haitte imasu.",
+      "en": "There's some candy in the can.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2478469.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00240A.mp3"
+    }
+  ]
+}

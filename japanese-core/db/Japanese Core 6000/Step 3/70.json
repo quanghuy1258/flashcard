@@ -1,0 +1,18 @@
+{
+  "ja": "寝かせる",
+  "hrkt": "ねかせる",
+  "latn": "nekaseru",
+  "en": "put someone to bed, lay down",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03099A.mp3",
+  "sentences": [
+    {
+      "ja": "赤ちゃんをベッドに<b>寝かせた</b>。",
+      "hrkt": "あかちゃん を ベッド に <b>ねかせた</b>。",
+      "latn": "akachan wo beddo ni <b>nekaseta</b>.",
+      "en": "I laid the baby down on the bed.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03099A.mp3"
+    }
+  ]
+}

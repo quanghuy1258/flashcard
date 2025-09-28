@@ -1,0 +1,18 @@
+{
+  "ja": "カット",
+  "hrkt": "カット",
+  "latn": "katto",
+  "en": "cut (loan word)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01348A.mp3",
+  "sentences": [
+    {
+      "ja": "市長がテープを<b>カット</b>した。",
+      "hrkt": "しちょう が テープ を <b>カット</b> した。",
+      "latn": "shichou ga te-pu wo <b>katto</b> shita.",
+      "en": "The mayor cut the tape.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01348A.mp3"
+    }
+  ]
+}

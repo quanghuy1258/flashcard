@@ -1,0 +1,26 @@
+{
+  "ja": "夫",
+  "hrkt": "おっと",
+  "latn": "otto",
+  "en": "husband",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01126A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>夫</b>はサラリーマンです。",
+      "hrkt": "わたし の <b>おっと</b> は サラリーマン です。",
+      "latn": "watashi no <b>otto</b> ha sarari-man desu.",
+      "en": "My husband is a company employee.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5537869.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01126A.mp3"
+    },
+    {
+      "ja": "<b>夫</b>を「パパ」と呼ぶ女の人は少なくない。",
+      "hrkt": "<b>おっと</b> を 「 パパ 」 と よぶ おんな の ひと は すくなく ない。",
+      "latn": "<b>otto</b> wo 「 papa 」 to yobu onna no hito ha sukunaku nai.",
+      "en": "Many women call their husbands \"Dad.\"",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b39p5a3e58.mp3"
+    }
+  ]
+}

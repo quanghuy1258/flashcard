@@ -1,0 +1,18 @@
+{
+  "ja": "下",
+  "hrkt": "げ",
+  "latn": "ge",
+  "en": "lower, bottom",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03608A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の成績は上の<b>下</b>です。",
+      "hrkt": "かのじょ の せいせき は じょう の <b>げ</b> です。",
+      "latn": "kanojo no seiseki ha jou no <b>ge</b> desu.",
+      "en": "Her grades are ranked at the bottom of the top group.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03608A.mp3"
+    }
+  ]
+}

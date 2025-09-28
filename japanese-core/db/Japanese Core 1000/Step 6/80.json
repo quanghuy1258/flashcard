@@ -1,0 +1,26 @@
+{
+  "ja": "風邪薬",
+  "hrkt": "かぜぐすり",
+  "latn": "kazegusuri",
+  "en": "cold medicine",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01615A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>風邪薬</b>を飲みなさい。",
+      "hrkt": "この <b>かぜ ぐすり</b> を のみなさい。",
+      "latn": "kono <b>kaze gusuri</b> wo nominasai.",
+      "en": "Take this cold medicine.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5005868.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01615A.mp3"
+    },
+    {
+      "ja": "昨日は<b>風邪薬</b>を飲んですぐ寝ました。",
+      "hrkt": "きのう は <b>かぜ ぐすり</b> を のんで すぐ ねました。",
+      "latn": "kinou ha <b>kaze gusuri</b> wo nonde sugu nemashita.",
+      "en": "Yesterday I went to bed right after I took cold medicine.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e6c92sdnk8.mp3"
+    }
+  ]
+}

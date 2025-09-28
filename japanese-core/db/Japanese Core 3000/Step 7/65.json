@@ -1,0 +1,18 @@
+{
+  "ja": "辛い",
+  "hrkt": "つらい",
+  "latn": "tsurai",
+  "en": "hard, painstaking",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01550A.mp3",
+  "sentences": [
+    {
+      "ja": "この仕事は<b>辛い</b>です。",
+      "hrkt": "この しごと は <b>つらい</b> です。",
+      "latn": "kono shigoto ha <b>tsurai</b> desu.",
+      "en": "This work is hard.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/941d5v74io.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01550A.mp3"
+    }
+  ]
+}

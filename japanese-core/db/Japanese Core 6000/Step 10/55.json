@@ -1,0 +1,18 @@
+{
+  "ja": "神道",
+  "hrkt": "しんとう",
+  "latn": "shintou",
+  "en": "Shinto",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02870A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の家は<b>神道</b>です。",
+      "hrkt": "かのじょ の いえ は <b>しんとう</b> です。",
+      "latn": "kanojo no ie ha <b>shintou</b> desu.",
+      "en": "Her family believes in the Shinto religion.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02870A.mp3"
+    }
+  ]
+}

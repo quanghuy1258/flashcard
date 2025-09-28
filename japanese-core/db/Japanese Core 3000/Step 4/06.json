@@ -1,0 +1,18 @@
+{
+  "ja": "タレント",
+  "hrkt": "タレント",
+  "latn": "tarento",
+  "en": "celebrity, TV personality",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02247A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>タレント</b>なのでよくテレビに出ています。",
+      "hrkt": "かれ は <b>タレント</b> なので よく テレビ に でて います。",
+      "latn": "kare ha <b>tarento</b> nanode yoku terebi ni dete imasu.",
+      "en": "He's a celebrity, so he often appears on TV.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e48g606mu8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02247A.mp3"
+    }
+  ]
+}

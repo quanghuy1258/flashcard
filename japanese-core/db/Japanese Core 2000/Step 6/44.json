@@ -1,0 +1,26 @@
+{
+  "ja": "ごみ",
+  "hrkt": "ごみ",
+  "latn": "gomi",
+  "en": "trash",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03202A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>ごみ</b>の日だ。",
+      "hrkt": "きょう は <b>ごみ</b> の ひ だ。",
+      "latn": "kyou ha <b>gomi</b> no hi da.",
+      "en": "Today is the garbage day.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4160579.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03202A.mp3"
+    },
+    {
+      "ja": "<b>ごみ</b>はそこの角に出してください。",
+      "hrkt": "<b>ごみ</b> は そこ の かど に だして ください。",
+      "latn": "<b>gomi</b> ha soko no kado ni dashite kudasai.",
+      "en": "Please take garbage to the corner there.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b44f69bc94.mp3"
+    }
+  ]
+}

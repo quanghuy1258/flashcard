@@ -1,0 +1,18 @@
+{
+  "ja": "国旗",
+  "hrkt": "こっき",
+  "latn": "kokki",
+  "en": "national flag",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01630A.mp3",
+  "sentences": [
+    {
+      "ja": "日本の<b>国旗</b>は描くのが簡単です。",
+      "hrkt": "にっぽん の <b>こっき</b> は かく の が かんたん です。",
+      "latn": "nippon no <b>kokki</b> ha kaku no ga kantan desu.",
+      "en": "Drawing the national flag of Japan is easy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01630A.mp3"
+    }
+  ]
+}

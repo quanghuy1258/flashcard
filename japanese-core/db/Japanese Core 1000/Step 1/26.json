@@ -1,0 +1,26 @@
+{
+  "ja": "言う",
+  "hrkt": "いう",
+  "latn": "iu",
+  "en": "say, tell",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00352A.mp3",
+  "sentences": [
+    {
+      "ja": "上司が「一杯、飲もう」と<b>言った</b>。",
+      "hrkt": "じょうし が 「いっぱい のもう」 と <b>いった</b>。",
+      "latn": "joushi ga 「ippai nomou」 to <b>itta</b>.",
+      "en": "My boss said: \"Let's have a drink.\"",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5390906.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00352A.mp3"
+    },
+    {
+      "ja": "彼はまた電話すると<b>言いました</b>。",
+      "hrkt": "かれ は また でんわ する と <b>いいました</b>。",
+      "latn": "kare ha mata denwa suru to <b>iimashita</b>.",
+      "en": "He said he'd call again.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/854bfcedv4.mp3"
+    }
+  ]
+}

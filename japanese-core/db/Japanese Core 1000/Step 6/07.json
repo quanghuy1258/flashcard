@@ -1,0 +1,26 @@
+{
+  "ja": "寿司",
+  "hrkt": "すし",
+  "latn": "sushi",
+  "en": "sushi",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04561A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>寿司</b>を初めて食べました。",
+      "hrkt": "かのじょ は <b>すし</b> を はじめて たべました。",
+      "latn": "kanojo ha <b>sushi</b> wo hajimete tabemashita.",
+      "en": "She ate sushi for the first time.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2078671.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04561A.mp3"
+    },
+    {
+      "ja": "昼食に<b>寿司</b>を食べました。",
+      "hrkt": "ちゅうしょく に <b>すし</b> を たべました。",
+      "latn": "chuushoku ni <b>sushi</b> wo tabemashita.",
+      "en": "I ate sushi for lunch.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4248688.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05668A.mp3"
+    }
+  ]
+}

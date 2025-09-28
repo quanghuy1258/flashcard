@@ -1,0 +1,18 @@
+{
+  "ja": "受話器",
+  "hrkt": "じゅわき",
+  "latn": "juwaki",
+  "en": "telephone receiver",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02414A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>受話器</b>を取ってもらえますか。",
+      "hrkt": "<b>じゅわき</b> を とって もらえます か。",
+      "latn": "<b>juwaki</b> wo totte moraemasu ka.",
+      "en": "Could you hand me the receiver?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02414A.mp3"
+    }
+  ]
+}

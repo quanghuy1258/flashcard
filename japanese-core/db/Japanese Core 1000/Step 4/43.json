@@ -1,0 +1,26 @@
+{
+  "ja": "大人",
+  "hrkt": "おとな",
+  "latn": "otona",
+  "en": "adult",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01148A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>大人</b>の言うことを聞きなさい。",
+      "hrkt": "<b>おとな</b> の いう こと を ききなさい。",
+      "latn": "<b>otona</b> no iu koto wo kikinasai.",
+      "en": "Listen to what adults say.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/657u9pe1b4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f52u1p91i0.mp3"
+    },
+    {
+      "ja": "お酒は<b>大人</b>になってから。",
+      "hrkt": "おさけ は <b>おとな</b> に なって から。",
+      "latn": "osake ha <b>otona</b> ni natte kara.",
+      "en": "You can drink alcohol when you're an adult.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4271266.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01148A.mp3"
+    }
+  ]
+}

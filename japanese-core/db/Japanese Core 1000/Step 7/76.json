@@ -1,0 +1,26 @@
+{
+  "ja": "自宅",
+  "hrkt": "じたく",
+  "latn": "jitaku",
+  "en": "one's house, one's home",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03729A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>自宅</b>に電話をください。",
+      "hrkt": "<b>じたく</b> に でんわ を ください。",
+      "latn": "<b>jitaku</b> ni denwa wo kudasai.",
+      "en": "Please call me at home.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5591430.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03729A.mp3"
+    },
+    {
+      "ja": "ご<b>自宅</b>はどちらですか。",
+      "hrkt": "ご<b>じたく</b> は どちら です か。",
+      "latn": "go<b>jitaku</b> ha dochira desu ka.",
+      "en": "Where is your house?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d48i1f73pc.mp3"
+    }
+  ]
+}

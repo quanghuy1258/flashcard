@@ -1,0 +1,18 @@
+{
+  "ja": "のろい",
+  "hrkt": "のろい",
+  "latn": "noroi",
+  "en": "slow, sluggish",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03245A.mp3",
+  "sentences": [
+    {
+      "ja": "この電車は本当に<b>のろい</b>ですね。",
+      "hrkt": "この でんしゃ は ほんとう に <b>のろい</b> です ね。",
+      "latn": "kono densha ha hontou ni <b>noroi</b> desu ne.",
+      "en": "This train is really slow.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03245A.mp3"
+    }
+  ]
+}

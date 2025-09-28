@@ -1,0 +1,26 @@
+{
+  "ja": "洗濯機",
+  "hrkt": "せんたくき",
+  "latn": "sentakuki",
+  "en": "washing machine, washer",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04906A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>洗濯機</b>を買いました。",
+      "hrkt": "あたらしい <b>せんたくき</b> を かいました。",
+      "latn": "atarashii <b>sentakuki</b> wo kaimashita.",
+      "en": "I bought a new washing machine.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2271138.jpg",
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/742c61fg1g.mp3"
+    },
+    {
+      "ja": "汚れた服は<b>洗濯機</b>に入れましたよ。",
+      "hrkt": "よごれた ふく は <b>せんたくき</b> に いれました よ。",
+      "latn": "yogoreta fuku ha <b>sentakuki</b> ni iremashita yo.",
+      "en": "I put dirty clothes in the washing machine.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/446dd980t4.mp3"
+    }
+  ]
+}

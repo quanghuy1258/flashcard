@@ -1,0 +1,18 @@
+{
+  "ja": "援助",
+  "hrkt": "えんじょ",
+  "latn": "enjo",
+  "en": "aid, assistance",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00925A.mp3",
+  "sentences": [
+    {
+      "ja": "その国には物資の<b>援助</b>が必要です。",
+      "hrkt": "その くに に は ぶっし の <b>えんじょ</b> が ひつよう です。",
+      "latn": "sono kuni ni ha busshi no <b>enjo</b> ga hitsuyou desu.",
+      "en": "The country needs material aid.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/84ft2eb6r8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00925A.mp3"
+    }
+  ]
+}

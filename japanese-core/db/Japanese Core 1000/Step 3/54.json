@@ -1,0 +1,26 @@
+{
+  "ja": "上る",
+  "hrkt": "のぼる",
+  "latn": "noboru",
+  "en": "go up, climb",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07109A.mp3",
+  "sentences": [
+    {
+      "ja": "ネコが屋根に<b>上って</b>いる。",
+      "hrkt": "ネコ が やね に <b>のぼって</b> いる。",
+      "latn": "neko ga yane ni <b>nobotte</b> iru.",
+      "en": "The cat's up on the roof.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2946225.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07109A.mp3"
+    },
+    {
+      "ja": "日は東から<b>上ります</b>。",
+      "hrkt": "ひ は ひがし から <b>のぼります</b>。",
+      "latn": "hi ha higashi kara <b>noborimasu</b>.",
+      "en": "The sun rises in the east.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4139892.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07618A.mp3"
+    }
+  ]
+}

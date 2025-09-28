@@ -1,0 +1,18 @@
+{
+  "ja": "加わる",
+  "hrkt": "くわわる",
+  "latn": "kuwawaru",
+  "en": "join in",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00161A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちのチームに彼が<b>加わった</b>。",
+      "hrkt": "わたし たち の チーム に かれ が  <b>くわわった</b>。",
+      "latn": "watashi tachi no chi-mu ni kare ga  <b>kuwawatta</b>.",
+      "en": "He joined our team.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00161A.mp3"
+    }
+  ]
+}

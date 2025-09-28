@@ -1,0 +1,26 @@
+{
+  "ja": "石",
+  "hrkt": "いし",
+  "latn": "ishi",
+  "en": "stone, small rock",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00421A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>石</b>につまずいた。",
+      "hrkt": "わたし は <b>いし</b> に つまずいた。",
+      "latn": "watashi ha <b>ishi</b> ni tsumazuita.",
+      "en": "I tripped on a stone.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4220420.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00421A.mp3"
+    },
+    {
+      "ja": "男の子が川に<b>石</b>を投げています。",
+      "hrkt": "おとこ の こ が かわ に <b>いし</b> を なげて います。",
+      "latn": "otoko no ko ga kawa ni <b>ishi</b> wo nagete imasu.",
+      "en": "A boy is throwing a rock in the river.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e320f516cg.mp3"
+    }
+  ]
+}

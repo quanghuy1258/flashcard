@@ -1,0 +1,26 @@
+{
+  "ja": "曲がり角",
+  "hrkt": "まがりかど",
+  "latn": "magarikado",
+  "en": "corner (to turn)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08662A.mp3",
+  "sentences": [
+    {
+      "ja": "ポストはそこの<b>曲がり角</b>にあります。",
+      "hrkt": "ポスト は そこ の <b>まがりかど</b> に あります。",
+      "latn": "posuto ha soko no <b>magarikado</b> ni arimasu.",
+      "en": "There's a post box on that corner.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4790187.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08662A.mp3"
+    },
+    {
+      "ja": "そこの<b>曲がり角</b>で事故があった。",
+      "hrkt": "そこ の <b>まがりかど</b> で じこ が あった。",
+      "latn": "soko no <b>magarikado</b> de jiko ga atta.",
+      "en": "There was an accident at the corner there.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/334s307gcs.mp3"
+    }
+  ]
+}

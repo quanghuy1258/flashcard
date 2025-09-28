@@ -1,0 +1,18 @@
+{
+  "ja": "ジーパン",
+  "hrkt": "ジーパン",
+  "latn": "ji-pan",
+  "en": "jeans",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02477A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はいつも<b>ジーパン</b>をはいているね。",
+      "hrkt": "かれ は いつも <b>ジーパン</b> を はいて いる ね。",
+      "latn": "kare ha itsumo <b>ji-pan</b> wo haite iru ne.",
+      "en": "He always wears jeans.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02477A.mp3"
+    }
+  ]
+}

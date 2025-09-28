@@ -1,0 +1,18 @@
+{
+  "ja": "合わす",
+  "hrkt": "あわす",
+  "latn": "awasu",
+  "en": "match, combine",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02370A.mp3",
+  "sentences": [
+    {
+      "ja": "赤に黄色を<b>合わす</b>と何色になりますか。",
+      "hrkt": "あか に きいろ を <b>あわす</b>と なに いろ に なります か。",
+      "latn": "aka ni kiiro wo <b>awasu</b>to nani iro ni narimasu ka.",
+      "en": "What color do you get when you add yellow to red?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02370A.mp3"
+    }
+  ]
+}

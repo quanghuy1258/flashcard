@@ -1,0 +1,18 @@
+{
+  "ja": "いらっしゃる",
+  "hrkt": "いらっしゃる",
+  "latn": "irassharu",
+  "en": "come, go (honorific)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02905A.mp3",
+  "sentences": [
+    {
+      "ja": "お客様が<b>いらっしゃいました</b>。",
+      "hrkt": "おきゃくさま が <b>いらっしゃいました</b> 。",
+      "latn": "okyakusama ga <b>irasshaimashita</b> .",
+      "en": "Your guest has arrived.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/149b05flm8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02905A.mp3"
+    }
+  ]
+}

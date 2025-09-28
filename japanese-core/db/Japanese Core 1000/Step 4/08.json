@@ -1,0 +1,26 @@
+{
+  "ja": "前",
+  "hrkt": "まえ",
+  "latn": "mae",
+  "en": "front, before",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08647A.mp3",
+  "sentences": [
+    {
+      "ja": "その店の<b>前</b>で会いましょう。",
+      "hrkt": "その みせ の <b>まえ</b> で あいましょう。",
+      "latn": "sono mise no <b>mae</b> de aimashou.",
+      "en": "Let's meet in front of the store.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1567708.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08647A.mp3"
+    },
+    {
+      "ja": "<b>前</b>の車はとても遅い。",
+      "hrkt": "<b>まえ</b> の くるま は とても おそい。",
+      "latn": "<b>mae</b> no kuruma ha totemo osoi.",
+      "en": "The car in front is very slow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4578294.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01101A.mp3"
+    }
+  ]
+}

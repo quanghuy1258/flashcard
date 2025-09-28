@@ -1,0 +1,18 @@
+{
+  "ja": "バック",
+  "hrkt": "バック",
+  "latn": "bakku",
+  "en": "back, reverse",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02200A.mp3",
+  "sentences": [
+    {
+      "ja": "車のギアを<b>バック</b>に入れたよ。",
+      "hrkt": "くるま の ギア を <b>バック</b> に いれた よ。",
+      "latn": "kuruma no gia wo <b>bakku</b> ni ireta yo.",
+      "en": "I put the car into reverse gear.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/053g031ek4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02200A.mp3"
+    }
+  ]
+}

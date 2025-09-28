@@ -1,0 +1,26 @@
+{
+  "ja": "豆腐",
+  "hrkt": "とうふ",
+  "latn": "toufu",
+  "en": "tofu",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06308A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎日<b>豆腐</b>を食べます。",
+      "hrkt": "わたし は まいにち <b>とうふ</b> を たべます。",
+      "latn": "watashi ha mainichi <b>toufu</b> wo tabemasu.",
+      "en": "I eat tofu every day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1383272.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06308A.mp3"
+    },
+    {
+      "ja": "私は<b>豆腐</b>にしょうゆをかけて食べます。",
+      "hrkt": "わたし は <b>とうふ</b> に しょうゆ を かけて たべます。",
+      "latn": "watashi ha <b>toufu</b> ni shouyu wo kakete tabemasu.",
+      "en": "I pour soy sauce on tofu.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/159n4ubuv0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "運ぶ",
+  "hrkt": "はこぶ",
+  "latn": "hakobu",
+  "en": "carry, transport",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07283A.mp3",
+  "sentences": [
+    {
+      "ja": "いすを2階に<b>運んで</b>ください。",
+      "hrkt": "いす を 2 かい に <b>はこんで</b> ください。",
+      "latn": "isu wo 2 kai ni <b>hakonde</b> kudasai.",
+      "en": "Please carry the chair to the second floor.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5764504.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07283A.mp3"
+    },
+    {
+      "ja": "ウェーターが水を<b>運んで</b>きました。",
+      "hrkt": "ウェーター が みず を <b>はこんで</b> きました。",
+      "latn": "we-ta- ga mizu wo <b>hakonde</b> kimashita.",
+      "en": "The waiter brought some water.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5940714.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00651A.mp3"
+    }
+  ]
+}

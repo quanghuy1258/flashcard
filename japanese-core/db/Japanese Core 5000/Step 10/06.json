@@ -1,0 +1,18 @@
+{
+  "ja": "扉",
+  "hrkt": "とびら",
+  "latn": "tobira",
+  "en": "hinged door",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01605A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>扉</b>を開けた。",
+      "hrkt": "かれ は <b>とびら</b> を あけた。",
+      "latn": "kare ha <b>tobira</b> wo aketa.",
+      "en": "He opened the hinged door.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/bl7adt1ffo1cs.mp3"
+    }
+  ]
+}

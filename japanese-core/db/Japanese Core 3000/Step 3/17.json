@@ -1,0 +1,18 @@
+{
+  "ja": "戸棚",
+  "hrkt": "とだな",
+  "latn": "todana",
+  "en": "cupboard",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03154A.mp3",
+  "sentences": [
+    {
+      "ja": "この皿を<b>戸棚</b>にしまってください。",
+      "hrkt": "この さら を <b>とだな</b> に しまって ください。",
+      "latn": "kono sara wo <b>todana</b> ni shimatte kudasai.",
+      "en": "Please put away this plate in the cupboard.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/7527930hq4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03154A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "香り",
+  "hrkt": "かおり",
+  "latn": "kaori",
+  "en": "fragrance",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01097A.mp3",
+  "sentences": [
+    {
+      "ja": "この花はいい<b>香り</b>がしますね。",
+      "hrkt": "この はな は いい <b>かおり</b> が します ね。",
+      "latn": "kono hana ha ii <b>kaori</b> ga shimasu ne.",
+      "en": "This flower smells good.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01097A.mp3"
+    }
+  ]
+}

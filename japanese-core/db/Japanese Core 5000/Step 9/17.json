@@ -1,0 +1,18 @@
+{
+  "ja": "殺人",
+  "hrkt": "さつじん",
+  "latn": "satsujin",
+  "en": "murder, homicide",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00997A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>殺人</b>事件は白昼に起こったんだ。",
+      "hrkt": "その <b>さつじん</b> じけん は はくちゅう に おこった ん だ。",
+      "latn": "sono <b>satsujin</b> jiken ha hakuchuu ni okotta n da.",
+      "en": "The murder was committed during daylight.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00997A.mp3"
+    }
+  ]
+}

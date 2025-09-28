@@ -1,0 +1,26 @@
+{
+  "ja": "上がる",
+  "hrkt": "あがる",
+  "latn": "agaru",
+  "en": "go up, rise (physical movement)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00051A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは2階に<b>上がった</b>。",
+      "hrkt": "わたし たち は 2 かい に <b>あがった</b>。",
+      "latn": "watashi tachi ha 2 kai ni <b>agatta</b>.",
+      "en": "We went up to the second floor.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/1lek483nlefsc.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00051A.mp3"
+    },
+    {
+      "ja": "レタスの値段がまた<b>上がりました</b>。",
+      "hrkt": "レタス の ねだん が また <b>あがりました</b>。",
+      "latn": "retasu no nedan ga mata <b>agarimashita</b>.",
+      "en": "The price of lettuce has gone up again.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d56b4t73ec.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "かかと",
+  "hrkt": "かかと",
+  "latn": "kakato",
+  "en": "heel",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03568A.mp3",
+  "sentences": [
+    {
+      "ja": "靴の<b>かかと</b>で彼の足を踏んでしまったの。",
+      "hrkt": "くつ の <b>かかと</b> で かれ の あし を ふんで しまった の。",
+      "latn": "kutsu no <b>kakato</b> de kare no ashi wo funde shimatta no.",
+      "en": "I stepped on his foot with the heel of my shoe.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/24bn52apks.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03568A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "真ん中",
+  "hrkt": "まんなか",
+  "latn": "mannaka",
+  "en": "center, middle (casual)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08832A.mp3",
+  "sentences": [
+    {
+      "ja": "道の<b>真ん中</b>に人が立っている。",
+      "hrkt": "みち の <b>まんなか</b> に ひと が たって いる。",
+      "latn": "michi no <b>mannaka</b> ni hito ga tatte iru.",
+      "en": "Someone is standing in the middle of the road.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4511168.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08832A.mp3"
+    },
+    {
+      "ja": "私は三人兄弟の<b>真ん中</b>です。",
+      "hrkt": "わたし は さん にん きょうだい の <b>まんなか</b> です。",
+      "latn": "watashi ha san nin kyoudai no <b>mannaka</b> desu.",
+      "en": "I'm the middle of three brothers.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/14ab6h58sc.mp3"
+    }
+  ]
+}

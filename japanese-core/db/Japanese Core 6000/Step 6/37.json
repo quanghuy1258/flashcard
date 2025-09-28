@@ -1,0 +1,18 @@
+{
+  "ja": "チキン",
+  "hrkt": "チキン",
+  "latn": "chikin",
+  "en": "chicken",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03456A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>チキン</b>ソテーは私の大好物です。",
+      "hrkt": "<b>チキン</b> ソテー は わたし の だい こうぶつ です。",
+      "latn": "<b>chikin</b> sote- ha watashi no dai koubutsu desu.",
+      "en": "Chicken saute is my favorite dish.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03456A.mp3"
+    }
+  ]
+}

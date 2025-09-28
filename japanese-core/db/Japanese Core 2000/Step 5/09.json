@@ -1,0 +1,26 @@
+{
+  "ja": "嘘",
+  "hrkt": "うそ",
+  "latn": "uso",
+  "en": "lie",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00699A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>嘘</b>をついてはいけません。",
+      "hrkt": "<b>うそ</b> を ついて は いけません。",
+      "latn": "<b>uso</b> wo tsuite ha ikemasen.",
+      "en": "Do not lie.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4601682.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00699A.mp3"
+    },
+    {
+      "ja": "彼女が<b>嘘</b>をついたので、彼は怒った。",
+      "hrkt": "かのじょ が <b>うそ</b> を ついた ので、 かれ は おこった。",
+      "latn": "kanojo ga <b>uso</b> wo tsuita node, kare ha okotta.",
+      "en": "He was angry because she lied to him.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3484028.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01054A.mp3"
+    }
+  ]
+}

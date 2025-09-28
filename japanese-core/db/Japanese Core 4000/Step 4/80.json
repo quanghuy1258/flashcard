@@ -1,0 +1,18 @@
+{
+  "ja": "苦しむ",
+  "hrkt": "くるしむ",
+  "latn": "kurushimu",
+  "en": "suffer",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01175A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はアレルギーに<b>苦しんで</b>います。",
+      "hrkt": "かのじょ は アレルギー に <b>くるしんで</b> います。",
+      "latn": "kanojo ha arerugi- ni <b>kurushinde</b> imasu.",
+      "en": "She suffers from an allergy.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01175A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "取れる",
+  "hrkt": "とれる",
+  "latn": "toreru",
+  "en": "come off, be removed",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06576A.mp3",
+  "sentences": [
+    {
+      "ja": "シャツのボタンが<b>取れた</b>。",
+      "hrkt": "シャツ の ボタン が <b>とれた</b>。",
+      "latn": "shatsu no botan ga <b>toreta</b>.",
+      "en": "My shirt button came off.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4272020.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06576A.mp3"
+    },
+    {
+      "ja": "コーヒーの染みがやっと<b>取れました</b>。",
+      "hrkt": "コーヒー の しみ が やっと <b>とれました</b>。",
+      "latn": "ko-hi- no shimi ga yatto <b>toremashita</b>.",
+      "en": "The coffee stain has finally come off.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/533d5g59ac.mp3"
+    }
+  ]
+}

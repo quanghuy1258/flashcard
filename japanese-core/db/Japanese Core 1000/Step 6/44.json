@@ -1,0 +1,26 @@
+{
+  "ja": "賑やか",
+  "hrkt": "にぎやか",
+  "latn": "nigiyaka",
+  "en": "lively, exciting",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06809A.mp3",
+  "sentences": [
+    {
+      "ja": "浅草は<b>賑やか</b>な街です。",
+      "hrkt": "あさくさ は <b>にぎやか</b>な まち です。",
+      "latn": "asakusa ha <b>nigiyaka</b>na machi desu.",
+      "en": "Asakusa is a lively district.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1104204.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06809A.mp3"
+    },
+    {
+      "ja": "ここはいつも<b>賑やか</b>です。",
+      "hrkt": "ここ は いつも <b>にぎやか</b> です。",
+      "latn": "koko ha itsumo <b>nigiyaka</b> desu.",
+      "en": "It's always lively here.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b52bd7169g.mp3"
+    }
+  ]
+}

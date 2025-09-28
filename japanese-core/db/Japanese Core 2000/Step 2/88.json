@@ -1,0 +1,26 @@
+{
+  "ja": "祭り",
+  "hrkt": "まつり",
+  "latn": "matsuri",
+  "en": "festival",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08761A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>祭り</b>が大好きです。",
+      "hrkt": "かのじょ は <b>まつり</b> が だいすき です。",
+      "latn": "kanojo ha <b>matsuri</b> ga daisuki desu.",
+      "en": "She loves festivals.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5938237.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08761A.mp3"
+    },
+    {
+      "ja": "5月に浅草でとても有名なお<b>祭り</b>があります。",
+      "hrkt": "5 がつ に あさくさ で とても ゆうめいな お<b>まつり</b> が あります。",
+      "latn": "5 gatsu ni asakusa de totemo yuumeina o<b>matsuri</b> ga arimasu.",
+      "en": "In May a very famous festival takes place in Asakusa.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c27kehdork.mp3"
+    }
+  ]
+}

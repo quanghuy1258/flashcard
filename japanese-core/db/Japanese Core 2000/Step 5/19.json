@@ -1,0 +1,26 @@
+{
+  "ja": "お嬢さん",
+  "hrkt": "おじょうさん",
+  "latn": "ojousan",
+  "en": "young lady, daughter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01090A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>お嬢さん</b>はおいくつですか。",
+      "hrkt": "<b>おじょうさん</b> は おいくつ です か。",
+      "latn": "<b>ojousan</b> ha oikutsu desu ka.",
+      "en": "How old is your daughter?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3351965.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01090A.mp3"
+    },
+    {
+      "ja": "彼は<b>お嬢さん</b>と一緒でした。",
+      "hrkt": "かれ は <b>おじょうさん</b> と いっしょ でした。",
+      "latn": "kare ha <b>ojousan</b> to issho deshita.",
+      "en": "He was with his daughter.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/e672es3bdc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02209A.mp3"
+    }
+  ]
+}

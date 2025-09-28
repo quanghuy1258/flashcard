@@ -1,0 +1,26 @@
+{
+  "ja": "数",
+  "hrkt": "かず",
+  "latn": "kazu",
+  "en": "number",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01604A.mp3",
+  "sentences": [
+    {
+      "ja": "グラスの<b>数</b>が足りません。",
+      "hrkt": "グラス の <b>かず</b> が たりません。",
+      "latn": "gurasu no <b>kazu</b> ga tarimasen.",
+      "en": "We don't have enough number of glasses.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5253521.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01604A.mp3"
+    },
+    {
+      "ja": "いすの<b>数</b>を数えてください。",
+      "hrkt": "いす の <b>かず</b> を かぞえて ください。",
+      "latn": "isu no <b>kazu</b> wo kazoete kudasai.",
+      "en": "Please count the number of chairs.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5853332.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01622A.mp3"
+    }
+  ]
+}

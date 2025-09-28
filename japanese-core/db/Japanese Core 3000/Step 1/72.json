@@ -1,0 +1,18 @@
+{
+  "ja": "伴う",
+  "hrkt": "ともなう",
+  "latn": "tomonau",
+  "en": "accompany, entail",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06518A.mp3",
+  "sentences": [
+    {
+      "ja": "その仕事は危険を<b>伴う</b>。",
+      "hrkt": "その しごと は きけん を <b>ともなう</b>。",
+      "latn": "sono shigoto ha kiken wo <b>tomonau</b>.",
+      "en": "The job entails danger.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/96044heso8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06518A.mp3"
+    }
+  ]
+}

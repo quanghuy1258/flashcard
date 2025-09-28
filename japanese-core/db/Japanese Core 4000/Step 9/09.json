@@ -1,0 +1,18 @@
+{
+  "ja": "行列",
+  "hrkt": "ぎょうれつ",
+  "latn": "gyouretsu",
+  "en": "queue, line",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00977A.mp3",
+  "sentences": [
+    {
+      "ja": "店の前に長い<b>行列</b>ができていますよ。",
+      "hrkt": "みせ の まえ に ながい <b>ぎょうれつ</b> が できて います よ。",
+      "latn": "mise no mae ni nagai <b>gyouretsu</b> ga dekite imasu yo.",
+      "en": "There is a long line in front of the shop.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00977A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "話し声",
+  "hrkt": "はなしごえ",
+  "latn": "hanashigoe",
+  "en": "talking voice",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02837A.mp3",
+  "sentences": [
+    {
+      "ja": "隣の部屋から<b>話し声</b>が聞こえます。",
+      "hrkt": "となり の へや から <b>はなしごえ</b> が きこえます。",
+      "latn": "tonari no heya kara <b>hanashigoe</b> ga kikoemasu.",
+      "en": "I can hear voices coming from the room next door.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/250r5kebck.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02837A.mp3"
+    }
+  ]
+}

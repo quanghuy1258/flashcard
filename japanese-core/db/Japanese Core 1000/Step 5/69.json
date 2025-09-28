@@ -1,0 +1,26 @@
+{
+  "ja": "青い",
+  "hrkt": "あおい",
+  "latn": "aoi",
+  "en": "blue",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00034A.mp3",
+  "sentences": [
+    {
+      "ja": "ここの海はとても<b>青い</b>。",
+      "hrkt": "ここ の うみ は とても <b>あおい</b>。",
+      "latn": "koko no umi ha totemo <b>aoi</b>.",
+      "en": "The sea here is very blue.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5274210.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00034A.mp3"
+    },
+    {
+      "ja": "彼女は<b>青い</b>目をしています。",
+      "hrkt": "かのじょ は <b>あおい</b> め を して います。",
+      "latn": "kanojo ha <b>aoi</b> me wo shite imasu.",
+      "en": "She has blue eyes.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4059327.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09133A.mp3"
+    }
+  ]
+}

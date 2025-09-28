@@ -1,0 +1,18 @@
+{
+  "ja": "北西",
+  "hrkt": "ほくせい",
+  "latn": "hokusei",
+  "en": "northwest",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01823A.mp3",
+  "sentences": [
+    {
+      "ja": "台風は<b>北西</b>に進んでいます。",
+      "hrkt": "たいふう は <b>ほくせい</b> に すすんで います。",
+      "latn": "taifuu ha <b>hokusei</b> ni susunde imasu.",
+      "en": "The typhoon is advancing toward the northwest.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01823A.mp3"
+    }
+  ]
+}

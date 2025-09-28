@@ -1,0 +1,26 @@
+{
+  "ja": "ノート",
+  "hrkt": "ノート",
+  "latn": "no-to",
+  "en": "notebook (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07071A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ノート</b>を開いてください。",
+      "hrkt": "<b>ノート</b> を ひらいて ください。",
+      "latn": "<b>no-to</b> wo hiraite kudasai.",
+      "en": "Please open your notebook.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2221914.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07071A.mp3"
+    },
+    {
+      "ja": "大切なことは<b>ノート</b>に書いてください。",
+      "hrkt": "たいせつな こと は <b>ノート</b> に かいて ください。",
+      "latn": "taisetsuna koto ha <b>no-to</b> ni kaite kudasai.",
+      "en": "Please write down important things in your notebook.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/063b254fr8.mp3"
+    }
+  ]
+}

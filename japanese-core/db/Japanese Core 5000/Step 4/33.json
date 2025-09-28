@@ -1,0 +1,18 @@
+{
+  "ja": "毛糸",
+  "hrkt": "けいと",
+  "latn": "keito",
+  "en": "woolen yarn, wool",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02555A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>毛糸</b>のセーターを編みました。",
+      "hrkt": "かのじょ は <b>けいと</b> の セーター を あみました。",
+      "latn": "kanojo ha <b>keito</b> no se-ta- wo amimashita.",
+      "en": "She knitted a woolen sweater.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02555A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "抑える",
+  "hrkt": "おさえる",
+  "latn": "osaeru",
+  "en": "suppress, bring under control",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00440A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は怒りを<b>抑えて</b>いたの。",
+      "hrkt": "かれ は いかり を <b>おさえて</b> いた の。",
+      "latn": "kare ha ikari wo <b>osaete</b> ita no.",
+      "en": "He was suppressing his anger.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00440A.mp3"
+    }
+  ]
+}

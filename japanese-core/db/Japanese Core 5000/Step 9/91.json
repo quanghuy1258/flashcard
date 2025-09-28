@@ -1,0 +1,26 @@
+{
+  "ja": "無線",
+  "hrkt": "むせん",
+  "latn": "musen",
+  "en": "wireless, radio",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01170A.mp3",
+  "sentences": [
+    {
+      "ja": "運転手が<b>無線</b>で話していた。",
+      "hrkt": "うんてん しゅ が <b>むせん</b> で はなして いた。",
+      "latn": "unten shu ga <b>musen</b> de hanashite ita.",
+      "en": "The driver was talking on the radio.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/cl9g609654qmo.mp3"
+    },
+    {
+      "ja": "タクシーの運転手が<b>無線</b>で話していた。",
+      "hrkt": "タクシー の うんてんしゅ が <b>むせん</b> で はなして いた。",
+      "latn": "takushi- no untenshu ga <b>musen</b> de hanashite ita.",
+      "en": "The taxi driver was talking on the radio.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/055bdm4t94.mp3"
+    }
+  ]
+}

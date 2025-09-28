@@ -1,0 +1,26 @@
+{
+  "ja": "迷う",
+  "hrkt": "まよう",
+  "latn": "mayou",
+  "en": "get lost",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08802A.mp3",
+  "sentences": [
+    {
+      "ja": "道に<b>迷いました</b>。",
+      "hrkt": "みち に <b>まよいました</b>。",
+      "latn": "michi ni <b>mayoimashita</b>.",
+      "en": "I'm lost.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5404181.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08802A.mp3"
+    },
+    {
+      "ja": "途中で<b>迷って</b>遅くなってしまいました。",
+      "hrkt": "とちゅう で <b>まよって</b> おそく なって しまいました。",
+      "latn": "tochuu de <b>mayotte</b> osoku natte shimaimashita.",
+      "en": "I was late because I got lost on the way.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a32ld73nbs.mp3"
+    }
+  ]
+}

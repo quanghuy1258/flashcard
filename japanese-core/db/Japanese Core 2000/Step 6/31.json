@@ -1,0 +1,26 @@
+{
+  "ja": "ライター",
+  "hrkt": "ライター",
+  "latn": "raita-",
+  "en": "lighter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09767A.mp3",
+  "sentences": [
+    {
+      "ja": "店に<b>ライター</b>を忘れました。",
+      "hrkt": "みせ に <b>ライター</b> を わすれました。",
+      "latn": "mise ni <b>raita-</b> wo wasuremashita.",
+      "en": "I forgot my lighter at the shop.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4566934.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09767A.mp3"
+    },
+    {
+      "ja": "<b>ライター</b>を貸してもらえますか。",
+      "hrkt": "<b>ライター</b> を かして もらえます か。",
+      "latn": "<b>raita-</b> wo kashite moraemasu ka.",
+      "en": "Can I borrow your lighter?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/456ueg2llg.mp3"
+    }
+  ]
+}

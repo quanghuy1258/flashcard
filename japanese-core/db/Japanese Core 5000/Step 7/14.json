@@ -1,0 +1,18 @@
+{
+  "ja": "一口",
+  "hrkt": "ひとくち",
+  "latn": "hitokuchi",
+  "en": "mouthful, bite",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02534A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はおまんじゅうを<b>一口</b>で食べたの。",
+      "hrkt": "かれ は おまんじゅう を <b>ひとくち</b> で たべた の。",
+      "latn": "kare ha omanjuu wo <b>hitokuchi</b> de tabeta no.",
+      "en": "He ate the sweet bun in one bite.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02534A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "市場",
+  "hrkt": "いちば",
+  "latn": "ichiba",
+  "en": "marketplace (selling groceries)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01433A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>市場</b>で新鮮な魚を買ってきました。",
+      "hrkt": "<b>いちば</b> で しんせんな さかな を かって きました。",
+      "latn": "<b>ichiba</b> de shinsenna sakana wo katte kimashita.",
+      "en": "I bought some fresh fish at the marketplace.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01433A.mp3"
+    }
+  ]
+}

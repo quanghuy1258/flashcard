@@ -1,0 +1,26 @@
+{
+  "ja": "皆さん",
+  "hrkt": "みなさん",
+  "latn": "minasan",
+  "en": "everybody, everyone (polite)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08961A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>皆さん</b>にお話があります。",
+      "hrkt": "<b>みなさん</b> に おはなし が あります。",
+      "latn": "<b>minasan</b> ni ohanashi ga arimasu.",
+      "en": "I have something to say to you all.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4755162.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08961A.mp3"
+    },
+    {
+      "ja": "<b>皆さん</b>、静かにしてください。",
+      "hrkt": "<b>みなさん</b>、しずか に して ください。",
+      "latn": "<b>minasan</b>,shizuka ni shite kudasai.",
+      "en": "Everybody, please be quiet.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/0436bib9kg.mp3"
+    }
+  ]
+}

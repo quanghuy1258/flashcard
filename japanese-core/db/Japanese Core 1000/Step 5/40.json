@@ -1,0 +1,26 @@
+{
+  "ja": "家族",
+  "hrkt": "かぞく",
+  "latn": "kazoku",
+  "en": "family, household",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01624A.mp3",
+  "sentences": [
+    {
+      "ja": "うちは五人<b>家族</b>です。",
+      "hrkt": "うち は ご にん <b>かぞく</b> です。",
+      "latn": "uchi ha go nin <b>kazoku</b> desu.",
+      "en": "We're a family of five.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3499657.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01624A.mp3"
+    },
+    {
+      "ja": "私は<b>家族</b>を愛しています。",
+      "hrkt": "わたし は <b>かぞく</b> を あいして います。",
+      "latn": "watashi ha <b>kazoku</b> wo aishite imasu.",
+      "en": "I love my family.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4514510.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00011A.mp3"
+    }
+  ]
+}

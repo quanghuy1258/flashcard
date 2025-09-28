@@ -1,0 +1,26 @@
+{
+  "ja": "買う",
+  "hrkt": "かう",
+  "latn": "kau",
+  "en": "buy",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01429A.mp3",
+  "sentences": [
+    {
+      "ja": "郵便局で切手を<b>買いました</b>。",
+      "hrkt": "ゆうびんきょく で きって を <b>かいました</b>。",
+      "latn": "yuubinkyoku de kitte wo <b>kaimashita</b>.",
+      "en": "I bought a stamp at the post office.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5663703.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01429A.mp3"
+    },
+    {
+      "ja": "本を1冊<b>買いました</b>。",
+      "hrkt": "ほん を 1 さつ <b>かいました</b>。",
+      "latn": "hon wo 1 satsu <b>kaimashita</b>.",
+      "en": "I bought one book.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6533855.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08587A.mp3"
+    }
+  ]
+}

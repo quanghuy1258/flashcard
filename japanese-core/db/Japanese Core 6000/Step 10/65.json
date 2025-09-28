@@ -1,0 +1,18 @@
+{
+  "ja": "履物",
+  "hrkt": "はきもの",
+  "latn": "hakimono",
+  "en": "footwear",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03163A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>履物</b>は靴箱に入れてください。",
+      "hrkt": "<b>はきもの</b> は くつばこ に いれて ください。",
+      "latn": "<b>hakimono</b> ha kutsubako ni irete kudasai.",
+      "en": "Please put your footwear in the shoe cupboard",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03163A.mp3"
+    }
+  ]
+}

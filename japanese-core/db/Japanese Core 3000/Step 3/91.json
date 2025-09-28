@@ -1,0 +1,18 @@
+{
+  "ja": "正常",
+  "hrkt": "せいじょう",
+  "latn": "seijou",
+  "en": "normal",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01374A.mp3",
+  "sentences": [
+    {
+      "ja": "患者の呼吸は<b>正常</b>です。",
+      "hrkt": "かんじゃ の こきゅう は <b>せいじょう</b> です。",
+      "latn": "kanja no kokyuu ha <b>seijou</b> desu.",
+      "en": "The patient's breathing is normal.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/05e59bbkrs.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01374A.mp3"
+    }
+  ]
+}

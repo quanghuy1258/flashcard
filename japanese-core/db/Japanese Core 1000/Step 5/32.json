@@ -1,0 +1,26 @@
+{
+  "ja": "プログラム",
+  "hrkt": "プログラム",
+  "latn": "puroguramu",
+  "en": "program booklet",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08218A.mp3",
+  "sentences": [
+    {
+      "ja": "受付で<b>プログラム</b>を受け取った。",
+      "hrkt": "うけつけ で <b>プログラム</b> を うけとった。",
+      "latn": "uketsuke de <b>puroguramu</b> wo uketotta.",
+      "en": "I got my program booklet at the reception.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3820713.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08218A.mp3"
+    },
+    {
+      "ja": "私はその映画の<b>プログラム</b>を買いました。",
+      "hrkt": "わたし は その えいが の <b>プログラム</b> を かいました。",
+      "latn": "watashi ha sono eiga no <b>puroguramu</b> wo kaimashita.",
+      "en": "I bought a program booklet of the movie.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/96elcu585k.mp3"
+    }
+  ]
+}

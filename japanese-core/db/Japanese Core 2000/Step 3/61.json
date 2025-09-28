@@ -1,0 +1,26 @@
+{
+  "ja": "苦い",
+  "hrkt": "にがい",
+  "latn": "nigai",
+  "en": "bitter",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06801A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>苦い</b>コーヒーが好きです。",
+      "hrkt": "わたし は <b>にがい</b> コーヒー が すき です。",
+      "latn": "watashi ha <b>nigai</b> ko-hi- ga suki desu.",
+      "en": "I like bitter coffee.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3155337.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06801A.mp3"
+    },
+    {
+      "ja": "この薬はとても<b>苦い</b>です。",
+      "hrkt": "この くすり は とても <b>にがい</b> です。",
+      "latn": "kono kusuri ha totemo <b>nigai</b> desu.",
+      "en": "This medicine is very bitter.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/551q1k35vc.mp3"
+    }
+  ]
+}

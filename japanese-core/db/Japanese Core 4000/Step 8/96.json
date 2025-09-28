@@ -1,0 +1,18 @@
+{
+  "ja": "納める",
+  "hrkt": "おさめる",
+  "latn": "osameru",
+  "en": "pay (tax, fee etc.)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01285A.mp3",
+  "sentences": [
+    {
+      "ja": "自動車税を<b>納めた</b>よ。",
+      "hrkt": "じどうしゃ ぜい を <b>おさめた</b> よ。",
+      "latn": "jidousha zei wo <b>osameta</b> yo.",
+      "en": "I paid my car tax.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01285A.mp3"
+    }
+  ]
+}

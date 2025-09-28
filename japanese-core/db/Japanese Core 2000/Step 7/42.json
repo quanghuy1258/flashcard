@@ -1,0 +1,26 @@
+{
+  "ja": "夕飯",
+  "hrkt": "ゆうはん",
+  "latn": "yuuhan",
+  "en": "evening meal, dinner",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09511A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>夕飯</b>は寿司でした。",
+      "hrkt": "<b>ゆうはん</b> は すし でした。",
+      "latn": "<b>yuuhan</b> ha sushi deshita.",
+      "en": "I had sushi for dinner.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5938926.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09511A.mp3"
+    },
+    {
+      "ja": "<b>夕飯</b>にナスの天ぷらを食べました。",
+      "hrkt": "<b>ゆうはん</b> に ナス の てんぷら を たべました。",
+      "latn": "<b>yuuhan</b> ni nasu no tenpura wo tabemashita.",
+      "en": "I ate eggplant tempura for dinner.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/746452.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06682A.mp3"
+    }
+  ]
+}

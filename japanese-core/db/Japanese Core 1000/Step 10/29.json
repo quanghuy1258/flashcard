@@ -1,0 +1,26 @@
+{
+  "ja": "伸びる",
+  "hrkt": "のびる",
+  "latn": "nobiru",
+  "en": "stretch, grow",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07102A.mp3",
+  "sentences": [
+    {
+      "ja": "髪がだいぶ<b>伸びた</b>ね。",
+      "hrkt": "かみ が だいぶ <b>のびた</b> ね。",
+      "latn": "kami ga daibu <b>nobita</b> ne.",
+      "en": "Your hair has grown a lot, hasn't it?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5182322.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07102A.mp3"
+    },
+    {
+      "ja": "息子は1年で10センチ、背が<b>伸びました</b>。",
+      "hrkt": "むすこ は 1 ねん で 10 センチ、せ が <b>のびました</b>。",
+      "latn": "musuko ha 1 nen de 10 senchi,se ga <b>nobimashita</b>.",
+      "en": "My son has grown 10 centimeters taller over the past year.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/1463048884.mp3"
+    }
+  ]
+}

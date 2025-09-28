@@ -1,0 +1,18 @@
+{
+  "ja": "訓",
+  "hrkt": "くん",
+  "latn": "kun",
+  "en": "Japanese reading of kanji",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02920A.mp3",
+  "sentences": [
+    {
+      "ja": "漢字の読み方には、音と<b>訓</b>の二通りがあるの。",
+      "hrkt": "かんじ の よみかた に は、 おん と <b>くん</b> の ふた とおり が ある の。",
+      "latn": "kanji no yomikata ni ha, on to <b>kun</b> no futa toori ga aru no.",
+      "en": "Kanji has Chinese-derived and Japanese readings.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02920A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "弱める",
+  "hrkt": "よわめる",
+  "latn": "yowameru",
+  "en": "weaken (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02133A.mp3",
+  "sentences": [
+    {
+      "ja": "火を<b>弱めて</b>ください。",
+      "hrkt": "ひ を <b>よわめて</b> ください。",
+      "latn": "hi wo <b>yowamete</b> kudasai.",
+      "en": "Please turn down the heat.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02133A.mp3"
+    }
+  ]
+}

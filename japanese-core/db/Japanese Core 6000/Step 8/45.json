@@ -1,0 +1,18 @@
+{
+  "ja": "観賞",
+  "hrkt": "かんしょう",
+  "latn": "kanshou",
+  "en": "ornamental",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03131A.mp3",
+  "sentences": [
+    {
+      "ja": "この鉢植えは<b>観賞</b>用です。",
+      "hrkt": "この はちうえ は <b>かんしょう</b> よう です。",
+      "latn": "kono hachiue ha <b>kanshou</b> you desu.",
+      "en": "This is an ornamental potted plant.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03131A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "頂上",
+  "hrkt": "ちょうじょう",
+  "latn": "choujou",
+  "en": "summit, top",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01510A.mp3",
+  "sentences": [
+    {
+      "ja": "あと少しで山の<b>頂上</b>です。",
+      "hrkt": "あと すこし で やま の <b>ちょうじょう</b> です。",
+      "latn": "ato sukoshi de yama no <b>choujou</b> desu.",
+      "en": "We'll soon reach the top of the mountain.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01510A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "割り引く",
+  "hrkt": "わりびく",
+  "latn": "waribiku",
+  "en": "give a discount, deduct",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02956A.mp3",
+  "sentences": [
+    {
+      "ja": "定価から2000円<b>割り引きます</b>よ。",
+      "hrkt": "ていか から 2000 えん <b>わりびきます</b> よ。",
+      "latn": "teika kara 2000 en <b>waribikimasu</b> yo.",
+      "en": "I'll deduct 2000 yen from the retail price.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02956A.mp3"
+    }
+  ]
+}

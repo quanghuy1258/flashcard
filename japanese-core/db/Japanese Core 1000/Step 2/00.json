@@ -1,0 +1,26 @@
+{
+  "ja": "美しい",
+  "hrkt": "うつくしい",
+  "latn": "utsukushii",
+  "en": "beautiful",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00726A.mp3",
+  "sentences": [
+    {
+      "ja": "この絵は<b>美しい</b>です。",
+      "hrkt": "この え は <b>うつくしい</b> です。",
+      "latn": "kono e ha <b>utsukushii</b> desu.",
+      "en": "This picture is beautiful.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2767944.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00726A.mp3"
+    },
+    {
+      "ja": "今夜は星がとても<b>美しい</b>。",
+      "hrkt": "こんや は ほし が とても <b>うつくしい</b>。",
+      "latn": "kon'ya ha hoshi ga totemo <b>utsukushii</b>.",
+      "en": "The stars are very beautiful tonight.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a488aa3860.mp3"
+    }
+  ]
+}

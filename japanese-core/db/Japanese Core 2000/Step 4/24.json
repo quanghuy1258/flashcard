@@ -1,0 +1,26 @@
+{
+  "ja": "駅員",
+  "hrkt": "えきいん",
+  "latn": "ekiin",
+  "en": "station attendant",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00859A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>駅員</b>に聞きましょう。",
+      "hrkt": "<b>えきいん</b> に ききましょう。",
+      "latn": "<b>ekiin</b> ni kikimashou.",
+      "en": "Let's ask the station attendant.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4004795.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00859A.mp3"
+    },
+    {
+      "ja": "その<b>駅員</b>は英語が話せます。",
+      "hrkt": "その <b>えきいん</b> は えいご が はなせます。",
+      "latn": "sono <b>ekiin</b> ha eigo ga hanasemasu.",
+      "en": "The station attendant can speak English.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/659k9v50hs.mp3"
+    }
+  ]
+}

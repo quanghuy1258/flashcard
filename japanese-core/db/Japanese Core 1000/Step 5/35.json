@@ -1,0 +1,26 @@
+{
+  "ja": "予定",
+  "hrkt": "よてい",
+  "latn": "yotei",
+  "en": "schedule, plan",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09706A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の<b>予定</b>を教えてください。",
+      "hrkt": "きょう の <b>よてい</b> を おしえて ください。",
+      "latn": "kyou no <b>yotei</b> wo oshiete kudasai.",
+      "en": "Please tell me your schedule today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3839148.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09706A.mp3"
+    },
+    {
+      "ja": "カレンダーに<b>予定</b>を書いた。",
+      "hrkt": "カレンダー に <b>よてい</b> を かいた。",
+      "latn": "karenda- ni <b>yotei</b> wo kaita.",
+      "en": "I wrote my schedule on the calendar.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4576001.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01842A.mp3"
+    }
+  ]
+}

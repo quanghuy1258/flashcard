@@ -1,0 +1,26 @@
+{
+  "ja": "通勤",
+  "hrkt": "つうきん",
+  "latn": "tsuukin",
+  "en": "commute",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05802A.mp3",
+  "sentences": [
+    {
+      "ja": "毎朝、<b>通勤</b>に30分かかります。",
+      "hrkt": "まいあさ、<b>つうきん</b> に 30 ぷん かかります。",
+      "latn": "maiasa,<b>tsuukin</b> ni 30 pun kakarimasu.",
+      "en": "It takes thirty minutes to commute every morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1208835.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05802A.mp3"
+    },
+    {
+      "ja": "私は地下鉄で<b>通勤</b>しています。",
+      "hrkt": "わたし は ちかてつ で <b>つうきん</b> して います。",
+      "latn": "watashi ha chikatetsu de <b>tsuukin</b> shite imasu.",
+      "en": "I commute to work by subway.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1507992.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05573A.mp3"
+    }
+  ]
+}

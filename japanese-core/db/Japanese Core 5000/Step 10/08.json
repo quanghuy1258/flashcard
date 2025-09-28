@@ -1,0 +1,18 @@
+{
+  "ja": "工学",
+  "hrkt": "こうがく",
+  "latn": "kougaku",
+  "en": "engineering",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01577A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大学で<b>工学</b>を勉強しました。",
+      "hrkt": "かれ は だいがく で <b>こうがく</b> を べんきょう しました。",
+      "latn": "kare ha daigaku de <b>kougaku</b> wo benkyou shimashita.",
+      "en": "He studied engineering in college.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01577A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ごちそうする",
+  "hrkt": "ごちそうする",
+  "latn": "gochisousuru",
+  "en": "treat, host (a meal)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03137A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の夕食は私が<b>ごちそうします</b>。",
+      "hrkt": "きょう の ゆうしょく は わたし が <b>ごちそう します</b> 。",
+      "latn": "kyou no yuushoku ha watashi ga <b>gochisou shimasu</b> .",
+      "en": "I'll treat you to dinner tonight.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4484543.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03137A.mp3"
+    },
+    {
+      "ja": "友達が昼ご飯を<b>ごちそうして</b>くれた。",
+      "hrkt": "ともだち が ひる ごはん を <b>ごちそう して</b> くれた。",
+      "latn": "tomodachi ga hiru gohan wo <b>gochisou shite</b> kureta.",
+      "en": "My friend treated me to lunch.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/426qfseilc.mp3"
+    }
+  ]
+}

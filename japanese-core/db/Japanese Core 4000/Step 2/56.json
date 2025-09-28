@@ -1,0 +1,18 @@
+{
+  "ja": "表情",
+  "hrkt": "ひょうじょう",
+  "latn": "hyoujou",
+  "en": "facial expression",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00195A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はとても<b>表情</b>が豊かですね。",
+      "hrkt": "かれ は とても <b>ひょうじょう</b> が ゆたか です ね。",
+      "latn": "kare ha totemo <b>hyoujou</b> ga yutaka desu ne.",
+      "en": "He's very expressive.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/6490eic7vs.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00195A.mp3"
+    }
+  ]
+}

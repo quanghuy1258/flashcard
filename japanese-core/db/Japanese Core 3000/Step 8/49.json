@@ -1,0 +1,18 @@
+{
+  "ja": "描く",
+  "hrkt": "えがく",
+  "latn": "egaku",
+  "en": "depict, draw",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00201A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は人物を<b>描く</b>のがうまいな。",
+      "hrkt": "かれ は じんぶつ を <b>えがく</b> の が うまい な。",
+      "latn": "kare ha jinbutsu wo <b>egaku</b> no ga umai na.",
+      "en": "He is good at drawing people.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/14b35jc9vo.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00201A.mp3"
+    }
+  ]
+}

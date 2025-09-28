@@ -1,0 +1,18 @@
+{
+  "ja": "スライド",
+  "hrkt": "スライド",
+  "latn": "suraido",
+  "en": "slide",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02326A.mp3",
+  "sentences": [
+    {
+      "ja": "このふたは<b>スライド</b>します。",
+      "hrkt": "この ふた は <b>スライド</b> します。",
+      "latn": "kono futa ha <b>suraido</b> shimasu.",
+      "en": "This cover slides aside.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02326A.mp3"
+    }
+  ]
+}

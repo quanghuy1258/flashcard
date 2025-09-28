@@ -1,0 +1,26 @@
+{
+  "ja": "思い出す",
+  "hrkt": "おもいだす",
+  "latn": "omoidasu",
+  "en": "recollect, recall",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01206A.mp3",
+  "sentences": [
+    {
+      "ja": "大切な用事を<b>思い出しました</b>。",
+      "hrkt": "たいせつな ようじ を <b>おもいだしました</b>。",
+      "latn": "taisetsuna youji wo <b>omoidashimashita</b>.",
+      "en": "I just remembered something important I need to take care of.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5650566.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01206A.mp3"
+    },
+    {
+      "ja": "彼の名前が<b>思い出せ</b>ない。",
+      "hrkt": "かれ の なまえ が <b>おもいだせ</b> ない。",
+      "latn": "kare no namae ga <b>omoidase</b> nai.",
+      "en": "I can't remember his name.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/526n2paaic.mp3"
+    }
+  ]
+}

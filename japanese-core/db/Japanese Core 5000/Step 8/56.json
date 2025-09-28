@@ -1,0 +1,18 @@
+{
+  "ja": "再生",
+  "hrkt": "さいせい",
+  "latn": "saisei",
+  "en": "playback",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00812A.mp3",
+  "sentences": [
+    {
+      "ja": "留守番電話のメッセージを<b>再生</b>したの。",
+      "hrkt": "るすばん でんわ の メッセージ を <b>さいせい</b> した の。",
+      "latn": "rusuban denwa no messe-ji wo <b>saisei</b> shita no.",
+      "en": "I played back the messages on the answering machine.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00812A.mp3"
+    }
+  ]
+}

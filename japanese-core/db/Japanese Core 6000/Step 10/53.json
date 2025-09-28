@@ -1,0 +1,18 @@
+{
+  "ja": "麦",
+  "hrkt": "むぎ",
+  "latn": "mugi",
+  "en": "wheat and/or barley",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02077A.mp3",
+  "sentences": [
+    {
+      "ja": "この畑では<b>麦</b>を作っています。",
+      "hrkt": "この はたけ で は <b>むぎ</b> を つくって います。",
+      "latn": "kono hatake de ha <b>mugi</b> wo tsukutte imasu.",
+      "en": "We're growing wheat and barley in this field.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02077A.mp3"
+    }
+  ]
+}

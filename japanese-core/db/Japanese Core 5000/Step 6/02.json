@@ -1,0 +1,18 @@
+{
+  "ja": "とがる",
+  "hrkt": "とがる",
+  "latn": "togaru",
+  "en": "be sharp",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03774A.mp3",
+  "sentences": [
+    {
+      "ja": "この鉛筆は<b>とがって</b>いますね。",
+      "hrkt": "この えんぴつ は <b>とがって</b> います ね。",
+      "latn": "kono enpitsu ha <b>togatte</b> imasu ne.",
+      "en": "This pencil is sharp.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03774A.mp3"
+    }
+  ]
+}

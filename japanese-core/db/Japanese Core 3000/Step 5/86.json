@@ -1,0 +1,18 @@
+{
+  "ja": "未成年",
+  "hrkt": "みせいねん",
+  "latn": "miseinen",
+  "en": "minor, underage",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03257A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>未成年</b>はお酒を飲めません。",
+      "hrkt": "<b>みせいねん</b> は おさけ を のめません。",
+      "latn": "<b>miseinen</b> ha osake wo nomemasen.",
+      "en": "Minors can't drink alcohol.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/91ai1u2h4o.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03257A.mp3"
+    }
+  ]
+}

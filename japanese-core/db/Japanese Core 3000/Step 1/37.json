@@ -1,0 +1,18 @@
+{
+  "ja": "ナイロン",
+  "hrkt": "ナイロン",
+  "latn": "nairon",
+  "en": "nylon",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06616A.mp3",
+  "sentences": [
+    {
+      "ja": "このジャケットは<b>ナイロン</b>でできています。",
+      "hrkt": "この ジャケット は <b>ナイロン</b> で できて います。",
+      "latn": "kono jaketto ha <b>nairon</b> de dekite imasu.",
+      "en": "This jacket is made of nylon.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/448n8ua2js.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06616A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "受け入れる",
+  "hrkt": "うけいれる",
+  "latn": "ukeireru",
+  "en": "accept, accommodate",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00156A.mp3",
+  "sentences": [
+    {
+      "ja": "私は彼の意見を<b>受け入れました</b>。",
+      "hrkt": "わたし は かれ の いけん を <b>うけいれました</b>。",
+      "latn": "watashi ha kare no iken wo <b>ukeiremashita</b>.",
+      "en": "I accepted his opinion.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00156A.mp3"
+    }
+  ]
+}

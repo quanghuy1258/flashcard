@@ -1,0 +1,26 @@
+{
+  "ja": "公開",
+  "hrkt": "こうかい",
+  "latn": "koukai",
+  "en": "opening (to the public)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02871A.mp3",
+  "sentences": [
+    {
+      "ja": "その映画は今日、<b>公開</b>されます。",
+      "hrkt": "その えいが は きょう、<b>こうかい</b> されます。",
+      "latn": "sono eiga ha kyou,<b>koukai</b> saremasu.",
+      "en": "The movie opens today.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/625900.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02871A.mp3"
+    },
+    {
+      "ja": "ゴッホの作品が日本で<b>公開</b>になりました。",
+      "hrkt": "ゴッホ の さくひん が にほん で <b>こうかい</b> に なりました。",
+      "latn": "gohho no sakuhin ga nihon de <b>koukai</b> ni narimashita.",
+      "en": "An artwork by Van Gogh became publicly displayed in Japan.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f4eh5rabkk.mp3"
+    }
+  ]
+}

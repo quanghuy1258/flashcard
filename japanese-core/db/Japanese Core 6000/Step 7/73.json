@@ -1,0 +1,18 @@
+{
+  "ja": "科学者",
+  "hrkt": "かがくしゃ",
+  "latn": "kagakusha",
+  "en": "scientist",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01028A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はとても有名な<b>科学者</b>だ。",
+      "hrkt": "かれ は とても ゆうめいな <b>かがくしゃ</b> だ。",
+      "latn": "kare ha totemo yuumeina <b>kagakusha</b> da.",
+      "en": "He is a very famous scientist.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01028A.mp3"
+    }
+  ]
+}

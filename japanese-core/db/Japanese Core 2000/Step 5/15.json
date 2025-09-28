@@ -1,0 +1,26 @@
+{
+  "ja": "パトカー",
+  "hrkt": "パトカー",
+  "latn": "patoka-",
+  "en": "police car",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07409A.mp3",
+  "sentences": [
+    {
+      "ja": "あそこに<b>パトカー</b>がいる。",
+      "hrkt": "あそこ に <b>パトカー</b> が いる。",
+      "latn": "asoko ni <b>patoka-</b> ga iru.",
+      "en": "There's a police car over there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4199700.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07409A.mp3"
+    },
+    {
+      "ja": "<b>パトカー</b>がバイクを追いかけてるぞ。",
+      "hrkt": "<b>パトカー</b> が バイク を おいかけてる ぞ。",
+      "latn": "<b>patoka-</b> ga baiku wo oikaketeru zo.",
+      "en": "A police car is chasing a motorcycle.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/63er2h0dc0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03265A.mp3"
+    }
+  ]
+}

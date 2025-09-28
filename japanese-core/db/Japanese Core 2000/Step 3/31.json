@@ -1,0 +1,26 @@
+{
+  "ja": "油",
+  "hrkt": "あぶら",
+  "latn": "abura",
+  "en": "oil",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00211A.mp3",
+  "sentences": [
+    {
+      "ja": "水と<b>油</b>は混ざらない。",
+      "hrkt": "みず と <b>あぶら</b> は まざらない。",
+      "latn": "mizu to <b>abura</b> ha mazaranai.",
+      "en": "Oil and water don't mix.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4663854.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00211A.mp3"
+    },
+    {
+      "ja": "私は料理をする時、<b>油</b>をあまり使いません。",
+      "hrkt": "わたし は りょうり を する とき、<b>あぶら</b> を あまり つかいません。",
+      "latn": "watashi ha ryouri wo suru toki,<b>abura</b> wo amari tsukaimasen.",
+      "en": "When I cook, I don't use that much oil.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a66e6uaejk.mp3"
+    }
+  ]
+}

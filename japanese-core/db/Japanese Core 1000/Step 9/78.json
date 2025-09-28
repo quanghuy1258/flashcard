@@ -1,0 +1,26 @@
+{
+  "ja": "用",
+  "hrkt": "よう",
+  "latn": "you",
+  "en": "things to do",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01141A.mp3",
+  "sentences": [
+    {
+      "ja": "私に何か<b>用</b>ですか。",
+      "hrkt": "わたし に なに か <b>よう</b> です か。",
+      "latn": "watashi ni nani ka <b>you</b> desu ka.",
+      "en": "Do you need me for something?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2105963.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01141A.mp3"
+    },
+    {
+      "ja": "今日はちょっと<b>用</b>があります。",
+      "hrkt": "きょう は ちょっと <b>よう</b> が あります。",
+      "latn": "kyou ha chotto <b>you</b> ga arimasu.",
+      "en": "I've got a few things to do today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d4b8b49ido.mp3"
+    }
+  ]
+}

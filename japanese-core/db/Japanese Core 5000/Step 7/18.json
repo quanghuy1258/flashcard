@@ -1,0 +1,18 @@
+{
+  "ja": "グラウンド",
+  "hrkt": "グラウンド",
+  "latn": "guraundo",
+  "en": "ground, (playing or sports) field",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01858A.mp3",
+  "sentences": [
+    {
+      "ja": "野球部は<b>グラウンド</b>で練習しています。",
+      "hrkt": "やきゅう ぶ は <b>グラウンド</b> で れんしゅう して います。",
+      "latn": "yakyuu bu ha <b>guraundo</b> de renshuu shite imasu.",
+      "en": "The baseball club is practicing at the field.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01858A.mp3"
+    }
+  ]
+}

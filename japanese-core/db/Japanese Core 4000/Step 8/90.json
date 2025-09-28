@@ -1,0 +1,18 @@
+{
+  "ja": "ストップ",
+  "hrkt": "ストップ",
+  "latn": "sutoppu",
+  "en": "stop",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00815A.mp3",
+  "sentences": [
+    {
+      "ja": "ここでいったん<b>ストップ</b>してください。",
+      "hrkt": "ここ で いったん <b>ストップ</b> して ください。",
+      "latn": "koko de ittan <b>sutoppu</b> shite kudasai.",
+      "en": "Please stop here at once.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00815A.mp3"
+    }
+  ]
+}

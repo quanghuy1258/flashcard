@@ -1,0 +1,18 @@
+{
+  "ja": "直角",
+  "hrkt": "ちょっかく",
+  "latn": "chokkaku",
+  "en": "right angle",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02530A.mp3",
+  "sentences": [
+    {
+      "ja": "ここで<b>直角</b>に曲がってください。",
+      "hrkt": "ここ で <b>ちょっかく</b> に まがって ください。",
+      "latn": "koko de <b>chokkaku</b> ni magatte kudasai.",
+      "en": "Please turn at a right angle here.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02530A.mp3"
+    }
+  ]
+}

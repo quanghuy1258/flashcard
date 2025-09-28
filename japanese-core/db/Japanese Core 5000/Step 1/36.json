@@ -1,0 +1,18 @@
+{
+  "ja": "便り",
+  "hrkt": "たより",
+  "latn": "tayori",
+  "en": "letter, correspondence",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01822A.mp3",
+  "sentences": [
+    {
+      "ja": "月に一度、母から<b>便り</b>がきます。",
+      "hrkt": "つき に いちど はは から <b>たより</b> が きます。",
+      "latn": "tsuki ni ichido haha kara <b>tayori</b> ga kimasu.",
+      "en": "I get a letter from my mother once a month.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01822A.mp3"
+    }
+  ]
+}

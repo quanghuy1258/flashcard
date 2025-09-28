@@ -1,0 +1,18 @@
+{
+  "ja": "テンポ",
+  "hrkt": "テンポ",
+  "latn": "tenpo",
+  "en": "tempo, pace",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01705A.mp3",
+  "sentences": [
+    {
+      "ja": "この曲は<b>テンポ</b>が速いですね。",
+      "hrkt": "この きょく は <b>テンポ</b> が はやい です ね。",
+      "latn": "kono kyoku ha <b>tenpo</b> ga hayai desu ne.",
+      "en": "This tune has a fast tempo.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01705A.mp3"
+    }
+  ]
+}

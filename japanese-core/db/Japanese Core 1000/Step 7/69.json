@@ -1,0 +1,26 @@
+{
+  "ja": "警察",
+  "hrkt": "けいさつ",
+  "latn": "keisatsu",
+  "en": "police",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02614A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>警察</b>を呼んでください。",
+      "hrkt": "<b>けいさつ</b> を よんで ください。",
+      "latn": "<b>keisatsu</b> wo yonde kudasai.",
+      "en": "Call the police.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2699746.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02614A.mp3"
+    },
+    {
+      "ja": "事故だ！誰か<b>警察</b>に電話して！",
+      "hrkt": "じこ だ！だれ か <b>けいさつ</b> に でんわ して！",
+      "latn": "jiko da!dare ka <b>keisatsu</b> ni denwa shite!",
+      "en": "Accident! Somebody, please call the police!",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/64dc5rbll8.mp3"
+    }
+  ]
+}

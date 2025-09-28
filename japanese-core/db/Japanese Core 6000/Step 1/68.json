@@ -1,0 +1,18 @@
+{
+  "ja": "負傷",
+  "hrkt": "ふしょう",
+  "latn": "fushou",
+  "en": "hurt, injury",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01040A.mp3",
+  "sentences": [
+    {
+      "ja": "その事故で多くの人が<b>負傷</b>したの。",
+      "hrkt": "その じこ で おおく の ひと が <b>ふしょう</b> した の。",
+      "latn": "sono jiko de ooku no hito ga <b>fushou</b> shita no.",
+      "en": "Many people were injured in the accident.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01040A.mp3"
+    }
+  ]
+}

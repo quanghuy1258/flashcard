@@ -1,0 +1,18 @@
+{
+  "ja": "湯飲み",
+  "hrkt": "ゆのみ",
+  "latn": "yunomi",
+  "en": "teacup",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03405A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>湯飲み</b>にはお茶を入れて、お茶碗にはご飯をよそいます。",
+      "hrkt": "<b>ゆのみ</b> に は おちゃ を いれて、おちゃわん に は ごはん を よそいます。",
+      "latn": "<b>yunomi</b> ni ha ocha wo irete,ochawan ni ha gohan wo yosoimasu.",
+      "en": "We pour tea in a teacup and serve rice in a rice bowl.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03405A.mp3"
+    }
+  ]
+}

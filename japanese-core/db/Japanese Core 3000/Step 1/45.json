@@ -1,0 +1,18 @@
+{
+  "ja": "書留",
+  "hrkt": "かきとめ",
+  "latn": "kakitome",
+  "en": "registered mail",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01476A.mp3",
+  "sentences": [
+    {
+      "ja": "これを<b>書留</b>で送りたいのですが。",
+      "hrkt": "これ を <b>かきとめ</b> で おくりたい の です が。",
+      "latn": "kore wo <b>kakitome</b> de okuritai no desu ga.",
+      "en": "I want to send this by registered mail.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/95875t25o8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01476A.mp3"
+    }
+  ]
+}

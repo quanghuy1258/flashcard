@@ -1,0 +1,26 @@
+{
+  "ja": "作り上げる",
+  "hrkt": "つくりあげる",
+  "latn": "tsukuriageru",
+  "en": "make up, build up",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02420A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はたった一人でそのシステムを<b>作り上げた</b>。",
+      "hrkt": "かれ は たった ひとり で その システム を <b>つくりあげた</b>。",
+      "latn": "kare ha tatta hitori de sono shisutemu wo <b>tsukuriageta</b>.",
+      "en": "He built the system all by himself.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/849ibqc6b0.mp3"
+    },
+    {
+      "ja": "私たちは、長年かけてその会社と信頼関係を<b>作り上げました</b>。",
+      "hrkt": "わたし たち は、ながねん かけて その かいしゃ と しんらい かんけい を <b>つくりあげました</b>。",
+      "latn": "watashi tachi ha,naganen kakete sono kaisha to shinrai kankei wo <b>tsukuriagemashita</b>.",
+      "en": "We spent many years building up a relationship of trust with that company.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/642l6sfchk.mp3"
+    }
+  ]
+}

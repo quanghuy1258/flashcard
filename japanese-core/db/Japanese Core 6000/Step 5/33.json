@@ -1,0 +1,18 @@
+{
+  "ja": "裁判所",
+  "hrkt": "さいばんしょ",
+  "latn": "saibansho",
+  "en": "courthouse",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01012A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは<b>裁判所</b>の前で知らせを待っています。",
+      "hrkt": "かれら は <b>さいばんしょ</b> の まえ で しらせ を まって います。",
+      "latn": "karera ha <b>saibansho</b> no mae de shirase wo matte imasu.",
+      "en": "They are waiting in front of the courthouse for the announcement.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01012A.mp3"
+    }
+  ]
+}

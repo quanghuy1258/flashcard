@@ -1,0 +1,18 @@
+{
+  "ja": "講堂",
+  "hrkt": "こうどう",
+  "latn": "koudou",
+  "en": "lecture hall, auditorium",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02604A.mp3",
+  "sentences": [
+    {
+      "ja": "全員、<b>講堂</b>に集まってください。",
+      "hrkt": "ぜんいん、<b>こうどう</b> に あつまって ください。",
+      "latn": "zenin,<b>koudou</b> ni atsumatte kudasai.",
+      "en": "Everyone, please come to the auditorium.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02604A.mp3"
+    }
+  ]
+}

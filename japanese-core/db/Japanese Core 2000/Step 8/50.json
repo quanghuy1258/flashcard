@@ -1,0 +1,26 @@
+{
+  "ja": "全体",
+  "hrkt": "ぜんたい",
+  "latn": "zentai",
+  "en": "whole, total",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04903A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>全体</b>の80パーセントが完成しました。",
+      "hrkt": "<b>ぜんたい</b> の 80 パーセント が かんせい しました。",
+      "latn": "<b>zentai</b> no 80 pa-sento ga kansei shimashita.",
+      "en": "80 percent of the total has been completed.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4627765.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04903A.mp3"
+    },
+    {
+      "ja": "それについて、クラス<b>全体</b>で話し合いました。",
+      "hrkt": "それ について、クラス <b>ぜんたい</b> で はなしあいました。",
+      "latn": "sore nitsuite,kurasu <b>zentai</b> de hanashiaimashita.",
+      "en": "We discussed it with the entire class.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/35ejfc77l0.mp3"
+    }
+  ]
+}

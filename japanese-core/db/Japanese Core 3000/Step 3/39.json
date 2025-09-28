@@ -1,0 +1,18 @@
+{
+  "ja": "アップ",
+  "hrkt": "アップ",
+  "latn": "appu",
+  "en": "close-up",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00665A.mp3",
+  "sentences": [
+    {
+      "ja": "写真を<b>アップ</b>で撮ろう。",
+      "hrkt": "しゃしん を <b>アップ</b> で とろう。",
+      "latn": "shashin wo <b>appu</b> de torou.",
+      "en": "Let's take a close-up photo.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/15c70qfbs0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00665A.mp3"
+    }
+  ]
+}

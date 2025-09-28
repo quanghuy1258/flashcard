@@ -1,0 +1,18 @@
+{
+  "ja": "引き返す",
+  "hrkt": "ひきかえす",
+  "latn": "hikikaesu",
+  "en": "go back, retrace one's steps",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02394A.mp3",
+  "sentences": [
+    {
+      "ja": "雨が強かったので<b>引き返した</b>よ。",
+      "hrkt": "あめ が つよかった ので <b>ひきかえした</b> よ。",
+      "latn": "ame ga tsuyokatta node <b>hikikaeshita</b> yo.",
+      "en": "I went back because it was raining heavily.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02394A.mp3"
+    }
+  ]
+}

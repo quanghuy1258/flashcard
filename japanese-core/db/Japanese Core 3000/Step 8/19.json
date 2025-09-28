@@ -1,0 +1,18 @@
+{
+  "ja": "監督",
+  "hrkt": "かんとく",
+  "latn": "kantoku",
+  "en": "supervisor, film director",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00435A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>監督</b>はアカデミー賞を受賞したよな。",
+      "hrkt": "その <b>かんとく</b> は アカデミー しょう を じゅしょう した よ な。",
+      "latn": "sono <b>kantoku</b> ha akademi- shou wo jushou shita yo na.",
+      "en": "The director won an Academy Award.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c3aq6h4t9s.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00435A.mp3"
+    }
+  ]
+}

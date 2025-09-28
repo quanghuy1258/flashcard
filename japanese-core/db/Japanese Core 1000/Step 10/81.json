@@ -1,0 +1,26 @@
+{
+  "ja": "マンション",
+  "hrkt": "マンション",
+  "latn": "manshon",
+  "en": "apartment, residential building",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08828A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>マンション</b>に住んでいます。",
+      "hrkt": "かれ は <b>マンション</b> に すんで います。",
+      "latn": "kare ha <b>manshon</b> ni sunde imasu.",
+      "en": "He lives in an apartment.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2608320.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08828A.mp3"
+    },
+    {
+      "ja": "来年、ここに大きな<b>マンション</b>ができます。",
+      "hrkt": "らいねん、ここ に おおきな <b>マンション</b> が できます。",
+      "latn": "rainen,koko ni ookina <b>manshon</b> ga dekimasu.",
+      "en": "Next year a big apartment building will be built here.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b33u431mpc.mp3"
+    }
+  ]
+}

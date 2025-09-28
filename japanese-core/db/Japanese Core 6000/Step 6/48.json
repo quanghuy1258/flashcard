@@ -1,0 +1,18 @@
+{
+  "ja": "イスラム教",
+  "hrkt": "イスラムきょう",
+  "latn": "isuramukyou",
+  "en": "Islam, Muslim religion",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01851A.mp3",
+  "sentences": [
+    {
+      "ja": "これは<b>イスラム教</b>の寺院です。",
+      "hrkt": "これ は <b>イスラムきょう</b> の じいん です。",
+      "latn": "kore ha <b>isuramukyou</b> no jiin desu.",
+      "en": "This is a Muslim mosque.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01851A.mp3"
+    }
+  ]
+}

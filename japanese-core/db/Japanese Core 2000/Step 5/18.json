@@ -1,0 +1,26 @@
+{
+  "ja": "エスカレーター",
+  "hrkt": "エスカレーター",
+  "latn": "esukare-ta-",
+  "en": "escalator",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00867A.mp3",
+  "sentences": [
+    {
+      "ja": "3階まで<b>エスカレーター</b>で行きましょう。",
+      "hrkt": "3 かい まで <b>エスカレーター</b> で いきましょう。",
+      "latn": "3 kai made <b>esukare-ta-</b> de ikimashou.",
+      "en": "Let's take the escalator up to the third floor.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/631249.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00867A.mp3"
+    },
+    {
+      "ja": "ベビーカーで<b>エスカレーター</b>に乗らないでください。",
+      "hrkt": "ベビーカー で <b>エスカレーター</b> に のらないで ください。",
+      "latn": "bebi-ka- de <b>esukare-ta-</b> ni noranaide kudasai.",
+      "en": "Please don't get on the escalator with a baby stroller.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/658rei219c.mp3"
+    }
+  ]
+}

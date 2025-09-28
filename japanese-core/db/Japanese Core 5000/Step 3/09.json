@@ -1,0 +1,18 @@
+{
+  "ja": "お参り",
+  "hrkt": "おまいり",
+  "latn": "omairi",
+  "en": "visiting a shrine or temple",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03012A.mp3",
+  "sentences": [
+    {
+      "ja": "家族でお寺に<b>お参り</b>に行きました。",
+      "hrkt": "かぞく で おてら に <b>おまいり</b> に いきました。",
+      "latn": "kazoku de otera ni <b>omairi</b> ni ikimashita.",
+      "en": "I paid a visit to the temple with my family.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03012A.mp3"
+    }
+  ]
+}

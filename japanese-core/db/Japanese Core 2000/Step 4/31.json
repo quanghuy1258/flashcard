@@ -1,0 +1,26 @@
+{
+  "ja": "下着",
+  "hrkt": "したぎ",
+  "latn": "shitagi",
+  "en": "underwear",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03727A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>下着</b>を手で洗う。",
+      "hrkt": "わたし は <b>したぎ</b> を て で あらう。",
+      "latn": "watashi ha <b>shitagi</b> wo te de arau.",
+      "en": "I wash my underwear by hand.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3643631.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03727A.mp3"
+    },
+    {
+      "ja": "旅行の前に新しい<b>下着</b>を買いたいです。",
+      "hrkt": "りょこう の まえ に あたらしい <b>したぎ</b> を かいたい です。",
+      "latn": "ryokou no mae ni atarashii <b>shitagi</b> wo kaitai desu.",
+      "en": "Before the trip, I want to buy new underwear.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/149oem3s34.mp3"
+    }
+  ]
+}

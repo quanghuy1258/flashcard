@@ -1,0 +1,26 @@
+{
+  "ja": "なお",
+  "hrkt": "なお",
+  "latn": "nao",
+  "en": "still, in addition",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06618A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>なお</b>、雨の場合は中止です。",
+      "hrkt": "<b>なお</b>、あめ の ばあい は ちゅうし です。",
+      "latn": "<b>nao</b>,ame no baai ha chuushi desu.",
+      "en": "Moreover, it will be canceled in the event of rain.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6202451.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06618A.mp3"
+    },
+    {
+      "ja": "<b>なお</b>、平日のランチタイムの予約は受け付けていません。",
+      "hrkt": "<b>なお</b>、へいじつ の ランチ タイム の よやく は うけつけて いません。",
+      "latn": "<b>nao</b>,heijitsu no ranchi taimu no yoyaku ha uketsukete imasen.",
+      "en": "In addition, reservations cannot be made during lunch time on weekdays.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/84cuec6c6g.mp3"
+    }
+  ]
+}

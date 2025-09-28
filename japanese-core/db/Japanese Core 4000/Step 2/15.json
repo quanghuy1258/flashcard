@@ -1,0 +1,18 @@
+{
+  "ja": "やや",
+  "hrkt": "やや",
+  "latn": "yaya",
+  "en": "slightly, a little",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00334A.mp3",
+  "sentences": [
+    {
+      "ja": "この服、私には<b>やや</b>小さいみたい。",
+      "hrkt": "この ふく、わたし に は <b>やや</b> ちいさい みたい。",
+      "latn": "kono fuku,watashi ni ha <b>yaya</b> chiisai mitai.",
+      "en": "It looks like these clothes are a little tight on me.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/94516t5k20.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00334A.mp3"
+    }
+  ]
+}

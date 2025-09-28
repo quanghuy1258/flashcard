@@ -1,0 +1,18 @@
+{
+  "ja": "前売り券",
+  "hrkt": "まえうりけん",
+  "latn": "maeuriken",
+  "en": "advance ticket",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03883A.mp3",
+  "sentences": [
+    {
+      "ja": "コンサートの<b>前売り券</b>を手に入れたんだ。",
+      "hrkt": "コンサート の <b>まえうり けん</b> を て に いれた ん だ。",
+      "latn": "konsa-to no <b>maeuri ken</b> wo te ni ireta n da.",
+      "en": "I got an advance ticket for the concert.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/741v6t0b1s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03883A.mp3"
+    }
+  ]
+}

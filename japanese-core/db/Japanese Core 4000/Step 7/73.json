@@ -1,0 +1,18 @@
+{
+  "ja": "支店",
+  "hrkt": "してん",
+  "latn": "shiten",
+  "en": "branch (office)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00497A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>支店</b>に転勤したよ。",
+      "hrkt": "かれ は <b>してん</b> に てんきんした よ。",
+      "latn": "kare ha <b>shiten</b> ni tenkinshita yo.",
+      "en": "He was transferred to one of the branch offices.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00497A.mp3"
+    }
+  ]
+}

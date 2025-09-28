@@ -1,0 +1,18 @@
+{
+  "ja": "名人",
+  "hrkt": "めいじん",
+  "latn": "meijin",
+  "en": "master, expert",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01425A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は釣りの<b>名人</b>です。",
+      "hrkt": "かれ は つり の <b>めいじん</b> です。",
+      "latn": "kare ha tsuri no <b>meijin</b> desu.",
+      "en": "He's an expert angler.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01425A.mp3"
+    }
+  ]
+}

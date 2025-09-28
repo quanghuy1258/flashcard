@@ -1,0 +1,18 @@
+{
+  "ja": "結び",
+  "hrkt": "むすび",
+  "latn": "musubi",
+  "en": "end, close",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03115A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は会の<b>結び</b>としてスピーチをしたよ。",
+      "hrkt": "かれ は かい の <b>むすび</b> と して スピーチ を した よ。",
+      "latn": "kare ha kai no <b>musubi</b> to shite supi-chi wo shita yo.",
+      "en": "He made a speech to close the conference.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03115A.mp3"
+    }
+  ]
+}

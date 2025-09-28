@@ -1,0 +1,26 @@
+{
+  "ja": "返す",
+  "hrkt": "かえす",
+  "latn": "kaesu",
+  "en": "return, repay",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01431A.mp3",
+  "sentences": [
+    {
+      "ja": "図書館に本を<b>返した</b>。",
+      "hrkt": "としょかん に ほん を <b>かえした</b>。",
+      "latn": "toshokan ni hon wo <b>kaeshita</b>.",
+      "en": "I returned the book to the library.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1720694.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01431A.mp3"
+    },
+    {
+      "ja": "まだ母にお金を<b>返して</b>いない。",
+      "hrkt": "まだ はは に おかね を <b>かえして</b> いない。",
+      "latn": "mada haha ni okane wo <b>kaeshite</b> inai.",
+      "en": "I haven't paid back my mother yet.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/850bcr7quo.mp3"
+    }
+  ]
+}

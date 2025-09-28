@@ -1,0 +1,18 @@
+{
+  "ja": "挙げる",
+  "hrkt": "あげる",
+  "latn": "ageru",
+  "en": "cite, give (an example)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00710A.mp3",
+  "sentences": [
+    {
+      "ja": "例をいくつか<b>挙げて</b>みましょう。",
+      "hrkt": "れい を いくつ か <b>あげて</b> みましょう。",
+      "latn": "rei wo ikutsu ka <b>agete</b> mimashou.",
+      "en": "I'll give you some examples.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00710A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "行き止まり",
+  "hrkt": "いきどまり",
+  "latn": "ikidomari",
+  "en": "dead end",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03527A.mp3",
+  "sentences": [
+    {
+      "ja": "ここから先は<b>行き止まり</b>です。",
+      "hrkt": "ここ から さき は <b>いきどまり</b> です。",
+      "latn": "koko kara saki ha <b>ikidomari</b> desu.",
+      "en": "It is a dead-end ahead.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f34m8q18jo.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03527A.mp3?1220197159"
+    }
+  ]
+}

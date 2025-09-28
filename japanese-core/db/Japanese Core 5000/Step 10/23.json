@@ -1,0 +1,18 @@
+{
+  "ja": "犯す",
+  "hrkt": "おかす",
+  "latn": "okasu",
+  "en": "commit (a crime), make (a mistake)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01743A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大きな過ちを<b>犯して</b>いる。",
+      "hrkt": "かれ は おおきな あやまち を <b>おかして</b> いる。",
+      "latn": "kare ha ookina ayamachi wo <b>okashite</b> iru.",
+      "en": "He's making a big mistake.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01743A.mp3"
+    }
+  ]
+}

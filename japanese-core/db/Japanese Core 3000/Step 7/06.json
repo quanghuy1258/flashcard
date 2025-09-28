@@ -1,0 +1,18 @@
+{
+  "ja": "眉毛",
+  "hrkt": "まゆげ",
+  "latn": "mayuge",
+  "en": "eyebrows",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03895A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の<b>眉毛</b>は太いな。",
+      "hrkt": "かのじょ の <b>まゆげ</b> は ふとい な。",
+      "latn": "kanojo no <b>mayuge</b> ha futoi na.",
+      "en": "She has thick eyebrows.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/842t1q0qsk.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03895A.mp3"
+    }
+  ]
+}

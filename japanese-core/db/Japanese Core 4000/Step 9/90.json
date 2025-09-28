@@ -1,0 +1,18 @@
+{
+  "ja": "呼び出す",
+  "hrkt": "よびだす",
+  "latn": "yobidasu",
+  "en": "call, page",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03953A.mp3",
+  "sentences": [
+    {
+      "ja": "親が学校に<b>呼び出された</b>んだ。",
+      "hrkt": "おや が がっこう に <b>よびだされた</b> んだ。",
+      "latn": "oya ga gakkou ni <b>yobidasareta</b> nda.",
+      "en": "My parents were called in to the school.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03953A.mp3"
+    }
+  ]
+}

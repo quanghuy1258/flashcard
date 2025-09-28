@@ -1,0 +1,18 @@
+{
+  "ja": "間",
+  "hrkt": "かん",
+  "latn": "kan",
+  "en": "interval, meantime",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03588A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>間</b>に彼は居なくなっていました。",
+      "hrkt": "その <b>かん</b> に かれ は いなくなって いました。",
+      "latn": "sono <b>kan</b> ni kare ha inakunatte imashita.",
+      "en": "He disappeared in the meantime.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03588A.mp3"
+    }
+  ]
+}

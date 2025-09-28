@@ -1,0 +1,26 @@
+{
+  "ja": "読み方",
+  "hrkt": "よみかた",
+  "latn": "yomikata",
+  "en": "how to read, way of reading",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09727A.mp3",
+  "sentences": [
+    {
+      "ja": "この漢字の<b>読み方</b>を教えてください。",
+      "hrkt": "この かんじ の <b>よみかた</b> を おしえて ください。",
+      "latn": "kono kanji no <b>yomikata</b> wo oshiete kudasai.",
+      "en": "Please tell me how to read this Chinese character.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5391266.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09727A.mp3"
+    },
+    {
+      "ja": "子供に新聞の正しい<b>読み方</b>を教えました。",
+      "hrkt": "こども に しんぶん の ただしい <b>よみかた</b> を おしえました。",
+      "latn": "kodomo ni shinbun no tadashii <b>yomikata</b> wo oshiemashita.",
+      "en": "I taught my child the right way to read a newspaper.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/15dmdaa78o.mp3"
+    }
+  ]
+}

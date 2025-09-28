@@ -1,0 +1,18 @@
+{
+  "ja": "直径",
+  "hrkt": "ちょっけい",
+  "latn": "chokkei",
+  "en": "diameter",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00860A.mp3",
+  "sentences": [
+    {
+      "ja": "この円は<b>直径</b>6センチです。",
+      "hrkt": "この えん は <b>ちょっけい</b> 6 センチ です。",
+      "latn": "kono en ha <b>chokkei</b> 6 senchi desu.",
+      "en": "This circle has a diameter of 6cm.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00860A.mp3"
+    }
+  ]
+}

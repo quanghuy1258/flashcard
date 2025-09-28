@@ -1,0 +1,18 @@
+{
+  "ja": "リズム",
+  "hrkt": "リズム",
+  "latn": "rizumu",
+  "en": "rhythm",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01952A.mp3",
+  "sentences": [
+    {
+      "ja": "最近彼は生活の<b>リズム</b>が乱れています。",
+      "hrkt": "さいきん かれ は せいかつ の <b>リズム</b> が みだれて います。",
+      "latn": "saikin kare ha seikatsu no <b>rizumu</b> ga midarete imasu.",
+      "en": "His daily routine has been disrupted lately.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01952A.mp3"
+    }
+  ]
+}

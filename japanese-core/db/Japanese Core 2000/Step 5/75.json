@@ -1,0 +1,26 @@
+{
+  "ja": "押し入れ",
+  "hrkt": "おしいれ",
+  "latn": "oshiire",
+  "en": "sliding-door closet",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01074A.mp3",
+  "sentences": [
+    {
+      "ja": "布団を<b>押し入れ</b>にしまいました。",
+      "hrkt": "ふとん を <b>おしいれ</b> に しまいました。",
+      "latn": "futon wo <b>oshiire</b> ni shimaimashita.",
+      "en": "I put my futon in the closet.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2443124.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01074A.mp3"
+    },
+    {
+      "ja": "古い本は<b>押し入れ</b>に入っています。",
+      "hrkt": "ふるい ほん は <b>おしいれ</b> に はいって います。",
+      "latn": "furui hon ha <b>oshiire</b> ni haitte imasu.",
+      "en": "The old books are in the sliding-door closet.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f402203858.mp3"
+    }
+  ]
+}

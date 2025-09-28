@@ -1,0 +1,26 @@
+{
+  "ja": "願う",
+  "hrkt": "ねがう",
+  "latn": "negau",
+  "en": "wish, desire",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06958A.mp3",
+  "sentences": [
+    {
+      "ja": "彼が元気になるよう<b>願って</b>います。",
+      "hrkt": "かれ が げんき に なる よう <b>ねがって</b> います。",
+      "latn": "kare ga genki ni naru you <b>negatte</b> imasu.",
+      "en": "I wish he gets well.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3095333.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06958A.mp3"
+    },
+    {
+      "ja": "あなたのプロジェクトの成功を<b>願って</b>います。",
+      "hrkt": "あなた の プロジェクト の せいこう を <b>ねがって</b> います。",
+      "latn": "anata no purojekuto no seikou wo <b>negatte</b> imasu.",
+      "en": "I wish for the success of your project.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f648b01d74.mp3"
+    }
+  ]
+}

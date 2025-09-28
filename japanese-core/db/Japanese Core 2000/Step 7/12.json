@@ -1,0 +1,26 @@
+{
+  "ja": "酔っ払う",
+  "hrkt": "よっぱらう",
+  "latn": "yopparau",
+  "en": "get drunk",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09705A.mp3",
+  "sentences": [
+    {
+      "ja": "ゆうべは<b>酔っ払いました</b>。",
+      "hrkt": "ゆうべ は <b>よっぱらいました</b>。",
+      "latn": "yuube ha <b>yopparaimashita</b>.",
+      "en": "I got drunk last night.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6570499.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09705A.mp3"
+    },
+    {
+      "ja": "彼女は<b>酔っ払う</b>とすぐ泣く。",
+      "hrkt": "かのじょ は <b>よっぱらう</b> と すぐ なく。",
+      "latn": "kanojo ha <b>yopparau</b> to sugu naku.",
+      "en": "When she gets drunk, she quickly cries.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/44af51d0rk.mp3"
+    }
+  ]
+}

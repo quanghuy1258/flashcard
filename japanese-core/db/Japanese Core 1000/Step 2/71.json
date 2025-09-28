@@ -1,0 +1,26 @@
+{
+  "ja": "やる",
+  "hrkt": "やる",
+  "latn": "yaru",
+  "en": "do, give",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09462A.mp3",
+  "sentences": [
+    {
+      "ja": "一緒に宿題を<b>やろう</b>。",
+      "hrkt": "いっしょ に しゅくだい を <b>やろう</b>。",
+      "latn": "issho ni shukudai wo <b>yarou</b>.",
+      "en": "Let's do our homework together.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4629781.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09462A.mp3"
+    },
+    {
+      "ja": "宿題は自分で<b>やりなさい</b>。",
+      "hrkt": "しゅくだい は じぶん で <b>やりなさい</b>。",
+      "latn": "shukudai ha jibun de <b>yarinasai</b>.",
+      "en": "Do your homework by yourself.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5165276.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03837A.mp3"
+    }
+  ]
+}

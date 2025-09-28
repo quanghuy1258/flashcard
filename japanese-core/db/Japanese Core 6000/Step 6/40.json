@@ -1,0 +1,18 @@
+{
+  "ja": "敗れる",
+  "hrkt": "やぶれる",
+  "latn": "yabureru",
+  "en": "be defeated, lose (a game)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01299A.mp3",
+  "sentences": [
+    {
+      "ja": "私のチームは1回戦で<b>敗れた</b>よ。",
+      "hrkt": "わたし の チーム は 1 かい せん で <b>やぶれた</b> よ。",
+      "latn": "watashi no chi-mu ha 1 kai sen de <b>yabureta</b> yo.",
+      "en": "My team lost in the first match.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01299A.mp3"
+    }
+  ]
+}

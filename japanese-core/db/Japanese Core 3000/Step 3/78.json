@@ -1,0 +1,18 @@
+{
+  "ja": "赤字",
+  "hrkt": "あかじ",
+  "latn": "akaji",
+  "en": "deficit, in the red",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02666A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちの会社は今月は<b>赤字</b>よ。",
+      "hrkt": "わたし たち の かいしゃ は こんげつ は <b>あかじ</b> よ。",
+      "latn": "watashi tachi no kaisha ha kongetsu ha <b>akaji</b> yo.",
+      "en": "Our company is in deficit this month.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/55111teto8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02666A.mp3"
+    }
+  ]
+}

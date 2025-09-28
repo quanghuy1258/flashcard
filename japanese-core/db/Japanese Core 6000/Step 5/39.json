@@ -1,0 +1,18 @@
+{
+  "ja": "我が国",
+  "hrkt": "わがくに",
+  "latn": "wagakuni",
+  "en": "our country",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02367A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>我が国</b>を代表する作家です。",
+      "hrkt": "かれ は <b>わがくに</b> を だいひょう する さっか です。",
+      "latn": "kare ha <b>wagakuni</b> wo daihyou suru sakka desu.",
+      "en": "He's a writer representative of our country.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02367A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "半面",
+  "hrkt": "はんめん",
+  "latn": "hanmen",
+  "en": "half, one side",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01356A.mp3",
+  "sentences": [
+    {
+      "ja": "テニスコートの<b>半面</b>を使って試合をしたの。",
+      "hrkt": "テニス コート の <b>はんめん</b> を つかって しあい を した の。",
+      "latn": "tenisu ko-to no <b>hanmen</b> wo tsukatte shiai wo shita no.",
+      "en": "We played tennis using one half of the court.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01356A.mp3"
+    }
+  ]
+}

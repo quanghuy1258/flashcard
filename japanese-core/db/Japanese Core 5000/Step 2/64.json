@@ -1,0 +1,18 @@
+{
+  "ja": "ほえる",
+  "hrkt": "ほえる",
+  "latn": "hoeru",
+  "en": "bark, roar",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03871A.mp3",
+  "sentences": [
+    {
+      "ja": "どこかで犬が<b>ほえて</b>いますね。",
+      "hrkt": "どこ か で いぬ が <b>ほえて</b> います ね 。",
+      "latn": "doko ka de inu ga <b>hoete</b> imasu ne .",
+      "en": "A dog is barking somewhere.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03871A.mp3"
+    }
+  ]
+}

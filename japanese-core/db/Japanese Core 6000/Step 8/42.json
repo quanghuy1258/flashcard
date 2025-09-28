@@ -1,0 +1,18 @@
+{
+  "ja": "不得意",
+  "hrkt": "ふとくい",
+  "latn": "futokui",
+  "en": "not good at, weak",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03108A.mp3",
+  "sentences": [
+    {
+      "ja": "私は数学が<b>不得意</b>です。",
+      "hrkt": "わたし は すうがく が <b>ふとくい</b> です。",
+      "latn": "watashi ha suugaku ga <b>futokui</b> desu.",
+      "en": "I'm not good at math.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03108A.mp3"
+    }
+  ]
+}

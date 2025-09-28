@@ -1,0 +1,26 @@
+{
+  "ja": "くし",
+  "hrkt": "くし",
+  "latn": "kushi",
+  "en": "comb",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02432A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>くし</b>で髪をとかした。",
+      "hrkt": "かれ は <b>くし</b> で かみ を とかした。",
+      "latn": "kare ha <b>kushi</b> de kami wo tokashita.",
+      "en": "He combed his hair.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6347576.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02432A.mp3"
+    },
+    {
+      "ja": "この<b>くし</b>はおばあちゃんからもらいました。",
+      "hrkt": "この <b>くし</b> は おばあちゃん から もらいました。",
+      "latn": "kono <b>kushi</b> ha obaachan kara moraimashita.",
+      "en": "I got this comb from my grandmother.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/145i9pe570.mp3"
+    }
+  ]
+}

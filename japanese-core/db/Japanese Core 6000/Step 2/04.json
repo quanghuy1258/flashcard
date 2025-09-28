@@ -1,0 +1,18 @@
+{
+  "ja": "打ち込む",
+  "hrkt": "うちこむ",
+  "latn": "uchikomu",
+  "en": "devote oneself, dedicate oneself to",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01831A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は研究に<b>打ち込んで</b>います。",
+      "hrkt": "かれ は けんきゅう に <b>うちこんで</b> います。",
+      "latn": "kare ha kenkyuu ni <b>uchikonde</b> imasu.",
+      "en": "He's dedicated to his research.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01831A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ゴム",
+  "hrkt": "ゴム",
+  "latn": "gomu",
+  "en": "elastic, rubber",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03205A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ゴム</b>が伸びてしまった。",
+      "hrkt": "<b>ゴム</b> が のびて しまった。",
+      "latn": "<b>gomu</b> ga nobite shimatta.",
+      "en": "The elastic has gone loose.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6410176.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03205A.mp3"
+    },
+    {
+      "ja": "私は海に<b>ゴム</b>ボートを持っていきました。",
+      "hrkt": "わたし は うみ に <b>ゴム</b> ボート を もって いきました。",
+      "latn": "watashi ha umi ni <b>gomu</b> bo-to wo motte ikimashita.",
+      "en": "I took a rubber boat to the sea.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c5fq5b9jbs.mp3"
+    }
+  ]
+}

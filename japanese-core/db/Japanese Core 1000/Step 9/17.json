@@ -1,0 +1,26 @@
+{
+  "ja": "ガス",
+  "hrkt": "ガス",
+  "latn": "gasu",
+  "en": "gas (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01605A.mp3",
+  "sentences": [
+    {
+      "ja": "地震で<b>ガス</b>が止まった。",
+      "hrkt": "じしん で <b>ガス</b> が とまった。",
+      "latn": "jishin de <b>gasu</b> ga tomatta.",
+      "en": "The gas line stopped due to the earthquake.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4692528.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01605A.mp3"
+    },
+    {
+      "ja": "<b>ガス</b>を使う時は気を付けてください。",
+      "hrkt": "<b>ガス</b> を つかう とき は き を つけて ください。",
+      "latn": "<b>gasu</b> wo tsukau toki ha ki wo tsukete kudasai.",
+      "en": "Please be careful when you use gas.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f49ed3754g.mp3"
+    }
+  ]
+}

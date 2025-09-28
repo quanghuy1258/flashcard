@@ -1,0 +1,18 @@
+{
+  "ja": "とじる",
+  "hrkt": "とじる",
+  "latn": "tojiru",
+  "en": "file, put something in (a folder, file etc.)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03463A.mp3",
+  "sentences": [
+    {
+      "ja": "書類はこのファイルに<b>とじて</b>ください。",
+      "hrkt": "しょるい は この ファイル に <b>とじて</b> ください。",
+      "latn": "shorui ha kono fairu ni <b>tojite</b> kudasai.",
+      "en": "Please put the documents in this file.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03463A.mp3"
+    }
+  ]
+}

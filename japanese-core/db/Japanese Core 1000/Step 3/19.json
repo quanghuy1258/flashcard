@@ -1,0 +1,26 @@
+{
+  "ja": "悲しい",
+  "hrkt": "かなしい",
+  "latn": "kanashii",
+  "en": "sad",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01720A.mp3",
+  "sentences": [
+    {
+      "ja": "その映画はとても<b>悲しかった</b>。",
+      "hrkt": "その えいが は とても <b>かなしかった</b>。",
+      "latn": "sono eiga ha totemo <b>kanashikatta</b>.",
+      "en": "It was a very sad movie.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4594623.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01720A.mp3"
+    },
+    {
+      "ja": "うちのネコが死んでとても<b>悲しい</b>です。",
+      "hrkt": "うち の ネコ が しんで とても <b>かなしい</b> です。",
+      "latn": "uchi no neko ga shinde totemo <b>kanashii</b> desu.",
+      "en": "I'm very sad that our cat died.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/66e70u6jtc.mp3"
+    }
+  ]
+}

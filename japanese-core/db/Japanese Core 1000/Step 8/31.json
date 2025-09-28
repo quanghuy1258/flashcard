@@ -1,0 +1,26 @@
+{
+  "ja": "中学校",
+  "hrkt": "ちゅうがっこう",
+  "latn": "chuugakkou",
+  "en": "junior high school",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05651A.mp3",
+  "sentences": [
+    {
+      "ja": "息子の<b>中学校</b>は家から5分です。",
+      "hrkt": "むすこ の <b>ちゅうがっこう</b> は いえ から 5 ふん です。",
+      "latn": "musuko no <b>chuugakkou</b> ha ie kara 5 fun desu.",
+      "en": "My son's junior high is five minutes from our house.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/535464.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05651A.mp3"
+    },
+    {
+      "ja": "この<b>中学校</b>は生徒が何人いますか。",
+      "hrkt": "この <b>ちゅうがっこう</b> は せいと が なん にん います か。",
+      "latn": "kono <b>chuugakkou</b> ha seito ga nan nin imasu ka.",
+      "en": "How many students are there in this junior high school?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/54dh0uc8qg.mp3"
+    }
+  ]
+}

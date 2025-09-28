@@ -1,0 +1,18 @@
+{
+  "ja": "コンテスト",
+  "hrkt": "コンテスト",
+  "latn": "kontesuto",
+  "en": "contest, competition",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02556A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>コンテスト</b>に優勝すると車がもらえるんだ。",
+      "hrkt": "この <b>コンテスト</b> に ゆうしょう する と くるま が もらえる ん だ。",
+      "latn": "kono <b>kontesuto</b> ni yuushou suru to kuruma ga moraeru n da.",
+      "en": "If you win this contest, you'll get a car.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d20l0n4nfo.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02556A.mp3"
+    }
+  ]
+}

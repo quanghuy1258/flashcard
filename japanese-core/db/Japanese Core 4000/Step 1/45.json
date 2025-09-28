@@ -1,0 +1,18 @@
+{
+  "ja": "無視",
+  "hrkt": "むし",
+  "latn": "mushi",
+  "en": "ignoring, disregarding",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00069A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の意見は<b>無視</b>されたよ。",
+      "hrkt": "かれ の いけん は <b>むし</b> された よ。",
+      "latn": "kare no iken ha <b>mushi</b> sareta yo.",
+      "en": "His opinion was disregarded.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/249qa51d6c.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00069A.mp3"
+    }
+  ]
+}

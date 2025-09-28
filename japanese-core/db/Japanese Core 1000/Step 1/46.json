@@ -1,0 +1,26 @@
+{
+  "ja": "あげる",
+  "hrkt": "あげる",
+  "latn": "ageru",
+  "en": "give, offer (colloquial)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00095A.mp3",
+  "sentences": [
+    {
+      "ja": "この本、あなたに<b>あげます</b>。",
+      "hrkt": "この ほん、あなた に <b>あげます</b>。",
+      "latn": "kono hon,anata ni <b>agemasu</b>.",
+      "en": "I'll give you this book.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1096238.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00095A.mp3"
+    },
+    {
+      "ja": "赤ちゃんにミルクを<b>あげた</b>。",
+      "hrkt": "あかちゃん に ミルク を <b>あげた</b>。",
+      "latn": "akachan ni miruku wo <b>ageta</b>.",
+      "en": "I gave the baby some milk.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4300028.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09013A.mp3"
+    }
+  ]
+}

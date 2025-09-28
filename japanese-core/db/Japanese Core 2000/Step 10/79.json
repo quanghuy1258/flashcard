@@ -1,0 +1,26 @@
+{
+  "ja": "マイナス",
+  "hrkt": "マイナス",
+  "latn": "mainasu",
+  "en": "minus, below zero",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00975A.mp3",
+  "sentences": [
+    {
+      "ja": "外の温度は<b>マイナス</b>3度です。",
+      "hrkt": "そと の おんど は <b>マイナス</b> 3ど です。",
+      "latn": "soto no ondo ha <b>mainasu</b> 3do desu.",
+      "en": "The temperature outside is minus three degrees.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1343522.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00975A.mp3"
+    },
+    {
+      "ja": "彼が辞めたのは、会社にとって大きな<b>マイナス</b>だ。",
+      "hrkt": "かれ が やめた の は、かいしゃ にとって おおきな <b>マイナス</b> だ。",
+      "latn": "kare ga yameta no ha,kaisha nitotte ookina <b>mainasu</b> da.",
+      "en": "His departure had a large negative effect on the company.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/9537fd45eg.mp3"
+    }
+  ]
+}

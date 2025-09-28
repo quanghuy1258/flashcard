@@ -1,0 +1,18 @@
+{
+  "ja": "外来語",
+  "hrkt": "がいらいご",
+  "latn": "gairaigo",
+  "en": "loanword, foreign word",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02114A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>外来語</b>は一般にカタカナで書かれます。",
+      "hrkt": "<b>がいらい ご</b> は いっぱん に カタカナ で かかれます。",
+      "latn": "<b>gairai go</b> ha ippan ni katakana de kakaremasu.",
+      "en": "In general, loanwords are written in katakana.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02114A.mp3"
+    }
+  ]
+}

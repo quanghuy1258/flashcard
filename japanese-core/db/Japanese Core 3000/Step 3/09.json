@@ -1,0 +1,18 @@
+{
+  "ja": "立ち入り禁止",
+  "hrkt": "たちいりきんし",
+  "latn": "tachiirikinshi",
+  "en": "no trespassing",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02527A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>立ち入り禁止</b>です。",
+      "hrkt": "ここ は <b>たちいり きんし</b> です。",
+      "latn": "koko ha <b>tachiiri kinshi</b> desu.",
+      "en": "No trespassing here.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c55n1c6h1g.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02527A.mp3"
+    }
+  ]
+}

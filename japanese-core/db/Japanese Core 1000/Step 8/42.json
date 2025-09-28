@@ -1,0 +1,26 @@
+{
+  "ja": "いつか",
+  "hrkt": "いつか",
+  "latn": "itsuka",
+  "en": "some time, some day",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00503A.mp3",
+  "sentences": [
+    {
+      "ja": "僕は<b>いつか</b>アフリカに行きたい。",
+      "hrkt": "ぼく は <b>いつか</b> アフリカ に いきたい。",
+      "latn": "boku ha <b>itsuka</b> afurika ni ikitai.",
+      "en": "I want to go to Africa some day.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/759213.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00503A.mp3"
+    },
+    {
+      "ja": "私は<b>いつか</b>、日本語の先生になりたいです。",
+      "hrkt": "わたし は <b>いつか</b>、にほん ご の せんせい に なりたい です。",
+      "latn": "watashi ha <b>itsuka</b>,nihon go no sensei ni naritai desu.",
+      "en": "I want to be a Japanese teacher someday.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c4323edlss.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "のり",
+  "hrkt": "のり",
+  "latn": "nori",
+  "en": "glue, starch",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07116A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>のり</b>で2枚の紙を貼り合わせた。",
+      "hrkt": "<b>のり</b> で 2 まい の かみ を はりあわせた。",
+      "latn": "<b>nori</b> de 2 mai no kami wo hariawaseta.",
+      "en": "I glued two sheets of paper together.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4113948.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07116A.mp3"
+    },
+    {
+      "ja": "明日、色鉛筆と<b>のり</b>を持ってきてください。",
+      "hrkt": "あした、いろ えんぴつ と <b>のり</b> を もって きて ください。",
+      "latn": "ashita,iro enpitsu to <b>nori</b> wo motte kite kudasai.",
+      "en": "Please bring colored pencils and glue tomorrow.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/25cr9pfkgg.mp3"
+    }
+  ]
+}

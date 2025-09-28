@@ -1,0 +1,18 @@
+{
+  "ja": "前後",
+  "hrkt": "ぜんご",
+  "latn": "zengo",
+  "en": "around, order",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00209A.mp3",
+  "sentences": [
+    {
+      "ja": "そちらに着くのは6時<b>前後</b>です。",
+      "hrkt": "そちら に つく の は 6 じ <b>ぜんご</b> です。",
+      "latn": "sochira ni tsuku no ha 6 ji <b>zengo</b> desu.",
+      "en": "I will arrive there around 6 o'clock.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/11bk1k5mno.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00209A.mp3"
+    }
+  ]
+}

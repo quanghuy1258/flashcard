@@ -1,0 +1,26 @@
+{
+  "ja": "高校生",
+  "hrkt": "こうこうせい",
+  "latn": "koukousei",
+  "en": "high school student",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02905A.mp3",
+  "sentences": [
+    {
+      "ja": "私の弟は<b>高校生</b>です。",
+      "hrkt": "わたし の おとうと は <b>こうこうせい</b> です。",
+      "latn": "watashi no otouto ha <b>koukousei</b> desu.",
+      "en": "My little brother's a high school student.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5971724.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02905A.mp3"
+    },
+    {
+      "ja": "<b>高校生</b>の時、よく図書館で勉強した。",
+      "hrkt": "<b>こうこうせい</b> の とき、 よく としょかん で べんきょう した。",
+      "latn": "<b>koukousei</b> no toki, yoku toshokan de benkyou shita.",
+      "en": "When I was a high school student, I often studied in the library.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/358u32f2g4.mp3"
+    }
+  ]
+}

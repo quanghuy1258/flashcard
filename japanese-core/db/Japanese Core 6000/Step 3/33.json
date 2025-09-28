@@ -1,0 +1,18 @@
+{
+  "ja": "夕暮れ",
+  "hrkt": "ゆうぐれ",
+  "latn": "yuugure",
+  "en": "dusk, twilight",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01931A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>夕暮れ</b>の空がきれいですね。",
+      "hrkt": "<b>ゆうぐれ</b> の そら が きれい です ね。",
+      "latn": "<b>yuugure</b> no sora ga kirei desu ne.",
+      "en": "The twilight sky is beautiful.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01931A.mp3"
+    }
+  ]
+}

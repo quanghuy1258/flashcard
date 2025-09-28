@@ -1,0 +1,18 @@
+{
+  "ja": "今にも",
+  "hrkt": "いまにも",
+  "latn": "imanimo",
+  "en": "at any moment",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02803A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今にも</b>雨が降りそうですね。",
+      "hrkt": "<b>いま に も</b> あめ が ふり そうです ね。",
+      "latn": "<b>ima ni mo</b> ame ga furi soudesu ne.",
+      "en": "It looks like it's going to rain at any moment.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02803A.mp3"
+    }
+  ]
+}

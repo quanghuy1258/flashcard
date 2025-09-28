@@ -1,0 +1,18 @@
+{
+  "ja": "一面",
+  "hrkt": "いちめん",
+  "latn": "ichimen",
+  "en": "whole surface",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01417A.mp3",
+  "sentences": [
+    {
+      "ja": "外は<b>一面</b>の雪景色だったね。",
+      "hrkt": "そと は <b>いちめん</b> の ゆきげしき だった ね。",
+      "latn": "soto ha <b>ichimen</b> no yukigeshiki datta ne.",
+      "en": "The whole surface was covered with snow outside.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01417A.mp3"
+    }
+  ]
+}

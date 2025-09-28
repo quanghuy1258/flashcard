@@ -1,0 +1,26 @@
+{
+  "ja": "犬",
+  "hrkt": "いぬ",
+  "latn": "inu",
+  "en": "dog",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00562A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>犬</b>が大好きだ。",
+      "hrkt": "わたし は <b>いぬ</b> が だいすき だ。",
+      "latn": "watashi ha <b>inu</b> ga daisuki da.",
+      "en": "I love dogs.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5635350.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05207A.mp3"
+    },
+    {
+      "ja": "隣の家には<b>犬</b>がいます。",
+      "hrkt": "となり の いえ に は <b>いぬ</b> が います。",
+      "latn": "tonari no ie ni ha <b>inu</b> ga imasu.",
+      "en": "They have a dog next door.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1726812.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06478A.mp3"
+    }
+  ]
+}

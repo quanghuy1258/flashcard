@@ -1,0 +1,26 @@
+{
+  "ja": "星",
+  "hrkt": "ほし",
+  "latn": "hoshi",
+  "en": "star, planet",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08514A.mp3",
+  "sentences": [
+    {
+      "ja": "今夜は<b>星</b>がよく見えます。",
+      "hrkt": "こんや は <b>ほし</b> が よく みえます。",
+      "latn": "kon'ya ha <b>hoshi</b> ga yoku miemasu.",
+      "en": "You can see the stars clearly tonight.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4504819.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08514A.mp3"
+    },
+    {
+      "ja": "<b>星</b>がきらきら光っている。",
+      "hrkt": "<b>ほし</b> が きらきら ひかって いる。",
+      "latn": "<b>hoshi</b> ga kirakira hikatte iru.",
+      "en": "The stars are shining brightly.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5488424.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02315A.mp3"
+    }
+  ]
+}

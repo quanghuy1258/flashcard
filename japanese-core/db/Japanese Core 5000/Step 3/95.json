@@ -1,0 +1,18 @@
+{
+  "ja": "空手",
+  "hrkt": "からて",
+  "latn": "karate",
+  "en": "karate",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01816A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>空手</b>を習っています。",
+      "hrkt": "かれ は <b>からて</b> を ならって います。",
+      "latn": "kare ha <b>karate</b> wo naratte imasu.",
+      "en": "He's learning karate.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01816A.mp3"
+    }
+  ]
+}

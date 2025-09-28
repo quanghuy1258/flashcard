@@ -1,0 +1,18 @@
+{
+  "ja": "謎",
+  "hrkt": "なぞ",
+  "latn": "nazo",
+  "en": "puzzle, mystery",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02575A.mp3",
+  "sentences": [
+    {
+      "ja": "ピラミッドには<b>謎</b>が多いんだ。",
+      "hrkt": "ピラミッド に は <b>なぞ</b> が おおい ん だ。",
+      "latn": "piramiddo ni ha <b>nazo</b> ga ooi n da.",
+      "en": "There are a lot of mysteries about pyramids.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/04afb80ffs.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02575A.mp3"
+    }
+  ]
+}

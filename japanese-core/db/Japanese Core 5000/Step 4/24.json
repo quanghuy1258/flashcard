@@ -1,0 +1,18 @@
+{
+  "ja": "長方形",
+  "hrkt": "ちょうほうけい",
+  "latn": "chouhoukei",
+  "en": "rectangle",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02487A.mp3",
+  "sentences": [
+    {
+      "ja": "私の部屋は<b>長方形</b>です。",
+      "hrkt": "わたし の へや は <b>ちょうほうけい</b> です。",
+      "latn": "watashi no heya ha <b>chouhoukei</b> desu.",
+      "en": "My room is rectangular.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02487A.mp3"
+    }
+  ]
+}

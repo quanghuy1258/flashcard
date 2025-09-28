@@ -1,0 +1,18 @@
+{
+  "ja": "公衆",
+  "hrkt": "こうしゅう",
+  "latn": "koushuu",
+  "en": "general public, for public use",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02042A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>公衆</b>電話を探したの。",
+      "hrkt": "かれ は <b>こうしゅう</b> でんわ を さがした の。",
+      "latn": "kare ha <b>koushuu</b> denwa wo sagashita no.",
+      "en": "He looked for a public phone.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02042A.mp3"
+    }
+  ]
+}

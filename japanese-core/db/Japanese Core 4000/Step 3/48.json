@@ -1,0 +1,18 @@
+{
+  "ja": "回転",
+  "hrkt": "かいてん",
+  "latn": "kaiten",
+  "en": "spin, rotation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00595A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はボールに<b>回転</b>をかけたんだ。",
+      "hrkt": "かれ は ボール に <b>かいてん</b> を かけた ん だ。",
+      "latn": "kare ha bo-ru ni <b>kaiten</b> wo kaketa n da.",
+      "en": "He put a spin on the ball.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00595A.mp3"
+    }
+  ]
+}

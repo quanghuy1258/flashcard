@@ -1,0 +1,18 @@
+{
+  "ja": "選択",
+  "hrkt": "せんたく",
+  "latn": "sentaku",
+  "en": "selection, choice",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00074A.mp3",
+  "sentences": [
+    {
+      "ja": "この5種類から<b>選択</b>できます。",
+      "hrkt": "この 5 しゅるい から <b>せんたく</b> できます。",
+      "latn": "kono 5 shurui kara <b>sentaku</b> dekimasu.",
+      "en": "You can select one from these five types.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/849n3c2vs8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00074A.mp3"
+    }
+  ]
+}

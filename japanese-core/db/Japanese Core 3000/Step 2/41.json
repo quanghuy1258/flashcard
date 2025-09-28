@@ -1,0 +1,18 @@
+{
+  "ja": "あきれる",
+  "hrkt": "あきれる",
+  "latn": "akireru",
+  "en": "be amazed at, be stunned by (something negative)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03508A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の頑固さには<b>あきれました</b>。",
+      "hrkt": "かれ の がんこさ に は <b>あきれました</b>。",
+      "latn": "kare no gankosa ni ha <b>akiremashita</b>.",
+      "en": "I was amazed at his stubbornness.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/756k2rdt3c.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03508A.mp3"
+    }
+  ]
+}

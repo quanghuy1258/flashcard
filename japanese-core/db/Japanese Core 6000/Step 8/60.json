@@ -1,0 +1,18 @@
+{
+  "ja": "地下道",
+  "hrkt": "ちかどう",
+  "latn": "chikadou",
+  "en": "underground passage",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03232A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>地下道</b>を通っていきましょう。",
+      "hrkt": "<b>ちかどう</b> を とおって いきましょう 。",
+      "latn": "<b>chikadou</b> wo tootte ikimashou .",
+      "en": "Let's go through the underpass.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03232A.mp3"
+    }
+  ]
+}

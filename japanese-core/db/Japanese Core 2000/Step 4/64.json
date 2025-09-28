@@ -1,0 +1,26 @@
+{
+  "ja": "利用",
+  "hrkt": "りよう",
+  "latn": "riyou",
+  "en": "utilization, usage",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09845A.mp3",
+  "sentences": [
+    {
+      "ja": "私はよく図書館を<b>利用</b>します。",
+      "hrkt": "わたし は よく としょかん を <b>りよう</b> します。",
+      "latn": "watashi ha yoku toshokan wo <b>riyou</b> shimasu.",
+      "en": "I often go to the library.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6334409.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09845A.mp3"
+    },
+    {
+      "ja": "このホテルを<b>利用</b>するのは初めてです。",
+      "hrkt": "この ホテル を <b>りよう</b> する の は はじめて です。",
+      "latn": "kono hoteru wo <b>riyou</b> suru no ha hajimete desu.",
+      "en": "This is my first time using this hotel.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f63hfde9sk.mp3"
+    }
+  ]
+}

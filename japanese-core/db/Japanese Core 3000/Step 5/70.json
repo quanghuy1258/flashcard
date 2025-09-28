@@ -1,0 +1,18 @@
+{
+  "ja": "百貨店",
+  "hrkt": "ひゃっかてん",
+  "latn": "hyakkaten",
+  "en": "department store",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01128A.mp3",
+  "sentences": [
+    {
+      "ja": "友達と<b>百貨店</b>で買い物をしました。",
+      "hrkt": "ともだち と <b>ひゃっかてん</b> で かいもの を しました。",
+      "latn": "tomodachi to <b>hyakkaten</b> de kaimono wo shimashita.",
+      "en": "I went shopping at the department store with my friend.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/441affedd4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01128A.mp3"
+    }
+  ]
+}

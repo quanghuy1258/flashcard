@@ -1,0 +1,26 @@
+{
+  "ja": "引き出し",
+  "hrkt": "ひきだし",
+  "latn": "hikidashi",
+  "en": "drawer",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07643A.mp3",
+  "sentences": [
+    {
+      "ja": "財布は<b>引き出し</b>の中にあります。",
+      "hrkt": "さいふ は <b>ひきだし</b> の なか に あります。",
+      "latn": "saifu ha <b>hikidashi</b> no naka ni arimasu.",
+      "en": "My purse is in the drawer.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1405724.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07643A.mp3"
+    },
+    {
+      "ja": "ハンカチはいちばん上の<b>引き出し</b>に入っています。",
+      "hrkt": "ハンカチ は いちばん うえ の <b>ひきだし</b> に はいって います。",
+      "latn": "hankachi ha ichiban ue no <b>hikidashi</b> ni haitte imasu.",
+      "en": "Handkerchiefs are in the top drawer.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/055tdvd7ls.mp3"
+    }
+  ]
+}

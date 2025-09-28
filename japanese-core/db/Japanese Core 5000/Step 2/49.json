@@ -1,0 +1,18 @@
+{
+  "ja": "消毒",
+  "hrkt": "しょうどく",
+  "latn": "shoudoku",
+  "en": "disinfection, sterilization",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02384A.mp3",
+  "sentences": [
+    {
+      "ja": "足の傷を<b>消毒</b>したわ。",
+      "hrkt": "あし の きず を <b>しょうどく</b> した わ。",
+      "latn": "ashi no kizu wo <b>shoudoku</b> shita wa.",
+      "en": "I disinfected the wound on my foot.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02384A.mp3"
+    }
+  ]
+}

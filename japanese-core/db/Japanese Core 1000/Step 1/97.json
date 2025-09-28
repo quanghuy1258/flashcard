@@ -1,0 +1,26 @@
+{
+  "ja": "友達",
+  "hrkt": "ともだち",
+  "latn": "tomodachi",
+  "en": "friend, companion (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06516A.mp3",
+  "sentences": [
+    {
+      "ja": "私には<b>友達</b>がたくさんいます。",
+      "hrkt": "わたし に は <b>ともだち</b> が たくさん います。",
+      "latn": "watashi ni ha <b>tomodachi</b> ga takusan imasu.",
+      "en": "I have a lot of friends.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4854511.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06516A.mp3"
+    },
+    {
+      "ja": "<b>友達</b>とキャンプに行った。",
+      "hrkt": "<b>ともだち</b> と キャンプ に いった。",
+      "latn": "<b>tomodachi</b> to kyanpu ni itta.",
+      "en": "I went camping with my friend.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3707602.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02184A.mp3"
+    }
+  ]
+}

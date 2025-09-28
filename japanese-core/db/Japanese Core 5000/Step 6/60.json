@@ -1,0 +1,18 @@
+{
+  "ja": "元日",
+  "hrkt": "がんじつ",
+  "latn": "ganjitsu",
+  "en": "New Year's Day",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02267A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>元日</b>には初詣に行きます。",
+      "hrkt": "<b>がんじつ</b>  に は はつもうで に いきます。",
+      "latn": "<b>ganjitsu</b>  ni ha hatsumoude ni ikimasu.",
+      "en": "I pay my first visit of the year to a shrine on New Year's Day.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02267A.mp3"
+    }
+  ]
+}

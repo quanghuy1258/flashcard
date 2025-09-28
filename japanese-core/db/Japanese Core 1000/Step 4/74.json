@@ -1,0 +1,26 @@
+{
+  "ja": "夜",
+  "hrkt": "よる",
+  "latn": "yoru",
+  "en": "night (from sunset to sunrise)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09743A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日の<b>夜</b>は家にいました。",
+      "hrkt": "きのう の <b>よる</b> は いえ に いました。",
+      "latn": "kinou no <b>yoru</b> ha ie ni imashita.",
+      "en": "I was at home last night.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/dlchdo53hmvhk.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09743A.mp3"
+    },
+    {
+      "ja": "<b>夜</b>のニュースを見ましたか。",
+      "hrkt": "<b>よる</b> の ニュース を みました か。",
+      "latn": "<b>yoru</b> no nyu-su wo mimashita ka.",
+      "en": "Did you see the news last night?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4841232.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06890A.mp3"
+    }
+  ]
+}

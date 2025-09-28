@@ -1,0 +1,26 @@
+{
+  "ja": "新年",
+  "hrkt": "しんねん",
+  "latn": "shinnen",
+  "en": "new year",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04433A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>新年</b>明けましておめでとうございます。",
+      "hrkt": "<b>しんねん</b> あけまして おめでとう ございます。",
+      "latn": "<b>shinnen</b> akemashite omedetou gozaimasu.",
+      "en": "Happy new year.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4547364.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04433A.mp3"
+    },
+    {
+      "ja": "私たちは毎年、<b>新年</b>に家族で集まります。",
+      "hrkt": "わたし たち は まいとし、<b>しんねん</b> に かぞく で あつまります。",
+      "latn": "watashi tachi ha maitoshi,<b>shinnen</b> ni kazoku de atsumarimasu.",
+      "en": "We get together with our family members for the New Year celebration every year.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/454l2m502o.mp3"
+    }
+  ]
+}

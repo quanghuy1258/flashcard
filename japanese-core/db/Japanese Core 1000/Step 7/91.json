@@ -1,0 +1,26 @@
+{
+  "ja": "子",
+  "hrkt": "こ",
+  "latn": "ko",
+  "en": "young child, kid",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02827A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>子</b>は日本語が分からない。",
+      "hrkt": "その <b>こ</b> は にほん ご が わからない。",
+      "latn": "sono <b>ko</b> ha nihon go ga wakaranai.",
+      "en": "That kid doesn't understand Japanese.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4742594.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02827A.mp3"
+    },
+    {
+      "ja": "彼女は2才の<b>子</b>の母親です。",
+      "hrkt": "かのじょ は 2 さい の <b>こ</b> の ははおや です。",
+      "latn": "kanojo ha 2 sai no <b>ko</b> no hahaoya desu.",
+      "en": "She's a mother of a two-year-old kid.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5381866.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00044A.mp3"
+    }
+  ]
+}

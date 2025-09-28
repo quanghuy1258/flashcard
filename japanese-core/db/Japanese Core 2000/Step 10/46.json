@@ -1,0 +1,26 @@
+{
+  "ja": "土地",
+  "hrkt": "とち",
+  "latn": "tochi",
+  "en": "land",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06447A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは父の<b>土地</b>です。",
+      "hrkt": "ここ は ちち の <b>とち</b> です。",
+      "latn": "koko ha chichi no <b>tochi</b> desu.",
+      "en": "This is my father's land.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5265295.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06447A.mp3"
+    },
+    {
+      "ja": "この地域は<b>土地</b>の価格が下がっています。",
+      "hrkt": "この ちいき は <b>とち</b> の かかく が さがって います。",
+      "latn": "kono chiiki ha <b>tochi</b> no kakaku ga sagatte imasu.",
+      "en": "The price of land in this area is going down.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e38d08d47c.mp3"
+    }
+  ]
+}

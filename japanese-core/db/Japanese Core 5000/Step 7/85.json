@@ -1,0 +1,26 @@
+{
+  "ja": "脅かす",
+  "hrkt": "おどかす",
+  "latn": "odokasu",
+  "en": "threaten, scare",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02960A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>脅かさない</b>でよ。",
+      "hrkt": "<b>おどかさない</b> で よ。",
+      "latn": "<b>odokasanai</b> de yo.",
+      "en": "Don't threaten me.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02960A.mp3"
+    },
+    {
+      "ja": "子供が急に大きな声を出して、私を<b>脅かしました</b>。",
+      "hrkt": "こども が きゅう に おおきな こえ を だして、わたし を <b>おどかしました</b>。",
+      "latn": "kodomo ga kyuu ni ookina koe wo dashite,watashi wo <b>odokashimashita</b>.",
+      "en": "My child suddenly screamed and scared me.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e3cm0g1mv4.mp3"
+    }
+  ]
+}

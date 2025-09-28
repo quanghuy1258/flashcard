@@ -1,0 +1,18 @@
+{
+  "ja": "おじさん",
+  "hrkt": "おじさん",
+  "latn": "ojisan",
+  "en": "Mister, middle-aged man",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01761A.mp3",
+  "sentences": [
+    {
+      "ja": "今そこで隣の<b>おじさん</b>に会ったよ。",
+      "hrkt": "いま そこ で となり の <b>おじさん</b> に あった よ。",
+      "latn": "ima soko de tonari no <b>ojisan</b> ni atta yo.",
+      "en": "I just met the man next door.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b557d0es6o.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01761A.mp3"
+    }
+  ]
+}

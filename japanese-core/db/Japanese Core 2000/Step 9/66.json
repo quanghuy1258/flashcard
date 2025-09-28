@@ -1,0 +1,26 @@
+{
+  "ja": "漫画",
+  "hrkt": "まんが",
+  "latn": "manga",
+  "en": "comics, cartoon",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01424A.mp3",
+  "sentences": [
+    {
+      "ja": "妹は<b>漫画</b>が好きです。",
+      "hrkt": "いもうと は <b>まんが</b> が すき です。",
+      "latn": "imouto ha <b>manga</b> ga suki desu.",
+      "en": "My little sister likes comics.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/el3b3e9td1knk.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01424A.mp3"
+    },
+    {
+      "ja": "娘は少女<b>漫画</b>ばかり読んでいる。",
+      "hrkt": "むすめ は しょうじょ <b>まんが</b> ばかり よんで いる。",
+      "latn": "musume ha shoujo <b>manga</b> bakari yonde iru.",
+      "en": "My daughter reads only girls' comics.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d690e75n68.mp3"
+    }
+  ]
+}

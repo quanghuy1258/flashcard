@@ -1,0 +1,26 @@
+{
+  "ja": "ぐらぐら",
+  "hrkt": "ぐらぐら",
+  "latn": "guragura",
+  "en": "shaky, unstable",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02523A.mp3",
+  "sentences": [
+    {
+      "ja": "地震で家が<b>ぐらぐら</b>と揺れた。",
+      "hrkt": "じしん で いえ が <b>ぐらぐら</b> と ゆれた。",
+      "latn": "jishin de ie ga <b>guragura</b> to yureta.",
+      "en": "The house shook because of the earthquake.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5268708.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02523A.mp3"
+    },
+    {
+      "ja": "この椅子は<b>ぐらぐら</b>する。",
+      "hrkt": "この いす は <b>ぐらぐら</b> する。",
+      "latn": "kono isu ha <b>guragura</b> suru.",
+      "en": "This chair is shaky.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/854i5j2fv8.mp3"
+    }
+  ]
+}

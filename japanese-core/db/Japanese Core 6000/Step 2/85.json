@@ -1,0 +1,18 @@
+{
+  "ja": "出血",
+  "hrkt": "しゅっけつ",
+  "latn": "shukketsu",
+  "en": "bleeding",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01769A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>出血</b>がひどいので、医者に行ったほうがいい。",
+      "hrkt": "<b>しゅっけつ</b> が ひどい ので、いしゃ に いった ほう が いい。",
+      "latn": "<b>shukketsu</b> ga hidoi node,isha ni itta hou ga ii.",
+      "en": "You're bleeding badly so you should go see a doctor.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01769A.mp3"
+    }
+  ]
+}

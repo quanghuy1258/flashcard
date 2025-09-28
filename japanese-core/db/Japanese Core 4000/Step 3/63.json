@@ -1,0 +1,18 @@
+{
+  "ja": "表面",
+  "hrkt": "ひょうめん",
+  "latn": "hyoumen",
+  "en": "surface",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00262A.mp3",
+  "sentences": [
+    {
+      "ja": "月の<b>表面</b>にはクレーターがたくさんあるね。",
+      "hrkt": "つき の <b>ひょうめん</b> に は クレーター が たくさん ある ね。",
+      "latn": "tsuki no <b>hyoumen</b> ni ha kure-ta- ga takusan aru ne.",
+      "en": "There are a lot of craters on the surface of the moon.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00262A.mp3"
+    }
+  ]
+}

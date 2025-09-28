@@ -1,0 +1,18 @@
+{
+  "ja": "囲碁",
+  "hrkt": "いご",
+  "latn": "igo",
+  "en": "\"go\" (game)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02171A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の趣味は<b>囲碁</b>です。",
+      "hrkt": "かれ の しゅみ は <b>いご</b> です。",
+      "latn": "kare no shumi ha <b>igo</b> desu.",
+      "en": "His hobby is playing \"go.\"",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02171A.mp3"
+    }
+  ]
+}

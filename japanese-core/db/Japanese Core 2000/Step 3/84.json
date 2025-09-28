@@ -1,0 +1,26 @@
+{
+  "ja": "震える",
+  "hrkt": "ふるえる",
+  "latn": "furueru",
+  "en": "tremble, shake",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08203A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は寒くて<b>震えて</b>いました。",
+      "hrkt": "かれ は さむくて <b>ふるえて</b> いました。",
+      "latn": "kare ha samukute <b>furuete</b> imashita.",
+      "en": "He was shivering with cold.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5711896.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08203A.mp3"
+    },
+    {
+      "ja": "授業中、笑うのを我慢して肩が<b>震えた</b>。",
+      "hrkt": "じゅぎょう ちゅう、わらう の を がまん して かた が <b>ふるえた</b>。",
+      "latn": "jugyou chuu,warau no wo gaman shite kata ga <b>furueta</b>.",
+      "en": "My shoulders were shaking from trying not to laugh during the class.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/857s3s0ksc.mp3"
+    }
+  ]
+}

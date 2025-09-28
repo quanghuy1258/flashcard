@@ -1,0 +1,18 @@
+{
+  "ja": "部品",
+  "hrkt": "ぶひん",
+  "latn": "buhin",
+  "en": "parts, accessories",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00213A.mp3",
+  "sentences": [
+    {
+      "ja": "車の<b>部品</b>を取り替えたんだ。",
+      "hrkt": "くるま の <b>ぶひん</b> を とりかえた ん だ。",
+      "latn": "kuruma no <b>buhin</b> wo torikaeta n da.",
+      "en": "I changed some parts of the car.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00213A.mp3"
+    }
+  ]
+}

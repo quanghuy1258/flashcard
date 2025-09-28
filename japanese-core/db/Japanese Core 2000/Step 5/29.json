@@ -1,0 +1,26 @@
+{
+  "ja": "間違う",
+  "hrkt": "まちがう",
+  "latn": "machigau",
+  "en": "make a mistake, be wrong",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08730A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたは<b>間違って</b>いる。",
+      "hrkt": "あなた は <b>まちがって</b> いる。",
+      "latn": "anata ha <b>machigatte</b> iru.",
+      "en": "You're wrong.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1368725.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08730A.mp3"
+    },
+    {
+      "ja": "この問題、<b>間違って</b>いますよ。",
+      "hrkt": "この もんだい 、<b>まちがって</b> います よ。",
+      "latn": "kono mondai ,<b>machigatte</b> imasu yo.",
+      "en": "You got this problem wrong.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/831e3a2e6c.mp3"
+    }
+  ]
+}

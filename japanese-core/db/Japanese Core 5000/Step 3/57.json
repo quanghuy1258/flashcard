@@ -1,0 +1,18 @@
+{
+  "ja": "嗅ぐ",
+  "hrkt": "かぐ",
+  "latn": "kagu",
+  "en": "smell, sniff",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03341A.mp3",
+  "sentences": [
+    {
+      "ja": "犬がお皿の匂いをクンクン<b>嗅いで</b>いるね。",
+      "hrkt": "いぬ が おさら の におい を クンクン <b>かいで</b> いる ね。",
+      "latn": "inu ga osara no nioi wo kunkun <b>kaide</b> iru ne.",
+      "en": "The dog is sniffing the plate.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03341A.mp3"
+    }
+  ]
+}

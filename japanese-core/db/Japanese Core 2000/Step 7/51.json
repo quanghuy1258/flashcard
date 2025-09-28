@@ -1,0 +1,26 @@
+{
+  "ja": "畳む",
+  "hrkt": "たたむ",
+  "latn": "tatamu",
+  "en": "fold, shut, close",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05360A.mp3",
+  "sentences": [
+    {
+      "ja": "布団を<b>畳んで</b>ください。",
+      "hrkt": "ふとん を <b>たたんで</b> ください。",
+      "latn": "futon wo <b>tatande</b> kudasai.",
+      "en": "Please fold up the futon.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/635531.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05360A.mp3"
+    },
+    {
+      "ja": "母が洗濯物を<b>畳んで</b>います。",
+      "hrkt": "はは が せんたく もの を <b>たたんで</b> います。",
+      "latn": "haha ga sentaku mono wo <b>tatande</b> imasu.",
+      "en": "My mother is folding the laundry.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/44c4as7538.mp3"
+    }
+  ]
+}

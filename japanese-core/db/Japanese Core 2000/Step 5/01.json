@@ -1,0 +1,26 @@
+{
+  "ja": "登る",
+  "hrkt": "のぼる",
+  "latn": "noboru",
+  "en": "climb, ascend",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07110A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは昨年、富士山に<b>登りました</b>。",
+      "hrkt": "わたし たち は さくねん、ふじさん に <b>のぼりました</b>。",
+      "latn": "watashi tachi ha sakunen,fujisan ni <b>noborimashita</b>.",
+      "en": "We climbed Mount Fuji last year.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5018920.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07110A.mp3"
+    },
+    {
+      "ja": "私は山に<b>登る</b>のが好きです。",
+      "hrkt": "わたし は やま に <b>のぼる</b> の が すき です。",
+      "latn": "watashi ha yama ni <b>noboru</b> no ga suki desu.",
+      "en": "I like climbing mountains.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d24s8hedhg.mp3"
+    }
+  ]
+}

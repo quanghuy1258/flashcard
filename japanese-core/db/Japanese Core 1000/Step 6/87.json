@@ -1,0 +1,26 @@
+{
+  "ja": "流行る",
+  "hrkt": "はやる",
+  "latn": "hayaru",
+  "en": "be in fashion, be popular",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07479A.mp3",
+  "sentences": [
+    {
+      "ja": "去年はスニーカーが<b>流行りました</b>。",
+      "hrkt": "きょねん は スニーカー が <b>はやりました</b>。",
+      "latn": "kyonen ha suni-ka- ga <b>hayarimashita</b>.",
+      "en": "Sneakers were popular last year.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4610164.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07479A.mp3"
+    },
+    {
+      "ja": "今、大きなサングラスが<b>流行って</b>いる。",
+      "hrkt": "いま、おおきな サングラス が <b>はやって</b> いる。",
+      "latn": "ima,ookina sangurasu ga <b>hayatte</b> iru.",
+      "en": "Now, big sunglasses are in fashion.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/85ed180aks.mp3"
+    }
+  ]
+}

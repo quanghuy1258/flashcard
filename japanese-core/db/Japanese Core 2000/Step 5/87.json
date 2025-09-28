@@ -1,0 +1,26 @@
+{
+  "ja": "カレンダー",
+  "hrkt": "カレンダー",
+  "latn": "karenda-",
+  "en": "calendar",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01842A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>カレンダー</b>に予定を書いた。",
+      "hrkt": "<b>カレンダー</b> に よてい を かいた。",
+      "latn": "<b>karenda-</b> ni yotei wo kaita.",
+      "en": "I wrote my schedule on the calendar.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4576001.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01842A.mp3"
+    },
+    {
+      "ja": "もう来年の<b>カレンダー</b>を売ってますね。",
+      "hrkt": "もう らいねん の <b>カレンダー</b> を うって ます ね。",
+      "latn": "mou rainen no <b>karenda-</b> wo utte masu ne.",
+      "en": "Calendars for the next year are already on sale.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/851re6fqi0.mp3"
+    }
+  ]
+}

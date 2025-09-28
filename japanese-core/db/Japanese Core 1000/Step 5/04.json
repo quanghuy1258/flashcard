@@ -1,0 +1,26 @@
+{
+  "ja": "昨年",
+  "hrkt": "さくねん",
+  "latn": "sakunen",
+  "en": "last year (formal, often used in writing)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03392A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>昨年</b>は地震が多い年でした。",
+      "hrkt": "<b>さくねん</b> は じしん が おおい とし でした。",
+      "latn": "<b>sakunen</b> ha jishin ga ooi toshi deshita.",
+      "en": "We had a lot of earthquakes last year.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6251872.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03392A.mp3"
+    },
+    {
+      "ja": "私たちは<b>昨年</b>、富士山に登りました。",
+      "hrkt": "わたし たち は <b>さくねん</b>、ふじさん に のぼりました。",
+      "latn": "watashi tachi ha <b>sakunen</b>,fujisan ni noborimashita.",
+      "en": "We climbed Mount Fuji last year.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5018920.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07110A.mp3"
+    }
+  ]
+}

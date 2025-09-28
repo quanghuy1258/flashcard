@@ -1,0 +1,18 @@
+{
+  "ja": "転がす",
+  "hrkt": "ころがす",
+  "latn": "korogasu",
+  "en": "roll (something) over",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03215A.mp3",
+  "sentences": [
+    {
+      "ja": "まず、肉をパン粉の上で<b>転がします</b>。",
+      "hrkt": "まず、にく を パンこ の うえ で <b>ころがします</b>。",
+      "latn": "mazu,niku wo panko no ue de <b>korogashimasu</b>.",
+      "en": "First, roll the meat in bread crumbs.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03215A.mp3"
+    }
+  ]
+}

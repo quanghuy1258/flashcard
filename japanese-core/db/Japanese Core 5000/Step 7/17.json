@@ -1,0 +1,18 @@
+{
+  "ja": "値上がり",
+  "hrkt": "ねあがり",
+  "latn": "neagari",
+  "en": "price rise, price increase",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00707A.mp3",
+  "sentences": [
+    {
+      "ja": "野菜が<b>値上がり</b>していますね。",
+      "hrkt": "やさい が <b>ねあがり</b> して います ね。",
+      "latn": "yasai ga <b>neagari</b> shite imasu ne.",
+      "en": "The price of vegetables is going up.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00707A.mp3"
+    }
+  ]
+}

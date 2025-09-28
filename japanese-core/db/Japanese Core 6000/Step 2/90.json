@@ -1,0 +1,18 @@
+{
+  "ja": "叫び",
+  "hrkt": "さけび",
+  "latn": "sakebi",
+  "en": "shout, loud cry",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02641A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の心の<b>叫び</b>に誰も気付かなかったよ。",
+      "hrkt": "かのじょ の こころ の <b>さけび</b> に だれ も きづかなかった よ。",
+      "latn": "kanojo no kokoro no <b>sakebi</b> ni dare mo kizukanakatta yo.",
+      "en": "No one noticed her cry from the heart.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02641A.mp3"
+    }
+  ]
+}

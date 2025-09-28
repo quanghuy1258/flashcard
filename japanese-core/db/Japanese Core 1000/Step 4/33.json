@@ -1,0 +1,26 @@
+{
+  "ja": "五",
+  "hrkt": "ご",
+  "latn": "go",
+  "en": "five",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02832A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>五</b>人で旅行に行きました。",
+      "hrkt": "<b>ご</b> にん で りょこう に いきました。",
+      "latn": "<b>go</b> nin de ryokou ni ikimashita.",
+      "en": "Five of us went on a trip.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5300342.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02832A.mp3"
+    },
+    {
+      "ja": "うちは<b>五</b>人家族です。",
+      "hrkt": "うち は <b>ご</b> にん かぞく です。",
+      "latn": "uchi ha <b>go</b> nin kazoku desu.",
+      "en": "We're a family of five.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3499657.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01624A.mp3"
+    }
+  ]
+}

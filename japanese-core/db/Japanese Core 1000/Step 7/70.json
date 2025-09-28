@@ -1,0 +1,26 @@
+{
+  "ja": "空気",
+  "hrkt": "くうき",
+  "latn": "kuuki",
+  "en": "air, atmosphere",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02406A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>空気</b>がきれいです。",
+      "hrkt": "ここ は <b>くうき</b> が きれい です。",
+      "latn": "koko ha <b>kuuki</b> ga kirei desu.",
+      "en": "The air is clean here.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2649430.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02406A.mp3"
+    },
+    {
+      "ja": "山の<b>空気</b>はきれいだ。",
+      "hrkt": "やま の <b>くうき</b> は きれい だ。",
+      "latn": "yama no <b>kuuki</b> ha kirei da.",
+      "en": "The mountain air is clean.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4614553.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09442A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "年中",
+  "hrkt": "ねんじゅう",
+  "latn": "nenjuu",
+  "en": "all year",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03807A.mp3",
+  "sentences": [
+    {
+      "ja": "叔母は<b>年中</b>旅行しています。",
+      "hrkt": "おば は <b>ねんじゅう</b> りょこう して います。",
+      "latn": "oba ha <b>nenjuu</b> ryokou shite imasu.",
+      "en": "My aunt travels all year round.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/76359.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03807A.mp3"
+    },
+    {
+      "ja": "父は<b>年中</b>出張に出ています。",
+      "hrkt": "ちち は <b>ねんじゅう</b> しゅっちょう に でて います。",
+      "latn": "chichi ha <b>nenjuu</b> shucchou ni dete imasu.",
+      "en": "My father is away on business all year.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/038nev1pt0.mp3"
+    }
+  ]
+}

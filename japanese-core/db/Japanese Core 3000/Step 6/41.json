@@ -1,0 +1,18 @@
+{
+  "ja": "鰻",
+  "hrkt": "うなぎ",
+  "latn": "unagi",
+  "en": "eel",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02906A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>鰻</b>の蒲焼きは美味しいね。",
+      "hrkt": "<b>うなぎ</b> の かばやき は おいしい ね。",
+      "latn": "<b>unagi</b> no kabayaki ha oishii ne.",
+      "en": "Broiled eel is delicious.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/35bt5q5r9c.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02906A.mp3"
+    }
+  ]
+}

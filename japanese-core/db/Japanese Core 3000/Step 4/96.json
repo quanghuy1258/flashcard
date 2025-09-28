@@ -1,0 +1,18 @@
+{
+  "ja": "掴む",
+  "hrkt": "つかむ",
+  "latn": "tsukamu",
+  "en": "grip, grab",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03737A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女が僕の手を<b>掴みました</b>。",
+      "hrkt": "かのじょ が ぼく の て を <b>つかみました</b>。",
+      "latn": "kanojo ga boku no te wo <b>tsukamimashita</b>.",
+      "en": "She gripped my hand.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/83ekc3d260.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03737A.mp3"
+    }
+  ]
+}

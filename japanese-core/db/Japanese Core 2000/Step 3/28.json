@@ -1,0 +1,26 @@
+{
+  "ja": "恥ずかしい",
+  "hrkt": "はずかしい",
+  "latn": "hazukashii",
+  "en": "embarrassed, ashamed",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07313A.mp3",
+  "sentences": [
+    {
+      "ja": "とても<b>恥ずかしかった</b>。",
+      "hrkt": "とても <b>はずかしかった</b>。",
+      "latn": "totemo <b>hazukashikatta</b>.",
+      "en": "It was very embarrassing.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5602163.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07313A.mp3"
+    },
+    {
+      "ja": "私は字が汚くて<b>恥ずかしい</b>です。",
+      "hrkt": "わたし は じ が きたなくて <b>はずかしい</b> です。",
+      "latn": "watashi ha ji ga kitanakute <b>hazukashii</b> desu.",
+      "en": "I'm embarrassed that my handwriting is messy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/731qb37uns.mp3"
+    }
+  ]
+}

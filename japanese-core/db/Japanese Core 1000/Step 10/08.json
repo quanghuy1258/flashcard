@@ -1,0 +1,26 @@
+{
+  "ja": "来月",
+  "hrkt": "らいげつ",
+  "latn": "raigetsu",
+  "en": "next month",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09765A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>来月</b>から大学生になります。",
+      "hrkt": "<b>らいげつ</b> から だいがくせい に なります。",
+      "latn": "<b>raigetsu</b> kara daigakusei ni narimasu.",
+      "en": "I'll be a college student next month.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5450525.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09765A.mp3"
+    },
+    {
+      "ja": "私たちは<b>来月</b>結婚します。",
+      "hrkt": "わたし たち は <b>らいげつ</b> けっこん します。",
+      "latn": "watashi tachi ha <b>raigetsu</b> kekkon shimasu.",
+      "en": "We will get married next month.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5276703.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10046A.mp3"
+    }
+  ]
+}

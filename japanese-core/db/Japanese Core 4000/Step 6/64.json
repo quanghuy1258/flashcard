@@ -1,0 +1,18 @@
+{
+  "ja": "破る",
+  "hrkt": "やぶる",
+  "latn": "yaburu",
+  "en": "defeat",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01151A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は強敵を見事に<b>破った</b>ね。",
+      "hrkt": "かれ は きょうてき を みごと に <b>やぶった</b> ね。",
+      "latn": "kare ha kyouteki wo migoto ni <b>yabutta</b> ne.",
+      "en": "He heroically defeated the powerful enemy.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01151A.mp3"
+    }
+  ]
+}

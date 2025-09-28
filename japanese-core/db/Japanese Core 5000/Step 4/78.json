@@ -1,0 +1,18 @@
+{
+  "ja": "拝む",
+  "hrkt": "おがむ",
+  "latn": "ogamu",
+  "en": "bow in veneration, pray",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02907A.mp3",
+  "sentences": [
+    {
+      "ja": "仏像に手を合わせて<b>拝みました</b>。",
+      "hrkt": "ぶつぞう に て を あわせて <b>おがみました</b>。",
+      "latn": "butsuzou ni te wo awasete <b>ogamimashita</b>.",
+      "en": "We joined our hands together and prayed at the statue of Buddha.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02907A.mp3"
+    }
+  ]
+}

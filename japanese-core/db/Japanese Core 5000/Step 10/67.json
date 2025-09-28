@@ -1,0 +1,18 @@
+{
+  "ja": "つぶやく",
+  "hrkt": "つぶやく",
+  "latn": "tsubuyaku",
+  "en": "mutter, murmur",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03750A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は一人で何か<b>つぶやいていた</b>の。",
+      "hrkt": "かれ は ひとり で なに か <b>つぶやいて</b> いた の。",
+      "latn": "kare ha hitori de nani ka <b>tsubuyaite</b> ita no.",
+      "en": "He was muttering something to himself.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03750A.mp3"
+    }
+  ]
+}

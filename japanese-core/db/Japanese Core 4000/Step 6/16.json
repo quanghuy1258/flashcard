@@ -1,0 +1,18 @@
+{
+  "ja": "解く",
+  "hrkt": "とく",
+  "latn": "toku",
+  "en": "solve (a problem), unknot",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01009A.mp3",
+  "sentences": [
+    {
+      "ja": "この問題を<b>解けます</b>か。",
+      "hrkt": "この もんだい を <b>とけます</b> か。",
+      "latn": "kono mondai wo <b>tokemasu</b> ka.",
+      "en": "Can you solve this question?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01009A.mp3"
+    }
+  ]
+}

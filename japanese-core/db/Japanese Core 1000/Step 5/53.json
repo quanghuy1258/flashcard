@@ -1,0 +1,26 @@
+{
+  "ja": "繰り返す",
+  "hrkt": "くりかえす",
+  "latn": "kurikaesu",
+  "en": "repeat",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02539A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は同じ間違いを<b>繰り返した</b>。",
+      "hrkt": "かのじょ は おなじ まちがい を <b>くりかえした</b>。",
+      "latn": "kanojo ha onaji machigai wo <b>kurikaeshita</b>.",
+      "en": "She repeated the same mistake.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4542717.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02539A.mp3"
+    },
+    {
+      "ja": "先生は同じことを何度も<b>繰り返して</b>言いました。",
+      "hrkt": "せんせい は おなじ こと を なん ど も <b>くりかえして</b> いいました。",
+      "latn": "sensei ha onaji koto wo nan do mo <b>kurikaeshite</b> iimashita.",
+      "en": "The teacher repeated the same thing over and over.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/54d6539tb4.mp3"
+    }
+  ]
+}

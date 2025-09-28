@@ -1,0 +1,26 @@
+{
+  "ja": "雨",
+  "hrkt": "あめ",
+  "latn": "ame",
+  "en": "rain",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00239A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>雨</b>が降っています。",
+      "hrkt": "<b>あめ</b> が ふって います。",
+      "latn": "<b>ame</b> ga futte imasu.",
+      "en": "It's raining.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5313525.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00239A.mp3"
+    },
+    {
+      "ja": "今年は<b>雨</b>が少ないです。",
+      "hrkt": "ことし は <b>あめ</b> が すくない です。",
+      "latn": "kotoshi ha <b>ame</b> ga sukunai desu.",
+      "en": "There's not much rain this year.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4997333.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04547A.mp3"
+    }
+  ]
+}

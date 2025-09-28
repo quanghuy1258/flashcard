@@ -1,0 +1,18 @@
+{
+  "ja": "講演",
+  "hrkt": "こうえん",
+  "latn": "kouen",
+  "en": "lecture, talk",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00853A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>講演</b>は評判がいい。",
+      "hrkt": "かれ の <b>こうえん</b> は ひょうばん が いい。",
+      "latn": "kare no <b>kouen</b> ha hyouban ga ii.",
+      "en": "His talks have a good reputation.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/05998l7lgc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00853A.mp3"
+    }
+  ]
+}

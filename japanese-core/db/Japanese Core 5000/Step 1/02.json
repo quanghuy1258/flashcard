@@ -1,0 +1,18 @@
+{
+  "ja": "群れ",
+  "hrkt": "むれ",
+  "latn": "mure",
+  "en": "flock, herd",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01025A.mp3",
+  "sentences": [
+    {
+      "ja": "湖に鳥の<b>群れ</b>がいたよ。",
+      "hrkt": "みずうみ に とり の <b>むれ</b> が いた よ。",
+      "latn": "mizuumi ni tori no <b>mure</b> ga ita yo.",
+      "en": "There was a flock of birds on the lake.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01025A.mp3"
+    }
+  ]
+}

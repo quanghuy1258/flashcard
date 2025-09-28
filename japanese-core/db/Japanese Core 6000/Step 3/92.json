@@ -1,0 +1,18 @@
+{
+  "ja": "送り仮名",
+  "hrkt": "おくりがな",
+  "latn": "okurigana",
+  "en": "kana suffix",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01041A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>送り仮名</b>は間違っています。",
+      "hrkt": "その <b>おくりがな</b> は まちがって います。",
+      "latn": "sono <b>okurigana</b> ha machigatte imasu.",
+      "en": "That kana suffix is incorrect.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01041A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "差し上げる",
+  "hrkt": "さしあげる",
+  "latn": "sashiageru",
+  "en": "give (humble)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02923A.mp3",
+  "sentences": [
+    {
+      "ja": "こちらを<b>差し上げます</b>。",
+      "hrkt": "こちら を <b>さしあげます</b>。",
+      "latn": "kochira wo <b>sashiagemasu</b>.",
+      "en": "This is for you.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02923A.mp3"
+    }
+  ]
+}

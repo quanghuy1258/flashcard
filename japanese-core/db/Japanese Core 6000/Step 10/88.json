@@ -1,0 +1,18 @@
+{
+  "ja": "博士",
+  "hrkt": "はくし",
+  "latn": "hakushi",
+  "en": "Ph.D.",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00725A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は数学の<b>博士</b>だそうです。",
+      "hrkt": "かれ は すうがく の <b>はくし</b> だ そうです。",
+      "latn": "kare ha suugaku no <b>hakushi</b> da soudesu.",
+      "en": "I heard he has a Ph.D in math.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00725A.mp3"
+    }
+  ]
+}

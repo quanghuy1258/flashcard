@@ -1,0 +1,18 @@
+{
+  "ja": "防ぐ",
+  "hrkt": "ふせぐ",
+  "latn": "fusegu",
+  "en": "prevent",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00263A.mp3",
+  "sentences": [
+    {
+      "ja": "怪我を<b>防ぐ</b>ためによくストレッチをしてください。",
+      "hrkt": "けが を <b>ふせぐ</b> ため に よく ストレッチ を して ください。",
+      "latn": "kega wo <b>fusegu</b> tame ni yoku sutorecchi wo shite kudasai.",
+      "en": "Please stretch well to prevent injuries.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00263A.mp3"
+    }
+  ]
+}

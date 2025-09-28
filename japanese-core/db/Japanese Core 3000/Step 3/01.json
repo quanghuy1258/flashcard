@@ -1,0 +1,18 @@
+{
+  "ja": "散らかす",
+  "hrkt": "ちらかす",
+  "latn": "chirakasu",
+  "en": "make a mess",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03730A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋を<b>散らかさないで</b>ください。",
+      "hrkt": "へや を <b>ちらかさないで</b> ください。",
+      "latn": "heya wo <b>chirakasanaide</b> kudasai.",
+      "en": "Please don't make a mess in the room.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b24d0j1194.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03730A.mp3"
+    }
+  ]
+}

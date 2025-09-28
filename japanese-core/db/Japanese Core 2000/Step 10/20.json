@@ -1,0 +1,26 @@
+{
+  "ja": "合計",
+  "hrkt": "ごうけい",
+  "latn": "goukei",
+  "en": "sum, total",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00721A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>合計</b>金額を計算してください。",
+      "hrkt": "<b>ごうけい</b> きんがく を けいさん して ください。",
+      "latn": "<b>goukei</b> kingaku wo keisan shite kudasai.",
+      "en": "Please calculate the total amount of money.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/148123.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00721A.mp3"
+    },
+    {
+      "ja": "<b>合計</b>で5,400円になります。",
+      "hrkt": "<b>ごうけい</b> で 5,400 えん に なります。",
+      "latn": "<b>goukei</b> de 5,400 en ni narimasu.",
+      "en": "The total comes to 5,400 yen.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/127g43cl44.mp3"
+    }
+  ]
+}

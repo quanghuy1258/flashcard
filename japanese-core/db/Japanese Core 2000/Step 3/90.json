@@ -1,0 +1,26 @@
+{
+  "ja": "受ける",
+  "hrkt": "うける",
+  "latn": "ukeru",
+  "en": "receive, take, undergo",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00680A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は就職試験を<b>受けた</b>。",
+      "hrkt": "かれ は しゅうしょく しけん を <b>うけた</b>。",
+      "latn": "kare ha shuushoku shiken wo <b>uketa</b>.",
+      "en": "He took an exam to apply for a job.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4786208.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00680A.mp3"
+    },
+    {
+      "ja": "日本語の試験を<b>受ける</b>なら、来月5日までに申し込んでください。",
+      "hrkt": "にほん ご の しけん を <b>うける</b> なら、らいげつ いつか まで に もうしこんで ください。",
+      "latn": "nihon go no shiken wo <b>ukeru</b> nara,raigetsu itsuka made ni moushikonde kudasai.",
+      "en": "If you are going to take the Japanese test, please apply before the 5th of the next month.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/94difc2sdk.mp3"
+    }
+  ]
+}

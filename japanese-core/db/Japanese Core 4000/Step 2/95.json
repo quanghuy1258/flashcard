@@ -1,0 +1,18 @@
+{
+  "ja": "作者",
+  "hrkt": "さくしゃ",
+  "latn": "sakusha",
+  "en": "writer, creator of an artwork",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00645A.mp3",
+  "sentences": [
+    {
+      "ja": "この本の<b>作者</b>は誰ですか。",
+      "hrkt": "この ほん の <b> さくしゃ</b> は だれ です か。",
+      "latn": "kono hon no <b> sakusha</b> ha dare desu ka.",
+      "en": "Who is the writer of this book?",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b24a8t6b7g.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00645A.mp3"
+    }
+  ]
+}

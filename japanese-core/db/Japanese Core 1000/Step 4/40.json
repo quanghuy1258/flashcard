@@ -1,0 +1,26 @@
+{
+  "ja": "三日",
+  "hrkt": "みっか",
+  "latn": "mikka",
+  "en": "three days, third of the month",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08932A.mp3",
+  "sentences": [
+    {
+      "ja": "手紙が届くのに<b>三日</b>かかりました。",
+      "hrkt": "てがみ が とどく の に <b>みっか</b> かかりました。",
+      "latn": "tegami ga todoku no ni <b>mikka</b> kakarimashita.",
+      "en": "It took three days for the letter to arrive.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4991167.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08932A.mp3"
+    },
+    {
+      "ja": "三月<b>三日</b>は耳の日です。",
+      "hrkt": "さん がつ <b>みっか</b> は みみ の ひ です。",
+      "latn": "san gatsu <b>mikka</b> ha mimi no hi desu.",
+      "en": "March 3rd is Ear Day.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/05a89655c0.mp3"
+    }
+  ]
+}

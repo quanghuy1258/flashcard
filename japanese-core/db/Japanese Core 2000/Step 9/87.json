@@ -1,0 +1,26 @@
+{
+  "ja": "風呂屋",
+  "hrkt": "ふろや",
+  "latn": "furoya",
+  "en": "bathhouse, public bath",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08223A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、友達とお<b>風呂屋</b>さんに行った。",
+      "hrkt": "きのう、ともだち と お<b>ふろ や</b> さん に いった。",
+      "latn": "kinou,tomodachi to o<b>furo ya</b> san ni itta.",
+      "en": "I went to a bathhouse with my friend yesterday.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/504871.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08223A.mp3"
+    },
+    {
+      "ja": "お<b>風呂屋</b>さんは広くて気持ちいいです。",
+      "hrkt": "お<b>ふろ や</b> さん は ひろくて きもち いい です。",
+      "latn": "o<b>furo ya</b> san ha hirokute kimochi ii desu.",
+      "en": "Public baths are big and comfortable.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d2ckd3cb6g.mp3"
+    }
+  ]
+}

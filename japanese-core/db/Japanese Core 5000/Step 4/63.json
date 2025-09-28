@@ -1,0 +1,18 @@
+{
+  "ja": "近づける",
+  "hrkt": "ちかづける",
+  "latn": "chikazukeru",
+  "en": "bring (something) close",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02829A.mp3",
+  "sentences": [
+    {
+      "ja": "私は顔を窓に<b>近づけた</b>んだ。",
+      "hrkt": "わたし は かお を まど に <b>ちかづけた</b> ん だ 。",
+      "latn": "watashi ha kao wo mado ni <b>chikazuketa</b> n da .",
+      "en": "I brought my face close to the window.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02829A.mp3"
+    }
+  ]
+}

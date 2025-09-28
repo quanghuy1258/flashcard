@@ -1,0 +1,26 @@
+{
+  "ja": "ホテル",
+  "hrkt": "ホテル",
+  "latn": "hoteru",
+  "en": "hotel",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08557A.mp3",
+  "sentences": [
+    {
+      "ja": "今<b>ホテル</b>に着きました。",
+      "hrkt": "いま <b>ホテル</b> に つきました。",
+      "latn": "ima <b>hoteru</b> ni tsukimashita.",
+      "en": "I've just arrived at the hotel.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3253181.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08557A.mp3"
+    },
+    {
+      "ja": "今日はこの<b>ホテル</b>に泊まります。",
+      "hrkt": "きょう は この <b>ホテル</b> に とまります。",
+      "latn": "kyou ha kono <b>hoteru</b> ni tomarimasu.",
+      "en": "I'm staying at this hotel today.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2462093.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06503A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "喜ぶ",
+  "hrkt": "よろこぶ",
+  "latn": "yorokobu",
+  "en": "be happy, be delighted",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09746A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はとても<b>喜びました</b>。",
+      "hrkt": "かのじょ は とても <b>よろこびました</b>。",
+      "latn": "kanojo ha totemo <b>yorokobimashita</b>.",
+      "en": "She was very pleased.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4393036.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09746A.mp3"
+    },
+    {
+      "ja": "彼はそのニュースを<b>喜びました</b>。",
+      "hrkt": "かれ は その ニュース を <b>よろこびました</b>。",
+      "latn": "kare ha sono nyu-su wo <b>yorokobimashita</b>.",
+      "en": "He was delighted by the news.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d51c8455js.mp3"
+    }
+  ]
+}

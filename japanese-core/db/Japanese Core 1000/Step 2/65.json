@@ -1,0 +1,26 @@
+{
+  "ja": "腕",
+  "hrkt": "うで",
+  "latn": "ude",
+  "en": "arm",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00740A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>腕</b>は太い。",
+      "hrkt": "かれ の <b>うで</b> は ふとい。",
+      "latn": "kare no <b>ude</b> ha futoi.",
+      "en": "He has big arms.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5678242.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00740A.mp3"
+    },
+    {
+      "ja": "ゴルフのあと、<b>腕</b>が痛くなりました。",
+      "hrkt": "ゴルフ の あと、<b>うで</b> が いたく なりました。",
+      "latn": "gorufu no ato,<b>ude</b> ga itaku narimashita.",
+      "en": "My arm started to hurt after (playing) golf.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d2bv6v4gm4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "昼",
+  "hrkt": "ひる",
+  "latn": "hiru",
+  "en": "daytime, midday",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07893A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>昼</b>のドラマを毎日見ます。",
+      "hrkt": "わたし は <b>ひる</b> の ドラマ を まいにち みます。",
+      "latn": "watashi ha <b>hiru</b> no dorama wo mainichi mimasu.",
+      "en": "I watch daytime dramas every day.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3507466.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07893A.mp3"
+    },
+    {
+      "ja": "明日は<b>昼</b>頃から曇るでしょう。",
+      "hrkt": "あす は <b>ひる</b> ごろ から くもる でしょう。",
+      "latn": "asu ha <b>hiru</b> goro kara kumoru deshou.",
+      "en": "It'll probably get cloudy around noon tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5647359.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02515A.mp3"
+    }
+  ]
+}

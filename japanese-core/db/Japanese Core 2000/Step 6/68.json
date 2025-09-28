@@ -1,0 +1,26 @@
+{
+  "ja": "拡大",
+  "hrkt": "かくだい",
+  "latn": "kakudai",
+  "en": "magnification, enlargement",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01518A.mp3",
+  "sentences": [
+    {
+      "ja": "この図を<b>拡大</b>コピーしてください。",
+      "hrkt": "この ず を <b>かくだい</b> コピー して ください。",
+      "latn": "kono zu wo <b>kakudai</b> kopi- shite kudasai.",
+      "en": "Please make enlarged copies of this chart.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3904438.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01518A.mp3"
+    },
+    {
+      "ja": "この写真を<b>拡大</b>してください。",
+      "hrkt": "この しゃしん を <b>かくだい</b> して ください。",
+      "latn": "kono shashin wo <b>kakudai</b> shite kudasai.",
+      "en": "Please enlarge this photograph.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/369i2kd9n8.mp3"
+    }
+  ]
+}

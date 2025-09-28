@@ -1,0 +1,26 @@
+{
+  "ja": "カーテン",
+  "hrkt": "カーテン",
+  "latn": "ka-ten",
+  "en": "curtain",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01308A.mp3",
+  "sentences": [
+    {
+      "ja": "朝、<b>カーテン</b>を開けた。",
+      "hrkt": "あさ、<b>カーテン</b> を あけた。",
+      "latn": "asa,<b>ka-ten</b> wo aketa.",
+      "en": "I opened the curtains in the morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3808335.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01308A.mp3"
+    },
+    {
+      "ja": "暗くなったので、<b>カーテン</b>を閉めてください。",
+      "hrkt": "くらく なった ので、<b>カーテン</b> を しめて ください。",
+      "latn": "kuraku natta node,<b>ka-ten</b> wo shimete kudasai.",
+      "en": "It's gotten dark, so please close the curtains.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/22ah9jaf28.mp3"
+    }
+  ]
+}

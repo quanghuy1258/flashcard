@@ -1,0 +1,26 @@
+{
+  "ja": "七日",
+  "hrkt": "なのか",
+  "latn": "nanoka",
+  "en": "seven days, seventh of the month",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06716A.mp3",
+  "sentences": [
+    {
+      "ja": "先月の<b>七日</b>に孫が生まれました。",
+      "hrkt": "せんげつ の <b>なのか</b> に まご が うまれました。",
+      "latn": "sengetsu no <b>nanoka</b> ni mago ga umaremashita.",
+      "en": "My grandchild was born on the seventh of last month.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3829930.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06716A.mp3"
+    },
+    {
+      "ja": "十月<b>七日</b>にスポーツイベントがあります。",
+      "hrkt": "じゅう がつ <b>なのか</b> に スポーツ イベント が あります。",
+      "latn": "juu gatsu <b>nanoka</b> ni supo-tsu ibento ga arimasu.",
+      "en": "On October 7th there is a sports event.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/45aubq4hlc.mp3"
+    }
+  ]
+}

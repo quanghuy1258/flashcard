@@ -1,0 +1,26 @@
+{
+  "ja": "選ぶ",
+  "hrkt": "えらぶ",
+  "latn": "erabu",
+  "en": "choose, elect",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00878A.mp3",
+  "sentences": [
+    {
+      "ja": "良い家を<b>選ぶ</b>のは難しい。",
+      "hrkt": "よい いえ を <b>えらぶ</b> の は むずかしい。",
+      "latn": "yoi ie wo <b>erabu</b> no ha muzukashii.",
+      "en": "It's difficult to choose a good house.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4543753.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00878A.mp3"
+    },
+    {
+      "ja": "子供は親を<b>選べません</b>。",
+      "hrkt": "こども は おや を <b>えらべません</b>。",
+      "latn": "kodomo ha oya wo <b>erabemasen</b>.",
+      "en": "Children cannot choose their parents.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/356885ev1g.mp3"
+    }
+  ]
+}

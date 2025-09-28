@@ -1,0 +1,26 @@
+{
+  "ja": "物",
+  "hrkt": "もの",
+  "latn": "mono",
+  "en": "thing, object",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09319A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の家には<b>物</b>がたくさんあります。",
+      "hrkt": "かのじょ の いえ に は <b>もの</b> が たくさん あります。",
+      "latn": "kanojo no ie ni ha <b>mono</b> ga takusan arimasu.",
+      "en": "There are a lot of things in her house.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2506789.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09319A.mp3"
+    },
+    {
+      "ja": "そのお店ではどんな<b>物</b>が買えますか。",
+      "hrkt": "その おみせ で は どんな <b>もの</b> が かえます か。",
+      "latn": "sono omise de ha donna <b>mono</b> ga kaemasu ka.",
+      "en": "What kind of things can we buy at the shop?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/6441991hrc.mp3"
+    }
+  ]
+}

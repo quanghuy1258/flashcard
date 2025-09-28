@@ -1,0 +1,26 @@
+{
+  "ja": "拍手",
+  "hrkt": "はくしゅ",
+  "latn": "hakushu",
+  "en": "applause, clapping",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07254A.mp3",
+  "sentences": [
+    {
+      "ja": "大きな<b>拍手</b>が上がった。",
+      "hrkt": "おおきな <b>はくしゅ</b> が あがった。",
+      "latn": "ookina <b>hakushu</b> ga agatta.",
+      "en": "There was a big round of applause.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4807283.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07254A.mp3"
+    },
+    {
+      "ja": "今日のゲストを<b>拍手</b>で迎えてください。",
+      "hrkt": "きょう の ゲスト を <b>はくしゅ</b> で むかえて ください。",
+      "latn": "kyou no gesuto wo <b>hakushu</b> de mukaete kudasai.",
+      "en": "Please welcome today's guest with applause.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e4do3vcb9s.mp3"
+    }
+  ]
+}

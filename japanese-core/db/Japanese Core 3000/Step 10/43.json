@@ -1,0 +1,18 @@
+{
+  "ja": "修正",
+  "hrkt": "しゅうせい",
+  "latn": "shuusei",
+  "en": "correction, revision",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00733A.mp3",
+  "sentences": [
+    {
+      "ja": "検討の結果、案を<b>修正</b>したよ。",
+      "hrkt": "けんとう の けっか、あん を <b>しゅうせい</b> した よ。",
+      "latn": "kentou no kekka,an wo <b>shuusei</b> shita yo.",
+      "en": "We revised the plan after consideration.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/53ai1e3gls.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00733A.mp3"
+    }
+  ]
+}

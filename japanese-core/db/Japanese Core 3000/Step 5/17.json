@@ -1,0 +1,18 @@
+{
+  "ja": "残業",
+  "hrkt": "ざんぎょう",
+  "latn": "zangyou",
+  "en": "overtime work",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01962A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日は遅くまで<b>残業</b>しました。",
+      "hrkt": "きのう は おそく まで <b>ざんぎょう</b> しました。",
+      "latn": "kinou ha osoku made <b>zangyou</b> shimashita.",
+      "en": "I worked overtime till late yesterday.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a4890e37j0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01962A.mp3"
+    }
+  ]
+}

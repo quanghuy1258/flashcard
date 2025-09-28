@@ -1,0 +1,26 @@
+{
+  "ja": "謝る",
+  "hrkt": "あやまる",
+  "latn": "ayamaru",
+  "en": "apologize",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00251A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は直ぐに<b>謝りました</b>。",
+      "hrkt": "かれ は すぐ に <b>あやまりました</b>。",
+      "latn": "kare ha sugu ni <b>ayamarimashita</b>.",
+      "en": "He apologized at once.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4935305.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00251A.mp3"
+    },
+    {
+      "ja": "悪いのはあなたです。<b>謝って</b>ください。",
+      "hrkt": "わるい の は あなた です。<b>あやまって</b> ください。",
+      "latn": "warui no ha anata desu.<b>ayamatte</b> kudasai.",
+      "en": "It's your fault. Please apologize.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/569055b6k4.mp3"
+    }
+  ]
+}

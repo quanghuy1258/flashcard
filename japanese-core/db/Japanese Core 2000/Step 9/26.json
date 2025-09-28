@@ -1,0 +1,26 @@
+{
+  "ja": "台",
+  "hrkt": "だい",
+  "latn": "dai",
+  "en": "stand, table",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05148A.mp3",
+  "sentences": [
+    {
+      "ja": "そこにちょうど良い<b>台</b>がある。",
+      "hrkt": "そこ に ちょうど いい <b>だい</b> が ある。",
+      "latn": "soko ni choudo ii <b>dai</b> ga aru.",
+      "en": "We have a perfect table there.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5487434.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05148A.mp3"
+    },
+    {
+      "ja": "<b>台</b>を使わないといちばん上の棚に届きません。",
+      "hrkt": "<b>だい</b> を つかわない と いちばん うえ の たな に とどきません。",
+      "latn": "<b>dai</b> wo tsukawanai to ichiban ue no tana ni todokimasen.",
+      "en": "Unless I use the stand, I can't reach the top shelf.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c3fg9p8t94.mp3"
+    }
+  ]
+}

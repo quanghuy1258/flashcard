@@ -1,0 +1,18 @@
+{
+  "ja": "三角形",
+  "hrkt": "さんかっけい",
+  "latn": "sankakkei",
+  "en": "triangle",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02820A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>三角形</b>の面積を出しなさい。",
+      "hrkt": "この <b>さんかっけい</b> の めんせき を だしなさい。",
+      "latn": "kono <b>sankakkei</b> no menseki wo dashinasai.",
+      "en": "Find the area of this triangle.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02820A.mp3"
+    }
+  ]
+}

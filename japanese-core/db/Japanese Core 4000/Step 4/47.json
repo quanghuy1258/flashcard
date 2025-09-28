@@ -1,0 +1,18 @@
+{
+  "ja": "中古",
+  "hrkt": "ちゅうこ",
+  "latn": "chuuko",
+  "en": "secondhand (used) goods",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01191A.mp3",
+  "sentences": [
+    {
+      "ja": "その車は<b>中古</b>で買ったんだ。",
+      "hrkt": "その くるま は <b>ちゅうこ</b> で かった ん だ。",
+      "latn": "sono kuruma ha <b>chuuko</b> de katta n da.",
+      "en": "I bought the car secondhand.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01191A.mp3"
+    }
+  ]
+}

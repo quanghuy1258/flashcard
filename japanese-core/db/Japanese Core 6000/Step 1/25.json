@@ -1,0 +1,18 @@
+{
+  "ja": "説く",
+  "hrkt": "とく",
+  "latn": "toku",
+  "en": "explain, preach",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01120A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は非暴力を<b>説きました</b>。",
+      "hrkt": "かれ は ひ ぼうりょく を <b>ときました</b>。",
+      "latn": "kare ha hi bouryoku wo <b>tokimashita</b>.",
+      "en": "He preached nonviolence.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01120A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "焼きそば",
+  "hrkt": "やきそば",
+  "latn": "yakisoba",
+  "en": "pan-fried noodles",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03404A.mp3",
+  "sentences": [
+    {
+      "ja": "お祭りで<b>焼きそば</b>を食べたよ。",
+      "hrkt": "おまつり で <b>やきそば</b> を たべた よ。",
+      "latn": "omatsuri de <b>yakisoba</b> wo tabeta yo.",
+      "en": "I ate pan-fried noodles at the festival.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03404A.mp3"
+    }
+  ]
+}

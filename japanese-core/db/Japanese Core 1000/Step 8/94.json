@@ -1,0 +1,26 @@
+{
+  "ja": "非常に",
+  "hrkt": "ひじょうに",
+  "latn": "hijouni",
+  "en": "very, extremely",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07696A.mp3",
+  "sentences": [
+    {
+      "ja": "これは<b>非常に</b>重要です。",
+      "hrkt": "これ は <b>ひじょうに</b> じゅうよう です。",
+      "latn": "kore ha <b>hijouni</b> juuyou desu.",
+      "en": "This is very important.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6481707.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07696A.mp3"
+    },
+    {
+      "ja": "この問題は<b>非常に</b>複雑です。",
+      "hrkt": "この もんだい は <b>ひじょうに</b> ふくざつ です。",
+      "latn": "kono mondai ha <b>hijouni</b> fukuzatsu desu.",
+      "en": "This problem is very complicated.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/639qf748gs.mp3"
+    }
+  ]
+}

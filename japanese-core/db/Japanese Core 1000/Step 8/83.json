@@ -1,0 +1,26 @@
+{
+  "ja": "大事",
+  "hrkt": "だいじ",
+  "latn": "daiji",
+  "en": "importance",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05188A.mp3",
+  "sentences": [
+    {
+      "ja": "お体をお<b>大事</b>に。",
+      "hrkt": "おからだ を お<b>だいじ</b> に。",
+      "latn": "okarada wo o<b>daiji</b> ni.",
+      "en": "Take care of yourself.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5218263.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05188A.mp3"
+    },
+    {
+      "ja": "今日の午後、<b>大事</b>な会議があります。",
+      "hrkt": "きょう の ごご、<b>だいじ</b>な かいぎ が あります。",
+      "latn": "kyou no gogo,<b>daiji</b>na kaigi ga arimasu.",
+      "en": "There's an important meeting this afternoon.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4868416.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01336A.mp3"
+    }
+  ]
+}

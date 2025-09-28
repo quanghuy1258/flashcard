@@ -1,0 +1,18 @@
+{
+  "ja": "学長",
+  "hrkt": "がくちょう",
+  "latn": "gakuchou",
+  "en": "school president, principal",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01588A.mp3",
+  "sentences": [
+    {
+      "ja": "入学式で<b>学長</b>の挨拶がありました。",
+      "hrkt": "にゅうがく しき で <b>がくちょう</b> の あいさつ が ありました。",
+      "latn": "nyuugaku shiki de <b>gakuchou</b> no aisatsu ga arimashita.",
+      "en": "The school president gave a greeting speech at the entrance ceremony.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01588A.mp3"
+    }
+  ]
+}

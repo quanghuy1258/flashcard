@@ -1,0 +1,26 @@
+{
+  "ja": "発車",
+  "hrkt": "はっしゃ",
+  "latn": "hassha",
+  "en": "departure (of a vehicle)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07374A.mp3",
+  "sentences": [
+    {
+      "ja": "バスが<b>発車</b>します。",
+      "hrkt": "バス が <b>はっしゃ</b> します。",
+      "latn": "basu ga <b>hassha</b> shimasu.",
+      "en": "The bus is leaving.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3940385.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07374A.mp3"
+    },
+    {
+      "ja": "この電車はあと5分で<b>発車</b>します。",
+      "hrkt": "この でんしゃ は あと 5 ふん で <b>はっしゃ</b> します。",
+      "latn": "kono densha ha ato 5 fun de <b>hassha</b> shimasu.",
+      "en": "This train leaves in five minutes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d67020aksc.mp3"
+    }
+  ]
+}

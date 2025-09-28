@@ -1,0 +1,26 @@
+{
+  "ja": "独身",
+  "hrkt": "どくしん",
+  "latn": "dokushin",
+  "en": "single, unmarried",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06388A.mp3",
+  "sentences": [
+    {
+      "ja": "私の兄はまだ<b>独身</b>です。",
+      "hrkt": "わたし の あに は まだ <b>どくしん</b> です。",
+      "latn": "watashi no ani ha mada <b>dokushin</b> desu.",
+      "en": "My big brother's still single.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2819374.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06388A.mp3"
+    },
+    {
+      "ja": "私はずっと<b>独身</b>でいたいです。",
+      "hrkt": "わたし は ずっと <b>どくしん</b> で いたい です。",
+      "latn": "watashi ha zutto <b>dokushin</b> de itai desu.",
+      "en": "I want to stay single forever.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e36q1o648o.mp3"
+    }
+  ]
+}

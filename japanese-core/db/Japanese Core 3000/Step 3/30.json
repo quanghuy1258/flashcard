@@ -1,0 +1,18 @@
+{
+  "ja": "データ",
+  "hrkt": "データ",
+  "latn": "de-ta",
+  "en": "data",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00003A.mp3",
+  "sentences": [
+    {
+      "ja": "去年の<b>データ</b>を見せてください。",
+      "hrkt": "きょねん の <b>データ</b> を みせて ください。",
+      "latn": "kyonen no <b>de-ta</b> wo misete kudasai.",
+      "en": "Please show me last year's data.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/85ee98d0uc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00003A.mp3"
+    }
+  ]
+}

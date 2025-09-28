@@ -1,0 +1,26 @@
+{
+  "ja": "気温",
+  "hrkt": "きおん",
+  "latn": "kion",
+  "en": "air temperature",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01990A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の<b>気温</b>は26度です。",
+      "hrkt": "きょう の <b>きおん</b> は 26 ど です。",
+      "latn": "kyou no <b>kion</b> ha 26 do desu.",
+      "en": "Today's temperature is 26 degrees.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3433523.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01990A.mp3"
+    },
+    {
+      "ja": "現在の<b>気温</b>は30度です。",
+      "hrkt": "げんざい の <b>きおん</b> は 30 ど です。",
+      "latn": "genzai no <b>kion</b> ha 30 do desu.",
+      "en": "The current temperature is 30 degrees.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5853957.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02766A.mp3"
+    }
+  ]
+}

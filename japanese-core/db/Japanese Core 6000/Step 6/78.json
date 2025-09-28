@@ -1,0 +1,18 @@
+{
+  "ja": "時給",
+  "hrkt": "じきゅう",
+  "latn": "jikyuu",
+  "en": "hourly wage",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03078A.mp3",
+  "sentences": [
+    {
+      "ja": "この仕事は<b>時給</b>1000円です。",
+      "hrkt": "この しごと は <b>じきゅう</b> 1000 えん です。",
+      "latn": "kono shigoto ha <b>jikyuu</b> 1000 en desu.",
+      "en": "You get an hourly wage of 1000 yen in this job.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03078A.mp3"
+    }
+  ]
+}

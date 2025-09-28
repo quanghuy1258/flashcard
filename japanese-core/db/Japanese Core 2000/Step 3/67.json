@@ -1,0 +1,26 @@
+{
+  "ja": "少々",
+  "hrkt": "しょうしょう",
+  "latn": "shoushou",
+  "en": "a little, a bit",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04177A.mp3",
+  "sentences": [
+    {
+      "ja": "塩を<b>少々</b>入れてください。",
+      "hrkt": "しお を <b>しょうしょう</b> いれて ください。",
+      "latn": "shio wo <b>shoushou</b> irete kudasai.",
+      "en": "Please put in a little salt.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6533810.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04177A.mp3"
+    },
+    {
+      "ja": "<b>少々</b>お待ちください。",
+      "hrkt": "<b>しょうしょう</b> おまち ください。",
+      "latn": "<b>shoushou</b> omachi kudasai.",
+      "en": "Please wait for a little while.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f66dbl1ubk.mp3"
+    }
+  ]
+}

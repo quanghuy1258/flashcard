@@ -1,0 +1,18 @@
+{
+  "ja": "縫う",
+  "hrkt": "ぬう",
+  "latn": "nuu",
+  "en": "sew, stitch",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02199A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は子供のスカートを<b>縫った</b>んだ。",
+      "hrkt": "かのじょ は こども の スカート を <b>ぬった</b> ん だ。",
+      "latn": "kanojo ha kodomo no suka-to wo <b>nutta</b> n da.",
+      "en": "She sewed a child's skirt.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02199A.mp3"
+    }
+  ]
+}

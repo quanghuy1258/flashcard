@@ -1,0 +1,18 @@
+{
+  "ja": "歌声",
+  "hrkt": "うたごえ",
+  "latn": "utagoe",
+  "en": "singing voice",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02549A.mp3",
+  "sentences": [
+    {
+      "ja": "校舎から<b>歌声</b>が聞こえてきたよ。",
+      "hrkt": "こうしゃ から <b>うたごえ</b> が きこえて きた よ。",
+      "latn": "kousha kara <b>utagoe</b> ga kikoete kita yo.",
+      "en": "I can hear singing voices from the school building.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02549A.mp3"
+    }
+  ]
+}

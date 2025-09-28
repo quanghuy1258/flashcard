@@ -1,0 +1,18 @@
+{
+  "ja": "寝室",
+  "hrkt": "しんしつ",
+  "latn": "shinshitsu",
+  "en": "bedroom",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02193A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>寝室</b>の壁紙を張り替えました。",
+      "hrkt": "<b>しんしつ</b> の かべがみ を はりかえました。",
+      "latn": "<b>shinshitsu</b> no kabegami wo harikaemashita.",
+      "en": "I repapered the bedroom walls.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02193A.mp3"
+    }
+  ]
+}

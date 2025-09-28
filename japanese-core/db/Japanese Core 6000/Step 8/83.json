@@ -1,0 +1,18 @@
+{
+  "ja": "書き取り",
+  "hrkt": "かきとり",
+  "latn": "kakitori",
+  "en": "dictation, writing practice",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03432A.mp3",
+  "sentences": [
+    {
+      "ja": "僕たちは毎朝漢字の<b>書き取り</b>をします。",
+      "hrkt": "ぼく たち は まいあさ かんじ の <b>かきとり</b> を します。",
+      "latn": "boku tachi ha maiasa kanji no <b>kakitori</b> wo shimasu.",
+      "en": "We practice writing kanji every morning.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03432A.mp3"
+    }
+  ]
+}

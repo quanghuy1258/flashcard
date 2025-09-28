@@ -1,0 +1,26 @@
+{
+  "ja": "指輪",
+  "hrkt": "ゆびわ",
+  "latn": "yubiwa",
+  "en": "ring",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09556A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女に<b>指輪</b>をプレゼントしました。",
+      "hrkt": "かのじょ に <b>ゆびわ</b> を プレゼント しました。",
+      "latn": "kanojo ni <b>yubiwa</b> wo purezento shimashita.",
+      "en": "I gave her a ring as a gift.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5039382.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09556A.mp3"
+    },
+    {
+      "ja": "これは母が大切にしていた<b>指輪</b>です。",
+      "hrkt": "これ は はは が たいせつ に して いた <b>ゆびわ</b> です。",
+      "latn": "kore ha haha ga taisetsu ni shite ita <b>yubiwa</b> desu.",
+      "en": "This is a ring that meant a lot to my mother.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4614350.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05214A.mp3"
+    }
+  ]
+}

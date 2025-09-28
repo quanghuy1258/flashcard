@@ -1,0 +1,26 @@
+{
+  "ja": "経営",
+  "hrkt": "けいえい",
+  "latn": "keiei",
+  "en": "management, operation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02596A.mp3",
+  "sentences": [
+    {
+      "ja": "我が社の<b>経営</b>はうまくいっています。",
+      "hrkt": "わがしゃ の <b>けいえい</b> は うまく いって います。",
+      "latn": "wagasha no <b>keiei</b> ha umaku itte imasu.",
+      "en": "Our company is well managed.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1443193.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02596A.mp3"
+    },
+    {
+      "ja": "祖父はタクシー会社を<b>経営</b>していました。",
+      "hrkt": "そふ は タクシー がいしゃ を <b>けいえい</b> して いました。",
+      "latn": "sofu ha takushi- gaisha wo <b>keiei</b> shite imashita.",
+      "en": "My grandfather ran a taxi company.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/84fc3q5eos.mp3"
+    }
+  ]
+}

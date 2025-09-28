@@ -1,0 +1,26 @@
+{
+  "ja": "いくつ",
+  "hrkt": "いくつ",
+  "latn": "ikutsu",
+  "en": "how many, how old",
+  "pos": "Interrogative",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00396A.mp3",
+  "sentences": [
+    {
+      "ja": "娘さんは<b>いくつ</b>になりましたか。",
+      "hrkt": "むすめさん は <b>いくつ</b> に なりました か。",
+      "latn": "musumesan ha <b>ikutsu</b> ni narimashita ka.",
+      "en": "How old is your daughter now?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4814925.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00396A.mp3"
+    },
+    {
+      "ja": "日本語の単語を<b>いくつ</b>知っていますか。",
+      "hrkt": "にほん ご の たんご を <b>いくつ</b> しって います か。",
+      "latn": "nihon go no tango wo <b>ikutsu</b> shitte imasu ka.",
+      "en": "How many Japanese words do you know?",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/a5dhfk85fs.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00378A.mp3"
+    }
+  ]
+}

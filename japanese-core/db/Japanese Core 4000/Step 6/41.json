@@ -1,0 +1,18 @@
+{
+  "ja": "取り出す",
+  "hrkt": "とりだす",
+  "latn": "toridasu",
+  "en": "take out, pull out",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03780A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はポケットから財布を<b>取り出した</b>の。",
+      "hrkt": "かれ は ポケット から さいふ を <b>とりだした</b> の。",
+      "latn": "kare ha poketto kara saifu wo <b>toridashita</b> no.",
+      "en": "He took out a wallet from his pocket.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03780A.mp3"
+    }
+  ]
+}

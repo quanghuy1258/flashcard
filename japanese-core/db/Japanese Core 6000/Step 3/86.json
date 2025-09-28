@@ -1,0 +1,18 @@
+{
+  "ja": "退学",
+  "hrkt": "たいがく",
+  "latn": "taigaku",
+  "en": "dropping out of school",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02121A.mp3",
+  "sentences": [
+    {
+      "ja": "弟は高校を<b>退学</b>しました。",
+      "hrkt": "おとうと は こうこう を <b>たいがく</b> しました。",
+      "latn": "otouto ha koukou wo <b>taigaku</b> shimashita.",
+      "en": "My little brother dropped out of high school.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02121A.mp3"
+    }
+  ]
+}

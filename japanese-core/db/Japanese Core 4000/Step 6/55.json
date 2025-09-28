@@ -1,0 +1,18 @@
+{
+  "ja": "都会",
+  "hrkt": "とかい",
+  "latn": "tokai",
+  "en": "urban city, urban area",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00850A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>都会</b>での生活を楽しんでいるの。",
+      "hrkt": "かれ は <b>とかい</b> で の せいかつ を たのしんで いる の。",
+      "latn": "kare ha <b>tokai</b> de no seikatsu wo tanoshinde iru no.",
+      "en": "He's enjoying the city life.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00850A.mp3"
+    }
+  ]
+}

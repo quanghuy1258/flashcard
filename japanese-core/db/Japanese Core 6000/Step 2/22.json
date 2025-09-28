@@ -1,0 +1,18 @@
+{
+  "ja": "駆ける",
+  "hrkt": "かける",
+  "latn": "kakeru",
+  "en": "run quickly",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02376A.mp3",
+  "sentences": [
+    {
+      "ja": "子供たちは広場に<b>駆けて</b>いったわよ。",
+      "hrkt": "こども たち は ひろば に <b>かけて</b> いった わ よ。",
+      "latn": "kodomo tachi ha hiroba ni <b>kakete</b> itta wa yo.",
+      "en": "The children rushed into the square.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02376A.mp3"
+    }
+  ]
+}

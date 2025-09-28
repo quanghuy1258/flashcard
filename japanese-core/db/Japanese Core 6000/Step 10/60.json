@@ -1,0 +1,18 @@
+{
+  "ja": "河口",
+  "hrkt": "かこう",
+  "latn": "kakou",
+  "en": "river mouth, estuary",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01897A.mp3",
+  "sentences": [
+    {
+      "ja": "この川の<b>河口</b>は太平洋に注いでいます。",
+      "hrkt": "この かわ の <b>かこう</b> は たいへいよう に そそいで います。",
+      "latn": "kono kawa no <b>kakou</b> ha taiheiyou ni sosoide imasu.",
+      "en": "This river mouth flows into the Pacific Ocean.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01897A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "操作",
+  "hrkt": "そうさ",
+  "latn": "sousa",
+  "en": "operation, manipulation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00053A.mp3",
+  "sentences": [
+    {
+      "ja": "この携帯電話は<b>操作</b>が簡単です。",
+      "hrkt": "この けいたい でんわ は <b>そうさ</b> が かんたん です。",
+      "latn": "kono keitai denwa ha <b>sousa</b> ga kantan desu.",
+      "en": "This cell-phone is easy to operate.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/54c1463ong.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00053A.mp3"
+    }
+  ]
+}

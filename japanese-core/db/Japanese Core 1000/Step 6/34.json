@@ -1,0 +1,26 @@
+{
+  "ja": "残念",
+  "hrkt": "ざんねん",
+  "latn": "zannen",
+  "en": "regretful, disappointing",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03550A.mp3",
+  "sentences": [
+    {
+      "ja": "その試合は<b>残念</b>な結果になった。",
+      "hrkt": "その しあい は <b>ざんねん</b>な けっか に なった。",
+      "latn": "sono shiai ha <b>zannen</b>na kekka ni natta.",
+      "en": "The result of the game was disappointing.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5596087.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03550A.mp3"
+    },
+    {
+      "ja": "彼に会えなくて<b>残念</b>です。",
+      "hrkt": "かれ に あえなくて <b>ざんねん</b> です。",
+      "latn": "kare ni aenakute <b>zannen</b> desu.",
+      "en": "It's too bad that I didn't get to see him.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/546dagafes.mp3"
+    }
+  ]
+}

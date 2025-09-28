@@ -1,0 +1,26 @@
+{
+  "ja": "歴史",
+  "hrkt": "れきし",
+  "latn": "rekishi",
+  "en": "history",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09921A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>歴史</b>に興味があります。",
+      "hrkt": "わたし は <b>れきし</b> に きょうみ が あります。",
+      "latn": "watashi ha <b>rekishi</b> ni kyoumi ga arimasu.",
+      "en": "I'm interested in history.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5360660.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09921A.mp3"
+    },
+    {
+      "ja": "私は日本の<b>歴史</b>を勉強したいです。",
+      "hrkt": "わたし は にほん の <b>れきし</b> を べんきょう したい です。",
+      "latn": "watashi ha nihon no <b>rekishi</b> wo benkyou shitai desu.",
+      "en": "I want to study the history of Japan.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/838o6s02ho.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "くっつく",
+  "hrkt": "くっつく",
+  "latn": "kuttsuku",
+  "en": "stick, be attached",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02261A.mp3",
+  "sentences": [
+    {
+      "ja": "靴の底にガムが<b>くっついてしまった</b>。",
+      "hrkt": "くつ の そこ に ガム が <b>くっついてしまった</b> 。",
+      "latn": "kutsu no soko ni gamu ga <b>kuttsuiteshimatta</b> .",
+      "en": "Chewing gum got stuck to the sole of my shoe.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/821m9b3dm0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02261A.mp3"
+    }
+  ]
+}

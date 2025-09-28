@@ -1,0 +1,18 @@
+{
+  "ja": "正門",
+  "hrkt": "せいもん",
+  "latn": "seimon",
+  "en": "main gate, main entrance",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02328A.mp3",
+  "sentences": [
+    {
+      "ja": "受験生は<b>正門</b>から入ってください。",
+      "hrkt": "じゅけんせい は <b>せいもん</b> から はいって ください。",
+      "latn": "jukensei ha <b>seimon</b> kara haitte kudasai.",
+      "en": "Test-takers must enter from the main gate.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02328A.mp3"
+    }
+  ]
+}

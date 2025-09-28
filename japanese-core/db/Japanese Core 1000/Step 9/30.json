@@ -1,0 +1,26 @@
+{
+  "ja": "健康",
+  "hrkt": "けんこう",
+  "latn": "kenkou",
+  "en": "health",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02758A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>健康</b>な生活を送っています。",
+      "hrkt": "わたし は <b>けんこう</b>な せいかつ を おくって います。",
+      "latn": "watashi ha <b>kenkou</b>na seikatsu wo okutte imasu.",
+      "en": "I'm living a healthy lifestyle.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5230438.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02758A.mp3"
+    },
+    {
+      "ja": "<b>健康</b>が一番大切だ。",
+      "hrkt": "<b>けんこう</b> が いちばん たいせつ だ。",
+      "latn": "<b>kenkou</b> ga ichiban taisetsu da.",
+      "en": "The most important thing is your health.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/921aemailg.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00339A.mp3"
+    }
+  ]
+}

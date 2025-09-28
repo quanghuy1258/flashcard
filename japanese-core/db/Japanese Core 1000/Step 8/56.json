@@ -1,0 +1,26 @@
+{
+  "ja": "大嫌い",
+  "hrkt": "だいきらい",
+  "latn": "daikirai",
+  "en": "hate",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05169A.mp3",
+  "sentences": [
+    {
+      "ja": "私はテストが<b>大嫌い</b>。",
+      "hrkt": "わたし は テスト が <b>だいきらい</b>。",
+      "latn": "watashi ha tesuto ga <b>daikirai</b>.",
+      "en": "I hate tests.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3649788.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05169A.mp3"
+    },
+    {
+      "ja": "私の息子は勉強が<b>大嫌い</b>だ。",
+      "hrkt": "わたし の むすこ は べんきょう が <b>だいきらい</b> だ。",
+      "latn": "watashi no musuko ha benkyou ga <b>daikirai</b> da.",
+      "en": "My son hates studying so much.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/52apb94grg.mp3"
+    }
+  ]
+}

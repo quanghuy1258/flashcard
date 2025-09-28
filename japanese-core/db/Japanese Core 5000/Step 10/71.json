@@ -1,0 +1,18 @@
+{
+  "ja": "爆弾",
+  "hrkt": "ばくだん",
+  "latn": "bakudan",
+  "en": "bomb",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01078A.mp3",
+  "sentences": [
+    {
+      "ja": "その町に<b>爆弾</b>が落とされた。",
+      "hrkt": "その まち に <b>ばくだん</b> が おとされた。",
+      "latn": "sono machi ni <b>bakudan</b> ga otosareta.",
+      "en": "Bombs were dropped in that town.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/1l5lao3u9vl5o.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "日中",
+  "hrkt": "にっちゅう",
+  "latn": "nicchuu",
+  "en": "during the day",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00947A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>日中</b>はずっと海で泳いでいました。",
+      "hrkt": "<b>にっちゅう</b> は ずっと うみ で およいで いました。",
+      "latn": "<b>nicchuu</b> ha zutto umi de oyoide imashita.",
+      "en": "I swam in the sea all day long.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2813700.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00947A.mp3"
+    },
+    {
+      "ja": "私は<b>日中</b>は家にいません。",
+      "hrkt": "わたし は <b>にっちゅう</b> は いえ に いません。",
+      "latn": "watashi ha <b>nicchuu</b> ha ie ni imasen.",
+      "en": "I'm not home during the day.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e5cc903f8c.mp3"
+    }
+  ]
+}

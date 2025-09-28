@@ -1,0 +1,18 @@
+{
+  "ja": "国名",
+  "hrkt": "こくめい",
+  "latn": "kokumei",
+  "en": "country name",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03618A.mp3",
+  "sentences": [
+    {
+      "ja": "アジアの<b>国名</b>をいくつ知っていますか。",
+      "hrkt": "アジア の <b>こくめい</b> を いくつ しって います か。",
+      "latn": "ajia no <b>kokumei</b> wo ikutsu shitte imasu ka.",
+      "en": "How many country names in Asia do you know?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03618A.mp3"
+    }
+  ]
+}

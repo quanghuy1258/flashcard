@@ -1,0 +1,18 @@
+{
+  "ja": "不合格",
+  "hrkt": "ふごうかく",
+  "latn": "fugoukaku",
+  "en": "failing an exam, failure",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02621A.mp3",
+  "sentences": [
+    {
+      "ja": "残念ながら試験は<b>不合格</b>でした。",
+      "hrkt": "ざんねん ながら しけん は <b>ふごうかく</b> でした。",
+      "latn": "zannen nagara shiken ha <b>fugoukaku</b> deshita.",
+      "en": "Unfortunately, I failed the exam.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02621A.mp3"
+    }
+  ]
+}

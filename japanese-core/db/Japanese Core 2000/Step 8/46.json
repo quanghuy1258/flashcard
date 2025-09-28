@@ -1,0 +1,26 @@
+{
+  "ja": "発表",
+  "hrkt": "はっぴょう",
+  "latn": "happyou",
+  "en": "announcement",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07399A.mp3",
+  "sentences": [
+    {
+      "ja": "合格者が<b>発表</b>された。",
+      "hrkt": "ごうかくしゃ が <b>はっぴょう</b> された。",
+      "latn": "goukakusha ga <b>happyou</b> sareta.",
+      "en": "They announced the names of those who passed (the test).",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2994423.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07399A.mp3"
+    },
+    {
+      "ja": "重大な<b>発表</b>があります。",
+      "hrkt": "じゅうだいな <b>はっぴょう</b> が あります。",
+      "latn": "juudaina <b>happyou</b> ga arimasu.",
+      "en": "I have an important announcement.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/576548.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01074A.mp3"
+    }
+  ]
+}

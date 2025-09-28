@@ -1,0 +1,18 @@
+{
+  "ja": "昭和",
+  "hrkt": "しょうわ",
+  "latn": "shouwa",
+  "en": "the Showa era",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04258A.mp3",
+  "sentences": [
+    {
+      "ja": "私の両親は<b>昭和</b>生まれです。",
+      "hrkt": "わたし の りょうしん は <b>しょうわ</b> うまれ です。",
+      "latn": "watashi no ryoushin ha <b>shouwa</b> umare desu.",
+      "en": "My parents were born in the Showa era.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04258A.mp3"
+    }
+  ]
+}

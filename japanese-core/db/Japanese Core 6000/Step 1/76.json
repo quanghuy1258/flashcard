@@ -1,0 +1,18 @@
+{
+  "ja": "制服",
+  "hrkt": "せいふく",
+  "latn": "seifuku",
+  "en": "uniform",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01289A.mp3",
+  "sentences": [
+    {
+      "ja": "私の学校には<b>制服</b>がありません。",
+      "hrkt": "わたし の がっこう に は <b>せいふく</b> が ありません。",
+      "latn": "watashi no gakkou ni ha <b>seifuku</b> ga arimasen.",
+      "en": "My school doesn't have uniforms.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01289A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "誓う",
+  "hrkt": "ちかう",
+  "latn": "chikau",
+  "en": "vow, swear",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02216A.mp3",
+  "sentences": [
+    {
+      "ja": "二人は一生を共にすることを<b>誓った</b>の。",
+      "hrkt": "ふたり は いっしょう を とも に する こと を <b>ちかった</b> の。",
+      "latn": "futari ha isshou wo tomo ni suru koto wo <b>chikatta</b> no.",
+      "en": "The couple swore to be together for the rest of their life.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02216A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "ひねる",
+  "hrkt": "ひねる",
+  "latn": "hineru",
+  "en": "twist, turn",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02886A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は水道の蛇口を<b>ひねった</b>の。",
+      "hrkt": "かれ は すいどう の じゃぐち を <b>ひねった</b> の。",
+      "latn": "kare ha suidou no jaguchi wo <b>hinetta</b> no.",
+      "en": "He turned on the tap.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02886A.mp3"
+    }
+  ]
+}

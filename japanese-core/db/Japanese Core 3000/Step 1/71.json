@@ -1,0 +1,18 @@
+{
+  "ja": "発言",
+  "hrkt": "はつげん",
+  "latn": "hatsugen",
+  "en": "utterance, remark",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07369A.mp3",
+  "sentences": [
+    {
+      "ja": "会議で全員が<b>発言</b>した。",
+      "hrkt": "かいぎ で ぜんいん が <b>はつげん</b> した。",
+      "latn": "kaigi de zenin ga <b>hatsugen</b> shita.",
+      "en": "Everyone spoke at the meeting.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/941q1qb1u4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07369A.mp3"
+    }
+  ]
+}

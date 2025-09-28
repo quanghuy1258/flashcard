@@ -1,0 +1,26 @@
+{
+  "ja": "右側",
+  "hrkt": "みぎがわ",
+  "latn": "migigawa",
+  "en": "right side",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08870A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はいつも私の<b>右側</b>を歩きます。",
+      "hrkt": "かのじょ は いつも わたし の <b>みぎがわ</b> を あるきます。",
+      "latn": "kanojo ha itsumo watashi no <b>migigawa</b> wo arukimasu.",
+      "en": "She always walks on my right.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5242821.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08870A.mp3"
+    },
+    {
+      "ja": "日本では人は道の<b>右側</b>を歩きます。",
+      "hrkt": "にほん で は ひと は みち の <b>みぎ がわ</b> を あるきます。",
+      "latn": "nihon de ha hito ha michi no <b>migi gawa</b> wo arukimasu.",
+      "en": "In Japan people walk on the right side of the road.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/789bcq91bo.mp3"
+    }
+  ]
+}

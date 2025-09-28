@@ -1,0 +1,18 @@
+{
+  "ja": "室内",
+  "hrkt": "しつない",
+  "latn": "shitsunai",
+  "en": "indoors",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00845A.mp3",
+  "sentences": [
+    {
+      "ja": "雨の日は子供を<b>室内</b>で遊ばせます。",
+      "hrkt": "あめ の ひ は こども を <b>しつない</b> で あそばせます。",
+      "latn": "ame no hi ha kodomo wo <b>shitsunai</b> de asobasemasu.",
+      "en": "I let my kids play indoors on rainy days.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00845A.mp3"
+    }
+  ]
+}

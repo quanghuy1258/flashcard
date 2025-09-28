@@ -1,0 +1,18 @@
+{
+  "ja": "釘",
+  "hrkt": "くぎ",
+  "latn": "kugi",
+  "en": "nail, spike",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03602A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>釘</b>を踏んでケガをしました。",
+      "hrkt": "<b>くぎ</b> を ふんで ケガ を しました。",
+      "latn": "<b>kugi</b> wo funde kega wo shimashita.",
+      "en": "I injured myself stepping on a nail.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03602A.mp3"
+    }
+  ]
+}

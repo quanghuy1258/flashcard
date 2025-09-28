@@ -1,0 +1,26 @@
+{
+  "ja": "噂",
+  "hrkt": "うわさ",
+  "latn": "uwasa",
+  "en": "gossip, rumor",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03544A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>噂</b>は本当ですか。",
+      "hrkt": "その <b>うわさ</b> は ほんとう です か。",
+      "latn": "sono <b>uwasa</b> ha hontou desu ka.",
+      "en": "Is the rumor true?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2704505.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03544A.mp3"
+    },
+    {
+      "ja": "その<b>噂</b>はすぐに広まったよ。",
+      "hrkt": "その <b>うわさ</b> は すぐ に ひろまった よ。",
+      "latn": "sono <b>uwasa</b> ha sugu ni hiromatta yo.",
+      "en": "The rumor spread quickly.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2666811.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01321A.mp3"
+    }
+  ]
+}

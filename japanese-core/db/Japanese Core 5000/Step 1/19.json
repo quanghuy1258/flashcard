@@ -1,0 +1,18 @@
+{
+  "ja": "油断",
+  "hrkt": "ゆだん",
+  "latn": "yudan",
+  "en": "inattention, carelessness",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02954A.mp3",
+  "sentences": [
+    {
+      "ja": "少しの<b>油断</b>が大きな事故につながります。",
+      "hrkt": "すこし の <b>ゆだん</b> が おおきな じこ に つながります。",
+      "latn": "sukoshi no <b>yudan</b> ga ookina jiko ni tsunagarimasu.",
+      "en": "A little carelessness can cause a big accident.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02954A.mp3"
+    }
+  ]
+}

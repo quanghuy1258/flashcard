@@ -1,0 +1,18 @@
+{
+  "ja": "徹夜",
+  "hrkt": "てつや",
+  "latn": "tetsuya",
+  "en": "staying up all night",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01805A.mp3",
+  "sentences": [
+    {
+      "ja": "ゆうべは<b>徹夜</b>しました。",
+      "hrkt": "ゆうべ は <b>てつや</b> しました。",
+      "latn": "yuube ha <b>tetsuya</b> shimashita.",
+      "en": "I stayed up all last night.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/651v1td4ts.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01805A.mp3"
+    }
+  ]
+}

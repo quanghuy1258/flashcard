@@ -1,0 +1,18 @@
+{
+  "ja": "銅",
+  "hrkt": "どう",
+  "latn": "dou",
+  "en": "copper",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03772A.mp3",
+  "sentences": [
+    {
+      "ja": "10円玉は<b>銅</b>でできています。",
+      "hrkt": "10 えん だま は <b>どう</b> で できて います。",
+      "latn": "10 en dama ha <b>dou</b> de dekite imasu.",
+      "en": "The ten yen coin is made of copper.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03772A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "担ぐ",
+  "hrkt": "かつぐ",
+  "latn": "katsugu",
+  "en": "shoulder, carry",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02512A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大きな荷物を<b>担いで</b>きたの。",
+      "hrkt": "かれ は おおきな にもつ を <b>かついで</b> きた の。",
+      "latn": "kare ha ookina nimotsu wo <b>katsuide</b> kita no.",
+      "en": "He came carrying large luggage.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02512A.mp3"
+    }
+  ]
+}

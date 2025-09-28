@@ -1,0 +1,26 @@
+{
+  "ja": "嫌い",
+  "hrkt": "きらい",
+  "latn": "kirai",
+  "en": "hate, dislike",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02312A.mp3",
+  "sentences": [
+    {
+      "ja": "私はタバコが<b>嫌い</b>です。",
+      "hrkt": "わたし は タバコ が <b>きらい</b> です。",
+      "latn": "watashi ha tabako ga <b>kirai</b> desu.",
+      "en": "I hate cigarettes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5739590.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02312A.mp3"
+    },
+    {
+      "ja": "私はにんじんが<b>嫌い</b>だ。",
+      "hrkt": "わたし は にんじん が <b>きらい</b> だ。",
+      "latn": "watashi ha ninjin ga <b>kirai</b> da.",
+      "en": "I hate carrots.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4993988.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06919A.mp3"
+    }
+  ]
+}

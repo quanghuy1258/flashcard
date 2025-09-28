@@ -1,0 +1,18 @@
+{
+  "ja": "霜",
+  "hrkt": "しも",
+  "latn": "shimo",
+  "en": "frost",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02522A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝は庭の草に<b>霜</b>が降りていたの。",
+      "hrkt": "けさ は にわ の くさ に <b>しも</b> が おりて いた の。",
+      "latn": "kesa ha niwa no kusa ni <b>shimo</b> ga orite ita no.",
+      "en": "There was frost on the grass in the garden this morning.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02522A.mp3"
+    }
+  ]
+}

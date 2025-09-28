@@ -1,0 +1,26 @@
+{
+  "ja": "命令",
+  "hrkt": "めいれい",
+  "latn": "meirei",
+  "en": "command, order",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09168A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>命令</b>に従わなかった。",
+      "hrkt": "かのじょ は <b>めいれい</b> に したがわなかった。",
+      "latn": "kanojo ha <b>meirei</b> ni shitagawanakatta.",
+      "en": "She did not obey the orders.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4389383.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09168A.mp3"
+    },
+    {
+      "ja": "あの人の<b>命令</b>は聞きたくありません。",
+      "hrkt": "あの ひと の <b>めいれい</b> は ききたく ありません。",
+      "latn": "ano hito no <b>meirei</b> ha kikitaku arimasen.",
+      "en": "I don't want to follow orders from that person.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/33bp7b7uhc.mp3"
+    }
+  ]
+}

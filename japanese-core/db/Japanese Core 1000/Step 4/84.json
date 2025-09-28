@@ -1,0 +1,26 @@
+{
+  "ja": "休む",
+  "hrkt": "やすむ",
+  "latn": "yasumu",
+  "en": "take a rest, take a break",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09413A.mp3",
+  "sentences": [
+    {
+      "ja": "明日、会社を<b>休みます</b>。",
+      "hrkt": "あした、かいしゃ を <b>やすみます</b>。",
+      "latn": "ashita,kaisha wo <b>yasumimasu</b>.",
+      "en": "I'm off work tomorrow.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1772899.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09413A.mp3"
+    },
+    {
+      "ja": "そこでしばらく<b>休んで</b>います。",
+      "hrkt": "そこ で しばらく <b>やすんで</b> います。",
+      "latn": "soko de shibaraku <b>yasunde</b> imasu.",
+      "en": "He's resting over there for a while.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4239530.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03827A.mp3"
+    }
+  ]
+}

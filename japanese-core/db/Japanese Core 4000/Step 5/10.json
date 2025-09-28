@@ -1,0 +1,18 @@
+{
+  "ja": "観測",
+  "hrkt": "かんそく",
+  "latn": "kansoku",
+  "en": "observation (with the use of equipment or devices)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00506A.mp3",
+  "sentences": [
+    {
+      "ja": "先生が星の<b>観測</b>に連れていってくれました。",
+      "hrkt": "せんせい が ほし の <b>かんそく</b> に つれて いって くれました。",
+      "latn": "sensei ga hoshi no <b>kansoku</b> ni tsurete itte kuremashita.",
+      "en": "The teacher took us to observe the stars.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00506A.mp3"
+    }
+  ]
+}

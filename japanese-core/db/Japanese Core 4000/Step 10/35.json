@@ -1,0 +1,18 @@
+{
+  "ja": "傾く",
+  "hrkt": "かたむく",
+  "latn": "katamuku",
+  "en": "decline, go down",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03575A.mp3",
+  "sentences": [
+    {
+      "ja": "お日様が西に<b>傾きました</b>ね。",
+      "hrkt": "おひさま が にし に <b>かたむきました</b> ね。",
+      "latn": "ohisama ga nishi ni <b>katamukimashita</b> ne.",
+      "en": "The sun went down in the west.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03575A.mp3"
+    }
+  ]
+}

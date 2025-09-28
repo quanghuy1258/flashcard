@@ -1,0 +1,26 @@
+{
+  "ja": "袖",
+  "hrkt": "そで",
+  "latn": "sode",
+  "en": "sleeve",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05072A.mp3",
+  "sentences": [
+    {
+      "ja": "このシャツは<b>袖</b>が短い。",
+      "hrkt": "この シャツ は <b>そで</b> が みじかい。",
+      "latn": "kono shatsu ha <b>sode</b> ga mijikai.",
+      "en": "This shirt has short sleeves.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5504527.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05072A.mp3"
+    },
+    {
+      "ja": "<b>袖</b>が長いので短くしてもらえますか。",
+      "hrkt": "<b>そで</b> が ながい ので みじかく して もらえます か。",
+      "latn": "<b>sode</b> ga nagai node mijikaku shite moraemasu ka.",
+      "en": "The sleeves are long, so please shorten them.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c55faralec.mp3"
+    }
+  ]
+}

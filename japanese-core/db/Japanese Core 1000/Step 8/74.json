@@ -1,0 +1,26 @@
+{
+  "ja": "いつ頃",
+  "hrkt": "いつごろ",
+  "latn": "itsugoro",
+  "en": "about when, about what time",
+  "pos": "Interrogative",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00511A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>いつ頃</b>夏休みを取りますか。",
+      "hrkt": "<b>いつ ごろ</b> なつやすみ を とります か。",
+      "latn": "<b>itsu goro</b> natsuyasumi wo torimasu ka.",
+      "en": "When are you going to take a summer vacation?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4670097.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00511A.mp3"
+    },
+    {
+      "ja": "<b>いつ頃</b>日本に来れますか。",
+      "hrkt": "<b>いつ ごろ</b> にほん に これます か。",
+      "latn": "<b>itsu goro</b> nihon ni koremasu ka.",
+      "en": "When will you be able to come to Japan?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/5451bv2k74.mp3"
+    }
+  ]
+}

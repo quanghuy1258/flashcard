@@ -1,0 +1,26 @@
+{
+  "ja": "化粧",
+  "hrkt": "けしょう",
+  "latn": "keshou",
+  "en": "makeup",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02670A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>化粧</b>が上手い。",
+      "hrkt": "かのじょ は <b>けしょう</b> が うまい。",
+      "latn": "kanojo ha <b>keshou</b> ga umai.",
+      "en": "She's good at makeup.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4744793.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02670A.mp3"
+    },
+    {
+      "ja": "彼女は<b>化粧</b>の時間が長過ぎる。",
+      "hrkt": "かのじょ は <b>けしょう</b> の じかん が ながすぎる。",
+      "latn": "kanojo ha <b>keshou</b> no jikan ga nagasugiru.",
+      "en": "She spends too much time on makeup.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/856hchbi3o.mp3"
+    }
+  ]
+}

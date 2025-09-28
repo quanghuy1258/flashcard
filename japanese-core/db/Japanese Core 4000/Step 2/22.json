@@ -1,0 +1,18 @@
+{
+  "ja": "物価",
+  "hrkt": "ぶっか",
+  "latn": "bukka",
+  "en": "prices",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00495A.mp3",
+  "sentences": [
+    {
+      "ja": "この国の<b>物価</b>はここ10年でだいぶ上がったね。",
+      "hrkt": "この くに の <b>ぶっか</b> は ここ 10 ねん で だいぶ あがった ね。",
+      "latn": "kono kuni no <b>bukka</b> ha koko 10 nen de daibu agatta ne.",
+      "en": "Prices in this country have gone up considerably over the last ten years.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f135ba1te4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00495A.mp3"
+    }
+  ]
+}

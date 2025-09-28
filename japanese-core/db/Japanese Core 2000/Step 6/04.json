@@ -1,0 +1,26 @@
+{
+  "ja": "ベル",
+  "hrkt": "ベル",
+  "latn": "beru",
+  "en": "bell",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08339A.mp3",
+  "sentences": [
+    {
+      "ja": "玄関の<b>ベル</b>が鳴った。",
+      "hrkt": "げんかん の <b>ベル</b> が なった。",
+      "latn": "genkan no <b>beru</b> ga natta.",
+      "en": "The door bell rang.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4045336.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08339A.mp3"
+    },
+    {
+      "ja": "御用の方は<b>ベル</b>を鳴らしてください。",
+      "hrkt": "ごよう の かた は <b>ベル</b> を ならして ください。",
+      "latn": "goyou no kata ha <b>beru</b> wo narashite kudasai.",
+      "en": "Please ring the bell for service.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/829ffb7smc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "寮",
+  "hrkt": "りょう",
+  "latn": "ryou",
+  "en": "dormitory",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01182A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は会社の<b>寮</b>に住んでいます。",
+      "hrkt": "かれ は かいしゃ の <b>りょう</b> に すんで います。",
+      "latn": "kare ha kaisha no <b>ryou</b> ni sunde imasu.",
+      "en": "He lives in a company dormitory.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01182A.mp3"
+    }
+  ]
+}

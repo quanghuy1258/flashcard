@@ -1,0 +1,18 @@
+{
+  "ja": "よこす",
+  "hrkt": "よこす",
+  "latn": "yokosu",
+  "en": "send, hand over",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03951A.mp3",
+  "sentences": [
+    {
+      "ja": "父が長い手紙を<b>よこした</b>よ。",
+      "hrkt": "ちち が ながい てがみ を <b>よこした</b> よ。",
+      "latn": "chichi ga nagai tegami wo <b>yokoshita</b> yo.",
+      "en": "My father sent me a long letter.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03951A.mp3"
+    }
+  ]
+}

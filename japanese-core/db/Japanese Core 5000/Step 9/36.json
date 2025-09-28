@@ -1,0 +1,18 @@
+{
+  "ja": "悪",
+  "hrkt": "あく",
+  "latn": "aku",
+  "en": "evil, badness",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02797A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>悪</b>を憎んでいます。",
+      "hrkt": "かれ は <b>あく</b> を にくんで います。",
+      "latn": "kare ha <b>aku</b> wo nikunde imasu.",
+      "en": "He hates evil.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02797A.mp3"
+    }
+  ]
+}

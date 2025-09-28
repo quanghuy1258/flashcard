@@ -1,0 +1,18 @@
+{
+  "ja": "輸出",
+  "hrkt": "ゆしゅつ",
+  "latn": "yushutsu",
+  "en": "export",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09539A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の会社は車を<b>輸出しています</b>。",
+      "hrkt": "かれ の かいしゃ は くるま を <b>ゆしゅつ</b> して います。",
+      "latn": "kare no kaisha ha kuruma wo <b>yushutsu</b> shite imasu.",
+      "en": "His company exports cars.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/12c59femp8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09539A.mp3"
+    }
+  ]
+}

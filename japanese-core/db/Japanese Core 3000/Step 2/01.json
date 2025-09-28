@@ -1,0 +1,18 @@
+{
+  "ja": "パンツ",
+  "hrkt": "パンツ",
+  "latn": "pantsu",
+  "en": "pants, trousers",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02937A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はスカートより<b>パンツ</b>が似合うね。",
+      "hrkt": "かのじょ は スカート より <b>パンツ</b> が にあう ね。",
+      "latn": "kanojo ha suka-to yori <b>pantsu</b> ga niau ne.",
+      "en": "She looks better in pants than in a skirt.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/94bs999ee8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/users/Cerego/f5926e4ce991dfdfa48e7f3c26b56d21.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "安全",
+  "hrkt": "あんぜん",
+  "latn": "anzen",
+  "en": "safety, security",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00321A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>安全</b>が第一です。",
+      "hrkt": "<b>あんぜん</b> が だいいち です。",
+      "latn": "<b>anzen</b> ga daiichi desu.",
+      "en": "Safety comes first.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4029659.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00321A.mp3"
+    },
+    {
+      "ja": "<b>安全</b>のため、シートベルトを締めてください。",
+      "hrkt": "<b>あんぜん</b> の ため、シートベルト を しめて ください。",
+      "latn": "<b>anzen</b> no tame,shi-toberuto wo shimete kudasai.",
+      "en": "For your safety, please fasten your seatbelt.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a35l433hfg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "動作",
+  "hrkt": "どうさ",
+  "latn": "dousa",
+  "en": "movement, action",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00631A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>動作</b>が機敏です。",
+      "hrkt": "かれ は <b>どうさ</b> が きびん です。",
+      "latn": "kare ha <b>dousa</b> ga kibin desu.",
+      "en": "His movements are quick.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e26s939f8s.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00631A.mp3"
+    }
+  ]
+}

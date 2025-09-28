@@ -1,0 +1,26 @@
+{
+  "ja": "音",
+  "hrkt": "おと",
+  "latn": "oto",
+  "en": "sound, noise",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01132A.mp3",
+  "sentences": [
+    {
+      "ja": "雨の<b>音</b>が聞こえる。",
+      "hrkt": "あめ の <b>おと</b> が きこえる。",
+      "latn": "ame no <b>oto</b> ga kikoeru.",
+      "en": "I can hear the sound of rain.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5701010.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01132A.mp3"
+    },
+    {
+      "ja": "大きな<b>音</b>にびっくりしました。",
+      "hrkt": "おおきな <b>おと</b> に びっくり しました。",
+      "latn": "ookina <b>oto</b> ni bikkuri shimashita.",
+      "en": "I was startled by a sudden noise.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2651996.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07725A.mp3"
+    }
+  ]
+}

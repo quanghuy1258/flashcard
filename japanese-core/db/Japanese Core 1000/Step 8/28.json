@@ -1,0 +1,26 @@
+{
+  "ja": "明るい",
+  "hrkt": "あかるい",
+  "latn": "akarui",
+  "en": "bright, cheerful",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00055A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>明るい</b>性格です。",
+      "hrkt": "かのじょ は <b>あかるい</b> せいかく です。",
+      "latn": "kanojo ha <b>akarui</b> seikaku desu.",
+      "en": "She has a cheerful personality.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5248243.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00055A.mp3?1219918869"
+    },
+    {
+      "ja": "妻は<b>明るくて</b>賑やかな人です。",
+      "hrkt": "つま は <b>あかるくて</b> にぎやか な ひと です。",
+      "latn": "tsuma ha <b>akarukute</b> nigiyaka na hito desu.",
+      "en": "My wife is cheerful and lively.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/14326uak8o.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "行動",
+  "hrkt": "こうどう",
+  "latn": "koudou",
+  "en": "action, conduct",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00113A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>行動</b>は理解できない。",
+      "hrkt": "かれ の <b>こうどう</b> は りかい できない。",
+      "latn": "kare no <b>koudou</b> ha rikai dekinai.",
+      "en": "I can't understand his conduct.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a4504n90ho.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00113A.mp3"
+    }
+  ]
+}

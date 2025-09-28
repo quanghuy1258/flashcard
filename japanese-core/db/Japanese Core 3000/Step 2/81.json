@@ -1,0 +1,18 @@
+{
+  "ja": "おやつ",
+  "hrkt": "おやつ",
+  "latn": "oyatsu",
+  "en": "snack, refreshment",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02809A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の<b>おやつ</b>はプリンだった。",
+      "hrkt": "きょう の <b>おやつ</b> は プリン だった。",
+      "latn": "kyou no <b>oyatsu</b> ha purin datta.",
+      "en": "Today's snack was a pudding.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/96414d1m5k.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02809A.mp3"
+    }
+  ]
+}

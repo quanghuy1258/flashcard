@@ -1,0 +1,26 @@
+{
+  "ja": "待つ",
+  "hrkt": "まつ",
+  "latn": "matsu",
+  "en": "wait, wait for",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08743A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたが来るのを<b>待って</b>います。",
+      "hrkt": "あなた が くる の を <b>まって</b> います。",
+      "latn": "anata ga kuru no wo <b>matte</b> imasu.",
+      "en": "I am waiting for you to come.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4135942.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08743A.mp3?1220260880"
+    },
+    {
+      "ja": "私は二日<b>待った</b>。",
+      "hrkt": "わたし は ふつか <b>まった</b>。",
+      "latn": "watashi ha futsuka <b>matta</b>.",
+      "en": "I waited two days.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3105935.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08104A.mp3"
+    }
+  ]
+}

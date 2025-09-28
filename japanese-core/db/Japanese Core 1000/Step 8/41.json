@@ -1,0 +1,26 @@
+{
+  "ja": "再来週",
+  "hrkt": "さらいしゅう",
+  "latn": "saraishuu",
+  "en": "the week after next",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03501A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>再来週</b>は忙しいです。",
+      "hrkt": "<b>さらいしゅう</b> は いそがしい です。",
+      "latn": "<b>saraishuu</b> ha isogashii desu.",
+      "en": "I'll be busy the week after next.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5793898.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03501A.mp3"
+    },
+    {
+      "ja": "<b>再来週</b>なら時間がありますよ。",
+      "hrkt": "<b>さらいしゅう</b> なら じかん が あります よ。",
+      "latn": "<b>saraishuu</b> nara jikan ga arimasu yo.",
+      "en": "I have time the week after next.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/737p15afis.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "手本",
+  "hrkt": "てほん",
+  "latn": "tehon",
+  "en": "model, good example",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02278A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>手本</b>を見ながら習字をしました。",
+      "hrkt": "<b>てほん</b> を みながら しゅうじ を しました。",
+      "latn": "<b>tehon</b> wo minagara shuuji wo shimashita.",
+      "en": "I practiced calligraphy by looking at the models.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02278A.mp3"
+    }
+  ]
+}

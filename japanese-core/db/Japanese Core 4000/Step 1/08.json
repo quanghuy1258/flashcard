@@ -1,0 +1,18 @@
+{
+  "ja": "複数",
+  "hrkt": "ふくすう",
+  "latn": "fukusuu",
+  "en": "plural, multiple",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00203A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>複数</b>のレポートをひとつにまとめています。",
+      "hrkt": "<b>ふくすう</b> の レポート を ひとつ に まとめて います。",
+      "latn": "<b>fukusuu</b> no repo-to wo hitotsu ni matomete imasu.",
+      "en": "I'm putting multiple reports together in one.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/94fo8e2hmo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00203A.mp3"
+    }
+  ]
+}

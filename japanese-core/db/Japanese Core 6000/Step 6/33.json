@@ -1,0 +1,18 @@
+{
+  "ja": "偏る",
+  "hrkt": "かたよる",
+  "latn": "katayoru",
+  "en": "be one-sided, be biased",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01955A.mp3",
+  "sentences": [
+    {
+      "ja": "栄養が<b>偏らない</b>ように食事に気を付けています。",
+      "hrkt": "えいよう が <b>かたよらない</b> ように しょくじ に きをつけて います。",
+      "latn": "eiyou ga <b>katayoranai</b> youni shokuji ni kiwotsukete imasu.",
+      "en": "I take care to maintain a balanced diet.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01955A.mp3"
+    }
+  ]
+}

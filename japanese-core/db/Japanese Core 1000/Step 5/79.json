@@ -1,0 +1,26 @@
+{
+  "ja": "椅子",
+  "hrkt": "いす",
+  "latn": "isu",
+  "en": "chair",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00442A.mp3",
+  "sentences": [
+    {
+      "ja": "そのお年寄りは<b>椅子</b>に座った。",
+      "hrkt": "その おとしより は <b>いす</b> に すわった。",
+      "latn": "sono otoshiyori ha <b>isu</b> ni suwatta.",
+      "en": "The old person sat on a chair.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3225281.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00442A.mp3"
+    },
+    {
+      "ja": "その<b>椅子</b>を持ってきてください。",
+      "hrkt": "その <b>いす</b> を もって きて ください。",
+      "latn": "sono <b>isu</b> wo motte kite kudasai.",
+      "en": "Please bring the chair.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3428586.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09297A.mp3"
+    }
+  ]
+}

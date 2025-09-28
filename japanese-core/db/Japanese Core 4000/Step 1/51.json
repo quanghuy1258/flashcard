@@ -1,0 +1,18 @@
+{
+  "ja": "許可",
+  "hrkt": "きょか",
+  "latn": "kyoka",
+  "en": "permission, approval",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00782A.mp3",
+  "sentences": [
+    {
+      "ja": "先生に<b>許可</b>をもらって早退しました。",
+      "hrkt": "せんせい に <b>きょか</b> を もらって そうたい しました。",
+      "latn": "sensei ni <b>kyoka</b> wo moratte soutai shimashita.",
+      "en": "I got permission from the teacher and went home early.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/643tftc740.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00782A.mp3"
+    }
+  ]
+}

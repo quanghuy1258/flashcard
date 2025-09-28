@@ -1,0 +1,26 @@
+{
+  "ja": "若者",
+  "hrkt": "わかもの",
+  "latn": "wakamono",
+  "en": "young person, youth",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW10008A.mp3",
+  "sentences": [
+    {
+      "ja": "最近の<b>若者</b>は本を読まない。",
+      "hrkt": "さいきん の <b>わかもの</b> は ほん を よまない。",
+      "latn": "saikin no <b>wakamono</b> ha hon wo yomanai.",
+      "en": "Young people these days don't read books.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6217816.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS10008A.mp3"
+    },
+    {
+      "ja": "このエリアは<b>若者</b>に人気です。",
+      "hrkt": "この エリア は <b>わかもの</b> に にんき です。",
+      "latn": "kono eria ha <b>wakamono</b> ni ninki desu.",
+      "en": "This area is popular among young people.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/239sb17nhc.mp3"
+    }
+  ]
+}

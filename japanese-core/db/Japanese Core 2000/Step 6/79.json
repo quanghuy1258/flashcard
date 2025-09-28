@@ -1,0 +1,26 @@
+{
+  "ja": "戦争",
+  "hrkt": "せんそう",
+  "latn": "sensou",
+  "en": "war between countries",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04899A.mp3",
+  "sentences": [
+    {
+      "ja": "2003年にイラクで<b>戦争</b>があった。",
+      "hrkt": "2003 ねん に イラク で <b>せんそう</b> が あった。",
+      "latn": "2003 nen ni iraku de <b>sensou</b> ga atta.",
+      "en": "There was a war in Iraq in 2003.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4905184.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04899A.mp3"
+    },
+    {
+      "ja": "日本とアメリカは<b>戦争</b>をしたことがあります。",
+      "hrkt": "にほん と アメリカ は <b>せんそう</b> を した こと が あります。",
+      "latn": "nihon to amerika ha <b>sensou</b> wo shita koto ga arimasu.",
+      "en": "Japan and America have been at a war.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/7459ag4mkc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "銀行",
+  "hrkt": "ぎんこう",
+  "latn": "ginkou",
+  "en": "bank",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02364A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>銀行</b>は3時まで開いています。",
+      "hrkt": "<b>ぎんこう</b> は 3 じ まで あいて います。",
+      "latn": "<b>ginkou</b> ha 3 ji made aite imasu.",
+      "en": "The bank is open until three o'clock.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4877686.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02364A.mp3"
+    },
+    {
+      "ja": "姉は<b>銀行</b>で働いています。",
+      "hrkt": "あね は <b>ぎんこう</b> で はたらいて います。",
+      "latn": "ane ha <b>ginkou</b> de hataraite imasu.",
+      "en": "My big sister works at a bank.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3700093.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07338A.mp3"
+    }
+  ]
+}

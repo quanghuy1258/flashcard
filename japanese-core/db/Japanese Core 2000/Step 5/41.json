@@ -1,0 +1,26 @@
+{
+  "ja": "写す",
+  "hrkt": "うつす",
+  "latn": "utsusu",
+  "en": "copy, photograph",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00729A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は友達の答えを<b>写した</b>。",
+      "hrkt": "かれ は ともだち の こたえ を <b>うつした</b>。",
+      "latn": "kare ha tomodachi no kotae wo <b>utsushita</b>.",
+      "en": "He copied his friend's answers.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3955978.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00729A.mp3"
+    },
+    {
+      "ja": "黒板の漢字をノートに<b>写して</b>ください。",
+      "hrkt": "こくばん の かんじ を ノート に <b>うつして</b> ください。",
+      "latn": "kokuban no kanji wo no-to ni <b>utsushite</b> kudasai.",
+      "en": "Please copy the Kanji characters on the blackboard.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/647k7caep0.mp3"
+    }
+  ]
+}

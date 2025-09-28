@@ -1,0 +1,18 @@
+{
+  "ja": "ピストル",
+  "hrkt": "ピストル",
+  "latn": "pisutoru",
+  "en": "pistol",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01890A.mp3",
+  "sentences": [
+    {
+      "ja": "犯人は<b>ピストル</b>を持っているわ。",
+      "hrkt": "はんにん は <b>ピストル</b> を もって いる わ。",
+      "latn": "hannin ha <b>pisutoru</b> wo motte iru wa.",
+      "en": "The criminal has a pistol.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01890A.mp3"
+    }
+  ]
+}

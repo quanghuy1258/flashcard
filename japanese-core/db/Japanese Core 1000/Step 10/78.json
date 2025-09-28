@@ -1,0 +1,26 @@
+{
+  "ja": "夢",
+  "hrkt": "ゆめ",
+  "latn": "yume",
+  "en": "dream",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09558A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>夢</b>は先生になることです。",
+      "hrkt": "わたし の <b>ゆめ</b> は せんせい に なる こと です。",
+      "latn": "watashi no <b>yume</b> ha sensei ni naru koto desu.",
+      "en": "My dream is to become a teacher.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5232877.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09558A.mp3"
+    },
+    {
+      "ja": "私には大きな<b>夢</b>があります。",
+      "hrkt": "わたし に は おおきな <b>ゆめ</b> が あります。",
+      "latn": "watashi ni ha ookina <b>yume</b> ga arimasu.",
+      "en": "I have a big dream.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c2fjar31m8.mp3"
+    }
+  ]
+}

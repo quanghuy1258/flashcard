@@ -1,0 +1,26 @@
+{
+  "ja": "うまい",
+  "hrkt": "うまい",
+  "latn": "umai",
+  "en": "good at",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00756A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は野球が<b>うまい</b>。",
+      "hrkt": "かれ は やきゅう が <b>うまい</b>。",
+      "latn": "kare ha yakyuu ga <b>umai</b>.",
+      "en": "He's good at baseball.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5635720.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00756A.mp3"
+    },
+    {
+      "ja": "彼は文章がとても<b>うまい</b>。",
+      "hrkt": "かれ は ぶんしょう が とても <b>うまい</b>。",
+      "latn": "kare ha bunshou ga totemo <b>umai</b>.",
+      "en": "His writing is very good.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5381542.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08253A.mp3"
+    }
+  ]
+}

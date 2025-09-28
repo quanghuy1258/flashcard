@@ -1,0 +1,18 @@
+{
+  "ja": "乗り越える",
+  "hrkt": "のりこえる",
+  "latn": "norikoeru",
+  "en": "overcome, get over",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01569A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は悲しみを<b>乗り越えて</b>強く生きた。",
+      "hrkt": "かれ は かなしみ を <b>のりこえて</b> つよく いきた。",
+      "latn": "kare ha kanashimi wo <b>norikoete</b> tsuyoku ikita.",
+      "en": "He overcame his sadness and carried on with his life determinedly.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01569A.mp3"
+    }
+  ]
+}

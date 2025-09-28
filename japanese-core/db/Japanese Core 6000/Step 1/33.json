@@ -1,0 +1,18 @@
+{
+  "ja": "短縮",
+  "hrkt": "たんしゅく",
+  "latn": "tanshuku",
+  "en": "reduction, contraction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00653A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は授業を1時間に<b>短縮</b>します。",
+      "hrkt": "きょう は じゅぎょう を 1 じかん に <b>たんしゅく</b> します。",
+      "latn": "kyou ha jugyou wo 1 jikan ni <b>tanshuku</b> shimasu.",
+      "en": "The class will be reduced to one hour today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00653A.mp3"
+    }
+  ]
+}

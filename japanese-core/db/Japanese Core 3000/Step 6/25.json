@@ -1,0 +1,18 @@
+{
+  "ja": "食パン",
+  "hrkt": "しょくパン",
+  "latn": "shokupan",
+  "en": "bread in a rectangular shape",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03293A.mp3",
+  "sentences": [
+    {
+      "ja": "朝食に<b>食パン</b>を2枚食べました。",
+      "hrkt": "ちょうしょく に <b>しょくパン</b> を 2 まい たべました。",
+      "latn": "choushoku ni <b>shokupan</b> wo 2 mai tabemashita.",
+      "en": "I ate two slices of bread in a rectangular shape for breakfast.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/335vbj8l78.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03293A.mp3"
+    }
+  ]
+}

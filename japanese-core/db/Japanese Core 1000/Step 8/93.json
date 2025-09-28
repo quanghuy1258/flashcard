@@ -1,0 +1,26 @@
+{
+  "ja": "円",
+  "hrkt": "えん",
+  "latn": "en",
+  "en": "circle",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/fl3k4441jocac.mp3",
+  "sentences": [
+    {
+      "ja": "そこに大きな<b>円</b>を描いて。",
+      "hrkt": "そこ に おおきな <b>えん</b> を かいて。",
+      "latn": "soko ni ookina <b>en</b> wo kaite.",
+      "en": "Draw a big circle there.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/0l6kc441ibuec.jpg",
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/0l8k84a11naqo.mp3"
+    },
+    {
+      "ja": "ゲームをするので<b>円</b>になってください。",
+      "hrkt": "ゲーム を する ので <b>えん</b> に なって ください。",
+      "latn": "ge-mu wo suru node <b>en</b> ni natte kudasai.",
+      "en": "Because we are playing a game, please make a circle.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/644he22qio.mp3"
+    }
+  ]
+}

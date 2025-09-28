@@ -1,0 +1,18 @@
+{
+  "ja": "地価",
+  "hrkt": "ちか",
+  "latn": "chika",
+  "en": "land price",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00031A.mp3",
+  "sentences": [
+    {
+      "ja": "東京の<b>地価</b>は上がり続けているんだ。",
+      "hrkt": "とうきょう の <b>ちか</b> は あがり つづけて いる ん だ。",
+      "latn": "toukyou no <b>chika</b> ha agari tsuzukete iru n da.",
+      "en": "The land price in Tokyo keeps going up.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00031A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "主食",
+  "hrkt": "しゅしょく",
+  "latn": "shushoku",
+  "en": "staple food",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02524A.mp3",
+  "sentences": [
+    {
+      "ja": "アジアの<b>主食</b>は米です。",
+      "hrkt": "アジア の <b>しゅしょく</b> は こめ です。",
+      "latn": "ajia no <b>shushoku</b> ha kome desu.",
+      "en": "The staple food in Asia is rice.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02524A.mp3"
+    }
+  ]
+}

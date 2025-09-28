@@ -1,0 +1,18 @@
+{
+  "ja": "乗り込む",
+  "hrkt": "のりこむ",
+  "latn": "norikomu",
+  "en": "go aboard, get on (a train etc.)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01168A.mp3",
+  "sentences": [
+    {
+      "ja": "あの駅で学生がたくさん<b>乗り込んだ</b>ね。",
+      "hrkt": "あの えき で がくせい が たくさん <b>のりこんだ</b> ね。",
+      "latn": "ano eki de gakusei ga takusan <b>norikonda</b> ne.",
+      "en": "A lot of students got on at that station.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01168A.mp3"
+    }
+  ]
+}

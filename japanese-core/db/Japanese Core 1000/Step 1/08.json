@@ -1,0 +1,26 @@
+{
+  "ja": "いつ",
+  "hrkt": "いつ",
+  "latn": "itsu",
+  "en": "when",
+  "pos": "Interrogative",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00501A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>いつ</b>来ますか。",
+      "hrkt": "かのじょ は <b>いつ</b> きます か。",
+      "latn": "kanojo ha <b>itsu</b> kimasu ka.",
+      "en": "When is she coming?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3026871.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00501A.mp3"
+    },
+    {
+      "ja": "次は<b>いつ</b>会いましょうか。",
+      "hrkt": "つぎ は <b>いつ</b> あいましょう か。",
+      "latn": "tsugi ha <b>itsu</b> aimashou ka.",
+      "en": "When shall we meet again?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5083767.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05835A.mp3"
+    }
+  ]
+}

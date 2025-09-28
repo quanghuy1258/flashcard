@@ -1,0 +1,18 @@
+{
+  "ja": "舞台",
+  "hrkt": "ぶたい",
+  "latn": "butai",
+  "en": "stage, setting",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00397A.mp3",
+  "sentences": [
+    {
+      "ja": "その物語は京都が<b>舞台</b>だ。",
+      "hrkt": "その ものがたり は きょうと が <b>ぶたい</b> だ。",
+      "latn": "sono monogatari ha kyouto ga <b>butai</b> da.",
+      "en": "The story is set in Kyoto.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e45b94ekao.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00397A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "酸っぱい",
+  "hrkt": "すっぱい",
+  "latn": "suppai",
+  "en": "sour",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04586A.mp3",
+  "sentences": [
+    {
+      "ja": "このぶどうは<b>酸っぱい</b>です。",
+      "hrkt": "この ぶどう は <b>すっぱい</b> です。",
+      "latn": "kono budou ha <b>suppai</b> desu.",
+      "en": "These grapes are sour.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5133315.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04586A.mp3"
+    },
+    {
+      "ja": "レモンは<b>酸っぱい</b>ので好きではありません。",
+      "hrkt": "レモン は <b>すっぱい</b> ので すき で は ありません。",
+      "latn": "remon ha <b>suppai</b> node suki de ha arimasen.",
+      "en": "I don't like lemons, because they're sour.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/35c7ai7dpc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "サンドイッチ",
+  "hrkt": "サンドイッチ",
+  "latn": "sandoicchi",
+  "en": "sandwich",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03549A.mp3",
+  "sentences": [
+    {
+      "ja": "今日のお昼は<b>サンドイッチ</b>です。",
+      "hrkt": "きょう の おひる は <b>サンドイッチ</b> です。",
+      "latn": "kyou no ohiru ha <b>sandoicchi</b> desu.",
+      "en": "We're having sandwiches for lunch.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5029854.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03549A.mp3"
+    },
+    {
+      "ja": "ハムと卵で<b>サンドイッチ</b>を作りました。",
+      "hrkt": "ハム と たまご で <b>サンドイッチ</b> を つくりました。",
+      "latn": "hamu to tamago de <b>sandoicchi</b> wo tsukurimashita.",
+      "en": "I made sandwiches with ham and eggs.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/147bbc0488.mp3"
+    }
+  ]
+}

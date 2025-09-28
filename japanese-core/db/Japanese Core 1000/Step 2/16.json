@@ -1,0 +1,26 @@
+{
+  "ja": "飛行機",
+  "hrkt": "ひこうき",
+  "latn": "hikouki",
+  "en": "airplane",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07675A.mp3",
+  "sentences": [
+    {
+      "ja": "息子は<b>飛行機</b>のおもちゃが好きです。",
+      "hrkt": "むすこ は <b>ひこうき</b> の おもちゃ が すき です。",
+      "latn": "musuko ha <b>hikouki</b> no omocha ga suki desu.",
+      "en": "My son likes toy airplanes.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/545944.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07675A.mp3"
+    },
+    {
+      "ja": "<b>飛行機</b>が1時間以上遅れた。",
+      "hrkt": "<b>ひこうき</b> が 1 じかん いじょう おくれた。",
+      "latn": "<b>hikouki</b> ga 1 jikan ijou okureta.",
+      "en": "The plane arrived over an hour late.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2081238.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00435A.mp3"
+    }
+  ]
+}

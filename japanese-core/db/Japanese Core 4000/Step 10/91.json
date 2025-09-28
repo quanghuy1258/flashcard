@@ -1,0 +1,18 @@
+{
+  "ja": "食卓",
+  "hrkt": "しょくたく",
+  "latn": "shokutaku",
+  "en": "dining table",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01542A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>食卓</b>に花を飾りましょう。",
+      "hrkt": "<b>しょくたく</b> に はな を かざりましょう。",
+      "latn": "<b>shokutaku</b> ni hana wo kazarimashou.",
+      "en": "Let's decorate our dining table with flowers.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01542A.mp3"
+    }
+  ]
+}

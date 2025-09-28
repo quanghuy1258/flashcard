@@ -1,0 +1,26 @@
+{
+  "ja": "個人",
+  "hrkt": "こじん",
+  "latn": "kojin",
+  "en": "individual person",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03120A.mp3",
+  "sentences": [
+    {
+      "ja": "これは私<b>個人</b>の意見です。",
+      "hrkt": "これ は わたし <b>こじん</b> の いけん です。",
+      "latn": "kore ha watashi <b>kojin</b> no iken desu.",
+      "en": "This is my personal opinion.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5570689.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03120A.mp3"
+    },
+    {
+      "ja": "この問題は<b>個人</b>の力ではどうにもなりません。",
+      "hrkt": "この もんだい は <b>こじん</b> の ちから で は どう に も なりません。",
+      "latn": "kono mondai ha <b>kojin</b> no chikara de ha dou ni mo narimasen.",
+      "en": "We can't do anything about this problem with just the power of individuals.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a408at9754.mp3"
+    }
+  ]
+}

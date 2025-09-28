@@ -1,0 +1,26 @@
+{
+  "ja": "帰国",
+  "hrkt": "きこく",
+  "latn": "kikoku",
+  "en": "return to one's country",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02040A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>帰国</b>しました。",
+      "hrkt": "かれ は <b>きこく</b> しました。",
+      "latn": "kare ha <b>kikoku</b> shimashita.",
+      "en": "He returned to his country.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3324573.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02040A.mp3"
+    },
+    {
+      "ja": "<b>帰国</b>することに決めました。",
+      "hrkt": "<b>きこく</b> する こと に きめました。",
+      "latn": "<b>kikoku</b> suru koto ni kimemashita.",
+      "en": "I've decided to go back to my country.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4807876.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02162A.mp3"
+    }
+  ]
+}

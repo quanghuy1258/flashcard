@@ -1,0 +1,26 @@
+{
+  "ja": "過去",
+  "hrkt": "かこ",
+  "latn": "kako",
+  "en": "the past",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01562A.mp3",
+  "sentences": [
+    {
+      "ja": "それは<b>過去</b>の話だ。",
+      "hrkt": "それ は <b>かこ</b> の はなし だ。",
+      "latn": "sore ha <b>kako</b> no hanashi da.",
+      "en": "That's in the past now.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1016015.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01562A.mp3"
+    },
+    {
+      "ja": "<b>過去</b>の研究についても調べてください。",
+      "hrkt": "<b>かこ</b> の けんきゅう について も しらべて ください。",
+      "latn": "<b>kako</b> no kenkyuu nitsuite mo shirabete kudasai.",
+      "en": "Please look into the past research.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/550u8p332o.mp3"
+    }
+  ]
+}

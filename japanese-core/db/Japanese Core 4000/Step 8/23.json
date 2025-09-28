@@ -1,0 +1,18 @@
+{
+  "ja": "画家",
+  "hrkt": "がか",
+  "latn": "gaka",
+  "en": "artist, painter",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01173A.mp3",
+  "sentences": [
+    {
+      "ja": "この絵はスペインの<b>画家</b>が描きました。",
+      "hrkt": "この え は スペイン の <b>がか</b> が かきました。",
+      "latn": "kono e ha supein no <b>gaka</b> ga kakimashita.",
+      "en": "This picture was drawn by a Spanish painter.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01173A.mp3"
+    }
+  ]
+}

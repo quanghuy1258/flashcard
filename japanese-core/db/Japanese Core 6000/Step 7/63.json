@@ -1,0 +1,18 @@
+{
+  "ja": "握りしめる",
+  "hrkt": "にぎりしめる",
+  "latn": "nigirishimeru",
+  "en": "grip, clench (one's hands)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03308A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は両手を<b>握りしめた</b>の。",
+      "hrkt": "かれ は りょうて を <b>にぎりしめた</b> の 。",
+      "latn": "kare ha ryoute wo <b>nigirishimeta</b> no .",
+      "en": "He clenched his fists.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03308A.mp3"
+    }
+  ]
+}

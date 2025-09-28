@@ -1,0 +1,18 @@
+{
+  "ja": "生まれ",
+  "hrkt": "うまれ",
+  "latn": "umare",
+  "en": "birth, origin",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00840A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は京都の<b>生まれ</b>です。",
+      "hrkt": "かのじょ は きょうと の <b>うまれ</b> です。",
+      "latn": "kanojo ha kyouto no <b>umare</b> desu.",
+      "en": "She was born in Kyoto.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00840A.mp3"
+    }
+  ]
+}

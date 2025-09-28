@@ -1,0 +1,26 @@
+{
+  "ja": "チャンス",
+  "hrkt": "チャンス",
+  "latn": "chansu",
+  "en": "chance",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00919A.mp3",
+  "sentences": [
+    {
+      "ja": "これは素晴らしい<b>チャンス</b>だ。",
+      "hrkt": "これ は すばらしい <b>チャンス</b> だ。",
+      "latn": "kore ha subarashii <b>chansu</b> da.",
+      "en": "This is a great chance.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2969100.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00919A.mp3"
+    },
+    {
+      "ja": "こんな<b>チャンス</b>は二度とありませんよ。",
+      "hrkt": "こんな <b>チャンス</b> は に ど と ありません よ。",
+      "latn": "konna <b>chansu</b> ha ni do to arimasen yo.",
+      "en": "You won't have such a chance again.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/944l9ofe58.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "最大",
+  "hrkt": "さいだい",
+  "latn": "saidai",
+  "en": "biggest, largest",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03325A.mp3",
+  "sentences": [
+    {
+      "ja": "これは世界<b>最大</b>の船です。",
+      "hrkt": "これ は せかい <b>さいだい</b> の ふね です。",
+      "latn": "kore ha sekai <b>saidai</b> no fune desu.",
+      "en": "This is the world's largest ship.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5958565.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03325A.mp3"
+    },
+    {
+      "ja": "これは日本<b>最大</b>の博物館です。",
+      "hrkt": "これ は にほん <b>さいだい</b> の はくぶつかん です。",
+      "latn": "kore ha nihon <b>saidai</b> no hakubutsukan desu.",
+      "en": "This is the largest museum in Japan.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a35m3v20ao.mp3"
+    }
+  ]
+}

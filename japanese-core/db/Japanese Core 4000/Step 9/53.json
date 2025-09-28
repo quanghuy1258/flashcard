@@ -1,0 +1,18 @@
+{
+  "ja": "点数",
+  "hrkt": "てんすう",
+  "latn": "tensuu",
+  "en": "point, score",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01966A.mp3",
+  "sentences": [
+    {
+      "ja": "今回はテストの<b>点数</b>が悪かった。",
+      "hrkt": "こんかい は テスト の <b>てんすう</b> が わるかった。",
+      "latn": "konkai ha tesuto no <b>tensuu</b> ga warukatta.",
+      "en": "My test score this time was bad.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01966A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "決定",
+  "hrkt": "けってい",
+  "latn": "kettei",
+  "en": "decision",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02708A.mp3",
+  "sentences": [
+    {
+      "ja": "会議で重要な<b>決定</b>がありました。",
+      "hrkt": "かいぎ で じゅうような <b>けってい</b> が ありました。",
+      "latn": "kaigi de juuyouna <b>kettei</b> ga arimashita.",
+      "en": "An important decision was made at the meeting.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5327644.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02708A.mp3"
+    },
+    {
+      "ja": "スポーツ大会の日時が<b>決定</b>しました。",
+      "hrkt": "スポーツ たいかい の にちじ が <b>けってい</b> しました。",
+      "latn": "supo-tsu taikai no nichiji ga <b>kettei</b> shimashita.",
+      "en": "The date of the sports event has been decided.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e5erdh6qtk.mp3"
+    }
+  ]
+}

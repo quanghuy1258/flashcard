@@ -1,0 +1,26 @@
+{
+  "ja": "大きい",
+  "hrkt": "おおきい",
+  "latn": "ookii",
+  "en": "big",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00971A.mp3",
+  "sentences": [
+    {
+      "ja": "あの<b>大きい</b>建物は何ですか。",
+      "hrkt": "あの <b>おおきい</b> たてもの は なん です か。",
+      "latn": "ano <b>ookii</b> tatemono ha nan desu ka.",
+      "en": "What's that big building?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5068648.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00971A.mp3"
+    },
+    {
+      "ja": "海は広くて<b>大きい</b>。",
+      "hrkt": "うみ は ひろくて <b>おおきい</b>。",
+      "latn": "umi ha hirokute <b>ookii</b>.",
+      "en": "The sea is vast and wide.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4530668.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00762A.mp3"
+    }
+  ]
+}

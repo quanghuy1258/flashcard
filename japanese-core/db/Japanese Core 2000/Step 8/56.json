@@ -1,0 +1,26 @@
+{
+  "ja": "以下",
+  "hrkt": "いか",
+  "latn": "ika",
+  "en": "below",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00254A.mp3",
+  "sentences": [
+    {
+      "ja": "数学が平均点<b>以下</b>だった。",
+      "hrkt": "すうがく が へいきん てん <b>いか</b> だった。",
+      "latn": "suugaku ga heikin ten <b>ika</b> datta.",
+      "en": "My math score was below average.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/705271.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00254A.mp3"
+    },
+    {
+      "ja": "日本では19歳<b>以下</b>の人はお酒を飲めません。",
+      "hrkt": "にほん で は 19 さい <b>いか</b> の ひと は おさけ を のめません。",
+      "latn": "nihon de ha 19 sai <b>ika</b> no hito ha osake wo nomemasen.",
+      "en": "In Japan people under the age of 19 cannot drink alcohol.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/15b75rdf78.mp3"
+    }
+  ]
+}

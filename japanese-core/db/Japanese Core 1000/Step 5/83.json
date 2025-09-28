@@ -1,0 +1,26 @@
+{
+  "ja": "涼しい",
+  "hrkt": "すずしい",
+  "latn": "suzushii",
+  "en": "cool (of temperature)",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04566A.mp3",
+  "sentences": [
+    {
+      "ja": "夕方は<b>涼しく</b>なりますよ。",
+      "hrkt": "ゆうがた は <b>すずしく</b> なります よ。",
+      "latn": "yuugata ha <b>suzushiku</b> narimasu yo.",
+      "en": "It gets cooler in the evening.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5293615.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04566A.mp3"
+    },
+    {
+      "ja": "今日はすごく<b>涼しい</b>ですね。",
+      "hrkt": "きょう は すごく <b>すずしい</b> です ね。",
+      "latn": "kyou ha sugoku <b>suzushii</b> desu ne.",
+      "en": "It's very cool today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/92arauc8l0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "大雨",
+  "hrkt": "おおあめ",
+  "latn": "ooame",
+  "en": "heavy rain",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01896A.mp3",
+  "sentences": [
+    {
+      "ja": "台風で<b>大雨</b>になったの。",
+      "hrkt": "たいふう で <b>おおあめ</b> に なった の。",
+      "latn": "taifuu de <b>ooame</b> ni natta no.",
+      "en": "We had heavy rain because of the typhoon.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/053qc75j0c.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01896A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "思い込む",
+  "hrkt": "おもいこむ",
+  "latn": "omoikomu",
+  "en": "assume, believe",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02062A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はだまされたと<b>思い込んで</b>いるようです。",
+      "hrkt": "かれ は だまされた と <b>おもいこんで</b> いる よう です。",
+      "latn": "kare ha damasareta to <b>omoikonde</b> iru you desu.",
+      "en": "Apparently he believes that he's been deceived.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02062A.mp3"
+    }
+  ]
+}

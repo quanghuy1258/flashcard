@@ -1,0 +1,26 @@
+{
+  "ja": "外",
+  "hrkt": "そと",
+  "latn": "soto",
+  "en": "outside, open air",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05073A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>外</b>は暑いよ。",
+      "hrkt": "<b>そと</b> は あつい よ。",
+      "latn": "<b>soto</b> ha atsui yo.",
+      "en": "It's hot outside.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1927705.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05073A.mp3"
+    },
+    {
+      "ja": "<b>外</b>は真っ暗です。",
+      "hrkt": "<b>そと</b> は まっくら です。",
+      "latn": "<b>soto</b> ha makkura desu.",
+      "en": "It's pitch-dark outside.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1882549.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08749A.mp3"
+    }
+  ]
+}

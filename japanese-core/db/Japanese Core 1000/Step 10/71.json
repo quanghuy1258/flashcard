@@ -1,0 +1,26 @@
+{
+  "ja": "西",
+  "hrkt": "にし",
+  "latn": "nishi",
+  "en": "west, western",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06833A.mp3",
+  "sentences": [
+    {
+      "ja": "太陽は<b>西</b>に沈みます。",
+      "hrkt": "たいよう は <b>にし</b> に しずみます。",
+      "latn": "taiyou ha <b>nishi</b> ni shizumimasu.",
+      "en": "The sun sets in the west.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4807882.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06833A.mp3"
+    },
+    {
+      "ja": "大阪は東京より<b>西</b>にあります。",
+      "hrkt": "おおさか は とうきょう より <b>にし</b> に あります。",
+      "latn": "oosaka ha toukyou yori <b>nishi</b> ni arimasu.",
+      "en": "Osaka is located to the west of Tokyo.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/056f7e4fic.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "亀",
+  "hrkt": "かめ",
+  "latn": "kame",
+  "en": "turtle, tortoise",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02767A.mp3",
+  "sentences": [
+    {
+      "ja": "この池には<b>亀</b>がいますね。",
+      "hrkt": "この いけ に は <b>かめ</b> が います ね。",
+      "latn": "kono ike ni ha <b>kame</b> ga imasu ne.",
+      "en": "There is a turtle in this pond.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02767A.mp3"
+    }
+  ]
+}

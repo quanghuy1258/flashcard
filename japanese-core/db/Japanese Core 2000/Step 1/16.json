@@ -1,0 +1,26 @@
+{
+  "ja": "小学生",
+  "hrkt": "しょうがくせい",
+  "latn": "shougakusei",
+  "en": "elementary school student",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04144A.mp3",
+  "sentences": [
+    {
+      "ja": "うちの息子は来年、<b>小学生</b>になります。",
+      "hrkt": "うち の むすこ は らいねん、<b>しょうがくせい</b> に なります。",
+      "latn": "uchi no musuko ha rainen,<b>shougakusei</b> ni narimasu.",
+      "en": "Our son will start primary school next year.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4742594.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04144A.mp3"
+    },
+    {
+      "ja": "私の妹は<b>小学生</b>です。",
+      "hrkt": "わたし の いもうと は <b>しょうがくせい</b> です。",
+      "latn": "watashi no imouto ha <b>shougakusei</b> desu.",
+      "en": "My little sister goes to elementary school.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3515213.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00587A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "運賃",
+  "hrkt": "うんちん",
+  "latn": "unchin",
+  "en": "(passenger) fare",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00892A.mp3",
+  "sentences": [
+    {
+      "ja": "鉄道の<b>運賃</b>が値上げされたね。",
+      "hrkt": "てつどう の <b>うんちん</b> が ねあげ された ね。",
+      "latn": "tetsudou no <b>unchin</b> ga neage sareta ne.",
+      "en": "Train fares have gone up.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/4l6bde0tihkro.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00892A.mp3"
+    },
+    {
+      "ja": "<b>運賃</b>は降りる時に払ってください。",
+      "hrkt": "<b>うんちん</b> は おりる とき に はらって ください。",
+      "latn": "<b>unchin</b> ha oriru toki ni haratte kudasai.",
+      "en": "Please pay the fare when you get off.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d62c6vcuas.mp3"
+    }
+  ]
+}

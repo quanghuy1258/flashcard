@@ -1,0 +1,26 @@
+{
+  "ja": "朝ご飯",
+  "hrkt": "あさごはん",
+  "latn": "asagohan",
+  "en": "breakfast (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00106A.mp3",
+  "sentences": [
+    {
+      "ja": "7時に<b>朝ご飯</b>を食べました。",
+      "hrkt": "7 じ に <b>あさ ごはん</b> を たべました。",
+      "latn": "7 ji ni <b>asa gohan</b> wo tabemashita.",
+      "en": "I ate breakfast at seven o'clock.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5359436.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00106A.mp3"
+    },
+    {
+      "ja": "今、<b>朝ご飯</b>を作っています。",
+      "hrkt": "いま、<b>あさ ごはん</b> を つくって います。",
+      "latn": "ima,<b>asa gohan</b> wo tsukutte imasu.",
+      "en": "I'm making breakfast now.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5186326.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05866A.mp3"
+    }
+  ]
+}

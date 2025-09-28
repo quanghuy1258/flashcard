@@ -1,0 +1,26 @@
+{
+  "ja": "出す",
+  "hrkt": "だす",
+  "latn": "dasu",
+  "en": "take out",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05335A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はかばんから教科書を<b>出した</b>。",
+      "hrkt": "かれ は かばん から きょうかしょ を <b>だした</b>。",
+      "latn": "kare ha kaban kara kyoukasho wo <b>dashita</b>.",
+      "en": "He took the textbook out of his bag.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4889806.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05335A.mp3"
+    },
+    {
+      "ja": "ポケットから手を<b>出しなさい</b>。",
+      "hrkt": "ポケット から て を <b>だしなさい</b>。",
+      "latn": "poketto kara te wo <b>dashinasai</b>.",
+      "en": "Take your hands out of the pockets.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/759fd455nc.mp3"
+    }
+  ]
+}

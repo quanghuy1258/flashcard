@@ -1,0 +1,26 @@
+{
+  "ja": "売店",
+  "hrkt": "ばいてん",
+  "latn": "baiten",
+  "en": "booth, shop",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07194A.mp3",
+  "sentences": [
+    {
+      "ja": "駅の<b>売店</b>で雑誌を買った。",
+      "hrkt": "えき の <b>ばいてん</b> で ざっし を かった。",
+      "latn": "eki no <b>baiten</b> de zasshi wo katta.",
+      "en": "I bought a magazine at a shop in the station.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3013989.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07194A.mp3"
+    },
+    {
+      "ja": "新聞はあそこの<b>売店</b>で売っています。",
+      "hrkt": "しんぶん は あそこ の <b>ばいてん</b> で うって います。",
+      "latn": "shinbun ha asoko no <b>baiten</b> de utte imasu.",
+      "en": "Newspapers are sold at the kiosk over there.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/05ckfn0d9g.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ドレス",
+  "hrkt": "ドレス",
+  "latn": "doresu",
+  "en": "formal dress",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02102A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は紫の<b>ドレス</b>を着ていた。",
+      "hrkt": "かのじょ は むらさき の <b>ドレス</b> を きて いた。",
+      "latn": "kanojo ha murasaki no <b>doresu</b> wo kite ita.",
+      "en": "She wore a purple formal dress.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/13f7cdclss.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09123A.mp3"
+    },
+    {
+      "ja": "彼女は黒い<b>ドレス</b>を着ています。",
+      "hrkt": "かのじょ は くろい <b>ドレス</b> を きて います。",
+      "latn": "kanojo ha kuroi <b>doresu</b> wo kite imasu.",
+      "en": "She's wearing a black formal dress.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/330hfh7a80.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02563A.mp3"
+    }
+  ]
+}

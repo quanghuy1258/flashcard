@@ -1,0 +1,26 @@
+{
+  "ja": "お土産",
+  "hrkt": "おみやげ",
+  "latn": "omiyage",
+  "en": "souvenir (polite)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01192A.mp3",
+  "sentences": [
+    {
+      "ja": "父は<b>お土産</b>にお菓子を買ってきた。",
+      "hrkt": "ちち は <b>おみやげ</b> に おかし を かって きた。",
+      "latn": "chichi ha <b>omiyage</b> ni okashi wo katte kita.",
+      "en": "My father bought some sweets as a souvenir.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5431045.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01192A.mp3"
+    },
+    {
+      "ja": "友達にイギリスの<b>お土産</b>をもらいました。",
+      "hrkt": "ともだち に イギリス の <b>おみやげ</b> を もらいました。",
+      "latn": "tomodachi ni igirisu no <b>omiyage</b> wo moraimashita.",
+      "en": "I got a souvenir from England from my friend.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/952ce72d50.mp3"
+    }
+  ]
+}

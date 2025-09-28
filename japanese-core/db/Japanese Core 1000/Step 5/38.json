@@ -1,0 +1,26 @@
+{
+  "ja": "減る",
+  "hrkt": "へる",
+  "latn": "heru",
+  "en": "decrease, diminish",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08337A.mp3",
+  "sentences": [
+    {
+      "ja": "体重がかなり<b>減りました</b>。",
+      "hrkt": "たいじゅう が かなり <b>へりました</b>。",
+      "latn": "taijuu ga kanari <b>herimashita</b>.",
+      "en": "I've lost a lot of weight.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1751195.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08337A.mp3"
+    },
+    {
+      "ja": "最近、子供の数が<b>減って</b>いる。",
+      "hrkt": "さいきん、こども の かず が <b>へって</b> いる。",
+      "latn": "saikin,kodomo no kazu ga <b>hette</b> iru.",
+      "en": "Lately, there have been fewer children.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/123kd11b9g.mp3"
+    }
+  ]
+}

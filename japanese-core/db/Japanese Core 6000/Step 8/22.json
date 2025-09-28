@@ -1,0 +1,18 @@
+{
+  "ja": "草木",
+  "hrkt": "くさき",
+  "latn": "kusaki",
+  "en": "plants and trees",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02970A.mp3",
+  "sentences": [
+    {
+      "ja": "この庭は<b>草木</b>が枯れているね。",
+      "hrkt": "この にわ は <b>くさき</b> が かれて いる ね。",
+      "latn": "kono niwa ha <b>kusaki</b> ga karete iru ne.",
+      "en": "The plants and trees in this garden are drying out.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02970A.mp3"
+    }
+  ]
+}

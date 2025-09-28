@@ -1,0 +1,26 @@
+{
+  "ja": "絶対",
+  "hrkt": "ぜったい",
+  "latn": "zettai",
+  "en": "absolutely, never",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01087A.mp3",
+  "sentences": [
+    {
+      "ja": "そんなことは<b>絶対</b>できないよ。",
+      "hrkt": "そんな こと は <b>ぜったい</b> できない よ。",
+      "latn": "sonna koto ha <b>zettai</b> dekinai yo.",
+      "en": "I can never ever do such a thing.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2553408.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01087A.mp3"
+    },
+    {
+      "ja": "<b>絶対</b>に駄目です。",
+      "hrkt": "<b>ぜったい</b> に だめ です。",
+      "latn": "<b>zettai</b> ni dame desu.",
+      "en": "Absolutely not.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4854825.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04815A.mp3"
+    }
+  ]
+}

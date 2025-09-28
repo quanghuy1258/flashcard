@@ -1,0 +1,18 @@
+{
+  "ja": "ずれる",
+  "hrkt": "ずれる",
+  "latn": "zureru",
+  "en": "go off track, go out of line",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02214A.mp3",
+  "sentences": [
+    {
+      "ja": "ポスターの位置が少し<b>ずれて</b>いるよ。",
+      "hrkt": "ポスター の いち が すこし <b>ずれて</b> いる よ。",
+      "latn": "posuta- no ichi ga sukoshi <b>zurete</b> iru yo.",
+      "en": "The poster is slightly out of its position.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02214A.mp3"
+    }
+  ]
+}

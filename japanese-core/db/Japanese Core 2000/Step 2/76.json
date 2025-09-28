@@ -1,0 +1,26 @@
+{
+  "ja": "旅館",
+  "hrkt": "りょかん",
+  "latn": "ryokan",
+  "en": "Japanese inn",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09872A.mp3",
+  "sentences": [
+    {
+      "ja": "京都では<b>旅館</b>に泊まりました。",
+      "hrkt": "きょうと で は <b>りょかん</b> に とまりました。",
+      "latn": "kyouto de ha <b>ryokan</b> ni tomarimashita.",
+      "en": "I stayed at an inn in Kyoto.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3734604.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09872A.mp3"
+    },
+    {
+      "ja": "<b>旅館</b>の朝食にのりが出ました。",
+      "hrkt": "<b>りょかん</b> の ちょうしょく に のり が でました。",
+      "latn": "<b>ryokan</b> no choushoku ni nori ga demashita.",
+      "en": "Dried seaweed was served for breakfast at the inn.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/2484549c7o.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02835A.mp3"
+    }
+  ]
+}

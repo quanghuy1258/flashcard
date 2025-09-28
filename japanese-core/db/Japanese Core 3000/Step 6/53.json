@@ -1,0 +1,18 @@
+{
+  "ja": "和室",
+  "hrkt": "わしつ",
+  "latn": "washitsu",
+  "en": "Japanese-style room",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02711A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>和室</b>の天井は低いね。",
+      "hrkt": "この <b>わしつ</b> の てんじょう は ひくい ね。",
+      "latn": "kono <b>washitsu</b> no tenjou ha hikui ne.",
+      "en": "The ceiling in this Japanese-style room is low.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/750m8vbn4k.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02711A.mp3"
+    }
+  ]
+}

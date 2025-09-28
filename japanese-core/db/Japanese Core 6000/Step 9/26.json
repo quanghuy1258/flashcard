@@ -1,0 +1,18 @@
+{
+  "ja": "はえ",
+  "hrkt": "はえ",
+  "latn": "hae",
+  "en": "fly (bug)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03816A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>はえ</b>がうるさく飛んでいるね。",
+      "hrkt": "<b>はえ</b> が うるさく とんで いる ね。",
+      "latn": "<b>hae</b> ga urusaku tonde iru ne.",
+      "en": "A fly is buzzing.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03816A.mp3"
+    }
+  ]
+}

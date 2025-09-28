@@ -1,0 +1,18 @@
+{
+  "ja": "大使",
+  "hrkt": "たいし",
+  "latn": "taishi",
+  "en": "ambassador",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00750A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は昔、ドイツの<b>大使</b>でした。",
+      "hrkt": "かれ は むかし、ドイツ の <b>たいし</b> でした。",
+      "latn": "kare ha mukashi,doitsu no <b>taishi</b> deshita.",
+      "en": "He was an ambassador to Germany a long time ago.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00750A.mp3"
+    }
+  ]
+}

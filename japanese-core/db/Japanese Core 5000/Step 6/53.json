@@ -1,0 +1,18 @@
+{
+  "ja": "温帯",
+  "hrkt": "おんたい",
+  "latn": "ontai",
+  "en": "temperate zone",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03194A.mp3",
+  "sentences": [
+    {
+      "ja": "日本は<b>温帯</b>にあります。",
+      "hrkt": "にっぽん は <b>おんたい</b> に あります。",
+      "latn": "nippon ha <b>ontai</b> ni arimasu.",
+      "en": "Japan is located in the temperate zone.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03194A.mp3"
+    }
+  ]
+}

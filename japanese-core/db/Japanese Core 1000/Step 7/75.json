@@ -1,0 +1,26 @@
+{
+  "ja": "グループ",
+  "hrkt": "グループ",
+  "latn": "guru-pu",
+  "en": "group",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02543A.mp3",
+  "sentences": [
+    {
+      "ja": "店に学生の<b>グループ</b>が来た。",
+      "hrkt": "みせ に がくせい の <b>グループ</b> が きた。",
+      "latn": "mise ni gakusei no <b>guru-pu</b> ga kita.",
+      "en": "A group of students came to the shop.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3755705.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02543A.mp3"
+    },
+    {
+      "ja": "その<b>グループ</b>のメンバーは全部で七人だ。",
+      "hrkt": "その <b>グループ</b> の メンバー は ぜんぶ で しち にん だ。",
+      "latn": "sono <b>guru-pu</b> no menba- ha zenbu de shichi nin da.",
+      "en": "In total, there are seven members in the group.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4425513.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03739A.mp3"
+    }
+  ]
+}

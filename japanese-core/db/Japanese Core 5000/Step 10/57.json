@@ -1,0 +1,18 @@
+{
+  "ja": "脂肪",
+  "hrkt": "しぼう",
+  "latn": "shibou",
+  "en": "fat",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02274A.mp3",
+  "sentences": [
+    {
+      "ja": "お腹の<b>脂肪</b>を取りたい。",
+      "hrkt": "おなか の <b>しぼう</b> を とりたい。",
+      "latn": "onaka no <b>shibou</b> wo toritai.",
+      "en": "I want to get rid of my belly fat.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02274A.mp3"
+    }
+  ]
+}

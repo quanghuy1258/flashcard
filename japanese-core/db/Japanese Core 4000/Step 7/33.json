@@ -1,0 +1,18 @@
+{
+  "ja": "付属",
+  "hrkt": "ふぞく",
+  "latn": "fuzoku",
+  "en": "attachment, belonging",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01423A.mp3",
+  "sentences": [
+    {
+      "ja": "このソフトにはいろいろなツールが<b>付属</b>しています。",
+      "hrkt": "この ソフト に は いろいろな ツール が <b>ふぞく</b> して います。",
+      "latn": "kono sofuto ni ha iroirona tsu-ru ga <b>fuzoku</b> shite imasu.",
+      "en": "This software comes with various tools.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01423A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "写る",
+  "hrkt": "うつる",
+  "latn": "utsuru",
+  "en": "be taken , come out (in photograph)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00736A.mp3",
+  "sentences": [
+    {
+      "ja": "このカメラはよく<b>写ります</b>よ。",
+      "hrkt": "この カメラ は よく <b>うつります</b> よ。",
+      "latn": "kono kamera ha yoku <b>utsurimasu</b> yo.",
+      "en": "Photos taken with this camera come out well.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3915927.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00736A.mp3"
+    },
+    {
+      "ja": "この写真に知らない人が<b>写って</b>います。",
+      "hrkt": "この しゃしん に しらない ひと が <b>うつって</b> います。",
+      "latn": "kono shashin ni shiranai hito ga <b>utsutte</b> imasu.",
+      "en": "There is a stranger in this picture.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f4224ddic0.mp3"
+    }
+  ]
+}

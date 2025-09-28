@@ -1,0 +1,18 @@
+{
+  "ja": "商店",
+  "hrkt": "しょうてん",
+  "latn": "shouten",
+  "en": "shop, store (often used in store names)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01166A.mp3",
+  "sentences": [
+    {
+      "ja": "この通りには<b>商店</b>が多いね。",
+      "hrkt": "この とおり に は <b>しょうてん</b> が おおい ね。",
+      "latn": "kono toori ni ha <b>shouten</b> ga ooi ne.",
+      "en": "There are many shops on this street.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01166A.mp3"
+    }
+  ]
+}

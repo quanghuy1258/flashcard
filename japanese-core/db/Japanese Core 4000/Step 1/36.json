@@ -1,0 +1,18 @@
+{
+  "ja": "保存",
+  "hrkt": "ほぞん",
+  "latn": "hozon",
+  "en": "saving, preservation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00474A.mp3",
+  "sentences": [
+    {
+      "ja": "データを30分おきに<b>保存</b>してください。",
+      "hrkt": "データ を 30 ぷん おき に <b>ほぞん</b> して ください。",
+      "latn": "de-ta wo 30 pun oki ni <b>hozon</b> shite kudasai.",
+      "en": "Please save your data every 30 minutes.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/535l2feb54.png",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00474A.mp3?1220179298"
+    }
+  ]
+}

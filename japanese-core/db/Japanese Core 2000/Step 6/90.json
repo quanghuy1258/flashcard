@@ -1,0 +1,26 @@
+{
+  "ja": "出身",
+  "hrkt": "しゅっしん",
+  "latn": "shusshin",
+  "en": "come from, origin",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00530A.mp3",
+  "sentences": [
+    {
+      "ja": "教授はカナダ<b>出身</b>です。",
+      "hrkt": "きょうじゅ は カナダ <b>しゅっしん</b> です。",
+      "latn": "kyouju ha kanada <b>shusshin</b> desu.",
+      "en": "The professor is from Canada.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/750213.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00530A.mp3"
+    },
+    {
+      "ja": "私は北海道の<b>出身</b>です。",
+      "hrkt": "わたくし は ほっかいどう の <b>しゅっしん</b> です。",
+      "latn": "watakushi ha hokkaidou no <b>shusshin</b> desu.",
+      "en": "I'm from Hokkaido.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/759ffi2qe4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03972A.mp3"
+    }
+  ]
+}

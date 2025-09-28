@@ -1,0 +1,26 @@
+{
+  "ja": "値段",
+  "hrkt": "ねだん",
+  "latn": "nedan",
+  "en": "price",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06983A.mp3",
+  "sentences": [
+    {
+      "ja": "このベルトの<b>値段</b>は2500円でした。",
+      "hrkt": "この ベルト の <b>ねだん</b> は 2500 えん でした。",
+      "latn": "kono beruto no <b>nedan</b> ha 2500 en deshita.",
+      "en": "The price of this belt was 2,500 yen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6189153.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06983A.mp3"
+    },
+    {
+      "ja": "<b>値段</b>はちょうど3万円です。",
+      "hrkt": "<b>ねだん</b> は ちょうど 3 まん えん です。",
+      "latn": "<b>nedan</b> ha choudo 3 man en desu.",
+      "en": "The price is exactly 30,000 yen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5458575.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05722A.mp3"
+    }
+  ]
+}

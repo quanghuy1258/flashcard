@@ -1,0 +1,26 @@
+{
+  "ja": "裏",
+  "hrkt": "うら",
+  "latn": "ura",
+  "en": "the back, the reverse side",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00774A.mp3",
+  "sentences": [
+    {
+      "ja": "会社の<b>裏</b>に公園があります。",
+      "hrkt": "かいしゃ の <b>うら</b> に こうえん が あります。",
+      "latn": "kaisha no <b>ura</b> ni kouen ga arimasu.",
+      "en": "There's a park behind the company.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4408557.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00774A.mp3"
+    },
+    {
+      "ja": "<b>裏</b>の家にはおじいさんが一人で住んでいます。",
+      "hrkt": "<b>うら</b> の いえ に は おじいさん が ひとり で すんで います。",
+      "latn": "<b>ura</b> no ie ni ha ojiisan ga hitori de sunde imasu.",
+      "en": "In the house behind ours, an elderly man lives alone.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/745c7aeui4.mp3"
+    }
+  ]
+}

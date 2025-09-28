@@ -1,0 +1,18 @@
+{
+  "ja": "嫌がる",
+  "hrkt": "いやがる",
+  "latn": "iyagaru",
+  "en": "dislike, be unwilling",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02716A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はタバコの煙を<b>嫌がる</b>の。",
+      "hrkt": "かれ は タバコ の けむり を <b>いやがる</b> の。",
+      "latn": "kare ha tabako no kemuri wo <b>iyagaru</b> no.",
+      "en": "He dislikes cigarette smoke.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/12aefb9n0c.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02716A.mp3"
+    }
+  ]
+}

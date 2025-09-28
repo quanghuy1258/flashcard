@@ -1,0 +1,18 @@
+{
+  "ja": "泣き顔",
+  "hrkt": "なきがお",
+  "latn": "nakigao",
+  "en": "crying face",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03786A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>泣き顔</b>になったの。",
+      "hrkt": "かのじょ は <b>なきがお</b> に なった の。",
+      "latn": "kanojo ha <b>nakigao</b> ni natta no.",
+      "en": "She looked like she was about to cry.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03786A.mp3"
+    }
+  ]
+}

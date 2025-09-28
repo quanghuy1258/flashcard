@@ -1,0 +1,18 @@
+{
+  "ja": "保証人",
+  "hrkt": "ほしょうにん",
+  "latn": "hoshounin",
+  "en": "guarantor",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02785A.mp3",
+  "sentences": [
+    {
+      "ja": "彼が私の<b>保証人</b>になってくれました。",
+      "hrkt": "かれ が わたし の <b>ほしょう にん</b> に なって くれました。",
+      "latn": "kare ga watashi no <b>hoshou nin</b> ni natte kuremashita.",
+      "en": "He's agreed to serve as my guarantor.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02785A.mp3"
+    }
+  ]
+}

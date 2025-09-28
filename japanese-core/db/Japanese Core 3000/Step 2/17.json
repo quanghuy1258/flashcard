@@ -1,0 +1,18 @@
+{
+  "ja": "酢",
+  "hrkt": "す",
+  "latn": "su",
+  "en": "vinegar",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03082A.mp3",
+  "sentences": [
+    {
+      "ja": "お<b>酢</b>を入れすぎて酸っぱい。",
+      "hrkt": "お<b>す</b> を いれ すぎて すっぱい。",
+      "latn": "o<b>su</b> wo ire sugite suppai.",
+      "en": "It's sour because I put in too much vinegar.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/2568eo01go.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03082A.mp3"
+    }
+  ]
+}

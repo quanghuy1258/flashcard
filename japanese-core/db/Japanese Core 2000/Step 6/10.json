@@ -1,0 +1,26 @@
+{
+  "ja": "失礼",
+  "hrkt": "しつれい",
+  "latn": "shitsurei",
+  "en": "rudeness, to excuse oneself",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03788A.mp3",
+  "sentences": [
+    {
+      "ja": "ではそろそろ<b>失礼</b>します。",
+      "hrkt": "では そろそろ <b>しつれい</b> します。",
+      "latn": "deha sorosoro <b>shitsurei</b> shimasu.",
+      "en": "Well, it's about time for me to go.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3730922.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03788A.mp3"
+    },
+    {
+      "ja": "<b>失礼</b>ですが、どなたですか。",
+      "hrkt": "<b>しつれい</b> です が、どなた です か。",
+      "latn": "<b>shitsurei</b> desu ga,donata desu ka.",
+      "en": "Excuse me, but who are you?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5658789.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06477A.mp3"
+    }
+  ]
+}

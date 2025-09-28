@@ -1,0 +1,26 @@
+{
+  "ja": "お腹",
+  "hrkt": "おなか",
+  "latn": "onaka",
+  "en": "stomach, belly",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01159A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>お腹</b>が空きました。",
+      "hrkt": "<b>おなか</b> が すきました。",
+      "latn": "<b>onaka</b> ga sukimashita.",
+      "en": "I'm hungry.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6153160.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01159A.mp3"
+    },
+    {
+      "ja": "<b>お腹</b>がすごく痛いです。",
+      "hrkt": "<b>おなか</b> が すごく いたい です。",
+      "latn": "<b>onaka</b> ga sugoku itai desu.",
+      "en": "My stomach hurts a lot.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/06808e3q5c.mp3"
+    }
+  ]
+}

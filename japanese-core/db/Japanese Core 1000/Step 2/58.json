@@ -1,0 +1,26 @@
+{
+  "ja": "元気",
+  "hrkt": "げんき",
+  "latn": "genki",
+  "en": "healthy, energetic",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02750A.mp3",
+  "sentences": [
+    {
+      "ja": "おかげさまで<b>元気</b>です。",
+      "hrkt": "おかげさま で <b>げんき</b> です。",
+      "latn": "okagesama de <b>genki</b> desu.",
+      "en": "I'm fine, thank you.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5654093.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02750A.mp3"
+    },
+    {
+      "ja": "彼女はいつも<b>元気</b>だ。",
+      "hrkt": "かのじょ は いつも <b>げんき</b> だ。",
+      "latn": "kanojo ha itsumo <b>genki</b> da.",
+      "en": "She's always full of energy.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5885779.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00544A.mp3"
+    }
+  ]
+}

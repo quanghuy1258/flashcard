@@ -1,0 +1,18 @@
+{
+  "ja": "討論",
+  "hrkt": "とうろん",
+  "latn": "touron",
+  "en": "debate, discussion",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00540A.mp3",
+  "sentences": [
+    {
+      "ja": "その問題についてクラスで<b>討論</b>しました。",
+      "hrkt": "その もんだい について クラス で <b>とうろん</b> しました。",
+      "latn": "sono mondai nitsuite kurasu de <b>touron</b> shimashita.",
+      "en": "We discussed the problem in our class.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00540A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ホーム",
+  "hrkt": "ホーム",
+  "latn": "ho-mu",
+  "en": "platform (for short)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08475A.mp3",
+  "sentences": [
+    {
+      "ja": "もうすぐこの<b>ホーム</b>に電車が来ます。",
+      "hrkt": "もうすぐ この <b>ホーム</b> に でんしゃ が きます。",
+      "latn": "mousugu kono <b>ho-mu</b> ni densha ga kimasu.",
+      "en": "The train will arrive on this platform soon.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5202402.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08475A.mp3"
+    },
+    {
+      "ja": "<b>ホーム</b>のいちばん前で待ってます。",
+      "hrkt": "<b>ホーム</b> の いちばん まえ で まってます。",
+      "latn": "<b>ho-mu</b> no ichiban mae de mattemasu.",
+      "en": "I'll be waiting for you at the very front of the platform.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/16037j62mg.mp3"
+    }
+  ]
+}

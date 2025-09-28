@@ -1,0 +1,18 @@
+{
+  "ja": "守備",
+  "hrkt": "しゅび",
+  "latn": "shubi",
+  "en": "defense, fielding",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02240A.mp3",
+  "sentences": [
+    {
+      "ja": "そのチームは<b>守備</b>が甘いね。",
+      "hrkt": "その チーム は <b>しゅび</b> が あまい ね。",
+      "latn": "sono chi-mu ha <b>shubi</b> ga amai ne.",
+      "en": "The team's defense is weak.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02240A.mp3"
+    }
+  ]
+}

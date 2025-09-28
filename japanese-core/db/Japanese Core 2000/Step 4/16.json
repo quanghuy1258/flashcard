@@ -1,0 +1,26 @@
+{
+  "ja": "水泳",
+  "hrkt": "すいえい",
+  "latn": "suiei",
+  "en": "swimming",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04468A.mp3",
+  "sentences": [
+    {
+      "ja": "母は健康のために<b>水泳</b>をしている。",
+      "hrkt": "はは は けんこう の ため に <b>すいえい</b> を して いる。",
+      "latn": "haha ha kenkou no tame ni <b>suiei</b> wo shite iru.",
+      "en": "My mother swims for her health.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3562360.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04468A.mp3"
+    },
+    {
+      "ja": "兄は<b>水泳</b>が得意です。",
+      "hrkt": "あに は <b>すいえい</b> が とくい です。",
+      "latn": "ani ha <b>suiei</b> ga tokui desu.",
+      "en": "My big brother is good at swimming.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4939638.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00199A.mp3"
+    }
+  ]
+}

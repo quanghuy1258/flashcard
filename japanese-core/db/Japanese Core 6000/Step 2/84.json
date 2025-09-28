@@ -1,0 +1,18 @@
+{
+  "ja": "済ます",
+  "hrkt": "すます",
+  "latn": "sumasu",
+  "en": "finish (something), make do",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02568A.mp3",
+  "sentences": [
+    {
+      "ja": "忙しい時は、昼食なしで<b>済ます</b>ことが多い。",
+      "hrkt": "いそがしい とき は、 ちゅうしょく なし で <b>すます</b> こと が おおい。",
+      "latn": "isogashii toki ha, chuushoku nashi de <b>sumasu</b> koto ga ooi.",
+      "en": "I often make do without lunch when I'm busy.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a44f5seqqc.mp3"
+    }
+  ]
+}

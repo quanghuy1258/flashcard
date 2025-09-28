@@ -1,0 +1,18 @@
+{
+  "ja": "漏る",
+  "hrkt": "もる",
+  "latn": "moru",
+  "en": "leak",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03494A.mp3",
+  "sentences": [
+    {
+      "ja": "天井から雨が<b>漏る</b>の。",
+      "hrkt": "てんじょう から あめ が <b>もる</b> の。",
+      "latn": "tenjou kara ame ga <b>moru</b> no.",
+      "en": "Rain is leaking from the ceiling.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03494A.mp3"
+    }
+  ]
+}

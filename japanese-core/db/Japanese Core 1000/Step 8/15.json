@@ -1,0 +1,26 @@
+{
+  "ja": "守る",
+  "hrkt": "まもる",
+  "latn": "mamoru",
+  "en": "protect, observe",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08798A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は約束を<b>守る</b>人です。",
+      "hrkt": "かれ は やくそく を <b>まもる</b> ひと です。",
+      "latn": "kare ha yakusoku wo <b>mamoru</b> hito desu.",
+      "en": "He's one to keep his promise.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4886505.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08798A.mp3"
+    },
+    {
+      "ja": "みんなで自然を<b>守りましょう</b>。",
+      "hrkt": "みんな で しぜん を <b>まもりましょう</b>。",
+      "latn": "minna de shizen wo <b>mamorimashou</b>.",
+      "en": "Let's all work to protect Nature.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4633733.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03705A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "運",
+  "hrkt": "うん",
+  "latn": "un",
+  "en": "fortune, luck",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02140A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>運</b>のいい男です。",
+      "hrkt": "かれ は <b>うん</b> の いい おとこ です。",
+      "latn": "kare ha <b>un</b> no ii otoko desu.",
+      "en": "He is a lucky man.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02140A.mp3"
+    }
+  ]
+}

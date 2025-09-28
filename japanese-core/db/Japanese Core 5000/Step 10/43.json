@@ -1,0 +1,18 @@
+{
+  "ja": "正解",
+  "hrkt": "せいかい",
+  "latn": "seikai",
+  "en": "right/correct answer",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02689A.mp3",
+  "sentences": [
+    {
+      "ja": "10問中9問<b>正解</b>しました。",
+      "hrkt": "10 もん ちゅう 9 もん <b>せいかい</b> しました。",
+      "latn": "10 mon chuu 9 mon <b>seikai</b> shimashita.",
+      "en": "I got nine out of ten questions right.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02689A.mp3"
+    }
+  ]
+}

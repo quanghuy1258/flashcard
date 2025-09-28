@@ -1,0 +1,26 @@
+{
+  "ja": "外国",
+  "hrkt": "がいこく",
+  "latn": "gaikoku",
+  "en": "foreign country",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01349A.mp3",
+  "sentences": [
+    {
+      "ja": "母はまだ<b>外国</b>に行ったことがありません。",
+      "hrkt": "はは は まだ <b>がいこく</b> に いった こと が ありません。",
+      "latn": "haha ha mada <b>gaikoku</b> ni itta koto ga arimasen.",
+      "en": "My mother has never been abroad.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3788070.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01349A.mp3"
+    },
+    {
+      "ja": "私は<b>外国</b>に住みたいです。",
+      "hrkt": "わたし は <b>がいこく</b> に すみたい です。",
+      "latn": "watashi ha <b>gaikoku</b> ni sumitai desu.",
+      "en": "I want to live in a foreign country.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c51b0600ts.mp3"
+    }
+  ]
+}

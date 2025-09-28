@@ -1,0 +1,18 @@
+{
+  "ja": "逃げ道",
+  "hrkt": "にげみち",
+  "latn": "nigemichi",
+  "en": "escape route",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03242A.mp3",
+  "sentences": [
+    {
+      "ja": "失敗したときの<b>逃げ道</b>を考えたの。",
+      "hrkt": "しっぱい した とき の <b>にげみち</b> を かんがえた の 。",
+      "latn": "shippai shita toki no <b>nigemichi</b> wo kangaeta no .",
+      "en": "I considered my escape route in case I failed.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03242A.mp3"
+    }
+  ]
+}

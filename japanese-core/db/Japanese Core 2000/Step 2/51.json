@@ -1,0 +1,26 @@
+{
+  "ja": "ピアノ",
+  "hrkt": "ピアノ",
+  "latn": "piano",
+  "en": "piano",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07603A.mp3",
+  "sentences": [
+    {
+      "ja": "昔、<b>ピアノ</b>を習っていました。",
+      "hrkt": "むかし、<b>ピアノ</b> を ならって いました。",
+      "latn": "mukashi,<b>piano</b> wo naratte imashita.",
+      "en": "I used to take piano lessons.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4151389.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07603A.mp3"
+    },
+    {
+      "ja": "この<b>ピアノ</b>は音があまり良くない。",
+      "hrkt": "この <b>ピアノ</b> は おと が あまり よく ない。",
+      "latn": "kono <b>piano</b> ha oto ga amari yoku nai.",
+      "en": "That piano's sound isn't very good.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3594811.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01272A.mp3"
+    }
+  ]
+}

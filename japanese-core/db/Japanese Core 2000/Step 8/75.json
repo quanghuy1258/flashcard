@@ -1,0 +1,26 @@
+{
+  "ja": "エンジン",
+  "hrkt": "エンジン",
+  "latn": "enjin",
+  "en": "engine",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00464A.mp3",
+  "sentences": [
+    {
+      "ja": "車の<b>エンジン</b>が調子悪い。",
+      "hrkt": "くるま の <b>エンジン</b> が ちょうし わるい。",
+      "latn": "kuruma no <b>enjin</b> ga choushi warui.",
+      "en": "The car engine is in a bad condition.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/4l2e6l5j1ktt0.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00464A.mp3"
+    },
+    {
+      "ja": "その飛行機は<b>エンジン</b>から火が出ていました。",
+      "hrkt": "その ひこうき は <b>エンジン</b> から ひ が でて いました。",
+      "latn": "sono hikouki ha <b>enjin</b> kara hi ga dete imashita.",
+      "en": "The engine from the airplane was on fire.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/63ec2r65o8.mp3"
+    }
+  ]
+}

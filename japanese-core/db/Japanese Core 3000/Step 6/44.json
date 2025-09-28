@@ -1,0 +1,18 @@
+{
+  "ja": "ほうれん草",
+  "hrkt": "ほうれんそう",
+  "latn": "hourensou",
+  "en": "spinach",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03393A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ほうれん草</b>はビタミンが豊富です。",
+      "hrkt": "<b>ほうれんそう</b> は ビタミン が ほうふ です。",
+      "latn": "<b>hourensou</b> ha bitamin ga houfu desu.",
+      "en": "Spinach is rich in vitamins.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c37v8f4uqg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03393A.mp3"
+    }
+  ]
+}

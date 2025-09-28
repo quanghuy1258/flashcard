@@ -1,0 +1,18 @@
+{
+  "ja": "休校",
+  "hrkt": "きゅうこう",
+  "latn": "kyuukou",
+  "en": "temporary school closure",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02205A.mp3",
+  "sentences": [
+    {
+      "ja": "学校は今週は<b>休校</b>です。",
+      "hrkt": "がっこう は こんしゅう は <b>きゅうこう</b> です。",
+      "latn": "gakkou ha konshuu ha <b>kyuukou</b> desu.",
+      "en": "School is closed this week.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02205A.mp3"
+    }
+  ]
+}

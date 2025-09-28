@@ -1,0 +1,18 @@
+{
+  "ja": "月給",
+  "hrkt": "げっきゅう",
+  "latn": "gekkyuu",
+  "en": "monthly salary",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01960A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>月給</b>は毎月25日に支給されます。",
+      "hrkt": "<b>げっきゅう</b> は まいつき 25 にち に しきゅう されます。",
+      "latn": "<b>gekkyuu</b> ha maitsuki 25 nichi ni shikyuu saremasu.",
+      "en": "My salary is paid on the 25th of every month.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01960A.mp3"
+    }
+  ]
+}

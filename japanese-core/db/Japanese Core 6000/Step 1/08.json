@@ -1,0 +1,18 @@
+{
+  "ja": "禁じる",
+  "hrkt": "きんじる",
+  "latn": "kinjiru",
+  "en": "prohibit, ban",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01084A.mp3",
+  "sentences": [
+    {
+      "ja": "市は昨年から歩きタバコを<b>禁じて</b>いるの。",
+      "hrkt": "し は さくねん から あるき タバコ を <b>きんじて</b> いる の。",
+      "latn": "shi ha sakunen kara aruki tabako wo <b>kinjite</b> iru no.",
+      "en": "The city has banned smoking while walking since last year.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01084A.mp3"
+    }
+  ]
+}

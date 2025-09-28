@@ -1,0 +1,26 @@
+{
+  "ja": "もつ",
+  "hrkt": "もつ",
+  "latn": "motsu",
+  "en": "last long, be durable",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09292A.mp3",
+  "sentences": [
+    {
+      "ja": "この車はよく<b>もって</b>いる。",
+      "hrkt": "この くるま は よく <b>もって</b> いる。",
+      "latn": "kono kuruma ha yoku <b>motte</b> iru.",
+      "en": "This car has lasted a long time.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4290636.jpg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c5elaochis.mp3"
+    },
+    {
+      "ja": "彼女はもう長くは<b>もたない</b>だろう。",
+      "hrkt": "かのじょ は もう ながく は <b>もたない</b> だろう。",
+      "latn": "kanojo ha mou nagaku ha <b>motanai</b> darou.",
+      "en": "She won't be able to hold on much longer.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f55ed8ciak.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "耳鼻科",
+  "hrkt": "じびか",
+  "latn": "jibika",
+  "en": "otorhinology, ENT",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03290A.mp3",
+  "sentences": [
+    {
+      "ja": "今、<b>耳鼻科</b>にかかっています。",
+      "hrkt": "いま、<b>じび か</b> に かかって います。",
+      "latn": "ima,<b>jibi ka</b> ni kakatte imasu.",
+      "en": "I'm seeing an ENT doctor now.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03290A.mp3"
+    }
+  ]
+}

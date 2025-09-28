@@ -1,0 +1,18 @@
+{
+  "ja": "費やす",
+  "hrkt": "ついやす",
+  "latn": "tsuiyasu",
+  "en": "spend",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01681A.mp3",
+  "sentences": [
+    {
+      "ja": "私は語学の勉強にかなりの時間を<b>費やして</b>います。",
+      "hrkt": "わたし は ごがく の べんきょう に かなり の じかん を <b>ついやして</b> います。",
+      "latn": "watashi ha gogaku no benkyou ni kanari no jikan wo <b>tsuiyashite</b> imasu.",
+      "en": "I'm spending a considerable amount of time on language studies.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01681A.mp3"
+    }
+  ]
+}

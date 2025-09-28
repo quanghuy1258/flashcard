@@ -1,0 +1,26 @@
+{
+  "ja": "踏む",
+  "hrkt": "ふむ",
+  "latn": "fumu",
+  "en": "step on, tread on",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08161A.mp3",
+  "sentences": [
+    {
+      "ja": "運転手がブレーキを<b>踏んだ</b>。",
+      "hrkt": "うんてんしゅ が ブレーキ を <b>ふんだ</b>。",
+      "latn": "untenshu ga bure-ki wo <b>funda</b>.",
+      "en": "The driver stepped on the brake.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2207739.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08161A.mp3"
+    },
+    {
+      "ja": "花を<b>踏まないで</b>ください。",
+      "hrkt": "はな を <b>ふまないで</b> ください。",
+      "latn": "hana wo <b>fumanaide</b> kudasai.",
+      "en": "Don't step on the flowers.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/14ag0414m4.mp3"
+    }
+  ]
+}

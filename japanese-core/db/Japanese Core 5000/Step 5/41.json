@@ -1,0 +1,18 @@
+{
+  "ja": "入れ物",
+  "hrkt": "いれもの",
+  "latn": "iremono",
+  "en": "container, holder",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03427A.mp3",
+  "sentences": [
+    {
+      "ja": "荷物が多いので大きな<b>入れ物</b>が必要です。",
+      "hrkt": "にもつ が おおい ので おおきな <b>いれもの</b> が ひつよう です。",
+      "latn": "nimotsu ga ooi node ookina <b>iremono</b> ga hitsuyou desu.",
+      "en": "I have a lot of baggage, so I need a big container.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03427A.mp3"
+    }
+  ]
+}

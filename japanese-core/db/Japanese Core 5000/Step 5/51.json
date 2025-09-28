@@ -1,0 +1,18 @@
+{
+  "ja": "被せる",
+  "hrkt": "かぶせる",
+  "latn": "kabuseru",
+  "en": "cover (something)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03580A.mp3",
+  "sentences": [
+    {
+      "ja": "本にカバーを<b>被せた</b>の。",
+      "hrkt": "ほん に カバー を <b>かぶせた</b> の。",
+      "latn": "hon ni kaba- wo <b>kabuseta</b> no.",
+      "en": "I put a cover on the book.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03580A.mp3"
+    }
+  ]
+}

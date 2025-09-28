@@ -1,0 +1,18 @@
+{
+  "ja": "村",
+  "hrkt": "むら",
+  "latn": "mura",
+  "en": "village",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02055A.mp3",
+  "sentences": [
+    {
+      "ja": "私は隣の<b>村</b>から来ました。",
+      "hrkt": "わたし は となり の <b>むら</b> から きました。",
+      "latn": "watashi ha tonari no <b>mura</b> kara kimashita.",
+      "en": "I come from the next village.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d43ed99oec.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02055A.mp3"
+    }
+  ]
+}

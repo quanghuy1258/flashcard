@@ -1,0 +1,26 @@
+{
+  "ja": "以外",
+  "hrkt": "いがい",
+  "latn": "igai",
+  "en": "except for",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/455cat8jbs.mp3",
+  "sentences": [
+    {
+      "ja": "私は雨の日<b>以外</b>は自転車で学校に行く。",
+      "hrkt": "わたし は あめ の ひ <b>いがい</b> は じてんしゃ で がっこう に いく。",
+      "latn": "watashi ha ame no hi <b>igai</b> ha jitensha de gakkou ni iku.",
+      "en": "I go to school by bicycle except on rainy days.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/558jd0905g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/15ejb0ageo.mp3"
+    },
+    {
+      "ja": "私は月曜日<b>以外</b>は仕事があります。",
+      "hrkt": "わたし は げつようび <b>いがい</b> は しごと が あります。",
+      "latn": "watashi ha getsuyoubi <b>igai</b> ha shigoto ga arimasu.",
+      "en": "I work every day except Mondays.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b6e1fabihg.mp3"
+    }
+  ]
+}

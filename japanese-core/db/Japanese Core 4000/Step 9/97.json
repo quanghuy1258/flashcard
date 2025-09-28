@@ -1,0 +1,18 @@
+{
+  "ja": "分解",
+  "hrkt": "ぶんかい",
+  "latn": "bunkai",
+  "en": "taking apart",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01110A.mp3",
+  "sentences": [
+    {
+      "ja": "機械を<b>分解</b>してみたの。",
+      "hrkt": "きかい を <b>ぶんかい</b> して みた の。",
+      "latn": "kikai wo <b>bunkai</b> shite mita no.",
+      "en": "I took the machine apart.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01110A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "覚ます",
+  "hrkt": "さます",
+  "latn": "samasu",
+  "en": "awaken, wake up",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03484A.mp3",
+  "sentences": [
+    {
+      "ja": "子供が目を<b>覚ました</b>。",
+      "hrkt": "こども が め を <b>さました</b>。",
+      "latn": "kodomo ga me wo <b>samashita</b>.",
+      "en": "The child woke up.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6190540.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03484A.mp3"
+    },
+    {
+      "ja": "外に出て酔いを<b>覚まします</b>。",
+      "hrkt": "そと に でて よい を <b>さまします</b>。",
+      "latn": "soto ni dete yoi wo <b>samashimasu</b>.",
+      "en": "I'll go outside and sober up.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/036v0e9f14.mp3"
+    }
+  ]
+}

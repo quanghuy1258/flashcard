@@ -1,0 +1,26 @@
+{
+  "ja": "ティッシュ",
+  "hrkt": "ティッシュ",
+  "latn": "tisshu",
+  "en": "tissue, Kleenex",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06014A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ティッシュ</b>を取ってください。",
+      "hrkt": "<b>ティッシュ</b> を とって ください。",
+      "latn": "<b>tisshu</b> wo totte kudasai.",
+      "en": "Please pass me the tissues.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3534958.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06014A.mp3"
+    },
+    {
+      "ja": "駅前で<b>ティッシュ</b>をもらった。",
+      "hrkt": "えき まえ で <b>ティッシュ</b> を もらった。",
+      "latn": "eki mae de <b>tisshu</b> wo moratta.",
+      "en": "I received tissue packs in front of the station.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/468gei411c.mp3"
+    }
+  ]
+}

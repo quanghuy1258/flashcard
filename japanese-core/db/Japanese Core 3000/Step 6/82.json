@@ -1,0 +1,18 @@
+{
+  "ja": "ぽかぽか",
+  "hrkt": "ぽかぽか",
+  "latn": "pokapoka",
+  "en": "pleasantly warm",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03316A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>ぽかぽか</b>暖かい日です。",
+      "hrkt": "きょう は <b>ぽかぽか</b> あたたかい ひ です。",
+      "latn": "kyou ha <b>pokapoka</b> atatakai hi desu.",
+      "en": "It's a lovely warm day today.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/757ud19hck.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03316A.mp3"
+    }
+  ]
+}

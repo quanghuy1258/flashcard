@@ -1,0 +1,18 @@
+{
+  "ja": "警告",
+  "hrkt": "けいこく",
+  "latn": "keikoku",
+  "en": "warning, admonition",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00994A.mp3",
+  "sentences": [
+    {
+      "ja": "車に駐車違反の<b>警告</b>を貼られました。",
+      "hrkt": "くるま に ちゅうしゃ いはん の <b>けいこく</b> を はられました。",
+      "latn": "kuruma ni chuusha ihan no <b>keikoku</b> wo hararemashita.",
+      "en": "They put a parking ticket warning on my car.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00994A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "シャッター",
+  "hrkt": "シャッター",
+  "latn": "shatta-",
+  "en": "shutter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01882A.mp3",
+  "sentences": [
+    {
+      "ja": "丸いボタンを押すと<b>シャッター</b>が閉まります。",
+      "hrkt": "まるい ボタン を おす と <b>シャッター</b> が しまります。",
+      "latn": "marui botan wo osu to <b>shatta-</b> ga shimarimasu.",
+      "en": "The shutter closes when you push the round button.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01882A.mp3"
+    }
+  ]
+}

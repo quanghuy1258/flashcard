@@ -1,0 +1,26 @@
+{
+  "ja": "分",
+  "hrkt": "ぶん",
+  "latn": "bun",
+  "en": "amount, share",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08230A.mp3",
+  "sentences": [
+    {
+      "ja": "このケーキはあなたの<b>分</b>です。",
+      "hrkt": "この ケーキ は あなた の <b>ぶん</b> です。",
+      "latn": "kono ke-ki ha anata no <b>bun</b> desu.",
+      "en": "This is your share of the cake.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3300361.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08230A.mp3"
+    },
+    {
+      "ja": "弟が私の<b>分</b>を食べてしまった。",
+      "hrkt": "おとうと が わたし の <b>ぶん</b> を たべて しまった。",
+      "latn": "otouto ga watashi no <b>bun</b> wo tabete shimatta.",
+      "en": "My younger brother ate my share of the food.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b2fea9a74o.mp3"
+    }
+  ]
+}

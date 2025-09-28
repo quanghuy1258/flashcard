@@ -1,0 +1,26 @@
+{
+  "ja": "お母さん",
+  "hrkt": "おかあさん",
+  "latn": "okaasan",
+  "en": "mother, mom (respectful)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01003A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>お母さん</b>によろしくお伝えください。",
+      "hrkt": "<b>おかあさん</b> に よろしく おつたえ ください。",
+      "latn": "<b>okaasan</b> ni yoroshiku otsutae kudasai.",
+      "en": "Please say hello to your mother.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3858995.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01003A.mp3"
+    },
+    {
+      "ja": "<b>お母さん</b>は台所にいます。",
+      "hrkt": "<b>おかあさん</b> は だいどころ に います。",
+      "latn": "<b>okaasan</b> ha daidokoro ni imasu.",
+      "en": "Mother's in the kitchen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4946793.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05235A.mp3"
+    }
+  ]
+}

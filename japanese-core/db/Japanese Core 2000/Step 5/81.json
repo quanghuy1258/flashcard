@@ -1,0 +1,26 @@
+{
+  "ja": "足す",
+  "hrkt": "たす",
+  "latn": "tasu",
+  "en": "add (things of the same kind)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05334A.mp3",
+  "sentences": [
+    {
+      "ja": "母は味噌汁に水を<b>足した</b>。",
+      "hrkt": "はは は みそしる に みず を <b>たした</b>。",
+      "latn": "haha ha misoshiru ni mizu wo <b>tashita</b>.",
+      "en": "My mother added water to the miso soup.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2287731.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05334A.mp3"
+    },
+    {
+      "ja": "もう少し醤油を<b>足して</b>ください。",
+      "hrkt": "もう すこし しょうゆ を <b>たして</b> ください。",
+      "latn": "mou sukoshi shouyu wo <b>tashite</b> kudasai.",
+      "en": "Please add a little more soy sauce.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1387093.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04244A.mp3"
+    }
+  ]
+}

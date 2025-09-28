@@ -1,0 +1,26 @@
+{
+  "ja": "くだらない",
+  "hrkt": "くだらない",
+  "latn": "kudaranai",
+  "en": "worthless, trifling",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03073A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>くだらない</b>おしゃべりはやめなさい。",
+      "hrkt": "<b>くだらない</b> おしゃべり は やめなさい。",
+      "latn": "<b>kudaranai</b> oshaberi ha yamenasai.",
+      "en": "Stop chattering.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4410574.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03073A.mp3"
+    },
+    {
+      "ja": "あの映画は全く<b>くだらない</b>。",
+      "hrkt": "あの えいが は まったく <b>くだらない</b>。",
+      "latn": "ano eiga ha mattaku <b>kudaranai</b>.",
+      "en": "That movie is absolute garbage.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/666pe9fsuo.mp3"
+    }
+  ]
+}

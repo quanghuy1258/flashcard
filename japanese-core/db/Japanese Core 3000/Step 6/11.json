@@ -1,0 +1,18 @@
+{
+  "ja": "客観的",
+  "hrkt": "きゃっかんてき",
+  "latn": "kyakkanteki",
+  "en": "objective",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02002A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は自分の状況を<b>客観的</b>に見てみたのね。",
+      "hrkt": "かれ は じぶん の じょうきょう を <b>きゃっかんてき</b> に みて みた の ね。",
+      "latn": "kare ha jibun no joukyou wo <b>kyakkanteki</b> ni mite mita no ne.",
+      "en": "He tried to look at his situation objectively.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02002A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ラケット",
+  "hrkt": "ラケット",
+  "latn": "raketto",
+  "en": "racket",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09776A.mp3",
+  "sentences": [
+    {
+      "ja": "テニスの<b>ラケット</b>を買いました。",
+      "hrkt": "テニス の <b>ラケット</b> を かいました。",
+      "latn": "tenisu no <b>raketto</b> wo kaimashita.",
+      "en": "I bought a tennis racket.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5221375.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09776A.mp3"
+    },
+    {
+      "ja": "<b>ラケット</b>のガットが切れてしまいました。",
+      "hrkt": "<b>ラケット</b> の ガット が きれて しまいました。",
+      "latn": "<b>raketto</b> no gatto ga kirete shimaimashita.",
+      "en": "A string of the racket got cut.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d4f30q5thg.mp3"
+    }
+  ]
+}

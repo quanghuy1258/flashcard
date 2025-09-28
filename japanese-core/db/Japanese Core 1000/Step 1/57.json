@@ -1,0 +1,26 @@
+{
+  "ja": "若い",
+  "hrkt": "わかい",
+  "latn": "wakai",
+  "en": "young",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW10002A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はまだ<b>若い</b>です。",
+      "hrkt": "かれ は まだ <b>わかい</b> です。",
+      "latn": "kare ha mada <b>wakai</b> desu.",
+      "en": "He's still young.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6292700.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS10002A.mp3"
+    },
+    {
+      "ja": "その店は<b>若い</b>客が多いです。",
+      "hrkt": "その みせ は <b>わかい</b> きゃく が おおい です。",
+      "latn": "sono mise ha <b>wakai</b> kyaku ga ooi desu.",
+      "en": "That shop has a lot of young customers.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5213644.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02167A.mp3"
+    }
+  ]
+}

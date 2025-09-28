@@ -1,0 +1,18 @@
+{
+  "ja": "失業",
+  "hrkt": "しつぎょう",
+  "latn": "shitsugyou",
+  "en": "unemployment, loss of job",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00962A.mp3",
+  "sentences": [
+    {
+      "ja": "友達のお父さんが突然<b>失業</b>したの。",
+      "hrkt": "ともだち の おとうさん が とつぜん <b>しつぎょう</b> した の。",
+      "latn": "tomodachi no otousan ga totsuzen <b>shitsugyou</b> shita no.",
+      "en": "My friend's father suddenly lost his job.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00962A.mp3"
+    }
+  ]
+}

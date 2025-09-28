@@ -1,0 +1,18 @@
+{
+  "ja": "編む",
+  "hrkt": "あむ",
+  "latn": "amu",
+  "en": "knit",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02111A.mp3",
+  "sentences": [
+    {
+      "ja": "妹はマフラーを<b>編みました</b>。",
+      "hrkt": "いもうと は マフラー を <b>あみました</b>。",
+      "latn": "imouto ha mafura- wo <b>amimashita</b>.",
+      "en": "My younger sister knitted a scarf.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02111A.mp3"
+    }
+  ]
+}

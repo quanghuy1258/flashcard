@@ -1,0 +1,18 @@
+{
+  "ja": "ペース",
+  "hrkt": "ペース",
+  "latn": "pe-su",
+  "en": "pace",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01472A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はとても速い<b>ペース</b>で走っているね。",
+      "hrkt": "かれ は とても はやい <b>ペース</b> で はしって いる ね。",
+      "latn": "kare ha totemo hayai <b>pe-su</b> de hashitte iru ne.",
+      "en": "He's running at a very fast pace.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/74au6ocgkg.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01472A.mp3"
+    }
+  ]
+}

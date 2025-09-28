@@ -1,0 +1,26 @@
+{
+  "ja": "待ち合わせ",
+  "hrkt": "まちあわせ",
+  "latn": "machiawase",
+  "en": "meeting with someone, appointment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02845A.mp3",
+  "sentences": [
+    {
+      "ja": "明日の<b>待ち合わせ</b>は11時です。",
+      "hrkt": "あす の <b>まちあわせ</b> は 11 じ です。",
+      "latn": "asu no <b>machiawase</b> ha 11 ji desu.",
+      "en": "Tomorrow we'll meet at 11 o'clock.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b583dh1c74.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02845A.mp3"
+    },
+    {
+      "ja": "<b>待ち合わせ</b>は2時だと勘違いしていました。",
+      "hrkt": "<b>まちあわせ</b> は 2 じ だ と かんちがい して いました。",
+      "latn": "<b>machiawase</b> ha 2 ji da to kanchigai shite imashita.",
+      "en": "I mistakenly thought the meeting was at two o'clock.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/7l0ebl1it68gg.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03019A.mp3"
+    }
+  ]
+}

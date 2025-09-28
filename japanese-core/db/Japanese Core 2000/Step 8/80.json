@@ -1,0 +1,26 @@
+{
+  "ja": "眺める",
+  "hrkt": "ながめる",
+  "latn": "nagameru",
+  "en": "look out, gaze",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01101A.mp3",
+  "sentences": [
+    {
+      "ja": "猫が窓から外を<b>眺めて</b>いるよ。",
+      "hrkt": "ねこ が まど から そと を <b>ながめて</b> いる よ。",
+      "latn": "neko ga mado kara soto wo <b>nagamete</b> iru yo.",
+      "en": "The cat is at the window looking outside.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/dl0icd80i4e1k.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01101A.mp3?1220196820"
+    },
+    {
+      "ja": "彼はしばらく海を<b>眺めて</b>いました。",
+      "hrkt": "かれ は しばらく うみ を <b>ながめて</b> いました。",
+      "latn": "kare ha shibaraku umi wo <b>nagamete</b> imashita.",
+      "en": "He was gazing at the ocean for a while.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a5988ldr2c.mp3"
+    }
+  ]
+}

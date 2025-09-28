@@ -1,0 +1,18 @@
+{
+  "ja": "児童",
+  "hrkt": "じどう",
+  "latn": "jidou",
+  "en": "(school) children",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01133A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>児童</b>の通学路です。",
+      "hrkt": "ここ は <b>じどう</b> の つうがく ろ です。",
+      "latn": "koko ha <b>jidou</b> no tsuugaku ro desu.",
+      "en": "This is a school route for children.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a4eo11evvo.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01133A.mp3"
+    }
+  ]
+}

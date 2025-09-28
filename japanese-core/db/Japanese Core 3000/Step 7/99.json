@@ -1,0 +1,18 @@
+{
+  "ja": "製品",
+  "hrkt": "せいひん",
+  "latn": "seihin",
+  "en": "product, manufactured goods",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00064A.mp3",
+  "sentences": [
+    {
+      "ja": "当社の<b>製品</b>は3年間の保証つきです。",
+      "hrkt": "とうしゃ の <b>せいひん</b> は 3 ねんかん の ほしょう つき です。",
+      "latn": "tousha no <b>seihin</b> ha 3 nenkan no hoshou tsuki desu.",
+      "en": "Our products come with a three-year guarantee.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d5cv825750.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00064A.mp3"
+    }
+  ]
+}

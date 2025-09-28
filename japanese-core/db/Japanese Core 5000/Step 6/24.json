@@ -1,0 +1,18 @@
+{
+  "ja": "柄",
+  "hrkt": "がら",
+  "latn": "gara",
+  "en": "pattern, print",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02513A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は犬の<b>柄</b>のTシャツを着ているよ。",
+      "hrkt": "かれ は いぬ の <b>がら</b> の ティーシャツ を きて いる よ。",
+      "latn": "kare ha inu no <b>gara</b> no ti-shatsu wo kite iru yo.",
+      "en": "He's wearing a T-shirt with a dog print on it.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02513A.mp3"
+    }
+  ]
+}

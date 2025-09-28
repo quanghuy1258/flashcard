@@ -1,0 +1,26 @@
+{
+  "ja": "下",
+  "hrkt": "した",
+  "latn": "shita",
+  "en": "under, below",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03714A.mp3",
+  "sentences": [
+    {
+      "ja": "財布は机の<b>下</b>にあった。",
+      "hrkt": "さいふ は つくえ の <b>した</b> に あった。",
+      "latn": "saifu ha tsukue no <b>shita</b> ni atta.",
+      "en": "My purse was under the desk.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/f26m6b4s88.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03714A.mp3"
+    },
+    {
+      "ja": "エレベーターで<b>下</b>に降りましょう。",
+      "hrkt": "エレベーター で <b>した</b> に おりましょう。",
+      "latn": "erebe-ta- de <b>shita</b> ni orimashou.",
+      "en": "Let's take the elevator down.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5916169.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00882A.mp3"
+    }
+  ]
+}

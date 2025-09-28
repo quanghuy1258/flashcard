@@ -1,0 +1,26 @@
+{
+  "ja": "掛ける",
+  "hrkt": "かける",
+  "latn": "kakeru",
+  "en": "hang, put on",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01557A.mp3",
+  "sentences": [
+    {
+      "ja": "夫の服をハンガーに<b>掛けた</b>。",
+      "hrkt": "おっと の ふく を ハンガー に <b>かけた</b>。",
+      "latn": "otto no fuku wo hanga- ni <b>kaketa</b>.",
+      "en": "I put my husband's clothes on a hanger.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3114649.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01557A.mp3"
+    },
+    {
+      "ja": "本にカバーを<b>掛けました</b>。",
+      "hrkt": "ほん に カバー を <b>かけました</b>。",
+      "latn": "hon ni kaba- wo <b>kakemashita</b>.",
+      "en": "I put a cover on the book.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/846aaveoro.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01335A.mp3"
+    }
+  ]
+}

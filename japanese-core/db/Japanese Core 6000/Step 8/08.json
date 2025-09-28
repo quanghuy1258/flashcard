@@ -1,0 +1,18 @@
+{
+  "ja": "訓読み",
+  "hrkt": "くんよみ",
+  "latn": "kun'yomi",
+  "en": "Japanese reading",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02769A.mp3",
+  "sentences": [
+    {
+      "ja": "漢字には音読みと<b>訓読み</b>があります。",
+      "hrkt": "かんじ に は おんよみ と <b>くんよみ</b> が あります。",
+      "latn": "kanji ni ha on'yomi to <b>kun'yomi</b> ga arimasu.",
+      "en": "Kanji has both Chinese-derived and Japanese readings.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02769A.mp3"
+    }
+  ]
+}

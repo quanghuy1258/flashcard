@@ -1,0 +1,18 @@
+{
+  "ja": "実",
+  "hrkt": "み",
+  "latn": "mi",
+  "en": "fruit (of a plant), nut",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03897A.mp3",
+  "sentences": [
+    {
+      "ja": "庭の木が赤い<b>実</b>をつけた。",
+      "hrkt": "にわ の き が あかい <b>み</b> を つけた。",
+      "latn": "niwa no ki ga akai <b>mi</b> wo tsuketa.",
+      "en": "The tree in the garden bore some red fruit.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03897A.mp3"
+    }
+  ]
+}

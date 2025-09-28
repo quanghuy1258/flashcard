@@ -1,0 +1,26 @@
+{
+  "ja": "リード",
+  "hrkt": "リード",
+  "latn": "ri-do",
+  "en": "the lead, taking a lead",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01093A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は彼女を<b>リード</b>しながら踊ったね。",
+      "hrkt": "かれ は かのじょ を <b>リード</b> し ながら おどった ね。",
+      "latn": "kare ha kanojo wo <b>ri-do</b> shi nagara odotta ne.",
+      "en": "He led her in the dance.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01093A.mp3"
+    },
+    {
+      "ja": "相手チームが3点<b>リード</b>しています。",
+      "hrkt": "あいて チーム が 3 てん <b>リード</b> して います。",
+      "latn": "aite chi-mu ga 3 ten <b>ri-do</b> shite imasu.",
+      "en": "The opposing team is leading by three points.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/459peb8jj8.mp3"
+    }
+  ]
+}

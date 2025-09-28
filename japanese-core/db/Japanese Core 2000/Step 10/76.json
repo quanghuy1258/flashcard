@@ -1,0 +1,26 @@
+{
+  "ja": "田舎",
+  "hrkt": "いなか",
+  "latn": "inaka",
+  "en": "hometown, countryside",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01213A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎年夏に<b>田舎</b>に帰ります。",
+      "hrkt": "わたし は まいとし なつ に <b>いなか</b> に かえります。",
+      "latn": "watashi ha maitoshi natsu ni <b>inaka</b> ni kaerimasu.",
+      "en": "I go back to my hometown every summer.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3317453.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01213A.mp3"
+    },
+    {
+      "ja": "私は緑の多い<b>田舎</b>に住みたいです。",
+      "hrkt": "わたし は みどり の おおい <b>いなか</b> に すみたい です。",
+      "latn": "watashi ha midori no ooi <b>inaka</b> ni sumitai desu.",
+      "en": "I want to live in the countryside with lots of greenery.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/230s6ufu8k.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "鼻",
+  "hrkt": "はな",
+  "latn": "hana",
+  "en": "nose",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07412A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>鼻</b>がかゆいです。",
+      "hrkt": "<b>はな</b> が かゆい です。",
+      "latn": "<b>hana</b> ga kayui desu.",
+      "en": "My nose is itchy.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3960635.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07412A.mp3"
+    },
+    {
+      "ja": "豚はすごく<b>鼻</b>がいい。",
+      "hrkt": "ぶた は すごく <b>はな</b> が いい。",
+      "latn": "buta ha sugoku <b>hana</b> ga ii.",
+      "en": "Pigs have a very keen sense of smell.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/614590.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08082A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "日差し",
+  "hrkt": "ひざし",
+  "latn": "hizashi",
+  "en": "rays of the sun, sunlight",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02016A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>日差し</b>が強いですね。",
+      "hrkt": "きょう は <b>ひざし</b> が つよい です ね。",
+      "latn": "kyou ha <b>hizashi</b> ga tsuyoi desu ne.",
+      "en": "The sunlight is strong today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02016A.mp3"
+    }
+  ]
+}

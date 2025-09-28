@@ -1,0 +1,18 @@
+{
+  "ja": "借金",
+  "hrkt": "しゃっきん",
+  "latn": "shakkin",
+  "en": "borrowing money, debt",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03655A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は友達に<b>借金</b>をしたんだ。",
+      "hrkt": "かれ は ともだち に <b>しゃっきん</b> を した ん だ。",
+      "latn": "kare ha tomodachi ni <b>shakkin</b> wo shita n da.",
+      "en": "He borrowed money from his friend.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03655A.mp3"
+    }
+  ]
+}

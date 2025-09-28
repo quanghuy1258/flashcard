@@ -1,0 +1,18 @@
+{
+  "ja": "自慢",
+  "hrkt": "じまん",
+  "latn": "jiman",
+  "en": "showing off, boast",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01485A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はよく自分の成績を<b>自慢</b>するよね。",
+      "hrkt": "かのじょ は よく じぶん の せいせき を <b>じまん</b> する よ ね。",
+      "latn": "kanojo ha yoku jibun no seiseki wo <b>jiman</b> suru yo ne.",
+      "en": "She often boasts about her grades.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01485A.mp3"
+    }
+  ]
+}

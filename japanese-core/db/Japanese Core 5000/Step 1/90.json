@@ -1,0 +1,18 @@
+{
+  "ja": "リボン",
+  "hrkt": "リボン",
+  "latn": "ribon",
+  "en": "ribbon",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09824A.mp3",
+  "sentences": [
+    {
+      "ja": "プレゼントに<b>リボン</b>を付けた。",
+      "hrkt": "プレゼント に <b>リボン</b> を つけた。",
+      "latn": "purezento ni <b>ribon</b> wo tsuketa.",
+      "en": "I put a ribbon on the present.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09824A.mp3"
+    }
+  ]
+}

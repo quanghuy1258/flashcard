@@ -1,0 +1,18 @@
+{
+  "ja": "がさがさ",
+  "hrkt": "がさがさ",
+  "latn": "gasagasa",
+  "en": "rustle",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03570A.mp3",
+  "sentences": [
+    {
+      "ja": "玄関で<b>がさがさ</b>と音がしましたよ。",
+      "hrkt": "げんかん で <b>がさがさ</b> と おと が しました よ。",
+      "latn": "genkan de <b>gasagasa</b> to oto ga shimashita yo.",
+      "en": "I heard a rustling sound at the entrance door.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03570A.mp3"
+    }
+  ]
+}

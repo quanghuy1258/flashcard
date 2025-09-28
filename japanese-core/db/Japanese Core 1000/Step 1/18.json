@@ -1,0 +1,26 @@
+{
+  "ja": "知る",
+  "hrkt": "しる",
+  "latn": "shiru",
+  "en": "know",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04340A.mp3",
+  "sentences": [
+    {
+      "ja": "誰もその話を<b>知らない</b>。",
+      "hrkt": "だれ も その はなし を <b>しらない</b>。",
+      "latn": "dare mo sono hanashi wo <b>shiranai</b>.",
+      "en": "No one knows that story.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4692749.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04340A.mp3"
+    },
+    {
+      "ja": "あの女の子を<b>知って</b>いますか。",
+      "hrkt": "あの おんなのこ を <b>しって</b> います か。",
+      "latn": "ano onnanoko wo <b>shitte</b> imasu ka.",
+      "en": "Do you know that girl?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3673747.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01291A.mp3"
+    }
+  ]
+}

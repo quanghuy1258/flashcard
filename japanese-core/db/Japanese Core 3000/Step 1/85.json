@@ -1,0 +1,18 @@
+{
+  "ja": "加える",
+  "hrkt": "くわえる",
+  "latn": "kuwaeru",
+  "en": "add (things of the same or different kinds)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02567A.mp3",
+  "sentences": [
+    {
+      "ja": "塩、コショウを<b>加えて</b>ください。",
+      "hrkt": "しお、コショウ を <b>くわえて</b> ください。",
+      "latn": "shio,koshou wo <b>kuwaete</b> kudasai.",
+      "en": "Please add salt and pepper.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/26509l2obc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02567A.mp3"
+    }
+  ]
+}

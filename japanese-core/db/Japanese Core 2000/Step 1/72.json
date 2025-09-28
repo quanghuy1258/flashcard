@@ -1,0 +1,26 @@
+{
+  "ja": "敷く",
+  "hrkt": "しく",
+  "latn": "shiku",
+  "en": "lay, spread",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03642A.mp3",
+  "sentences": [
+    {
+      "ja": "生まれて初めて布団を<b>敷いた</b>。",
+      "hrkt": "うまれて はじめて ふとん を <b>しいた</b>。",
+      "latn": "umarete hajimete futon wo <b>shiita</b>.",
+      "en": "I laid out the futon for the first time in my life.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4384333.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03642A.mp3"
+    },
+    {
+      "ja": "彼は部屋にもう1枚カーペットを<b>敷きました</b>。",
+      "hrkt": "かれ は へや に もう 1 まい カーペット を <b>しきました</b>。",
+      "latn": "kare ha heya ni mou 1 mai ka-petto wo <b>shikimashita</b>.",
+      "en": "He laid another carpet (on the floor of) the room.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/65fiel4qu0.mp3"
+    }
+  ]
+}

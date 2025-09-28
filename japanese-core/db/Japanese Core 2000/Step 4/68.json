@@ -1,0 +1,26 @@
+{
+  "ja": "社長",
+  "hrkt": "しゃちょう",
+  "latn": "shachou",
+  "en": "president (of a company)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03915A.mp3",
+  "sentences": [
+    {
+      "ja": "おばは小さな会社の<b>社長</b>です。",
+      "hrkt": "おば は ちいさな かいしゃ の <b>しゃちょう</b> です。",
+      "latn": "oba ha chiisana kaisha no <b>shachou</b> desu.",
+      "en": "My aunt is the president of a small firm.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5633842.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03915A.mp3"
+    },
+    {
+      "ja": "あの会社は<b>社長</b>がよく変わる。",
+      "hrkt": "あの かいしゃ は <b>しゃちょう</b> が よく かわる。",
+      "latn": "ano kaisha ha <b>shachou</b> ga yoku kawaru.",
+      "en": "The president of that company often changes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f5es567e4k.mp3"
+    }
+  ]
+}

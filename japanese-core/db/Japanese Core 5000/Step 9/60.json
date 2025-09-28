@@ -1,0 +1,18 @@
+{
+  "ja": "燃料",
+  "hrkt": "ねんりょう",
+  "latn": "nenryou",
+  "en": "fuel",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00518A.mp3",
+  "sentences": [
+    {
+      "ja": "車から<b>燃料</b>がもれていますよ。",
+      "hrkt": "くるま から <b>ねんりょう</b> が もれて います よ。",
+      "latn": "kuruma kara <b>nenryou</b> ga morete imasu yo.",
+      "en": "Fuel is leaking from your car.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00518A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "痛み",
+  "hrkt": "いたみ",
+  "latn": "itami",
+  "en": "pain, ache",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01500A.mp3",
+  "sentences": [
+    {
+      "ja": "背中に<b>痛み</b>があります。",
+      "hrkt": "せなか に <b>いたみ</b> が あります。",
+      "latn": "senaka ni <b>itami</b> ga arimasu.",
+      "en": "I have a pain in my back.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/clem05377p75o.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01500A.mp3"
+    },
+    {
+      "ja": "膝に<b>痛み</b>を感じます。",
+      "hrkt": "ひざ に <b>いたみ</b> を かんじます。",
+      "latn": "hiza ni <b>itami</b> wo kanjimasu.",
+      "en": "I feel a pain in my knee.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6238643.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01925A.mp3"
+    }
+  ]
+}

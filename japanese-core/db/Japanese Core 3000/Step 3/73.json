@@ -1,0 +1,26 @@
+{
+  "ja": "ストレス",
+  "hrkt": "ストレス",
+  "latn": "sutoresu",
+  "en": "stress",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01594A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ストレス</b>がいろいろな病気の元になっているの。",
+      "hrkt": "<b>ストレス</b> が いろいろな びょうき の もと に なって いる の。",
+      "latn": "<b>sutoresu</b> ga iroirona byouki no moto ni natte iru no.",
+      "en": "Stress is the source of various diseases.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e54k79502o.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01594A.mp3"
+    },
+    {
+      "ja": "彼は<b>ストレス</b>がたまっているの。",
+      "hrkt": "かれ は <b>ストレス</b> が たまって いる の。",
+      "latn": "kare ha <b>sutoresu</b> ga tamatte iru no.",
+      "en": "He's under a lot of stress.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/43d1a0ev1c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03032A.mp3"
+    }
+  ]
+}

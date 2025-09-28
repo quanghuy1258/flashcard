@@ -1,0 +1,18 @@
+{
+  "ja": "食物",
+  "hrkt": "しょくもつ",
+  "latn": "shokumotsu",
+  "en": "food (mainly in writing)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03668A.mp3",
+  "sentences": [
+    {
+      "ja": "人間にとって水は<b>食物</b>より大切なの。",
+      "hrkt": "にんげん にとって みず は <b>しょくもつ</b> より たいせつな の。",
+      "latn": "ningen nitotte mizu ha <b>shokumotsu</b> yori taisetsuna no.",
+      "en": "For humans, water is more important than food.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03668A.mp3"
+    }
+  ]
+}

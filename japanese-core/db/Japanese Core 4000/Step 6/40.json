@@ -1,0 +1,18 @@
+{
+  "ja": "演説",
+  "hrkt": "えんぜつ",
+  "latn": "enzetsu",
+  "en": "speech, address",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00384A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は地方で<b>演説</b>したのよ。",
+      "hrkt": "かれ は ちほう で <b>えんぜつ</b> した の よ。",
+      "latn": "kare ha chihou de <b>enzetsu</b> shita no yo.",
+      "en": "He made a speech in the provinces.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00384A.mp3"
+    }
+  ]
+}

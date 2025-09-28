@@ -1,0 +1,26 @@
+{
+  "ja": "八",
+  "hrkt": "はち",
+  "latn": "hachi",
+  "en": "eight",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07340A.mp3",
+  "sentences": [
+    {
+      "ja": "りんごを<b>八</b>個ください。",
+      "hrkt": "りんご を <b>はち</b> こ ください。",
+      "latn": "ringo wo <b>hachi</b> ko kudasai.",
+      "en": "Please give me eight apples.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3288048.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07340A.mp3"
+    },
+    {
+      "ja": "今日は<b>八</b>人も仕事を休んでいます。",
+      "hrkt": "きょう は <b>はち</b> にん も しごと を やすんで います。",
+      "latn": "kyou ha <b>hachi</b> nin mo shigoto wo yasunde imasu.",
+      "en": "As many as eight people are absent from work today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f4euapel4k.mp3"
+    }
+  ]
+}

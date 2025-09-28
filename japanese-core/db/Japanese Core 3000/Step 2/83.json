@@ -1,0 +1,18 @@
+{
+  "ja": "ぶつぶつ",
+  "hrkt": "ぶつぶつ",
+  "latn": "butsubutsu",
+  "en": "in a mutter, mumble",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02943A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>ぶつぶつ</b>と独り言を言ったんだ。",
+      "hrkt": "かれ は <b>ぶつぶつ</b> と ひとりごと を いった ん だ。",
+      "latn": "kare ha <b>butsubutsu</b> to hitorigoto wo itta n da.",
+      "en": "He mumbled to himself.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/74cu9c7oak.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02943A.mp3"
+    }
+  ]
+}

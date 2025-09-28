@@ -1,0 +1,18 @@
+{
+  "ja": "餅",
+  "hrkt": "もち",
+  "latn": "mochi",
+  "en": "rice cake",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03491A.mp3",
+  "sentences": [
+    {
+      "ja": "正月には<b>餅</b>を食べますよ。",
+      "hrkt": "しょうがつ に は <b>もち</b> を たべます よ。",
+      "latn": "shougatsu ni ha <b>mochi</b> wo tabemasu yo.",
+      "en": "We eat rice cakes during the New Year's holiday.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03491A.mp3"
+    }
+  ]
+}

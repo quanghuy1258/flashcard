@@ -1,0 +1,26 @@
+{
+  "ja": "曲げる",
+  "hrkt": "まげる",
+  "latn": "mageru",
+  "en": "bend (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08681A.mp3",
+  "sentences": [
+    {
+      "ja": "ひざを<b>曲げて</b>ください。",
+      "hrkt": "ひざ を <b>まげて</b> ください。",
+      "latn": "hiza wo <b>magete</b> kudasai.",
+      "en": "Please bend your knees.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/412vav84rsqo44.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08681A.mp3"
+    },
+    {
+      "ja": "このカードを無理に<b>曲げないで</b>ください。",
+      "hrkt": "この カード を むり に <b>まげないで</b> ください。",
+      "latn": "kono ka-do wo muri ni <b>magenaide</b> kudasai.",
+      "en": "Please don't (try to) bend this card forcefully.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/25cvab5l8g.mp3"
+    }
+  ]
+}

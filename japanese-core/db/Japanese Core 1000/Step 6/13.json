@@ -1,0 +1,26 @@
+{
+  "ja": "辞書",
+  "hrkt": "じしょ",
+  "latn": "jisho",
+  "en": "dictionary (category)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03685A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>辞書</b>をよく使います。",
+      "hrkt": "かのじょ は <b>じしょ</b> を よく つかいます。",
+      "latn": "kanojo ha <b>jisho</b> wo yoku tsukaimasu.",
+      "en": "She often uses a dictionary.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4758153.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03685A.mp3"
+    },
+    {
+      "ja": "この単語の意味を<b>辞書</b>で調べましょう。",
+      "hrkt": "この たんご の いみ を <b>じしょ</b> で しらべましょう。",
+      "latn": "kono tango no imi wo <b>jisho</b> de shirabemashou.",
+      "en": "Let's look up the meaning of this word in the dictionary.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3104662.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04330A.mp3"
+    }
+  ]
+}

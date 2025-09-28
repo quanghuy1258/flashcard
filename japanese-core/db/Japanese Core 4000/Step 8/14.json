@@ -1,0 +1,18 @@
+{
+  "ja": "はねる",
+  "hrkt": "はねる",
+  "latn": "haneru",
+  "en": "run over, hit",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03828A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は車に<b>はねられた</b>けど無事だったの。",
+      "hrkt": "かれ は くるま に <b>はねられた</b> けど ぶじ だった の。",
+      "latn": "kare ha kuruma ni <b>hanerareta</b> kedo buji datta no.",
+      "en": "He was hit by a car but was fine.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03828A.mp3"
+    }
+  ]
+}

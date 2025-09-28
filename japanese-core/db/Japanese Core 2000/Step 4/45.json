@@ -1,0 +1,26 @@
+{
+  "ja": "ゼロ",
+  "hrkt": "ゼロ",
+  "latn": "zero",
+  "en": "zero, none (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04845A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の交通事故は<b>ゼロ</b>です。",
+      "hrkt": "きょう の こうつう じこ は <b>ゼロ</b> です。",
+      "latn": "kyou no koutsuu jiko ha <b>zero</b> desu.",
+      "en": "There were no traffic accidents today.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1780309.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04845A.mp3"
+    },
+    {
+      "ja": "私は、日本語の勉強を<b>ゼロ</b>から始めました。",
+      "hrkt": "わたし は、にほん ご の べんきょう を <b>ゼロ</b> から はじめました。",
+      "latn": "watashi ha,nihon go no benkyou wo <b>zero</b> kara hajimemashita.",
+      "en": "I started to study Japanese from zero.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b6bedoalks.mp3"
+    }
+  ]
+}

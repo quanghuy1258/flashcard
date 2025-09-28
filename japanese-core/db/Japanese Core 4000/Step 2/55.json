@@ -1,0 +1,18 @@
+{
+  "ja": "単語",
+  "hrkt": "たんご",
+  "latn": "tango",
+  "en": "word",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00378A.mp3",
+  "sentences": [
+    {
+      "ja": "日本語の<b>単語</b>をいくつ知っていますか。",
+      "hrkt": "にほん ご の <b>たんご</b> を いくつ しって います か。",
+      "latn": "nihon go no <b>tango</b> wo ikutsu shitte imasu ka.",
+      "en": "How many Japanese words do you know?",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/45f44k603k.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00378A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "削除",
+  "hrkt": "さくじょ",
+  "latn": "sakujo",
+  "en": "deletion, elimination",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02044A.mp3",
+  "sentences": [
+    {
+      "ja": "要らないファイルは<b>削除して</b>ください。",
+      "hrkt": "いらない ファイル は <b>さくじょ</b> して ください。",
+      "latn": "iranai fairu ha <b>sakujo</b> shite kudasai.",
+      "en": "Please delete unnecessary files.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a43d8b819o.png",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02044A.mp3"
+    }
+  ]
+}

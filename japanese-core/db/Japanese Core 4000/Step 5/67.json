@@ -1,0 +1,18 @@
+{
+  "ja": "勝ち",
+  "hrkt": "かち",
+  "latn": "kachi",
+  "en": "win, victory",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02408A.mp3",
+  "sentences": [
+    {
+      "ja": "歌合戦は赤組の<b>勝ち</b>でしたね。",
+      "hrkt": "うた がっせん は あか ぐみ の <b>かち</b> でした ね。",
+      "latn": "uta gassen ha aka gumi no <b>kachi</b> deshita ne.",
+      "en": "The red team won the singing contest.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02408A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "恨む",
+  "hrkt": "うらむ",
+  "latn": "uramu",
+  "en": "hold a grudge, feel resentment",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02717A.mp3",
+  "sentences": [
+    {
+      "ja": "彼を<b>恨んで</b>はいけません。",
+      "hrkt": "かれ を <b>うらんで</b> は いけません。",
+      "latn": "kare wo <b>urande</b> ha ikemasen.",
+      "en": "You should not hold a grudge against him.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02717A.mp3"
+    }
+  ]
+}

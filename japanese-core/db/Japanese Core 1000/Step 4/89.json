@@ -1,0 +1,26 @@
+{
+  "ja": "線",
+  "hrkt": "せん",
+  "latn": "sen",
+  "en": "line",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04852A.mp3",
+  "sentences": [
+    {
+      "ja": "赤い<b>線</b>を2本引いてください。",
+      "hrkt": "あかい <b>せん</b> を 2 ほん ひいて ください。",
+      "latn": "akai <b>sen</b> wo 2 hon hiite kudasai.",
+      "en": "Please draw two red lines.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3641072.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04852A.mp3"
+    },
+    {
+      "ja": "この<b>線</b>をもっと細くしてください。",
+      "hrkt": "この <b>せん</b> を もっと ほそく して ください。",
+      "latn": "kono <b>sen</b> wo motto hosoku shite kudasai.",
+      "en": "Please make this line thinner.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a38n1s9ac8.mp3"
+    }
+  ]
+}

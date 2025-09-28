@@ -1,0 +1,26 @@
+{
+  "ja": "腐る",
+  "hrkt": "くさる",
+  "latn": "kusaru",
+  "en": "rot, go bad",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02431A.mp3",
+  "sentences": [
+    {
+      "ja": "リンゴが<b>腐って</b>いる。",
+      "hrkt": "リンゴ が <b>くさって</b> いる。",
+      "latn": "ringo ga <b>kusatte</b> iru.",
+      "en": "This apple's rotten.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4679143.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02431A.mp3"
+    },
+    {
+      "ja": "夏はお弁当が<b>腐らない</b>か心配です。",
+      "hrkt": "なつ は おべんとう が <b>くさらない</b> か しんぱい です。",
+      "latn": "natsu ha obentou ga <b>kusaranai</b> ka shinpai desu.",
+      "en": "In summer, I'm worried that packed lunches may go bad.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b2dv59a8cc.mp3"
+    }
+  ]
+}

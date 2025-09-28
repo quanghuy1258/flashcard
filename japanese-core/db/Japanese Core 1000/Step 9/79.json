@@ -1,0 +1,26 @@
+{
+  "ja": "時代",
+  "hrkt": "じだい",
+  "latn": "jidai",
+  "en": "age, era",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03720A.mp3",
+  "sentences": [
+    {
+      "ja": "今は便利さとスピードの<b>時代</b>だ。",
+      "hrkt": "いま は べんりさ と スピード の <b>じだい</b> だ。",
+      "latn": "ima ha benrisa to supi-do no <b>jidai</b> da.",
+      "en": "We're living in the age of convenience and speed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/943969.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03720A.mp3"
+    },
+    {
+      "ja": "江戸<b>時代</b>は1603年に始まりました。",
+      "hrkt": "えど <b>じだい</b> は 1603 ねん に はじまりました。",
+      "latn": "edo <b>jidai</b> ha 1603 nen ni hajimarimashita.",
+      "en": "The Edo Period started in 1603.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/66735l8av0.mp3"
+    }
+  ]
+}

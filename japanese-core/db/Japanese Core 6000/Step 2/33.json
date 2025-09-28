@@ -1,0 +1,18 @@
+{
+  "ja": "暦",
+  "hrkt": "こよみ",
+  "latn": "koyomi",
+  "en": "calendar, almanac",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02725A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>暦</b>の上では今日から冬ですね。",
+      "hrkt": "<b>こよみ</b> の うえ で は きょう から ふゆ です ね。",
+      "latn": "<b>koyomi</b> no ue de ha kyou kara fuyu desu ne.",
+      "en": "Winter starts today according to the almanac.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02725A.mp3"
+    }
+  ]
+}

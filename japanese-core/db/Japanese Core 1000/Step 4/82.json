@@ -1,0 +1,26 @@
+{
+  "ja": "ため",
+  "hrkt": "ため",
+  "latn": "tame",
+  "en": "sake, purpose",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05459A.mp3",
+  "sentences": [
+    {
+      "ja": "これは医者の<b>ため</b>のサイトです。",
+      "hrkt": "これ は いしゃ の <b>ため</b> の サイト です。",
+      "latn": "kore ha isha no <b>tame</b> no saito desu.",
+      "en": "This is a site for doctors.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5037278.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05459A.mp3"
+    },
+    {
+      "ja": "彼女はダイエットの<b>ため</b>に泳いでいる。",
+      "hrkt": "かのじょ は ダイエット の <b>ため</b> に およいで いる。",
+      "latn": "kanojo ha daietto no <b>tame</b> ni oyoide iru.",
+      "en": "She swims to lose weight.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3833238.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01238A.mp3"
+    }
+  ]
+}

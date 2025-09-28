@@ -1,0 +1,18 @@
+{
+  "ja": "縛る",
+  "hrkt": "しばる",
+  "latn": "shibaru",
+  "en": "bind, tie",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01863A.mp3",
+  "sentences": [
+    {
+      "ja": "古新聞をひもで<b>縛った</b>よ。",
+      "hrkt": "ふるしんぶん を ひも で <b>しばった</b> よ。",
+      "latn": "furushinbun wo himo de <b>shibatta</b> yo.",
+      "en": "I tied up the old newspapers with a string.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01863A.mp3"
+    }
+  ]
+}

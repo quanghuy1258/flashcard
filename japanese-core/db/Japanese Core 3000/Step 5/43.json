@@ -1,0 +1,18 @@
+{
+  "ja": "大声",
+  "hrkt": "おおごえ",
+  "latn": "oogoe",
+  "en": "loud voice",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01468A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>大声</b>で歌を歌ったの。",
+      "hrkt": "わたし たち は <b>おおごえ</b> で うた を うたった の。",
+      "latn": "watashi tachi ha <b>oogoe</b> de uta wo utatta no.",
+      "en": "We sang loudly.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d3em5h7r7o.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01468A.mp3"
+    }
+  ]
+}

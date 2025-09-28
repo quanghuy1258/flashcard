@@ -1,0 +1,18 @@
+{
+  "ja": "コンサート",
+  "hrkt": "コンサート",
+  "latn": "konsa-to",
+  "en": "concert",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/8lakb46106n1o.mp3",
+  "sentences": [
+    {
+      "ja": "友達とジャズの<b>コンサート</b>に行きました。",
+      "hrkt": "ともだち と ジャズ の <b>コンサート</b> に いきました。",
+      "latn": "tomodachi to jazu no <b>konsa-to</b> ni ikimashita.",
+      "en": "I went to a jazz concert with my friend.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/634j5k2qgo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/5l5e7e8b7fv90.mp3"
+    }
+  ]
+}

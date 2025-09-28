@@ -1,0 +1,26 @@
+{
+  "ja": "チョコレート",
+  "hrkt": "チョコレート",
+  "latn": "chokore-to",
+  "en": "chocolate",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05748A.mp3",
+  "sentences": [
+    {
+      "ja": "妹は<b>チョコレート</b>が大好きです。",
+      "hrkt": "いもうと は <b>チョコレート</b> が だいすき です。",
+      "latn": "imouto ha <b>chokore-to</b> ga daisuki desu.",
+      "en": "My little sister loves chocolate.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5419678.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05748A.mp3"
+    },
+    {
+      "ja": "<b>チョコレート</b>とケーキを両方ください。",
+      "hrkt": "<b>チョコレート</b> と ケーキ を りょうほう ください。",
+      "latn": "<b>chokore-to</b> to ke-ki wo ryouhou kudasai.",
+      "en": "I'll have both the chocolate and the cake, please.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4750314.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09865A.mp3"
+    }
+  ]
+}

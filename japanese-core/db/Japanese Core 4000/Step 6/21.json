@@ -1,0 +1,18 @@
+{
+  "ja": "黙る",
+  "hrkt": "だまる",
+  "latn": "damaru",
+  "en": "become silent, shut one's mouth",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00889A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はいつも<b>黙って</b>仕事をします。",
+      "hrkt": "かれ は いつも <b>だまって</b> しごと を します。",
+      "latn": "kare ha itsumo <b>damatte</b> shigoto wo shimasu.",
+      "en": "He always works in silence.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00889A.mp3"
+    }
+  ]
+}

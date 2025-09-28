@@ -1,0 +1,26 @@
+{
+  "ja": "必要",
+  "hrkt": "ひつよう",
+  "latn": "hitsuyou",
+  "en": "need, necessary",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07750A.mp3",
+  "sentences": [
+    {
+      "ja": "私にはたくさんのお金が<b>必要</b>だ。",
+      "hrkt": "わたし に は たくさん の おかね が <b>ひつよう</b> だ。",
+      "latn": "watashi ni ha takusan no okane ga <b>hitsuyou</b> da.",
+      "en": "I need a lot of money.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3184927.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07750A.mp3"
+    },
+    {
+      "ja": "新しい歯ブラシが<b>必要</b>だ。",
+      "hrkt": "あたらしい はブラシ が <b>ひつよう</b> だ。",
+      "latn": "atarashii haburashi ga <b>hitsuyou</b> da.",
+      "en": "I need a new toothbrush.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5254570.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07452A.mp3"
+    }
+  ]
+}

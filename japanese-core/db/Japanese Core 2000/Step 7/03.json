@@ -1,0 +1,26 @@
+{
+  "ja": "ボールペン",
+  "hrkt": "ボールペン",
+  "latn": "bo-rupen",
+  "en": "ballpoint pen",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08478A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ボールペン</b>で名前を書いてください。",
+      "hrkt": "<b>ボールペン</b> で なまえ を かいて ください。",
+      "latn": "<b>bo-rupen</b> de namae wo kaite kudasai.",
+      "en": "Please write your name with a ballpoint pen.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4470237.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08478A.mp3"
+    },
+    {
+      "ja": "黒の<b>ボールペン</b>はありますか。",
+      "hrkt": "くろ の <b>ボールペン</b> は あります か。",
+      "latn": "kuro no <b>bo-rupen</b> ha arimasu ka.",
+      "en": "Do you have a black pen?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1890866.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02562A.mp3"
+    }
+  ]
+}

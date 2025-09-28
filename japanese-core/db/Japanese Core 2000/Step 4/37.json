@@ -1,0 +1,26 @@
+{
+  "ja": "毎晩",
+  "hrkt": "まいばん",
+  "latn": "maiban",
+  "en": "every evening",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08643A.mp3",
+  "sentences": [
+    {
+      "ja": "姉は<b>毎晩</b>日記を書いています。",
+      "hrkt": "あね は <b>まいばん</b> にっき を かいて います。",
+      "latn": "ane ha <b>maiban</b> nikki wo kaite imasu.",
+      "en": "My older sister writes a diary every evening.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5409576.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08643A.mp3"
+    },
+    {
+      "ja": "彼は<b>毎晩</b>3キロ走っています。",
+      "hrkt": "かれ は <b>まいばん</b> 3 キロ はしって います。",
+      "latn": "kare ha <b>maiban</b> 3 kiro hashitte imasu.",
+      "en": "Every night he runs three kilometers.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4182446.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07309A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "無知",
+  "hrkt": "むち",
+  "latn": "muchi",
+  "en": "ignorant",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02498A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は政治について<b>無知</b>でした。",
+      "hrkt": "かのじょ は せいじ について <b>むち</b> でした。",
+      "latn": "kanojo ha seiji nitsuite <b>muchi</b> deshita.",
+      "en": "She was ignorant about politics.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02498A.mp3"
+    }
+  ]
+}

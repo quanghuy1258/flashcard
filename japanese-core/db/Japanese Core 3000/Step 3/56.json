@@ -1,0 +1,18 @@
+{
+  "ja": "ルール",
+  "hrkt": "ルール",
+  "latn": "ru-ru",
+  "en": "rule (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00777A.mp3",
+  "sentences": [
+    {
+      "ja": "このゲームの<b>ルール</b>は簡単です。",
+      "hrkt": "この ゲーム の <b>ルール</b> は かんたん です。",
+      "latn": "kono ge-mu no <b>ru-ru</b> ha kantan desu.",
+      "en": "The rules of this game are easy.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/127efmaqc8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00777A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "夜中",
+  "hrkt": "よなか",
+  "latn": "yonaka",
+  "en": "midnight",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09709A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>夜中</b>に電話がありました。",
+      "hrkt": "<b>よなか</b> に でんわ が ありました。",
+      "latn": "<b>yonaka</b> ni denwa ga arimashita.",
+      "en": "I got a phone call in the middle of the night.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6127135.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09709A.mp3"
+    },
+    {
+      "ja": "昨日は<b>夜中</b>まで起きていました。",
+      "hrkt": "きのう は <b>よなか</b> まで おきて いました。",
+      "latn": "kinou ha <b>yonaka</b> made okite imashita.",
+      "en": "I stayed up until midnight yesterday.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/3494e90b5c.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "帰り",
+  "hrkt": "かえり",
+  "latn": "kaeri",
+  "en": "return, going home",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01434A.mp3",
+  "sentences": [
+    {
+      "ja": "仕事の<b>帰り</b>にビールを飲んだ。",
+      "hrkt": "しごと の <b>かえり</b> に ビール を のんだ。",
+      "latn": "shigoto no <b>kaeri</b> ni bi-ru wo nonda.",
+      "en": "I had a beer on the way home from work.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2368499.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01434A.mp3"
+    },
+    {
+      "ja": "<b>帰り</b>に叔母の家に寄ります。",
+      "hrkt": "<b>かえり</b> に おば の いえ に よります。",
+      "latn": "<b>kaeri</b> ni oba no ie ni yorimasu.",
+      "en": "I'll drop in at my aunt's house on the way home.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/8l6o3ab4galvc.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01725A.mp3"
+    }
+  ]
+}

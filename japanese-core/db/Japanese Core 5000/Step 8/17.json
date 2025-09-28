@@ -1,0 +1,18 @@
+{
+  "ja": "光",
+  "hrkt": "ひかり",
+  "latn": "hikari",
+  "en": "light, ray",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03838A.mp3",
+  "sentences": [
+    {
+      "ja": "一筋の<b>光</b>が窓から差し込んだの。",
+      "hrkt": "ひとすじ の <b>ひかり</b> が まど から さしこんだ の。",
+      "latn": "hitosuji no <b>hikari</b> ga mado kara sashikonda no.",
+      "en": "A beam of light shone through the window.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03838A.mp3"
+    }
+  ]
+}

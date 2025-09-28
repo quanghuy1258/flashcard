@@ -1,0 +1,26 @@
+{
+  "ja": "随分",
+  "hrkt": "ずいぶん",
+  "latn": "zuibun",
+  "en": "extremely, considerably",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04497A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>随分</b>早く終わったね。",
+      "hrkt": "<b>ずいぶん</b> はやく おわった ね。",
+      "latn": "<b>zuibun</b> hayaku owatta ne.",
+      "en": "You finished really early.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5224880.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04497A.mp3"
+    },
+    {
+      "ja": "<b>随分</b>ひどいことを言いますね。",
+      "hrkt": "<b>ずいぶん</b> ひどい こと を いいます ね。",
+      "latn": "<b>zuibun</b> hidoi koto wo iimasu ne.",
+      "en": "You say extremely terrible things.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/529d5o83rk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "一人で",
+  "hrkt": "ひとりで",
+  "latn": "hitoride",
+  "en": "by oneself, alone",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07789A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>一人で</b>映画を見ます。",
+      "hrkt": "きょう は <b>ひとり で</b> えいが を みます。",
+      "latn": "kyou ha <b>hitori de</b> eiga wo mimasu.",
+      "en": "I'm going to see a movie alone today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4401887.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07789A.mp3"
+    },
+    {
+      "ja": "私は<b>一人で</b>いるのが好きです。",
+      "hrkt": "わたし は <b>ひとり で</b> いる の が すき です。",
+      "latn": "watashi ha <b>hitori de</b> iru no ga suki desu.",
+      "en": "I like to be alone.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/61esca9s90.mp3"
+    }
+  ]
+}

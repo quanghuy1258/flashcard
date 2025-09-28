@@ -1,0 +1,26 @@
+{
+  "ja": "行き",
+  "hrkt": "いき",
+  "latn": "iki",
+  "en": "going, outbound (flight, train, etc.)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00372A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>行き</b>は新幹線で行った。",
+      "hrkt": "<b>いき</b> は しんかんせん で いった。",
+      "latn": "<b>iki</b> ha shinkansen de itta.",
+      "en": "I went by bullet train on the way over.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4733957.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00372A.mp3"
+    },
+    {
+      "ja": "沖縄まで<b>行き</b>は3時間かかりました。",
+      "hrkt": "おきなわ まで <b>いき</b> は 3 じかん かかりました。",
+      "latn": "okinawa made <b>iki</b> ha 3 jikan kakarimashita.",
+      "en": "It took three hours to (get to) Okinawa outbound.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f67v6g6d6k.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "漏れる",
+  "hrkt": "もれる",
+  "latn": "moreru",
+  "en": "leak, be disclosed",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01949A.mp3",
+  "sentences": [
+    {
+      "ja": "彼のヘッドフォンから音が<b>漏れて</b>いるね。",
+      "hrkt": "かれ の ヘッドフォン から おと が <b>もれて</b> いる ね。",
+      "latn": "kare no heddofon kara oto ga <b>morete</b> iru ne.",
+      "en": "Sound is leaking from his headphones.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01949A.mp3"
+    }
+  ]
+}

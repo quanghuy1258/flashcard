@@ -1,0 +1,26 @@
+{
+  "ja": "後",
+  "hrkt": "のち",
+  "latn": "nochi",
+  "en": "after, afterward (formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07090A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>後</b>に彼は総理大臣になりました。",
+      "hrkt": "<b>のち</b> に かれ は そうりだいじん に なりました。",
+      "latn": "<b>nochi</b> ni kare ha souridaijin ni narimashita.",
+      "en": "He would later become Prime Minister.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2946676.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07090A.mp3"
+    },
+    {
+      "ja": "明日は曇り<b>後</b>雨でしょう。",
+      "hrkt": "あした は くもり <b>のち</b> あめ でしょう。",
+      "latn": "ashita ha kumori <b>nochi</b> ame deshou.",
+      "en": "Tomorrow it will be cloudy and rainy afterward.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/0451350cp8.mp3"
+    }
+  ]
+}

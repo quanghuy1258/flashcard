@@ -1,0 +1,18 @@
+{
+  "ja": "特徴",
+  "hrkt": "とくちょう",
+  "latn": "tokuchou",
+  "en": "distinctive feature, characteristic",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06394A.mp3",
+  "sentences": [
+    {
+      "ja": "この曲線がこの車の<b>特徴</b>です。",
+      "hrkt": "この きょくせん が この くるま の <b>とくちょう</b> です。",
+      "latn": "kono kyokusen ga kono kuruma no <b>tokuchou</b> desu.",
+      "en": "These curves are a unique feature of this car.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/555eftece8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06394A.mp3"
+    }
+  ]
+}

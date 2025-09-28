@@ -1,0 +1,18 @@
+{
+  "ja": "校庭",
+  "hrkt": "こうてい",
+  "latn": "koutei",
+  "en": "school field",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01780A.mp3",
+  "sentences": [
+    {
+      "ja": "陸上部は<b>校庭</b>で練習しています。",
+      "hrkt": "りくじょう ぶ は <b>こうてい</b> で れんしゅう して います。",
+      "latn": "rikujou bu ha <b>koutei</b> de renshuu shite imasu.",
+      "en": "The track and field club is practicing in the school field.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01780A.mp3"
+    }
+  ]
+}

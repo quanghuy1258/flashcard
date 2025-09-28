@@ -1,0 +1,18 @@
+{
+  "ja": "幼稚園",
+  "hrkt": "ようちえん",
+  "latn": "youchien",
+  "en": "kindergarten",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09622A.mp3",
+  "sentences": [
+    {
+      "ja": "娘は<b>幼稚園</b>に通っています。",
+      "hrkt": "むすめ は <b>ようちえん</b> に かよって います。",
+      "latn": "musume ha <b>youchien</b> ni kayotte imasu.",
+      "en": "My daughter goes to kindergarten.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b43s1n7rb0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09622A.mp3"
+    }
+  ]
+}

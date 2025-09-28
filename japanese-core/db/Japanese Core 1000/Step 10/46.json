@@ -1,0 +1,26 @@
+{
+  "ja": "特別",
+  "hrkt": "とくべつ",
+  "latn": "tokubetsu",
+  "en": "special",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06399A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたは私にとって<b>特別</b>な人です。",
+      "hrkt": "あなた は わたし にとって <b>とくべつ</b>な ひと です。",
+      "latn": "anata ha watashi nitotte <b>tokubetsu</b>na hito desu.",
+      "en": "You're special to me.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3485065.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06399A.mp3"
+    },
+    {
+      "ja": "彼女は<b>特別</b>な力を持っています。",
+      "hrkt": "かのじょ は <b>とくべつ</b>な ちから を もって います。",
+      "latn": "kanojo ha <b>tokubetsu</b>na chikara wo motte imasu.",
+      "en": "She has special powers.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c5egbdfqag.mp3"
+    }
+  ]
+}

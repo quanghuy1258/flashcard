@@ -1,0 +1,26 @@
+{
+  "ja": "移る",
+  "hrkt": "うつる",
+  "latn": "utsuru",
+  "en": "move to, transfer to",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00737A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は新しい会社に<b>移った</b>。",
+      "hrkt": "かのじょ は あたらしい かいしゃ に <b>うつった</b>。",
+      "latn": "kanojo ha atarashii kaisha ni <b>utsutta</b>.",
+      "en": "She moved to a new company.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5537306.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00737A.mp3"
+    },
+    {
+      "ja": "彼はホテルからシェアハウスに<b>移りました</b>。",
+      "hrkt": "かれ は ホテル から シェア ハウス に <b>うつりました</b>。",
+      "latn": "kare ha hoteru kara shea hausu ni <b>utsurimashita</b>.",
+      "en": "He moved from a hotel to a shared house.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e6f08j57h4.mp3"
+    }
+  ]
+}

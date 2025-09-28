@@ -1,0 +1,26 @@
+{
+  "ja": "誰",
+  "hrkt": "だれ",
+  "latn": "dare",
+  "en": "who",
+  "pos": "Interrogative",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05485A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>誰</b>と会ってみたいですか。",
+      "hrkt": "<b>だれ</b> と あって みたい です か。",
+      "latn": "<b>dare</b> to atte mitai desu ka.",
+      "en": "Who would you like to meet?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/893027.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05485A.mp3"
+    },
+    {
+      "ja": "<b>誰</b>もその話を知らない。",
+      "hrkt": "<b>だれ</b> も その はなし を しらない。",
+      "latn": "<b>dare</b> mo sono hanashi wo shiranai.",
+      "en": "No one knows that story.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4692749.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04340A.mp3"
+    }
+  ]
+}

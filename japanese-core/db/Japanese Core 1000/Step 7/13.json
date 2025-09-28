@@ -1,0 +1,26 @@
+{
+  "ja": "ナス",
+  "hrkt": "ナス",
+  "latn": "nasu",
+  "en": "eggplant",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06682A.mp3",
+  "sentences": [
+    {
+      "ja": "夕飯に<b>ナス</b>の天ぷらを食べました。",
+      "hrkt": "ゆうはん に <b>ナス</b> の てんぷら を たべました。",
+      "latn": "yuuhan ni <b>nasu</b> no tenpura wo tabemashita.",
+      "en": "I ate eggplant tempura for dinner.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/746452.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06682A.mp3"
+    },
+    {
+      "ja": "私は<b>ナス</b>とひき肉のカレーが大好きだ。",
+      "hrkt": "わたし は <b>ナス</b> と ひきにく の カレー が だいすき だ。",
+      "latn": "watashi ha <b>nasu</b> to hikiniku no kare- ga daisuki da.",
+      "en": "I love curry with eggplants and ground meat.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c3eu6bd5q4.mp3"
+    }
+  ]
+}

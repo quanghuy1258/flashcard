@@ -1,0 +1,18 @@
+{
+  "ja": "拝見",
+  "hrkt": "はいけん",
+  "latn": "haiken",
+  "en": "look at, see (humble)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03048A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの著書を<b>拝見</b>しました。",
+      "hrkt": "あなた の ちょしょ を <b>はいけん</b> しました。",
+      "latn": "anata no chosho wo <b>haiken</b> shimashita.",
+      "en": "I read your book.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03048A.mp3"
+    }
+  ]
+}

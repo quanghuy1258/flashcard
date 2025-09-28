@@ -1,0 +1,18 @@
+{
+  "ja": "喫煙",
+  "hrkt": "きつえん",
+  "latn": "kitsuen",
+  "en": "smoking",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01673A.mp3",
+  "sentences": [
+    {
+      "ja": "ここでは<b>喫煙</b>できません。",
+      "hrkt": "ここ で は <b>きつえん</b> できません。",
+      "latn": "koko de ha <b>kitsuen</b> dekimasen.",
+      "en": "Smoking is not permitted here.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01673A.mp3"
+    }
+  ]
+}

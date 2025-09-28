@@ -1,0 +1,18 @@
+{
+  "ja": "書き直す",
+  "hrkt": "かきなおす",
+  "latn": "kakinaosu",
+  "en": "rewrite",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01479A.mp3",
+  "sentences": [
+    {
+      "ja": "この書類を<b>書き直して</b>ください。",
+      "hrkt": "この しょるい を <b>かきなおして</b> ください。",
+      "latn": "kono shorui wo <b>kakinaoshite</b> kudasai.",
+      "en": "Please rewrite this document.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f4b8dqaih0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01479A.mp3"
+    }
+  ]
+}

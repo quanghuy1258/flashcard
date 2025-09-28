@@ -1,0 +1,18 @@
+{
+  "ja": "述べる",
+  "hrkt": "のべる",
+  "latn": "noberu",
+  "en": "state, remark",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07105A.mp3",
+  "sentences": [
+    {
+      "ja": "上司が意見を<b>述べた</b>。",
+      "hrkt": "じょうし が いけん を <b>のべた</b>。",
+      "latn": "joushi ga iken wo <b>nobeta</b>.",
+      "en": "Our boss stated his opinion.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a3arfi8rmg.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07105A.mp3"
+    }
+  ]
+}

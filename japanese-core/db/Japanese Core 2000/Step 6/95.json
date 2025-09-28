@@ -1,0 +1,26 @@
+{
+  "ja": "通常",
+  "hrkt": "つうじょう",
+  "latn": "tsuujou",
+  "en": "common, usually, typically",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05807A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>通常</b>は夜8時まで営業しています。",
+      "hrkt": "<b>つうじょう</b> は よる 8 じ まで えいぎょう して います。",
+      "latn": "<b>tsuujou</b> ha yoru 8 ji made eigyou shite imasu.",
+      "en": "We're usually open until eight o'clock at night.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/98679.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05807A.mp3"
+    },
+    {
+      "ja": "<b>通常</b>、授業は8時半に始まります。",
+      "hrkt": "<b>つうじょう</b>、じゅぎょう は 8 じ はん に はじまります。",
+      "latn": "<b>tsuujou</b>,jugyou ha 8 ji han ni hajimarimasu.",
+      "en": "Usually, the class starts at 8:30 a.m.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/54509v8s8g.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "位置",
+  "hrkt": "いち",
+  "latn": "ichi",
+  "en": "position, location",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00475A.mp3",
+  "sentences": [
+    {
+      "ja": "私の町は東京の北に<b>位置</b>します。",
+      "hrkt": "わたし の まち は とうきょう の きた に <b>いち</b> します。",
+      "latn": "watashi no machi ha toukyou no kita ni <b>ichi</b> shimasu.",
+      "en": "My town is located north of Tokyo.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5471118.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00475A.mp3"
+    },
+    {
+      "ja": "ホテルの正しい<b>位置</b>が分かりません。",
+      "hrkt": "ホテル の ただしい <b>いち</b> が わかりません。",
+      "latn": "hoteru no tadashii <b>ichi</b> ga wakarimasen.",
+      "en": "I don't know the exact location of the hotel.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/550fbq6j9s.mp3"
+    }
+  ]
+}

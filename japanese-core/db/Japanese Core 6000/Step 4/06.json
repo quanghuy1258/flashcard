@@ -1,0 +1,18 @@
+{
+  "ja": "浜辺",
+  "hrkt": "はまべ",
+  "latn": "hamabe",
+  "en": "beach, area around the seashore",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02392A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>浜辺</b>できれいな貝がらを拾いました。",
+      "hrkt": "<b>はまべ</b> で きれいな かいがら を ひろいました。",
+      "latn": "<b>hamabe</b> de kireina kaigara wo hiroimashita.",
+      "en": "I picked up a beautiful shell on the beach.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02392A.mp3"
+    }
+  ]
+}

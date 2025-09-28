@@ -1,0 +1,18 @@
+{
+  "ja": "縮小",
+  "hrkt": "しゅくしょう",
+  "latn": "shukushou",
+  "en": "reduction, cutdown",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00607A.mp3",
+  "sentences": [
+    {
+      "ja": "これを<b>縮小</b>して印刷してください。",
+      "hrkt": "これ を <b>しゅくしょう</b> して いんさつ して ください。",
+      "latn": "kore wo <b>shukushou</b> shite insatsu shite kudasai.",
+      "en": "Please print this after reducing its size.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00607A.mp3"
+    }
+  ]
+}

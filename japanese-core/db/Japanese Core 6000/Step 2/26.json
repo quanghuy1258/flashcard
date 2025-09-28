@@ -1,0 +1,18 @@
+{
+  "ja": "進路",
+  "hrkt": "しんろ",
+  "latn": "shinro",
+  "en": "route, path",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01441A.mp3",
+  "sentences": [
+    {
+      "ja": "卒業後の<b>進路</b>を迷っています。",
+      "hrkt": "そつぎょう ご の <b>しんろ</b> を まよって います。",
+      "latn": "sotsugyou go no <b>shinro</b> wo mayotte imasu.",
+      "en": "I'm having a hard time deciding what path I'll take after graduation.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01441A.mp3"
+    }
+  ]
+}

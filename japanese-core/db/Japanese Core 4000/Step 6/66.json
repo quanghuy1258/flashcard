@@ -1,0 +1,18 @@
+{
+  "ja": "クラシック",
+  "hrkt": "クラシック",
+  "latn": "kurashikku",
+  "en": "classical music, the classics",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02346A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>クラシック</b>音楽が好きです。",
+      "hrkt": "かのじょ は <b>クラシック</b> おんがく が すき です。",
+      "latn": "kanojo ha <b>kurashikku</b> ongaku ga suki desu.",
+      "en": "She likes classical music.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02346A.mp3"
+    }
+  ]
+}

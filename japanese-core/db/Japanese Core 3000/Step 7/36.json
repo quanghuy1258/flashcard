@@ -1,0 +1,18 @@
+{
+  "ja": "体温計",
+  "hrkt": "たいおんけい",
+  "latn": "taionkei",
+  "en": "(clinical) thermometer",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03227A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>体温計</b>が壊れてしまった。",
+      "hrkt": "<b>たいおんけい</b> が こわれて しまった。",
+      "latn": "<b>taionkei</b> ga kowarete shimatta.",
+      "en": "The clinical thermometer has broken.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d5dlf71p4k.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03227A.mp3"
+    }
+  ]
+}

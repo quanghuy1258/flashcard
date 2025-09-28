@@ -1,0 +1,18 @@
+{
+  "ja": "海洋",
+  "hrkt": "かいよう",
+  "latn": "kaiyou",
+  "en": "ocean, sea",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01598A.mp3",
+  "sentences": [
+    {
+      "ja": "その昔、航海士たちは未踏の地を求め<b>海洋</b>に乗り出しました。",
+      "hrkt": "その むかし 、 こうかい し たち は みとう の ち を もとめ <b>かいよう</b> に のりだしました 。",
+      "latn": "sono mukashi , koukai shi tachi ha mitou no chi wo motome <b>kaiyou</b> ni noridashimashita .",
+      "en": "In the past, sailors ventured into the ocean in search of unexplored lands.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01598A.mp3"
+    }
+  ]
+}

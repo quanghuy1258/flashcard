@@ -1,0 +1,26 @@
+{
+  "ja": "いかが",
+  "hrkt": "いかが",
+  "latn": "ikaga",
+  "en": "how (polite)",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00362A.mp3",
+  "sentences": [
+    {
+      "ja": "お加減は<b>いかが</b>ですか。",
+      "hrkt": "おかげん は <b>いかが</b> です か。",
+      "latn": "okagen ha <b>ikaga</b> desu ka.",
+      "en": "How are you feeling?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5218263.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00362A.mp3"
+    },
+    {
+      "ja": "来週の水曜日はご都合<b>いかが</b>ですか。",
+      "hrkt": "らいしゅう の すいようび は ごつごう <b>いかが</b> です か。",
+      "latn": "raishuu no suiyoubi ha gotsugou <b>ikaga</b> desu ka.",
+      "en": "How about next Wednesday?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a569867cu0.mp3"
+    }
+  ]
+}

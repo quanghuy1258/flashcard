@@ -1,0 +1,26 @@
+{
+  "ja": "顎",
+  "hrkt": "あご",
+  "latn": "ago",
+  "en": "jaw, chin",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00098A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>顎</b>が痛い。",
+      "hrkt": "<b>あご</b> が いたい。",
+      "latn": "<b>ago</b> ga itai.",
+      "en": "My jaw hurts.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4846353.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00098A.mp3"
+    },
+    {
+      "ja": "<b>顎</b>にごはんが付いていますよ。",
+      "hrkt": "<b>あご</b> に ごはん が ついて います よ 。",
+      "latn": "<b>ago</b> ni gohan ga tsuite imasu yo .",
+      "en": "You've got (a grain of) rice on your chin.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/76244ic76k.mp3"
+    }
+  ]
+}

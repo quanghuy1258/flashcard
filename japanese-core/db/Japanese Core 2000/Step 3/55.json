@@ -1,0 +1,26 @@
+{
+  "ja": "冷蔵庫",
+  "hrkt": "れいぞうこ",
+  "latn": "reizouko",
+  "en": "refrigerator",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09911A.mp3",
+  "sentences": [
+    {
+      "ja": "飲み物は<b>冷蔵庫</b>にあります。",
+      "hrkt": "のみもの は <b>れいぞうこ</b> に あります。",
+      "latn": "nomimono ha <b>reizouko</b> ni arimasu.",
+      "en": "Drinks are in the refrigerator.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3135661.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09911A.mp3"
+    },
+    {
+      "ja": "<b>冷蔵庫</b>が故障しました。",
+      "hrkt": "<b>れいぞうこ</b> が こしょう しました。",
+      "latn": "<b>reizouko</b> ga koshou shimashita.",
+      "en": "The refrigerator broke down.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4077919.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03117A.mp3"
+    }
+  ]
+}

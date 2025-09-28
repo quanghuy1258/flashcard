@@ -1,0 +1,18 @@
+{
+  "ja": "農業",
+  "hrkt": "のうぎょう",
+  "latn": "nougyou",
+  "en": "agriculture",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07056A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>農業</b>を勉強しています。",
+      "hrkt": "わたし は <b>のうぎょう</b> を べんきょう して います。",
+      "latn": "watashi ha <b>nougyou</b> wo benkyou shite imasu.",
+      "en": "I'm studying agriculture.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a607bpdibc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07056A.mp3"
+    }
+  ]
+}

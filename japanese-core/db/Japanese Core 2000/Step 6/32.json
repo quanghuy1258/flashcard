@@ -1,0 +1,26 @@
+{
+  "ja": "ワイシャツ",
+  "hrkt": "ワイシャツ",
+  "latn": "waishatsu",
+  "en": "business shirt, dress shirt",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09995A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は白い<b>ワイシャツ</b>を着ている。",
+      "hrkt": "かれ は しろい <b>ワイシャツ</b> を きて いる。",
+      "latn": "kare ha shiroi <b>waishatsu</b> wo kite iru.",
+      "en": "He's wearing a white shirt.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5594783.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09995A.mp3"
+    },
+    {
+      "ja": "父はいつも<b>ワイシャツ</b>にネクタイで会社に行きます。",
+      "hrkt": "ちち は いつも <b>ワイシャツ</b> に ネクタイ で かいしゃ に いきます。",
+      "latn": "chichi ha itsumo <b>waishatsu</b> ni nekutai de kaisha ni ikimasu.",
+      "en": "My father always wears a shirt and a tie to work.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a6242j524g.mp3"
+    }
+  ]
+}

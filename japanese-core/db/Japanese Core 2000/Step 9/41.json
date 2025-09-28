@@ -1,0 +1,26 @@
+{
+  "ja": "昼過ぎ",
+  "hrkt": "ひるすぎ",
+  "latn": "hirusugi",
+  "en": "early afternoon",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07897A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>昼過ぎ</b>まで寝ていた。",
+      "hrkt": "きょう は <b>ひる すぎ</b> まで ねて いた。",
+      "latn": "kyou ha <b>hiru sugi</b> made nete ita.",
+      "en": "Today I slept until after midday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4554364.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07897A.mp3"
+    },
+    {
+      "ja": "彼は<b>昼過ぎ</b>に来ます。",
+      "hrkt": "かれ は <b>ひる すぎ</b> に きます。",
+      "latn": "kare ha <b>hiru sugi</b> ni kimasu.",
+      "en": "He'll come after lunch.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5009059.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02541A.mp3"
+    }
+  ]
+}

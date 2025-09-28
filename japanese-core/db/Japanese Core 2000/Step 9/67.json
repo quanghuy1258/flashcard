@@ -1,0 +1,26 @@
+{
+  "ja": "温泉",
+  "hrkt": "おんせん",
+  "latn": "onsen",
+  "en": "hot spring",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03564A.mp3",
+  "sentences": [
+    {
+      "ja": "ここの<b>温泉</b>はよく効くそうです。",
+      "hrkt": "ここ の <b>おんせん</b> は よく きく そう です。",
+      "latn": "koko no <b>onsen</b> ha yoku kiku sou desu.",
+      "en": "I hear this hot spring is very effective.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4092666.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03564A.mp3"
+    },
+    {
+      "ja": "この<b>温泉</b>はただです。",
+      "hrkt": "この <b>おんせん</b> は ただ です。",
+      "latn": "kono <b>onsen</b> ha tada desu.",
+      "en": "This hot spring is free.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4092666.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05344A.mp3"
+    }
+  ]
+}

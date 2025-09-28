@@ -1,0 +1,18 @@
+{
+  "ja": "要点",
+  "hrkt": "ようてん",
+  "latn": "youten",
+  "en": "main point, gist",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02955A.mp3",
+  "sentences": [
+    {
+      "ja": "話の<b>要点</b>だけ教えてください。",
+      "hrkt": "はなし の <b>ようてん</b> だけ おしえて ください。",
+      "latn": "hanashi no <b>youten</b> dake oshiete kudasai.",
+      "en": "Please tell me just the main point of the talk.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02955A.mp3"
+    }
+  ]
+}

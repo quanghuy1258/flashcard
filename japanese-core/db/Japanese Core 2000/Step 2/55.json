@@ -1,0 +1,26 @@
+{
+  "ja": "ボール",
+  "hrkt": "ボール",
+  "latn": "bo-ru",
+  "en": "ball",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08477A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>ボール</b>を投げた。",
+      "hrkt": "かれ は <b>ボール</b> を なげた。",
+      "latn": "kare ha <b>bo-ru</b> wo nageta.",
+      "en": "He threw the ball.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1802365.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08477A.mp3"
+    },
+    {
+      "ja": "<b>ボール</b>が彼の頭に当たった。",
+      "hrkt": "<b>ボール</b> が かれ の あたま に あたった。",
+      "latn": "<b>bo-ru</b> ga kare no atama ni atatta.",
+      "en": "The ball hit him on the head.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5507984.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00151A.mp3"
+    }
+  ]
+}

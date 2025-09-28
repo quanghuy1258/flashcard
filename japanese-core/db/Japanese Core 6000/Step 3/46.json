@@ -1,0 +1,18 @@
+{
+  "ja": "侵す",
+  "hrkt": "おかす",
+  "latn": "okasu",
+  "en": "infringe, violate",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02805A.mp3",
+  "sentences": [
+    {
+      "ja": "他人の権利を<b>侵して</b>はなりません。",
+      "hrkt": "たにん の けんり を <b>おかして</b> は なりません。",
+      "latn": "tanin no kenri wo <b>okashite</b> ha narimasen.",
+      "en": "You shouldn't infringe on other people's rights.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02805A.mp3"
+    }
+  ]
+}

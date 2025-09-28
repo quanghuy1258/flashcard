@@ -1,0 +1,18 @@
+{
+  "ja": "持ち物",
+  "hrkt": "もちもの",
+  "latn": "mochimono",
+  "en": "one's belongings",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02462A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>持ち物</b>には名前を書いてください。",
+      "hrkt": "<b>もち</b>もの に は なまえ を かいて ください。",
+      "latn": "<b>mochi</b>mono ni ha namae wo kaite kudasai.",
+      "en": "Please write your name on your belongings.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d18bf1dipc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02462A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "自殺",
+  "hrkt": "じさつ",
+  "latn": "jisatsu",
+  "en": "suicide",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00848A.mp3",
+  "sentences": [
+    {
+      "ja": "犯人は警察に捕まる前に<b>自殺</b>しました。",
+      "hrkt": "はんにん は けいさつ に つかまる まえ に <b>じさつ</b> しました。",
+      "latn": "hannin ha keisatsu ni tsukamaru mae ni <b>jisatsu</b> shimashita.",
+      "en": "The criminal committed suicide before he was caught by the police.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00848A.mp3"
+    }
+  ]
+}

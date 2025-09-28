@@ -1,0 +1,18 @@
+{
+  "ja": "死者",
+  "hrkt": "ししゃ",
+  "latn": "shisha",
+  "en": "dead person",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00622A.mp3",
+  "sentences": [
+    {
+      "ja": "その事故で30人の<b>死者</b>が出た。",
+      "hrkt": "その じこ で 30 にん の <b>ししゃ</b> が でた。",
+      "latn": "sono jiko de 30 nin no <b>shisha</b> ga deta.",
+      "en": "Thirty people died in the accident.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b3030u9dc0.mp3"
+    }
+  ]
+}

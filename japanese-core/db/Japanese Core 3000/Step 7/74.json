@@ -1,0 +1,18 @@
+{
+  "ja": "寝かす",
+  "hrkt": "ねかす",
+  "latn": "nekasu",
+  "en": "put (someone) to bed",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03098A.mp3",
+  "sentences": [
+    {
+      "ja": "いつも9時に子供を<b>寝かします</b>。",
+      "hrkt": "いつも 9 じ に こども を <b> ねかします</b> 。",
+      "latn": "itsumo 9 ji ni kodomo wo <b> nekashimasu</b> .",
+      "en": "I always put my kid to bed at nine o'clock.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/552aab34hc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03098A.mp3"
+    }
+  ]
+}

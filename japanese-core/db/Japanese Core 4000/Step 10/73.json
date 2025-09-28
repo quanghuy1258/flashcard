@@ -1,0 +1,18 @@
+{
+  "ja": "効力",
+  "hrkt": "こうりょく",
+  "latn": "kouryoku",
+  "en": "effect, validity",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02324A.mp3",
+  "sentences": [
+    {
+      "ja": "その薬は<b>効力</b>が強いよ。",
+      "hrkt": "その くすり は <b>こうりょく</b> が つよい よ。",
+      "latn": "sono kusuri ha <b>kouryoku</b> ga tsuyoi yo.",
+      "en": "The medicine takes effect quickly.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02324A.mp3"
+    }
+  ]
+}

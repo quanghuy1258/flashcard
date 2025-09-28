@@ -1,0 +1,18 @@
+{
+  "ja": "器",
+  "hrkt": "うつわ",
+  "latn": "utsuwa",
+  "en": "dish",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02594A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>器</b>は上等ね。",
+      "hrkt": "この <b>うつわ</b> は じょうとう ね。",
+      "latn": "kono <b>utsuwa</b> ha joutou ne.",
+      "en": "This dish is high quality.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02594A.mp3"
+    }
+  ]
+}

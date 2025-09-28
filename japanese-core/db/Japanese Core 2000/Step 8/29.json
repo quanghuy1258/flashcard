@@ -1,0 +1,26 @@
+{
+  "ja": "すき焼き",
+  "hrkt": "すきやき",
+  "latn": "sukiyaki",
+  "en": "sukiyaki",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04538A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日の夜は<b>すき焼き</b>を食べた。",
+      "hrkt": "きのう の よる は <b>すきやき</b> を たべた。",
+      "latn": "kinou no yoru ha <b>sukiyaki</b> wo tabeta.",
+      "en": "I had sukiyaki last night.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5772949.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04538A.mp3"
+    },
+    {
+      "ja": "<b>すき焼き</b>にはしょうゆと砂糖を使います。",
+      "hrkt": "<b>すきやき</b> に は しょうゆ と さとう を つかいます。",
+      "latn": "<b>sukiyaki</b> ni ha shouyu to satou wo tsukaimasu.",
+      "en": "For sukiyaki, we use soy sauce and sugar.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/421k2lakm4.mp3"
+    }
+  ]
+}

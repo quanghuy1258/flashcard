@@ -1,0 +1,18 @@
+{
+  "ja": "学期",
+  "hrkt": "がっき",
+  "latn": "gakki",
+  "en": "school term, semester",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01728A.mp3",
+  "sentences": [
+    {
+      "ja": "新<b>学期</b>が始まったね。",
+      "hrkt": "しん <b>がっき</b> が はじまった ね。",
+      "latn": "shin <b>gakki</b> ga hajimatta ne.",
+      "en": "A new semester has started.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01728A.mp3"
+    }
+  ]
+}

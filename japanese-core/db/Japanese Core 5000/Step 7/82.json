@@ -1,0 +1,18 @@
+{
+  "ja": "引きずる",
+  "hrkt": "ひきずる",
+  "latn": "hikizuru",
+  "en": "drag along, dwell on",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02201A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はまだ失恋を<b>引きずって</b>います。",
+      "hrkt": "かれ は まだ しつれん を <b>ひきずって</b> います。",
+      "latn": "kare ha mada shitsuren wo <b>hikizutte</b> imasu.",
+      "en": "He's still dwelling on the breakup.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02201A.mp3"
+    }
+  ]
+}

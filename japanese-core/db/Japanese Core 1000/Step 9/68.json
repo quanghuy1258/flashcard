@@ -1,0 +1,26 @@
+{
+  "ja": "殺す",
+  "hrkt": "ころす",
+  "latn": "korosu",
+  "en": "kill",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03235A.mp3",
+  "sentences": [
+    {
+      "ja": "私は生き物を<b>殺す</b>のが嫌いだ。",
+      "hrkt": "わたし は いきもの を <b>ころす</b> の が きらい だ。",
+      "latn": "watashi ha ikimono wo <b>korosu</b> no ga kirai da.",
+      "en": "I hate killing living things.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3110420.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03235A.mp3"
+    },
+    {
+      "ja": "そこのゴキブリを<b>殺して</b>ください！",
+      "hrkt": "そこ の ゴキブリ を <b>ころして</b> ください！",
+      "latn": "soko no gokiburi wo <b>koroshite</b> kudasai!",
+      "en": "Please kill the cockroach there!",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/63017364p8.mp3"
+    }
+  ]
+}

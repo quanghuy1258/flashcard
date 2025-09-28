@@ -1,0 +1,18 @@
+{
+  "ja": "抜く",
+  "hrkt": "ぬく",
+  "latn": "nuku",
+  "en": "pull (something) out",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01089A.mp3",
+  "sentences": [
+    {
+      "ja": "ワインのコルクを<b>抜きました</b>。",
+      "hrkt": "ワイン の コルク を <b>ぬきました</b>。",
+      "latn": "wain no koruku wo <b>nukimashita</b>.",
+      "en": "I uncorked the wine.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a47a6s91tg.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01089A.mp3"
+    }
+  ]
+}

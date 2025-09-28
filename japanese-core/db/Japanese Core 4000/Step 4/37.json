@@ -1,0 +1,18 @@
+{
+  "ja": "底",
+  "hrkt": "そこ",
+  "latn": "soko",
+  "en": "bottom, depth",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00758A.mp3",
+  "sentences": [
+    {
+      "ja": "コップの<b>底</b>が濡れていますよ。",
+      "hrkt": "コップ の <b>そこ</b> が ぬれて います よ。",
+      "latn": "koppu no <b>soko</b> ga nurete imasu yo.",
+      "en": "The bottom of the glass is wet.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00758A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "一緒に",
+  "hrkt": "いっしょに",
+  "latn": "isshoni",
+  "en": "together, at the same time",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00522A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>一緒に</b>帰りましょう。",
+      "hrkt": "<b>いっしょ に</b> かえりましょう。",
+      "latn": "<b>issho ni</b> kaerimashou.",
+      "en": "Let's go home together.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5804211.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00522A.mp3"
+    },
+    {
+      "ja": "もちろん<b>一緒に</b>行きます。",
+      "hrkt": "もちろん <b>いっしょ に</b> いきます。",
+      "latn": "mochiron <b>issho ni</b> ikimasu.",
+      "en": "Of course I'll go with you.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5933808.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09290A.mp3"
+    }
+  ]
+}

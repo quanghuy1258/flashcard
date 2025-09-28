@@ -1,0 +1,18 @@
+{
+  "ja": "株式",
+  "hrkt": "かぶしき",
+  "latn": "kabushiki",
+  "en": "stock",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00165A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>株式</b>の売買で多額の利益を得たのさ。",
+      "hrkt": "かれ は <b>かぶしき</b> の ばいばい で たがく の りえき を えた の さ。",
+      "latn": "kare ha <b>kabushiki</b> no baibai de tagaku no rieki wo eta no sa.",
+      "en": "He made a large profit by buying and selling stocks.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00165A.mp3"
+    }
+  ]
+}

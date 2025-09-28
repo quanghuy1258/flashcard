@@ -1,0 +1,26 @@
+{
+  "ja": "促す",
+  "hrkt": "うながす",
+  "latn": "unagasu",
+  "en": "encourage, urge",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00907A.mp3",
+  "sentences": [
+    {
+      "ja": "事故現場に近づかないよう、警官が注意を<b>促して</b>いる。",
+      "hrkt": "じこ げんば に ちかづかない よう、けいかん が ちゅうい を <b>うながして</b> いる。",
+      "latn": "jiko genba ni chikazukanai you,keikan ga chuui wo <b>unagashite</b> iru.",
+      "en": "The police is urging people not to go close to the site of the accident.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/331l4gds3c.mp3"
+    },
+    {
+      "ja": "運動は子供の成長を<b>促します</b>。",
+      "hrkt": "うんどう は こども の せいちょう を <b>うながします</b>。",
+      "latn": "undou ha kodomo no seichou wo <b>unagashimasu</b>.",
+      "en": "Exercise stimulates children's growth.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/852n1i4kr4.mp3"
+    }
+  ]
+}

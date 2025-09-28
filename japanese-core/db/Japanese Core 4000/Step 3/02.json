@@ -1,0 +1,18 @@
+{
+  "ja": "叫ぶ",
+  "hrkt": "さけぶ",
+  "latn": "sakebu",
+  "en": "shout, cry out",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03638A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は助けを求めて大声で<b>叫んだ</b>の。",
+      "hrkt": "かのじょ は たすけ を もとめて おおごえ で <b>さけんだ</b> の。",
+      "latn": "kanojo ha tasuke wo motomete oogoe de <b>sakenda</b> no.",
+      "en": "She cried out for help.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03638A.mp3"
+    }
+  ]
+}

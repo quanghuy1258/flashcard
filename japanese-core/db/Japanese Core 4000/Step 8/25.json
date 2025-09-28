@@ -1,0 +1,18 @@
+{
+  "ja": "裏切る",
+  "hrkt": "うらぎる",
+  "latn": "uragiru",
+  "en": "betray",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01872A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は仲間を<b>裏切った</b>の。",
+      "hrkt": "かれ は なかま を <b>うらぎった</b> の。",
+      "latn": "kare ha nakama wo <b>uragitta</b> no.",
+      "en": "He betrayed his friends.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01872A.mp3"
+    }
+  ]
+}

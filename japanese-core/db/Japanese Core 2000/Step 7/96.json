@@ -1,0 +1,26 @@
+{
+  "ja": "イヤリング",
+  "hrkt": "イヤリング",
+  "latn": "iyaringu",
+  "en": "earrings",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00597A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はすてきな<b>イヤリング</b>をしている。",
+      "hrkt": "かのじょ は すてきな <b>イヤリング</b> を して いる。",
+      "latn": "kanojo ha sutekina <b>iyaringu</b> wo shite iru.",
+      "en": "She's wearing beautiful earrings.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4240673.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00597A.mp3"
+    },
+    {
+      "ja": "妻の誕生日に銀の<b>イヤリング</b>を買いました。",
+      "hrkt": "つま の たんじょうび に ぎん の <b>イヤリング</b> を かいました。",
+      "latn": "tsuma no tanjoubi ni gin no <b>iyaringu</b> wo kaimashita.",
+      "en": "I bought silver earrings for my wife's birthday.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f58b7ea77k.mp3"
+    }
+  ]
+}

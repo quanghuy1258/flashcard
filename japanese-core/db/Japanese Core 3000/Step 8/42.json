@@ -1,0 +1,18 @@
+{
+  "ja": "資料",
+  "hrkt": "しりょう",
+  "latn": "shiryou",
+  "en": "materials, data",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00183A.mp3",
+  "sentences": [
+    {
+      "ja": "図書館で<b>資料</b>を借りてきました。",
+      "hrkt": "としょかん で <b>しりょう</b> を かりて きました 。",
+      "latn": "toshokan de <b>shiryou</b> wo karite kimashita .",
+      "en": "I borrowed some materials from the library.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/64203ubo48.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00183A.mp3"
+    }
+  ]
+}

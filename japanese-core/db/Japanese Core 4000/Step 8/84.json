@@ -1,0 +1,18 @@
+{
+  "ja": "乗客",
+  "hrkt": "じょうきゃく",
+  "latn": "joukyaku",
+  "en": "passenger",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03664A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>乗客</b>の一人の具合が悪くなったの。",
+      "hrkt": "<b>じょうきゃく</b> の ひとり の ぐあい が わるく なった の。",
+      "latn": "<b>joukyaku</b> no hitori no guai ga waruku natta no.",
+      "en": "One of the passengers fell sick.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03664A.mp3"
+    }
+  ]
+}

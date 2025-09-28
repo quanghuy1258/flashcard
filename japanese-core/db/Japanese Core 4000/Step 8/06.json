@@ -1,0 +1,18 @@
+{
+  "ja": "倉庫",
+  "hrkt": "そうこ",
+  "latn": "souko",
+  "en": "warehouse, storehouse",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00849A.mp3",
+  "sentences": [
+    {
+      "ja": "この荷物を<b>倉庫</b>に運びましょう。",
+      "hrkt": "この にもつ を <b>そうこ</b> に はこびましょう。",
+      "latn": "kono nimotsu wo <b>souko</b> ni hakobimashou.",
+      "en": "Let's take these packages to the warehouse.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00849A.mp3"
+    }
+  ]
+}

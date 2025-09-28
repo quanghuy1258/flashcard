@@ -1,0 +1,18 @@
+{
+  "ja": "町外れ",
+  "hrkt": "まちはずれ",
+  "latn": "machihazure",
+  "en": "outskirts of town",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03319A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>町外れ</b>の工場で働いているよ。",
+      "hrkt": "かのじょ は <b>まち はずれ</b> の こうじょう で はたらいて いる よ。",
+      "latn": "kanojo ha <b>machi hazure</b> no koujou de hataraite iru yo.",
+      "en": "She's working in a factory on the outskirts of town.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03319A.mp3"
+    }
+  ]
+}

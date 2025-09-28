@@ -1,0 +1,18 @@
+{
+  "ja": "応募",
+  "hrkt": "おうぼ",
+  "latn": "oubo",
+  "en": "application (for a job, etc.)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00885A.mp3",
+  "sentences": [
+    {
+      "ja": "求人に多数の<b>応募</b>があった。",
+      "hrkt": "きゅうじん に たすう の <b>おうぼ</b> が あった。",
+      "latn": "kyuujin ni tasuu no <b>oubo</b> ga atta.",
+      "en": "There were a lot of applications for the job opening.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00885A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "漢字",
+  "hrkt": "かんじ",
+  "latn": "kanji",
+  "en": "Chinese character",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01907A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>漢字</b>は中国からきました。",
+      "hrkt": "<b>かんじ</b> は ちゅうごく から きました 。",
+      "latn": "<b>kanji</b> ha chuugoku kara kimashita .",
+      "en": "Kanji came from China.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5169858.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01907A.mp3"
+    },
+    {
+      "ja": "この<b>漢字</b>の読み方を教えてください。",
+      "hrkt": "この <b>かんじ</b> の よみかた を おしえて ください。",
+      "latn": "kono <b>kanji</b> no yomikata wo oshiete kudasai.",
+      "en": "Please tell me how to read this Chinese character.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5391266.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09727A.mp3"
+    }
+  ]
+}

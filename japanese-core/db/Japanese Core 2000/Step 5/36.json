@@ -1,0 +1,26 @@
+{
+  "ja": "乗り物",
+  "hrkt": "のりもの",
+  "latn": "norimono",
+  "en": "vehicle, transportation",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07131A.mp3",
+  "sentences": [
+    {
+      "ja": "自転車は便利な<b>乗り物</b>です。",
+      "hrkt": "じてんしゃ は べんりな <b>のりもの</b> です。",
+      "latn": "jitensha ha benrina <b>norimono</b> desu.",
+      "en": "Bicycles are a convenient form of transport.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6065227.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07131A.mp3"
+    },
+    {
+      "ja": "私の息子は<b>乗り物</b>のおもちゃが大好きです。",
+      "hrkt": "わたし の むすこ は <b>のりもの</b> の おもちゃ が だいすき です。",
+      "latn": "watashi no musuko ha <b>norimono</b> no omocha ga daisuki desu.",
+      "en": "My son loves toy vehicles.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/86fbfkf8g8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "血",
+  "hrkt": "ち",
+  "latn": "chi",
+  "en": "blood (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05548A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>血</b>が出ていますよ。",
+      "hrkt": "<b>ち</b> が でて います よ。",
+      "latn": "<b>chi</b> ga dete imasu yo.",
+      "en": "You're bleeding.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/871021.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05548A.mp3"
+    },
+    {
+      "ja": "彼は<b>血</b>を見て驚いた。",
+      "hrkt": "かれ は <b>ち</b> を みて おどろいた。",
+      "latn": "kare ha <b>chi</b> wo mite odoroita.",
+      "en": "He was surprised to see blood.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3100715.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01158A.mp3"
+    }
+  ]
+}

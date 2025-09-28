@@ -1,0 +1,26 @@
+{
+  "ja": "くれる",
+  "hrkt": "くれる",
+  "latn": "kureru",
+  "en": "be given",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02561A.mp3",
+  "sentences": [
+    {
+      "ja": "友達が誕生日プレゼントを<b>くれた</b>。",
+      "hrkt": "ともだち が たんじょうび プレゼント を <b>くれた</b>。",
+      "latn": "tomodachi ga tanjoubi purezento wo <b>kureta</b>.",
+      "en": "My friend gave me a birthday present.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3997254.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02561A.mp3"
+    },
+    {
+      "ja": "父が本を<b>くれました</b>。",
+      "hrkt": "ちち が ほん を <b>くれました</b>。",
+      "latn": "chichi ga hon wo <b>kuremashita</b>.",
+      "en": "My father gave me a book.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f5a94v765o.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "言い訳",
+  "hrkt": "いいわけ",
+  "latn": "iiwake",
+  "en": "excuse",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02714A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたは<b>言い訳</b>が多すぎます。",
+      "hrkt": "あなた は <b>いいわけ</b> が おお すぎます。",
+      "latn": "anata ha <b>iiwake</b> ga oo sugimasu.",
+      "en": "You give too many excuses.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/24a4f0bghk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02714A.mp3"
+    }
+  ]
+}

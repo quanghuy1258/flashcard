@@ -1,0 +1,18 @@
+{
+  "ja": "内部",
+  "hrkt": "ないぶ",
+  "latn": "naibu",
+  "en": "interior, inner parts",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00433A.mp3",
+  "sentences": [
+    {
+      "ja": "これは機械の<b>内部</b>の問題です。",
+      "hrkt": "これ は きかい の <b>ないぶ</b> の もんだい です。",
+      "latn": "kore ha kikai no <b>naibu</b> no mondai desu.",
+      "en": "This is a problem with the internal parts of the machine.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f56ucl4qa8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00433A.mp3"
+    }
+  ]
+}

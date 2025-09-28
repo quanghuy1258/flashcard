@@ -1,0 +1,26 @@
+{
+  "ja": "火曜日",
+  "hrkt": "かようび",
+  "latn": "kayoubi",
+  "en": "Tuesday",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01793A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>火曜日</b>に会議があります。",
+      "hrkt": "<b>かようび</b> に かいぎ が あります。",
+      "latn": "<b>kayoubi</b> ni kaigi ga arimasu.",
+      "en": "There's a meeting on Tuesday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/527430.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01793A.mp3"
+    },
+    {
+      "ja": "<b>火曜日</b>は日本語の授業があります。",
+      "hrkt": "<b>かようび</b> は にほんご の じゅぎょう が あります。",
+      "latn": "<b>kayoubi</b> ha nihongo no jugyou ga arimasu.",
+      "en": "On Tuesday we have Japanese class.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/835pbh2iug.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "リットル",
+  "hrkt": "リットル",
+  "latn": "rittoru",
+  "en": "liter",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02342A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は水を2<b>リットル</b>以上飲んだわ。",
+      "hrkt": "きょう は みず を 2 <b>リットル</b> いじょう のんだ わ。",
+      "latn": "kyou ha mizu wo 2 <b>rittoru</b> ijou nonda wa.",
+      "en": "I drank more than two liters of water today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02342A.mp3"
+    }
+  ]
+}

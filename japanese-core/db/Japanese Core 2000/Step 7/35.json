@@ -1,0 +1,26 @@
+{
+  "ja": "ローマ字",
+  "hrkt": "ローマじ",
+  "latn": "ro-maji",
+  "en": "Roman alphabet",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09966A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ローマ字</b>で名前を書いてください。",
+      "hrkt": "<b>ローマじ</b> で なまえ を かいて ください。",
+      "latn": "<b>ro-maji</b> de namae wo kaite kudasai.",
+      "en": "Please write your name in Roman letters.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5059617.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09966A.mp3"
+    },
+    {
+      "ja": "この教科書は、日本語を<b>ローマ字</b>で習えます。",
+      "hrkt": "この きょうかしょ は、にほん ご を <b>ローマじ</b> で ならえます。",
+      "latn": "kono kyoukasho ha,nihon go wo <b>ro-maji</b> de naraemasu.",
+      "en": "With this textbook, you can learn Japanese in Romaji.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b3dgchdin4.mp3"
+    }
+  ]
+}

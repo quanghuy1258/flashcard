@@ -1,0 +1,26 @@
+{
+  "ja": "日",
+  "hrkt": "にち",
+  "latn": "nichi",
+  "en": "counter for days",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06841A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは先月11<b>日</b>に結婚しました。",
+      "hrkt": "わたし たち は せんげつ 11 <b>にち</b> に けっこん しました。",
+      "latn": "watashi tachi ha sengetsu 11 <b>nichi</b> ni kekkon shimashita.",
+      "en": "We got married on the 11th last month.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4187778.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06841A.mp3"
+    },
+    {
+      "ja": "彼女の誕生日は7月16<b>日</b>です。",
+      "hrkt": "かのじょ の たんじょうび は 7 がつ 16 <b>にち</b> です。",
+      "latn": "kanojo no tanjoubi ha 7 gatsu 16 <b>nichi</b> desu.",
+      "en": "Her birthday is July 16th.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5188534.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05518A.mp3"
+    }
+  ]
+}

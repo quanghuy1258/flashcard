@@ -1,0 +1,26 @@
+{
+  "ja": "安っぽい",
+  "hrkt": "やすっぽい",
+  "latn": "yasuppoi",
+  "en": "cheap-looking, tacky",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03936A.mp3",
+  "sentences": [
+    {
+      "ja": "そのシャツは<b>安っぽい</b>ね。",
+      "hrkt": "その シャツ は <b>やすっぽい</b> ね。",
+      "latn": "sono shatsu ha <b>yasuppoi</b> ne.",
+      "en": "That shirt looks cheap.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/0l9e6l0j690fc.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03936A.mp3"
+    },
+    {
+      "ja": "あの人はいつも<b>安っぽい</b>服を着ている。",
+      "hrkt": "あの ひと は いつも <b>やすっぽい</b> ふく を きて いる。",
+      "latn": "ano hito ha itsumo <b>yasuppoi</b> fuku wo kite iru.",
+      "en": "That person always wears cheap-looking clothes.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/75aa3d17bg.mp3"
+    }
+  ]
+}

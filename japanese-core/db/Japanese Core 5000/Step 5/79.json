@@ -1,0 +1,18 @@
+{
+  "ja": "出版社",
+  "hrkt": "しゅっぱんしゃ",
+  "latn": "shuppansha",
+  "en": "publishing company, publisher",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01486A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>出版社</b>で働いています。",
+      "hrkt": "かのじょ は <b>しゅっぱん しゃ</b> で はたらいて います。",
+      "latn": "kanojo ha <b>shuppan sha</b> de hataraite imasu.",
+      "en": "She works for a publisher.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01486A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "移す",
+  "hrkt": "うつす",
+  "latn": "utsusu",
+  "en": "move, transfer",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00727A.mp3",
+  "sentences": [
+    {
+      "ja": "机を窓のそばに<b>移しました</b>。",
+      "hrkt": "つくえ を まど の そば に <b>うつしました</b> 。",
+      "latn": "tsukue wo mado no soba ni <b>utsushimashita</b> .",
+      "en": "I moved the desk near the window.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4079468.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00727A.mp3"
+    },
+    {
+      "ja": "新しいパソコンにデータを<b>移しました</b>。",
+      "hrkt": "あたらしい パソコン に データ を <b>うつしました</b>。",
+      "latn": "atarashii pasokon ni de-ta wo <b>utsushimashita</b>.",
+      "en": "I transferred the data to the new computer.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d3av2edeu0.mp3"
+    }
+  ]
+}

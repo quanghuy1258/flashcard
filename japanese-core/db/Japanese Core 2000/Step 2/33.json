@@ -1,0 +1,26 @@
+{
+  "ja": "焼く",
+  "hrkt": "やく",
+  "latn": "yaku",
+  "en": "bake, grill",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09383A.mp3",
+  "sentences": [
+    {
+      "ja": "今、魚を<b>焼いて</b>います。",
+      "hrkt": "いま、さかな を <b>やいて</b> います。",
+      "latn": "ima,sakana wo <b>yaite</b> imasu.",
+      "en": "I'm grilling fish now.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3433829.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09383A.mp3"
+    },
+    {
+      "ja": "晩ご飯に肉を<b>焼きました</b>。",
+      "hrkt": "ばん ごはん に にく を <b>やきました</b>。",
+      "latn": "ban gohan ni niku wo <b>yakimashita</b>.",
+      "en": "I grilled meat for dinner.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/237t6gcvu8.mp3"
+    }
+  ]
+}

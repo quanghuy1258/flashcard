@@ -1,0 +1,18 @@
+{
+  "ja": "終える",
+  "hrkt": "おえる",
+  "latn": "oeru",
+  "en": "finish (something), complete (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00319A.mp3",
+  "sentences": [
+    {
+      "ja": "やっと宿題を<b>終えた</b>。",
+      "hrkt": "やっと しゅくだい を <b>おえた</b>。",
+      "latn": "yatto shukudai wo <b>oeta</b>.",
+      "en": "At last I finished my homework.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/950525264s.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00319A.mp3"
+    }
+  ]
+}

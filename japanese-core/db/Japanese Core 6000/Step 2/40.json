@@ -1,0 +1,18 @@
+{
+  "ja": "期日",
+  "hrkt": "きじつ",
+  "latn": "kijitsu",
+  "en": "due date",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02182A.mp3",
+  "sentences": [
+    {
+      "ja": "代金を<b>期日</b>までにお支払いください。",
+      "hrkt": "だいきん を <b>きじつ</b> まで に おしはらい ください。",
+      "latn": "daikin wo <b>kijitsu</b> made ni oshiharai kudasai.",
+      "en": "Please pay the fee by the due date.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02182A.mp3"
+    }
+  ]
+}

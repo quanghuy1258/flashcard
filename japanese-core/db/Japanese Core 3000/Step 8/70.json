@@ -1,0 +1,18 @@
+{
+  "ja": "編集",
+  "hrkt": "へんしゅう",
+  "latn": "henshuu",
+  "en": "editing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01061A.mp3",
+  "sentences": [
+    {
+      "ja": "私は雑誌の<b>編集</b>の仕事をしています。",
+      "hrkt": "わたし は ざっし の <b>へんしゅう</b> の しごと を して います。",
+      "latn": "watashi ha zasshi no <b>henshuu</b> no shigoto wo shite imasu.",
+      "en": "I work as a magazine editor.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/6480fk1v40.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01061A.mp3"
+    }
+  ]
+}

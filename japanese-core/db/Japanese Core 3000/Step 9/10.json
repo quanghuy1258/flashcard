@@ -1,0 +1,18 @@
+{
+  "ja": "目指す",
+  "hrkt": "めざす",
+  "latn": "mezasu",
+  "en": "aim for",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00459A.mp3",
+  "sentences": [
+    {
+      "ja": "私は料理人を<b>目指して</b>います。",
+      "hrkt": "わたし は りょうり にん を <b>めざして</b> います。",
+      "latn": "watashi ha ryouri nin wo <b>mezashite</b> imasu.",
+      "en": "I intend to become a cook.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/54e3b41go0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00459A.mp3"
+    }
+  ]
+}

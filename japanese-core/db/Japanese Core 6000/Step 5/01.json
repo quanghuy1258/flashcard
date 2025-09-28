@@ -1,0 +1,18 @@
+{
+  "ja": "ミスプリント",
+  "hrkt": "ミスプリント",
+  "latn": "misupurinto",
+  "en": "misprint",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03902A.mp3",
+  "sentences": [
+    {
+      "ja": "資料に<b>ミスプリント</b>がありました。",
+      "hrkt": "しりょう に <b>ミス プリント</b> が ありました。",
+      "latn": "shiryou ni <b>misu purinto</b> ga arimashita.",
+      "en": "There was a misprint in the handout.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03902A.mp3"
+    }
+  ]
+}

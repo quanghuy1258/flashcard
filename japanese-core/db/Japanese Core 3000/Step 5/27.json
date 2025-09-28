@@ -1,0 +1,18 @@
+{
+  "ja": "カラオケ",
+  "hrkt": "カラオケ",
+  "latn": "karaoke",
+  "en": "karaoke",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01918A.mp3",
+  "sentences": [
+    {
+      "ja": "会社帰りに仲間と<b>カラオケ</b>に行きました。",
+      "hrkt": "かいしゃ がえり に なかま と <b>カラオケ</b> に いきました。",
+      "latn": "kaisha gaeri ni nakama to <b>karaoke</b> ni ikimashita.",
+      "en": "I went to karaoke with my colleagues after work.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/432hbjckdo.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01918A.mp3"
+    }
+  ]
+}

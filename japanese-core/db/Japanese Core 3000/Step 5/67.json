@@ -1,0 +1,18 @@
+{
+  "ja": "キャベツ",
+  "hrkt": "キャベツ",
+  "latn": "kyabetsu",
+  "en": "cabbage",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02601A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>キャベツ</b>の千切りを添えたよ。",
+      "hrkt": "<b>キャベツ</b> の せんぎり を そえた よ。",
+      "latn": "<b>kyabetsu</b> no sengiri wo soeta yo.",
+      "en": "I garnished it with shredded cabbage.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a53q2m2n30.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02601A.mp3"
+    }
+  ]
+}

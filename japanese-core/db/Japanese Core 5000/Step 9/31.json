@@ -1,0 +1,18 @@
+{
+  "ja": "公演",
+  "hrkt": "こうえん",
+  "latn": "kouen",
+  "en": "public performance",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00699A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らの海外<b>公演</b>が発表されたよ。",
+      "hrkt": "かれら の かいがい <b>こうえん</b> が はっぴょう された よ。",
+      "latn": "karera no kaigai <b>kouen</b> ga happyou sareta yo.",
+      "en": "They have announced that they will perform overseas.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00699A.mp3"
+    }
+  ]
+}

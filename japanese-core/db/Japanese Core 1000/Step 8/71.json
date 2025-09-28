@@ -1,0 +1,26 @@
+{
+  "ja": "止む",
+  "hrkt": "やむ",
+  "latn": "yamu",
+  "en": "stop, cease",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09446A.mp3",
+  "sentences": [
+    {
+      "ja": "雨が<b>止みました</b>。",
+      "hrkt": "あめ が <b>やみました</b>。",
+      "latn": "ame ga <b>yamimashita</b>.",
+      "en": "The rain stopped.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/298144.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09446A.mp3"
+    },
+    {
+      "ja": "風は<b>止んで</b>います。",
+      "hrkt": "かぜ は <b>やんで</b> います。",
+      "latn": "kaze ha <b>yande</b> imasu.",
+      "en": "The wind has stopped blowing.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/140ff02k3g.mp3"
+    }
+  ]
+}

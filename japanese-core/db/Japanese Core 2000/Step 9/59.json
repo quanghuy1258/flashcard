@@ -1,0 +1,26 @@
+{
+  "ja": "発見",
+  "hrkt": "はっけん",
+  "latn": "hakken",
+  "en": "discovery, revelation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07368A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい星が<b>発見</b>された。",
+      "hrkt": "あたらしい ほし が <b>はっけん</b> された。",
+      "latn": "atarashii hoshi ga <b>hakken</b> sareta.",
+      "en": "A new star was discovered.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3326348.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07368A.mp3"
+    },
+    {
+      "ja": "アイスがビールに合うのは<b>発見</b>だった。",
+      "hrkt": "アイス が ビール に あう の は <b>はっけん</b> だった。",
+      "latn": "aisu ga bi-ru ni au no ha <b>hakken</b> datta.",
+      "en": "It was a discovery that ice cream goes well with beer.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/359vftepac.mp3"
+    }
+  ]
+}

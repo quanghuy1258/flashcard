@@ -1,0 +1,18 @@
+{
+  "ja": "停電",
+  "hrkt": "ていでん",
+  "latn": "teiden",
+  "en": "blackout, power failure",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01329A.mp3",
+  "sentences": [
+    {
+      "ja": "台風で<b>停電</b>したよ。",
+      "hrkt": "たいふう で <b>ていでん</b> した よ。",
+      "latn": "taifuu de <b>teiden</b> shita yo.",
+      "en": "The typhoon caused a blackout.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01329A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "間接",
+  "hrkt": "かんせつ",
+  "latn": "kansetsu",
+  "en": "indirect",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02210A.mp3",
+  "sentences": [
+    {
+      "ja": "それは<b>間接</b>的な原因の一つです。",
+      "hrkt": "それ は <b>かんせつ</b>てきな げんいん の ひとつ です。",
+      "latn": "sore ha <b>kansetsu</b>tekina genin no hitotsu desu.",
+      "en": "It's one of the indirect causes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02210A.mp3"
+    }
+  ]
+}

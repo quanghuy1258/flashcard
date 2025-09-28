@@ -1,0 +1,26 @@
+{
+  "ja": "猫",
+  "hrkt": "ねこ",
+  "latn": "neko",
+  "en": "cat",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06968A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>猫</b>が大好きです。",
+      "hrkt": "わたし は <b>ねこ</b> が だいすき です。",
+      "latn": "watashi ha <b>neko</b> ga daisuki desu.",
+      "en": "I love cats.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5861948.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06968A.mp3"
+    },
+    {
+      "ja": "庭に白い<b>猫</b>がいます。",
+      "hrkt": "にわ に しろい <b>ねこ</b> が います。",
+      "latn": "niwa ni shiroi <b>neko</b> ga imasu.",
+      "en": "There's a white cat in the garden.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/137400.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06903A.mp3"
+    }
+  ]
+}

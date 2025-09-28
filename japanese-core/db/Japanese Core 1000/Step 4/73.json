@@ -1,0 +1,26 @@
+{
+  "ja": "四日",
+  "hrkt": "よっか",
+  "latn": "yokka",
+  "en": "four days, fourth of the month",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09699A.mp3",
+  "sentences": [
+    {
+      "ja": "新学期は来月の<b>四日</b>からです。",
+      "hrkt": "しんがっき は らいげつ の <b>よっか</b> から です。",
+      "latn": "shingakki ha raigetsu no <b>yokka</b> kara desu.",
+      "en": "The new school term starts on the fourth of next month.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3999764.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09699A.mp3"
+    },
+    {
+      "ja": "私の誕生日は五月<b>四日</b>です。",
+      "hrkt": "わたし の たんじょう び は ご がつ <b>よっか</b> です。",
+      "latn": "watashi no tanjou bi ha go gatsu <b>yokka</b> desu.",
+      "en": "My birthday is May 4th.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/56407g22hs.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "平仮名",
+  "hrkt": "ひらがな",
+  "latn": "hiragana",
+  "en": "hiragana",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07881A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>平仮名</b>を全部読めます。",
+      "hrkt": "わたし は <b>ひらがな</b> を ぜんぶ よめます。",
+      "latn": "watashi ha <b>hiragana</b> wo zenbu yomemasu.",
+      "en": "I can read all hiragana.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/654571.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07881A.mp3"
+    },
+    {
+      "ja": "妹は<b>平仮名</b>を全部覚えました。",
+      "hrkt": "いもうと は <b>ひらがな</b> を ぜんぶ おぼえました。",
+      "latn": "imouto ha <b>hiragana</b> wo zenbu oboemashita.",
+      "en": "My little sister learned all the hiragana.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/379515.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01183A.mp3"
+    }
+  ]
+}

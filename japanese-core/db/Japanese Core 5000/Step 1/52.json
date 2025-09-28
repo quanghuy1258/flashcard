@@ -1,0 +1,18 @@
+{
+  "ja": "足跡",
+  "hrkt": "あしあと",
+  "latn": "ashiato",
+  "en": "footprint, footmark",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01895A.mp3",
+  "sentences": [
+    {
+      "ja": "雪の上にうさぎの<b>足跡</b>があった。",
+      "hrkt": "ゆき の うえ に うさぎ の <b>あしあと</b> が あった。",
+      "latn": "yuki no ue ni usagi no <b>ashiato</b> ga atta.",
+      "en": "There were footprints of rabbits in the snow.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01895A.mp3"
+    }
+  ]
+}

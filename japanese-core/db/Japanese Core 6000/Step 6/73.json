@@ -1,0 +1,18 @@
+{
+  "ja": "船長",
+  "hrkt": "せんちょう",
+  "latn": "senchou",
+  "en": "captain",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01748A.mp3",
+  "sentences": [
+    {
+      "ja": "私がこの船の<b>船長</b>です。",
+      "hrkt": "わたし が この ふね の <b>せんちょう</b> です。",
+      "latn": "watashi ga kono fune no <b>senchou</b> desu.",
+      "en": "I'm the captain of this ship.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01748A.mp3"
+    }
+  ]
+}

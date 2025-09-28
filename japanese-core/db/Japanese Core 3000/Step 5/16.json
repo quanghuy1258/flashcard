@@ -1,0 +1,18 @@
+{
+  "ja": "都内",
+  "hrkt": "とない",
+  "latn": "tonai",
+  "en": "in the metropolitan area of Tokyo",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00304A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の職場は<b>都内</b>にあります。",
+      "hrkt": "かれ の しょくば は <b>とない</b> に あります。",
+      "latn": "kare no shokuba ha <b>tonai</b> ni arimasu.",
+      "en": "His office is in the Tokyo metropolitan area.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f5a3d1565k.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00304A.mp3"
+    }
+  ]
+}

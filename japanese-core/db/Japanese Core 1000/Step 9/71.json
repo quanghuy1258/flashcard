@@ -1,0 +1,26 @@
+{
+  "ja": "訪ねる",
+  "hrkt": "たずねる",
+  "latn": "tazuneru",
+  "en": "visit, go to see",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05342A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はニューヨークの友達を<b>訪ねた</b>。",
+      "hrkt": "かれ は ニューヨーク の ともだち を <b>たずねた</b>。",
+      "latn": "kare ha nyu-yo-ku no tomodachi wo <b>tazuneta</b>.",
+      "en": "He visited his friend in New York.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3280249.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05342A.mp3"
+    },
+    {
+      "ja": "私は、夏休みに大阪の祖母を<b>訪ねました</b>。",
+      "hrkt": "わたし は、なつやすみ に おおさか の そぼ を <b>たずねました</b>。",
+      "latn": "watashi ha,natsuyasumi ni oosaka no sobo wo <b>tazunemashita</b>.",
+      "en": "I visited my grandmother in Osaka during the summer vacation.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/92dg9n7tjc.mp3"
+    }
+  ]
+}

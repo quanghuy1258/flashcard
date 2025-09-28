@@ -1,0 +1,18 @@
+{
+  "ja": "暮れる",
+  "hrkt": "くれる",
+  "latn": "kureru",
+  "en": "get dark",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01983A.mp3",
+  "sentences": [
+    {
+      "ja": "日が<b>暮れる</b>前に帰りましょう。",
+      "hrkt": "ひ が <b>くれる</b> まえ に かえりましょう。",
+      "latn": "hi ga <b>kureru</b> mae ni kaerimashou.",
+      "en": "Let's go home before it gets dark.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01983A.mp3"
+    }
+  ]
+}

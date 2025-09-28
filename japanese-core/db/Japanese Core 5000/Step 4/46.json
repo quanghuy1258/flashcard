@@ -1,0 +1,18 @@
+{
+  "ja": "濁る",
+  "hrkt": "にごる",
+  "latn": "nigoru",
+  "en": "become turbid, get cloudy",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02655A.mp3",
+  "sentences": [
+    {
+      "ja": "その池の水は<b>濁って</b>いるね。",
+      "hrkt": "その いけ の みず は <b>にごって</b> いる ね。",
+      "latn": "sono ike no mizu ha <b>nigotte</b> iru ne.",
+      "en": "The pond water is cloudy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02655A.mp3"
+    }
+  ]
+}

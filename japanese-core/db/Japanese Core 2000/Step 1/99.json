@@ -1,0 +1,26 @@
+{
+  "ja": "食堂",
+  "hrkt": "しょくどう",
+  "latn": "shokudou",
+  "en": "cafeteria, canteen",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04274A.mp3",
+  "sentences": [
+    {
+      "ja": "大学の<b>食堂</b>は安い。",
+      "hrkt": "だいがく の <b>しょくどう</b> は やすい。",
+      "latn": "daigaku no <b>shokudou</b> ha yasui.",
+      "en": "The university cafeteria is cheap.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4875984.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04274A.mp3"
+    },
+    {
+      "ja": "この<b>食堂</b>はセルフサービスです。",
+      "hrkt": "この <b>しょくどう</b> は セルフサービス です。",
+      "latn": "kono <b>shokudou</b> ha serufusa-bisu desu.",
+      "en": "This canteen is self-service.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/f57fcs1mus.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03086A.mp3"
+    }
+  ]
+}

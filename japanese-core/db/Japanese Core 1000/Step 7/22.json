@@ -1,0 +1,26 @@
+{
+  "ja": "海",
+  "hrkt": "うみ",
+  "latn": "umi",
+  "en": "sea, ocean",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00762A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>海</b>は広くて大きい。",
+      "hrkt": "<b>うみ</b> は ひろくて おおきい。",
+      "latn": "<b>umi</b> ha hirokute ookii.",
+      "en": "The sea is vast and wide.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4530668.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00762A.mp3"
+    },
+    {
+      "ja": "ここの<b>海</b>はとても青い。",
+      "hrkt": "ここ の <b>うみ</b> は とても あおい。",
+      "latn": "koko no <b>umi</b> ha totemo aoi.",
+      "en": "The sea here is very blue.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5274210.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00034A.mp3"
+    }
+  ]
+}

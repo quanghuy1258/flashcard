@@ -1,0 +1,18 @@
+{
+  "ja": "ミュージック",
+  "hrkt": "ミュージック",
+  "latn": "myu-jikku",
+  "en": "music (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03398A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はソウル<b>ミュージック</b>をよく聞くの。",
+      "hrkt": "かれ は ソウル <b>ミュージック</b> を よく きく の。",
+      "latn": "kare ha souru <b>myu-jikku</b> wo yoku kiku no.",
+      "en": "He often listens to soul music.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a51t6n8d50.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03398A.mp3"
+    }
+  ]
+}

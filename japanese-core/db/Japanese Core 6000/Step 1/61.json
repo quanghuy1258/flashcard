@@ -1,0 +1,18 @@
+{
+  "ja": "構える",
+  "hrkt": "かまえる",
+  "latn": "kamaeru",
+  "en": "set up, open (store etc.)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01082A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はあの通りに店を<b>構えて</b>いるの。",
+      "hrkt": "かれ は あの とおり に みせ を <b>かまえて</b> いる の。",
+      "latn": "kare ha ano toori ni mise wo <b>kamaete</b> iru no.",
+      "en": "He's set up his shop on that street.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01082A.mp3"
+    }
+  ]
+}

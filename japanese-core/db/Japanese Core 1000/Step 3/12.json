@@ -1,0 +1,26 @@
+{
+  "ja": "大学生",
+  "hrkt": "だいがくせい",
+  "latn": "daigakusei",
+  "en": "university student",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05165A.mp3",
+  "sentences": [
+    {
+      "ja": "姉は<b>大学生</b>です。",
+      "hrkt": "あね は <b>だいがくせい</b> です。",
+      "latn": "ane ha <b>daigakusei</b> desu.",
+      "en": "My big sister's a college student.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6307892.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05165A.mp3"
+    },
+    {
+      "ja": "来月から<b>大学生</b>になります。",
+      "hrkt": "らいげつ から <b>だいがくせい</b> に なります。",
+      "latn": "raigetsu kara <b>daigakusei</b> ni narimasu.",
+      "en": "I'll be a college student beginning next month.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5450525.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09765A.mp3"
+    }
+  ]
+}

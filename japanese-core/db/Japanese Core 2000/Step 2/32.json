@@ -1,0 +1,26 @@
+{
+  "ja": "豚肉",
+  "hrkt": "ぶたにく",
+  "latn": "butaniku",
+  "en": "pork",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08089A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>豚肉</b>は美味しいです。",
+      "hrkt": "<b>ぶたにく</b> は おいしい です。",
+      "latn": "<b>butaniku</b> ha oishii desu.",
+      "en": "Pork is delicious.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4031808.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08089A.mp3"
+    },
+    {
+      "ja": "今、<b>豚肉</b>が安くなっていますよ。",
+      "hrkt": "いま、 <b>ぶたにく</b> が やすく なって います よ。",
+      "latn": "ima, <b>butaniku</b> ga yasuku natte imasu yo.",
+      "en": "Now pork has become cheap.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e4d8e6ecus.mp3"
+    }
+  ]
+}

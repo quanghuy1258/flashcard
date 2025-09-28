@@ -1,0 +1,18 @@
+{
+  "ja": "手入れ",
+  "hrkt": "ていれ",
+  "latn": "teire",
+  "en": "care, repair",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02045A.mp3",
+  "sentences": [
+    {
+      "ja": "母は庭の<b>手入れ</b>をしています。",
+      "hrkt": "はは は にわ の <b>ていれ</b> を して います。",
+      "latn": "haha ha niwa no <b>teire</b> wo shite imasu.",
+      "en": "My mother's tending the garden.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02045A.mp3"
+    }
+  ]
+}

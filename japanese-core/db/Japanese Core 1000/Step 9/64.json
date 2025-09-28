@@ -1,0 +1,26 @@
+{
+  "ja": "売れる",
+  "hrkt": "うれる",
+  "latn": "ureru",
+  "en": "sell, be in demand",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00803A.mp3",
+  "sentences": [
+    {
+      "ja": "今年の夏はクーラーがよく<b>売れた</b>。",
+      "hrkt": "ことし の なつ は クーラー が よく <b>うれた</b>。",
+      "latn": "kotoshi no natsu ha ku-ra- ga yoku <b>ureta</b>.",
+      "en": "Air conditioners sold well this summer.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1853187.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00803A.mp3"
+    },
+    {
+      "ja": "この雑誌はよく<b>売れて</b>います。",
+      "hrkt": "この ざっし は よく <b>うれて</b> います。",
+      "latn": "kono zasshi ha yoku <b>urete</b> imasu.",
+      "en": "This magazine sells well.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3574734.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03454A.mp3"
+    }
+  ]
+}

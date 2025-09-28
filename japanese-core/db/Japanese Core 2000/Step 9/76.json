@@ -1,0 +1,26 @@
+{
+  "ja": "コック",
+  "hrkt": "コック",
+  "latn": "kokku",
+  "en": "cook, chef",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02447A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は腕のいい<b>コック</b>です。",
+      "hrkt": "かれ は うで の いい <b>コック</b> です。",
+      "latn": "kare ha ude no ii <b>kokku</b> desu.",
+      "en": "He is a good cook.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2929835.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02447A.mp3"
+    },
+    {
+      "ja": "あのレストランは<b>コック</b>を探しています。",
+      "hrkt": "あの レストラン は <b>コック</b> を さがして います。",
+      "latn": "ano resutoran ha <b>kokku</b> wo sagashite imasu.",
+      "en": "That restaurant is looking for a cook.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/04ce6s2r0g.mp3"
+    }
+  ]
+}

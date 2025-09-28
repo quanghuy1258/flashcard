@@ -1,0 +1,26 @@
+{
+  "ja": "準備",
+  "hrkt": "じゅんび",
+  "latn": "junbi",
+  "en": "preparation, arrangement",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04112A.mp3",
+  "sentences": [
+    {
+      "ja": "明日の会議の<b>準備</b>をした。",
+      "hrkt": "あす の かいぎ の <b>じゅんび</b> を した。",
+      "latn": "asu no kaigi no <b>junbi</b> wo shita.",
+      "en": "I prepared for tomorrow's meeting.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5521268.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04112A.mp3"
+    },
+    {
+      "ja": "先生が授業の<b>準備</b>をしています。",
+      "hrkt": "せんせい が じゅぎょう の <b>じゅんび</b> を して います。",
+      "latn": "sensei ga jugyou no <b>junbi</b> wo shite imasu.",
+      "en": "The teacher is preparing for her class.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/43es2b258c.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "お詫び",
+  "hrkt": "おわび",
+  "latn": "owabi",
+  "en": "apologize, apology",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03563A.mp3",
+  "sentences": [
+    {
+      "ja": "誤解があったことを<b>お詫び</b>します。",
+      "hrkt": "ごかい が あった こと を <b>おわび</b> します。",
+      "latn": "gokai ga atta koto wo <b>owabi</b> shimasu.",
+      "en": "I apologize for the misunderstanding.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/248o836h5g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03563A.mp3"
+    }
+  ]
+}

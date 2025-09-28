@@ -1,0 +1,26 @@
+{
+  "ja": "感じる",
+  "hrkt": "かんじる",
+  "latn": "kanjiru",
+  "en": "feel, sense",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01925A.mp3",
+  "sentences": [
+    {
+      "ja": "膝に痛みを<b>感じます</b>。",
+      "hrkt": "ひざ に いたみ を <b>かんじます</b>。",
+      "latn": "hiza ni itami wo <b>kanjimasu</b>.",
+      "en": "I feel a pain in my knee.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6238643.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01925A.mp3"
+    },
+    {
+      "ja": "彼はその仕事に大きなプレッシャーを<b>感じて</b>います。",
+      "hrkt": "かれ は その しごと に おおきな プレッシャー を <b>かんじて</b> います。",
+      "latn": "kare ha sono shigoto ni ookina puressha- wo <b>kanjite</b> imasu.",
+      "en": "He feels under a lot of pressure at work.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/571s6oe4k0.mp3"
+    }
+  ]
+}

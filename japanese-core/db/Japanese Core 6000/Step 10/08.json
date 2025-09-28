@@ -1,0 +1,18 @@
+{
+  "ja": "調べ",
+  "hrkt": "しらべ",
+  "latn": "shirabe",
+  "en": "investigation, search",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00188A.mp3",
+  "sentences": [
+    {
+      "ja": "警察の<b>調べ</b>で女性の身元がわかりました。",
+      "hrkt": "けいさつ の <b>しらべ</b> で じょせい の みもと が わかりました。",
+      "latn": "keisatsu no <b>shirabe</b> de josei no mimoto ga wakarimashita.",
+      "en": "The police investigation has uncovered the woman's identity.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00188A.mp3"
+    }
+  ]
+}

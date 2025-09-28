@@ -1,0 +1,18 @@
+{
+  "ja": "不完全",
+  "hrkt": "ふかんぜん",
+  "latn": "fukanzen",
+  "en": "imperfect, incomplete",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02310A.mp3",
+  "sentences": [
+    {
+      "ja": "このデータはまだ<b>不完全</b>ね。",
+      "hrkt": "この データ は まだ <b>ふかんぜん</b> ね。",
+      "latn": "kono de-ta ha mada <b>fukanzen</b> ne.",
+      "en": "This data is still incomplete.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02310A.mp3"
+    }
+  ]
+}

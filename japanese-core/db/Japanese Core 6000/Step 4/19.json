@@ -1,0 +1,18 @@
+{
+  "ja": "効き目",
+  "hrkt": "ききめ",
+  "latn": "kikime",
+  "en": "effectiveness, efficacy",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02722A.mp3",
+  "sentences": [
+    {
+      "ja": "この薬の<b>効き目</b>は素晴らしいの。",
+      "hrkt": "この くすり の <b>ききめ</b> は すばらしい の。",
+      "latn": "kono kusuri no <b>kikime</b> ha subarashii no.",
+      "en": "The effectiveness of this medicine is great.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02722A.mp3"
+    }
+  ]
+}

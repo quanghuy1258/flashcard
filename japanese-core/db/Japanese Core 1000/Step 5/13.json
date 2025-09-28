@@ -1,0 +1,26 @@
+{
+  "ja": "意味",
+  "hrkt": "いみ",
+  "latn": "imi",
+  "en": "meaning, sense",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00582A.mp3",
+  "sentences": [
+    {
+      "ja": "それはどういう<b>意味</b>ですか。",
+      "hrkt": "それ は どういう <b>いみ</b> です か。",
+      "latn": "sore ha douiu <b>imi</b> desu ka.",
+      "en": "What does it mean?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4922971.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00582A.mp3"
+    },
+    {
+      "ja": "この言葉の<b>意味</b>が分かりません。",
+      "hrkt": "この ことば の <b>いみ</b> が わかりません。",
+      "latn": "kono kotoba no <b>imi</b> ga wakarimasen.",
+      "en": "I don't understand the meaning of this word.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5964197.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03172A.mp3"
+    }
+  ]
+}

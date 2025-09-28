@@ -1,0 +1,26 @@
+{
+  "ja": "降りる",
+  "hrkt": "おりる",
+  "latn": "oriru",
+  "en": "get off, land",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01251A.mp3",
+  "sentences": [
+    {
+      "ja": "次の駅で<b>降ります</b>。",
+      "hrkt": "つぎ の えき で <b>おります</b>。",
+      "latn": "tsugi no eki de <b>orimasu</b>.",
+      "en": "I get off at the next station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4047118.jpg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/dlemb579mhlk8.mp3"
+    },
+    {
+      "ja": "次のバス停で<b>降ります</b>。",
+      "hrkt": "つぎ の バス てい で <b>おります</b>。",
+      "latn": "tsugi no basu tei de <b>orimasu</b>.",
+      "en": "I'll get off at the next bus stop.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6150801.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07316A.mp3"
+    }
+  ]
+}

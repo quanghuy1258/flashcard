@@ -1,0 +1,18 @@
+{
+  "ja": "未知",
+  "hrkt": "みち",
+  "latn": "michi",
+  "en": "unknown, strange",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01581A.mp3",
+  "sentences": [
+    {
+      "ja": "ここからは<b>未知</b>の領域です。",
+      "hrkt": "ここ から は <b>みち</b> の りょういき です。",
+      "latn": "koko kara ha <b>michi</b> no ryouiki desu.",
+      "en": "From here on is an unknown territory.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01581A.mp3"
+    }
+  ]
+}

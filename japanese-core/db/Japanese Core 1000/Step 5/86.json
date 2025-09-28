@@ -1,0 +1,26 @@
+{
+  "ja": "電気",
+  "hrkt": "でんき",
+  "latn": "denki",
+  "en": "electricity, electric light",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06145A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>電気</b>をつけてもらえる？",
+      "hrkt": "<b>でんき</b> を つけて もらえる？",
+      "latn": "<b>denki</b> wo tsukete moraeru?",
+      "en": "Can you turn on the light?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5822494.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06145A.mp3"
+    },
+    {
+      "ja": "部屋の<b>電気</b>が付いています。",
+      "hrkt": "へや の <b>でんき</b> が ついています 。",
+      "latn": "heya no <b>denki</b> ga tsuiteimasu .",
+      "en": "The room light is on.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4302599.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05852A.mp3"
+    }
+  ]
+}

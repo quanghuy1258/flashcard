@@ -1,0 +1,18 @@
+{
+  "ja": "診断",
+  "hrkt": "しんだん",
+  "latn": "shindan",
+  "en": "diagnosis",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01119A.mp3",
+  "sentences": [
+    {
+      "ja": "医師は異常なしと<b>診断</b>したんだ。",
+      "hrkt": "いし は いじょう なし と <b>しんだん</b> した ん だ。",
+      "latn": "ishi ha ijou nashi to <b>shindan</b> shita n da.",
+      "en": "According to the doctor's diagnosis, there was no abnormality.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/91942r2cl8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01119A.mp3"
+    }
+  ]
+}

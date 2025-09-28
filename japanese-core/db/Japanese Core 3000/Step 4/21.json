@@ -1,0 +1,18 @@
+{
+  "ja": "しょっちゅう",
+  "hrkt": "しょっちゅう",
+  "latn": "shocchuu",
+  "en": "frequently, repeatedly",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02275A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>しょっちゅう</b>遅刻しているな。",
+      "hrkt": "かれ は <b>しょっちゅう</b> ちこく して いる な。",
+      "latn": "kare ha <b>shocchuu</b> chikoku shite iru na.",
+      "en": "He is frequently late.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c5ap541dnk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02275A.mp3"
+    }
+  ]
+}

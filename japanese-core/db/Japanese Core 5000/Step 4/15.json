@@ -1,0 +1,18 @@
+{
+  "ja": "下水",
+  "hrkt": "げすい",
+  "latn": "gesui",
+  "en": "sewerage, drainage",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02347A.mp3",
+  "sentences": [
+    {
+      "ja": "その道は今、<b>下水</b>の工事をしているよ。",
+      "hrkt": "その みち は いま、<b>げすい</b> の こうじ を して いる よ。",
+      "latn": "sono michi ha ima,<b>gesui</b> no kouji wo shite iru yo.",
+      "en": "The street is now under drainage construction.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02347A.mp3"
+    }
+  ]
+}

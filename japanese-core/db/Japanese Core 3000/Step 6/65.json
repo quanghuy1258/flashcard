@@ -1,0 +1,18 @@
+{
+  "ja": "はっと",
+  "hrkt": "はっと",
+  "latn": "hatto",
+  "en": "taken aback, startled",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02579A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の美しさに<b>はっと</b>したよ。",
+      "hrkt": "かのじょ の うつくしさ に <b>はっと</b> した よ。",
+      "latn": "kanojo no utsukushisa ni <b>hatto</b> shita yo.",
+      "en": "I was startled by her beauty.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a2ffd10u90.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02579A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "大会",
+  "hrkt": "たいかい",
+  "latn": "taikai",
+  "en": "tournament, event",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05159A.mp3",
+  "sentences": [
+    {
+      "ja": "夏には川辺で花火<b>大会</b>があります。",
+      "hrkt": "なつ に は かわべ で はなび <b>たいかい</b> が あります。",
+      "latn": "natsu ni ha kawabe de hanabi <b>taikai</b> ga arimasu.",
+      "en": "There is a firework event by the river in summer.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1897405.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05159A.mp3"
+    },
+    {
+      "ja": "彼はマラソン<b>大会</b>で1位になりました。",
+      "hrkt": "かれ は マラソン <b>たいかい</b> で 1 い に なりました。",
+      "latn": "kare ha marason <b>taikai</b> de 1 i ni narimashita.",
+      "en": "He won first place in the marathon.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a4944uasrc.mp3"
+    }
+  ]
+}

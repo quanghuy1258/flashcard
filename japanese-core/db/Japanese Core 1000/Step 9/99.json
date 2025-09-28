@@ -1,0 +1,26 @@
+{
+  "ja": "温度",
+  "hrkt": "おんど",
+  "latn": "ondo",
+  "en": "temperature",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01288A.mp3",
+  "sentences": [
+    {
+      "ja": "今、部屋の<b>温度</b>は25度だ。",
+      "hrkt": "いま、へや の <b>おんど</b> は 25 ど だ。",
+      "latn": "ima,heya no <b>ondo</b> ha 25 do da.",
+      "en": "This room's temperature is currently 25 degrees.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5385388.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01288A.mp3"
+    },
+    {
+      "ja": "外の<b>温度</b>はマイナス3度です。",
+      "hrkt": "そと の <b>おんど</b> は マイナス 3 ど です。",
+      "latn": "soto no <b>ondo</b> ha mainasu 3 do desu.",
+      "en": "The temperature outside is minus three degrees.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1343522.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00975A.mp3"
+    }
+  ]
+}

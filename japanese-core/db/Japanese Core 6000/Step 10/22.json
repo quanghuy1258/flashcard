@@ -1,0 +1,18 @@
+{
+  "ja": "海峡",
+  "hrkt": "かいきょう",
+  "latn": "kaikyou",
+  "en": "straits, channel",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01954A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>海峡</b>に橋が架けられました。",
+      "hrkt": "その <b>かいきょう</b> に はし が かけられました 。",
+      "latn": "sono <b>kaikyou</b> ni hashi ga kakeraremashita .",
+      "en": "A bridge has been built across the strait.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01954A.mp3"
+    }
+  ]
+}

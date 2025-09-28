@@ -1,0 +1,26 @@
+{
+  "ja": "流れる",
+  "hrkt": "ながれる",
+  "latn": "nagareru",
+  "en": "flow, run",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06655A.mp3",
+  "sentences": [
+    {
+      "ja": "ラジオから美しい音楽が<b>流れて</b>います。",
+      "hrkt": "ラジオ から うつくしい おんがく が <b>ながれて</b> います。",
+      "latn": "rajio kara utsukushii ongaku ga <b>nagarete</b> imasu.",
+      "en": "Beautiful music is coming out from the radio.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1324691.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06655A.mp3"
+    },
+    {
+      "ja": "この町には大きな川が<b>流れて</b>います。",
+      "hrkt": "この まち に は おおきな かわ が <b>ながれて</b> います。",
+      "latn": "kono machi ni ha ookina kawa ga <b>nagarete</b> imasu.",
+      "en": "A large river runs through this town.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/9p0tao2oo.mp3"
+    }
+  ]
+}

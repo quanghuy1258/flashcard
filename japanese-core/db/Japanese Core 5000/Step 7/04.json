@@ -1,0 +1,18 @@
+{
+  "ja": "のぞく",
+  "hrkt": "のぞく",
+  "latn": "nozoku",
+  "en": "peep, look in",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03811A.mp3",
+  "sentences": [
+    {
+      "ja": "ドアの隙間から中を<b>のぞいた</b>んだ。",
+      "hrkt": "ドア の すきま から なか を <b>のぞいた</b> ん だ。",
+      "latn": "doa no sukima kara naka wo <b>nozoita</b> n da.",
+      "en": "I peeped inside through a crack in the door.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03811A.mp3"
+    }
+  ]
+}

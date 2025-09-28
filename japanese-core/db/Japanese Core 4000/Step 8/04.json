@@ -1,0 +1,18 @@
+{
+  "ja": "定員",
+  "hrkt": "ていいん",
+  "latn": "teiin",
+  "en": "capacity, fixed number (of people)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01126A.mp3",
+  "sentences": [
+    {
+      "ja": "降りてください、<b>定員</b>オーバーです。",
+      "hrkt": "おりて ください、<b>ていいん</b> オーバー です。",
+      "latn": "orite kudasai,<b>teiin</b> o-ba- desu.",
+      "en": "Please get off, we are over capacity.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01126A.mp3"
+    }
+  ]
+}

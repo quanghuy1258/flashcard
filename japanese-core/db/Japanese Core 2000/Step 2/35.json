@@ -1,0 +1,26 @@
+{
+  "ja": "付ける",
+  "hrkt": "つける",
+  "latn": "tsukeru",
+  "en": "attach, apply, put",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05874A.mp3",
+  "sentences": [
+    {
+      "ja": "おまけを<b>付けました</b>。",
+      "hrkt": "おまけ を <b>つけました</b>。",
+      "latn": "omake wo <b>tsukemashita</b>.",
+      "en": "I put a freebie in there.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5775584.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05874A.mp3"
+    },
+    {
+      "ja": "プレゼントにリボンを<b>付けた</b>。",
+      "hrkt": "プレゼント に リボン を <b>つけた</b>。",
+      "latn": "purezento ni ribon wo <b>tsuketa</b>.",
+      "en": "I put a ribbon on the present.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4991291.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09824A.mp3"
+    }
+  ]
+}

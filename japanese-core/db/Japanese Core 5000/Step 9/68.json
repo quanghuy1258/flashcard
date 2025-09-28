@@ -1,0 +1,18 @@
+{
+  "ja": "軸",
+  "hrkt": "じく",
+  "latn": "jiku",
+  "en": "axis",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00822A.mp3",
+  "sentences": [
+    {
+      "ja": "この線を<b>軸</b>にして図形を回転してください。",
+      "hrkt": "この せん を <b>じく</b> に して ずけい を かいてん して ください。",
+      "latn": "kono sen wo <b>jiku</b> ni shite zukei wo kaiten shite kudasai.",
+      "en": "Take this line as the axis and rotate the figure.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00822A.mp3"
+    }
+  ]
+}

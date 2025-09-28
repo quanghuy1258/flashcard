@@ -1,0 +1,18 @@
+{
+  "ja": "生やす",
+  "hrkt": "はやす",
+  "latn": "hayasu",
+  "en": "grow (a beard, hair etc.)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02698A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はヒゲを<b>生やして</b>います。",
+      "hrkt": "かれ は ヒゲ を <b>はやして</b> います。",
+      "latn": "kare ha hige wo <b>hayashite</b> imasu.",
+      "en": "He's growing a beard.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02698A.mp3"
+    }
+  ]
+}

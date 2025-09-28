@@ -1,0 +1,26 @@
+{
+  "ja": "火事",
+  "hrkt": "かじ",
+  "latn": "kaji",
+  "en": "fire, blaze",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01585A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>火事</b>です。119番に電話してください。",
+      "hrkt": "<b>かじ</b> です。 119 ばん に でんわ して ください。",
+      "latn": "<b>kaji</b> desu. 119 ban ni denwa shite kudasai.",
+      "en": "There's a fire. Please call 119.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4098381.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01585A.mp3"
+    },
+    {
+      "ja": "その家は<b>火事</b>で焼けてしまいました。",
+      "hrkt": "その いえ は <b>かじ</b> で やけて しまいました。",
+      "latn": "sono ie ha <b>kaji</b> de yakete shimaimashita.",
+      "en": "The house burned down in a fire.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/74fkcg4ros.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "推薦",
+  "hrkt": "すいせん",
+  "latn": "suisen",
+  "en": "recommendation, nomination",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00672A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は会長に<b>推薦</b>されたよ。",
+      "hrkt": "かれ は かいちょう に <b>すいせん</b> された よ。",
+      "latn": "kare ha kaichou ni <b>suisen</b> sareta yo.",
+      "en": "He was nominated as chairperson.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00672A.mp3"
+    }
+  ]
+}

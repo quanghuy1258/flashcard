@@ -1,0 +1,26 @@
+{
+  "ja": "弁護士",
+  "hrkt": "べんごし",
+  "latn": "bengoshi",
+  "en": "lawyer, attorney",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00669A.mp3",
+  "sentences": [
+    {
+      "ja": "父は<b>弁護士</b>です。",
+      "hrkt": "ちち は <b>べんごし</b> です。",
+      "latn": "chichi ha <b>bengoshi</b> desu.",
+      "en": "My father's a lawyer.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/95b4fiddcg.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00669A.mp3"
+    },
+    {
+      "ja": "彼はついに<b>弁護士</b>の資格を取ったよ。",
+      "hrkt": "かれ は ついに <b>べんごし</b> の しかく を とった よ。",
+      "latn": "kare ha tsuini <b>bengoshi</b> no shikaku wo totta yo.",
+      "en": "He finally passed the bar examination.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00545A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "友人",
+  "hrkt": "ゆうじん",
+  "latn": "yuujin",
+  "en": "friend (formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00130A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は高校時代からの<b>友人</b>です。",
+      "hrkt": "かれ は こうこう じだい から の <b>ゆうじん</b> です。",
+      "latn": "kare ha koukou jidai kara no <b>yuujin</b> desu.",
+      "en": "He's my old friend from high school.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/317pd181go.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00130A.mp3"
+    }
+  ]
+}

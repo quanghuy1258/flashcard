@@ -1,0 +1,18 @@
+{
+  "ja": "日帰り",
+  "hrkt": "ひがえり",
+  "latn": "higaeri",
+  "en": "a day trip",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02581A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>日帰り</b>で京都に行きました。",
+      "hrkt": "わたし たち は <b>ひがえり</b> で きょうと に いきました。",
+      "latn": "watashi tachi ha <b>higaeri</b> de kyouto ni ikimashita.",
+      "en": "We went to Kyoto on a day trip.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b3aq4u9rtc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02581A.mp3"
+    }
+  ]
+}

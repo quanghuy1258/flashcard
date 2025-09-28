@@ -1,0 +1,18 @@
+{
+  "ja": "書物",
+  "hrkt": "しょもつ",
+  "latn": "shomotsu",
+  "en": "book, written stuff",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03672A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>書物</b>に囲まれて生活しているの。",
+      "hrkt": "かれ は <b>しょもつ</b> に かこまれて せいかつ して いる の。",
+      "latn": "kare ha <b>shomotsu</b> ni kakomarete seikatsu shite iru no.",
+      "en": "He leads a life surrounded by books.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03672A.mp3"
+    }
+  ]
+}

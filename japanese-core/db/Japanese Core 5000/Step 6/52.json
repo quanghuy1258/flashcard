@@ -1,0 +1,18 @@
+{
+  "ja": "仮名遣い",
+  "hrkt": "かなづかい",
+  "latn": "kanazukai",
+  "en": "kana orthography, use of kana",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03198A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父は古い<b>仮名遣い</b>で書くことがあるの。",
+      "hrkt": "そふ は ふるい <b>かなづかい</b> で かく こと が ある の。",
+      "latn": "sofu ha furui <b>kanazukai</b> de kaku koto ga aru no.",
+      "en": "My grandfather sometimes uses the old kana orthography in writing.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03198A.mp3"
+    }
+  ]
+}

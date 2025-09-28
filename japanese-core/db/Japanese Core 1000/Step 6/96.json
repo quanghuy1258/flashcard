@@ -1,0 +1,26 @@
+{
+  "ja": "平成",
+  "hrkt": "へいせい",
+  "latn": "heisei",
+  "en": "Heisei era",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08298A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>平成</b>3年生まれです。",
+      "hrkt": "かのじょ は <b>へいせい</b> 3 ねん うまれ です。",
+      "latn": "kanojo ha <b>heisei</b> 3 nen umare desu.",
+      "en": "She was born in Heisei Year 3 (1991).",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5855738.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08298A.mp3"
+    },
+    {
+      "ja": "<b>平成</b>は1989年1月8日に始まった。",
+      "hrkt": "<b>へいせい</b> は 1989 ねん いち がつ ようか に はじまった。",
+      "latn": "<b>heisei</b> ha 1989 nen ichi gatsu youka ni hajimatta.",
+      "en": "Heisei started on January 8, 1989.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a840413n1c.mp3"
+    }
+  ]
+}

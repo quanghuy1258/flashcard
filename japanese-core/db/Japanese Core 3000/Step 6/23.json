@@ -1,0 +1,18 @@
+{
+  "ja": "セルフサービス",
+  "hrkt": "セルフサービス",
+  "latn": "serufusa-bisu",
+  "en": "self-service",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03086A.mp3",
+  "sentences": [
+    {
+      "ja": "この食堂は<b>セルフサービス</b>です。",
+      "hrkt": "この しょくどう は <b>セルフサービス</b> です。",
+      "latn": "kono shokudou ha <b>serufusa-bisu</b> desu.",
+      "en": "This dining hall is self-service.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/828d2m8sf0.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03086A.mp3"
+    }
+  ]
+}

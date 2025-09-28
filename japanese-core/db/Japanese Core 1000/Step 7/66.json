@@ -1,0 +1,26 @@
+{
+  "ja": "道路",
+  "hrkt": "どうろ",
+  "latn": "douro",
+  "en": "road",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/248ed7d0g.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>道路</b>は3年前にできました。",
+      "hrkt": "この <b>どうろ</b> は 3 ねん まえ に できました。",
+      "latn": "kono <b>douro</b> ha 3 nen mae ni dekimashita.",
+      "en": "This road was completed three years ago.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5984435.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06334A.mp3"
+    },
+    {
+      "ja": "<b>道路</b>で遊ばないでください。",
+      "hrkt": "<b>どうろ</b> で あそばないで ください。",
+      "latn": "<b>douro</b> de asobanaide kudasai.",
+      "en": "Don't play on the road.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/936qee7o5k.mp3"
+    }
+  ]
+}

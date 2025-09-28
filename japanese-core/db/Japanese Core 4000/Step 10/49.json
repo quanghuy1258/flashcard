@@ -1,0 +1,18 @@
+{
+  "ja": "満員",
+  "hrkt": "まんいん",
+  "latn": "manin",
+  "en": "full to capacity",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01793A.mp3",
+  "sentences": [
+    {
+      "ja": "このバスは<b>満員</b>です。",
+      "hrkt": "この バス は <b>まんいん</b> です。",
+      "latn": "kono basu ha <b>manin</b> desu.",
+      "en": "This bus is full.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01793A.mp3"
+    }
+  ]
+}

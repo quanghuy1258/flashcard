@@ -1,0 +1,18 @@
+{
+  "ja": "雀",
+  "hrkt": "すずめ",
+  "latn": "suzume",
+  "en": "sparrow",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03029A.mp3",
+  "sentences": [
+    {
+      "ja": "朝は<b>雀</b>の声で目が覚めます。",
+      "hrkt": "あさ は <b>すずめ</b> の こえ で め が さめます。",
+      "latn": "asa ha <b>suzume</b> no koe de me ga samemasu.",
+      "en": "I wake up to the sound of sparrows in the morning.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/9529fg02vs.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03029A.mp3"
+    }
+  ]
+}

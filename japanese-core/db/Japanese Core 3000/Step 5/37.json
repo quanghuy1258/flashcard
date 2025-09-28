@@ -1,0 +1,18 @@
+{
+  "ja": "ゆったり",
+  "hrkt": "ゆったり",
+  "latn": "yuttari",
+  "en": "comfortable, easy fit",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02078A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>ゆったり</b>した服を着ていますね。",
+      "hrkt": "かのじょ は <b>ゆったり</b> した ふく を きて います ね。",
+      "latn": "kanojo ha <b>yuttari</b> shita fuku wo kite imasu ne.",
+      "en": "She's wearing loose clothes.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/242pajas6g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02078A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "判断",
+  "hrkt": "はんだん",
+  "latn": "handan",
+  "en": "judgment, decision",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07558A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>判断</b>は正しい。",
+      "hrkt": "かれ の <b>はんだん</b> は ただしい。",
+      "latn": "kare no <b>handan</b> ha tadashii.",
+      "en": "His judgment is correct.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6052358.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07558A.mp3"
+    },
+    {
+      "ja": "会社は間違った<b>判断</b>をしたと思います。",
+      "hrkt": "かいしゃ は まちがった <b>はんだん</b> を した と おもいます。",
+      "latn": "kaisha ha machigatta <b>handan</b> wo shita to omoimasu.",
+      "en": "I think the company made the wrong decision.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/963e6qcsk4.mp3"
+    }
+  ]
+}

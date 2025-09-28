@@ -1,0 +1,26 @@
+{
+  "ja": "遊ぶ",
+  "hrkt": "あそぶ",
+  "latn": "asobu",
+  "en": "play",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00136A.mp3",
+  "sentences": [
+    {
+      "ja": "子供たちが公園で<b>遊んで</b>いる。",
+      "hrkt": "こども たち が こうえん で <b>あそんで</b> いる。",
+      "latn": "kodomo tachi ga kouen de <b>asonde</b> iru.",
+      "en": "Kids are playing in the park.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3860814.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00136A.mp3"
+    },
+    {
+      "ja": "友達とトランプをして<b>遊びました</b>。",
+      "hrkt": "ともだち と トランプ を して <b>あそびました</b>。",
+      "latn": "tomodachi to toranpu wo shite <b>asobimashita</b>.",
+      "en": "I played cards with my friends.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2489331.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06532A.mp3"
+    }
+  ]
+}

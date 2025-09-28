@@ -1,0 +1,26 @@
+{
+  "ja": "夏休み",
+  "hrkt": "なつやすみ",
+  "latn": "natsuyasumi",
+  "en": "summer vacation",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06700A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>夏休み</b>にお祖母ちゃんの家へ行きました。",
+      "hrkt": "<b>なつやすみ</b> に おばあちゃん の うち へ いきました。",
+      "latn": "<b>natsuyasumi</b> ni obaachan no uchi he ikimashita.",
+      "en": "I went to my grandma's house during summer vacation.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4760119.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06700A.mp3"
+    },
+    {
+      "ja": "今日が<b>夏休み</b>最後の日だ。",
+      "hrkt": "きょう が <b>なつやすみ</b> さいご の ひ だ。",
+      "latn": "kyou ga <b>natsuyasumi</b> saigo no hi da.",
+      "en": "Today's the last day of summer vacation.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4911759.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03304A.mp3"
+    }
+  ]
+}

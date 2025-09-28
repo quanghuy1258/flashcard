@@ -1,0 +1,18 @@
+{
+  "ja": "残らず",
+  "hrkt": "のこらず",
+  "latn": "nokorazu",
+  "en": "with nothing left behind, without exception",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03162A.mp3",
+  "sentences": [
+    {
+      "ja": "ゴミを<b>残らず</b>拾ったよ。",
+      "hrkt": "ゴミ を <b>のこらず</b> ひろった よ。",
+      "latn": "gomi wo <b>nokorazu</b> hirotta yo.",
+      "en": "I picked up all the garbage.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03162A.mp3"
+    }
+  ]
+}

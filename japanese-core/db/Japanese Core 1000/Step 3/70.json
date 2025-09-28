@@ -1,0 +1,26 @@
+{
+  "ja": "曇る",
+  "hrkt": "くもる",
+  "latn": "kumoru",
+  "en": "become cloudy",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02515A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は昼頃から<b>曇る</b>でしょう。",
+      "hrkt": "あす は ひる ごろ から <b>くもる</b> でしょう。",
+      "latn": "asu ha hiru goro kara <b>kumoru</b> deshou.",
+      "en": "It'll probably get cloudy around noon tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5647359.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02515A.mp3"
+    },
+    {
+      "ja": "今日は朝から空が<b>曇って</b>いる。",
+      "hrkt": "きょう は あさ から そら が <b>くもって</b> いる。",
+      "latn": "kyou ha asa kara sora ga <b>kumotte</b> iru.",
+      "en": "Today, it's been cloudy since morning.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/56fba1daf4.mp3"
+    }
+  ]
+}

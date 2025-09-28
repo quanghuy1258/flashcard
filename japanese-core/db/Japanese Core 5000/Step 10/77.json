@@ -1,0 +1,18 @@
+{
+  "ja": "無効",
+  "hrkt": "むこう",
+  "latn": "mukou",
+  "en": "invalid, expired",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02257A.mp3",
+  "sentences": [
+    {
+      "ja": "このクーポンはもう<b>無効</b>です。",
+      "hrkt": "この クーポン は もう <b>むこう</b> です。",
+      "latn": "kono ku-pon ha mou <b>mukou</b> desu.",
+      "en": "This coupon's already expired.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02257A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "親類",
+  "hrkt": "しんるい",
+  "latn": "shinrui",
+  "en": "relatives (formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01279A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は幼いときに<b>親類</b>に預けられたんだ。",
+      "hrkt": "かれ は おさない とき に <b>しんるい</b> に あずけられた ん だ。",
+      "latn": "kare ha osanai toki ni <b>shinrui</b> ni azukerareta n da.",
+      "en": "He was put under the care of his relatives when he was little.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01279A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "第一",
+  "hrkt": "だいいち",
+  "latn": "daiichi",
+  "en": "number one, first",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01470A.mp3",
+  "sentences": [
+    {
+      "ja": "私には仕事が<b>第一</b>です。",
+      "hrkt": "わたし に は しごと が <b>だいいち</b> です。",
+      "latn": "watashi ni ha shigoto ga <b>daiichi</b> desu.",
+      "en": "Work is my first priority.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01470A.mp3"
+    }
+  ]
+}

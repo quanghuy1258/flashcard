@@ -1,0 +1,26 @@
+{
+  "ja": "柔らかい",
+  "hrkt": "やわらかい",
+  "latn": "yawarakai",
+  "en": "soft, gentle",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03939A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>柔らかい</b>日差しが気持ちいいね。",
+      "hrkt": "<b>やわらかい</b> ひざし が きもち いい ね。",
+      "latn": "<b>yawarakai</b> hizashi ga kimochi ii ne.",
+      "en": "Soft sunlight feels pleasant.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/alficd50gk754.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03939A.mp3"
+    },
+    {
+      "ja": "布団がとても<b>柔らかい</b>。",
+      "hrkt": "ふとん が とても <b>やわらかい</b>。",
+      "latn": "futon ga totemo <b>yawarakai</b>.",
+      "en": "The futon is very soft.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/112537.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09467A.mp3"
+    }
+  ]
+}

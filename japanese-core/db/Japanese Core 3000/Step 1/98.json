@@ -1,0 +1,18 @@
+{
+  "ja": "煮る",
+  "hrkt": "にる",
+  "latn": "niru",
+  "en": "simmer, cook",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02695A.mp3",
+  "sentences": [
+    {
+      "ja": "何から<b>煮よう</b>か。",
+      "hrkt": "なに から <b>によう</b> か。",
+      "latn": "nani kara <b>niyou</b> ka.",
+      "en": "What shall I cook first?",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/2413f30s0s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02695A.mp3"
+    }
+  ]
+}

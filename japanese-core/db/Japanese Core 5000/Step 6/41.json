@@ -1,0 +1,18 @@
+{
+  "ja": "固体",
+  "hrkt": "こたい",
+  "latn": "kotai",
+  "en": "solid, solid matter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01476A.mp3",
+  "sentences": [
+    {
+      "ja": "氷は<b>固体</b>です。",
+      "hrkt": "こおり は <b>こたい</b> です。",
+      "latn": "koori ha <b>kotai</b> desu.",
+      "en": "Ice is a solid.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01476A.mp3"
+    }
+  ]
+}

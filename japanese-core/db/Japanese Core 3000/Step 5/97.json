@@ -1,0 +1,18 @@
+{
+  "ja": "足首",
+  "hrkt": "あしくび",
+  "latn": "ashikubi",
+  "en": "ankle",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02854A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>足首</b>を痛めています。",
+      "hrkt": "かれ は <b>あしくび</b> を いためて います。",
+      "latn": "kare ha <b>ashikubi</b> wo itamete imasu.",
+      "en": "He's hurt his ankle.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/85bnfdfs6o.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02854A.mp3"
+    }
+  ]
+}

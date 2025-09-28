@@ -1,0 +1,18 @@
+{
+  "ja": "幸い",
+  "hrkt": "さいわい",
+  "latn": "saiwai",
+  "en": "fortunately, thankfully",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01043A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>幸い</b>、電車に嵐の影響はなかった。",
+      "hrkt": "<b>さいわい</b>、でんしゃ に あらし の えいきょう は なかった。",
+      "latn": "<b>saiwai</b>,densha ni arashi no eikyou ha nakatta.",
+      "en": "Fortunately, the train was not affected by the storm.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01043A.mp3"
+    }
+  ]
+}

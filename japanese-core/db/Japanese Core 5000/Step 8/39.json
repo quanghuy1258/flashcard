@@ -1,0 +1,18 @@
+{
+  "ja": "問う",
+  "hrkt": "とう",
+  "latn": "tou",
+  "en": "ask, question",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00241A.mp3",
+  "sentences": [
+    {
+      "ja": "応募者の年齢は<b>問いません</b>。",
+      "hrkt": "おうぼ しゃ の ねんれい は <b>といません</b>。",
+      "latn": "oubo sha no nenrei ha <b>toimasen</b>.",
+      "en": "Applicants of all ages are accepted.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00241A.mp3"
+    }
+  ]
+}

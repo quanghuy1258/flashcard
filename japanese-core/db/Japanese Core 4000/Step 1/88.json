@@ -1,0 +1,18 @@
+{
+  "ja": "追い越す",
+  "hrkt": "おいこす",
+  "latn": "oikosu",
+  "en": "outrun, overtake",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00925A.mp3",
+  "sentences": [
+    {
+      "ja": "大きなトラックが私たちを<b>追い越した</b>。",
+      "hrkt": "おおきな トラック が わたし たち を <b>おいこした</b>。",
+      "latn": "ookina torakku ga watashi tachi wo <b>oikoshita</b>.",
+      "en": "A big truck overtook us.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e4eh362lbg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00925A.mp3"
+    }
+  ]
+}

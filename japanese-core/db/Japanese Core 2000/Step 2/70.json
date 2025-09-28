@@ -1,0 +1,26 @@
+{
+  "ja": "汚れる",
+  "hrkt": "よごれる",
+  "latn": "yogoreru",
+  "en": "become dirty",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09677A.mp3",
+  "sentences": [
+    {
+      "ja": "エプロンをしないと服が<b>汚れます</b>。",
+      "hrkt": "エプロン を しない と ふく が <b>よごれます</b>。",
+      "latn": "epuron wo shinai to fuku ga <b>yogoremasu</b>.",
+      "en": "Your clothes will get dirty if you don't wear an apron.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4133563.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09677A.mp3"
+    },
+    {
+      "ja": "ズボンが<b>汚れた</b>。",
+      "hrkt": "ズボン が <b>よごれた</b>。",
+      "latn": "zubon ga <b>yogoreta</b>.",
+      "en": "My trousers got dirty.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2901378.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04617A.mp3"
+    }
+  ]
+}

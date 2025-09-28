@@ -1,0 +1,18 @@
+{
+  "ja": "根",
+  "hrkt": "ね",
+  "latn": "ne",
+  "en": "root",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03159A.mp3",
+  "sentences": [
+    {
+      "ja": "この木の<b>根</b>はとても太いな。",
+      "hrkt": "この き の <b>ね</b> は とても ふとい な。",
+      "latn": "kono ki no <b>ne</b> ha totemo futoi na.",
+      "en": "The roots of this tree are very thick.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03159A.mp3"
+    }
+  ]
+}

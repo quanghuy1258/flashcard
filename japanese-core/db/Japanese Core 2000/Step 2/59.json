@@ -1,0 +1,26 @@
+{
+  "ja": "回す",
+  "hrkt": "まわす",
+  "latn": "mawasu",
+  "en": "turn, rotate (something)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08815A.mp3",
+  "sentences": [
+    {
+      "ja": "ねじは左に<b>回す</b>と外れます。",
+      "hrkt": "ねじ は ひだり に <b>まわす</b> と はずれます。",
+      "latn": "neji ha hidari ni <b>mawasu</b> to hazuremasu.",
+      "en": "Turn the screw to the left, and it will come off.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4119883.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08815A.mp3"
+    },
+    {
+      "ja": "そのピッチャーは右腕を大きく<b>回した</b>。",
+      "hrkt": "その ピッチャー は みぎうで を おおきく <b>まわした</b>。",
+      "latn": "sono piccha- ha migiude wo ookiku <b>mawashita</b>.",
+      "en": "The pitcher swung his right arm around vigorously.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/253o4u0b2s.mp3"
+    }
+  ]
+}

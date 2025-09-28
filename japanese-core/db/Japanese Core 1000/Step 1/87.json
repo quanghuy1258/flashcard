@@ -1,0 +1,26 @@
+{
+  "ja": "とても",
+  "hrkt": "とても",
+  "latn": "totemo",
+  "en": "very (colloquial)",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06468A.mp3",
+  "sentences": [
+    {
+      "ja": "この本は<b>とても</b>おもしろい。",
+      "hrkt": "この ほん は <b>とても</b> おもしろい。",
+      "latn": "kono hon ha <b>totemo</b> omoshiroi.",
+      "en": "This book is very interesting.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3547972.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06468A.mp3"
+    },
+    {
+      "ja": "このスープは<b>とても</b>熱い。",
+      "hrkt": "この スープ は <b>とても</b> あつい。",
+      "latn": "kono su-pu ha <b>totemo</b> atsui.",
+      "en": "This soup is very hot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3935018.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00157A.mp3"
+    }
+  ]
+}

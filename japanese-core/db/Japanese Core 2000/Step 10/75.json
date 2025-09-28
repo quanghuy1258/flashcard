@@ -1,0 +1,26 @@
+{
+  "ja": "寄る",
+  "hrkt": "よる",
+  "latn": "yoru",
+  "en": "stop by, stop off",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01725A.mp3",
+  "sentences": [
+    {
+      "ja": "帰りに叔母の家に<b>寄ります</b>。",
+      "hrkt": "かえり に おば の いえ に <b>よります</b>。",
+      "latn": "kaeri ni oba no ie ni <b>yorimasu</b>.",
+      "en": "I'll drop in at my aunt's house on the way home.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/8l6o3ab4galvc.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01725A.mp3"
+    },
+    {
+      "ja": "私の家に<b>寄って</b>、コーヒーを飲んでいきませんか。",
+      "hrkt": "わたし の いえ に <b>よって</b>、コーヒー を のんで いきません か。",
+      "latn": "watashi no ie ni <b>yotte</b>,ko-hi- wo nonde ikimasen ka.",
+      "en": "Why don't you stop by my place and have coffee?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a39l5a3ssk.mp3"
+    }
+  ]
+}

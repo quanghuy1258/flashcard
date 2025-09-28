@@ -1,0 +1,18 @@
+{
+  "ja": "本人",
+  "hrkt": "ほんにん",
+  "latn": "honnin",
+  "en": "the person himself, the said person",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00463A.mp3",
+  "sentences": [
+    {
+      "ja": "それは<b>本人</b>に聞いてください。",
+      "hrkt": "それ は <b>ほんにん</b> に きいて ください。",
+      "latn": "sore ha <b>honnin</b> ni kiite kudasai.",
+      "en": "Please ask the person in question.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/82139jbt1s.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00463A.mp3"
+    }
+  ]
+}

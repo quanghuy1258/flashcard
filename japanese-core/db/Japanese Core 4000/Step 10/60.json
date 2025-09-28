@@ -1,0 +1,18 @@
+{
+  "ja": "巣",
+  "hrkt": "す",
+  "latn": "su",
+  "en": "nest, den",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01544A.mp3",
+  "sentences": [
+    {
+      "ja": "アリは土の中に<b>巣</b>を作ります。",
+      "hrkt": "アリ は つち の なか に <b>す</b> を つくります。",
+      "latn": "ari ha tsuchi no naka ni <b>su</b> wo tsukurimasu.",
+      "en": "Ants build their nests underground.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01544A.mp3?1220179588"
+    }
+  ]
+}

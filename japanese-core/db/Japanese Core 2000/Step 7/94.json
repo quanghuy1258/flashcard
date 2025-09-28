@@ -1,0 +1,26 @@
+{
+  "ja": "畑",
+  "hrkt": "はたけ",
+  "latn": "hatake",
+  "en": "field, farm",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07332A.mp3",
+  "sentences": [
+    {
+      "ja": "母は<b>畑</b>仕事が好きだ。",
+      "hrkt": "はは は <b>はたけ</b> しごと が すき だ。",
+      "latn": "haha ha <b>hatake</b> shigoto ga suki da.",
+      "en": "My mother likes working in the field.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3216169.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07332A.mp3"
+    },
+    {
+      "ja": "祖父は天気のいい日は一日中、<b>畑</b>にいます。",
+      "hrkt": "そふ は てんき の いい ひ は いち にち じゅう、<b>はたけ</b> に います。",
+      "latn": "sofu ha tenki no ii hi ha ichi nichi juu,<b>hatake</b> ni imasu.",
+      "en": "On sunny days, my grandfather stays in the field all day.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/152lc22a40.mp3"
+    }
+  ]
+}

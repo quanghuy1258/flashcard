@@ -1,0 +1,18 @@
+{
+  "ja": "学ぶ",
+  "hrkt": "まなぶ",
+  "latn": "manabu",
+  "en": "learn, study",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00143A.mp3",
+  "sentences": [
+    {
+      "ja": "私は哲学を<b>学んで</b>います。",
+      "hrkt": "わたし は てつがく を <b>まなんで</b> います。",
+      "latn": "watashi ha tetsugaku wo <b>manande</b> imasu.",
+      "en": "I study philosophy.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/533he14agc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00143A.mp3"
+    }
+  ]
+}

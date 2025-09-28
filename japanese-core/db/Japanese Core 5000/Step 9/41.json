@@ -1,0 +1,18 @@
+{
+  "ja": "圧力",
+  "hrkt": "あつりょく",
+  "latn": "atsuryoku",
+  "en": "pressure",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00222A.mp3",
+  "sentences": [
+    {
+      "ja": "相手会社から強い<b>圧力</b>がかかった。",
+      "hrkt": "あいて がいしゃ から つよい <b>あつりょく</b> が かかった。",
+      "latn": "aite gaisha kara tsuyoi <b>atsuryoku</b> ga kakatta.",
+      "en": "The other company has put a lot of pressure on us.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00222A.mp3"
+    }
+  ]
+}

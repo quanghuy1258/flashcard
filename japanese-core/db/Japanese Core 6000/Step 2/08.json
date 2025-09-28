@@ -1,0 +1,18 @@
+{
+  "ja": "外貨",
+  "hrkt": "がいか",
+  "latn": "gaika",
+  "en": "foreign currency",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01096A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>外貨</b>を両替しました。",
+      "hrkt": "<b>がいか</b> を りょうがえ しました。",
+      "latn": "<b>gaika</b> wo ryougae shimashita.",
+      "en": "I exchanged some foreign currency.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01096A.mp3"
+    }
+  ]
+}

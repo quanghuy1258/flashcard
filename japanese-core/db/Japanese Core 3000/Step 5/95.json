@@ -1,0 +1,18 @@
+{
+  "ja": "にらむ",
+  "hrkt": "にらむ",
+  "latn": "niramu",
+  "en": "glare, stare",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03798A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は私を<b>にらんだ</b>の。",
+      "hrkt": "かのじょ は わたし を <b>にらんだ</b> の 。",
+      "latn": "kanojo ha watashi wo <b>niranda</b> no .",
+      "en": "She glared at me.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/451l098qc4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03798A.mp3"
+    }
+  ]
+}

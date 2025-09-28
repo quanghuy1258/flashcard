@@ -1,0 +1,18 @@
+{
+  "ja": "ひょっとしたら",
+  "hrkt": "ひょっとしたら",
+  "latn": "hyottoshitara",
+  "en": "perhaps",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02841A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ひょっとしたら</b>彼はそのことを知らないのかもしれない。",
+      "hrkt": "<b>ひょっと したら</b> かれ は その こと を しらない の かも しれない。",
+      "latn": "<b>hyotto shitara</b> kare ha sono koto wo shiranai no kamo shirenai.",
+      "en": "Perhaps he might not know that.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/845qe00k7c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02841A.mp3"
+    }
+  ]
+}

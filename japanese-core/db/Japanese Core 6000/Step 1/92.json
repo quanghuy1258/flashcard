@@ -1,0 +1,18 @@
+{
+  "ja": "高等学校",
+  "hrkt": "こうとうがっこう",
+  "latn": "koutougakkou",
+  "en": "high school",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02970A.mp3",
+  "sentences": [
+    {
+      "ja": "弟が<b>高等学校</b>を卒業しました。",
+      "hrkt": "おとうと が <b>こうとうがっこう</b> を そつぎょう しました。",
+      "latn": "otouto ga <b>koutougakkou</b> wo sotsugyou shimashita.",
+      "en": "My little brother graduated from high school.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02970A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "英語",
+  "hrkt": "えいご",
+  "latn": "eigo",
+  "en": "English",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00842A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたは<b>英語</b>が話せますか。",
+      "hrkt": "あなた は <b>えいご</b> が はなせます か。",
+      "latn": "anata ha <b>eigo</b> ga hanasemasu ka.",
+      "en": "Can you speak English?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3555503.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00842A.mp3"
+    },
+    {
+      "ja": "彼はかなり<b>英語</b>が上手です。",
+      "hrkt": "かれ は かなり <b>えいご</b> が じょうず です。",
+      "latn": "kare ha kanari <b>eigo</b> ga jouzu desu.",
+      "en": "He's pretty good at English.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6000774.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01729A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "フォーク",
+  "hrkt": "フォーク",
+  "latn": "fo-ku",
+  "en": "fork",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07974A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>フォーク</b>をもらえますか。",
+      "hrkt": "<b>フォーク</b> を もらえます か。",
+      "latn": "<b>fo-ku</b> wo moraemasu ka.",
+      "en": "May I have a fork?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5055844.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07974A.mp3"
+    },
+    {
+      "ja": "ケーキを食べるのに<b>フォーク</b>が要ります。",
+      "hrkt": "ケーキ を たべる の に <b>フォーク</b> が いります。",
+      "latn": "ke-ki wo taberu no ni <b>fo-ku</b> ga irimasu.",
+      "en": "I need a fork to eat the cake.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/87dq0l63pk.mp3"
+    }
+  ]
+}

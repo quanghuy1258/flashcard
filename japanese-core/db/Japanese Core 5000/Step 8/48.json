@@ -1,0 +1,18 @@
+{
+  "ja": "避ける",
+  "hrkt": "さける",
+  "latn": "sakeru",
+  "en": "avoid, evade",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00067A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は昨日から私のことを<b>避けて</b>いるようなんだ。",
+      "hrkt": "かのじょ は きのう から わたし の こと を <b>さけて</b> いる ようなんだ。",
+      "latn": "kanojo ha kinou kara watashi no koto wo <b>sakete</b> iru younanda.",
+      "en": "She seems to have been avoiding me since yesterday.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00067A.mp3"
+    }
+  ]
+}

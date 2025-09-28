@@ -1,0 +1,26 @@
+{
+  "ja": "寒さ",
+  "hrkt": "さむさ",
+  "latn": "samusa",
+  "en": "coldness, cold",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03489A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は厳しい<b>寒さ</b>になるでしょう。",
+      "hrkt": "きょう は きびしい <b>さむさ</b> に なる でしょう。",
+      "latn": "kyou ha kibishii <b>samusa</b> ni naru deshou.",
+      "en": "It will be very cold today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4525621.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03489A.mp3"
+    },
+    {
+      "ja": "明日は12月の<b>寒さ</b>になります。",
+      "hrkt": "あした は 12 がつ の <b>さむさ</b> に なります。",
+      "latn": "ashita ha 12 gatsu no <b>samusa</b> ni narimasu.",
+      "en": "Tomorrow it will be cold like in December.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/03ct09bcs4.mp3"
+    }
+  ]
+}

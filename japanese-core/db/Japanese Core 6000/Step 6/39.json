@@ -1,0 +1,18 @@
+{
+  "ja": "ジャーナリズム",
+  "hrkt": "ジャーナリズム",
+  "latn": "ja-narizumu",
+  "en": "journalism",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02479A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>ジャーナリズム</b>を専攻している。",
+      "hrkt": "かれ は <b>ジャーナリズム</b> を せんこう して いる。",
+      "latn": "kare ha <b>ja-narizumu</b> wo senkou shite iru.",
+      "en": "He majors in journalism.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02479A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "落とす",
+  "hrkt": "おとす",
+  "latn": "otosu",
+  "en": "drop",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01143A.mp3",
+  "sentences": [
+    {
+      "ja": "途中で財布を<b>落としました</b>。",
+      "hrkt": "とちゅう で さいふ を <b>おとしました</b>。",
+      "latn": "tochuu de saifu wo <b>otoshimashita</b>.",
+      "en": "I lost my purse on the way.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1573492.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01143A.mp3"
+    },
+    {
+      "ja": "皿を<b>落として</b>割った。",
+      "hrkt": "さら を <b>おとして</b> わった。",
+      "latn": "sara wo <b>otoshite</b> watta.",
+      "en": "I dropped the plate and broke it.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1116353.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS10076A.mp3"
+    }
+  ]
+}

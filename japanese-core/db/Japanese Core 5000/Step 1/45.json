@@ -1,0 +1,18 @@
+{
+  "ja": "湿る",
+  "hrkt": "しめる",
+  "latn": "shimeru",
+  "en": "get damp, get wet",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03654A.mp3",
+  "sentences": [
+    {
+      "ja": "洗濯物がまだ<b>湿って</b>います。",
+      "hrkt": "せんたく もの が まだ <b>しめって</b> います。",
+      "latn": "sentaku mono ga mada <b>shimette</b> imasu.",
+      "en": "The laundry is still damp.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03654A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "寝坊",
+  "hrkt": "ねぼう",
+  "latn": "nebou",
+  "en": "oversleeping",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07004A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝は<b>寝坊</b>しました。",
+      "hrkt": "けさ は <b>ねぼう</b> しました。",
+      "latn": "kesa ha <b>nebou</b> shimashita.",
+      "en": "I overslept this morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5085099.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07004A.mp3"
+    },
+    {
+      "ja": "<b>寝坊</b>して新幹線に乗り遅れたよ。",
+      "hrkt": "<b>ねぼう</b> して しんかんせん に のりおくれた よ。",
+      "latn": "<b>nebou</b> shite shinkansen ni noriokureta yo.",
+      "en": "I overslept and missed the Shinkansen.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/a3ap63auuk.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03377A.mp3"
+    }
+  ]
+}

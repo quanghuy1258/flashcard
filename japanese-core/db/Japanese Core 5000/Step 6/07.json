@@ -1,0 +1,18 @@
+{
+  "ja": "麓",
+  "hrkt": "ふもと",
+  "latn": "fumoto",
+  "en": "foot of the mountain",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03859A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は山の<b>麓</b>に住んでいるよ。",
+      "hrkt": "かれ は やま の <b>ふもと</b> に すんで いる よ。",
+      "latn": "kare ha yama no <b>fumoto</b> ni sunde iru yo.",
+      "en": "He lives at the foot of a mountain.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03859A.mp3"
+    }
+  ]
+}

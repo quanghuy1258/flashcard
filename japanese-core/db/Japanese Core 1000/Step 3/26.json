@@ -1,0 +1,26 @@
+{
+  "ja": "ゲーム",
+  "hrkt": "ゲーム",
+  "latn": "ge-mu",
+  "en": "game (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02652A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちはビデオ<b>ゲーム</b>をした。",
+      "hrkt": "わたし たち は ビデオ <b>ゲーム</b> を した。",
+      "latn": "watashi tachi ha bideo <b>ge-mu</b> wo shita.",
+      "en": "We played a video game.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5557240.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02652A.mp3"
+    },
+    {
+      "ja": "この<b>ゲーム</b>のルールは簡単です。",
+      "hrkt": "この <b>ゲーム</b> の ルール は かんたん です。",
+      "latn": "kono <b>ge-mu</b> no ru-ru ha kantan desu.",
+      "en": "The rules of this game are easy.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/122h1n13vg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00777A.mp3"
+    }
+  ]
+}

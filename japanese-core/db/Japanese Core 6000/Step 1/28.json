@@ -1,0 +1,18 @@
+{
+  "ja": "騒動",
+  "hrkt": "そうどう",
+  "latn": "soudou",
+  "en": "commotion, riot",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01865A.mp3",
+  "sentences": [
+    {
+      "ja": "警察がやってきて<b>騒動</b>を静めたんだ。",
+      "hrkt": "けいさつ が やってきて <b>そうどう</b> を しずめた ん だ。",
+      "latn": "keisatsu ga yattekite <b>soudou</b> wo shizumeta n da.",
+      "en": "The police came and quelled the riot.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01865A.mp3"
+    }
+  ]
+}

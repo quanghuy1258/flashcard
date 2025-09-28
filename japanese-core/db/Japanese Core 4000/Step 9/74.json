@@ -1,0 +1,18 @@
+{
+  "ja": "助手",
+  "hrkt": "じょしゅ",
+  "latn": "joshu",
+  "en": "assistant",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01305A.mp3",
+  "sentences": [
+    {
+      "ja": "資料は<b>助手</b>に預けておいてください。",
+      "hrkt": "しりょう は <b>じょしゅ</b> に あずけて おいて ください。",
+      "latn": "shiryou ha <b>joshu</b> ni azukete oite kudasai.",
+      "en": "Please give the materials to my assistant.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01305A.mp3"
+    }
+  ]
+}

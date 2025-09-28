@@ -1,0 +1,18 @@
+{
+  "ja": "コンセント",
+  "hrkt": "コンセント",
+  "latn": "konsento",
+  "en": "outlet",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03025A.mp3",
+  "sentences": [
+    {
+      "ja": "プラグを<b>コンセント</b>に挿し込んだよ。",
+      "hrkt": "プラグ を <b>コンセント</b> に さしこんだ よ。",
+      "latn": "puragu wo <b>konsento</b> ni sashikonda yo.",
+      "en": "I put the plug into the outlet.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03025A.mp3"
+    }
+  ]
+}

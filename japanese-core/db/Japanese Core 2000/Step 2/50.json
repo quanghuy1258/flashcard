@@ -1,0 +1,26 @@
+{
+  "ja": "プール",
+  "hrkt": "プール",
+  "latn": "pu-ru",
+  "en": "pool",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07970A.mp3",
+  "sentences": [
+    {
+      "ja": "私は夏休みに<b>プール</b>に行った。",
+      "hrkt": "わたし は なつやすみ に <b>プール</b> に いった。",
+      "latn": "watashi ha natsuyasumi ni <b>pu-ru</b> ni itta.",
+      "en": "I went to the pool during summer vacation.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4059172.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07970A.mp3"
+    },
+    {
+      "ja": "<b>プール</b>は人でいっぱいです。",
+      "hrkt": "<b>プール</b> は ひと で いっぱい です。",
+      "latn": "<b>pu-ru</b> ha hito de ippai desu.",
+      "en": "The pool is packed.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4087043.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00537A.mp3"
+    }
+  ]
+}

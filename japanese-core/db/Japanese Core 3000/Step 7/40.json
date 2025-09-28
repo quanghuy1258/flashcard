@@ -1,0 +1,18 @@
+{
+  "ja": "怖がる",
+  "hrkt": "こわがる",
+  "latn": "kowagaru",
+  "en": "be afraid of, fear",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02863A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はクモを<b>怖がります</b>。",
+      "hrkt": "かのじょ は クモ を <b>こわがります</b>。",
+      "latn": "kanojo ha kumo wo <b>kowagarimasu</b>.",
+      "en": "She is afraid of spiders.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/41d458et38.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02863A.mp3"
+    }
+  ]
+}

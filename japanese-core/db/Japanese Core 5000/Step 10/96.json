@@ -1,0 +1,18 @@
+{
+  "ja": "公立",
+  "hrkt": "こうりつ",
+  "latn": "kouritsu",
+  "en": "public, government-run",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01711A.mp3",
+  "sentences": [
+    {
+      "ja": "駅前に<b>公立</b>の図書館があるよ。",
+      "hrkt": "えき まえ に <b>こうりつ</b> の としょかん が ある よ。",
+      "latn": "eki mae ni <b>kouritsu</b> no toshokan ga aru yo.",
+      "en": "There is a public library in front of the station.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01711A.mp3"
+    }
+  ]
+}

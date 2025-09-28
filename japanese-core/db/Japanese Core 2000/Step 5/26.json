@@ -1,0 +1,26 @@
+{
+  "ja": "天気予報",
+  "hrkt": "てんきよほう",
+  "latn": "tenkiyohou",
+  "en": "weather forecast",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06148A.mp3",
+  "sentences": [
+    {
+      "ja": "明日の<b>天気予報</b>は雨です。",
+      "hrkt": "あした の <b>てんき よほう</b> は あめ です。",
+      "latn": "ashita no <b>tenki yohou</b> ha ame desu.",
+      "en": "Tomorrow's weather forecast is for rain.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5017254.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06148A.mp3"
+    },
+    {
+      "ja": "私は毎朝、<b>天気予報</b>を確認します。",
+      "hrkt": "わたし は まいあさ、<b>てんき よほう</b> を かくにん します。",
+      "latn": "watashi ha maiasa,<b>tenki yohou</b> wo kakunin shimasu.",
+      "en": "I check the weather forecast every morning.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/44bf8316p4.mp3"
+    }
+  ]
+}

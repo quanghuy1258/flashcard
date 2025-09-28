@@ -1,0 +1,18 @@
+{
+  "ja": "足音",
+  "hrkt": "あしおと",
+  "latn": "ashioto",
+  "en": "footstep (sound)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02368A.mp3",
+  "sentences": [
+    {
+      "ja": "廊下から大きな<b>足音</b>が聞こえた。",
+      "hrkt": "ろうか から おおきな <b>あしおと</b> が きこえた。",
+      "latn": "rouka kara ookina <b>ashioto</b> ga kikoeta.",
+      "en": "I heard loud footsteps from the hallway.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02368A.mp3"
+    }
+  ]
+}

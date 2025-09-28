@@ -1,0 +1,18 @@
+{
+  "ja": "縮む",
+  "hrkt": "ちぢむ",
+  "latn": "chijimu",
+  "en": "shrink, contract",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02571A.mp3",
+  "sentences": [
+    {
+      "ja": "セーターが<b>縮んで</b>しまったな。",
+      "hrkt": "セーター が <b>ちぢんで</b> しまった な。",
+      "latn": "se-ta- ga <b>chijinde</b> shimatta na.",
+      "en": "The sweater has shrunk.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02571A.mp3"
+    }
+  ]
+}

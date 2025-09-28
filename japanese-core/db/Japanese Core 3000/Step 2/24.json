@@ -1,0 +1,18 @@
+{
+  "ja": "蓋",
+  "hrkt": "ふた",
+  "latn": "futa",
+  "en": "lid, cover",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02130A.mp3",
+  "sentences": [
+    {
+      "ja": "箱に<b>蓋</b>をしたよ。",
+      "hrkt": "はこ に <b>ふた</b> を した よ。",
+      "latn": "hako ni <b>futa</b> wo shita yo.",
+      "en": "I shut the lid on the box.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a3anbr17c8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02130A.mp3"
+    }
+  ]
+}

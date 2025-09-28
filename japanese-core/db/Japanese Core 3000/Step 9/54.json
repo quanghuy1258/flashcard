@@ -1,0 +1,18 @@
+{
+  "ja": "ああ",
+  "hrkt": "ああ",
+  "latn": "aa",
+  "en": "like that, that much",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02505A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ああ</b>うるさい人は苦手です。",
+      "hrkt": "<b>ああ</b> うるさい ひと は にがて です。",
+      "latn": "<b>aa</b> urusai hito ha nigate desu.",
+      "en": "I don't like a loud person like that.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c2b5c9fp8s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02505A.mp3"
+    }
+  ]
+}

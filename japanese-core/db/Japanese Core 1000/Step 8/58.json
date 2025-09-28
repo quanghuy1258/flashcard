@@ -1,0 +1,26 @@
+{
+  "ja": "二階",
+  "hrkt": "にかい",
+  "latn": "nikai",
+  "en": "second floor, upstairs",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06800A.mp3",
+  "sentences": [
+    {
+      "ja": "兄は<b>二階</b>にいます。",
+      "hrkt": "あに は <b>に かい</b> に います。",
+      "latn": "ani ha <b>ni kai</b> ni imasu.",
+      "en": "My elder brother is on the second floor.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4288476.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06800A.mp3"
+    },
+    {
+      "ja": "私のうちはアパートの<b>二階</b>です。",
+      "hrkt": "わたし の うち は アパート の <b>に かい</b> です。",
+      "latn": "watashi no uchi ha apa-to no <b>ni kai</b> desu.",
+      "en": "My place is on the second floor of an apartment.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/2441767978.mp3"
+    }
+  ]
+}

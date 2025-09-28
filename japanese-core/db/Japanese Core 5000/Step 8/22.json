@@ -1,0 +1,18 @@
+{
+  "ja": "対",
+  "hrkt": "つい",
+  "latn": "tsui",
+  "en": "pair",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00830A.mp3",
+  "sentences": [
+    {
+      "ja": "このズボンは上着と<b>対</b>になっています。",
+      "hrkt": "この ズボン は うわぎ と <b>つい</b> に なって います。",
+      "latn": "kono zubon ha uwagi to <b>tsui</b> ni natte imasu.",
+      "en": "These trousers and this jacket are a pair.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00830A.mp3"
+    }
+  ]
+}

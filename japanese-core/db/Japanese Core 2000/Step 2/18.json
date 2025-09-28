@@ -1,0 +1,26 @@
+{
+  "ja": "駐車場",
+  "hrkt": "ちゅうしゃじょう",
+  "latn": "chuushajou",
+  "en": "parking area, parking lot",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05664A.mp3",
+  "sentences": [
+    {
+      "ja": "車は<b>駐車場</b>に止めてください。",
+      "hrkt": "くるま は <b>ちゅうしゃじょう</b> に とめて ください。",
+      "latn": "kuruma ha <b>chuushajou</b> ni tomete kudasai.",
+      "en": "Please park your car in the parking lot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2736514.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05664A.mp3"
+    },
+    {
+      "ja": "この<b>駐車場</b>は1時間400円です。",
+      "hrkt": "この <b>ちゅうしゃじょう</b> は 1 じかん 400 えん です。",
+      "latn": "kono <b>chuushajou</b> ha 1 jikan 400 en desu.",
+      "en": "This parking lot costs 400 yen per hour.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/95bl7i974o.mp3"
+    }
+  ]
+}

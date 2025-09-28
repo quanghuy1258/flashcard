@@ -1,0 +1,18 @@
+{
+  "ja": "国々",
+  "hrkt": "くにぐに",
+  "latn": "kuniguni",
+  "en": "nations, countries",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01115A.mp3",
+  "sentences": [
+    {
+      "ja": "そのマラソン大会にはたくさんの<b>国々</b>から選手が集まったよ。",
+      "hrkt": "その マラソン たいかい に は たくさん の <b>くに</b>ぐに から せんしゅ が あつまった よ。",
+      "latn": "sono marason taikai ni ha takusan no <b>kuni</b>guni kara senshu ga atsumatta yo.",
+      "en": "Athletes from many countries gathered for the marathon.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01115A.mp3"
+    }
+  ]
+}

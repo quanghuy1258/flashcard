@@ -1,0 +1,26 @@
+{
+  "ja": "段々",
+  "hrkt": "だんだん",
+  "latn": "dandan",
+  "en": "gradually, little by little",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05529A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>段々</b>仕事が楽しくなってきました。",
+      "hrkt": "<b>だんだん</b> しごと が たのしく なって きました。",
+      "latn": "<b>dandan</b> shigoto ga tanoshiku natte kimashita.",
+      "en": "Little by little I've come to enjoy my work.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2274354.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05529A.mp3"
+    },
+    {
+      "ja": "日本の生活に<b>段々</b>慣れてきました。",
+      "hrkt": "にほん の せいかつ に <b>だんだん</b> なれて きました。",
+      "latn": "nihon no seikatsu ni <b>dandan</b> narete kimashita.",
+      "en": "I'm getting used to my life in Japan little by little.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e55ae58bvo.mp3"
+    }
+  ]
+}

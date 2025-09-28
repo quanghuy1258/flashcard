@@ -1,0 +1,26 @@
+{
+  "ja": "減らす",
+  "hrkt": "へらす",
+  "latn": "herasu",
+  "en": "reduce (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08332A.mp3",
+  "sentences": [
+    {
+      "ja": "最近、食事を<b>減らして</b>います。",
+      "hrkt": "さいきん、しょくじ を <b>へらして</b> います。",
+      "latn": "saikin,shokuji wo <b>herashite</b> imasu.",
+      "en": "I've been eating less recently.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4750766.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08332A.mp3"
+    },
+    {
+      "ja": "お医者さんにお酒を<b>減らす</b>ように言われました。",
+      "hrkt": "おいしゃさん に おさけ を <b>へらす</b> よう に いわれました。",
+      "latn": "oishasan ni osake wo <b>herasu</b> you ni iwaremashita.",
+      "en": "The doctor told me to reduce alcohol (intake).",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/449g747rnk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "髪",
+  "hrkt": "かみ",
+  "latn": "kami",
+  "en": "hair, hairstyle",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01769A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、<b>髪</b>を切りました。",
+      "hrkt": "きのう、<b>かみ</b> を きりました。",
+      "latn": "kinou,<b>kami</b> wo kirimashita.",
+      "en": "I had my hair cut yesterday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4246665.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01769A.mp3"
+    },
+    {
+      "ja": "彼女の<b>髪</b>はとても長い。",
+      "hrkt": "かのじょ の <b>かみ</b> は とても ながい。",
+      "latn": "kanojo no <b>kami</b> ha totemo nagai.",
+      "en": "Her hair is very long.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4918132.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06628A.mp3"
+    }
+  ]
+}

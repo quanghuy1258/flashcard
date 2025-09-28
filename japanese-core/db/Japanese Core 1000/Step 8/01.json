@@ -1,0 +1,26 @@
+{
+  "ja": "そちら",
+  "hrkt": "そちら",
+  "latn": "sochira",
+  "en": "there (polite)",
+  "pos": "Pronoun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05064A.mp3",
+  "sentences": [
+    {
+      "ja": "夕方<b>そちら</b>に着きます。",
+      "hrkt": "ゆうがた <b>そちら</b> に つきます。",
+      "latn": "yuugata <b>sochira</b> ni tsukimasu.",
+      "en": "I'll get there in the evening.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1829811.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05064A.mp3"
+    },
+    {
+      "ja": "今から<b>そちら</b>に行ってもいいですか。",
+      "hrkt": "いま から <b>そちら</b> に いっても いい です か。",
+      "latn": "ima kara <b>sochira</b> ni ittemo ii desu ka.",
+      "en": "Can I go over there now?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/634g4v3ij0.mp3"
+    }
+  ]
+}

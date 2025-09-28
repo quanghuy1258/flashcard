@@ -1,0 +1,26 @@
+{
+  "ja": "臭い",
+  "hrkt": "におい",
+  "latn": "nioi",
+  "en": "(bad) smell",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06796A.mp3",
+  "sentences": [
+    {
+      "ja": "ここはいやな<b>臭い</b>がする。",
+      "hrkt": "ここ は いやな <b>におい</b> が する。",
+      "latn": "koko ha iyana <b>nioi</b> ga suru.",
+      "en": "There's an unpleasant smell here.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5729827.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01316A.mp3"
+    },
+    {
+      "ja": "この牛乳は変な<b>臭い</b>がします。",
+      "hrkt": "この ぎゅうにゅう は へんな <b>におい</b> が します。",
+      "latn": "kono gyuunyuu ha henna <b>nioi</b> ga shimasu.",
+      "en": "This milk smells strange.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/157k5j1g0o.mp3"
+    }
+  ]
+}

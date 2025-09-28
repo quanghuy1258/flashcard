@@ -1,0 +1,18 @@
+{
+  "ja": "先頭",
+  "hrkt": "せんとう",
+  "latn": "sentou",
+  "en": "forefront, head",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00846A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>先頭</b>の人はプラカードを持ってください。",
+      "hrkt": "<b>せんとう</b> の ひと は プラカード を もって ください。",
+      "latn": "<b>sentou</b> no hito ha puraka-do wo motte kudasai.",
+      "en": "People at the front, please hold up a placard.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00846A.mp3"
+    }
+  ]
+}

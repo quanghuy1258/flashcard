@@ -1,0 +1,26 @@
+{
+  "ja": "バイト",
+  "hrkt": "バイト",
+  "latn": "baito",
+  "en": "part-time job (for short)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01735A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は6時から<b>バイト</b>です。",
+      "hrkt": "きょう は 6 じ から <b>バイト</b> です。",
+      "latn": "kyou ha 6 ji kara <b>baito</b> desu.",
+      "en": "My part-time job starts at 6 today.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/32dad352is.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01735A.mp3"
+    },
+    {
+      "ja": "水曜日は<b>バイト</b>があります。",
+      "hrkt": "すいようび は <b>バイト</b> が あります。",
+      "latn": "suiyoubi ha <b>baito</b> ga arimasu.",
+      "en": "I work part time on Wednesdays.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5225339.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04503A.mp3"
+    }
+  ]
+}

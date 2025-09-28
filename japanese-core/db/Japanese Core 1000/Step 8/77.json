@@ -1,0 +1,26 @@
+{
+  "ja": "お釣り",
+  "hrkt": "おつり",
+  "latn": "otsuri",
+  "en": "change (of money)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01127A.mp3",
+  "sentences": [
+    {
+      "ja": "母は<b>お釣り</b>を確かめた。",
+      "hrkt": "はは は <b>おつり</b> を たしかめた。",
+      "latn": "haha ha <b>otsuri</b> wo tashikameta.",
+      "en": "My mother checked the change.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5155190.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01127A.mp3"
+    },
+    {
+      "ja": "<b>お釣り</b>が多いですよ。",
+      "hrkt": "<b>おつり</b> が おおい です よ。",
+      "latn": "<b>otsuri</b> ga ooi desu yo.",
+      "en": "You gave me too much change.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/038ebh98bk.mp3"
+    }
+  ]
+}

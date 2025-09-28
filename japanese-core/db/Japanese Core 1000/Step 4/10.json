@@ -1,0 +1,26 @@
+{
+  "ja": "いっぱい",
+  "hrkt": "いっぱい",
+  "latn": "ippai",
+  "en": "full, a lot",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00537A.mp3",
+  "sentences": [
+    {
+      "ja": "プールは人で<b>いっぱい</b>です。",
+      "hrkt": "プール は ひと で <b>いっぱい</b> です。",
+      "latn": "pu-ru ha hito de <b>ippai</b> desu.",
+      "en": "The pool is packed.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4087043.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00537A.mp3"
+    },
+    {
+      "ja": "彼の家にはゲームが<b>いっぱい</b>あります。",
+      "hrkt": "かれ の いえ に は ゲーム が <b>いっぱい</b> あります。",
+      "latn": "kare no ie ni ha ge-mu ga <b>ippai</b> arimasu.",
+      "en": "There are many games at his home.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c51d13e3i0.mp3"
+    }
+  ]
+}

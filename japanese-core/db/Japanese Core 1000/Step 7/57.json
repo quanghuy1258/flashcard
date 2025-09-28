@@ -1,0 +1,26 @@
+{
+  "ja": "いたずら",
+  "hrkt": "いたずら",
+  "latn": "itazura",
+  "en": "mischief, prank",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00460A.mp3",
+  "sentences": [
+    {
+      "ja": "その子は<b>いたずら</b>が大好きだ。",
+      "hrkt": "その こ は <b>いたずら</b> が だいすき だ。",
+      "latn": "sono ko ha <b>itazura</b> ga daisuki da.",
+      "en": "That kid loves playing tricks.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2626872.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00460A.mp3"
+    },
+    {
+      "ja": "<b>いたずら</b>は止めなさい。",
+      "hrkt": "<b>いたずら</b> は やめなさい。",
+      "latn": "<b>itazura</b> ha yamenasai.",
+      "en": "Stop playing pranks.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c436b26ceo.mp3"
+    }
+  ]
+}

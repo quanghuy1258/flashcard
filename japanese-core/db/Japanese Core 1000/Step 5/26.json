@@ -1,0 +1,26 @@
+{
+  "ja": "集める",
+  "hrkt": "あつめる",
+  "latn": "atsumeru",
+  "en": "collect, gather",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00176A.mp3",
+  "sentences": [
+    {
+      "ja": "弟は切手を<b>集めて</b>います。",
+      "hrkt": "おとうと は きって を <b>あつめて</b> います。",
+      "latn": "otouto ha kitte wo <b>atsumete</b> imasu.",
+      "en": "My little brother collects stamps.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3860194.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00176A.mp3"
+    },
+    {
+      "ja": "学生たちはインターネットでいろいろな情報を<b>集めた</b>。",
+      "hrkt": "がくせい たち は インターネット で いろいろな じょうほう を <b>あつめた</b>。",
+      "latn": "gakusei tachi ha inta-netto de iroirona jouhou wo <b>atsumeta</b>.",
+      "en": "The students collected all kinds of information on the Internet.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4369030.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04237A.mp3"
+    }
+  ]
+}

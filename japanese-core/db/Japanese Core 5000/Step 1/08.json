@@ -1,0 +1,18 @@
+{
+  "ja": "コンクール",
+  "hrkt": "コンクール",
+  "latn": "konku-ru",
+  "en": "contest, competition (mainly in arts)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01768A.mp3",
+  "sentences": [
+    {
+      "ja": "来年の<b>コンクール</b>に出場するつもりです。",
+      "hrkt": "らいねん の <b>コンクール</b> に しゅつじょう する つもり です。",
+      "latn": "rainen no <b>konku-ru</b> ni shutsujou suru tsumori desu.",
+      "en": "I'm going to participate in next year's contest.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01768A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "女性",
+  "hrkt": "じょせい",
+  "latn": "josei",
+  "en": "woman, female (formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04299A.mp3",
+  "sentences": [
+    {
+      "ja": "そのパーティーに<b>女性</b>は何人来ますか。",
+      "hrkt": "その パーティー に <b>じょせい</b> は なん にん きます か。",
+      "latn": "sono pa-ti- ni <b>josei</b> ha nan nin kimasu ka.",
+      "en": "How many women are coming to the party?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6783300.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04299A.mp3"
+    },
+    {
+      "ja": "私の職場は<b>女性</b>の方が多いです。",
+      "hrkt": "わたし の しょくば は <b>じょせい</b> の ほう が おおい です。",
+      "latn": "watashi no shokuba ha <b>josei</b> no hou ga ooi desu.",
+      "en": "There are more women (than men) in my workplace.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c60ecrcmd4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "大勢",
+  "hrkt": "おおぜい",
+  "latn": "oozei",
+  "en": "large numbers, a lot of (people)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00982A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>大勢</b>で食事に出かけました。",
+      "hrkt": "<b>おおぜい</b> で しょくじ に でかけました。",
+      "latn": "<b>oozei</b> de shokuji ni dekakemashita.",
+      "en": "We went out to eat in a large group.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2368942.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00982A.mp3"
+    },
+    {
+      "ja": "そのパーティーに<b>大勢</b>人が来ました。",
+      "hrkt": "その パーティー に <b>おおぜい</b> ひと が きました。",
+      "latn": "sono pa-ti- ni <b>oozei</b> hito ga kimashita.",
+      "en": "Many people came to the party.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/45bd41c2v4.mp3"
+    }
+  ]
+}

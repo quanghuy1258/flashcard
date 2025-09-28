@@ -1,0 +1,18 @@
+{
+  "ja": "絹",
+  "hrkt": "きぬ",
+  "latn": "kinu",
+  "en": "silk",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02378A.mp3",
+  "sentences": [
+    {
+      "ja": "このシャツは<b>絹</b>でできています。",
+      "hrkt": "この シャツ は <b>きぬ</b> で できて います。",
+      "latn": "kono shatsu ha <b>kinu</b> de dekite imasu.",
+      "en": "This shirt is made of silk.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02378A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "レシート",
+  "hrkt": "レシート",
+  "latn": "reshi-to",
+  "en": "receipt (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09927A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>レシート</b>を財布に入れました。",
+      "hrkt": "<b>レシート</b> を さいふ に いれました。",
+      "latn": "<b>reshi-to</b> wo saifu ni iremashita.",
+      "en": "I put the receipt in my wallet.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4792973.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09927A.mp3"
+    },
+    {
+      "ja": "<b>レシート</b>を見せてください。",
+      "hrkt": "<b>レシート</b> を みせて ください。",
+      "latn": "<b>reshi-to</b> wo misete kudasai.",
+      "en": "Please show me the receipt.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/0415859lro.mp3"
+    }
+  ]
+}

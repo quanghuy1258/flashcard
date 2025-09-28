@@ -1,0 +1,26 @@
+{
+  "ja": "やはり",
+  "hrkt": "やはり",
+  "latn": "yahari",
+  "en": "as expected",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09435A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>やはり</b>遅刻しました。",
+      "hrkt": "かれ は <b>やはり</b> ちこく しました。",
+      "latn": "kare ha <b>yahari</b> chikoku shimashita.",
+      "en": "He was late, as expected.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5440899.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09435A.mp3"
+    },
+    {
+      "ja": "<b>やはり</b>彼女は来なかった。",
+      "hrkt": "<b>やはり</b> かのじょ は こなかった。",
+      "latn": "<b>yahari</b> kanojo ha konakatta.",
+      "en": "As expected, she didn't come.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/339k6q4lng.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "そっち",
+  "hrkt": "そっち",
+  "latn": "socchi",
+  "en": "there (casual)",
+  "pos": "Pronoun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05069A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>そっち</b>が私の部屋です。",
+      "hrkt": "<b>そっち</b> が わたし の へや です。",
+      "latn": "<b>socchi</b> ga watashi no heya desu.",
+      "en": "That's my room over there.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2694427.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05069A.mp3"
+    },
+    {
+      "ja": "辞書は<b>そっち</b>のかばんに入っています。",
+      "hrkt": "じしょ は <b>そっち</b> の かばん に はいって います。",
+      "latn": "jisho ha <b>socchi</b> no kaban ni haitte imasu.",
+      "en": "The dictionary is in the bag there.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e7ai43btas.mp3"
+    }
+  ]
+}

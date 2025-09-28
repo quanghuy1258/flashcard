@@ -1,0 +1,26 @@
+{
+  "ja": "緩い",
+  "hrkt": "ゆるい",
+  "latn": "yurui",
+  "en": "slack, loose",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09563A.mp3",
+  "sentences": [
+    {
+      "ja": "このズボンは<b>緩い</b>です。",
+      "hrkt": "この ズボン は <b>ゆるい</b> です。",
+      "latn": "kono zubon ha <b>yurui</b> desu.",
+      "en": "These trousers are loose.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6433179.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09563A.mp3"
+    },
+    {
+      "ja": "この靴は少し<b>緩い</b>です。",
+      "hrkt": "この くつ は すこし <b>ゆるい</b> です。",
+      "latn": "kono kutsu ha sukoshi <b>yurui</b> desu.",
+      "en": "These shoes are little loose.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/953ibdfulg.mp3"
+    }
+  ]
+}

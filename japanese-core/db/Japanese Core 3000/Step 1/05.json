@@ -1,0 +1,26 @@
+{
+  "ja": "体重",
+  "hrkt": "たいじゅう",
+  "latn": "taijuu",
+  "en": "body weight",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01290A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎朝<b>体重</b>を測っています。",
+      "hrkt": "わたし は まいあさ <b>たいじゅう</b> を はかって います。",
+      "latn": "watashi ha maiasa <b>taijuu</b> wo hakatte imasu.",
+      "en": "I weigh myself every morning.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/935128ba5o.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01290A.mp3"
+    },
+    {
+      "ja": "<b>体重</b>がかなり減りました。",
+      "hrkt": "<b>たいじゅう</b> が かなり へりました。",
+      "latn": "<b>taijuu</b> ga kanari herimashita.",
+      "en": "I've lost a lot of weight.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1751195.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08337A.mp3"
+    }
+  ]
+}

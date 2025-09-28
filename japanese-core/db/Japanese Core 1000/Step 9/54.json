@@ -1,0 +1,26 @@
+{
+  "ja": "壁",
+  "hrkt": "かべ",
+  "latn": "kabe",
+  "en": "wall, partition",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01759A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>壁</b>に絵が掛かっている。",
+      "hrkt": "<b>かべ</b> に え が かかって いる。",
+      "latn": "<b>kabe</b> ni e ga kakatte iru.",
+      "en": "There's a painting on the wall.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/651056.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01759A.mp3"
+    },
+    {
+      "ja": "<b>壁</b>に大きな時計が掛かっています。",
+      "hrkt": "<b>かべ</b> に おおきな とけい が かかって います。",
+      "latn": "<b>kabe</b> ni ookina tokei ga kakatte imasu.",
+      "en": "There's a big clock hanging on the wall.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5209774.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01465A.mp3"
+    }
+  ]
+}

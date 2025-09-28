@@ -1,0 +1,18 @@
+{
+  "ja": "結合",
+  "hrkt": "けつごう",
+  "latn": "ketsugou",
+  "en": "combination, joining",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02694A.mp3",
+  "sentences": [
+    {
+      "ja": "ファイルを<b>結合</b>して1つにしました。",
+      "hrkt": "ファイル を <b>けつごう</b> して ひとつ に しました。",
+      "latn": "fairu wo <b>ketsugou</b> shite hitotsu ni shimashita.",
+      "en": "I combined the files into one.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02694A.mp3"
+    }
+  ]
+}

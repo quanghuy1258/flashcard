@@ -1,0 +1,18 @@
+{
+  "ja": "英和",
+  "hrkt": "えいわ",
+  "latn": "eiwa",
+  "en": "English-Japanese",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03429A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>英和</b>辞書をよく使います。",
+      "hrkt": "<b>えいわ</b> じしょ を よく つかいます。",
+      "latn": "<b>eiwa</b> jisho wo yoku tsukaimasu.",
+      "en": "I often use an English-Japanese dictionary.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03429A.mp3"
+    }
+  ]
+}

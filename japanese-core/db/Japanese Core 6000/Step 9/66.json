@@ -1,0 +1,18 @@
+{
+  "ja": "弾",
+  "hrkt": "たま",
+  "latn": "tama",
+  "en": "bullet",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01909A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はピストルに<b>弾</b>を込めたんだ。",
+      "hrkt": "かれ は ピストル に <b>たま</b> を こめた ん だ。",
+      "latn": "kare ha pisutoru ni <b>tama</b> wo kometa n da.",
+      "en": "He loaded the pistol.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01909A.mp3"
+    }
+  ]
+}

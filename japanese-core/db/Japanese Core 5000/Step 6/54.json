@@ -1,0 +1,18 @@
+{
+  "ja": "小数",
+  "hrkt": "しょうすう",
+  "latn": "shousuu",
+  "en": "decimal",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03144A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>小数</b>は切り捨てて計算してください。",
+      "hrkt": "<b>しょうすう</b> は きりすてて けいさん して ください。",
+      "latn": "<b>shousuu</b> ha kirisutete keisan shite kudasai.",
+      "en": "Please truncate the decimal when you calculate.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03144A.mp3"
+    }
+  ]
+}

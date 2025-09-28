@@ -1,0 +1,18 @@
+{
+  "ja": "教員",
+  "hrkt": "きょういん",
+  "latn": "kyouin",
+  "en": "teacher, faculty staff",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01011A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は高校の<b>教員</b>です。",
+      "hrkt": "かれ は こうこう の <b>きょういん</b> です。",
+      "latn": "kare ha koukou no <b>kyouin</b> desu.",
+      "en": "He's a high school teacher.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01011A.mp3"
+    }
+  ]
+}

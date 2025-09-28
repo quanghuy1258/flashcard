@@ -1,0 +1,26 @@
+{
+  "ja": "アルバイト",
+  "hrkt": "アルバイト",
+  "latn": "arubaito",
+  "en": "part-time job",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00294A.mp3",
+  "sentences": [
+    {
+      "ja": "兄は<b>アルバイト</b>をしています。",
+      "hrkt": "あに は <b>アルバイト</b> を して います。",
+      "latn": "ani ha <b>arubaito</b> wo shite imasu.",
+      "en": "My big brother works part-time.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/9l7k2g9tpc3gc.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00294A.mp3"
+    },
+    {
+      "ja": "夏休みにコーヒーショップで<b>アルバイト</b>をしました。",
+      "hrkt": "なつやすみ に コーヒー ショップ で <b>アルバイト</b> を しました。",
+      "latn": "natsuyasumi ni ko-hi- shoppu de <b>arubaito</b> wo shimashita.",
+      "en": "During the summer vacation I had a part-time job at a coffee shop.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c4ace222s0.mp3"
+    }
+  ]
+}

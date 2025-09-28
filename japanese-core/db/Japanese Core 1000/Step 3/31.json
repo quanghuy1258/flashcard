@@ -1,0 +1,26 @@
+{
+  "ja": "晩",
+  "hrkt": "ばん",
+  "latn": "ban",
+  "en": "evening, night (from sunset to bedtime)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07517A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は朝から<b>晩</b>まで働いたの。",
+      "hrkt": "かれ は あさ から <b>ばん</b> まで はたらいた の 。",
+      "latn": "kare ha asa kara <b>ban</b> made hataraita no .",
+      "en": "He worked from morning till night.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/a16v0q0glgrouk.jpg",
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/9322ao9n7o.mp3"
+    },
+    {
+      "ja": "彼は三日三<b>晩</b>寝ませんでした。",
+      "hrkt": "かれ は みっか  み <b>ばん</b> ねません でした。",
+      "latn": "kare ha mikka  mi <b>ban</b> nemasen deshita.",
+      "en": "He didn't sleep for three days and nights.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/25egah7hqs.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "近く",
+  "hrkt": "ちかく",
+  "latn": "chikaku",
+  "en": "in the near future, before long",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05567A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>近く</b>、留学する予定です。",
+      "hrkt": "<b>ちかく</b> 、 りゅうがく する よてい です。",
+      "latn": "<b>chikaku</b> , ryuugaku suru yotei desu.",
+      "en": "I'm planning to study abroad in the near future.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/331nbq43lo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/73anaq644o.mp3"
+    },
+    {
+      "ja": "兄は<b>近く</b>結婚します。",
+      "hrkt": "あに は <b>ちかく</b> けっこん します。",
+      "latn": "ani ha <b>chikaku</b> kekkon shimasu.",
+      "en": "My older brother will get married in the near future.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/341h328oco.mp3"
+    }
+  ]
+}

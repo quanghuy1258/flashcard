@@ -1,0 +1,26 @@
+{
+  "ja": "ただ",
+  "hrkt": "ただ",
+  "latn": "tada",
+  "en": "free of charge",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05344A.mp3",
+  "sentences": [
+    {
+      "ja": "この温泉は<b>ただ</b>です。",
+      "hrkt": "この おんせん は <b>ただ</b> です。",
+      "latn": "kono onsen ha <b>tada</b> desu.",
+      "en": "This hot spring bathhouse is free.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4092666.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05344A.mp3"
+    },
+    {
+      "ja": "今日、<b>ただ</b>でノートをもらった。",
+      "hrkt": "きょう、 <b>ただ</b> で ノート を もらった。",
+      "latn": "kyou, <b>tada</b> de no-to wo moratta.",
+      "en": "Today I got a notebook free.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/944b9l114g.mp3"
+    }
+  ]
+}

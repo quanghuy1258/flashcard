@@ -1,0 +1,26 @@
+{
+  "ja": "壊れる",
+  "hrkt": "こわれる",
+  "latn": "kowareru",
+  "en": "break, break down",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03241A.mp3",
+  "sentences": [
+    {
+      "ja": "会社のパソコンが<b>壊れた</b>。",
+      "hrkt": "かいしゃ の パソコン が <b>こわれた</b>。",
+      "latn": "kaisha no pasokon ga <b>kowareta</b>.",
+      "en": "The company computer broke down.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6380798.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03241A.mp3"
+    },
+    {
+      "ja": "カメラが<b>壊れた</b>。",
+      "hrkt": "カメラ が <b>こわれた</b>。",
+      "latn": "kamera ga <b>kowareta</b>.",
+      "en": "My camera broke.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2266948.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01780A.mp3"
+    }
+  ]
+}

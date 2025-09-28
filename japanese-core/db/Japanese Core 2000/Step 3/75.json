@@ -1,0 +1,26 @@
+{
+  "ja": "暑さ",
+  "hrkt": "あつさ",
+  "latn": "atsusa",
+  "en": "heat (of weather)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00166A.mp3",
+  "sentences": [
+    {
+      "ja": "今年の夏は<b>暑さ</b>が厳しい。",
+      "hrkt": "ことし の なつ は <b>あつさ</b> が きびしい。",
+      "latn": "kotoshi no natsu ha <b>atsusa</b> ga kibishii.",
+      "en": "The heat this summer is overbearing.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1842736.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00166A.mp3"
+    },
+    {
+      "ja": "この<b>暑さ</b>でみんな疲れています。",
+      "hrkt": "この <b>あつさ</b> で みんな つかれて います。",
+      "latn": "kono <b>atsusa</b> de minna tsukarete imasu.",
+      "en": "Everybody is tired from this heat.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c65c1e7e0s.mp3"
+    }
+  ]
+}

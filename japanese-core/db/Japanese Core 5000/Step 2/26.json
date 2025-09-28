@@ -1,0 +1,18 @@
+{
+  "ja": "両側",
+  "hrkt": "りょうがわ",
+  "latn": "ryougawa",
+  "en": "both sides",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01300A.mp3",
+  "sentences": [
+    {
+      "ja": "道の<b>両側</b>にたくさんお店がありますよ。",
+      "hrkt": "みち の <b>りょうがわ</b> に たくさん おみせ が あります よ。",
+      "latn": "michi no <b>ryougawa</b> ni takusan omise ga arimasu yo.",
+      "en": "There are a lot of stores on both sides of the road.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01300A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "零下",
+  "hrkt": "れいか",
+  "latn": "reika",
+  "en": "below zero",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01869A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>零下</b>の寒さでしたね。",
+      "hrkt": "きょう は <b>れいか</b> の さむさ でした ね。",
+      "latn": "kyou ha <b>reika</b> no samusa deshita ne.",
+      "en": "The cold was below zero today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01869A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "月刊",
+  "hrkt": "げっかん",
+  "latn": "gekkan",
+  "en": "published monthly",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02921A.mp3",
+  "sentences": [
+    {
+      "ja": "この雑誌は<b>月刊</b>ですか。",
+      "hrkt": "この ざっし は <b>げっかん</b> です か。",
+      "latn": "kono zasshi ha <b>gekkan</b> desu ka.",
+      "en": "Is this magazine published monthly?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02921A.mp3"
+    }
+  ]
+}

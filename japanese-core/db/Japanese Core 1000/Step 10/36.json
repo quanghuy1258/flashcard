@@ -1,0 +1,26 @@
+{
+  "ja": "振る",
+  "hrkt": "ふる",
+  "latn": "furu",
+  "en": "wave, shake",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08197A.mp3",
+  "sentences": [
+    {
+      "ja": "犬がしっぽを<b>振って</b>いる。",
+      "hrkt": "いぬ が しっぽ を <b>ふって</b> いる。",
+      "latn": "inu ga shippo wo <b>futte</b> iru.",
+      "en": "The dog is wagging its tail.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6345468.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08197A.mp3"
+    },
+    {
+      "ja": "腕をもっと大きく<b>振って</b>ください。",
+      "hrkt": "うで を もっと おおきく <b>ふって</b> ください。",
+      "latn": "ude wo motto ookiku <b>futte</b> kudasai.",
+      "en": "Please swing your arms more widely.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a4007l10ds.mp3"
+    }
+  ]
+}

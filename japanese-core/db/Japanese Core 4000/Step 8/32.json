@@ -1,0 +1,18 @@
+{
+  "ja": "死体",
+  "hrkt": "したい",
+  "latn": "shitai",
+  "en": "corpse",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00678A.mp3",
+  "sentences": [
+    {
+      "ja": "公園で<b>死体</b>が見つかったの。",
+      "hrkt": "こうえん で <b>したい</b> が みつかった の。",
+      "latn": "kouen de <b>shitai</b> ga mitsukatta no.",
+      "en": "A corpse was found in the park.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00678A.mp3"
+    }
+  ]
+}

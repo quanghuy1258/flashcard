@@ -1,0 +1,18 @@
+{
+  "ja": "官庁",
+  "hrkt": "かんちょう",
+  "latn": "kanchou",
+  "en": "government office",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01185A.mp3",
+  "sentences": [
+    {
+      "ja": "その古い建物は<b>官庁</b>です。",
+      "hrkt": "その ふるい たてもの は <b>かんちょう</b> です。",
+      "latn": "sono furui tatemono ha <b>kanchou</b> desu.",
+      "en": "That old building is the government office.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01185A.mp3"
+    }
+  ]
+}

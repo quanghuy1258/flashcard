@@ -1,0 +1,18 @@
+{
+  "ja": "生み出す",
+  "hrkt": "うみだす",
+  "latn": "umidasu",
+  "en": "generate, produce",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01017A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は数々の名作を<b>生み出した</b>。",
+      "hrkt": "かれ は かずかず の めいさく を <b>うみだした</b>。",
+      "latn": "kare ha kazukazu no meisaku wo <b>umidashita</b>.",
+      "en": "He produced a number of masterpieces.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01017A.mp3"
+    }
+  ]
+}

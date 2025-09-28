@@ -1,0 +1,18 @@
+{
+  "ja": "立ち止まる",
+  "hrkt": "たちどまる",
+  "latn": "tachidomaru",
+  "en": "stop, halt",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03708A.mp3",
+  "sentences": [
+    {
+      "ja": "人々は<b>立ち止まって</b>上を見上げたの。",
+      "hrkt": "ひとびと は <b>たちどまって</b> うえ を みあげた の。",
+      "latn": "hitobito ha <b>tachidomatte</b> ue wo miageta no.",
+      "en": "People stopped and looked up.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03708A.mp3"
+    }
+  ]
+}

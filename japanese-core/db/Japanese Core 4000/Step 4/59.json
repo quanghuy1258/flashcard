@@ -1,0 +1,18 @@
+{
+  "ja": "完了",
+  "hrkt": "かんりょう",
+  "latn": "kanryou",
+  "en": "completion (of a task, preparation, etc.), finish",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01370A.mp3",
+  "sentences": [
+    {
+      "ja": "仕事は全て<b>完了</b>しました。",
+      "hrkt": "しごと は すべて <b>かんりょう</b> しました。",
+      "latn": "shigoto ha subete <b>kanryou</b> shimashita.",
+      "en": "I finished all the work.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01370A.mp3"
+    }
+  ]
+}

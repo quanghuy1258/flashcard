@@ -1,0 +1,26 @@
+{
+  "ja": "つまり",
+  "hrkt": "つまり",
+  "latn": "tsumari",
+  "en": "in short, that is to say",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05931A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>つまり</b>、あなたは何も知らないのですね。",
+      "hrkt": "<b>つまり</b>、あなた は なに も しらない の です ね。",
+      "latn": "<b>tsumari</b>,anata ha nani mo shiranai no desu ne.",
+      "en": "So, in short, you don't know anything.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1858960.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05931A.mp3"
+    },
+    {
+      "ja": "<b>つまり</b>、あなたは今の仕事が好きじゃないんですね。",
+      "hrkt": "<b>つまり</b>、あなた は いま の しごと が すき じゃ ない ん です ね。",
+      "latn": "<b>tsumari</b>,anata ha ima no shigoto ga suki ja nai n desu ne.",
+      "en": "In short, you don't like your current job, right?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/03bt0kbv4s.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "クラブ",
+  "hrkt": "クラブ",
+  "latn": "kurabu",
+  "en": "club",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00844A.mp3",
+  "sentences": [
+    {
+      "ja": "夏休みには<b>クラブ</b>の合宿に参加します。",
+      "hrkt": "なつやすみ に は <b>クラブ</b> の がっしゅく に さんか します。",
+      "latn": "natsuyasumi ni ha <b>kurabu</b> no gasshuku ni sanka shimasu.",
+      "en": "I'll go to the club's training camp during summer vacation.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c47d90ahts.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00844A.mp3"
+    }
+  ]
+}

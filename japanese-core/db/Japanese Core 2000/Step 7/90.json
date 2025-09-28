@@ -1,0 +1,26 @@
+{
+  "ja": "重要",
+  "hrkt": "じゅうよう",
+  "latn": "juuyou",
+  "en": "important, essential",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04018A.mp3",
+  "sentences": [
+    {
+      "ja": "これは<b>重要</b>な書類です。",
+      "hrkt": "これ は <b>じゅうよう</b>な しょるい です。",
+      "latn": "kore ha <b>juuyou</b>na shorui desu.",
+      "en": "This is an important document.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1936211.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04018A.mp3"
+    },
+    {
+      "ja": "これは非常に<b>重要</b>です。",
+      "hrkt": "これ は ひじょう に <b>じゅうよう</b> です。",
+      "latn": "kore ha hijou ni <b>juuyou</b> desu.",
+      "en": "This is very important.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6481707.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07696A.mp3"
+    }
+  ]
+}

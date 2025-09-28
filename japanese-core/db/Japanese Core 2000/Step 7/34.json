@@ -1,0 +1,26 @@
+{
+  "ja": "床",
+  "hrkt": "ゆか",
+  "latn": "yuka",
+  "en": "floor",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09530A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>床</b>がぬれている。",
+      "hrkt": "<b>ゆか</b> が ぬれて いる。",
+      "latn": "<b>yuka</b> ga nurete iru.",
+      "en": "The floor is wet.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2607401.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09530A.mp3"
+    },
+    {
+      "ja": "彼はかばんを<b>床</b>に置きました。",
+      "hrkt": "かれ は かばん を <b>ゆか</b> に おきました。",
+      "latn": "kare ha kaban wo <b>yuka</b> ni okimashita.",
+      "en": "He put his bag on the floor.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b59n8ldfd8.mp3"
+    }
+  ]
+}

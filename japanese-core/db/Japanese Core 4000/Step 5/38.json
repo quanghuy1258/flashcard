@@ -1,0 +1,18 @@
+{
+  "ja": "呼吸",
+  "hrkt": "こきゅう",
+  "latn": "kokyuu",
+  "en": "breathing, respiration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01215A.mp3",
+  "sentences": [
+    {
+      "ja": "ゆっくり<b>呼吸</b>してください。",
+      "hrkt": "ゆっくり <b>こきゅう</b> して ください。",
+      "latn": "yukkuri <b>kokyuu</b> shite kudasai.",
+      "en": "Please breathe slowly.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01215A.mp3"
+    }
+  ]
+}

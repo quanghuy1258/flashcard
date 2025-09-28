@@ -1,0 +1,18 @@
+{
+  "ja": "きゅうり",
+  "hrkt": "きゅうり",
+  "latn": "kyuuri",
+  "en": "cucumber",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02968A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>きゅうり</b>に味噌をつけて食べたの。",
+      "hrkt": "<b>きゅうり</b> に みそ を つけて たべた の。",
+      "latn": "<b>kyuuri</b> ni miso wo tsukete tabeta no.",
+      "en": "I ate cucumber with miso on it.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/74am5adeqc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02968A.mp3"
+    }
+  ]
+}

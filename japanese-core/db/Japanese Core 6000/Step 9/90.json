@@ -1,0 +1,18 @@
+{
+  "ja": "漢和",
+  "hrkt": "かんわ",
+  "latn": "kanwa",
+  "en": "Chinese and Japanese",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03278A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>漢和</b>辞典で漢字の意味を調べたの。",
+      "hrkt": "<b>かんわ</b> じてん で かんじ の いみ を しらべた の。",
+      "latn": "<b>kanwa</b> jiten de kanji no imi wo shirabeta no.",
+      "en": "I looked up the meaning of a kanji in a Chinese-Japanese character dictionary.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03278A.mp3"
+    }
+  ]
+}

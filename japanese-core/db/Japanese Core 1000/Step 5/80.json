@@ -1,0 +1,26 @@
+{
+  "ja": "可愛い",
+  "hrkt": "かわいい",
+  "latn": "kawaii",
+  "en": "cute, sweet",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01849A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の赤ちゃんは<b>可愛い</b>です。",
+      "hrkt": "かのじょ の あかちゃん は <b>かわいい</b> です。",
+      "latn": "kanojo no akachan ha <b>kawaii</b> desu.",
+      "en": "Her baby is cute.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4609436.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01849A.mp3"
+    },
+    {
+      "ja": "娘に<b>可愛い</b>ドレスを着せた。",
+      "hrkt": "むすめ に <b>かわいい</b> ドレス を きせた。",
+      "latn": "musume ni <b>kawaii</b> doresu wo kiseta.",
+      "en": "I dressed my daughter in a cute dress.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1959292.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02079A.mp3"
+    }
+  ]
+}

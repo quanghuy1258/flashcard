@@ -1,0 +1,18 @@
+{
+  "ja": "人数",
+  "hrkt": "にんずう",
+  "latn": "ninzuu",
+  "en": "number of people",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03799A.mp3",
+  "sentences": [
+    {
+      "ja": "参加者の<b>人数</b>を教えてください。",
+      "hrkt": "さんか しゃ の <b>にんずう</b> を おしえて ください。",
+      "latn": "sanka sha no <b>ninzuu</b> wo oshiete kudasai.",
+      "en": "Please tell me the number of participants.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03799A.mp3"
+    }
+  ]
+}

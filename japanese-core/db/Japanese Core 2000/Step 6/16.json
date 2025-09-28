@@ -1,0 +1,26 @@
+{
+  "ja": "向こう側",
+  "hrkt": "むこうがわ",
+  "latn": "mukougawa",
+  "en": "other side",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09064A.mp3",
+  "sentences": [
+    {
+      "ja": "私の家は川の<b>向こう側</b>にあります。",
+      "hrkt": "わたし の いえ は かわ の <b>むこう がわ</b> に あります。",
+      "latn": "watashi no ie ha kawa no <b>mukou gawa</b> ni arimasu.",
+      "en": "My house is on the other side of the river.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2185408.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09064A.mp3"
+    },
+    {
+      "ja": "郵便局は道の<b>向こう側</b>です。",
+      "hrkt": "ゆうびんきょく は みち の <b>むこう がわ</b> です。",
+      "latn": "yuubinkyoku ha michi no <b>mukou gawa</b> desu.",
+      "en": "The post office is on the other side of the street.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/552bbmflds.mp3"
+    }
+  ]
+}

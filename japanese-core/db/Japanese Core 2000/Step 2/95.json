@@ -1,0 +1,26 @@
+{
+  "ja": "訪れる",
+  "hrkt": "おとずれる",
+  "latn": "otozureru",
+  "en": "go and visit (place)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01145A.mp3",
+  "sentences": [
+    {
+      "ja": "私は夏に京都を<b>訪れました</b>。",
+      "hrkt": "わたし は なつ に きょうと を <b>おとずれました</b>。",
+      "latn": "watashi ha natsu ni kyouto wo <b>otozuremashita</b>.",
+      "en": "I went to and visited Kyoto this summer.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4704105.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01145A.mp3"
+    },
+    {
+      "ja": "年間5万人がここを<b>訪れます</b>。",
+      "hrkt": "ねんかん 5 まん にん が ここ を <b>おとずれます</b>。",
+      "latn": "nenkan 5 man nin ga koko wo <b>otozuremasu</b>.",
+      "en": "This place gets 50,000 visitors a year.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5311860.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07024A.mp3"
+    }
+  ]
+}

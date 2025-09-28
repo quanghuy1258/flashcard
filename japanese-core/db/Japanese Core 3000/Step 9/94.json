@@ -1,0 +1,18 @@
+{
+  "ja": "観光",
+  "hrkt": "かんこう",
+  "latn": "kankou",
+  "en": "sightseeing",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00484A.mp3",
+  "sentences": [
+    {
+      "ja": "京都で3日間<b>観光</b>しました。",
+      "hrkt": "きょうと で みっか かん <b>かんこう</b> しました。",
+      "latn": "kyouto de mikka kan <b>kankou</b> shimashita.",
+      "en": "I went sightseeing for three days in Kyoto.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/3405fr8vac.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00484A.mp3"
+    }
+  ]
+}

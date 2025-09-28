@@ -1,0 +1,18 @@
+{
+  "ja": "品",
+  "hrkt": "しな",
+  "latn": "shina",
+  "en": "goods, item",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01633A.mp3",
+  "sentences": [
+    {
+      "ja": "そちらの<b>品</b>は半額になっています。",
+      "hrkt": "そちら の <b>しな</b> は はんがく に なって います。",
+      "latn": "sochira no <b>shina</b> ha hangaku ni natte imasu.",
+      "en": "Those goods are half-price.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/94d0cv33eo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01633A.mp3"
+    }
+  ]
+}

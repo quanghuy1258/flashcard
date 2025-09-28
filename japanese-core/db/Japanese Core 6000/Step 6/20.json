@@ -1,0 +1,18 @@
+{
+  "ja": "聞かす",
+  "hrkt": "きかす",
+  "latn": "kikasu",
+  "en": "let (someone) hear, tell (a story etc.)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02180A.mp3",
+  "sentences": [
+    {
+      "ja": "子供に昔話を<b>聞かせて</b>あげたの。",
+      "hrkt": "こども に むかしばなし を <b>きかせて</b> あげた の。",
+      "latn": "kodomo ni mukashibanashi wo <b>kikasete</b> ageta no.",
+      "en": "I told some folk tales to my kids.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02180A.mp3"
+    }
+  ]
+}

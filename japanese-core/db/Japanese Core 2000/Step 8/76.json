@@ -1,0 +1,26 @@
+{
+  "ja": "少女",
+  "hrkt": "しょうじょ",
+  "latn": "shoujo",
+  "en": "young girl",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03292A.mp3",
+  "sentences": [
+    {
+      "ja": "それは<b>少女</b>向けの雑誌です。",
+      "hrkt": "それ は <b>しょうじょ</b> むけ の ざっし です。",
+      "latn": "sore ha <b>shoujo</b> muke no zasshi desu.",
+      "en": "It's a magazine for young girls.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4103049.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03292A.mp3"
+    },
+    {
+      "ja": "<b>少女</b>は母親の手を握った。",
+      "hrkt": "<b>しょうじょ</b> は ははおや の て を にぎった。",
+      "latn": "<b>shoujo</b> ha hahaoya no te wo nigitta.",
+      "en": "The girl clasped her mother's hand.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/660847.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06812A.mp3"
+    }
+  ]
+}

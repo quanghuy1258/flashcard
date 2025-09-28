@@ -1,0 +1,18 @@
+{
+  "ja": "カメラマン",
+  "hrkt": "カメラマン",
+  "latn": "kameraman",
+  "en": "photographer",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01434A.mp3",
+  "sentences": [
+    {
+      "ja": "将来はプロの<b>カメラマン</b>になりたいです。",
+      "hrkt": "しょうらい は プロ の <b>カメラマン</b> に なりたい です。",
+      "latn": "shourai ha puro no <b>kameraman</b> ni naritai desu.",
+      "en": "I want to be a professional photographer in the future.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/15e77q6brc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01434A.mp3"
+    }
+  ]
+}

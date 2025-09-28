@@ -1,0 +1,18 @@
+{
+  "ja": "葬式",
+  "hrkt": "そうしき",
+  "latn": "soushiki",
+  "en": "funeral",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02301A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>葬式</b>は明日です。",
+      "hrkt": "かれ の <b>そうしき</b> は あした です。",
+      "latn": "kare no <b>soushiki</b> ha ashita desu.",
+      "en": "His funeral is tomorrow.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02301A.mp3"
+    }
+  ]
+}

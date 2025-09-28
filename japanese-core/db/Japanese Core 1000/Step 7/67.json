@@ -1,0 +1,26 @@
+{
+  "ja": "四つ角",
+  "hrkt": "よつかど",
+  "latn": "yotsukado",
+  "en": "intersection",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09700A.mp3",
+  "sentences": [
+    {
+      "ja": "あそこの<b>四つ角</b>を左に曲がってください。",
+      "hrkt": "あそこ の <b>よつかど</b> を ひだり に まがって ください。",
+      "latn": "asoko no <b>yotsukado</b> wo hidari ni magatte kudasai.",
+      "en": "Please turn left at that crossroad up there.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6182766.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09700A.mp3"
+    },
+    {
+      "ja": "郵便局はあの<b>四つ角</b>にあります。",
+      "hrkt": "ゆうびんきょく は あの <b>よつかど</b> に あります。",
+      "latn": "yuubinkyoku ha ano <b>yotsukado</b> ni arimasu.",
+      "en": "The post office is located at that intersection.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/73cv2bb98s.mp3"
+    }
+  ]
+}

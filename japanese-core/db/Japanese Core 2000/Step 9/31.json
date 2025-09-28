@@ -1,0 +1,26 @@
+{
+  "ja": "爪",
+  "hrkt": "つめ",
+  "latn": "tsume",
+  "en": "nail, claw",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05938A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>爪</b>が伸びています。",
+      "hrkt": "<b>つめ</b> が のびて います。",
+      "latn": "<b>tsume</b> ga nobite imasu.",
+      "en": "My nails have grown.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4921859.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05938A.mp3"
+    },
+    {
+      "ja": "泳ぐ前に<b>爪</b>を切ってください。",
+      "hrkt": "およぐ まえ に <b>つめ</b> を きって ください。",
+      "latn": "oyogu mae ni <b>tsume</b> wo kitte kudasai.",
+      "en": "Please clip your nails before swimming.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a4429rbavc.mp3"
+    }
+  ]
+}

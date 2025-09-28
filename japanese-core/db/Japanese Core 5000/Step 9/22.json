@@ -1,0 +1,18 @@
+{
+  "ja": "演じる",
+  "hrkt": "えんじる",
+  "latn": "enjiru",
+  "en": "perform, play",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01003A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はよく刑事の役を<b>演じる</b>ね。",
+      "hrkt": "かれ は よく けいじ の やく を <b>えんじる</b> ね。",
+      "latn": "kare ha yoku keiji no yaku wo <b>enjiru</b> ne.",
+      "en": "He often plays a detective.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01003A.mp3"
+    }
+  ]
+}

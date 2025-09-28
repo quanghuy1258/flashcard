@@ -1,0 +1,26 @@
+{
+  "ja": "髪の毛",
+  "hrkt": "かみのけ",
+  "latn": "kaminoke",
+  "en": "hair, each single hair",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01775A.mp3",
+  "sentences": [
+    {
+      "ja": "パスタに<b>髪の毛</b>が入っていました。",
+      "hrkt": "パスタ に <b>かみのけ</b> が はいって いました。",
+      "latn": "pasuta ni <b>kaminoke</b> ga haitte imashita.",
+      "en": "There was a hair in my pasta.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/748f9k8cds.mp3"
+    },
+    {
+      "ja": "彼の部屋に長い<b>髪の毛</b>が落ちていました。",
+      "hrkt": "かれ の へや に ながい <b>かみのけ</b> が おちて いました。",
+      "latn": "kare no heya ni nagai <b>kaminoke</b> ga ochite imashita.",
+      "en": "There was a long strand of hair in his room.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d579dvautk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "考え",
+  "hrkt": "かんがえ",
+  "latn": "kangae",
+  "en": "thought, idea",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01879A.mp3",
+  "sentences": [
+    {
+      "ja": "それは良い<b>考え</b>です。",
+      "hrkt": "それ は いい <b>かんがえ</b> です。",
+      "latn": "sore ha ii <b>kangae</b> desu.",
+      "en": "That's a good idea.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5662507.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01879A.mp3"
+    },
+    {
+      "ja": "私には<b>考え</b>があります。",
+      "hrkt": "わたし に は <b>かんがえ</b> が あります。",
+      "latn": "watashi ni ha <b>kangae</b> ga arimasu.",
+      "en": "I have an idea.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a3ed5j7v2g.mp3"
+    }
+  ]
+}

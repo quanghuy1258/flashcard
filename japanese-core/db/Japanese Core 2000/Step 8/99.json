@@ -1,0 +1,26 @@
+{
+  "ja": "愛する",
+  "hrkt": "あいする",
+  "latn": "aisuru",
+  "en": "love, care for",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00011A.mp3",
+  "sentences": [
+    {
+      "ja": "私は家族を<b>愛して</b>います。",
+      "hrkt": "わたし は かぞく を <b>あいして</b> います。",
+      "latn": "watashi ha kazoku wo <b>aishite</b> imasu.",
+      "en": "I love my family.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4514510.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00011A.mp3"
+    },
+    {
+      "ja": "私はあの人を<b>愛して</b>いません。",
+      "hrkt": "わたし は あの ひと を <b>あいして</b> いません。",
+      "latn": "watashi ha ano hito wo <b>aishite</b> imasen.",
+      "en": "I don't love that person.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e47ra57210.mp3"
+    }
+  ]
+}

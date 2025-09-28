@@ -1,0 +1,26 @@
+{
+  "ja": "グラス",
+  "hrkt": "グラス",
+  "latn": "gurasu",
+  "en": "glass",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02529A.mp3",
+  "sentences": [
+    {
+      "ja": "これはきれいな<b>グラス</b>ですね。",
+      "hrkt": "これ は きれいな <b>グラス</b> です ね。",
+      "latn": "kore ha kireina <b>gurasu</b> desu ne.",
+      "en": "This is a beautiful glass.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4313345.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02529A.mp3"
+    },
+    {
+      "ja": "<b>グラス</b>に氷を入れてください。",
+      "hrkt": "<b>グラス</b> に こおり を いれて ください。",
+      "latn": "<b>gurasu</b> ni koori wo irete kudasai.",
+      "en": "Please put some ice in my glass.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1081144.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03031A.mp3"
+    }
+  ]
+}

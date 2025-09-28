@@ -1,0 +1,18 @@
+{
+  "ja": "雑音",
+  "hrkt": "ざつおん",
+  "latn": "zatsuon",
+  "en": "noise, interference",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01018A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>雑音</b>がひどくて声が聞こえません。",
+      "hrkt": "<b>ざつおん</b> が ひどくて こえ が きこえません。",
+      "latn": "<b>zatsuon</b> ga hidokute koe ga kikoemasen.",
+      "en": "The background noise is so loud that I can't hear your voice.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01018A.mp3"
+    }
+  ]
+}

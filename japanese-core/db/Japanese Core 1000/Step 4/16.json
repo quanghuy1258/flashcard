@@ -1,0 +1,26 @@
+{
+  "ja": "八日",
+  "hrkt": "ようか",
+  "latn": "youka",
+  "en": "eight days, eighth of the month",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09581A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>八日</b>からイギリスに行きます。",
+      "hrkt": "<b>ようか</b> から イギリス に いきます。",
+      "latn": "<b>youka</b> kara igirisu ni ikimasu.",
+      "en": "I will go to England from the eighth.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2767452.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09581A.mp3"
+    },
+    {
+      "ja": "次のミーティングは五月<b>八日</b>の3時からです。",
+      "hrkt": "つぎ の ミーティング は ご がつ <b>ようか</b> の 3 じ から です。",
+      "latn": "tsugi no mi-tingu ha go gatsu <b>youka</b> no 3 ji kara desu.",
+      "en": "The next meeting is at 3 o'clock on May 8th.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/73aefb3p94.mp3"
+    }
+  ]
+}

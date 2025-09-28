@@ -1,0 +1,18 @@
+{
+  "ja": "出荷",
+  "hrkt": "しゅっか",
+  "latn": "shukka",
+  "en": "shipping",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00269A.mp3",
+  "sentences": [
+    {
+      "ja": "ご注文の品は明日<b>出荷</b>いたします。",
+      "hrkt": "ごちゅうもん の しな は あす <b>しゅっか</b> いたします。",
+      "latn": "gochuumon no shina ha asu <b>shukka</b> itashimasu.",
+      "en": "We will ship your orders tomorrow.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00269A.mp3"
+    }
+  ]
+}

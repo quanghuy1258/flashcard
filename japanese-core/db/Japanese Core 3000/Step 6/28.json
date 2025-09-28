@@ -1,0 +1,18 @@
+{
+  "ja": "じめじめ",
+  "hrkt": "じめじめ",
+  "latn": "jimejime",
+  "en": "damp",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03355A.mp3",
+  "sentences": [
+    {
+      "ja": "梅雨どきは<b>じめじめ</b>する。",
+      "hrkt": "つゆ どき は <b>じめじめ</b> する。",
+      "latn": "tsuyu doki ha <b>jimejime</b> suru.",
+      "en": "It is damp in the rainy season.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03355A.mp3"
+    }
+  ]
+}

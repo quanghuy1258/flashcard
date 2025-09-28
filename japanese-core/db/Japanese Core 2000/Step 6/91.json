@@ -1,0 +1,26 @@
+{
+  "ja": "職業",
+  "hrkt": "しょくぎょう",
+  "latn": "shokugyou",
+  "en": "occupation, job",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01278A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの<b>職業</b>を教えてください。",
+      "hrkt": "あなた の <b>しょくぎょう</b> を おしえて ください。",
+      "latn": "anata no <b>shokugyou</b> wo oshiete kudasai.",
+      "en": "What do you do for living?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1723371.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01278A.mp3"
+    },
+    {
+      "ja": "ご<b>職業</b>は何ですか。",
+      "hrkt": "ご<b>しょくぎょう</b> は なん です か。",
+      "latn": "go<b>shokugyou</b> ha nan desu ka.",
+      "en": "What's your occupation?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a52s96ds60.mp3"
+    }
+  ]
+}

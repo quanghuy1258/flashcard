@@ -1,0 +1,26 @@
+{
+  "ja": "効果",
+  "hrkt": "こうか",
+  "latn": "kouka",
+  "en": "effect, result",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02864A.mp3",
+  "sentences": [
+    {
+      "ja": "この薬には胃を守る<b>効果</b>がある。",
+      "hrkt": "この くすり に は い を まもる <b>こうか</b> が ある。",
+      "latn": "kono kusuri ni ha i wo mamoru <b>kouka</b> ga aru.",
+      "en": "This medicine is effective in protecting your stomach.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/519751.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02864A.mp3"
+    },
+    {
+      "ja": "あの注射は<b>効果</b>がありませんでした。",
+      "hrkt": "あの ちゅうしゃ は <b>こうか</b> が ありません でした。",
+      "latn": "ano chuusha ha <b>kouka</b> ga arimasen deshita.",
+      "en": "That injection wasn't effective.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/810j5c8epc.mp3"
+    }
+  ]
+}

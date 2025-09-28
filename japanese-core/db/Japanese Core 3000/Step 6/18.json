@@ -1,0 +1,18 @@
+{
+  "ja": "わさび",
+  "hrkt": "わさび",
+  "latn": "wasabi",
+  "en": "Japanese horseradish",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03412A.mp3",
+  "sentences": [
+    {
+      "ja": "刺身に<b>わさび</b>は欠かせませんね。",
+      "hrkt": "さしみ に <b>わさび</b> は かかせません ね。",
+      "latn": "sashimi ni <b>wasabi</b> ha kakasemasen ne.",
+      "en": "Wasabi is indispensable to sashimi.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c6eb9r3kg4.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03412A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ぶどう",
+  "hrkt": "ぶどう",
+  "latn": "budou",
+  "en": "grapes",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08126A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>ぶどう</b>が好きです。",
+      "hrkt": "わたし は <b>ぶどう</b> が すき です。",
+      "latn": "watashi ha <b>budou</b> ga suki desu.",
+      "en": "I like grapes.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6468051.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08126A.mp3"
+    },
+    {
+      "ja": "この<b>ぶどう</b>は酸っぱいです。",
+      "hrkt": "この <b>ぶどう</b> は すっぱい です。",
+      "latn": "kono <b>budou</b> ha suppai desu.",
+      "en": "These grapes are sour.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5133315.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04586A.mp3"
+    }
+  ]
+}

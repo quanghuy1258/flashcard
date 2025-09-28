@@ -1,0 +1,26 @@
+{
+  "ja": "レストラン",
+  "hrkt": "レストラン",
+  "latn": "resutoran",
+  "en": "restaurant",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09929A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>レストラン</b>でインド料理を食べました。",
+      "hrkt": "<b>レストラン</b> で インド りょうり を たべました。",
+      "latn": "<b>resutoran</b> de indo ryouri wo tabemashita.",
+      "en": "I ate Indian food at the restaurant.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6388253.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09929A.mp3"
+    },
+    {
+      "ja": "<b>レストラン</b>を予約しました。",
+      "hrkt": "<b>レストラン</b> を よやく しました。",
+      "latn": "<b>resutoran</b> wo yoyaku shimashita.",
+      "en": "I made a reservation at the restaurant.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3570847.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09731A.mp3"
+    }
+  ]
+}

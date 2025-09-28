@@ -1,0 +1,18 @@
+{
+  "ja": "規模",
+  "hrkt": "きぼ",
+  "latn": "kibo",
+  "en": "scale, scope",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02145A.mp3",
+  "sentences": [
+    {
+      "ja": "この動物園は日本一の<b>規模</b>です。",
+      "hrkt": "この どうぶつえん は にっぽん いち の <b>きぼ</b> です。",
+      "latn": "kono doubutsuen ha nippon ichi no <b>kibo</b> desu.",
+      "en": "This is the largest zoo in Japan.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02145A.mp3"
+    }
+  ]
+}

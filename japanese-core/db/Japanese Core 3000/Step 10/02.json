@@ -1,0 +1,18 @@
+{
+  "ja": "人物",
+  "hrkt": "じんぶつ",
+  "latn": "jinbutsu",
+  "en": "character, person",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00204A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は会社の重要な<b>人物</b>です。",
+      "hrkt": "かれ は かいしゃ の じゅうような <b>じんぶつ</b> です。",
+      "latn": "kare ha kaisha no juuyouna <b>jinbutsu</b> desu.",
+      "en": "He is an important person in the company.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e4a1f74r28.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00204A.mp3"
+    }
+  ]
+}

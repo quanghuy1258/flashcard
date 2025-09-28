@@ -1,0 +1,18 @@
+{
+  "ja": "返る",
+  "hrkt": "かえる",
+  "latn": "kaeru",
+  "en": "return, go back",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03567A.mp3",
+  "sentences": [
+    {
+      "ja": "もう一度原点に<b>返って</b>考えましょう。",
+      "hrkt": "もう いちど げんてん に <b>かえって</b> かんがえましょう。",
+      "latn": "mou ichido genten ni <b>kaette</b> kangaemashou.",
+      "en": "Let's go back to the beginning and think again.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03567A.mp3"
+    }
+  ]
+}

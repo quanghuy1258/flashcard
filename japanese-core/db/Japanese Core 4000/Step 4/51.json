@@ -1,0 +1,18 @@
+{
+  "ja": "豊富",
+  "hrkt": "ほうふ",
+  "latn": "houfu",
+  "en": "abundant, plentiful",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03392A.mp3",
+  "sentences": [
+    {
+      "ja": "この果物はビタミンが<b>豊富</b>です。",
+      "hrkt": "この くだもの は ビタミン が <b>ほうふ</b> です。",
+      "latn": "kono kudamono ha bitamin ga <b>houfu</b> desu.",
+      "en": "This fruit is abundant in vitamins.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03392A.mp3"
+    }
+  ]
+}

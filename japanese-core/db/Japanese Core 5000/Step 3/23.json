@@ -1,0 +1,18 @@
+{
+  "ja": "目印",
+  "hrkt": "めじるし",
+  "latn": "mejirushi",
+  "en": "landmark, sign (to spot)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02500A.mp3",
+  "sentences": [
+    {
+      "ja": "私の家は赤い屋根が<b>目印</b>です。",
+      "hrkt": "わたし の いえ は あかい やね が <b>めじるし</b> です。",
+      "latn": "watashi no ie ha akai yane ga <b>mejirushi</b> desu.",
+      "en": "My house has a red roof that's easy to spot.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02500A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "浅い",
+  "hrkt": "あさい",
+  "latn": "asai",
+  "en": "shallow, superficial",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00103A.mp3",
+  "sentences": [
+    {
+      "ja": "この川は<b>浅い</b>です。",
+      "hrkt": "この かわ は <b>あさい</b> です。",
+      "latn": "kono kawa ha <b>asai</b> desu.",
+      "en": "This river is shallow.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6191370.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00103A.mp3"
+    },
+    {
+      "ja": "ここは<b>浅くて</b>泳げません。",
+      "hrkt": "ここ は <b>あさくて</b> およげません。",
+      "latn": "koko ha <b>asakute</b> oyogemasen.",
+      "en": "We can't swim here, because it's shallow.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f50e6ob7b4.mp3"
+    }
+  ]
+}

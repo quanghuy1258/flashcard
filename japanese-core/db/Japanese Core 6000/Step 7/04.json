@@ -1,0 +1,18 @@
+{
+  "ja": "病室",
+  "hrkt": "びょうしつ",
+  "latn": "byoushitsu",
+  "en": "hospital room",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01707A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>病室</b>はとても広くてきれいだった。",
+      "hrkt": "その <b>びょうしつ</b> は とても ひろくて きれい だった。",
+      "latn": "sono <b>byoushitsu</b> ha totemo hirokute kirei datta.",
+      "en": "The hospital room was very large and clean.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01707A.mp3"
+    }
+  ]
+}

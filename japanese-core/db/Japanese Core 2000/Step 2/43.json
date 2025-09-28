@@ -1,0 +1,26 @@
+{
+  "ja": "投げる",
+  "hrkt": "なげる",
+  "latn": "nageru",
+  "en": "throw",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06670A.mp3",
+  "sentences": [
+    {
+      "ja": "ボールをこっちに<b>投げて</b>ください。",
+      "hrkt": "ボール を こっち に <b>なげて</b> ください。",
+      "latn": "bo-ru wo kocchi ni <b>nagete</b> kudasai.",
+      "en": "Please throw the ball over here.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5388724.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06670A.mp3"
+    },
+    {
+      "ja": "彼はボールを<b>投げた</b>。",
+      "hrkt": "かれ は ボール を <b>なげた</b>。",
+      "latn": "kare ha bo-ru wo <b>nageta</b>.",
+      "en": "He threw the ball.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1802365.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08477A.mp3"
+    }
+  ]
+}

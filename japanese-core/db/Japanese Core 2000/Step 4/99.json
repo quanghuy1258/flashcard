@@ -1,0 +1,26 @@
+{
+  "ja": "物語",
+  "hrkt": "ものがたり",
+  "latn": "monogatari",
+  "en": "story, tale",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/7l9l1nek5sjs8.mp3",
+  "sentences": [
+    {
+      "ja": "私は今、アメリカの<b>物語</b>を読んでいます。",
+      "hrkt": "わたし は いま、アメリカ の <b>ものがたり</b> を よんで います。",
+      "latn": "watashi ha ima,amerika no <b>monogatari</b> wo yonde imasu.",
+      "en": "I'm reading a story about America now.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/c48i1g4vhs.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e41i6g4voo.mp3"
+    },
+    {
+      "ja": "これは日本の女の子の<b>物語</b>です。",
+      "hrkt": "これ は にほん の おんな の こ の <b>ものがたり</b> です。",
+      "latn": "kore ha nihon no onna no ko no <b>monogatari</b> desu.",
+      "en": "This is a story of a Japanese girl.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b65e7e2b8c.mp3"
+    }
+  ]
+}

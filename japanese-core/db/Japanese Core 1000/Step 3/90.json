@@ -1,0 +1,26 @@
+{
+  "ja": "これから",
+  "hrkt": "これから",
+  "latn": "korekara",
+  "en": "from now on, after this",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03629A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>これから</b>はもっと気を付けます。",
+      "hrkt": "<b>これから</b> は もっと き を つけます。",
+      "latn": "<b>korekara</b> ha motto ki wo tsukemasu.",
+      "en": "I will be more careful from now on.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/el5m9vai0j9mg.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03629A.mp3"
+    },
+    {
+      "ja": "私は<b>これから</b>お医者さんに行きます。",
+      "hrkt": "わたし は <b>これから</b> おいしゃさん に いきます。",
+      "latn": "watashi ha <b>korekara</b> oishasan ni ikimasu.",
+      "en": "I'm going to a doctor now.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/253odsd77k.mp3"
+    }
+  ]
+}

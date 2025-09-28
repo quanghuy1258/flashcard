@@ -1,0 +1,18 @@
+{
+  "ja": "塊",
+  "hrkt": "かたまり",
+  "latn": "katamari",
+  "en": "mass, clump",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03574A.mp3",
+  "sentences": [
+    {
+      "ja": "道に土の<b>塊</b>ができてたよ。",
+      "hrkt": "みち に つち の <b>かたまり</b> が できてた よ。",
+      "latn": "michi ni tsuchi no <b>katamari</b> ga dekiteta yo.",
+      "en": "There was a clump of dirt on the road.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03574A.mp3"
+    }
+  ]
+}

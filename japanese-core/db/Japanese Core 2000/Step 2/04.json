@@ -1,0 +1,26 @@
+{
+  "ja": "さっき",
+  "hrkt": "さっき",
+  "latn": "sakki",
+  "en": "earlier, only a moment ago",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03450A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>さっき</b>の話を続けましょう。",
+      "hrkt": "<b>さっき</b> の はなし を つづけましょう。",
+      "latn": "<b>sakki</b> no hanashi wo tsuzukemashou.",
+      "en": "Let's continue the conversation we had earlier.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3072983.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03450A.mp3"
+    },
+    {
+      "ja": "<b>さっき</b>郵便が届きました。",
+      "hrkt": "<b>さっき</b> ゆうびん が とどきました。",
+      "latn": "<b>sakki</b> yuubin ga todokimashita.",
+      "en": "The mail has just arrived.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3067318.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09513A.mp3"
+    }
+  ]
+}

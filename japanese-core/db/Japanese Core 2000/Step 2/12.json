@@ -1,0 +1,26 @@
+{
+  "ja": "ひどい",
+  "hrkt": "ひどい",
+  "latn": "hidoi",
+  "en": "cruel, awful",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07757A.mp3",
+  "sentences": [
+    {
+      "ja": "妹と<b>ひどい</b>喧嘩をした。",
+      "hrkt": "いもうと と <b>ひどい</b> けんか を した。",
+      "latn": "imouto to <b>hidoi</b> kenka wo shita.",
+      "en": "I had an awful fight with my little sister.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1636126.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07757A.mp3"
+    },
+    {
+      "ja": "今日は<b>ひどい</b>雨になりましたね。",
+      "hrkt": "きょう は <b>ひどい</b> あめ に なりました ね。",
+      "latn": "kyou ha <b>hidoi</b> ame ni narimashita ne.",
+      "en": "We ended up having a terrible downpour today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/43avd47ch4.mp3"
+    }
+  ]
+}

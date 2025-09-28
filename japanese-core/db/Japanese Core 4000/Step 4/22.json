@@ -1,0 +1,18 @@
+{
+  "ja": "学問",
+  "hrkt": "がくもん",
+  "latn": "gakumon",
+  "en": "learning, scholarship",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00843A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は少年の頃から<b>学問</b>が好きでした。",
+      "hrkt": "かれ は しょうねん の ころ から <b>がくもん</b> が すき でした。",
+      "latn": "kare ha shounen no koro kara <b>gakumon</b> ga suki deshita.",
+      "en": "He's liked to learn ever since he was a little boy.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00843A.mp3"
+    }
+  ]
+}

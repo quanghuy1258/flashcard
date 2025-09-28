@@ -1,0 +1,18 @@
+{
+  "ja": "作曲",
+  "hrkt": "さっきょく",
+  "latn": "sakkyoku",
+  "en": "composition (music)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01961A.mp3",
+  "sentences": [
+    {
+      "ja": "この曲は誰が<b>作曲</b>したのですか。",
+      "hrkt": "この きょく は だれ が <b>さっきょく</b> した の です か。",
+      "latn": "kono kyoku ha dare ga <b>sakkyoku</b> shita no desu ka.",
+      "en": "Who composed this piece of music?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01961A.mp3"
+    }
+  ]
+}

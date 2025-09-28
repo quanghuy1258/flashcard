@@ -1,0 +1,26 @@
+{
+  "ja": "下がる",
+  "hrkt": "さがる",
+  "latn": "sagaru",
+  "en": "go down, drop",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03369A.mp3",
+  "sentences": [
+    {
+      "ja": "やっと熱が<b>下がった</b>。",
+      "hrkt": "やっと ねつ が <b>さがった</b>。",
+      "latn": "yatto netsu ga <b>sagatta</b>.",
+      "en": "His fever finally went down.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5272318.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03369A.mp3"
+    },
+    {
+      "ja": "あなたの成績が<b>下がった</b>のは当たり前です。",
+      "hrkt": "あなた の せいせき が <b>さがった</b> の は あたりまえ です。",
+      "latn": "anata no seiseki ga <b>sagatta</b> no ha atarimae desu.",
+      "en": "No wonder your grades dropped.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/d696b780kg.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01643A.mp3"
+    }
+  ]
+}

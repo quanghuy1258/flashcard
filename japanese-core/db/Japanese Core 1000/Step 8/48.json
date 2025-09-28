@@ -1,0 +1,26 @@
+{
+  "ja": "本屋",
+  "hrkt": "ほんや",
+  "latn": "hon'ya",
+  "en": "bookstore (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08619A.mp3",
+  "sentences": [
+    {
+      "ja": "駅前に<b>本屋</b>があります。",
+      "hrkt": "えき まえ に <b>ほんや</b> が あります。",
+      "latn": "eki mae ni <b>hon'ya</b> ga arimasu.",
+      "en": "There's a bookstore in front of the station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3943709.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08619A.mp3"
+    },
+    {
+      "ja": "最近、<b>本屋</b>の数が減っている。",
+      "hrkt": "さいきん、<b>ほんや</b> の かず が へって いる。",
+      "latn": "saikin,<b>hon'ya</b> no kazu ga hette iru.",
+      "en": "Lately, there are fewer and fewer book stores.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/5444br82d8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "値引き",
+  "hrkt": "ねびき",
+  "latn": "nebiki",
+  "en": "discount, price reduction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01929A.mp3",
+  "sentences": [
+    {
+      "ja": "あと1000円<b>値引き</b>しましょう。",
+      "hrkt": "あと せん えん <b>ねびき</b> しましょう。",
+      "latn": "ato sen en <b>nebiki</b> shimashou.",
+      "en": "I'll further give you a 1,000 yen discount.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01929A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "鶴",
+  "hrkt": "つる",
+  "latn": "tsuru",
+  "en": "crane",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03760A.mp3",
+  "sentences": [
+    {
+      "ja": "湖に<b>鶴</b>がいますよ。",
+      "hrkt": "みずうみ に <b>つる</b> が います よ。",
+      "latn": "mizuumi ni <b>tsuru</b> ga imasu yo.",
+      "en": "There's a crane on the lake.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03760A.mp3?1220181150"
+    }
+  ]
+}

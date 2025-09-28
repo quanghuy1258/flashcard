@@ -1,0 +1,26 @@
+{
+  "ja": "いとこ",
+  "hrkt": "いとこ",
+  "latn": "itoko",
+  "en": "cousin",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00555A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>いとこ</b>と私は同じ年です。",
+      "hrkt": "<b>いとこ</b> と わたし は おなじ とし です。",
+      "latn": "<b>itoko</b> to watashi ha onaji toshi desu.",
+      "en": "My cousin and I are the same age.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6295631.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00555A.mp3"
+    },
+    {
+      "ja": "来週、<b>いとこ</b>がうちに泊まりに来ます。",
+      "hrkt": "らいしゅう、<b>いとこ</b> が うち に とまり に きます。",
+      "latn": "raishuu,<b>itoko</b> ga uchi ni tomari ni kimasu.",
+      "en": "Next week, my cousin will come to stay over.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/180p9n6ui4.mp3"
+    }
+  ]
+}

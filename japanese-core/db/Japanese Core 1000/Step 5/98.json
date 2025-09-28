@@ -1,0 +1,26 @@
+{
+  "ja": "洗う",
+  "hrkt": "あらう",
+  "latn": "arau",
+  "en": "wash",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00260A.mp3",
+  "sentences": [
+    {
+      "ja": "早く顔を<b>洗いなさい</b>。",
+      "hrkt": "はやく かお を <b>あらいなさい</b>。",
+      "latn": "hayaku kao wo <b>arainasai</b>.",
+      "en": "Hurry and wash your face.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3038269.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00260A.mp3"
+    },
+    {
+      "ja": "石鹸で手を<b>洗って</b>ください。",
+      "hrkt": "せっけん で て を <b>あらって</b> ください。",
+      "latn": "sekken de te wo <b>aratte</b> kudasai.",
+      "en": "Please wash your hands with soap.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2996747.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04804A.mp3"
+    }
+  ]
+}

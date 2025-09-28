@@ -1,0 +1,18 @@
+{
+  "ja": "鳩",
+  "hrkt": "はと",
+  "latn": "hato",
+  "en": "pigeon, dove",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03474A.mp3",
+  "sentences": [
+    {
+      "ja": "公園の<b>鳩</b>にえさをやったの。",
+      "hrkt": "こうえん の <b>はと</b> に えさ を やった の。",
+      "latn": "kouen no <b>hato</b> ni esa wo yatta no.",
+      "en": "I fed the pigeons in the park.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c52kdc9p2k.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03474A.mp3"
+    }
+  ]
+}

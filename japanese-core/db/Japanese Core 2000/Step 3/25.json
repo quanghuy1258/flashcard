@@ -1,0 +1,26 @@
+{
+  "ja": "読み",
+  "hrkt": "よみ",
+  "latn": "yomi",
+  "en": "reading",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09724A.mp3",
+  "sentences": [
+    {
+      "ja": "私はその漢字の<b>読み</b>を間違えました。",
+      "hrkt": "わたし は その かんじ の <b>よみ</b> を まちがえました。",
+      "latn": "watashi ha sono kanji no <b>yomi</b> wo machigaemashita.",
+      "en": "I read the Kanji character wrong.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/35crbc8aac.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e5f7fo9gg0.mp3"
+    },
+    {
+      "ja": "同じ漢字でも<b>読み</b>が二つ以上ある言葉があります。",
+      "hrkt": "おなじ かんじ で も <b>よみ</b> が ふたつ いじょう ある ことば が あります。",
+      "latn": "onaji kanji de mo <b>yomi</b> ga futatsu ijou aru kotoba ga arimasu.",
+      "en": "There are words that use the same Kanji characters but have two or more different readings.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/16192pe0ss.mp3"
+    }
+  ]
+}

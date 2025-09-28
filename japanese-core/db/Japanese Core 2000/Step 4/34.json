@@ -1,0 +1,26 @@
+{
+  "ja": "別れる",
+  "hrkt": "わかれる",
+  "latn": "wakareru",
+  "en": "separate, part",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW10013A.mp3",
+  "sentences": [
+    {
+      "ja": "駅で友だちと<b>別れました</b>。",
+      "hrkt": "えき で ともだち と <b>わかれました</b>。",
+      "latn": "eki de tomodachi to <b>wakaremashita</b>.",
+      "en": "I parted with my friend at the station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2113586.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10013A.mp3"
+    },
+    {
+      "ja": "彼女とは3か月前に<b>別れました</b>。",
+      "hrkt": "かのじょ と は 3 かげつ まえ に <b>わかれました</b>。",
+      "latn": "kanojo to ha 3 kagetsu mae ni <b>wakaremashita</b>.",
+      "en": "I broke up with her three months ago.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/958h79clq0.mp3"
+    }
+  ]
+}

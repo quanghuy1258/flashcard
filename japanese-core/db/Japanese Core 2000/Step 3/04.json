@@ -1,0 +1,26 @@
+{
+  "ja": "果物",
+  "hrkt": "くだもの",
+  "latn": "kudamono",
+  "en": "fruit",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02459A.mp3",
+  "sentences": [
+    {
+      "ja": "デザートに<b>果物</b>を食べましょう。",
+      "hrkt": "デザート に <b>くだもの</b> を たべましょう。",
+      "latn": "deza-to ni <b>kudamono</b> wo tabemashou.",
+      "en": "Let's have some fruit for dessert.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4042973.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02459A.mp3"
+    },
+    {
+      "ja": "昨日珍しい<b>果物</b>を食べました。",
+      "hrkt": "きのう めずらしい <b>くだもの</b> を たべました。",
+      "latn": "kinou mezurashii <b>kudamono</b> wo tabemashita.",
+      "en": "I ate some unusual fruit yesterday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1139110.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09197A.mp3"
+    }
+  ]
+}

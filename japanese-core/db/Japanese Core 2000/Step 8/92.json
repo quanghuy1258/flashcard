@@ -1,0 +1,26 @@
+{
+  "ja": "不親切",
+  "hrkt": "ふしんせつ",
+  "latn": "fushinsetsu",
+  "en": "unkind, inconsiderate",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08070A.mp3",
+  "sentences": [
+    {
+      "ja": "その店員は<b>不親切</b>だった。",
+      "hrkt": "その てんいん は <b>ふしんせつ</b> だった。",
+      "latn": "sono tenin ha <b>fushinsetsu</b> datta.",
+      "en": "That store clerk was unkind.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1619589.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08070A.mp3"
+    },
+    {
+      "ja": "あの医者はいつも<b>不親切</b>だ。",
+      "hrkt": "あの いしゃ は いつも <b>ふしんせつ</b> だ。",
+      "latn": "ano isha ha itsumo <b>fushinsetsu</b> da.",
+      "en": "That doctor is always unkind.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b104aoapr8.mp3"
+    }
+  ]
+}

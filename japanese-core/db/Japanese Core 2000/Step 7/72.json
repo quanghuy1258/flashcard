@@ -1,0 +1,26 @@
+{
+  "ja": "マフラー",
+  "hrkt": "マフラー",
+  "latn": "mafura-",
+  "en": "scarf, muffler",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08790A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は首に<b>マフラー</b>をまいていた。",
+      "hrkt": "かのじょ は くび に <b>マフラー</b> を まいて いた。",
+      "latn": "kanojo ha kubi ni <b>mafura-</b> wo maite ita.",
+      "en": "She was wearing a scarf around her neck.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4564338.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08790A.mp3"
+    },
+    {
+      "ja": "今日は寒いので、手袋と<b>マフラー</b>をしています。",
+      "hrkt": "きょう は さむい ので、てぶくろ と <b>マフラー</b> を して います。",
+      "latn": "kyou ha samui node,tebukuro to <b>mafura-</b> wo shite imasu.",
+      "en": "It's cold today, so I'm wearing gloves and a scarf.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f3db3jfe00.mp3"
+    }
+  ]
+}

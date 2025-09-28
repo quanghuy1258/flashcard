@@ -1,0 +1,18 @@
+{
+  "ja": "かく",
+  "hrkt": "かく",
+  "latn": "kaku",
+  "en": "scratch",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03017A.mp3",
+  "sentences": [
+    {
+      "ja": "背中をお母さんに<b>かいて</b>もらったの。",
+      "hrkt": "せなか を おかあさん に <b>かいて</b> もらった の。",
+      "latn": "senaka wo okaasan ni <b>kaite</b> moratta no.",
+      "en": "I had my mother scratch my back.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d5d31ucri8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03017A.mp3"
+    }
+  ]
+}

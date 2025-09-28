@@ -1,0 +1,18 @@
+{
+  "ja": "シャープペンシル",
+  "hrkt": "シャープペンシル",
+  "latn": "sha-pupenshiru",
+  "en": "mechanical pencil",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03893A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>シャープペンシル</b>がありません。",
+      "hrkt": "わたし の <b>シャープペンシル</b> が ありません。",
+      "latn": "watashi no <b>sha-pupenshiru</b> ga arimasen.",
+      "en": "My mechanical pencil is missing.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c5e8f62fko.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03893A.mp3"
+    }
+  ]
+}

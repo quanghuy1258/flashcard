@@ -1,0 +1,26 @@
+{
+  "ja": "注文",
+  "hrkt": "ちゅうもん",
+  "latn": "chuumon",
+  "en": "order",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05681A.mp3",
+  "sentences": [
+    {
+      "ja": "レストランでピザを<b>注文</b>しました。",
+      "hrkt": "レストラン で ピザ を <b>ちゅうもん</b> しました。",
+      "latn": "resutoran de piza wo <b>chuumon</b> shimashita.",
+      "en": "I ordered pizza at the restaurant.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3406850.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05681A.mp3"
+    },
+    {
+      "ja": "カタログを見て<b>注文</b>したんだ。",
+      "hrkt": "カタログ を みて <b>ちゅうもん</b> した ん だ。",
+      "latn": "katarogu wo mite <b>chuumon</b> shita n da.",
+      "en": "I looked at the catalog and placed an order.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/63an5o7tjk.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02001A.mp3"
+    }
+  ]
+}

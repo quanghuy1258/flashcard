@@ -1,0 +1,26 @@
+{
+  "ja": "急に",
+  "hrkt": "きゅうに",
+  "latn": "kyuuni",
+  "en": "suddenly, unexpectedly",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02218A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>急に</b>用事を思い出した。",
+      "hrkt": "<b>きゅう に</b> ようじ を おもいだした。",
+      "latn": "<b>kyuu ni</b> youji wo omoidashita.",
+      "en": "I suddenly remembered something I have to take care of.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/315171.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02218A.mp3"
+    },
+    {
+      "ja": "友達が<b>急に</b>家に来た。",
+      "hrkt": "ともだち が <b>きゅう に</b> いえ に きた。",
+      "latn": "tomodachi ga <b>kyuu ni</b> ie ni kita.",
+      "en": "My friend suddenly came to my home.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/6462fa31bo.mp3"
+    }
+  ]
+}

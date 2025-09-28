@@ -1,0 +1,18 @@
+{
+  "ja": "管",
+  "hrkt": "かん",
+  "latn": "kan",
+  "en": "pipe, tube",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01524A.mp3",
+  "sentences": [
+    {
+      "ja": "ガス<b>管</b>が爆発しました。",
+      "hrkt": "ガス <b>かん</b> が ばくはつ しました。",
+      "latn": "gasu <b>kan</b> ga bakuhatsu shimashita.",
+      "en": "The gas pipe exploded.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01524A.mp3"
+    }
+  ]
+}

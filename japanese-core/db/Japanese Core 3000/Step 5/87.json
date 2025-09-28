@@ -1,0 +1,18 @@
+{
+  "ja": "甥",
+  "hrkt": "おい",
+  "latn": "oi",
+  "en": "nephew",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03339A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>甥</b>は3才です。",
+      "hrkt": "わたし の <b>おい</b> は 3 さい です。",
+      "latn": "watashi no <b>oi</b> ha 3 sai desu.",
+      "en": "My nephew is 3 years old.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/944p7s5e94.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03339A.mp3"
+    }
+  ]
+}

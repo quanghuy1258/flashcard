@@ -1,0 +1,18 @@
+{
+  "ja": "宛名",
+  "hrkt": "あてな",
+  "latn": "atena",
+  "en": "name of recipient, addressee",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03419A.mp3",
+  "sentences": [
+    {
+      "ja": "手紙に<b>宛名</b>を書き込んだよ。",
+      "hrkt": "てがみ に <b>あてな</b> を かきこんだ よ。",
+      "latn": "tegami ni <b>atena</b> wo kakikonda yo.",
+      "en": "I filled in the name of the addressee on the letter.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/2213fbf680.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03419A.mp3"
+    }
+  ]
+}

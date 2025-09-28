@@ -1,0 +1,26 @@
+{
+  "ja": "白い",
+  "hrkt": "しろい",
+  "latn": "shiroi",
+  "en": "white, blank",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04346A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は歯が<b>白い</b>。",
+      "hrkt": "かれ は は が <b>しろい</b>。",
+      "latn": "kare ha ha ga <b>shiroi</b>.",
+      "en": "His teeth are white.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2683096.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04346A.mp3"
+    },
+    {
+      "ja": "庭に<b>白い</b>ネコがいます。",
+      "hrkt": "にわ に <b>しろい</b> ネコ が います。",
+      "latn": "niwa ni <b>shiroi</b> neko ga imasu.",
+      "en": "There's a white cat in the garden.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/137400.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06903A.mp3"
+    }
+  ]
+}

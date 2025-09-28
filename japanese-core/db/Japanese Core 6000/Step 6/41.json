@@ -1,0 +1,18 @@
+{
+  "ja": "割り当てる",
+  "hrkt": "わりあてる",
+  "latn": "wariateru",
+  "en": "assign, allot",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01826A.mp3",
+  "sentences": [
+    {
+      "ja": "全員に作業が<b>割り当てられました</b>。",
+      "hrkt": "ぜんいん に さぎょう が <b>わりあてられました</b>。",
+      "latn": "zenin ni sagyou ga <b>wariateraremashita</b>.",
+      "en": "Everyone has been assigned work.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01826A.mp3"
+    }
+  ]
+}

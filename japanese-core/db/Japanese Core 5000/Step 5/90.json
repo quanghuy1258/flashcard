@@ -1,0 +1,18 @@
+{
+  "ja": "打ち合わせる",
+  "hrkt": "うちあわせる",
+  "latn": "uchiawaseru",
+  "en": "arrange, discuss",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03126A.mp3",
+  "sentences": [
+    {
+      "ja": "来週の予定を<b>打ち合わせましょう</b>。",
+      "hrkt": "らいしゅう の よてい を <b>うちあわせましょう</b>。",
+      "latn": "raishuu no yotei wo <b>uchiawasemashou</b>.",
+      "en": "Let's discuss next week's schedule.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03126A.mp3"
+    }
+  ]
+}

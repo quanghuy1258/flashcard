@@ -1,0 +1,18 @@
+{
+  "ja": "暖か",
+  "hrkt": "あたたか",
+  "latn": "atataka",
+  "en": "warm",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03512A.mp3",
+  "sentences": [
+    {
+      "ja": "最近は<b>暖か</b>です。",
+      "hrkt": "さいきん は <b>あたたか</b> です。",
+      "latn": "saikin ha <b>atataka</b> desu.",
+      "en": "The weather has been warm recently.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03512A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "ばい菌",
+  "hrkt": "ばいきん",
+  "latn": "baikin",
+  "en": "bacterium, germ",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03815A.mp3",
+  "sentences": [
+    {
+      "ja": "傷口に<b>ばい菌</b>が入った。",
+      "hrkt": "きずぐち に <b>ばいきん</b> が はいった。",
+      "latn": "kizuguchi ni <b>baikin</b> ga haitta.",
+      "en": "I got some bacteria in the wound.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03815A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "張る",
+  "hrkt": "はる",
+  "latn": "haru",
+  "en": "strain, be stretched",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00808A.mp3",
+  "sentences": [
+    {
+      "ja": "疲れて肩が<b>張って</b>います。",
+      "hrkt": "つかれて かた が <b>はって</b> います。",
+      "latn": "tsukarete kata ga <b>hatte</b> imasu.",
+      "en": "My shoulders are stiff with fatigue.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00808A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "混ぜる",
+  "hrkt": "まぜる",
+  "latn": "mazeru",
+  "en": "mix (something)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01791A.mp3",
+  "sentences": [
+    {
+      "ja": "カレーにヨーグルトを入れて、よく<b>混ぜて</b>ください。",
+      "hrkt": "カレー に ヨーグルト を いれて、よく <b>まぜて</b> ください。",
+      "latn": "kare- ni yo-guruto wo irete,yoku <b>mazete</b> kudasai.",
+      "en": "Please put the yogurt in the curry and mix it well.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01791A.mp3"
+    }
+  ]
+}

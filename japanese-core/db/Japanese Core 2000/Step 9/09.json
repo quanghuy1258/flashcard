@@ -1,0 +1,26 @@
+{
+  "ja": "始めに",
+  "hrkt": "はじめに",
+  "latn": "hajimeni",
+  "en": "in the beginning",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07302A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>始めに</b>スープが出ます。",
+      "hrkt": "<b>はじめ に</b> スープ が でます。",
+      "latn": "<b>hajime ni</b> su-pu ga demasu.",
+      "en": "Soup will be served in the beginning.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4182615.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07302A.mp3"
+    },
+    {
+      "ja": "<b>始めに</b>会長が挨拶した。",
+      "hrkt": "<b>はじめ に</b> かいちょう が あいさつ した。",
+      "latn": "<b>hajime ni</b> kaichou ga aisatsu shita.",
+      "en": "First was the president's greeting.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/368898.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01395A.mp3"
+    }
+  ]
+}

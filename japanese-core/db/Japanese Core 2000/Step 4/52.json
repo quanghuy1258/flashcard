@@ -1,0 +1,26 @@
+{
+  "ja": "折れる",
+  "hrkt": "おれる",
+  "latn": "oreru",
+  "en": "break, snap",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01259A.mp3",
+  "sentences": [
+    {
+      "ja": "強風で木の枝が<b>折れた</b>。",
+      "hrkt": "きょうふう で き の えだ が <b>おれた</b>。",
+      "latn": "kyoufuu de ki no eda ga <b>oreta</b>.",
+      "en": "A tree branch broke in the strong wind.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2796378.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01259A.mp3"
+    },
+    {
+      "ja": "喧嘩して、歯が<b>折れて</b>しまった。",
+      "hrkt": "けんか して、は が <b>おれて</b> しまった。",
+      "latn": "kenka shite,ha ga <b>orete</b> shimatta.",
+      "en": "I had a fight, and I broke my tooth.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/35ate189e4.mp3"
+    }
+  ]
+}

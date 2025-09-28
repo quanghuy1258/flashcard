@@ -1,0 +1,18 @@
+{
+  "ja": "真似",
+  "hrkt": "まね",
+  "latn": "mane",
+  "en": "imitation, mimicry",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03891A.mp3",
+  "sentences": [
+    {
+      "ja": "娘はよく私の<b>真似</b>をします。",
+      "hrkt": "むすめ は よく わたし の <b>まね</b> を します。",
+      "latn": "musume ha yoku watashi no <b>mane</b> wo shimasu.",
+      "en": "My daughter often mimicks me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03891A.mp3"
+    }
+  ]
+}

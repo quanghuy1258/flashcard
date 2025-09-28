@@ -1,0 +1,26 @@
+{
+  "ja": "絶対に",
+  "hrkt": "ぜったいに",
+  "latn": "zettaini",
+  "en": "absolutely, definitely",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04815A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>絶対に</b>駄目です。",
+      "hrkt": "<b>ぜったい に</b> だめ です。",
+      "latn": "<b>zettai ni</b> dame desu.",
+      "en": "Absolutely not.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4854825.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04815A.mp3"
+    },
+    {
+      "ja": "明日は<b>絶対に</b>仕事を休まないでください。",
+      "hrkt": "あした は <b>ぜったい に</b> しごと を やすまないで ください。",
+      "latn": "ashita ha <b>zettai ni</b> shigoto wo yasumanaide kudasai.",
+      "en": "Please don't be absent from work tomorrow for sure.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/07fu2lctq0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "飾り",
+  "hrkt": "かざり",
+  "latn": "kazari",
+  "en": "ornament, decoration",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02295A.mp3",
+  "sentences": [
+    {
+      "ja": "この部屋は<b>飾り</b>が多すぎるな。",
+      "hrkt": "この へや は <b>かざり</b> が おお すぎる な。",
+      "latn": "kono heya ha <b>kazari</b> ga oo sugiru na.",
+      "en": "This room has too many decorations.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02295A.mp3"
+    }
+  ]
+}

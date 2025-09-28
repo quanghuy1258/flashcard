@@ -1,0 +1,26 @@
+{
+  "ja": "体調",
+  "hrkt": "たいちょう",
+  "latn": "taichou",
+  "en": "health condition",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01717A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>体調</b>が悪いです。",
+      "hrkt": "きょう は <b>たいちょう</b> が わるい です。",
+      "latn": "kyou ha <b>taichou</b> ga warui desu.",
+      "en": "I feel sick today.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e49l47fmt4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01717A.mp3"
+    },
+    {
+      "ja": "彼女は<b>体調</b>を崩しています。",
+      "hrkt": "かのじょ は <b>たいちょう</b> を くずして います。",
+      "latn": "kanojo ha <b>taichou</b> wo kuzushite imasu.",
+      "en": "She is under the weather.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a41p7q77sk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01161A.mp3"
+    }
+  ]
+}

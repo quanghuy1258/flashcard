@@ -1,0 +1,18 @@
+{
+  "ja": "南西",
+  "hrkt": "なんせい",
+  "latn": "nansei",
+  "en": "southwest",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01971A.mp3",
+  "sentences": [
+    {
+      "ja": "ここから<b>南西</b>に進むと村があります。",
+      "hrkt": "ここ から <b>なんせい</b> に すすむ と むら が あります。",
+      "latn": "koko kara <b>nansei</b> ni susumu to mura ga arimasu.",
+      "en": "You'll see a village if you go in the southwest direction from here.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01971A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "会場",
+  "hrkt": "かいじょう",
+  "latn": "kaijou",
+  "en": "venue, site",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00168A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>会場</b>は人で一杯になりました。",
+      "hrkt": "<b>かいじょう</b> は ひと で いっぱい に なりました。",
+      "latn": "<b>kaijou</b> ha hito de ippai ni narimashita.",
+      "en": "The hall was filled with people.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/14826l2bic.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00168A.mp3"
+    }
+  ]
+}

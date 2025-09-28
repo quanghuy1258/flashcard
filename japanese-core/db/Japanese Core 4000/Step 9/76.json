@@ -1,0 +1,18 @@
+{
+  "ja": "延期",
+  "hrkt": "えんき",
+  "latn": "enki",
+  "en": "postponement, deferment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01284A.mp3",
+  "sentences": [
+    {
+      "ja": "運動会は雨で<b>延期</b>されました。",
+      "hrkt": "うんどうかい は あめ で <b>えんき</b> されました。",
+      "latn": "undoukai ha ame de <b>enki</b> saremashita.",
+      "en": "The sports festival has been postponed due to the rain.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01284A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "乾杯",
+  "hrkt": "かんぱい",
+  "latn": "kanpai",
+  "en": "toast, drink (in celebration)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01958A.mp3",
+  "sentences": [
+    {
+      "ja": "お二人の未来に<b>乾杯</b>しましょう。",
+      "hrkt": "おふたり の みらい に <b>かんぱい</b> しましょう。",
+      "latn": "ofutari no mirai ni <b>kanpai</b> shimashou.",
+      "en": "Let's give a toast to the couple's future.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4275278.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01958A.mp3"
+    },
+    {
+      "ja": "私は結婚式で<b>乾杯</b>の挨拶をしました。",
+      "hrkt": "わたし は けっこん しき で <b>かんぱい</b> の あいさつ を しました。",
+      "latn": "watashi ha kekkon shiki de <b>kanpai</b> no aisatsu wo shimashita.",
+      "en": "I made a toast at the wedding.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/84cb4304e8.mp3"
+    }
+  ]
+}

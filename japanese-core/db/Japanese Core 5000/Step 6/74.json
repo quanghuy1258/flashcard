@@ -1,0 +1,18 @@
+{
+  "ja": "ロック",
+  "hrkt": "ロック",
+  "latn": "rokku",
+  "en": "rock (music)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01301A.mp3",
+  "sentences": [
+    {
+      "ja": "俺は<b>ロック</b>を聞くのが好きだ。",
+      "hrkt": "おれ は <b>ロック</b> を きく の が すき だ。",
+      "latn": "ore ha <b>rokku</b> wo kiku no ga suki da.",
+      "en": "I like to listen to rock music.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01301A.mp3"
+    }
+  ]
+}

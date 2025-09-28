@@ -1,0 +1,18 @@
+{
+  "ja": "顔つき",
+  "hrkt": "かおつき",
+  "latn": "kaotsuki",
+  "en": "facial expression, countenance",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03272A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は恐い<b>顔つき</b>で話したの。",
+      "hrkt": "かれ は こわい <b>かおつき</b> で はなした の。",
+      "latn": "kare ha kowai <b>kaotsuki</b> de hanashita no.",
+      "en": "He spoke with a scary look on his face.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03272A.mp3"
+    }
+  ]
+}

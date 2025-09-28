@@ -1,0 +1,18 @@
+{
+  "ja": "透明",
+  "hrkt": "とうめい",
+  "latn": "toumei",
+  "en": "transparent, clear",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01754A.mp3",
+  "sentences": [
+    {
+      "ja": "ゴミは<b>透明</b>な袋に入れて出してください。",
+      "hrkt": "ゴミ は <b>とうめい</b>な ふくろ に いれて だして ください。",
+      "latn": "gomi ha <b>toumei</b>na fukuro ni irete dashite kudasai.",
+      "en": "Please put the garbage out in a clear plastic bag.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01754A.mp3"
+    }
+  ]
+}

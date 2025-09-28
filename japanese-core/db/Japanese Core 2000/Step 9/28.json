@@ -1,0 +1,26 @@
+{
+  "ja": "倒す",
+  "hrkt": "たおす",
+  "latn": "taosu",
+  "en": "knock down, overthrow",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05287A.mp3",
+  "sentences": [
+    {
+      "ja": "そのスキーヤーはポールを<b>倒した</b>。",
+      "hrkt": "その スキーヤー は ポール を <b>たおした</b>。",
+      "latn": "sono suki-ya- ha po-ru wo <b>taoshita</b>.",
+      "en": "The skier knocked the pole down.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4833188.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05287A.mp3"
+    },
+    {
+      "ja": "そのボクサーはついに世界チャンピオンを<b>倒しました</b>。",
+      "hrkt": "その ボクサー は つい に せかい チャンピオン を <b>たおしました</b>。",
+      "latn": "sono bokusa- ha tsui ni sekai chanpion wo <b>taoshimashita</b>.",
+      "en": "The boxer finally defeated the world champion.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/233u252va0.mp3"
+    }
+  ]
+}

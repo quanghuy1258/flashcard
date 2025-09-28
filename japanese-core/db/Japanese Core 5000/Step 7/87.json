@@ -1,0 +1,18 @@
+{
+  "ja": "見習う",
+  "hrkt": "みならう",
+  "latn": "minarau",
+  "en": "learn, follow someone's example",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02894A.mp3",
+  "sentences": [
+    {
+      "ja": "彼を<b>見習って</b>もっと勉強します。",
+      "hrkt": "かれ を <b>みならって</b> もっと べんきょう します。",
+      "latn": "kare wo <b>minaratte</b> motto benkyou shimasu.",
+      "en": "I'll follow his example and study harder.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02894A.mp3"
+    }
+  ]
+}

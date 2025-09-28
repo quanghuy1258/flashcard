@@ -1,0 +1,26 @@
+{
+  "ja": "がらがら",
+  "hrkt": "がらがら",
+  "latn": "garagara",
+  "en": "not crowded",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01806A.mp3",
+  "sentences": [
+    {
+      "ja": "映画館は<b>がらがら</b>でした。",
+      "hrkt": "えいがかん は <b>がらがら</b> でした。",
+      "latn": "eigakan ha <b>garagara</b> deshita.",
+      "en": "The movie theater was not crowded at all.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2603649.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01806A.mp3"
+    },
+    {
+      "ja": "そのデパートはいつも<b>がらがら</b>です。",
+      "hrkt": "その デパート は いつも <b>がらがら</b> です。",
+      "latn": "sono depa-to ha itsumo <b>garagara</b> desu.",
+      "en": "The department store is never crowded.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f4ae00fdq4.mp3"
+    }
+  ]
+}

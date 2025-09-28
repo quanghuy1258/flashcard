@@ -1,0 +1,26 @@
+{
+  "ja": "内容",
+  "hrkt": "ないよう",
+  "latn": "naiyou",
+  "en": "content",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06614A.mp3",
+  "sentences": [
+    {
+      "ja": "この本の<b>内容</b>を説明してください。",
+      "hrkt": "この ほん の <b>ないよう</b> を せつめい して ください。",
+      "latn": "kono hon no <b>naiyou</b> wo setsumei shite kudasai.",
+      "en": "Please explain the content of this book.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4737163.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06614A.mp3"
+    },
+    {
+      "ja": "授業の<b>内容</b>が難しくて付いていけません。",
+      "hrkt": "じゅぎょう の <b>ないよう</b> が むずかしくて ついて いけません。",
+      "latn": "jugyou no <b>naiyou</b> ga muzukashikute tsuite ikemasen.",
+      "en": "The content of the class is so difficult that I can't keep up.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/32fjen62ak.mp3"
+    }
+  ]
+}

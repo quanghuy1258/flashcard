@@ -1,0 +1,26 @@
+{
+  "ja": "バッグ",
+  "hrkt": "バッグ",
+  "latn": "baggu",
+  "en": "bag",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07365A.mp3",
+  "sentences": [
+    {
+      "ja": "私は黒い<b>バッグ</b>を持っています。",
+      "hrkt": "わたし は くろい <b>バッグ</b> を もって います。",
+      "latn": "watashi ha kuroi <b>baggu</b> wo motte imasu.",
+      "en": "I have a black bag.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5468502.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07365A.mp3"
+    },
+    {
+      "ja": "母は高い<b>バッグ</b>をたくさん持っています。",
+      "hrkt": "はは は たかい <b>バッグ</b> を たくさん もって います。",
+      "latn": "haha ha takai <b>baggu</b> wo takusan motte imasu.",
+      "en": "My mother has a lot of expensive bags.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a480bna0dc.mp3"
+    }
+  ]
+}

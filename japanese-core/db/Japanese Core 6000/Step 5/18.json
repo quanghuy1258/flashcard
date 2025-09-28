@@ -1,0 +1,18 @@
+{
+  "ja": "控え室",
+  "hrkt": "ひかえしつ",
+  "latn": "hikaeshitsu",
+  "en": "waiting room",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03837A.mp3",
+  "sentences": [
+    {
+      "ja": "ここはお客様用の<b>控え室</b>です。",
+      "hrkt": "ここ は おきゃくさま よう の <b>ひかえしつ</b> です。",
+      "latn": "koko ha okyakusama you no <b>hikaeshitsu</b> desu.",
+      "en": "This is a waiting room for guests.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03837A.mp3"
+    }
+  ]
+}

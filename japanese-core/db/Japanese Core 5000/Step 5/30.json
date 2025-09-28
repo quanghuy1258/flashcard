@@ -1,0 +1,18 @@
+{
+  "ja": "括弧",
+  "hrkt": "かっこ",
+  "latn": "kakko",
+  "en": "parentheses, brackets",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03343A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>括弧</b>の部分は省略できます。",
+      "hrkt": "<b>かっこ</b> の ぶぶん は しょうりゃく できます。",
+      "latn": "<b>kakko</b> no bubun ha shouryaku dekimasu.",
+      "en": "The part in parentheses can be omitted.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03343A.mp3"
+    }
+  ]
+}

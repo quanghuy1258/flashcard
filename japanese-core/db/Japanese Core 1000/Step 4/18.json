@@ -1,0 +1,26 @@
+{
+  "ja": "上手",
+  "hrkt": "じょうず",
+  "latn": "jouzu",
+  "en": "good, skilled",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04185A.mp3",
+  "sentences": [
+    {
+      "ja": "妹は歌が<b>上手</b>です。",
+      "hrkt": "いもうと は うた が <b>じょうず</b> です。",
+      "latn": "imouto ha uta ga <b>jouzu</b> desu.",
+      "en": "My little sister can sing well.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3480828.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04185A.mp3"
+    },
+    {
+      "ja": "彼はかなり英語が<b>上手</b>です。",
+      "hrkt": "かれ は かなり えいご が <b>じょうず</b> です。",
+      "latn": "kare ha kanari eigo ga <b>jouzu</b> desu.",
+      "en": "He's pretty good at English.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6000774.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01729A.mp3"
+    }
+  ]
+}

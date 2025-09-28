@@ -1,0 +1,26 @@
+{
+  "ja": "合格",
+  "hrkt": "ごうかく",
+  "latn": "goukaku",
+  "en": "passing an examination",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02875A.mp3",
+  "sentences": [
+    {
+      "ja": "娘が入学試験に<b>合格</b>しました。",
+      "hrkt": "むすめ が にゅうがく しけん に <b>ごうかく</b> しました。",
+      "latn": "musume ga nyuugaku shiken ni <b>goukaku</b> shimashita.",
+      "en": "My daughter passed the university entrance exam.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3832264.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02875A.mp3"
+    },
+    {
+      "ja": "彼はトップの成績で<b>合格</b>しました。",
+      "hrkt": "かれ は トップ の せいせき で <b>ごうかく</b> しました。",
+      "latn": "kare ha toppu no seiseki de <b>goukaku</b> shimashita.",
+      "en": "He passed with the best score.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/76e66mee00.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00257A.mp3"
+    }
+  ]
+}

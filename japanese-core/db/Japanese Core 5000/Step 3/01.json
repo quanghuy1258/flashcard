@@ -1,0 +1,18 @@
+{
+  "ja": "澄む",
+  "hrkt": "すむ",
+  "latn": "sumu",
+  "en": "become clear",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01819A.mp3",
+  "sentences": [
+    {
+      "ja": "山の空気は<b>澄んで</b>いますね。",
+      "hrkt": "やま の くうき は <b>すんで</b> います ね。",
+      "latn": "yama no kuuki ha <b>sunde</b> imasu ne.",
+      "en": "The mountain air is clear.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01819A.mp3"
+    }
+  ]
+}

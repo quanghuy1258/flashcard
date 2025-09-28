@@ -1,0 +1,26 @@
+{
+  "ja": "十日",
+  "hrkt": "とおか",
+  "latn": "tooka",
+  "en": "ten days, tenth of the month",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06342A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>十日</b>後に帰ります。",
+      "hrkt": "<b>とおか</b> ご に かえります。",
+      "latn": "<b>tooka</b> go ni kaerimasu.",
+      "en": "I'll be back in ten days.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3414118.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06342A.mp3"
+    },
+    {
+      "ja": "テストまであと<b>十日</b>です。",
+      "hrkt": "テスト まで あと <b>とおか</b> です。",
+      "latn": "tesuto made ato <b>tooka</b> desu.",
+      "en": "There are ten more days until the exam.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/01cmet9s2s.mp3"
+    }
+  ]
+}

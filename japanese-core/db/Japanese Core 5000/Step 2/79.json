@@ -1,0 +1,18 @@
+{
+  "ja": "植木",
+  "hrkt": "うえき",
+  "latn": "ueki",
+  "en": "garden plant",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02759A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>植木</b>に水をやりました。",
+      "hrkt": "<b>うえき</b> に みず を やりました。",
+      "latn": "<b>ueki</b> ni mizu wo yarimashita.",
+      "en": "I watered the plant.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02759A.mp3"
+    }
+  ]
+}

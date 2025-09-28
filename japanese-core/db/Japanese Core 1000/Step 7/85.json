@@ -1,0 +1,26 @@
+{
+  "ja": "努力",
+  "hrkt": "どりょく",
+  "latn": "doryoku",
+  "en": "endeavor, effort",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06563A.mp3",
+  "sentences": [
+    {
+      "ja": "もっと<b>努力</b>しよう。",
+      "hrkt": "もっと <b>どりょく</b> しよう。",
+      "latn": "motto <b>doryoku</b> shiyou.",
+      "en": "Let's try harder.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5450481.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06563A.mp3"
+    },
+    {
+      "ja": "あなたはもっと<b>努力</b>が必要です。",
+      "hrkt": "あなた は もっと <b>どりょく</b> が ひつよう です。",
+      "latn": "anata ha motto <b>doryoku</b> ga hitsuyou desu.",
+      "en": "You need to work harder.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/148c4ob008.mp3"
+    }
+  ]
+}

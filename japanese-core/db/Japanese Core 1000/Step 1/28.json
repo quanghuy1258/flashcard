@@ -1,0 +1,26 @@
+{
+  "ja": "高い",
+  "hrkt": "たかい",
+  "latn": "takai",
+  "en": "high, tall",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05292A.mp3",
+  "sentences": [
+    {
+      "ja": "これがこの町で一番<b>高い</b>ビルです。",
+      "hrkt": "これ が この まち で いちばん <b>たかい</b> ビル です。",
+      "latn": "kore ga kono machi de ichiban <b>takai</b> biru desu.",
+      "en": "This is the tallest building in this town.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4833777.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05292A.mp3"
+    },
+    {
+      "ja": "彼はクラスで一番背が<b>高い</b>。",
+      "hrkt": "かれ は クラス で いちばん せ が <b>たかい</b>。",
+      "latn": "kare ha kurasu de ichiban se ga <b>takai</b>.",
+      "en": "He's the tallest in class.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/906960.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00494A.mp3?1219919352"
+    }
+  ]
+}

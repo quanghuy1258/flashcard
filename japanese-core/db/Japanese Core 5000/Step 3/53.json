@@ -1,0 +1,18 @@
+{
+  "ja": "羽根",
+  "hrkt": "はね",
+  "latn": "hane",
+  "en": "feather",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02284A.mp3",
+  "sentences": [
+    {
+      "ja": "このペンは鳥の<b>羽根</b>で作られています。",
+      "hrkt": "この ペン は とり の <b>はね</b> で つくられて います。",
+      "latn": "kono pen ha tori no <b>hane</b> de tsukurarete imasu.",
+      "en": "This pen is made from a bird's feather.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02284A.mp3"
+    }
+  ]
+}

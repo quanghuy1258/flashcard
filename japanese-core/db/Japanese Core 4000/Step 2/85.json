@@ -1,0 +1,18 @@
+{
+  "ja": "刺激",
+  "hrkt": "しげき",
+  "latn": "shigeki",
+  "en": "stimulus",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00671A.mp3",
+  "sentences": [
+    {
+      "ja": "そのクイズ番組は脳を<b>刺激</b>するね。",
+      "hrkt": "その クイズ ばんぐみ は のう を <b>しげき</b> する ね。",
+      "latn": "sono kuizu bangumi ha nou wo <b>shigeki</b> suru ne.",
+      "en": "The quiz show stimulates the brain.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a4cf174nqc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00671A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "電球",
+  "hrkt": "でんきゅう",
+  "latn": "denkyuu",
+  "en": "light bulb",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02073A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>電球</b>が切れたので交換しましょう。",
+      "hrkt": "<b>でんきゅう</b> が きれた ので こうかん しましょう。",
+      "latn": "<b>denkyuu</b> ga kireta node koukan shimashou.",
+      "en": "The bulb is out, so let's get a new one.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02073A.mp3"
+    }
+  ]
+}

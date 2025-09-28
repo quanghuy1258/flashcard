@@ -1,0 +1,26 @@
+{
+  "ja": "突く",
+  "hrkt": "つく",
+  "latn": "tsuku",
+  "en": "thrust, poke",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02097A.mp3",
+  "sentences": [
+    {
+      "ja": "その鹿は角で相手を<b>突いた</b>。",
+      "hrkt": "その しか は つの で あいて を <b>ついた</b>。",
+      "latn": "sono shika ha tsuno de aite wo <b>tsuita</b>.",
+      "en": "The deer poked its enemy with its horn.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/331fam4kjk.mp3"
+    },
+    {
+      "ja": "それは針で<b>突く</b>ような痛みでした。",
+      "hrkt": "それ は はり で <b>つく</b> ような いたみ でした。",
+      "latn": "sore ha hari de <b>tsuku</b> youna itami deshita.",
+      "en": "It was a stinging pain (like being poked with a needle).",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b3do8u3ks4.mp3"
+    }
+  ]
+}

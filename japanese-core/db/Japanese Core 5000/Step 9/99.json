@@ -1,0 +1,18 @@
+{
+  "ja": "死",
+  "hrkt": "し",
+  "latn": "shi",
+  "en": "death",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00370A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>死</b>を恐れるのは自然なことです。",
+      "hrkt": "<b>し</b> を おそれる の は しぜんな こと です。",
+      "latn": "<b>shi</b> wo osoreru no ha shizenna koto desu.",
+      "en": "It's natural to be afraid of death.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00370A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "逆さ",
+  "hrkt": "さかさ",
+  "latn": "sakasa",
+  "en": "reverse, inversion",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02974A.mp3",
+  "sentences": [
+    {
+      "ja": "絵を<b>逆さ</b>にして見てごらん。",
+      "hrkt": "え を <b>さかさ</b> に して みて ごらん。",
+      "latn": "e wo <b>sakasa</b> ni shite mite goran.",
+      "en": "Try looking at the picture upside down.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02974A.mp3"
+    }
+  ]
+}

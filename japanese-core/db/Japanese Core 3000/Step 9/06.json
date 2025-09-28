@@ -1,0 +1,18 @@
+{
+  "ja": "モデル",
+  "hrkt": "モデル",
+  "latn": "moderu",
+  "en": "model",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00175A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はこの小説の主人公の<b>モデル</b>です。",
+      "hrkt": "かのじょ は この しょうせつ の しゅじんこう の <b>モデル</b> です。",
+      "latn": "kanojo ha kono shousetsu no shujinkou no <b>moderu</b> desu.",
+      "en": "She's the model for the heroine in this novel.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d40399392c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00175A.mp3"
+    }
+  ]
+}

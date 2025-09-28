@@ -1,0 +1,26 @@
+{
+  "ja": "便利",
+  "hrkt": "べんり",
+  "latn": "benri",
+  "en": "convenience",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08379A.mp3",
+  "sentences": [
+    {
+      "ja": "インターネットはとても<b>便利</b>です。",
+      "hrkt": "インターネット は とても <b>べんり</b> です。",
+      "latn": "inta-netto ha totemo <b>benri</b> desu.",
+      "en": "The Internet is very convenient.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5475463.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08379A.mp3"
+    },
+    {
+      "ja": "自転車は<b>便利</b>な乗り物です。",
+      "hrkt": "じてんしゃ は <b>べんり</b>な のりもの です。",
+      "latn": "jitensha ha <b>benri</b>na norimono desu.",
+      "en": "Bicycles are a convenient form of transport.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6065227.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07131A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "礼",
+  "hrkt": "れい",
+  "latn": "rei",
+  "en": "bow, thanks",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03965A.mp3",
+  "sentences": [
+    {
+      "ja": "先生にお<b>礼</b>の手紙を書きました。",
+      "hrkt": "せんせい に お<b>れい</b> の てがみ を かきました。",
+      "latn": "sensei ni o<b>rei</b> no tegami wo kakimashita.",
+      "en": "I wrote a thank-you letter to my teacher.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03965A.mp3"
+    }
+  ]
+}

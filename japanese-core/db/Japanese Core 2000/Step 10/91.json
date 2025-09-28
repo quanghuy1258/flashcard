@@ -1,0 +1,26 @@
+{
+  "ja": "度々",
+  "hrkt": "たびたび",
+  "latn": "tabitabi",
+  "en": "often",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02484A.mp3",
+  "sentences": [
+    {
+      "ja": "彼から<b>度々</b>メールがきます。",
+      "hrkt": "かれ から <b>たびたび</b> メール が きます。",
+      "latn": "kare kara <b>tabitabi</b> me-ru ga kimasu.",
+      "en": "I often get emails from him.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1843383.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02484A.mp3"
+    },
+    {
+      "ja": "<b>度々</b>電話してすみません。",
+      "hrkt": "<b>たびたび</b> でんわ して すみません。",
+      "latn": "<b>tabitabi</b> denwa shite sumimasen.",
+      "en": "Excuse me for calling you often.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a35r7p4a6k.mp3"
+    }
+  ]
+}

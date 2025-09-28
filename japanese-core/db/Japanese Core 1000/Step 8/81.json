@@ -1,0 +1,26 @@
+{
+  "ja": "祖父",
+  "hrkt": "そふ",
+  "latn": "sofu",
+  "en": "(one's own) grandfather (formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05091A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>祖父</b>は元気です。",
+      "hrkt": "<b>そふ</b> は げんき です。",
+      "latn": "<b>sofu</b> ha genki desu.",
+      "en": "My grandfather is well.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5881108.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05091A.mp3"
+    },
+    {
+      "ja": "<b>祖父</b>が病気になった。",
+      "hrkt": "<b>そふ</b> が びょうき に なった。",
+      "latn": "<b>sofu</b> ga byouki ni natta.",
+      "en": "My grandfather got sick.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4812445.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07851A.mp3"
+    }
+  ]
+}

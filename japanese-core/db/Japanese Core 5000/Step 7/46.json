@@ -1,0 +1,18 @@
+{
+  "ja": "片側",
+  "hrkt": "かたがわ",
+  "latn": "katagawa",
+  "en": "one side",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02511A.mp3",
+  "sentences": [
+    {
+      "ja": "この道は<b>片側</b>通行です。",
+      "hrkt": "この みち は <b>かたがわ</b> つうこう です。",
+      "latn": "kono michi ha <b>katagawa</b> tsuukou desu.",
+      "en": "This is a one way street.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02511A.mp3"
+    }
+  ]
+}

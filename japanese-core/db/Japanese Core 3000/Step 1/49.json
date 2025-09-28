@@ -1,0 +1,18 @@
+{
+  "ja": "取引",
+  "hrkt": "とりひき",
+  "latn": "torihiki",
+  "en": "transaction, deal",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06559A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは中国の会社と<b>取引</b>しています。",
+      "hrkt": "わたし たち は ちゅうごく の かいしゃ と <b>とりひき</b> して います。",
+      "latn": "watashi tachi ha chuugoku no kaisha to <b>torihiki</b> shite imasu.",
+      "en": "We're dealing with a Chinese company.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/56b967c5o0.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06559A.mp3"
+    }
+  ]
+}

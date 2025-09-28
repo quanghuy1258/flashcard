@@ -1,0 +1,26 @@
+{
+  "ja": "のんびり",
+  "hrkt": "のんびり",
+  "latn": "nonbiri",
+  "en": "in a relaxed manner, leisurely",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02125A.mp3",
+  "sentences": [
+    {
+      "ja": "休みの日は家で<b>のんびり</b>過ごします。",
+      "hrkt": "やすみ の ひ は うち で <b>のんびり</b> すごします。",
+      "latn": "yasumi no hi ha uchi de <b>nonbiri</b> sugoshimasu.",
+      "en": "I spend my days off relaxing at home.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/7lag5s7vacdp4.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02125A.mp3"
+    },
+    {
+      "ja": "冬休みは南の島で<b>のんびり</b>したい。",
+      "hrkt": "ふゆやすみ は みなみ の しま で <b>のんびり</b> したい。",
+      "latn": "fuyuyasumi ha minami no shima de <b>nonbiri</b> shitai.",
+      "en": "I want to relax on a tropical island for winter vacation.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e6509j41lk.mp3"
+    }
+  ]
+}

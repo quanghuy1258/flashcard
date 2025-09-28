@@ -1,0 +1,26 @@
+{
+  "ja": "靴下",
+  "hrkt": "くつした",
+  "latn": "kutsushita",
+  "en": "socks",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02481A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>靴下</b>は3足で1000円です。",
+      "hrkt": "この <b>くつした</b> は 3 そく で 1000 えん です。",
+      "latn": "kono <b>kutsushita</b> ha 3 soku de 1000 en desu.",
+      "en": "These socks are 1,000 yen for 3 pairs.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4779283.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02481A.mp3"
+    },
+    {
+      "ja": "<b>靴下</b>に穴が開いている。",
+      "hrkt": "<b>くつした</b> に あな が あいて いる。",
+      "latn": "<b>kutsushita</b> ni ana ga aite iru.",
+      "en": "There are holes in my socks.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4255519.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00194A.mp3"
+    }
+  ]
+}

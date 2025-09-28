@@ -1,0 +1,18 @@
+{
+  "ja": "安売り",
+  "hrkt": "やすうり",
+  "latn": "yasuuri",
+  "en": "sale, bargain",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02057A.mp3",
+  "sentences": [
+    {
+      "ja": "あの店で野菜の<b>安売り</b>をしていましたよ。",
+      "hrkt": "あの みせ で やさい の <b>やすうり</b> を して いました よ。",
+      "latn": "ano mise de yasai no <b>yasuuri</b> wo shite imashita yo.",
+      "en": "They were selling bargain-priced vegetables in that store.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02057A.mp3"
+    }
+  ]
+}

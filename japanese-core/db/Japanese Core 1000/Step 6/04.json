@@ -1,0 +1,26 @@
+{
+  "ja": "誰か",
+  "hrkt": "だれか",
+  "latn": "dareka",
+  "en": "someone",
+  "pos": "Pronoun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05486A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>誰か</b>に聞いてみてください。",
+      "hrkt": "<b>だれ か</b> に きいて みて ください。",
+      "latn": "<b>dare ka</b> ni kiite mite kudasai.",
+      "en": "Please ask someone.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5759523.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05486A.mp3?1216463412"
+    },
+    {
+      "ja": "すみません、<b>誰か</b>来てください。",
+      "hrkt": "すみません、<b>だれ か</b> きて ください。",
+      "latn": "sumimasen,<b>dare ka</b> kite kudasai.",
+      "en": "Excuse me, someone, please come.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/97df1ne24g.mp3"
+    }
+  ]
+}

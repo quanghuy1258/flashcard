@@ -1,0 +1,18 @@
+{
+  "ja": "父母",
+  "hrkt": "ふぼ",
+  "latn": "fubo",
+  "en": "father and mother, parents",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03387A.mp3",
+  "sentences": [
+    {
+      "ja": "学校から<b>父母</b>に連絡があったんだ。",
+      "hrkt": "がっこう から <b>ふぼ</b> に れんらく が あった ん だ。",
+      "latn": "gakkou kara <b>fubo</b> ni renraku ga atta n da.",
+      "en": "The school contacted my parents.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03387A.mp3"
+    }
+  ]
+}

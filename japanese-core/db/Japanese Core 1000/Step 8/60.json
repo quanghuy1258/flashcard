@@ -1,0 +1,26 @@
+{
+  "ja": "まあまあ",
+  "hrkt": "まあまあ",
+  "latn": "maamaa",
+  "en": "OK, not bad",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08628A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の成績は<b>まあまあ</b>です。",
+      "hrkt": "かれ の せいせき は <b>まあまあ</b> です。",
+      "latn": "kare no seiseki ha <b>maamaa</b> desu.",
+      "en": "His grades are not bad.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5373213.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08628A.mp3"
+    },
+    {
+      "ja": "ここのステーキは<b>まあまあ</b>です。",
+      "hrkt": "ここ の ステーキ は <b>まあまあ</b> です。",
+      "latn": "koko no sute-ki ha <b>maamaa</b> desu.",
+      "en": "The steak here is OK.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/630c3o115g.mp3"
+    }
+  ]
+}

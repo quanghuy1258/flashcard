@@ -1,0 +1,18 @@
+{
+  "ja": "焼き鳥",
+  "hrkt": "やきとり",
+  "latn": "yakitori",
+  "en": "skewered chicken",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03177A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>焼き鳥</b>はビールに合うな。",
+      "hrkt": "<b>やきとり</b> は ビール に あう な。",
+      "latn": "<b>yakitori</b> ha bi-ru ni au na.",
+      "en": "Yakitori goes well with beer.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03177A.mp3"
+    }
+  ]
+}

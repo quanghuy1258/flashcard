@@ -1,0 +1,18 @@
+{
+  "ja": "型",
+  "hrkt": "かた",
+  "latn": "kata",
+  "en": "type, model",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00688A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>型</b>のカメラを買いました。",
+      "hrkt": "あたらしい <b>かた</b> の カメラ を かいました。",
+      "latn": "atarashii <b>kata</b> no kamera wo kaimashita.",
+      "en": "I bought a new-model camera.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/74e0co01s0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00688A.mp3"
+    }
+  ]
+}

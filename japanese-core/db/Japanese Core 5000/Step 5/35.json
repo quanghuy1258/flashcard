@@ -1,0 +1,18 @@
+{
+  "ja": "定休日",
+  "hrkt": "ていきゅうび",
+  "latn": "teikyuubi",
+  "en": "regular holiday",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03369A.mp3",
+  "sentences": [
+    {
+      "ja": "この店は水曜が<b>定休日</b>です。",
+      "hrkt": "この みせ は すいよう が <b>ていきゅう び</b> です。",
+      "latn": "kono mise ha suiyou ga <b>teikyuu bi</b> desu.",
+      "en": "This shop is closed on Wednesdays.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03369A.mp3"
+    }
+  ]
+}

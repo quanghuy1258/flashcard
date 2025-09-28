@@ -1,0 +1,26 @@
+{
+  "ja": "茶碗",
+  "hrkt": "ちゃわん",
+  "latn": "chawan",
+  "en": "rice bowl",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05633A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>茶碗</b>にご飯をよそいました。",
+      "hrkt": "<b>ちゃわん</b> に ごはん を よそいました 。",
+      "latn": "<b>chawan</b> ni gohan wo yosoimashita .",
+      "en": "I put some rice into the rice bowl.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1849371.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05633A.mp3"
+    },
+    {
+      "ja": "私は毎晩、<b>茶碗</b>に２杯ご飯を食べます。",
+      "hrkt": "わたし は まいばん、<b>ちゃわん</b> に ２ はい ごはん を たべます。",
+      "latn": "watashi ha maiban,<b>chawan</b> ni 2 hai gohan wo tabemasu.",
+      "en": "I eat two bowls of rice every night.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/54ce0g3vqo.mp3"
+    }
+  ]
+}

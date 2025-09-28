@@ -1,0 +1,26 @@
+{
+  "ja": "電話帳",
+  "hrkt": "でんわちょう",
+  "latn": "denwachou",
+  "en": "telephone book",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06191A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>電話帳</b>を見せてください。",
+      "hrkt": "<b>でんわちょう</b> を みせて ください。",
+      "latn": "<b>denwachou</b> wo misete kudasai.",
+      "en": "Please show me the telephone book.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/499907.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06191A.mp3"
+    },
+    {
+      "ja": "新しい<b>電話帳</b>が届きました。",
+      "hrkt": "あたらしい <b>でんわちょう</b> が とどきました。",
+      "latn": "atarashii <b>denwachou</b> ga todokimashita.",
+      "en": "The new telephone books have arrived.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/6483bb5hh4.mp3"
+    }
+  ]
+}

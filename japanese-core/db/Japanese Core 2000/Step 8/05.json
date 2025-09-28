@@ -1,0 +1,26 @@
+{
+  "ja": "昼前",
+  "hrkt": "ひるまえ",
+  "latn": "hirumae",
+  "en": "in the morning, before noon",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07900A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>昼前</b>に会議があった。",
+      "hrkt": "<b>ひる まえ</b> に かいぎ が あった。",
+      "latn": "<b>hiru mae</b> ni kaigi ga atta.",
+      "en": "There was a meeting in the morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5466370.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07900A.mp3"
+    },
+    {
+      "ja": "今日は<b>昼前</b>に一度家に帰ります。",
+      "hrkt": "きょう は <b>ひる まえ</b> に いち ど いえ に かえります。",
+      "latn": "kyou ha <b>hiru mae</b> ni ichi do ie ni kaerimasu.",
+      "en": "Today I'll go home once before noon.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/526ffkfad0.mp3"
+    }
+  ]
+}

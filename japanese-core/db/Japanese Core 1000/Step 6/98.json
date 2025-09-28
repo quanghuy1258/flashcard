@@ -1,0 +1,26 @@
+{
+  "ja": "半日",
+  "hrkt": "はんにち",
+  "latn": "hannichi",
+  "en": "half a day",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07571A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>半日</b>だけ仕事だ。",
+      "hrkt": "きょう は <b>はんにち</b> だけ しごと だ。",
+      "latn": "kyou ha <b>hannichi</b> dake shigoto da.",
+      "en": "I'm working only a half-day today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5296342.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07571A.mp3"
+    },
+    {
+      "ja": "パソコンを直すのに<b>半日</b>かかりました。",
+      "hrkt": "パソコン を なおす の に <b>はんにち</b> かかりました。",
+      "latn": "pasokon wo naosu no ni <b>hannichi</b> kakarimashita.",
+      "en": "It took me half a day to fix my personal computer.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/270rbt3t30.mp3"
+    }
+  ]
+}

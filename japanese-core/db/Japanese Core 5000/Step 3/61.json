@@ -1,0 +1,18 @@
+{
+  "ja": "電線",
+  "hrkt": "でんせん",
+  "latn": "densen",
+  "en": "electric wire",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02159A.mp3",
+  "sentences": [
+    {
+      "ja": "風で<b>電線</b>が揺れていますね。",
+      "hrkt": "かぜ で <b>でんせん</b> が ゆれて います ね。",
+      "latn": "kaze de <b>densen</b> ga yurete imasu ne.",
+      "en": "The electric wires are swaying in the wind.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02159A.mp3"
+    }
+  ]
+}

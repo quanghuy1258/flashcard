@@ -1,0 +1,26 @@
+{
+  "ja": "分ける",
+  "hrkt": "わける",
+  "latn": "wakeru",
+  "en": "divide, share",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW10025A.mp3",
+  "sentences": [
+    {
+      "ja": "お菓子をみんなで<b>分けました</b>。",
+      "hrkt": "おかし を みんな で <b>わけました</b>。",
+      "latn": "okashi wo minna de <b>wakemashita</b>.",
+      "en": "We shared the sweets with everyone.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3803203.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10025A.mp3"
+    },
+    {
+      "ja": "ドーナッツを妹と二人で<b>分けた</b>。",
+      "hrkt": "ドーナッツ を いもうと と ふたり で <b>わけた</b>。",
+      "latn": "do-nattsu wo imouto to futari de <b>waketa</b>.",
+      "en": "I shared a doughnut with my younger sister.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d4d3ah6sts.mp3"
+    }
+  ]
+}

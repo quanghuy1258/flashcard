@@ -1,0 +1,26 @@
+{
+  "ja": "毛布",
+  "hrkt": "もうふ",
+  "latn": "moufu",
+  "en": "blanket",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09250A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>毛布</b>は暖かい。",
+      "hrkt": "この <b>もうふ</b> は あたたかい。",
+      "latn": "kono <b>moufu</b> ha atatakai.",
+      "en": "This blanket is warm.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2898654.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09250A.mp3"
+    },
+    {
+      "ja": "赤ちゃんに<b>毛布</b>をかけてあげました。",
+      "hrkt": "あかちゃん に <b>もうふ</b> を かけて あげました。",
+      "latn": "akachan ni <b>moufu</b> wo kakete agemashita.",
+      "en": "I put a blanket on the baby.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f443e3b44g.mp3"
+    }
+  ]
+}

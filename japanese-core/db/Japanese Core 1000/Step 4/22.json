@@ -1,0 +1,26 @@
+{
+  "ja": "左",
+  "hrkt": "ひだり",
+  "latn": "hidari",
+  "en": "left",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07712A.mp3",
+  "sentences": [
+    {
+      "ja": "そこを<b>左</b>に曲がってください。",
+      "hrkt": "そこ を <b>ひだり</b> に まがって ください。",
+      "latn": "soko wo <b>hidari</b> ni magatte kudasai.",
+      "en": "Please turn left there.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1629595.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07712A.mp3"
+    },
+    {
+      "ja": "この車は<b>左</b>ハンドルです。",
+      "hrkt": "この くるま は <b>ひだり</b> ハンドル です。",
+      "latn": "kono kuruma ha <b>hidari</b> handoru desu.",
+      "en": "This car has the steering wheel on the left.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/d65acbdn4k.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01972A.mp3"
+    }
+  ]
+}

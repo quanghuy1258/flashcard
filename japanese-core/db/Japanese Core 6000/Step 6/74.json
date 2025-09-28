@@ -1,0 +1,18 @@
+{
+  "ja": "暴落",
+  "hrkt": "ぼうらく",
+  "latn": "bouraku",
+  "en": "plunge, crash",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00279A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日株価が<b>暴落</b>しました。",
+      "hrkt": "きのう かぶか が <b>ぼうらく</b> しました。",
+      "latn": "kinou kabuka ga <b>bouraku</b> shimashita.",
+      "en": "Stock prices plunged yesterday.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00279A.mp3"
+    }
+  ]
+}

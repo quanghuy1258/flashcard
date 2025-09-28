@@ -1,0 +1,18 @@
+{
+  "ja": "差し出す",
+  "hrkt": "さしだす",
+  "latn": "sashidasu",
+  "en": "stretch out, hold out",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01746A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は握手をしようと手を<b>差し出した</b>の。",
+      "hrkt": "かれ は あくしゅ を しよう と て を <b>さしだした</b> の。",
+      "latn": "kare ha akushu wo shiyou to te wo <b>sashidashita</b> no.",
+      "en": "He held out his hand to shake hands.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01746A.mp3"
+    }
+  ]
+}

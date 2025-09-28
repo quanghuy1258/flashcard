@@ -1,0 +1,26 @@
+{
+  "ja": "教育",
+  "hrkt": "きょういく",
+  "latn": "kyouiku",
+  "en": "education",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02238A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は海外で<b>教育</b>を受けました。",
+      "hrkt": "かれ は かいがい で <b>きょういく</b> を うけました。",
+      "latn": "kare ha kaigai de <b>kyouiku</b> wo ukemashita.",
+      "en": "He received his education abroad.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5086650.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02238A.mp3"
+    },
+    {
+      "ja": "うちには子供の<b>教育</b>に使えるお金があまりありません。",
+      "hrkt": "うち に は こども の <b>きょういく</b> に つかえる おかね が あまり ありません。",
+      "latn": "uchi ni ha kodomo no <b>kyouiku</b> ni tsukaeru okane ga amari arimasen.",
+      "en": "We don't have much money to spend on our children's education.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/856v78bgs0.mp3"
+    }
+  ]
+}

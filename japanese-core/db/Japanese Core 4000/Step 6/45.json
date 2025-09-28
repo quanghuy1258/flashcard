@@ -1,0 +1,18 @@
+{
+  "ja": "飽きる",
+  "hrkt": "あきる",
+  "latn": "akiru",
+  "en": "get tired of",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02205A.mp3",
+  "sentences": [
+    {
+      "ja": "その子はおもちゃに<b>飽きた</b>ようだね。",
+      "hrkt": "その こ は おもちゃ に <b>あきた</b> ようだ ね。",
+      "latn": "sono ko ha omocha ni <b>akita</b> youda ne.",
+      "en": "The child seems to have gotten tired of the toy.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02205A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "重さ",
+  "hrkt": "おもさ",
+  "latn": "omosa",
+  "en": "weight",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01216A.mp3",
+  "sentences": [
+    {
+      "ja": "この荷物の<b>重さ</b>を量ってください。",
+      "hrkt": "この にもつ の <b>おもさ</b> を はかって ください 。",
+      "latn": "kono nimotsu no <b>omosa</b> wo hakatte kudasai .",
+      "en": "Please weigh this luggage.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4779976.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01216A.mp3"
+    },
+    {
+      "ja": "彼は自分の言葉の<b>重さ</b>が分かっていません。",
+      "hrkt": "かれ は じぶん の ことば の <b>おもさ</b> が わかって いません。",
+      "latn": "kare ha jibun no kotoba no <b>omosa</b> ga wakatte imasen.",
+      "en": "He doesn't know the weight of his words.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/448f099vgo.mp3"
+    }
+  ]
+}

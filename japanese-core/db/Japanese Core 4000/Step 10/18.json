@@ -1,0 +1,18 @@
+{
+  "ja": "芽",
+  "hrkt": "め",
+  "latn": "me",
+  "en": "bud, sprout",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02035A.mp3",
+  "sentences": [
+    {
+      "ja": "チューリップの<b>芽</b>が出ました。",
+      "hrkt": "チューリップ の <b>め</b> が でました。",
+      "latn": "chu-rippu no <b>me</b> ga demashita.",
+      "en": "The tulip buds have sprouted.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02035A.mp3"
+    }
+  ]
+}

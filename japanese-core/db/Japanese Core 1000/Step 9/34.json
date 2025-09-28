@@ -1,0 +1,26 @@
+{
+  "ja": "困る",
+  "hrkt": "こまる",
+  "latn": "komaru",
+  "en": "be troubled, not know what to do",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03201A.mp3",
+  "sentences": [
+    {
+      "ja": "ケータイをなくして<b>困って</b>います。",
+      "hrkt": "ケータイ を なくして <b>こまって</b> います。",
+      "latn": "ke-tai wo nakushite <b>komatte</b> imasu.",
+      "en": "I lost my cell phone and don't know what to do.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4376129.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03201A.mp3"
+    },
+    {
+      "ja": "ホテルの場所が分からなくて<b>困って</b>います。",
+      "hrkt": "ホテル の ばしょ が わからなくて <b>こまって</b> います。",
+      "latn": "hoteru no basho ga wakaranakute <b>komatte</b> imasu.",
+      "en": "I'm in trouble because I can't find the location of the hotel.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/53dsbs7t5g.mp3"
+    }
+  ]
+}

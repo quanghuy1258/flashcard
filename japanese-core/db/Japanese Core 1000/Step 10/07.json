@@ -1,0 +1,26 @@
+{
+  "ja": "毎年",
+  "hrkt": "まいとし",
+  "latn": "maitoshi",
+  "en": "every year (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08639A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>毎年</b>、海外旅行に行きます。",
+      "hrkt": "わたし は <b>まいとし</b>、かいがい りょこう に いきます。",
+      "latn": "watashi ha <b>maitoshi</b>,kaigai ryokou ni ikimasu.",
+      "en": "I travel abroad every year.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3759495.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08639A.mp3"
+    },
+    {
+      "ja": "<b>毎年</b>多くの人が海外へ旅行する。",
+      "hrkt": "<b>まいとし</b> おおく の ひと が かいがい へ りょこう する。",
+      "latn": "<b>maitoshi</b> ooku no hito ga kaigai he ryokou suru.",
+      "en": "A lot of people travel abroad every year.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3335477.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00974A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "家計",
+  "hrkt": "かけい",
+  "latn": "kakei",
+  "en": "family budget",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01523A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>家計</b>を任されているの。",
+      "hrkt": "かのじょ は <b>かけい</b> を まかされて いる の。",
+      "latn": "kanojo ha <b>kakei</b> wo makasarete iru no.",
+      "en": "She's in charge of managing the family budget.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01523A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "投資",
+  "hrkt": "とうし",
+  "latn": "toushi",
+  "en": "investment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06251A.mp3",
+  "sentences": [
+    {
+      "ja": "私は4つの会社に<b>投資</b>しています。",
+      "hrkt": "わたし は よっつ の かいしゃ に <b>とうし</b> して います。",
+      "latn": "watashi ha yottsu no kaisha ni <b>toushi</b> shite imasu.",
+      "en": "I'm investing in four companies.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06251A.mp3"
+    }
+  ]
+}

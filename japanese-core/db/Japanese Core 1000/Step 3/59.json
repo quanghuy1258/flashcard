@@ -1,0 +1,26 @@
+{
+  "ja": "月曜日",
+  "hrkt": "げつようび",
+  "latn": "getsuyoubi",
+  "en": "Monday",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02714A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>月曜日</b>に会いましょう。",
+      "hrkt": "<b>げつようび</b> に あいましょう。",
+      "latn": "<b>getsuyoubi</b> ni aimashou.",
+      "en": "Let's meet on Monday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6382389.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02714A.mp3"
+    },
+    {
+      "ja": "私は１週間で<b>月曜日</b>がいちばん嫌いです。",
+      "hrkt": "わたし は １ しゅうかん で <b>げつようび</b> が いちばん きらい です。",
+      "latn": "watashi ha 1 shuukan de <b>getsuyoubi</b> ga ichiban kirai desu.",
+      "en": "Monday is my least favorite day of the week.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b50d0qauis.mp3"
+    }
+  ]
+}

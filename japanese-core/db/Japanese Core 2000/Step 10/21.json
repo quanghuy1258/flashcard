@@ -1,0 +1,26 @@
+{
+  "ja": "傷",
+  "hrkt": "きず",
+  "latn": "kizu",
+  "en": "wound, scar",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01083A.mp3",
+  "sentences": [
+    {
+      "ja": "足の<b>傷</b>が痛みます。",
+      "hrkt": "あし の <b>きず</b> が いたみます。",
+      "latn": "ashi no <b>kizu</b> ga itamimasu.",
+      "en": "The wound in my foot hurts.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/bl3iedb0smo8c.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01083A.mp3"
+    },
+    {
+      "ja": "この<b>傷</b>はなかなか治りません。",
+      "hrkt": "この <b>きず</b> は なかなか なおりません。",
+      "latn": "kono <b>kizu</b> ha nakanaka naorimasen.",
+      "en": "This wound is taking forever to heal.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/629q3k51ag.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "削減",
+  "hrkt": "さくげん",
+  "latn": "sakugen",
+  "en": "cutdown, reduction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00078A.mp3",
+  "sentences": [
+    {
+      "ja": "福祉予算は<b>削減</b>されないことに決まったのよ。",
+      "hrkt": "ふくし よさん は <b>さくげん</b> されない こと に きまった の よ。",
+      "latn": "fukushi yosan ha <b>sakugen</b> sarenai koto ni kimatta no yo.",
+      "en": "They decided not to reduce the social welfare budget.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00078A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "生きる",
+  "hrkt": "いきる",
+  "latn": "ikiru",
+  "en": "live (one's life)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00390A.mp3",
+  "sentences": [
+    {
+      "ja": "皆一生懸命<b>生きて</b>いる。",
+      "hrkt": "みな いっしょうけんめい <b>いきて</b> いる。",
+      "latn": "mina isshoukenmei <b>ikite</b> iru.",
+      "en": "They're all doing the best they can to live their life.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1971640.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00390A.mp3"
+    },
+    {
+      "ja": "このカメは30年<b>生きて</b>いる。",
+      "hrkt": "この カメ は 30 ねん <b>いきて</b> いる。",
+      "latn": "kono kame ha 30 nen <b>ikite</b> iru.",
+      "en": "This turtle has lived for 30 years.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/884lfoct3o.mp3"
+    }
+  ]
+}

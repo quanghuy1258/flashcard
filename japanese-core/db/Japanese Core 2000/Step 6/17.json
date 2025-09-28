@@ -1,0 +1,26 @@
+{
+  "ja": "億",
+  "hrkt": "おく",
+  "latn": "oku",
+  "en": "hundred million",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01030A.mp3",
+  "sentences": [
+    {
+      "ja": "世界人口は65<b>億</b>人だ。",
+      "hrkt": "せかい じんこう は 65 <b>おく</b> にん だ。",
+      "latn": "sekai jinkou ha 65 <b>oku</b> nin da.",
+      "en": "The world's population is 6.5 billion people.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3706255.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01030A.mp3"
+    },
+    {
+      "ja": "あのマンションは1<b>億</b>円以上しますよ。",
+      "hrkt": "あの マンション は 1 <b>おく</b> えん いじょう します よ。",
+      "latn": "ano manshon ha 1 <b>oku</b> en ijou shimasu yo.",
+      "en": "(A room in) that apartment costs more than one hundred million yen.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/6691co4rgk.mp3"
+    }
+  ]
+}

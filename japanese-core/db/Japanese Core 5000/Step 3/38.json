@@ -1,0 +1,18 @@
+{
+  "ja": "ためる",
+  "hrkt": "ためる",
+  "latn": "tameru",
+  "en": "collect and store (something)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03230A.mp3",
+  "sentences": [
+    {
+      "ja": "お風呂に水を<b>ためて</b>おいてください。",
+      "hrkt": "おふろ に みず を <b>ためて</b> おいて ください。",
+      "latn": "ofuro ni mizu wo <b>tamete</b> oite kudasai.",
+      "en": "Please put and store water in the bathtub.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03230A.mp3"
+    }
+  ]
+}

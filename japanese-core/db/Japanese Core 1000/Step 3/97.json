@@ -1,0 +1,26 @@
+{
+  "ja": "携帯電話",
+  "hrkt": "けいたいでんわ",
+  "latn": "keitaidenwa",
+  "en": "cellular phone",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f56gdq82dc.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>携帯電話</b>はもう古い。",
+      "hrkt": "この <b>けいたい でんわ</b> は もう ふるい。",
+      "latn": "kono <b>keitai denwa</b> ha mou furui.",
+      "en": "This cell phone is already old.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/049fcu7to8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/5622c42rvo.mp3"
+    },
+    {
+      "ja": "今日、<b>携帯電話</b>を家に忘れました。",
+      "hrkt": "きょう、<b>けいたい でんわ</b> を いえ に わすれました。",
+      "latn": "kyou,<b>keitai denwa</b> wo ie ni wasuremashita.",
+      "en": "Today I forgot my cell phone at home.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/05be5k4l60.mp3"
+    }
+  ]
+}

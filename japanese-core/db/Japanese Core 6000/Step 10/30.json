@@ -1,0 +1,18 @@
+{
+  "ja": "平方",
+  "hrkt": "へいほう",
+  "latn": "heihou",
+  "en": "square (measure)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03389A.mp3",
+  "sentences": [
+    {
+      "ja": "この土地の面積は約100<b>平方</b>メートルです。",
+      "hrkt": "この とち の めんせき は やく 100 <b>へいほう</b> メートル です。",
+      "latn": "kono tochi no menseki ha yaku 100 <b>heihou</b> me-toru desu.",
+      "en": "The area of this land is about 100 square meters.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03389A.mp3"
+    }
+  ]
+}

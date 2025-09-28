@@ -1,0 +1,18 @@
+{
+  "ja": "塀",
+  "hrkt": "へい",
+  "latn": "hei",
+  "en": "fence, wall",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01995A.mp3",
+  "sentences": [
+    {
+      "ja": "猫が<b>塀</b>の上で寝ているぞ。",
+      "hrkt": "ねこ が <b>へい</b> の うえ で ねて いる ぞ。",
+      "latn": "neko ga <b>hei</b> no ue de nete iru zo.",
+      "en": "A cat is sleeping on top of the wall.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01995A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "合意",
+  "hrkt": "ごうい",
+  "latn": "goui",
+  "en": "mutual agreement",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00020A.mp3",
+  "sentences": [
+    {
+      "ja": "両社が合併に<b>合意</b>しました。",
+      "hrkt": "りょうしゃ が がっぺい に <b>ごうい</b> しました。",
+      "latn": "ryousha ga gappei ni <b>goui</b> shimashita.",
+      "en": "The two companies agreed to the merger.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00020A.mp3"
+    }
+  ]
+}

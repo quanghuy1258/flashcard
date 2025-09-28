@@ -1,0 +1,18 @@
+{
+  "ja": "目薬",
+  "hrkt": "めぐすり",
+  "latn": "megusuri",
+  "en": "eye drops",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03399A.mp3",
+  "sentences": [
+    {
+      "ja": "目が疲れたので<b>目薬</b>をさしたよ。",
+      "hrkt": "め が つかれた ので <b>めぐすり</b> を さした よ。",
+      "latn": "me ga tsukareta node <b>megusuri</b> wo sashita yo.",
+      "en": "My eyes were tired, so I put in some eye drops.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/66225raroo.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03399A.mp3"
+    }
+  ]
+}

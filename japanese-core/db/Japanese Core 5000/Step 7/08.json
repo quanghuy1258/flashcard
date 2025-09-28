@@ -1,0 +1,18 @@
+{
+  "ja": "当たり",
+  "hrkt": "あたり",
+  "latn": "atari",
+  "en": "success, to come true",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02633A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の予想は大<b>当たり</b>でした。",
+      "hrkt": "かれ の よそう は おお <b>あたり</b> でした。",
+      "latn": "kare no yosou ha oo <b>atari</b> deshita.",
+      "en": "His prediction came true.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02633A.mp3"
+    }
+  ]
+}

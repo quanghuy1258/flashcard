@@ -1,0 +1,18 @@
+{
+  "ja": "怒り",
+  "hrkt": "いかり",
+  "latn": "ikari",
+  "en": "anger, fury",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00956A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>怒り</b>を抑えていたの。",
+      "hrkt": "かれ は <b>いかり</b> を おさえて いた の。",
+      "latn": "kare ha <b>ikari</b> wo osaete ita no.",
+      "en": "He was suppressing his anger.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00440A.mp3"
+    }
+  ]
+}

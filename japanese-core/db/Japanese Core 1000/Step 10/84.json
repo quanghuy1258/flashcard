@@ -1,0 +1,26 @@
+{
+  "ja": "押す",
+  "hrkt": "おす",
+  "latn": "osu",
+  "en": "push, press down",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/dlblfn1jdmqc4.mp3",
+  "sentences": [
+    {
+      "ja": "ボタンを<b>押して</b>ください。",
+      "hrkt": "ボタン を <b>おして</b> ください。",
+      "latn": "botan wo <b>oshite</b> kudasai.",
+      "en": "Please press the button.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5329859.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08537A.mp3"
+    },
+    {
+      "ja": "前の人を<b>押さないで</b>ください。",
+      "hrkt": "まえ の ひと を <b>おさないで</b> ください。",
+      "latn": "mae no hito wo <b>osanaide</b> kudasai.",
+      "en": "Please don't push the person in front of you.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d3cr6o1n3c.mp3"
+    }
+  ]
+}

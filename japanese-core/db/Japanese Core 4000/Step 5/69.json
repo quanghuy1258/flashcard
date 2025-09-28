@@ -1,0 +1,18 @@
+{
+  "ja": "映る",
+  "hrkt": "うつる",
+  "latn": "utsuru",
+  "en": "be reflected, appear",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01145A.mp3",
+  "sentences": [
+    {
+      "ja": "水面に月が<b>映って</b>いるね。",
+      "hrkt": "みなも に つき が <b>うつって</b> いる ね。",
+      "latn": "minamo ni tsuki ga <b>utsutte</b> iru ne.",
+      "en": "The moon is reflected in the surface of the water.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01145A.mp3"
+    }
+  ]
+}

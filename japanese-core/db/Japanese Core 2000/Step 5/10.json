@@ -1,0 +1,26 @@
+{
+  "ja": "遠慮",
+  "hrkt": "えんりょ",
+  "latn": "enryo",
+  "en": "restraint, hold back",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00919A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>遠慮</b>します。",
+      "hrkt": "わたし は <b>えんりょ</b> します。",
+      "latn": "watashi ha <b>enryo</b> shimasu.",
+      "en": "No thanks, I'll pass.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4854825.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00919A.mp3"
+    },
+    {
+      "ja": "質問があったら<b>遠慮</b>なく聞いてください。",
+      "hrkt": "しつもん が あったら <b>えんりょ</b> なく きいて ください。",
+      "latn": "shitsumon ga attara <b>enryo</b> naku kiite kudasai.",
+      "en": "If you have questions, please don't hesitate to ask me.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/830n5gc2qs.mp3"
+    }
+  ]
+}

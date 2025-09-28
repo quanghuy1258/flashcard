@@ -1,0 +1,26 @@
+{
+  "ja": "誕生日",
+  "hrkt": "たんじょうび",
+  "latn": "tanjoubi",
+  "en": "birthday",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05518A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の<b>誕生日</b>は7月16日です。",
+      "hrkt": "かのじょ の <b>たんじょうび</b> は  7 がつ 16 にち です。",
+      "latn": "kanojo no <b>tanjoubi</b> ha  7 gatsu 16 nichi desu.",
+      "en": "Her birthday is July 16th.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5188534.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05518A.mp3"
+    },
+    {
+      "ja": "<b>誕生日</b>にプレゼントをもらいました。",
+      "hrkt": "<b>たんじょうび</b> に プレゼント を もらいました。",
+      "latn": "<b>tanjoubi</b> ni purezento wo moraimashita.",
+      "en": "I got some presents on my birthday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3549132.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08212A.mp3"
+    }
+  ]
+}

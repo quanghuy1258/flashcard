@@ -1,0 +1,18 @@
+{
+  "ja": "洋式",
+  "hrkt": "ようしき",
+  "latn": "youshiki",
+  "en": "Western style",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03002A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の家のトイレは<b>洋式</b>です。",
+      "hrkt": "かれ の いえ の トイレ は <b>ようしき</b> です。",
+      "latn": "kare no ie no toire ha <b>youshiki</b> desu.",
+      "en": "His house has a Western-style toilet.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03002A.mp3"
+    }
+  ]
+}

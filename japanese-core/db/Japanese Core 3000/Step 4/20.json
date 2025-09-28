@@ -1,0 +1,18 @@
+{
+  "ja": "問い合わせる",
+  "hrkt": "といあわせる",
+  "latn": "toiawaseru",
+  "en": "inquire, ask for (information)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02123A.mp3",
+  "sentences": [
+    {
+      "ja": "保険会社に<b>問い合わせます</b>。",
+      "hrkt": "ほけん がいしゃ に <b>といあわせます</b>。",
+      "latn": "hoken gaisha ni <b>toiawasemasu</b>.",
+      "en": "I'll inquire with my insurance company.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/355c852io8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02123A.mp3"
+    }
+  ]
+}

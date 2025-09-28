@@ -1,0 +1,26 @@
+{
+  "ja": "からから",
+  "hrkt": "からから",
+  "latn": "karakara",
+  "en": "very thirsty, very dry",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01804A.mp3",
+  "sentences": [
+    {
+      "ja": "おしゃべりして喉が<b>からから</b>になりました。",
+      "hrkt": "おしゃべり して のど が <b>からから</b> に なりました。",
+      "latn": "oshaberi shite nodo ga <b>karakara</b> ni narimashita.",
+      "en": "My throat got dry from chatting.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1807465.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01804A.mp3"
+    },
+    {
+      "ja": "喉が渇いて<b>からから</b>です。",
+      "hrkt": "のど が かわいて <b>から から</b> です。",
+      "latn": "nodo ga kawaite <b>kara kara</b> desu.",
+      "en": "I'm thirsty, and my throat is very dry.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c5b6frcjqk.mp3"
+    }
+  ]
+}

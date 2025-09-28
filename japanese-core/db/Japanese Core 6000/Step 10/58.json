@@ -1,0 +1,18 @@
+{
+  "ja": "払い",
+  "hrkt": "はらい",
+  "latn": "harai",
+  "en": "payment, bill (to pay)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02991A.mp3",
+  "sentences": [
+    {
+      "ja": "飲み屋の<b>払い</b>がたまっているんだ。",
+      "hrkt": "のみや の <b>はらい</b> が たまって いる ん だ。",
+      "latn": "nomiya no <b>harai</b> ga tamatte iru n da.",
+      "en": "I'm running up bills at the bar.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02991A.mp3"
+    }
+  ]
+}

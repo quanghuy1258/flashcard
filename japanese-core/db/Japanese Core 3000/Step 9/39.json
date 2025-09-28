@@ -1,0 +1,18 @@
+{
+  "ja": "合わせる",
+  "hrkt": "あわせる",
+  "latn": "awaseru",
+  "en": "match (something), adapt (oneself)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00227A.mp3",
+  "sentences": [
+    {
+      "ja": "日時はご都合に<b>合わせます</b>。",
+      "hrkt": "にちじ は ごつごう に <b>あわせます</b>。",
+      "latn": "nichiji ha gotsugou ni <b>awasemasu</b>.",
+      "en": "The date can be decided according to your schedule.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/5243383r98.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00227A.mp3"
+    }
+  ]
+}

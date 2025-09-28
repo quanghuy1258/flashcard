@@ -1,0 +1,18 @@
+{
+  "ja": "身振り",
+  "hrkt": "みぶり",
+  "latn": "miburi",
+  "en": "gesture",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03174A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>身振り</b>を交えて説明してくれたの。",
+      "hrkt": "かれ は <b>みぶり</b> を まじえて せつめい して くれた の。",
+      "latn": "kare ha <b>miburi</b> wo majiete setsumei shite kureta no.",
+      "en": "He explained it to me with gestures.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03174A.mp3"
+    }
+  ]
+}

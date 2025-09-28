@@ -1,0 +1,18 @@
+{
+  "ja": "追いつく",
+  "hrkt": "おいつく",
+  "latn": "oitsuku",
+  "en": "catch up with",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03266A.mp3",
+  "sentences": [
+    {
+      "ja": "駅でようやく彼に<b>追いつきました</b>。",
+      "hrkt": "えき で ようやく かれ に <b>おいつきました</b> 。",
+      "latn": "eki de youyaku kare ni <b>oitsukimashita</b> .",
+      "en": "I finally caught up with him at the station.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/25e53meo08.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03266A.mp3"
+    }
+  ]
+}

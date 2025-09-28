@@ -1,0 +1,26 @@
+{
+  "ja": "毎年",
+  "hrkt": "まいねん",
+  "latn": "mainen",
+  "en": "every year (formal)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08642A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>毎年</b>給料が上がる。",
+      "hrkt": "<b>まいねん</b> きゅうりょう が  あがる。",
+      "latn": "<b>mainen</b> kyuuryou ga  agaru.",
+      "en": "My salary goes up every year.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3195104.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08642A.mp3"
+    },
+    {
+      "ja": "野菜の値段が<b>毎年</b>上がっています。",
+      "hrkt": "やさい の ねだん が <b>まいねん</b> あがって います。",
+      "latn": "yasai no nedan ga <b>mainen</b> agatte imasu.",
+      "en": "The prices of vegetables go up every year.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d2afea6pbo.mp3"
+    }
+  ]
+}

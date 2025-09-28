@@ -1,0 +1,26 @@
+{
+  "ja": "易しい",
+  "hrkt": "やさしい",
+  "latn": "yasashii",
+  "en": "easy, simple (colloquial)",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09402A.mp3",
+  "sentences": [
+    {
+      "ja": "この問題はかなり<b>易しい</b>です。",
+      "hrkt": "この もんだい は かなり <b>やさしい</b> です。",
+      "latn": "kono mondai ha kanari <b>yasashii</b> desu.",
+      "en": "This problem is fairly easy.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5984971.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09402A.mp3"
+    },
+    {
+      "ja": "テストはとても<b>易しかった</b>。",
+      "hrkt": "テスト は とても <b>やさしかった</b>。",
+      "latn": "tesuto ha totemo <b>yasashikatta</b>.",
+      "en": "The test was very easy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/36a0ek75jk.mp3"
+    }
+  ]
+}

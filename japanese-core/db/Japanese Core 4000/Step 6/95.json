@@ -1,0 +1,18 @@
+{
+  "ja": "ポスター",
+  "hrkt": "ポスター",
+  "latn": "posuta-",
+  "en": "poster",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03873A.mp3",
+  "sentences": [
+    {
+      "ja": "電柱に<b>ポスター</b>が貼ってあった。",
+      "hrkt": "でんちゅう に <b>ポスター</b> が はって あった。",
+      "latn": "denchuu ni <b>posuta-</b> ga hatte atta.",
+      "en": "There was a poster on the telegraph pole.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03873A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "より",
+  "hrkt": "より",
+  "latn": "yori",
+  "en": "even more ~, even less ~",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09734A.mp3",
+  "sentences": [
+    {
+      "ja": "これから、<b>より</b>一層努力します。",
+      "hrkt": "これから、<b>より</b> いっそう どりょく します。",
+      "latn": "korekara,<b>yori</b> issou doryoku shimasu.",
+      "en": "I'll work much harder from now on.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4008505.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09734A.mp3"
+    },
+    {
+      "ja": "空港へのアクセスが<b>より</b>便利になりました。",
+      "hrkt": "くうこう へ の アクセス が <b>より</b> べんり に なりました。",
+      "latn": "kuukou he no akusesu ga <b>yori</b> benri ni narimashita.",
+      "en": "The access to the airport has become more convenient.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/7698c5ei1g.mp3"
+    }
+  ]
+}

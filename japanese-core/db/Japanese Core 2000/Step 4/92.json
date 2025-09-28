@@ -1,0 +1,26 @@
+{
+  "ja": "あんなに",
+  "hrkt": "あんなに",
+  "latn": "annani",
+  "en": "that much, such",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00327A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>あんなに</b>いい人はいません。",
+      "hrkt": "<b>あんな に</b> いい ひと は いません。",
+      "latn": "<b>anna ni</b> ii hito ha imasen.",
+      "en": "I've never seen such a good-hearted person.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4261480.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00327A.mp3"
+    },
+    {
+      "ja": "彼は日本語が<b>あんなに</b>上手だなんて知りませんでした。",
+      "hrkt": "かれ は にほん ご が <b>あんな に</b> じょうず だ なんて しりません でした。",
+      "latn": "kare ha nihon go ga <b>anna ni</b> jouzu da nante shirimasen deshita.",
+      "en": "I didn't know that he was that good at Japanese.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/32dpfm1ico.mp3"
+    }
+  ]
+}

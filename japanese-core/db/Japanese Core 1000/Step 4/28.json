@@ -1,0 +1,26 @@
+{
+  "ja": "上",
+  "hrkt": "うえ",
+  "latn": "ue",
+  "en": "up, above",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00650A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>上</b>を向いて。",
+      "hrkt": "<b>うえ</b> を むいて。",
+      "latn": "<b>ue</b> wo muite.",
+      "en": "Look up.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5219819.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00650A.mp3"
+    },
+    {
+      "ja": "彼はかばんをいすの<b>上</b>に置きました。",
+      "hrkt": "かれ は かばん を いす の <b>うえ</b> に おきました。",
+      "latn": "kare ha kaban wo isu no <b>ue</b> ni okimashita.",
+      "en": "He put the bag on the chair.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1428947.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01032A.mp3"
+    }
+  ]
+}

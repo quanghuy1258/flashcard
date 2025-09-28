@@ -1,0 +1,18 @@
+{
+  "ja": "私用",
+  "hrkt": "しよう",
+  "latn": "shiyou",
+  "en": "personal business",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03080A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>私用</b>で出かけなければなりません。",
+      "hrkt": "<b>しよう</b> で でかけ なければ なりません。",
+      "latn": "<b>shiyou</b> de dekake nakereba narimasen.",
+      "en": "I have to go out to take care of personal business.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03080A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "面積",
+  "hrkt": "めんせき",
+  "latn": "menseki",
+  "en": "area, square measure",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00612A.mp3",
+  "sentences": [
+    {
+      "ja": "この土地の<b>面積</b>はどれくらいですか。",
+      "hrkt": "この とち の <b>めんせき</b> は どれ くらい です か 。",
+      "latn": "kono tochi no <b>menseki</b> ha dore kurai desu ka .",
+      "en": "What is the area of this land?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00612A.mp3"
+    }
+  ]
+}

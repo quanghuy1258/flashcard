@@ -1,0 +1,18 @@
+{
+  "ja": "ほこり",
+  "hrkt": "ほこり",
+  "latn": "hokori",
+  "en": "dust",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03394A.mp3",
+  "sentences": [
+    {
+      "ja": "この部屋は<b>ほこり</b>だらけですね。",
+      "hrkt": "この へや は <b>ほこり</b> だらけ です ね。",
+      "latn": "kono heya ha <b>hokori</b> darake desu ne.",
+      "en": "This room is covered with dust.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03394A.mp3"
+    }
+  ]
+}

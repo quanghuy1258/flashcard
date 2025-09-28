@@ -1,0 +1,18 @@
+{
+  "ja": "丘",
+  "hrkt": "おか",
+  "latn": "oka",
+  "en": "hill",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02061A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>丘</b>の上にホテルが建ちましたね。",
+      "hrkt": "<b>おか</b> の うえ に ホテル が たちました ね。",
+      "latn": "<b>oka</b> no ue ni hoteru ga tachimashita ne.",
+      "en": "A hotel was built on top of the hill.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02061A.mp3"
+    }
+  ]
+}

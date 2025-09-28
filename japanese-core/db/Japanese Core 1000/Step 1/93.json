@@ -1,0 +1,26 @@
+{
+  "ja": "飲む",
+  "hrkt": "のむ",
+  "latn": "nomu",
+  "en": "drink",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07115A.mp3",
+  "sentences": [
+    {
+      "ja": "友達とお酒を<b>飲んで</b>います。",
+      "hrkt": "ともだち と おさけ を <b>のんで</b> います。",
+      "latn": "tomodachi to osake wo <b>nonde</b> imasu.",
+      "en": "I'm drinking sake with my friend.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4286932.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07115A.mp3"
+    },
+    {
+      "ja": "ワインを少し<b>飲みました</b>。",
+      "hrkt": "ワイン を すこし <b>のみました</b>。",
+      "latn": "wain wo sukoshi <b>nomimashita</b>.",
+      "en": "I drank a little wine.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4400948.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09998A.mp3"
+    }
+  ]
+}

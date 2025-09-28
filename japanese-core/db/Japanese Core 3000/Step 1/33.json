@@ -1,0 +1,18 @@
+{
+  "ja": "植える",
+  "hrkt": "うえる",
+  "latn": "ueru",
+  "en": "plant, sow",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00656A.mp3",
+  "sentences": [
+    {
+      "ja": "庭にバラを<b>植えました</b>。",
+      "hrkt": "にわ に バラ を <b>うえました</b>。",
+      "latn": "niwa ni bara wo <b>uemashita</b>.",
+      "en": "I planted some roses in the garden.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/746nfcc1p4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00656A.mp3"
+    }
+  ]
+}

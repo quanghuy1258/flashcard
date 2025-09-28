@@ -1,0 +1,26 @@
+{
+  "ja": "数字",
+  "hrkt": "すうじ",
+  "latn": "suuji",
+  "en": "numeric characters, number",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04511A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>数字</b>は苦手です。",
+      "hrkt": "<b>すうじ</b> は にがて です。",
+      "latn": "<b>suuji</b> ha nigate desu.",
+      "en": "I'm not good with numbers.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5914333.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04511A.mp3"
+    },
+    {
+      "ja": "1から4の中から一つ選び、<b>数字</b>で答えなさい。",
+      "hrkt": "1 から 4 の なか から ひとつ えらび、<b>すうじ</b> で こたえなさい。",
+      "latn": "1 kara 4 no naka kara hitotsu erabi,<b>suuji</b> de kotaenasai.",
+      "en": "Select (a response) from 1 to 4, and provide the number (of the response).",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/635mbk18so.mp3"
+    }
+  ]
+}

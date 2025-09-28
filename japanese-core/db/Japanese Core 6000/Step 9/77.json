@@ -1,0 +1,18 @@
+{
+  "ja": "句",
+  "hrkt": "く",
+  "latn": "ku",
+  "en": "phrase",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01188A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>句</b>はどんな意味でしょうか。",
+      "hrkt": "この <b>く</b> は どんな いみ でしょう か。",
+      "latn": "kono <b>ku</b> ha donna imi deshou ka.",
+      "en": "What does this phrase mean?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01188A.mp3"
+    }
+  ]
+}

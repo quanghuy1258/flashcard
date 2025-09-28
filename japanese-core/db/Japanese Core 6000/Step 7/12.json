@@ -1,0 +1,18 @@
+{
+  "ja": "無制限",
+  "hrkt": "むせいげん",
+  "latn": "museigen",
+  "en": "unlimited",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02745A.mp3",
+  "sentences": [
+    {
+      "ja": "このサイトでは音楽を<b>無制限</b>でダウンロードできる。",
+      "hrkt": "この サイト で は おんがく を <b>むせいげん</b> で ダウンロード できる。",
+      "latn": "kono saito de ha ongaku wo <b>museigen</b> de daunro-do dekiru.",
+      "en": "You can download music unlimitedly on this site.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02745A.mp3"
+    }
+  ]
+}

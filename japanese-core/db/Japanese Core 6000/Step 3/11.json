@@ -1,0 +1,18 @@
+{
+  "ja": "交互",
+  "hrkt": "こうご",
+  "latn": "kougo",
+  "en": "alternately",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02603A.mp3",
+  "sentences": [
+    {
+      "ja": "男女<b>交互</b>に並んでください。",
+      "hrkt": "だんじょ <b>こうご</b> に ならんで ください。",
+      "latn": "danjo <b>kougo</b> ni narande kudasai.",
+      "en": "Please make a line of boys and girls alternately.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02603A.mp3"
+    }
+  ]
+}

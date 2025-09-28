@@ -1,0 +1,18 @@
+{
+  "ja": "沿岸",
+  "hrkt": "えんがん",
+  "latn": "engan",
+  "en": "coast, shore",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01198A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>沿岸</b>の波が荒いでしょう。",
+      "hrkt": "きょう は <b>えんがん</b> の なみ が あらい でしょう。",
+      "latn": "kyou ha <b>engan</b> no nami ga arai deshou.",
+      "en": "Waves on the coast will be rough today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01198A.mp3"
+    }
+  ]
+}

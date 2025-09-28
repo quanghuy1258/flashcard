@@ -1,0 +1,26 @@
+{
+  "ja": "いつも",
+  "hrkt": "いつも",
+  "latn": "itsumo",
+  "en": "always (colloquial)",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00544A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>いつも</b>元気だ。",
+      "hrkt": "かのじょ は <b>いつも</b> げんき だ。",
+      "latn": "kanojo ha <b>itsumo</b> genki da.",
+      "en": "She's always full of energy.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5885779.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00544A.mp3"
+    },
+    {
+      "ja": "朝ご飯には<b>いつも</b>パンを食べる。",
+      "hrkt": "あさ ごはん に は <b>いつも</b> パン を たべる。",
+      "latn": "asa gohan ni ha <b>itsumo</b> pan wo taberu.",
+      "en": "I always eat bread for breakfast.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6415144.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07520A.mp3"
+    }
+  ]
+}

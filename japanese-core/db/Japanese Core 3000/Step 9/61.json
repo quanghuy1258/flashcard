@@ -1,0 +1,18 @@
+{
+  "ja": "特定",
+  "hrkt": "とくてい",
+  "latn": "tokutei",
+  "en": "specifying, identifying",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00128A.mp3",
+  "sentences": [
+    {
+      "ja": "警察は犯人を<b>特定</b>したらしいよ。",
+      "hrkt": "けいさつ は はんにん を <b>とくてい</b> した らしい よ。",
+      "latn": "keisatsu ha hannin wo <b>tokutei</b> shita rashii yo.",
+      "en": "I hear that the police have identified the suspect.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/7387f8eejo.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00128A.mp3"
+    }
+  ]
+}

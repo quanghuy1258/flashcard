@@ -1,0 +1,18 @@
+{
+  "ja": "売り上げ",
+  "hrkt": "うりあげ",
+  "latn": "uriage",
+  "en": "sales, proceeds",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00244A.mp3",
+  "sentences": [
+    {
+      "ja": "この会社の<b>売り上げ</b>は昨年の2倍ね。",
+      "hrkt": "この かいしゃ の <b>うりあげ</b> は さくねん の 2 ばい ね。",
+      "latn": "kono kaisha no <b>uriage</b> ha sakunen no 2 bai ne.",
+      "en": "The sales of this company have doubled from last year.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/5430bccg28.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00244A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "明らか",
+  "hrkt": "あきらか",
+  "latn": "akiraka",
+  "en": "clear, obvious",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00063A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>明らか</b>に彼が悪い。",
+      "hrkt": "<b>あきらか</b> に かれ が わるい。",
+      "latn": "<b>akiraka</b> ni kare ga warui.",
+      "en": "It's clearly his fault.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4690955.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00063A.mp3"
+    },
+    {
+      "ja": "あの人がお金を取ったのは<b>明らか</b>だ。",
+      "hrkt": "あの ひと が おかね を とった の は <b>あきらか</b> だ。",
+      "latn": "ano hito ga okane wo totta no ha <b>akiraka</b> da.",
+      "en": "It's obvious that that person took the money.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c50md7d690.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "キャッシュカード",
+  "hrkt": "キャッシュカード",
+  "latn": "kyasshuka-do",
+  "en": "cash card",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02180A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>キャッシュカード</b>でお金を下ろした。",
+      "hrkt": "<b>キャッシュカード</b> で おかね を おろした。",
+      "latn": "<b>kyasshuka-do</b> de okane wo oroshita.",
+      "en": "I withdrew some money with my cash card.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1565547.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02180A.mp3"
+    },
+    {
+      "ja": "<b>キャッシュカード</b>を無くしたので、銀行に電話しました。",
+      "hrkt": "<b>キャッシュカード</b> を なくした ので、ぎんこう に でんわ しました。",
+      "latn": "<b>kyasshuka-do</b> wo nakushita node,ginkou ni denwa shimashita.",
+      "en": "Because I lost my bank card, I called the bank.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d3am6cart0.mp3"
+    }
+  ]
+}

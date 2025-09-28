@@ -1,0 +1,18 @@
+{
+  "ja": "例え",
+  "hrkt": "たとえ",
+  "latn": "tatoe",
+  "en": "example, metaphor",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03300A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>例え</b>を挙げると話が分かり易くなる。",
+      "hrkt": "<b>たとえ</b> を あげる と はなし が わかり やすく なる。",
+      "latn": "<b>tatoe</b> wo ageru to hanashi ga wakari yasuku naru.",
+      "en": "It will be easier to understand if you give us an example.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03300A.mp3"
+    }
+  ]
+}

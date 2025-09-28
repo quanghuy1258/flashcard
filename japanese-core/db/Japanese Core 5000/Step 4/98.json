@@ -1,0 +1,18 @@
+{
+  "ja": "恨み",
+  "hrkt": "うらみ",
+  "latn": "urami",
+  "en": "grudge, hatred",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02083A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は長年の<b>恨み</b>を晴らした。",
+      "hrkt": "かのじょ は ながねん の <b>うらみ</b> を はらした。",
+      "latn": "kanojo ha naganen no <b>urami</b> wo harashita.",
+      "en": "She paid off the old grudge.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02083A.mp3"
+    }
+  ]
+}

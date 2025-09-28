@@ -1,0 +1,18 @@
+{
+  "ja": "効く",
+  "hrkt": "きく",
+  "latn": "kiku",
+  "en": "take effect, work",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01474A.mp3",
+  "sentences": [
+    {
+      "ja": "この薬はあまりよく<b>効かない</b>よ。",
+      "hrkt": "この くすり は あまり よく <b>きかない</b> よ。",
+      "latn": "kono kusuri ha amari yoku <b>kikanai</b> yo.",
+      "en": "This medicine doesn't work very well.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01474A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "見解",
+  "hrkt": "けんかい",
+  "latn": "kenkai",
+  "en": "opinion, view",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00670A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの<b>見解</b>を聞かせてください。",
+      "hrkt": "あなた の <b>けんかい</b> を きかせて ください。",
+      "latn": "anata no <b>kenkai</b> wo kikasete kudasai.",
+      "en": "Please tell me your opinion.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00670A.mp3"
+    }
+  ]
+}

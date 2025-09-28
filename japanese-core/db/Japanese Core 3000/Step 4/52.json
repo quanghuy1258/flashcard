@@ -1,0 +1,18 @@
+{
+  "ja": "傷つける",
+  "hrkt": "きずつける",
+  "latn": "kizutsukeru",
+  "en": "hurt (someone), damage (something)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03593A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたを<b>傷つける</b>つもりはありませんでした。",
+      "hrkt": "あなた を <b>きずつける</b> つもり は ありませんでした。",
+      "latn": "anata wo <b>kizutsukeru</b> tsumori ha arimasendeshita.",
+      "en": "I didn't mean to hurt you.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b51aa53no0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03593A.mp3"
+    }
+  ]
+}

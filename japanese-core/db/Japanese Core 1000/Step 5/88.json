@@ -1,0 +1,26 @@
+{
+  "ja": "負ける",
+  "hrkt": "まける",
+  "latn": "makeru",
+  "en": "lose (a game), be defeated",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08680A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちのチームはその試合で<b>負けた</b>。",
+      "hrkt": "わたし たち の チーム は その しあい で <b>まけた</b>。",
+      "latn": "watashi tachi no chi-mu ha sono shiai de <b>maketa</b>.",
+      "en": "Our team lost the game.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5566718.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08680A.mp3"
+    },
+    {
+      "ja": "昨日はドジャースが<b>負けました</b>。",
+      "hrkt": "きのう は ドジャース が <b>まけました</b>。",
+      "latn": "kinou ha doja-su ga <b>makemashita</b>.",
+      "en": "Yesterday, the Dodgers lost.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f466f61rqs.mp3"
+    }
+  ]
+}

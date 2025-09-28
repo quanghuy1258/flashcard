@@ -1,0 +1,26 @@
+{
+  "ja": "再来月",
+  "hrkt": "さらいげつ",
+  "latn": "saraigetsu",
+  "en": "the month after next",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03500A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>再来月</b>まで予約でいっぱいです。",
+      "hrkt": "<b>さらいげつ</b> まで よやく で いっぱい です。",
+      "latn": "<b>saraigetsu</b> made yoyaku de ippai desu.",
+      "en": "We're fully booked until the month after the next.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5253558.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03500A.mp3"
+    },
+    {
+      "ja": "<b>再来月</b>、また病院に行かないといけません。",
+      "hrkt": "<b>さらいげつ</b>、また びょういん に いかない と いけません。",
+      "latn": "<b>saraigetsu</b>,mata byouin ni ikanai to ikemasen.",
+      "en": "I have to go to the hospital again the month after next.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/43er3d2pok.mp3"
+    }
+  ]
+}

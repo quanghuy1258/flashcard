@@ -1,0 +1,18 @@
+{
+  "ja": "レントゲン",
+  "hrkt": "レントゲン",
+  "latn": "rentogen",
+  "en": "X-rays",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02902A.mp3",
+  "sentences": [
+    {
+      "ja": "病院で<b>レントゲン</b>を撮ったよ。",
+      "hrkt": "びょういん で <b>レントゲン</b> を とった よ。",
+      "latn": "byouin de <b>rentogen</b> wo totta yo.",
+      "en": "I had X-rays taken at the hospital.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/15596rd438.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02902A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "主人",
+  "hrkt": "しゅじん",
+  "latn": "shujin",
+  "en": "one's husband, master",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04052A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>主人</b>は今、留守です。",
+      "hrkt": "<b>しゅじん</b> は いま、るす です。",
+      "latn": "<b>shujin</b> ha ima,rusu desu.",
+      "en": "My husband is out now.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5638362.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04052A.mp3"
+    },
+    {
+      "ja": "<b>主人</b>はもう出掛けました。",
+      "hrkt": "<b>しゅじん</b> は もう でかけました。",
+      "latn": "<b>shujin</b> ha mou dekakemashita.",
+      "en": "My husband has already gone out.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2488918.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06034A.mp3"
+    }
+  ]
+}

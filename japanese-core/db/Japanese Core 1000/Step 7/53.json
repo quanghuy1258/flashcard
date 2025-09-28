@@ -1,0 +1,26 @@
+{
+  "ja": "直す",
+  "hrkt": "なおす",
+  "latn": "naosu",
+  "en": "repair, fix",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06621A.mp3",
+  "sentences": [
+    {
+      "ja": "私がそれを<b>直しました</b>。",
+      "hrkt": "わたし が それ を <b>なおしました</b>。",
+      "latn": "watashi ga sore wo <b>naoshimashita</b>.",
+      "en": "I mended it.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4818325.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06621A.mp3"
+    },
+    {
+      "ja": "私は自分でパソコンを<b>直した</b>。",
+      "hrkt": "わたし は じぶん で パソコン を <b>なおした</b>。",
+      "latn": "watashi ha jibun de pasokon wo <b>naoshita</b>.",
+      "en": "I fixed my computer myself.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/038pfvf4k0.mp3"
+    }
+  ]
+}

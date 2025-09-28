@@ -1,0 +1,18 @@
+{
+  "ja": "受け身",
+  "hrkt": "うけみ",
+  "latn": "ukemi",
+  "en": "being passive",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03067A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はいつも<b>受け身</b>の姿勢で、自分からは何もしないんだ。",
+      "hrkt": "かれ は いつも <b>うけみ</b> の しせい で、じぶん から は なに も しない ん だ。",
+      "latn": "kare ha itsumo <b>ukemi</b> no shisei de,jibun kara ha nani mo shinai n da.",
+      "en": "He always takes a passive attitude and never initiates anything himself.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03067A.mp3"
+    }
+  ]
+}

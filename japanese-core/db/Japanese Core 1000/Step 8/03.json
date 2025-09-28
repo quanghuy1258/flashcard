@@ -1,0 +1,26 @@
+{
+  "ja": "もし",
+  "hrkt": "もし",
+  "latn": "moshi",
+  "en": "if, in case of",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09271A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>もし</b>雨が降ったら、行きません。",
+      "hrkt": "<b>もし</b> あめ が ふったら、いきません。",
+      "latn": "<b>moshi</b> ame ga futtara,ikimasen.",
+      "en": "I won't go if it rains.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3470582.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09271A.mp3"
+    },
+    {
+      "ja": "<b>もし</b>私があなただったら、彼女とは結婚しません。",
+      "hrkt": "<b>もし</b> わたし が あなた だったら、かのじょ と は けっこん しません。",
+      "latn": "<b>moshi</b> watashi ga anata dattara,kanojo to ha kekkon shimasen.",
+      "en": "If I were you, I wouldn't marry her.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/93eqf4b7h4.mp3"
+    }
+  ]
+}

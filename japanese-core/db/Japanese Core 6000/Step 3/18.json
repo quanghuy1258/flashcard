@@ -1,0 +1,18 @@
+{
+  "ja": "休める",
+  "hrkt": "やすめる",
+  "latn": "yasumeru",
+  "en": "give (body etc.) a rest",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02663A.mp3",
+  "sentences": [
+    {
+      "ja": "疲れた体を<b>休めて</b>ください。",
+      "hrkt": "つかれた からだ を <b>やすめて</b> ください。",
+      "latn": "tsukareta karada wo <b>yasumete</b> kudasai.",
+      "en": "Please rest your tired body.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02663A.mp3"
+    }
+  ]
+}

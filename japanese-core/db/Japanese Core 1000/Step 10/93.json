@@ -1,0 +1,26 @@
+{
+  "ja": "レコード",
+  "hrkt": "レコード",
+  "latn": "reko-do",
+  "en": "record",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09926A.mp3",
+  "sentences": [
+    {
+      "ja": "ジャズの<b>レコード</b>をかけました。",
+      "hrkt": "ジャズ の <b>レコード</b> を かけました。",
+      "latn": "jazu no <b>reko-do</b> wo kakemashita.",
+      "en": "I put on a jazz record.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5509286.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09926A.mp3"
+    },
+    {
+      "ja": "父は古い<b>レコード</b>を集めています。",
+      "hrkt": "ちち は ふるい <b>レコード</b> を あつめて います。",
+      "latn": "chichi ha furui <b>reko-do</b> wo atsumete imasu.",
+      "en": "My father collects old records.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c5eda47an4.mp3"
+    }
+  ]
+}

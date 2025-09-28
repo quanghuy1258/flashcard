@@ -1,0 +1,26 @@
+{
+  "ja": "例えば",
+  "hrkt": "たとえば",
+  "latn": "tatoeba",
+  "en": "for example",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05414A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>例えば</b>、このソフトで日本語を勉強することができます。",
+      "hrkt": "<b>たとえば</b>、この ソフト で にほん ご を べんきょう する こと が できます。",
+      "latn": "<b>tatoeba</b>,kono sofuto de nihon go wo benkyou suru koto ga dekimasu.",
+      "en": "You can use this software to study Japanese, for example.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/905300.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05414A.mp3"
+    },
+    {
+      "ja": "<b>例えば</b>どんなことをしたいですか。",
+      "hrkt": "<b>たとえば</b> どんな こと を したい です か。",
+      "latn": "<b>tatoeba</b> donna koto wo shitai desu ka.",
+      "en": "Like (for example) what kind of things do you want to do?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/117o1v6258.mp3"
+    }
+  ]
+}

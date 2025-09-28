@@ -1,0 +1,26 @@
+{
+  "ja": "連れてくる",
+  "hrkt": "つれてくる",
+  "latn": "tsuretekuru",
+  "en": "bring (a person)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05972A.mp3",
+  "sentences": [
+    {
+      "ja": "息子が友達を<b>連れてきました</b>。",
+      "hrkt": "むすこ が ともだち を <b>つれて きました</b>。",
+      "latn": "musuko ga tomodachi wo <b>tsurete kimashita</b>.",
+      "en": "My son brought a friend.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5798008.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05972A.mp3"
+    },
+    {
+      "ja": "今日、娘が初めて家に彼氏を<b>連れてくる</b>。",
+      "hrkt": "きょう、むすめ が はじめて いえ に かれし を <b>つれて くる</b>。",
+      "latn": "kyou,musume ga hajimete ie ni kareshi wo <b>tsurete kuru</b>.",
+      "en": "Today my daughter is bringing her boyfriend to our home for the first time.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/812l6e2hl0.mp3"
+    }
+  ]
+}

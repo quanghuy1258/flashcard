@@ -1,0 +1,18 @@
+{
+  "ja": "アルコール",
+  "hrkt": "アルコール",
+  "latn": "aruko-ru",
+  "en": "alcohol, alcoholic beverage",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01445A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>アルコール</b>に強い体質です。",
+      "hrkt": "かれ は <b>アルコール</b> に つよい たいしつ です。",
+      "latn": "kare ha <b>aruko-ru</b> ni tsuyoi taishitsu desu.",
+      "en": "He has a disposition to hold his liquor.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/44841s5gd4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01445A.mp3"
+    }
+  ]
+}

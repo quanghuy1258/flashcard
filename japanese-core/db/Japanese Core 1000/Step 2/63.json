@@ -1,0 +1,26 @@
+{
+  "ja": "上げる",
+  "hrkt": "あげる",
+  "latn": "ageru",
+  "en": "raise, lift",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00094A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は荷物をあみだなに<b>上げた</b>。",
+      "hrkt": "かれ は にもつ を あみだな に <b>あげた</b>。",
+      "latn": "kare ha nimotsu wo amidana ni <b>ageta</b>.",
+      "en": "He put the luggage on the rack.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/922260.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00094A.mp3"
+    },
+    {
+      "ja": "分かった人は手を<b>上げて</b>ください。",
+      "hrkt": "わかった ひと は て を <b>あげて</b> ください。",
+      "latn": "wakatta hito ha te wo <b>agete</b> kudasai.",
+      "en": "Raise your hand if you know the answer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5875373.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05974A.mp3"
+    }
+  ]
+}

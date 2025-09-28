@@ -1,0 +1,18 @@
+{
+  "ja": "気体",
+  "hrkt": "きたい",
+  "latn": "kitai",
+  "en": "gaseous body, gas",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01187A.mp3",
+  "sentences": [
+    {
+      "ja": "水が沸騰して<b>気体</b>になったんだ。",
+      "hrkt": "みず が ふっとう して <b>きたい</b> に なった ん だ。",
+      "latn": "mizu ga futtou shite <b>kitai</b> ni natta n da.",
+      "en": "The water boiled and turned into a gaseous body.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01187A.mp3"
+    }
+  ]
+}

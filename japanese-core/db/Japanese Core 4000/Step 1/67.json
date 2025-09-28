@@ -1,0 +1,18 @@
+{
+  "ja": "風景",
+  "hrkt": "ふうけい",
+  "latn": "fuukei",
+  "en": "view, scene",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00796A.mp3",
+  "sentences": [
+    {
+      "ja": "私は山の<b>風景</b>が好きです。",
+      "hrkt": "わたし は やま の <b>ふうけい</b> が すき です。",
+      "latn": "watashi ha yama no <b>fuukei</b> ga suki desu.",
+      "en": "I like views in mountains.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/51fl2k4sg8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00796A.mp3"
+    }
+  ]
+}

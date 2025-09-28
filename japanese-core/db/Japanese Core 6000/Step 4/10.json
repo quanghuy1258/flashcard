@@ -1,0 +1,18 @@
+{
+  "ja": "名札",
+  "hrkt": "なふだ",
+  "latn": "nafuda",
+  "en": "name tag",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02532A.mp3",
+  "sentences": [
+    {
+      "ja": "生徒たちは校内では<b>名札</b>をつけます。",
+      "hrkt": "せいと たち は こうない で は <b>なふだ</b> を つけます。",
+      "latn": "seito tachi ha kounai de ha <b>nafuda</b> wo tsukemasu.",
+      "en": "Students wear name tags on campus.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02532A.mp3"
+    }
+  ]
+}

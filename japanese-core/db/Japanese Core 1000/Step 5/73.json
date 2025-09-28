@@ -1,0 +1,26 @@
+{
+  "ja": "休み",
+  "hrkt": "やすみ",
+  "latn": "yasumi",
+  "en": "holiday, break",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09412A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>休み</b>です。",
+      "hrkt": "きょう は <b>やすみ</b> です。",
+      "latn": "kyou ha <b>yasumi</b> desu.",
+      "en": "Today is a holiday.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5620916.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09412A.mp3"
+    },
+    {
+      "ja": "木曜日は仕事が<b>休み</b>です。",
+      "hrkt": "もくようび は しごと が <b>やすみ</b> です。",
+      "latn": "mokuyoubi ha shigoto ga <b>yasumi</b> desu.",
+      "en": "I'm off on Thursday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6109378.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09267A.mp3"
+    }
+  ]
+}

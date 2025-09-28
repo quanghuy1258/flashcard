@@ -1,0 +1,18 @@
+{
+  "ja": "見舞い",
+  "hrkt": "みまい",
+  "latn": "mimai",
+  "en": "personal visit to a sick person",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01641A.mp3",
+  "sentences": [
+    {
+      "ja": "友達が<b>見舞い</b>に来てくれたよ。",
+      "hrkt": "ともだち が <b>みまい</b> に きて くれた よ。",
+      "latn": "tomodachi ga <b>mimai</b> ni kite kureta yo.",
+      "en": "My friend came to visit me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01641A.mp3"
+    }
+  ]
+}

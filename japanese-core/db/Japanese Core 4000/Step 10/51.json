@@ -1,0 +1,18 @@
+{
+  "ja": "転がる",
+  "hrkt": "ころがる",
+  "latn": "korogaru",
+  "en": "roll over",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02187A.mp3",
+  "sentences": [
+    {
+      "ja": "猫は砂の上で<b>転がった</b>んだ。",
+      "hrkt": "ねこ は すな の うえ で <b>ころがった</b> ん だ。",
+      "latn": "neko ha suna no ue de <b>korogatta</b> n da.",
+      "en": "The cat rolled over on the sand.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02187A.mp3"
+    }
+  ]
+}

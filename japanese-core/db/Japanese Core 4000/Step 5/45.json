@@ -1,0 +1,18 @@
+{
+  "ja": "ピン",
+  "hrkt": "ピン",
+  "latn": "pin",
+  "en": "hairpin, pin",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02535A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はいつも髪を<b>ピン</b>で留めているね。",
+      "hrkt": "かのじょ は いつも かみ を <b>ピン</b> で とめて いる ね。",
+      "latn": "kanojo ha itsumo kami wo <b>pin</b> de tomete iru ne.",
+      "en": "She's always holding her hair with pins.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02535A.mp3"
+    }
+  ]
+}

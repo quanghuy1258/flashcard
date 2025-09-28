@@ -1,0 +1,26 @@
+{
+  "ja": "表",
+  "hrkt": "ひょう",
+  "latn": "hyou",
+  "en": "table, list",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07839A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>表</b>を見てください。",
+      "hrkt": "この <b>ひょう</b> を みて ください。",
+      "latn": "kono <b>hyou</b> wo mite kudasai.",
+      "en": "Please look at this chart.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5477839.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07839A.mp3"
+    },
+    {
+      "ja": "気温の変化を<b>表</b>にしました。",
+      "hrkt": "きおん の へんか を <b>ひょう</b> に しました。",
+      "latn": "kion no henka wo <b>hyou</b> ni shimashita.",
+      "en": "I made a table of the temperature changes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d35nd93oa8.mp3"
+    }
+  ]
+}

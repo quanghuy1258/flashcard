@@ -1,0 +1,26 @@
+{
+  "ja": "記録",
+  "hrkt": "きろく",
+  "latn": "kiroku",
+  "en": "record, documentation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02339A.mp3",
+  "sentences": [
+    {
+      "ja": "マラソンで世界<b>記録</b>が出た。",
+      "hrkt": "マラソン で せかい <b>きろく</b> が でた。",
+      "latn": "marason de sekai <b>kiroku</b> ga deta.",
+      "en": "There was a new world record in the marathon.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4358496.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02339A.mp3"
+    },
+    {
+      "ja": "会議で話したことを<b>記録</b>してください。",
+      "hrkt": "かいぎ で はなした こと を <b>きろく</b> して ください。",
+      "latn": "kaigi de hanashita koto wo <b>kiroku</b> shite kudasai.",
+      "en": "Please keep a record of what we discussed in the meeting.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d6epb583lo.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "潰れる",
+  "hrkt": "つぶれる",
+  "latn": "tsubureru",
+  "en": "be squashed, be smashed",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03752A.mp3",
+  "sentences": [
+    {
+      "ja": "箱の角が<b>潰れて</b>いますよ。",
+      "hrkt": "はこ の かど が <b>つぶれて</b> います よ。",
+      "latn": "hako no kado ga <b>tsuburete</b> imasu yo.",
+      "en": "The corner of the box is squashed.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03752A.mp3"
+    }
+  ]
+}

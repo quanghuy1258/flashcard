@@ -1,0 +1,26 @@
+{
+  "ja": "半袖",
+  "hrkt": "はんそで",
+  "latn": "hansode",
+  "en": "short sleeves",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07555A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は、<b>半袖</b>のシャツを着よう。",
+      "hrkt": "きょう は、<b>はんそで</b> の シャツ を きよう。",
+      "latn": "kyou ha,<b>hansode</b> no shatsu wo kiyou.",
+      "en": "I'll put on a short-sleeved shirt today.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4418520.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07555A.mp3"
+    },
+    {
+      "ja": "<b>半袖</b>で寒くないんですか。",
+      "hrkt": "<b>はんそで</b> で さむくない ん です か。",
+      "latn": "<b>hansode</b> de samukunai n desu ka.",
+      "en": "Aren't you cold, wearing clothes with short sleeves?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/726ffm3sbg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "美術館",
+  "hrkt": "びじゅつかん",
+  "latn": "bijutsukan",
+  "en": "art museum",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07691A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、<b>美術館</b>に行きました。",
+      "hrkt": "きのう、<b>びじゅつかん</b> に いきました。",
+      "latn": "kinou,<b>bijutsukan</b> ni ikimashita.",
+      "en": "I went to the art museum yesterday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4137467.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07691A.mp3"
+    },
+    {
+      "ja": "その<b>美術館</b>には、すばらしい絵がたくさんあります。",
+      "hrkt": "その <b>びじゅつかん</b> に は、すばらしい え が たくさん あります。",
+      "latn": "sono <b>bijutsukan</b> ni ha,subarashii e ga takusan arimasu.",
+      "en": "There are many wonderful paintings in the art museum.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/650m7e055g.mp3"
+    }
+  ]
+}

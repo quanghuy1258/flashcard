@@ -1,0 +1,26 @@
+{
+  "ja": "池",
+  "hrkt": "いけ",
+  "latn": "ike",
+  "en": "pond",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00402A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>池</b>に鯉がいます。",
+      "hrkt": "<b>いけ</b> に こい が います。",
+      "latn": "<b>ike</b> ni koi ga imasu.",
+      "en": "There are carp in the pond.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3973037.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00402A.mp3"
+    },
+    {
+      "ja": "あの<b>池</b>はとても深い。",
+      "hrkt": "あの <b>いけ</b> は とても ふかい。",
+      "latn": "ano <b>ike</b> ha totemo fukai.",
+      "en": "That pond is very deep.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4984033.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07978A.mp3"
+    }
+  ]
+}

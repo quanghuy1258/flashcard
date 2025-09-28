@@ -1,0 +1,26 @@
+{
+  "ja": "人",
+  "hrkt": "ひと",
+  "latn": "hito",
+  "en": "person",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07754A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は優しい<b>人</b>です。",
+      "hrkt": "かれ は やさしい <b>ひと</b> です。",
+      "latn": "kare ha yasashii <b>hito</b> desu.",
+      "en": "He's a nice guy.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6112751.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07754A.mp3"
+    },
+    {
+      "ja": "プールは<b>人</b>でいっぱいです。",
+      "hrkt": "プール は <b>ひと</b> で いっぱい です。",
+      "latn": "pu-ru ha <b>hito</b> de ippai desu.",
+      "en": "The pool is packed.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4087043.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00537A.mp3"
+    }
+  ]
+}

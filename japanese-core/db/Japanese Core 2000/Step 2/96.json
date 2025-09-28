@@ -1,0 +1,26 @@
+{
+  "ja": "破る",
+  "hrkt": "やぶる",
+  "latn": "yaburu",
+  "en": "tear, breach",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09437A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は約束を<b>破った</b>。",
+      "hrkt": "かれ は やくそく を <b>やぶった</b>。",
+      "latn": "kare ha yakusoku wo <b>yabutta</b>.",
+      "en": "He broke his promise.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2378361.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09437A.mp3"
+    },
+    {
+      "ja": "その男の子は、学校からの手紙を<b>破って</b>捨てました。",
+      "hrkt": "その おとこ の こ は、がっこう から の てがみ を <b>やぶって</b> すてました。",
+      "latn": "sono otoko no ko ha,gakkou kara no tegami wo <b>yabutte</b> sutemashita.",
+      "en": "That boy tore up the letter from his school and threw it away.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/654n7jfjlc.mp3"
+    }
+  ]
+}

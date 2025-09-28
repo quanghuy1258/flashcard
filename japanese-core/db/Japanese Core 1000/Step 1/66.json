@@ -1,0 +1,26 @@
+{
+  "ja": "大学",
+  "hrkt": "だいがく",
+  "latn": "daigaku",
+  "en": "university, college",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05163A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>大学</b>に行ってもっと勉強したいです。",
+      "hrkt": "<b>だいがく</b> に いって もっと べんきょう したい です。",
+      "latn": "<b>daigaku</b> ni itte motto benkyou shitai desu.",
+      "en": "I want to go to college and study more.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/888973.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05163A.mp3"
+    },
+    {
+      "ja": "うちの息子は<b>大学</b>1年生です。",
+      "hrkt": "うち の むすこ は <b>だいがく</b> 1 ねんせい です。",
+      "latn": "uchi no musuko ha <b>daigaku</b> 1 nensei desu.",
+      "en": "My son's a college freshman.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5882583.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09090A.mp3"
+    }
+  ]
+}

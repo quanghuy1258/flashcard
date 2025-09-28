@@ -1,0 +1,18 @@
+{
+  "ja": "庁",
+  "hrkt": "ちょう",
+  "latn": "chou",
+  "en": "public office, agency",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01318A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は県<b>庁</b>で働いています。",
+      "hrkt": "かれ は けん<b>ちょう</b> で はたらいて います。",
+      "latn": "kare ha ken<b>chou</b> de hataraite imasu.",
+      "en": "He works for the prefectural office.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01318A.mp3"
+    }
+  ]
+}

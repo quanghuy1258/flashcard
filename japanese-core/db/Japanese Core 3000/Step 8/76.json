@@ -1,0 +1,18 @@
+{
+  "ja": "目標",
+  "hrkt": "もくひょう",
+  "latn": "mokuhyou",
+  "en": "target, goal",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00111A.mp3",
+  "sentences": [
+    {
+      "ja": "私は父を<b>目標</b>にしています。",
+      "hrkt": "わたし は ちち を <b>もくひょう</b> に して います。",
+      "latn": "watashi ha chichi wo <b>mokuhyou</b> ni shite imasu.",
+      "en": "My goal is to become like my father.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/51cle0fs34.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00111A.mp3"
+    }
+  ]
+}

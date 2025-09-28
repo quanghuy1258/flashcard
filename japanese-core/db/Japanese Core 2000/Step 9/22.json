@@ -1,0 +1,26 @@
+{
+  "ja": "車道",
+  "hrkt": "しゃどう",
+  "latn": "shadou",
+  "en": "road, roadway (for cars)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03922A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>車道</b>の工事が始まりました。",
+      "hrkt": "<b>しゃどう</b> の こうじ が はじまりました。",
+      "latn": "<b>shadou</b> no kouji ga hajimarimashita.",
+      "en": "The road construction has started.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4437571.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03922A.mp3"
+    },
+    {
+      "ja": "自転車で<b>車道</b>を走るのは怖いです。",
+      "hrkt": "じてんしゃ で <b>しゃどう</b> を はしる の は こわい です。",
+      "latn": "jitensha de <b>shadou</b> wo hashiru no ha kowai desu.",
+      "en": "It's scary to ride a bicycle on a car lane.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/538t272ls4.mp3"
+    }
+  ]
+}

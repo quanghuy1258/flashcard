@@ -1,0 +1,18 @@
+{
+  "ja": "信用",
+  "hrkt": "しんよう",
+  "latn": "shin'you",
+  "en": "trust, credit",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01568A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の言うことは<b>信用</b>できない。",
+      "hrkt": "かれ の いう こと は <b>しんよう</b> できない。",
+      "latn": "kare no iu koto ha <b>shin'you</b> dekinai.",
+      "en": "I can't trust what he says.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/727taie05s.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01568A.mp3"
+    }
+  ]
+}

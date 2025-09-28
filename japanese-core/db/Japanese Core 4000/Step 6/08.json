@@ -1,0 +1,18 @@
+{
+  "ja": "住まい",
+  "hrkt": "すまい",
+  "latn": "sumai",
+  "en": "dwelling, residence",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01715A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>住まい</b>は東京にあります。",
+      "hrkt": "わたし の <b>すまい</b> は とうきょう に あります。",
+      "latn": "watashi no <b>sumai</b> ha toukyou ni arimasu.",
+      "en": "My residence is in Tokyo.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01715A.mp3"
+    }
+  ]
+}

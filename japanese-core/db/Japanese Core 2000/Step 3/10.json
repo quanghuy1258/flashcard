@@ -1,0 +1,26 @@
+{
+  "ja": "敬語",
+  "hrkt": "けいご",
+  "latn": "keigo",
+  "en": "polite speech",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02607A.mp3",
+  "sentences": [
+    {
+      "ja": "お客様には<b>敬語</b>を使いなさい。",
+      "hrkt": "おきゃくさま に は <b>けいご</b> を つかいなさい。",
+      "latn": "okyakusama ni ha <b>keigo</b> wo tsukainasai.",
+      "en": "Use polite language to customers.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5775584.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02607A.mp3"
+    },
+    {
+      "ja": "<b>敬語</b>を正しく使うのは難しいです。",
+      "hrkt": "<b>けいご</b> を ただしく つかう の は むずかしい です。",
+      "latn": "<b>keigo</b> wo tadashiku tsukau no ha muzukashii desu.",
+      "en": "It is difficult to use honorific language properly.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/459j58fee8.mp3"
+    }
+  ]
+}

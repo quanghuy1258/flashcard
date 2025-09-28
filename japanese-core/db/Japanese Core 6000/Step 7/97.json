@@ -1,0 +1,18 @@
+{
+  "ja": "狭まる",
+  "hrkt": "せばまる",
+  "latn": "sebamaru",
+  "en": "get narrow",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02647A.mp3",
+  "sentences": [
+    {
+      "ja": "ここから道の幅が<b>狭まって</b>います。",
+      "hrkt": "ここ から みち の はば が <b>せばまって</b> います。",
+      "latn": "koko kara michi no haba ga <b>sebamatte</b> imasu.",
+      "en": "The road gets narrow from here.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02647A.mp3"
+    }
+  ]
+}

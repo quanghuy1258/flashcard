@@ -1,0 +1,26 @@
+{
+  "ja": "読む",
+  "hrkt": "よむ",
+  "latn": "yomu",
+  "en": "read",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09728A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は雑誌を<b>読んで</b>います。",
+      "hrkt": "かのじょ は ざっし を <b>よんで</b> います。",
+      "latn": "kanojo ha zasshi wo <b>yonde</b> imasu.",
+      "en": "She's reading a magazine.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/3l5aetfe2vq6o.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09728A.mp3"
+    },
+    {
+      "ja": "テキストを<b>読んで</b>ください。",
+      "hrkt": "テキスト を <b>よんで</b> ください。",
+      "latn": "tekisuto wo <b>yonde</b> kudasai.",
+      "en": "Please read the textbook.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5377826.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06048A.mp3"
+    }
+  ]
+}

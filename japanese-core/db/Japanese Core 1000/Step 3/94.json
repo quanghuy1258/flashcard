@@ -1,0 +1,26 @@
+{
+  "ja": "朝",
+  "hrkt": "あさ",
+  "latn": "asa",
+  "en": "morning",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00101A.mp3",
+  "sentences": [
+    {
+      "ja": "気持ちのいい<b>朝</b>です。",
+      "hrkt": "きもち の いい <b>あさ</b> です。",
+      "latn": "kimochi no ii <b>asa</b> desu.",
+      "en": "It's a pleasant morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2855823.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00101A.mp3"
+    },
+    {
+      "ja": "<b>朝</b>、カーテンを開けた。",
+      "hrkt": "<b>あさ</b>、カーテン を あけた。",
+      "latn": "<b>asa</b>,ka-ten wo aketa.",
+      "en": "I opened the curtains in the morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3808335.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01308A.mp3"
+    }
+  ]
+}

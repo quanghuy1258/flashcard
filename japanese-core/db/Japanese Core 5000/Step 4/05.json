@@ -1,0 +1,18 @@
+{
+  "ja": "赤道",
+  "hrkt": "せきどう",
+  "latn": "sekidou",
+  "en": "equator",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02215A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>赤道</b>に沿って旅をしました。",
+      "hrkt": "<b>せきどう</b>  に そって たび を しました。",
+      "latn": "<b>sekidou</b>  ni sotte tabi wo shimashita.",
+      "en": "I traveled along the equator.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02215A.mp3"
+    }
+  ]
+}

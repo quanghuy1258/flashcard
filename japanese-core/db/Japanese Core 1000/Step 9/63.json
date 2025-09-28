@@ -1,0 +1,26 @@
+{
+  "ja": "中学生",
+  "hrkt": "ちゅうがくせい",
+  "latn": "chuugakusei",
+  "en": "junior high school student",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05650A.mp3",
+  "sentences": [
+    {
+      "ja": "息子は<b>中学生</b>です。",
+      "hrkt": "むすこ は <b>ちゅうがくせい</b> です。",
+      "latn": "musuko ha <b>chuugakusei</b> desu.",
+      "en": "My son is a junior high school student.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4699615.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05650A.mp3"
+    },
+    {
+      "ja": "私は<b>中学生</b>になって初めて英語を勉強しました。",
+      "hrkt": "わたし は <b>ちゅうがくせい</b> に なって はじめて えいご を べんきょう しました。",
+      "latn": "watashi ha <b>chuugakusei</b> ni natte hajimete eigo wo benkyou shimashita.",
+      "en": "I started studying English for the first time as a junior high school student.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/944ffge7g4.mp3"
+    }
+  ]
+}

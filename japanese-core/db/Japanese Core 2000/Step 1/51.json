@@ -1,0 +1,26 @@
+{
+  "ja": "グラム",
+  "hrkt": "グラム",
+  "latn": "guramu",
+  "en": "gram",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02533A.mp3",
+  "sentences": [
+    {
+      "ja": "ひき肉を200<b>グラム</b>ください。",
+      "hrkt": "ひきにく を 200 <b>グラム</b> ください。",
+      "latn": "hikiniku wo 200 <b>guramu</b> kudasai.",
+      "en": "Please give me 200 grams of ground meat.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/707636.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02533A.mp3"
+    },
+    {
+      "ja": "パンダの赤ちゃんは生まれた時、147<b>グラム</b>しかありませんでした。",
+      "hrkt": "パンダ の あかちゃん は うまれた とき、147 <b>グラム</b> しか ありません でした。",
+      "latn": "panda no akachan ha umareta toki,147 <b>guramu</b> shika arimasen deshita.",
+      "en": "The baby panda weighed only 147 grams when it was born.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/26bf5ubeeo.mp3"
+    }
+  ]
+}

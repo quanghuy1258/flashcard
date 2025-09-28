@@ -1,0 +1,18 @@
+{
+  "ja": "首相",
+  "hrkt": "しゅしょう",
+  "latn": "shushou",
+  "en": "prime minister, premier",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04050A.mp3",
+  "sentences": [
+    {
+      "ja": "今の<b>首相</b>はあまり力がない。",
+      "hrkt": "いま の <b>しゅしょう</b> は あまり ちから が ない。",
+      "latn": "ima no <b>shushou</b> ha amari chikara ga nai.",
+      "en": "The current Prime Minister doesn't have much power.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04050A.mp3"
+    }
+  ]
+}

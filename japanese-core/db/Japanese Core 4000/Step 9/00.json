@@ -1,0 +1,18 @@
+{
+  "ja": "診察",
+  "hrkt": "しんさつ",
+  "latn": "shinsatsu",
+  "en": "medical examination",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02094A.mp3",
+  "sentences": [
+    {
+      "ja": "今日、病院で<b>診察</b>してもらったの。",
+      "hrkt": "きょう、びょういん で <b>しんさつ</b> して もらった の。",
+      "latn": "kyou,byouin de <b>shinsatsu</b> shite moratta no.",
+      "en": "I had a medical exam at the hospital today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02094A.mp3"
+    }
+  ]
+}

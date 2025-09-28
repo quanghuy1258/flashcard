@@ -1,0 +1,26 @@
+{
+  "ja": "最後",
+  "hrkt": "さいご",
+  "latn": "saigo",
+  "en": "last",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03304A.mp3",
+  "sentences": [
+    {
+      "ja": "今日が夏休み<b>最後</b>の日だ。",
+      "hrkt": "きょう が なつやすみ <b>さいご</b> の ひ だ。",
+      "latn": "kyou ga natsuyasumi <b>saigo</b> no hi da.",
+      "en": "Today's the last day of summer vacation.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4911759.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03304A.mp3"
+    },
+    {
+      "ja": "あなたと会うのは今日が<b>最後</b>です。",
+      "hrkt": "あなた と あう の は きょう が <b>さいご</b> です。",
+      "latn": "anata to au no ha kyou ga <b>saigo</b> desu.",
+      "en": "Today is the last time I'll see you.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/130s8qdq4g.mp3"
+    }
+  ]
+}

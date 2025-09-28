@@ -1,0 +1,26 @@
+{
+  "ja": "破れる",
+  "hrkt": "やぶれる",
+  "latn": "yabureru",
+  "en": "be torn, be ripped up",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09439A.mp3",
+  "sentences": [
+    {
+      "ja": "シャツが<b>破れて</b>いる。",
+      "hrkt": "シャツ が <b>やぶれて</b> いる。",
+      "latn": "shatsu ga <b>yaburete</b> iru.",
+      "en": "My shirt is ripped up.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1779977.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09439A.mp3"
+    },
+    {
+      "ja": "大切な本が<b>破れて</b>しまいました。",
+      "hrkt": "たいせつな ほん が <b>やぶれて</b> しまいました。",
+      "latn": "taisetsuna hon ga <b>yaburete</b> shimaimashita.",
+      "en": "The important book was torn.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e53f2v24js.mp3"
+    }
+  ]
+}

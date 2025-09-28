@@ -1,0 +1,26 @@
+{
+  "ja": "一",
+  "hrkt": "いち",
+  "latn": "ichi",
+  "en": "one",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00476A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>一</b>から始めましょう。",
+      "hrkt": "<b>いち</b> から はじめましょう。",
+      "latn": "<b>ichi</b> kara hajimemashou.",
+      "en": "Let's start from scratch.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3934005.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00476A.mp3"
+    },
+    {
+      "ja": "日本語で<b>一</b>から十まで数えてください。",
+      "hrkt": "にほんご で <b>いち</b> から じゅう まで かぞえて ください。",
+      "latn": "nihongo de <b>ichi</b> kara juu made kazoete kudasai.",
+      "en": "Please count from one to ten in Japanese.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/94e3bj7mko.mp3"
+    }
+  ]
+}

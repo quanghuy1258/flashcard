@@ -1,0 +1,26 @@
+{
+  "ja": "曲がる",
+  "hrkt": "まがる",
+  "latn": "magaru",
+  "en": "make a turn, turn",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08663A.mp3",
+  "sentences": [
+    {
+      "ja": "そこを左に<b>曲がって</b>ください。",
+      "hrkt": "そこ を ひだり に <b>まがって</b> ください。",
+      "latn": "soko wo hidari ni <b>magatte</b> kudasai.",
+      "en": "Please turn left there.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/656252.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07712A.mp3"
+    },
+    {
+      "ja": "次の角で左に<b>曲がって</b>ください。",
+      "hrkt": "つぎ の かど で ひだり に <b>まがって</b> ください。",
+      "latn": "tsugi no kado de hidari ni <b>magatte</b> kudasai.",
+      "en": "Please turn left at the next corner.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5809246.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01712A.mp3"
+    }
+  ]
+}

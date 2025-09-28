@@ -1,0 +1,26 @@
+{
+  "ja": "洋服",
+  "hrkt": "ようふく",
+  "latn": "youfuku",
+  "en": "(western-style) clothes",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09628A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>洋服</b>を買いにいきます。",
+      "hrkt": "きょう は <b>ようふく</b> を かい に いきます 。",
+      "latn": "kyou ha <b>youfuku</b> wo kai ni ikimasu .",
+      "en": "I'm going to buy some clothes today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6510319.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09628A.mp3"
+    },
+    {
+      "ja": "彼女は<b>洋服</b>をたくさん持っています。",
+      "hrkt": "かのじょ は <b>ようふく</b> を たくさん もって います。",
+      "latn": "kanojo ha <b>youfuku</b> wo takusan motte imasu.",
+      "en": "She has lots of clothes.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c4fdc35so0.mp3"
+    }
+  ]
+}

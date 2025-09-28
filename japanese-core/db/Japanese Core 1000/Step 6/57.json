@@ -1,0 +1,26 @@
+{
+  "ja": "両親",
+  "hrkt": "りょうしん",
+  "latn": "ryoushin",
+  "en": "parents",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09861A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>両親</b>は大阪に住んでいます。",
+      "hrkt": "わたし の <b>りょうしん</b> は おおさか に すんで います。",
+      "latn": "watashi no <b>ryoushin</b> ha oosaka ni sunde imasu.",
+      "en": "My parents live in Osaka.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3317453.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09861A.mp3"
+    },
+    {
+      "ja": "夏に<b>両親</b>と京都に行きました。",
+      "hrkt": "なつ に <b>りょうしん</b> と きょうと に いきました。",
+      "latn": "natsu ni <b>ryoushin</b> to kyouto ni ikimashita.",
+      "en": "I went to Kyoto with my parents in the summer.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/324q0c5424.mp3"
+    }
+  ]
+}

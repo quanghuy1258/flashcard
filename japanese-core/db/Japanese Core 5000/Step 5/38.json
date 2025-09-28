@@ -1,0 +1,18 @@
+{
+  "ja": "一休み",
+  "hrkt": "ひとやすみ",
+  "latn": "hitoyasumi",
+  "en": "short break",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03384A.mp3",
+  "sentences": [
+    {
+      "ja": "ここで<b>一休み</b>しましょう。",
+      "hrkt": "ここ で <b>ひと やすみ</b> しましょう。",
+      "latn": "koko de <b>hito yasumi</b> shimashou.",
+      "en": "Let's take a short break here.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03384A.mp3"
+    }
+  ]
+}

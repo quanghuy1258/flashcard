@@ -1,0 +1,18 @@
+{
+  "ja": "手足",
+  "hrkt": "てあし",
+  "latn": "teashi",
+  "en": "hands and feet, limbs",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03762A.mp3",
+  "sentences": [
+    {
+      "ja": "あの人は<b>手足</b>が長い。",
+      "hrkt": "あの ひと は <b>てあし</b> が ながい。",
+      "latn": "ano hito ha <b>teashi</b> ga nagai.",
+      "en": "That person has long arms and legs.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03762A.mp3"
+    }
+  ]
+}

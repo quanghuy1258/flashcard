@@ -1,0 +1,26 @@
+{
+  "ja": "飛ぶ",
+  "hrkt": "とぶ",
+  "latn": "tobu",
+  "en": "fly",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06495A.mp3",
+  "sentences": [
+    {
+      "ja": "鳥が<b>飛んで</b>います。",
+      "hrkt": "とり が <b>とんで</b> います。",
+      "latn": "tori ga <b>tonde</b> imasu.",
+      "en": "There's a bird flying.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4974442.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06495A.mp3"
+    },
+    {
+      "ja": "飛行機が山の向こうへ<b>飛んで</b>いきました。",
+      "hrkt": "ひこうき が やま の むこう へ <b>とんで</b> いきました。",
+      "latn": "hikouki ga yama no mukou he <b>tonde</b> ikimashita.",
+      "en": "An airplane flew beyond the mountain.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c44d20178k.mp3"
+    }
+  ]
+}

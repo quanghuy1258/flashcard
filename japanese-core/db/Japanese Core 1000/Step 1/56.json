@@ -1,0 +1,26 @@
+{
+  "ja": "部屋",
+  "hrkt": "へや",
+  "latn": "heya",
+  "en": "room",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08331A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>部屋</b>は2階にあります。",
+      "hrkt": "わたし の <b>へや</b> は 2 かい に あります。",
+      "latn": "watashi no <b>heya</b> ha 2 kai ni arimasu.",
+      "en": "My room is on the second floor.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4573943.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08331A.mp3"
+    },
+    {
+      "ja": "そっちが私の<b>部屋</b>です。",
+      "hrkt": "そっち が わたし の <b>へや</b> です。",
+      "latn": "socchi ga watashi no <b>heya</b> desu.",
+      "en": "That's my room over there.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2694427.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05069A.mp3"
+    }
+  ]
+}

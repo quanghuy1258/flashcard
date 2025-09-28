@@ -1,0 +1,26 @@
+{
+  "ja": "サイト",
+  "hrkt": "サイト",
+  "latn": "saito",
+  "en": "website",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a21o3k8ng8.mp3",
+  "sentences": [
+    {
+      "ja": "これは医者のための<b>サイト</b>です。",
+      "hrkt": "これ は いしゃ の ため の <b>サイト</b> です。",
+      "latn": "kore ha isha no tame no <b>saito</b> desu.",
+      "en": "This is a site for doctors.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5037278.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05459A.mp3"
+    },
+    {
+      "ja": "会社の<b>サイト</b>が新しくなりました。",
+      "hrkt": "かいしゃ の <b>サイト</b> が あたらしく なりました。",
+      "latn": "kaisha no <b>saito</b> ga atarashiku narimashita.",
+      "en": "The company's website has been renewed.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e22haq050g.mp3"
+    }
+  ]
+}

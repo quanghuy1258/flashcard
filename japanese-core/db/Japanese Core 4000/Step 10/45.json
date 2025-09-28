@@ -1,0 +1,18 @@
+{
+  "ja": "液体",
+  "hrkt": "えきたい",
+  "latn": "ekitai",
+  "en": "liquid form",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00893A.mp3",
+  "sentences": [
+    {
+      "ja": "洗濯に<b>液体</b>の洗剤を使っています。",
+      "hrkt": "せんたく に <b>えきたい</b> の せんざい を つかって います。",
+      "latn": "sentaku ni <b>ekitai</b> no senzai wo tsukatte imasu.",
+      "en": "I use liquid detergent for washing clothes.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00893A.mp3"
+    }
+  ]
+}

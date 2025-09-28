@@ -1,0 +1,26 @@
+{
+  "ja": "ミルク",
+  "hrkt": "ミルク",
+  "latn": "miruku",
+  "en": "milk (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09013A.mp3",
+  "sentences": [
+    {
+      "ja": "赤ちゃんに<b>ミルク</b>をあげた。",
+      "hrkt": "あかちゃん に <b>ミルク</b> を あげた。",
+      "latn": "akachan ni <b>miruku</b> wo ageta.",
+      "en": "I fed the baby some milk.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4300028.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09013A.mp3"
+    },
+    {
+      "ja": "コーヒーに<b>ミルク</b>を入れてください。",
+      "hrkt": "コーヒー に <b>ミルク</b> を いれて ください。",
+      "latn": "ko-hi- ni <b>miruku</b> wo irete kudasai.",
+      "en": "Please put milk in my coffee.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/84ejfr9f3g.mp3"
+    }
+  ]
+}

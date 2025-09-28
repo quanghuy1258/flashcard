@@ -1,0 +1,26 @@
+{
+  "ja": "別々",
+  "hrkt": "べつべつ",
+  "latn": "betsubetsu",
+  "en": "separately",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08325A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>別々</b>に払いましょう。",
+      "hrkt": "<b>べつべつ</b> に はらいましょう。",
+      "latn": "<b>betsubetsu</b> ni haraimashou.",
+      "en": "Let's pay separately.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/347643.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08325A.mp3"
+    },
+    {
+      "ja": "私たち夫婦は<b>別々</b>の部屋で寝ています。",
+      "hrkt": "わたし たち ふうふ は <b>べつべつ</b> の へや で ねて います。",
+      "latn": "watashi tachi fuufu ha <b>betsubetsu</b> no heya de nete imasu.",
+      "en": "We, husband and wife, sleep in different rooms.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/2405bv2rug.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "トンネル",
+  "hrkt": "トンネル",
+  "latn": "tonneru",
+  "en": "tunnel",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00832A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>トンネル</b>を抜けると海が見えたよ。",
+      "hrkt": "<b>トンネル</b> を ぬける と うみ が みえた よ。",
+      "latn": "<b>tonneru</b> wo nukeru to umi ga mieta yo.",
+      "en": "When we came out of the tunnel, we saw the ocean.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00832A.mp3"
+    }
+  ]
+}

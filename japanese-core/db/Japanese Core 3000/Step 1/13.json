@@ -1,0 +1,18 @@
+{
+  "ja": "助かる",
+  "hrkt": "たすかる",
+  "latn": "tasukaru",
+  "en": "be helped, be rescued",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01907A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はシートベルトをしていたので<b>助かった</b>んだ。",
+      "hrkt": "かれ は シートベルト を して いた ので <b>たすかった</b> ん だ。",
+      "latn": "kare ha shi-toberuto wo shite ita node <b>tasukatta</b> n da.",
+      "en": "He survived because he was wearing a seatbelt.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/447pdb508s.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01907A.mp3"
+    }
+  ]
+}

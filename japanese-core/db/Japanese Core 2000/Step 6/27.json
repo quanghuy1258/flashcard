@@ -1,0 +1,26 @@
+{
+  "ja": "ベルト",
+  "hrkt": "ベルト",
+  "latn": "beruto",
+  "en": "belt",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08340A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ベルト</b>がきつくなりました。",
+      "hrkt": "<b>ベルト</b> が きつく なりました。",
+      "latn": "<b>beruto</b> ga kitsuku narimashita.",
+      "en": "My belt has gotten tight.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3359183.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08340A.mp3"
+    },
+    {
+      "ja": "革の<b>ベルト</b>を買いました。",
+      "hrkt": "かわ の <b>ベルト</b> を かいました。",
+      "latn": "kawa no <b>beruto</b> wo kaimashita.",
+      "en": "I bought a leather belt.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6188575.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01846A.mp3"
+    }
+  ]
+}

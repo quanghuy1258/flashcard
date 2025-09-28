@@ -1,0 +1,26 @@
+{
+  "ja": "成功",
+  "hrkt": "せいこう",
+  "latn": "seikou",
+  "en": "success",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04688A.mp3",
+  "sentences": [
+    {
+      "ja": "ついに実験が<b>成功</b>した。",
+      "hrkt": "ついに じっけん が <b>せいこう</b> した。",
+      "latn": "tsuini jikken ga <b>seikou</b> shita.",
+      "en": "The experiment finally succeeded.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5464221.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04688A.mp3"
+    },
+    {
+      "ja": "そのイベントは大<b>成功</b>でした。",
+      "hrkt": "その イベント は だい <b>せいこう</b> でした。",
+      "latn": "sono ibento ha dai <b>seikou</b> deshita.",
+      "en": "The event was very successful.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/53bc7tbhq0.mp3"
+    }
+  ]
+}

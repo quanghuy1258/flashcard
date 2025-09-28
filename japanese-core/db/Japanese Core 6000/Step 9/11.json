@@ -1,0 +1,18 @@
+{
+  "ja": "じゃぶじゃぶ",
+  "hrkt": "じゃぶじゃぶ",
+  "latn": "jabujabu",
+  "en": "splashing, washing",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03656A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は顔を<b>じゃぶじゃぶ</b>洗ったの。",
+      "hrkt": "かれ は かお を <b>じゃぶじゃぶ</b> あらった の。",
+      "latn": "kare ha kao wo <b>jabujabu</b> aratta no.",
+      "en": "He washed his face vigorously.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03656A.mp3"
+    }
+  ]
+}

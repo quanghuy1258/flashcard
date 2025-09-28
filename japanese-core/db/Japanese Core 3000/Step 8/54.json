@@ -1,0 +1,18 @@
+{
+  "ja": "頂く",
+  "hrkt": "いただく",
+  "latn": "itadaku",
+  "en": "receive, eat (humble)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02371A.mp3",
+  "sentences": [
+    {
+      "ja": "お客様にお菓子を<b>頂いた</b>。",
+      "hrkt": "おきゃくさま に おかし を <b>いただいた</b>。",
+      "latn": "okyakusama ni okashi wo <b>itadaita</b>.",
+      "en": "We received some sweets from our customer.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/93e9eq7g9k.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02371A.mp3"
+    }
+  ]
+}

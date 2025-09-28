@@ -1,0 +1,18 @@
+{
+  "ja": "紺",
+  "hrkt": "こん",
+  "latn": "kon",
+  "en": "dark blue, navy blue",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02606A.mp3",
+  "sentences": [
+    {
+      "ja": "日本の制服は<b>紺</b>が多いね。",
+      "hrkt": "にっぽん の せいふく は <b>こん</b> が おおい ね。",
+      "latn": "nippon no seifuku ha <b>kon</b> ga ooi ne.",
+      "en": "Many school uniforms in Japan are navy blue.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/120c4k6aog.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02606A.mp3"
+    }
+  ]
+}

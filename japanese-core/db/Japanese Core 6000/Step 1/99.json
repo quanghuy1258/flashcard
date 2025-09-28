@@ -1,0 +1,18 @@
+{
+  "ja": "弱まる",
+  "hrkt": "よわまる",
+  "latn": "yowamaru",
+  "en": "weaken, abate",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01642A.mp3",
+  "sentences": [
+    {
+      "ja": "夜になって風が<b>弱まった</b>ね。",
+      "hrkt": "よる に なって かぜ が <b>よわまった</b> ね。",
+      "latn": "yoru ni natte kaze ga <b>yowamatta</b> ne.",
+      "en": "The wind abated at night.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01642A.mp3"
+    }
+  ]
+}

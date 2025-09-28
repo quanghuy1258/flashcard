@@ -1,0 +1,26 @@
+{
+  "ja": "音楽",
+  "hrkt": "おんがく",
+  "latn": "ongaku",
+  "en": "music",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01276A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>音楽</b>を聞くのが好きだ。",
+      "hrkt": "わたし は <b>おんがく</b> を きく の が すき だ。",
+      "latn": "watashi ha <b>ongaku</b> wo kiku no ga suki da.",
+      "en": "I like to listen to music.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4008830.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01276A.mp3"
+    },
+    {
+      "ja": "彼はステレオで<b>音楽</b>を聞いた。",
+      "hrkt": "かれ は ステレオ で <b>おんがく</b> を きいた。",
+      "latn": "kare ha sutereo de <b>ongaku</b> wo kiita.",
+      "en": "He listened to music on the stereo.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5831077.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04591A.mp3"
+    }
+  ]
+}

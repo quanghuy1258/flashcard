@@ -1,0 +1,18 @@
+{
+  "ja": "枚数",
+  "hrkt": "まいすう",
+  "latn": "maisuu",
+  "en": "number of flat things",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02460A.mp3",
+  "sentences": [
+    {
+      "ja": "コピーの<b>枚数</b>を数えてください。",
+      "hrkt": "コピー の <b>まいすう</b> を かぞえて ください。",
+      "latn": "kopi- no <b>maisuu</b> wo kazoete kudasai.",
+      "en": "Please count the number of copies.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/teddydoggie/87cdd8a69b746b44fc89c7156e2a038d.mp3"
+    }
+  ]
+}

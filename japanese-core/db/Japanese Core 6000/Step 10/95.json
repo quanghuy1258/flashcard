@@ -1,0 +1,18 @@
+{
+  "ja": "ばあさん",
+  "hrkt": "ばあさん",
+  "latn": "baasan",
+  "en": "grandmother, old lady",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03814A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は元気なお<b>ばあさん</b>ね。",
+      "hrkt": "かのじょ は げんきな お<b>ばあさん</b> ね。",
+      "latn": "kanojo ha genkina o<b>baasan</b> ne.",
+      "en": "She's a spirited old lady.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03814A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "何べん",
+  "hrkt": "なんべん",
+  "latn": "nanben",
+  "en": "(how) many times",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03793A.mp3",
+  "sentences": [
+    {
+      "ja": "この映画は<b>何べん</b>も見ました。",
+      "hrkt": "この えいが は <b>なんべん</b> も みました。",
+      "latn": "kono eiga ha <b>nanben</b> mo mimashita.",
+      "en": "I've seen this movie many times.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03793A.mp3"
+    }
+  ]
+}

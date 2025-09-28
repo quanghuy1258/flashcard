@@ -1,0 +1,18 @@
+{
+  "ja": "輸入",
+  "hrkt": "ゆにゅう",
+  "latn": "yunyuu",
+  "en": "import",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09551A.mp3",
+  "sentences": [
+    {
+      "ja": "これはイタリアから<b>輸入</b>した服です。",
+      "hrkt": "これ は イタリア から <b>ゆにゅう</b> した ふく です 。",
+      "latn": "kore ha itaria kara <b>yunyuu</b> shita fuku desu .",
+      "en": "These clothes are imported from Italy.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/929i6uc4ms.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09551A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "誘う",
+  "hrkt": "さそう",
+  "latn": "sasou",
+  "en": "invite, ask out",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03438A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女をデートに<b>誘った</b>。",
+      "hrkt": "かのじょ を デート に <b>さそった</b>。",
+      "latn": "kanojo wo de-to ni <b>sasotta</b>.",
+      "en": "I asked her out on a date.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3321947.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03438A.mp3"
+    },
+    {
+      "ja": "彼も晩ご飯に<b>誘いましょう</b>よ。",
+      "hrkt": "かれ も ばん ごはん に <b>さそいましょう</b> よ。",
+      "latn": "kare mo ban gohan ni <b>sasoimashou</b> yo.",
+      "en": "Why don't we invite him to dinner, as well?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e3604dcsjk.mp3"
+    }
+  ]
+}

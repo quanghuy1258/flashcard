@@ -1,0 +1,18 @@
+{
+  "ja": "フライパン",
+  "hrkt": "フライパン",
+  "latn": "furaipan",
+  "en": "frying pan",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03170A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>フライパン</b>で目玉焼きを作ったよ。",
+      "hrkt": "<b>フライパン</b> で めだまやき を つくった よ。",
+      "latn": "<b>furaipan</b> de medamayaki wo tsukutta yo.",
+      "en": "I made a sunny-side up egg in the frying pan.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/23f04kda9g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03170A.mp3"
+    }
+  ]
+}

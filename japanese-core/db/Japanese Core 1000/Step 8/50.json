@@ -1,0 +1,26 @@
+{
+  "ja": "改札口",
+  "hrkt": "かいさつぐち",
+  "latn": "kaisatsuguchi",
+  "en": "ticket gate",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01355A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>改札口</b>で会いましょう。",
+      "hrkt": "<b>かいさつぐち</b> で あいましょう。",
+      "latn": "<b>kaisatsuguchi</b> de aimashou.",
+      "en": "Let's meet at the ticket gate.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/219296.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01355A.mp3"
+    },
+    {
+      "ja": "<b>改札口</b>で待ってます。",
+      "hrkt": "<b>かいさつぐち</b> で まってます。",
+      "latn": "<b>kaisatsuguchi</b> de mattemasu.",
+      "en": "I'll wait for you at the ticket gate.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/850i9gasjo.mp3"
+    }
+  ]
+}

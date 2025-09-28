@@ -1,0 +1,18 @@
+{
+  "ja": "好み",
+  "hrkt": "このみ",
+  "latn": "konomi",
+  "en": "taste, preference",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01477A.mp3",
+  "sentences": [
+    {
+      "ja": "姉と私は服の<b>好み</b>が似ています。",
+      "hrkt": "あね と わたし は ふく の <b>このみ</b> が にて います。",
+      "latn": "ane to watashi ha fuku no <b>konomi</b> ga nite imasu.",
+      "en": "My elder sister and I have the same taste in clothes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01477A.mp3"
+    }
+  ]
+}

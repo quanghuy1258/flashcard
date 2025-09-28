@@ -1,0 +1,18 @@
+{
+  "ja": "吐く",
+  "hrkt": "はく",
+  "latn": "haku",
+  "en": "holler, vomit",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03819A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は乱暴な言葉を<b>吐いた</b>ぞ。",
+      "hrkt": "かれ は らんぼうな ことば を <b>はいた</b> ぞ。",
+      "latn": "kare ha ranbouna kotoba wo <b>haita</b> zo.",
+      "en": "He hollered some harsh words.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03819A.mp3"
+    }
+  ]
+}

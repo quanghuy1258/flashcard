@@ -1,0 +1,26 @@
+{
+  "ja": "刺す",
+  "hrkt": "さす",
+  "latn": "sasu",
+  "en": "sting, stab",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03427A.mp3",
+  "sentences": [
+    {
+      "ja": "虫に腕を<b>刺されました</b>。",
+      "hrkt": "むし に うで を <b>さされました</b>。",
+      "latn": "mushi ni ude wo <b>sasaremashita</b>.",
+      "en": "I got an insect bite on my arm.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/781682.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03427A.mp3"
+    },
+    {
+      "ja": "蚊に足を<b>刺された</b>。",
+      "hrkt": "か に あし を <b>さされた</b>。",
+      "latn": "ka ni ashi wo <b>sasareta</b>.",
+      "en": "I was bitten on my foot by a mosquito.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3744702.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01304A.mp3"
+    }
+  ]
+}

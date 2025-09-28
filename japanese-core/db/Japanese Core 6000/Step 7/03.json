@@ -1,0 +1,18 @@
+{
+  "ja": "銭湯",
+  "hrkt": "せんとう",
+  "latn": "sentou",
+  "en": "public bath, bathhouse",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02570A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>銭湯</b>は昔より少なくなったわね。",
+      "hrkt": "<b>せんとう</b> は むかし より すくなく なった わ ね。",
+      "latn": "<b>sentou</b> ha mukashi yori sukunaku natta wa ne.",
+      "en": "We have fewer public bathhouses today compared to the past.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02570A.mp3"
+    }
+  ]
+}

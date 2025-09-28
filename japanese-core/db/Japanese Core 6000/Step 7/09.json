@@ -1,0 +1,18 @@
+{
+  "ja": "反則",
+  "hrkt": "はんそく",
+  "latn": "hansoku",
+  "en": "rule violation, foul",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02580A.mp3",
+  "sentences": [
+    {
+      "ja": "その選手は<b>反則</b>で負けました。",
+      "hrkt": "その せんしゅ は <b>はんそく</b> で まけました。",
+      "latn": "sono senshu ha <b>hansoku</b> de makemashita.",
+      "en": "The athlete lost because he committed a foul.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02580A.mp3"
+    }
+  ]
+}

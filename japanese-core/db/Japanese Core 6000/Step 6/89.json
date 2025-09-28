@@ -1,0 +1,18 @@
+{
+  "ja": "白紙",
+  "hrkt": "はくし",
+  "latn": "hakushi",
+  "en": "blank sheet of paper",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03820A.mp3",
+  "sentences": [
+    {
+      "ja": "テストを<b>白紙</b>で出したの。",
+      "hrkt": "テスト を <b>はくし</b> で だした の。",
+      "latn": "tesuto wo <b>hakushi</b> de dashita no.",
+      "en": "I handed in my test in blank.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03820A.mp3"
+    }
+  ]
+}

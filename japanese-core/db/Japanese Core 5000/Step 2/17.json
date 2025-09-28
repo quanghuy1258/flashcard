@@ -1,0 +1,18 @@
+{
+  "ja": "貸し",
+  "hrkt": "かし",
+  "latn": "kashi",
+  "en": "loan",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02676A.mp3",
+  "sentences": [
+    {
+      "ja": "彼には<b>貸し</b>があるの。",
+      "hrkt": "かれ に は <b>かし</b> が ある の。",
+      "latn": "kare ni ha <b>kashi</b> ga aru no.",
+      "en": "He owes me one.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02676A.mp3"
+    }
+  ]
+}

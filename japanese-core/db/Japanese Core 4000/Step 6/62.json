@@ -1,0 +1,18 @@
+{
+  "ja": "大陸",
+  "hrkt": "たいりく",
+  "latn": "tairiku",
+  "en": "continent",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00868A.mp3",
+  "sentences": [
+    {
+      "ja": "ユーラシアは世界で最も大きい<b>大陸</b>です。",
+      "hrkt": "ユーラシア は せかい で もっとも おおきい <b>たいりく</b> です。",
+      "latn": "yu-rashia ha sekai de mottomo ookii <b>tairiku</b> desu.",
+      "en": "Eurasia is the largest continent in the world.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00868A.mp3"
+    }
+  ]
+}

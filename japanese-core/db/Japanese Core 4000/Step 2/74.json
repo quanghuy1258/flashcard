@@ -1,0 +1,18 @@
+{
+  "ja": "真剣",
+  "hrkt": "しんけん",
+  "latn": "shinken",
+  "en": "serious, attentive",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00798A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>真剣</b>に話を聞いていました。",
+      "hrkt": "かれ は <b>しんけん</b> に はなし を きいて いました。",
+      "latn": "kare ha <b>shinken</b> ni hanashi wo kiite imashita.",
+      "en": "He was listening attentively to the story.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/91cf6o2548.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00798A.mp3"
+    }
+  ]
+}

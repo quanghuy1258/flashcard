@@ -1,0 +1,26 @@
+{
+  "ja": "酔っ払い",
+  "hrkt": "よっぱらい",
+  "latn": "yopparai",
+  "en": "drunkard, drunk",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09704A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はただの<b>酔っ払い</b>です。",
+      "hrkt": "かれ は ただ の <b>よっぱらい</b> です。",
+      "latn": "kare ha tada no <b>yopparai</b> desu.",
+      "en": "He's just a drunkard.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4647049.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09704A.mp3"
+    },
+    {
+      "ja": "<b>酔っ払い</b>が駅のホームで寝ています。",
+      "hrkt": "<b>よっぱらい</b> が えき の ホーム で ねて います。",
+      "latn": "<b>yopparai</b> ga eki no ho-mu de nete imasu.",
+      "en": "A drunkard is sleeping on the station platform.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/36568dd7s4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "玄関",
+  "hrkt": "げんかん",
+  "latn": "genkan",
+  "en": "entrance, front door",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02749A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>玄関</b>に花を飾りました。",
+      "hrkt": "<b>げんかん</b> に はな を かざりました。",
+      "latn": "<b>genkan</b> ni hana wo kazarimashita.",
+      "en": "I decorated the entrance with flowers.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/436455.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02749A.mp3"
+    },
+    {
+      "ja": "<b>玄関</b>のベルが鳴った。",
+      "hrkt": "<b>げんかん</b> の ベル が なった。",
+      "latn": "<b>genkan</b> no beru ga natta.",
+      "en": "The door bell rang.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4045336.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08339A.mp3"
+    }
+  ]
+}

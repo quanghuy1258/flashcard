@@ -1,0 +1,18 @@
+{
+  "ja": "擦る",
+  "hrkt": "こする",
+  "latn": "kosuru",
+  "en": "rub, scrub",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03622A.mp3",
+  "sentences": [
+    {
+      "ja": "冷えた手を<b>擦って</b>温めた。",
+      "hrkt": "ひえた て を <b>こすって</b> あたためた。",
+      "latn": "hieta te wo <b>kosutte</b> atatameta.",
+      "en": "I rubbed my cold hands to warm them up.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03622A.mp3"
+    }
+  ]
+}

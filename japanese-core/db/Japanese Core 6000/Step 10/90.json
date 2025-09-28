@@ -1,0 +1,18 @@
+{
+  "ja": "国鉄",
+  "hrkt": "こくてつ",
+  "latn": "kokutetsu",
+  "en": "Japan National Railways",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00232A.mp3",
+  "sentences": [
+    {
+      "ja": "父は以前、<b>国鉄</b>に勤めていました。",
+      "hrkt": "ちち は いぜん、<b>こくてつ</b> に つとめて いました。",
+      "latn": "chichi ha izen,<b>kokutetsu</b> ni tsutomete imashita.",
+      "en": "My father used to work for the Japan National Railways.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00232A.mp3"
+    }
+  ]
+}

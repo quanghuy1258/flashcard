@@ -1,0 +1,26 @@
+{
+  "ja": "広さ",
+  "hrkt": "ひろさ",
+  "latn": "hirosa",
+  "en": "area, extent",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07910A.mp3",
+  "sentences": [
+    {
+      "ja": "その家の<b>広さ</b>はどれ位ですか。",
+      "hrkt": "その いえ の <b>ひろさ</b> は どれ ぐらい です か。",
+      "latn": "sono ie no <b>hirosa</b> ha dore gurai desu ka.",
+      "en": "How big is that house?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5464361.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07910A.mp3"
+    },
+    {
+      "ja": "私は東京ドームの<b>広さ</b>を調べました。",
+      "hrkt": "わたし は とうきょうドーム の <b>ひろさ</b> を しらべました。",
+      "latn": "watashi ha toukyoudo-mu no <b>hirosa</b> wo shirabemashita.",
+      "en": "I looked into how big the Tokyo Dome is.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/45al0k8mkg.mp3"
+    }
+  ]
+}

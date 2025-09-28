@@ -1,0 +1,18 @@
+{
+  "ja": "疑う",
+  "hrkt": "うたがう",
+  "latn": "utagau",
+  "en": "doubt, suspect",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01333A.mp3",
+  "sentences": [
+    {
+      "ja": "なぜあなたは私を<b>疑う</b>のですか。",
+      "hrkt": "なぜ あなた は わたし を <b>うたがう</b> の です か。",
+      "latn": "naze anata ha watashi wo <b>utagau</b> no desu ka.",
+      "en": "Why do you suspect me?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01333A.mp3"
+    }
+  ]
+}

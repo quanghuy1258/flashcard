@@ -1,0 +1,18 @@
+{
+  "ja": "勢力",
+  "hrkt": "せいりょく",
+  "latn": "seiryoku",
+  "en": "influence, power",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00351A.mp3",
+  "sentences": [
+    {
+      "ja": "この頃は、ローマが<b>勢力</b>を伸ばしていました。",
+      "hrkt": "この ころ は、ローマ が <b>せいりょく</b> を のばして いました。",
+      "latn": "kono koro ha,ro-ma ga <b>seiryoku</b> wo nobashite imashita.",
+      "en": "At that time Rome was expanding its power.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00351A.mp3"
+    }
+  ]
+}

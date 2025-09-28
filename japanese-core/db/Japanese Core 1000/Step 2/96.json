@@ -1,0 +1,26 @@
+{
+  "ja": "結婚",
+  "hrkt": "けっこん",
+  "latn": "kekkon",
+  "en": "marriage",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02695A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は来月<b>結婚</b>します。",
+      "hrkt": "かのじょ は らいげつ <b>けっこん</b> します。",
+      "latn": "kanojo ha raigetsu <b>kekkon</b> shimasu.",
+      "en": "She's getting married next month.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5236289.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02695A.mp3"
+    },
+    {
+      "ja": "私たちは先月11日に<b>結婚</b>しました。",
+      "hrkt": "わたし たち は せんげつ 11 にち に <b>けっこん</b> しました。",
+      "latn": "watashi tachi ha sengetsu 11 nichi ni <b>kekkon</b> shimashita.",
+      "en": "We got married last month on the 11th.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4187778.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06841A.mp3"
+    }
+  ]
+}

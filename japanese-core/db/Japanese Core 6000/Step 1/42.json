@@ -1,0 +1,18 @@
+{
+  "ja": "気象",
+  "hrkt": "きしょう",
+  "latn": "kishou",
+  "en": "weather condition",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01525A.mp3",
+  "sentences": [
+    {
+      "ja": "テレビで明日の<b>気象</b>情報を確認したよ。",
+      "hrkt": "テレビ で あす の <b>きしょう</b> じょうほう を かくにん した よ。",
+      "latn": "terebi de asu no <b>kishou</b> jouhou wo kakunin shita yo.",
+      "en": "I checked tomorrow's weather forecast on TV.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01525A.mp3"
+    }
+  ]
+}

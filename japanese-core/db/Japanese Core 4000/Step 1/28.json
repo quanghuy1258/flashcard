@@ -1,0 +1,18 @@
+{
+  "ja": "開ける",
+  "hrkt": "ひらける",
+  "latn": "hirakeru",
+  "en": "develop, open up",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00952A.mp3",
+  "sentences": [
+    {
+      "ja": "霧が晴れて視界が<b>開けた</b>ね。",
+      "hrkt": "きり が はれて しかい が <b>ひらけた</b> ね。",
+      "latn": "kiri ga harete shikai ga <b>hiraketa</b> ne.",
+      "en": "The fog has cleared up and visibility has increased.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e400cbarq4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00952A.mp3"
+    }
+  ]
+}

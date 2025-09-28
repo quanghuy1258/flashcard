@@ -1,0 +1,18 @@
+{
+  "ja": "専用",
+  "hrkt": "せんよう",
+  "latn": "sen'you",
+  "en": "exclusive use",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00389A.mp3",
+  "sentences": [
+    {
+      "ja": "これは女性<b>専用</b>の車両です。",
+      "hrkt": "これ は じょせい <b>せんよう</b> の しゃりょう です。",
+      "latn": "kore ha josei <b>sen'you</b> no sharyou desu.",
+      "en": "This is a women-only carriage.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00389A.mp3"
+    }
+  ]
+}

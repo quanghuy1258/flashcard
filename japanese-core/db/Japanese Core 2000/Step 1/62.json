@@ -1,0 +1,26 @@
+{
+  "ja": "金持ち",
+  "hrkt": "かねもち",
+  "latn": "kanemochi",
+  "en": "wealthy person",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01737A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>金持ち</b>です。",
+      "hrkt": "かれ は <b>かねもち</b> です。",
+      "latn": "kare ha <b>kanemochi</b> desu.",
+      "en": "He's rich.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4003254.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01737A.mp3"
+    },
+    {
+      "ja": "私はもっとお<b>金持ち</b>の家に生まれたかった。",
+      "hrkt": "わたし は もっと お<b>かねもち</b> の いえ に うまれたかった。",
+      "latn": "watashi ha motto o<b>kanemochi</b> no ie ni umaretakatta.",
+      "en": "I wanted to be born in a wealthier family.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/06cpd76238.mp3"
+    }
+  ]
+}

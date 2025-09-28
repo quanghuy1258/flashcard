@@ -1,0 +1,26 @@
+{
+  "ja": "窓",
+  "hrkt": "まど",
+  "latn": "mado",
+  "en": "window",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/mado_cue.mp3",
+  "sentences": [
+    {
+      "ja": "<b>窓</b>を開けてください。",
+      "hrkt": "<b>まど</b> を あけて ください。",
+      "latn": "<b>mado</b> wo akete kudasai.",
+      "en": "Please open the window.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3670944.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/mado_sentence.mp3"
+    },
+    {
+      "ja": "鳥が<b>窓</b>から逃げたよ。",
+      "hrkt": "とり が <b>まど</b> から にげた よ。",
+      "latn": "tori ga <b>mado</b> kara nigeta yo.",
+      "en": "The bird flew out of the window.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3449953.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06827A.mp3"
+    }
+  ]
+}

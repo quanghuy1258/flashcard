@@ -1,0 +1,18 @@
+{
+  "ja": "何と",
+  "hrkt": "なんと",
+  "latn": "nanto",
+  "en": "what, how, surprisingly",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01684A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>何と</b>彼らは結婚したそうです。",
+      "hrkt": "<b>なんと</b> かれら は けっこん した そうです。",
+      "latn": "<b>nanto</b> karera ha kekkon shita soudesu.",
+      "en": "Surprisingly, they got married.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01684A.mp3"
+    }
+  ]
+}

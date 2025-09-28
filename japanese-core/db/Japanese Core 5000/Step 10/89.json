@@ -1,0 +1,18 @@
+{
+  "ja": "参議院",
+  "hrkt": "さんぎいん",
+  "latn": "sangiin",
+  "en": "House of Councilors, Upper House",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02683A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>参議院</b>議員です。",
+      "hrkt": "かれ は <b>さんぎいん</b> ぎいん です。",
+      "latn": "kare ha <b>sangiin</b> giin desu.",
+      "en": "He is a member of the House of Councilors.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02683A.mp3"
+    }
+  ]
+}

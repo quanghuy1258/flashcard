@@ -1,0 +1,26 @@
+{
+  "ja": "管理",
+  "hrkt": "かんり",
+  "latn": "kanri",
+  "en": "management, administration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01972A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女が私のスケジュールを<b>管理</b>している。",
+      "hrkt": "かのじょ が わたし の スケジュール を <b>かんり</b> して いる。",
+      "latn": "kanojo ga watashi no sukeju-ru wo <b>kanri</b> shite iru.",
+      "en": "She manages my schedule.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/351b1o56ic.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01972A.mp3"
+    },
+    {
+      "ja": "このセンターで工場全体を<b>管理</b>しています。",
+      "hrkt": "この センター で こうじょう ぜんたい を <b>かんり</b> して います。",
+      "latn": "kono senta- de koujou zentai wo <b>kanri</b> shite imasu.",
+      "en": "The entire factory is run from this center.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/92fi4c895g.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03696A.mp3"
+    }
+  ]
+}

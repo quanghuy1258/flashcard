@@ -1,0 +1,18 @@
+{
+  "ja": "祝い",
+  "hrkt": "いわい",
+  "latn": "iwai",
+  "en": "celebration, congratulation",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01689A.mp3",
+  "sentences": [
+    {
+      "ja": "結婚のお<b>祝い</b>に食器を頂きました。",
+      "hrkt": "けっこん の お<b>いわい</b> に しょっき を いただきました。",
+      "latn": "kekkon no o<b>iwai</b> ni shokki wo itadakimashita.",
+      "en": "I received tableware as a wedding gift.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01689A.mp3"
+    }
+  ]
+}

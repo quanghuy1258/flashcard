@@ -1,0 +1,26 @@
+{
+  "ja": "やかん",
+  "hrkt": "やかん",
+  "latn": "yakan",
+  "en": "kettle",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09371A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>やかん</b>でお湯を沸かしました。",
+      "hrkt": "<b>やかん</b> で おゆ を わかしました。",
+      "latn": "<b>yakan</b> de oyu wo wakashimashita.",
+      "en": "I boiled some water in the kettle.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4490728.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09371A.mp3"
+    },
+    {
+      "ja": "<b>やかん</b>に水を入れてください。",
+      "hrkt": "<b>やかん</b> に みず を いれて ください。",
+      "latn": "<b>yakan</b> ni mizu wo irete kudasai.",
+      "en": "Please put water in the kettle.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/54fafsbcio.mp3"
+    }
+  ]
+}

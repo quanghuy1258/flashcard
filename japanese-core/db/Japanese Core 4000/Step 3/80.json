@@ -1,0 +1,18 @@
+{
+  "ja": "マッチ",
+  "hrkt": "マッチ",
+  "latn": "macchi",
+  "en": "match, matchbox",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08760A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>マッチ</b>を持っていますか。",
+      "hrkt": "<b>マッチ</b> を もって います か。",
+      "latn": "<b>macchi</b> wo motte imasu ka.",
+      "en": "Do you have a match?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08760A.mp3"
+    }
+  ]
+}

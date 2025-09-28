@@ -1,0 +1,18 @@
+{
+  "ja": "二度と",
+  "hrkt": "にどと",
+  "latn": "nidoto",
+  "en": "never again",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02281A.mp3",
+  "sentences": [
+    {
+      "ja": "もうここには<b>二度と</b>来ません。",
+      "hrkt": "もう ここ に は <b>にど と</b> きません。",
+      "latn": "mou koko ni ha <b>nido to</b> kimasen.",
+      "en": "I'll never come here again.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/43fqarc0r8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02281A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "奨学金",
+  "hrkt": "しょうがくきん",
+  "latn": "shougakukin",
+  "en": "scholarship",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01650A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>奨学金</b>で大学に行きました。",
+      "hrkt": "かのじょ は <b>しょうがくきん</b> で だいがく に いきました。",
+      "latn": "kanojo ha <b>shougakukin</b> de daigaku ni ikimashita.",
+      "en": "She went to university on a scholarship.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01650A.mp3"
+    }
+  ]
+}

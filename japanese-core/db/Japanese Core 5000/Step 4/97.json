@@ -1,0 +1,18 @@
+{
+  "ja": "電灯",
+  "hrkt": "でんとう",
+  "latn": "dentou",
+  "en": "electric light",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02249A.mp3",
+  "sentences": [
+    {
+      "ja": "午後5時には<b>電灯</b>がつきます。",
+      "hrkt": "ごご 5 じ に は <b>でんとう</b> が つきます。",
+      "latn": "gogo 5 ji ni ha <b>dentou</b> ga tsukimasu.",
+      "en": "The lights will be turned on at 5:00 pm.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02249A.mp3"
+    }
+  ]
+}

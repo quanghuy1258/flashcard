@@ -1,0 +1,26 @@
+{
+  "ja": "可愛らしい",
+  "hrkt": "かわいらしい",
+  "latn": "kawairashii",
+  "en": "lovely, charming",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02965A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は娘に<b>可愛らしい</b>服を作りましたね。",
+      "hrkt": "かのじょ は むすめ に <b>かわいらしい</b> ふく を つくりました ね。",
+      "latn": "kanojo ha musume ni <b>kawairashii</b> fuku wo tsukurimashita ne.",
+      "en": "She made some lovely clothes for her daughter.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2037950.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02965A.mp3"
+    },
+    {
+      "ja": "娘さんは<b>可愛らしい</b>顔をしていますね。",
+      "hrkt": "むすめ さん は <b>かわいらしい</b> かお を して います ね。",
+      "latn": "musume san ha <b>kawairashii</b> kao wo shite imasu ne.",
+      "en": "Your daughter has a lovely face.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/95ckcg6tqo.mp3"
+    }
+  ]
+}

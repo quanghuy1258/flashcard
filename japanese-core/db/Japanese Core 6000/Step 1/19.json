@@ -1,0 +1,18 @@
+{
+  "ja": "反射",
+  "hrkt": "はんしゃ",
+  "latn": "hansha",
+  "en": "reflection (of light)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01516A.mp3",
+  "sentences": [
+    {
+      "ja": "車のライトが<b>反射</b>していますね。",
+      "hrkt": "くるま の ライト が <b>はんしゃ</b> して います ね。",
+      "latn": "kuruma no raito ga <b>hansha</b> shite imasu ne.",
+      "en": "Car lights are reflected.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01516A.mp3"
+    }
+  ]
+}

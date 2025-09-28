@@ -1,0 +1,18 @@
+{
+  "ja": "コンクリート",
+  "hrkt": "コンクリート",
+  "latn": "konkuri-to",
+  "en": "concrete",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00739A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>コンクリート</b>にひびが入っていますね。",
+      "hrkt": "<b>コンクリート</b> に ひび が はいって います ね。",
+      "latn": "<b>konkuri-to</b> ni hibi ga haitte imasu ne.",
+      "en": "There's a crack in the concrete.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00739A.mp3"
+    }
+  ]
+}

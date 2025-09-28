@@ -1,0 +1,26 @@
+{
+  "ja": "美人",
+  "hrkt": "びじん",
+  "latn": "bijin",
+  "en": "beautiful woman",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07702A.mp3",
+  "sentences": [
+    {
+      "ja": "彼のお母さんは<b>美人</b>です。",
+      "hrkt": "かれ の おかあさん は <b>びじん</b> です。",
+      "latn": "kare no okaasan ha <b>bijin</b> desu.",
+      "en": "His mother's a beautiful woman.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4413874.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07702A.mp3"
+    },
+    {
+      "ja": "彼は<b>美人</b>さんが大好きです。",
+      "hrkt": "かれ は <b>びじん</b> さん が だいすき です。",
+      "latn": "kare ha <b>bijin</b> san ga daisuki desu.",
+      "en": "He loves beautiful women.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/45eldj7nbs.mp3"
+    }
+  ]
+}

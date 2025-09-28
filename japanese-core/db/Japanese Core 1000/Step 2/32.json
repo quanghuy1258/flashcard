@@ -1,0 +1,26 @@
+{
+  "ja": "着る",
+  "hrkt": "きる",
+  "latn": "kiru",
+  "en": "wear, put on",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02332A.mp3",
+  "sentences": [
+    {
+      "ja": "今日はスーツを<b>着て</b>います。",
+      "hrkt": "きょう は スーツ を <b>きて</b> います。",
+      "latn": "kyou ha su-tsu wo <b>kite</b> imasu.",
+      "en": "I'm wearing a suit today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5651318.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02332A.mp3"
+    },
+    {
+      "ja": "このパジャマを<b>着て</b>。",
+      "hrkt": "この パジャマ を <b>きて</b>。",
+      "latn": "kono pajama wo <b>kite</b>.",
+      "en": "Put on these pajamas.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3861115.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07305A.mp3"
+    }
+  ]
+}

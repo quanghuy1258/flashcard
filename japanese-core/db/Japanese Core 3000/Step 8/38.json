@@ -1,0 +1,18 @@
+{
+  "ja": "レベル",
+  "hrkt": "レベル",
+  "latn": "reberu",
+  "en": "level",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00105A.mp3",
+  "sentences": [
+    {
+      "ja": "自分の<b>レベル</b>に合った授業を選んでください。",
+      "hrkt": "じぶん の <b>レベル</b> に あった じゅぎょう を えらんで ください。",
+      "latn": "jibun no <b>reberu</b> ni atta jugyou wo erande kudasai.",
+      "en": "Please choose a class suitable to your level.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/1400duflp8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00105A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "乗り越し",
+  "hrkt": "のりこし",
+  "latn": "norikoshi",
+  "en": "riding past one's stop",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03470A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>乗り越し</b>を機械で精算したの。",
+      "hrkt": "<b>のりこし</b> を きかい で せいさん した の。",
+      "latn": "<b>norikoshi</b> wo kikai de seisan shita no.",
+      "en": "I paid the excess fare at the machine.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03470A.mp3"
+    }
+  ]
+}

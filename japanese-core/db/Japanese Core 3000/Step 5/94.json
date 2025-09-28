@@ -1,0 +1,18 @@
+{
+  "ja": "金色",
+  "hrkt": "きんいろ",
+  "latn": "kiniro",
+  "en": "golden color",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02319A.mp3",
+  "sentences": [
+    {
+      "ja": "あの寺の屋根は<b>金色</b>ですね。",
+      "hrkt": "あの てら の やね は <b>きん いろ</b> です ね。",
+      "latn": "ano tera no yane ha <b>kin iro</b> desu ne.",
+      "en": "The roof of that temple is golden.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f5dm4cfvf8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02319A.mp3"
+    }
+  ]
+}

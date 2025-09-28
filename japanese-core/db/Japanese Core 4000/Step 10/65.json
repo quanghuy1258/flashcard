@@ -1,0 +1,18 @@
+{
+  "ja": "平行",
+  "hrkt": "へいこう",
+  "latn": "heikou",
+  "en": "parallel",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02536A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>平行</b>に線を引いてください。",
+      "hrkt": "<b>へいこう</b> に せん を ひいて ください。",
+      "latn": "<b>heikou</b> ni sen wo hiite kudasai.",
+      "en": "Please draw parallel lines.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02536A.mp3"
+    }
+  ]
+}

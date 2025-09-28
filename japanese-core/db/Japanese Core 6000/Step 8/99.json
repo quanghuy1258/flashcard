@@ -1,0 +1,18 @@
+{
+  "ja": "貨幣",
+  "hrkt": "かへい",
+  "latn": "kahei",
+  "en": "money, currency",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02441A.mp3",
+  "sentences": [
+    {
+      "ja": "博物館で昔の<b>貨幣</b>を見ました。",
+      "hrkt": "はくぶつかん で むかし の <b>かへい</b> を みました。",
+      "latn": "hakubutsukan de mukashi no <b>kahei</b> wo mimashita.",
+      "en": "I saw some old currency at the museum.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02441A.mp3"
+    }
+  ]
+}

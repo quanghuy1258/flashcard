@@ -1,0 +1,18 @@
+{
+  "ja": "貴重品",
+  "hrkt": "きちょうひん",
+  "latn": "kichouhin",
+  "en": "valuables",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02814A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>貴重品</b>は自分で持っていてください。",
+      "hrkt": "<b>きちょう ひん</b> は じぶん で もって いて ください。",
+      "latn": "<b>kichou hin</b> ha jibun de motte ite kudasai.",
+      "en": "Please take your valuables with you.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02814A.mp3"
+    }
+  ]
+}

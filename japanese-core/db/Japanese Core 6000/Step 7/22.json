@@ -1,0 +1,18 @@
+{
+  "ja": "低温",
+  "hrkt": "ていおん",
+  "latn": "teion",
+  "en": "low temperature",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01604A.mp3",
+  "sentences": [
+    {
+      "ja": "この製品は<b>低温</b>で保存してください。",
+      "hrkt": "この せいひん は <b>ていおん</b> で ほぞん して ください。",
+      "latn": "kono seihin ha <b>teion</b> de hozon shite kudasai.",
+      "en": "Make sure to store this product at a low temperature.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01604A.mp3"
+    }
+  ]
+}

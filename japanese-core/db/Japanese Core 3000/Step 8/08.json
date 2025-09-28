@@ -1,0 +1,18 @@
+{
+  "ja": "地方",
+  "hrkt": "ちほう",
+  "latn": "chihou",
+  "en": "local region",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03726A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>地方</b>は漁業が盛んです。",
+      "hrkt": "この <b>ちほう</b> は ぎょぎょう が さかん です。",
+      "latn": "kono <b>chihou</b> ha gyogyou ga sakan desu.",
+      "en": "The fishing industry is flourishing in this local region.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b10je3881g.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03726A.mp3"
+    }
+  ]
+}

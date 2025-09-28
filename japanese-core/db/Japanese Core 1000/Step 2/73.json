@@ -1,0 +1,26 @@
+{
+  "ja": "国",
+  "hrkt": "くに",
+  "latn": "kuni",
+  "en": "country",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02492A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>国</b>について少しお話しましょう。",
+      "hrkt": "わたし の <b>くに</b> について すこし おはなし しましょう。",
+      "latn": "watashi no <b>kuni</b> nitsuite sukoshi ohanashi shimashou.",
+      "en": "Let me tell you a bit about my country.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5025576.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02492A.mp3"
+    },
+    {
+      "ja": "私はこの<b>国</b>の文化を勉強しています。",
+      "hrkt": "わたし は この <b>くに</b> の ぶんか を べんきょう して います。",
+      "latn": "watashi ha kono <b>kuni</b> no bunka wo benkyou shite imasu.",
+      "en": "I'm studying this country's culture.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5565883.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08233A.mp3"
+    }
+  ]
+}

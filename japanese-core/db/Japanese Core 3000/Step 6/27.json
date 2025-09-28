@@ -1,0 +1,18 @@
+{
+  "ja": "洋食",
+  "hrkt": "ようしょく",
+  "latn": "youshoku",
+  "en": "Western food",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03324A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日の晩ご飯は<b>洋食</b>でした。",
+      "hrkt": "きのう の ばん ごはん は <b>ようしょく</b> でした。",
+      "latn": "kinou no ban gohan ha <b>youshoku</b> deshita.",
+      "en": "Last night's dinner was Western food.",
+      "image": "http://farm1.static.flickr.com/52/140327810_c6e32252d9.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03324A.mp3"
+    }
+  ]
+}

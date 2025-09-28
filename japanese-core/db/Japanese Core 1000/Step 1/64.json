@@ -1,0 +1,26 @@
+{
+  "ja": "立つ",
+  "hrkt": "たつ",
+  "latn": "tatsu",
+  "en": "stand, rise",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05374A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はステージに<b>立った</b>。",
+      "hrkt": "かれ は ステージ に <b>たった</b>。",
+      "latn": "kare ha sute-ji ni <b>tatta</b>.",
+      "en": "He stood on stage.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4505035.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05374A.mp3"
+    },
+    {
+      "ja": "道の真ん中に人が<b>立って</b>いる。",
+      "hrkt": "みち の まんなか に ひと が <b>たって</b> いる。",
+      "latn": "michi no mannaka ni hito ga <b>tatte</b> iru.",
+      "en": "Someone is standing in the middle of the road.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4511168.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08832A.mp3"
+    }
+  ]
+}

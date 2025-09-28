@@ -1,0 +1,26 @@
+{
+  "ja": "工場",
+  "hrkt": "こうじょう",
+  "latn": "koujou",
+  "en": "factory, plant",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02925A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は食品<b>工場</b>で働いています。",
+      "hrkt": "かれ は しょくひん <b>こうじょう</b> で はたらいて います。",
+      "latn": "kare ha shokuhin <b>koujou</b> de hataraite imasu.",
+      "en": "He works at a food factory.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/356a1t4u58.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02975A.mp3"
+    },
+    {
+      "ja": "この会社の<b>工場</b>は海の近くにある。",
+      "hrkt": "この かいしゃ の <b>こうじょう</b> は うみ の ちかく に ある。",
+      "latn": "kono kaisha no <b>koujou</b> ha umi no chikaku ni aru.",
+      "en": "This company's factory is near the sea.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/448418.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02925A.mp3"
+    }
+  ]
+}

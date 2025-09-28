@@ -1,0 +1,18 @@
+{
+  "ja": "総理",
+  "hrkt": "そうり",
+  "latn": "souri",
+  "en": "prime minister of Japan (for short)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01749A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>総理</b>はヨーロッパを訪問中です。",
+      "hrkt": "<b>そうり</b> は ヨーロッパ を ほうもん ちゅう です。",
+      "latn": "<b>souri</b> ha yo-roppa wo houmon chuu desu.",
+      "en": "The prime minister (of Japan) is currently visiting Europe.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01749A.mp3"
+    }
+  ]
+}

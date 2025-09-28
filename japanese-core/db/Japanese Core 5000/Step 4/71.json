@@ -1,0 +1,18 @@
+{
+  "ja": "静まる",
+  "hrkt": "しずまる",
+  "latn": "shizumaru",
+  "en": "become quiet, calm down",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02866A.mp3",
+  "sentences": [
+    {
+      "ja": "台風が去って風が<b>静まった</b>ね。",
+      "hrkt": "たいふう が さって かぜ が <b>しずまった</b> ね。",
+      "latn": "taifuu ga satte kaze ga <b>shizumatta</b> ne.",
+      "en": "The typhoon has passed, and the wind has dropped.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02866A.mp3"
+    }
+  ]
+}

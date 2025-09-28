@@ -1,0 +1,26 @@
+{
+  "ja": "活動",
+  "hrkt": "かつどう",
+  "latn": "katsudou",
+  "en": "activity",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01697A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は地域の<b>活動</b>に参加した。",
+      "hrkt": "かれ は ちいき の <b>かつどう</b> に さんか した。",
+      "latn": "kare ha chiiki no <b>katsudou</b> ni sanka shita.",
+      "en": "He took part in local activities.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3590656.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01697A.mp3"
+    },
+    {
+      "ja": "ハムスターは夜に<b>活動</b>します。",
+      "hrkt": "ハムスター は よる に <b>かつどう</b> します。",
+      "latn": "hamusuta- ha yoru ni <b>katsudou</b> shimasu.",
+      "en": "Hamsters are active at night.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/02dvcd0njg.mp3"
+    }
+  ]
+}

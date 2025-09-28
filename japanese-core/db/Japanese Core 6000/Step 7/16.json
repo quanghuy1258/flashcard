@@ -1,0 +1,18 @@
+{
+  "ja": "行程",
+  "hrkt": "こうてい",
+  "latn": "koutei",
+  "en": "distance, journey",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02638A.mp3",
+  "sentences": [
+    {
+      "ja": "全部で6時間の<b>行程</b>です。",
+      "hrkt": "ぜんぶ で 6 じかん の <b>こうてい</b> です。",
+      "latn": "zenbu de 6 jikan no <b>koutei</b> desu.",
+      "en": "It's a six-hour journey in all.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02638A.mp3"
+    }
+  ]
+}

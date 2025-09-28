@@ -1,0 +1,26 @@
+{
+  "ja": "バイオリン",
+  "hrkt": "バイオリン",
+  "latn": "baiorin",
+  "en": "violin",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07167A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>バイオリン</b>を習っています。",
+      "hrkt": "かのじょ は <b>バイオリン</b> を ならって います。",
+      "latn": "kanojo ha <b>baiorin</b> wo naratte imasu.",
+      "en": "She's learning the violin.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5353546.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07167A.mp3"
+    },
+    {
+      "ja": "娘は今、<b>バイオリン</b>を練習しています。",
+      "hrkt": "むすめ は いま、<b>バイオリン</b> を れんしゅう して います。",
+      "latn": "musume ha ima,<b>baiorin</b> wo renshuu shite imasu.",
+      "en": "My daughter is practicing the violin now.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5032543.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09943A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "昨夜",
+  "hrkt": "さくや",
+  "latn": "sakuya",
+  "en": "last night, last evening (formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03637A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>昨夜</b>の台風で電車が遅れている。",
+      "hrkt": "<b>さくや</b> の たいふう で でんしゃ が おくれて いる。",
+      "latn": "<b>sakuya</b> no taifuu de densha ga okurete iru.",
+      "en": "The train is late because of last night's typhoon.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a349bod68s.mp3"
+    }
+  ]
+}

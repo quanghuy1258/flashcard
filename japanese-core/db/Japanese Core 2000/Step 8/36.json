@@ -1,0 +1,26 @@
+{
+  "ja": "レインコート",
+  "hrkt": "レインコート",
+  "latn": "reinko-to",
+  "en": "raincoat",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09919A.mp3",
+  "sentences": [
+    {
+      "ja": "雨なので<b>レインコート</b>を着ました。",
+      "hrkt": "あめ なので <b>レインコート</b> を きました。",
+      "latn": "ame nanode <b>reinko-to</b> wo kimashita.",
+      "en": "I put on my raincoat because it was raining.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5800307.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09919A.mp3"
+    },
+    {
+      "ja": "雨の日は<b>レインコート</b>を着て自転車に乗ります。",
+      "hrkt": "あめ の ひ は <b>レインコート</b> を きて じてんしゃ に のります。",
+      "latn": "ame no hi ha <b>reinko-to</b> wo kite jitensha ni norimasu.",
+      "en": "On rainy days, I ride a bicycle in a raincoat.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/247g0pbcdc.mp3"
+    }
+  ]
+}

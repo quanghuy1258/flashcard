@@ -1,0 +1,26 @@
+{
+  "ja": "苦しい",
+  "hrkt": "くるしい",
+  "latn": "kurushii",
+  "en": "painful, agonizing",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02546A.mp3",
+  "sentences": [
+    {
+      "ja": "食べ過ぎておなかが<b>苦しい</b>。",
+      "hrkt": "たべ すぎ て おなか が <b>くるしい</b>。",
+      "latn": "tabe sugi te onaka ga <b>kurushii</b>.",
+      "en": "I have eaten too much and my stomach hurts.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2333827.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02546A.mp3"
+    },
+    {
+      "ja": "このセーターは首の所が<b>苦しい</b>です。",
+      "hrkt": "この セーター は くび の ところ が <b>くるしい</b> です。",
+      "latn": "kono se-ta- ha kubi no tokoro ga <b>kurushii</b> desu.",
+      "en": "This sweater is tight around the neck.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b3511a6ggc.mp3"
+    }
+  ]
+}

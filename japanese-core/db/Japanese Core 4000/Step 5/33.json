@@ -1,0 +1,18 @@
+{
+  "ja": "開放",
+  "hrkt": "かいほう",
+  "latn": "kaihou",
+  "en": "open (to the public)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03566A.mp3",
+  "sentences": [
+    {
+      "ja": "その国は市場の<b>開放</b>を求められているの。",
+      "hrkt": "その くに は しじょう の <b>かいほう</b> を もとめられて いる の。",
+      "latn": "sono kuni ha shijou no <b>kaihou</b> wo motomerarete iru no.",
+      "en": "The country has been requested to open its market.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03566A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "方角",
+  "hrkt": "ほうがく",
+  "latn": "hougaku",
+  "en": "direction, points of the compass",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02053A.mp3",
+  "sentences": [
+    {
+      "ja": "私と彼は帰る<b>方角</b>が同じです。",
+      "hrkt": "わたし と かれ は かえる <b>ほうがく</b> が おなじ です。",
+      "latn": "watashi to kare ha kaeru <b>hougaku</b> ga onaji desu.",
+      "en": "He and I go home in the same direction.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02053A.mp3"
+    }
+  ]
+}

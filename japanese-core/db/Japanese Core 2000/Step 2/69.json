@@ -1,0 +1,26 @@
+{
+  "ja": "急",
+  "hrkt": "きゅう",
+  "latn": "kyuu",
+  "en": "urgent, steep",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02186A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>急</b>な坂道を上った。",
+      "hrkt": "<b>きゅう</b>な さかみち を のぼった。",
+      "latn": "<b>kyuu</b>na sakamichi wo nobotta.",
+      "en": "I went up the steep hill.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4783471.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02186A.mp3"
+    },
+    {
+      "ja": "彼の入院は<b>急</b>なことで、みんな驚いた。",
+      "hrkt": "かれ の にゅういん は <b>きゅう</b>な こと で、みんな おどろいた。",
+      "latn": "kare no nyuuin ha <b>kyuu</b>na koto de,minna odoroita.",
+      "en": "Everyone was surprised that he was suddenly hospitalized.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d51e5kaodo.mp3"
+    }
+  ]
+}

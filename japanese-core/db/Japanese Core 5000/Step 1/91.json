@@ -1,0 +1,18 @@
+{
+  "ja": "図書室",
+  "hrkt": "としょしつ",
+  "latn": "toshoshitsu",
+  "en": "library room",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06435A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>図書室</b>で勉強した。",
+      "hrkt": "<b>としょ しつ</b> で べんきょう した。",
+      "latn": "<b>tosho shitsu</b> de benkyou shita.",
+      "en": "I studied in the library room.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06435A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "センター",
+  "hrkt": "センター",
+  "latn": "senta-",
+  "en": "center (for an activity, etc.), hub",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03696A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>センター</b>で工場全体を管理しています。",
+      "hrkt": "この <b>センター</b> で こうじょう ぜんたい を かんり して います。",
+      "latn": "kono <b>senta-</b> de koujou zentai wo kanri shite imasu.",
+      "en": "We manage the entire operation of the factory in this center.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/31bde721qs.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03696A.mp3"
+    }
+  ]
+}

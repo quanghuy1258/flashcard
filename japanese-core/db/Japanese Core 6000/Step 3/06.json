@@ -1,0 +1,18 @@
+{
+  "ja": "崖",
+  "hrkt": "がけ",
+  "latn": "gake",
+  "en": "cliff",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02910A.mp3",
+  "sentences": [
+    {
+      "ja": "大雨で<b>崖</b>が崩れたんだ。",
+      "hrkt": "おおあめ で <b>がけ</b> が くずれた ん だ。",
+      "latn": "ooame de <b>gake</b> ga kuzureta n da.",
+      "en": "The cliff collapsed in the downpour.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02910A.mp3"
+    }
+  ]
+}

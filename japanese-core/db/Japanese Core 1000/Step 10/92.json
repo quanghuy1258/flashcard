@@ -1,0 +1,26 @@
+{
+  "ja": "トラック",
+  "hrkt": "トラック",
+  "latn": "torakku",
+  "en": "truck",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06528A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>トラック</b>を運転できますか。",
+      "hrkt": "<b>トラック</b> を うんてん できます か。",
+      "latn": "<b>torakku</b> wo unten dekimasu ka.",
+      "en": "Can you drive a truck?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1577497.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06528A.mp3"
+    },
+    {
+      "ja": "私たちは<b>トラック</b>でそのピアノを運びました。",
+      "hrkt": "わたし たち は <b>トラック</b> で その ピアノ を はこびました。",
+      "latn": "watashi tachi ha <b>torakku</b> de sono piano wo hakobimashita.",
+      "en": "We transported the piano on a truck.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/231de25qik.mp3"
+    }
+  ]
+}

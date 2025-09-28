@@ -1,0 +1,26 @@
+{
+  "ja": "足りる",
+  "hrkt": "たりる",
+  "latn": "tariru",
+  "en": "suffice, be enough",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05480A.mp3",
+  "sentences": [
+    {
+      "ja": "お金が<b>足りなくて</b>買えなかった。",
+      "hrkt": "おかね が <b>たりなくて</b> かえなかった。",
+      "latn": "okane ga <b>tarinakute</b> kaenakatta.",
+      "en": "I couldn't buy it because I didn't have enough money.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3867881.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05480A.mp3"
+    },
+    {
+      "ja": "千円で<b>足りました</b>。",
+      "hrkt": "せん えん で <b>たりました</b>。",
+      "latn": "sen en de <b>tarimashita</b>.",
+      "en": "One thousand yen was enough.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/613i267lho.mp3"
+    }
+  ]
+}

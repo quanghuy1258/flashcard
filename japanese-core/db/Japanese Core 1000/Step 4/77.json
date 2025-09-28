@@ -1,0 +1,26 @@
+{
+  "ja": "悪い",
+  "hrkt": "わるい",
+  "latn": "warui",
+  "en": "bad",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW10077A.mp3",
+  "sentences": [
+    {
+      "ja": "タバコは体に<b>悪い</b>。",
+      "hrkt": "タバコ は からだ に <b>わるい</b>。",
+      "latn": "tabako ha karada ni <b>warui</b>.",
+      "en": "Cigarettes are bad for your health.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5173714.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10077A.mp3"
+    },
+    {
+      "ja": "彼は<b>悪い</b>人ではない。",
+      "hrkt": "かれ は <b>わるい</b> ひと で は ない。",
+      "latn": "kare ha <b>warui</b> hito de ha nai.",
+      "en": "He is not a bad person.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d430710ek8.mp3"
+    }
+  ]
+}

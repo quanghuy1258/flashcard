@@ -1,0 +1,18 @@
+{
+  "ja": "勤務",
+  "hrkt": "きんむ",
+  "latn": "kinmu",
+  "en": "duty, work",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00734A.mp3",
+  "sentences": [
+    {
+      "ja": "私の一日の<b>勤務</b>時間は8時間です。",
+      "hrkt": "わたし の いちにち の <b>きんむ</b> じかん は 8 じかん です。",
+      "latn": "watashi no ichinichi no <b>kinmu</b> jikan ha 8 jikan desu.",
+      "en": "I work eight hours a day.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00734A.mp3"
+    }
+  ]
+}

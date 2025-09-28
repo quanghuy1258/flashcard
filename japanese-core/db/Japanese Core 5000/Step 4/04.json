@@ -1,0 +1,18 @@
+{
+  "ja": "障子",
+  "hrkt": "しょうじ",
+  "latn": "shouji",
+  "en": "paper sliding-door",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02120A.mp3",
+  "sentences": [
+    {
+      "ja": "猫が<b>障子</b>を破った。",
+      "hrkt": "ねこ が <b>しょうじ</b> を やぶった。",
+      "latn": "neko ga <b>shouji</b> wo yabutta.",
+      "en": "The cat tore the paper sliding door.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02120A.mp3"
+    }
+  ]
+}

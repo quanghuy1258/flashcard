@@ -1,0 +1,18 @@
+{
+  "ja": "やっつける",
+  "hrkt": "やっつける",
+  "latn": "yattsukeru",
+  "en": "beat up",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02898A.mp3",
+  "sentences": [
+    {
+      "ja": "主人公が悪者を<b>やっつけた</b>。",
+      "hrkt": "しゅじんこう が わるもの を <b>やっつけた</b>。",
+      "latn": "shujinkou ga warumono wo <b>yattsuketa</b>.",
+      "en": "The hero beat up the villain.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02898A.mp3"
+    }
+  ]
+}

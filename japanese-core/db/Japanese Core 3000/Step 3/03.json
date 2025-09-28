@@ -1,0 +1,26 @@
+{
+  "ja": "日にち",
+  "hrkt": "ひにち",
+  "latn": "hinichi",
+  "en": "date (fixed for something)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03848A.mp3",
+  "sentences": [
+    {
+      "ja": "ミーティングの<b>日にち</b>を間違えました。",
+      "hrkt": "ミーティング の <b>ひにち</b> を まちがえました。",
+      "latn": "mi-tingu no <b>hinichi</b> wo machigaemashita.",
+      "en": "I mistook the date of the meeting.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/340c3b4sdo.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03848A.mp3"
+    },
+    {
+      "ja": "みんなに会議の<b>日にち</b>を知らせた。",
+      "hrkt": "みんな に かいぎ の <b>ひにち</b> を しらせた 。",
+      "latn": "minna ni kaigi no <b>hinichi</b> wo shiraseta .",
+      "en": "I informed everyone of the day of the meeting.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6491462.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04328A.mp3"
+    }
+  ]
+}

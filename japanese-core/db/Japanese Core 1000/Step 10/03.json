@@ -1,0 +1,26 @@
+{
+  "ja": "遠く",
+  "hrkt": "とおく",
+  "latn": "tooku",
+  "en": "far away, distance",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06343A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>遠く</b>に船が見えます。",
+      "hrkt": "<b>とおく</b> に ふね が みえます。",
+      "latn": "<b>tooku</b> ni fune ga miemasu.",
+      "en": "I can see a ship in the distance.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/175651.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06343A.mp3"
+    },
+    {
+      "ja": "<b>遠く</b>から音楽が聞こえる。",
+      "hrkt": "<b>とおく</b> から おんがく が きこえる。",
+      "latn": "<b>tooku</b> kara ongaku ga kikoeru.",
+      "en": "I can hear music from a distance.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/413idb00eo.mp3"
+    }
+  ]
+}

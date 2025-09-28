@@ -1,0 +1,26 @@
+{
+  "ja": "あちこち",
+  "hrkt": "あちこち",
+  "latn": "achikochi",
+  "en": "all over, here and there",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00152A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは朝から<b>あちこち</b>散歩しました。",
+      "hrkt": "わたし たち は あさ から <b>あちこち</b> さんぽ しました。",
+      "latn": "watashi tachi ha asa kara <b>achikochi</b> sanpo shimashita.",
+      "en": "Since this morning, we've been strolling about here and there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5573142.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00152A.mp3"
+    },
+    {
+      "ja": "彼の話を<b>あちこち</b>で聞きます。",
+      "hrkt": "かれ の はなし を <b>あちこち</b> で ききます。",
+      "latn": "kare no hanashi wo <b>achikochi</b> de kikimasu.",
+      "en": "I hear about him here and there.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d40f3r8lj4.mp3"
+    }
+  ]
+}

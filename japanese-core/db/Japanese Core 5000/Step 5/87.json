@@ -1,0 +1,18 @@
+{
+  "ja": "ちぎれる",
+  "hrkt": "ちぎれる",
+  "latn": "chigireru",
+  "en": "be torn off, come off",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03089A.mp3",
+  "sentences": [
+    {
+      "ja": "荷物が重くて手が<b>ちぎれそう</b>だ。",
+      "hrkt": "にもつ が おもくて て が <b>ちぎれ</b> そうだ。",
+      "latn": "nimotsu ga omokute te ga <b>chigire</b> souda.",
+      "en": "It feels as though my arm could tear off because my luggage is so heavy.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03089A.mp3"
+    }
+  ]
+}

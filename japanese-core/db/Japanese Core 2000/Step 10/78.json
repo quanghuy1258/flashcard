@@ -1,0 +1,26 @@
+{
+  "ja": "重大",
+  "hrkt": "じゅうだい",
+  "latn": "juudai",
+  "en": "important, serious",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01074A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>重大</b>な発表があります。",
+      "hrkt": "<b>じゅうだい</b>な はっぴょう が あります。",
+      "latn": "<b>juudai</b>na happyou ga arimasu.",
+      "en": "I have an important announcement.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/576548.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01074A.mp3"
+    },
+    {
+      "ja": "今日は皆さんに<b>重大</b>な報告があります。",
+      "hrkt": "きょう は みなさん に <b>じゅうだい</b>な ほうこく が あります。",
+      "latn": "kyou ha minasan ni <b>juudai</b>na houkoku ga arimasu.",
+      "en": "Today I have an important announcement for you all.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/64ad2o16k8.mp3"
+    }
+  ]
+}

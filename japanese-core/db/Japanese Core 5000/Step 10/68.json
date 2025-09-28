@@ -1,0 +1,18 @@
+{
+  "ja": "事柄",
+  "hrkt": "ことがら",
+  "latn": "kotogara",
+  "en": "matter, affair",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01336A.mp3",
+  "sentences": [
+    {
+      "ja": "これまで話し合った<b>事柄</b>をまとめてください。",
+      "hrkt": "これまで はなしあった <b>ことがら</b> を まとめて ください。",
+      "latn": "koremade hanashiatta <b>kotogara</b> wo matomete kudasai.",
+      "en": "Please summarize the things we have discussed so far.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01336A.mp3"
+    }
+  ]
+}

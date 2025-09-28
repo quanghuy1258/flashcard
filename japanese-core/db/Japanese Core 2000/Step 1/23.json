@@ -1,0 +1,26 @@
+{
+  "ja": "おもちゃ",
+  "hrkt": "おもちゃ",
+  "latn": "omocha",
+  "en": "toy, plaything",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01219A.mp3",
+  "sentences": [
+    {
+      "ja": "赤ちゃんが自動車の<b>おもちゃ</b>で遊んでいる。",
+      "hrkt": "あかちゃん が じどうしゃ の <b>おもちゃ</b> で あそんで いる。",
+      "latn": "akachan ga jidousha no <b>omocha</b> de asonde iru.",
+      "en": "The baby's playing with a toy car.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1323924.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01219A.mp3"
+    },
+    {
+      "ja": "息子は飛行機の<b>おもちゃ</b>が好きです。",
+      "hrkt": "むすこ は ひこうき の <b>おもちゃ</b> が すき です。",
+      "latn": "musuko ha hikouki no <b>omocha</b> ga suki desu.",
+      "en": "My son likes toy airplanes.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/545944.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07675A.mp3"
+    }
+  ]
+}

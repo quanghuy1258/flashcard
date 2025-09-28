@@ -1,0 +1,18 @@
+{
+  "ja": "市外",
+  "hrkt": "しがい",
+  "latn": "shigai",
+  "en": "outside the city",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02520A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父は<b>市外</b>の病院に通っているの。",
+      "hrkt": "そふ は <b>しがい</b> の びょういん に かよって いる の。",
+      "latn": "sofu ha <b>shigai</b> no byouin ni kayotte iru no.",
+      "en": "My grandfather goes to a hospital outside the city.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02520A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "航空機",
+  "hrkt": "こうくうき",
+  "latn": "koukuuki",
+  "en": "aircraft, airplane",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00411A.mp3",
+  "sentences": [
+    {
+      "ja": "去年は<b>航空機</b>の事故が多かった。",
+      "hrkt": "きょねん は <b>こうくうき</b> の じこ が おおかった。",
+      "latn": "kyonen ha <b>koukuuki</b> no jiko ga ookatta.",
+      "en": "There were a lot of aircraft accidents last year.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00411A.mp3"
+    }
+  ]
+}

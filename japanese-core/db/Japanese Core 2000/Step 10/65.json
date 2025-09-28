@@ -1,0 +1,26 @@
+{
+  "ja": "競争",
+  "hrkt": "きょうそう",
+  "latn": "kyousou",
+  "en": "competition",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02267A.mp3",
+  "sentences": [
+    {
+      "ja": "2社は互いに<b>競争</b>している。",
+      "hrkt": "2 しゃ は たがい に <b>きょうそう</b> して いる。",
+      "latn": "2 sha ha tagai ni <b>kyousou</b> shite iru.",
+      "en": "The two companies are competing with each other.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3799648.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02267A.mp3"
+    },
+    {
+      "ja": "その分野は<b>競争</b>が激しい。",
+      "hrkt": "その ぶんや は <b>きょうそう</b> が はげしい。",
+      "latn": "sono bun'ya ha <b>kyousou</b> ga hageshii.",
+      "en": "Competition in the field is intense.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/26e24sdqks.mp3"
+    }
+  ]
+}

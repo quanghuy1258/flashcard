@@ -1,0 +1,18 @@
+{
+  "ja": "容器",
+  "hrkt": "ようき",
+  "latn": "youki",
+  "en": "container",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00981A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>容器</b>のふたはきちんと閉めましょう。",
+      "hrkt": "<b>ようき</b> の ふた は きちんと しめましょう。",
+      "latn": "<b>youki</b> no futa ha kichinto shimemashou.",
+      "en": "Be sure to properly close the container lid.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00981A.mp3"
+    }
+  ]
+}

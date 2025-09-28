@@ -1,0 +1,18 @@
+{
+  "ja": "道徳",
+  "hrkt": "どうとく",
+  "latn": "doutoku",
+  "en": "morality, ethic",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01968A.mp3",
+  "sentences": [
+    {
+      "ja": "子供には<b>道徳</b>をきちんと教えていきたいと思います。",
+      "hrkt": "こども に は <b>どうとく</b> を きちんと おしえて いきたい と おもいます。",
+      "latn": "kodomo ni ha <b>doutoku</b> wo kichinto oshiete ikitai to omoimasu.",
+      "en": "I'd like to properly teach ethics to my children.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01968A.mp3"
+    }
+  ]
+}

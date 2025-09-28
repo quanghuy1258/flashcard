@@ -1,0 +1,18 @@
+{
+  "ja": "取り扱う",
+  "hrkt": "とりあつかう",
+  "latn": "toriatsukau",
+  "en": "handle, sell",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01031A.mp3",
+  "sentences": [
+    {
+      "ja": "当店ではお酒を<b>取り扱って</b>おりません。",
+      "hrkt": "とうてん で は おさけ を <b>とりあつかって</b> おりません。",
+      "latn": "touten de ha osake wo <b>toriatsukatte</b> orimasen.",
+      "en": "We don't sell alcohol in this store.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01031A.mp3?1220196817"
+    }
+  ]
+}

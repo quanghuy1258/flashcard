@@ -1,0 +1,18 @@
+{
+  "ja": "ひとりでに",
+  "hrkt": "ひとりでに",
+  "latn": "hitorideni",
+  "en": "automatically, by oneself",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02885A.mp3",
+  "sentences": [
+    {
+      "ja": "ドアが<b>ひとりでに</b>閉まったな。",
+      "hrkt": "ドア が <b>ひとりでに</b> しまった な。",
+      "latn": "doa ga <b>hitorideni</b> shimatta na.",
+      "en": "The door closed by itself.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02885A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "日数",
+  "hrkt": "にっすう",
+  "latn": "nissuu",
+  "en": "number of days",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01808A.mp3",
+  "sentences": [
+    {
+      "ja": "今月は出勤<b>日数</b>が多いです。",
+      "hrkt": "こんげつ は しゅっきん <b>にっすう</b> が おおい です。",
+      "latn": "kongetsu ha shukkin <b>nissuu</b> ga ooi desu.",
+      "en": "I'm working many days this month.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01808A.mp3"
+    }
+  ]
+}

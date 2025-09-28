@@ -1,0 +1,26 @@
+{
+  "ja": "一昨日",
+  "hrkt": "おととい",
+  "latn": "ototoi",
+  "en": "the day before yesterday (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01146A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>一昨日</b>彼から電話がありました。",
+      "hrkt": "<b>おととい</b> かれ から でんわ が ありました。",
+      "latn": "<b>ototoi</b> kare kara denwa ga arimashita.",
+      "en": "I got a phone call from him the day before yesterday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5784508.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01146A.mp3"
+    },
+    {
+      "ja": "<b>一昨日</b>から風邪で仕事を休んでいます。",
+      "hrkt": "<b>おととい</b> から かぜ で しごと を やすんで います。",
+      "latn": "<b>ototoi</b> kara kaze de shigoto wo yasunde imasu.",
+      "en": "I've been absent from work since the day before yesterday because of a cold.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/068k1abchg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "黄色",
+  "hrkt": "きいろ",
+  "latn": "kiiro",
+  "en": "yellow color",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01985A.mp3",
+  "sentences": [
+    {
+      "ja": "信号は<b>黄色</b>でした。",
+      "hrkt": "しんごう は <b>きいろ</b> でした。",
+      "latn": "shingou ha <b>kiiro</b> deshita.",
+      "en": "The traffic light was yellow.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4268707.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01985A.mp3"
+    },
+    {
+      "ja": "<b>黄色</b>のブラウスを着ているのが妻です。",
+      "hrkt": "<b>きいろ</b> の ブラウス を きて いる の が つま です。",
+      "latn": "<b>kiiro</b> no burausu wo kite iru no ga tsuma desu.",
+      "en": "The one wearing a yellow blouse is my wife.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/8607fea1ak.mp3"
+    }
+  ]
+}

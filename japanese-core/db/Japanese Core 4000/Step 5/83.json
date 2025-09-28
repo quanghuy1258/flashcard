@@ -1,0 +1,18 @@
+{
+  "ja": "皮",
+  "hrkt": "かわ",
+  "latn": "kawa",
+  "en": "peel, skin",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03586A.mp3",
+  "sentences": [
+    {
+      "ja": "りんごの<b>皮</b>をむきましたよ。",
+      "hrkt": "りんご の <b>かわ</b> を むきました よ。",
+      "latn": "ringo no <b>kawa</b> wo mukimashita yo.",
+      "en": "I peeled an apple.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03586A.mp3"
+    }
+  ]
+}

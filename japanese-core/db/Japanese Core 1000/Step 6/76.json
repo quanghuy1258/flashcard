@@ -1,0 +1,26 @@
+{
+  "ja": "机",
+  "hrkt": "つくえ",
+  "latn": "tsukue",
+  "en": "desk",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05858A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>机</b>を買ってもらいました。",
+      "hrkt": "あたらしい <b>つくえ</b> を かって もらいました。",
+      "latn": "atarashii <b>tsukue</b> wo katte moraimashita.",
+      "en": "They bought me a new desk.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6194138.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05858A.mp3"
+    },
+    {
+      "ja": "財布は<b>机</b>の下にあった。",
+      "hrkt": "さいふ は <b>つくえ</b> の した に あった。",
+      "latn": "saifu ha <b>tsukue</b> no shita ni atta.",
+      "en": "My purse was under the desk.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5253605.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03714A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "上司",
+  "hrkt": "じょうし",
+  "latn": "joushi",
+  "en": "boss",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01541A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>上司</b>に相談してみます。",
+      "hrkt": "<b>じょうし</b> に そうだん して みます。",
+      "latn": "<b>joushi</b> ni soudan shite mimasu.",
+      "en": "I will consult my boss.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/75ar1t0o4c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01541A.mp3?1220196843"
+    },
+    {
+      "ja": "今日は<b>上司</b>と食事をする。",
+      "hrkt": "きょう は <b>じょうし</b> と しょくじ を する。",
+      "latn": "kyou ha <b>joushi</b> to shokuji wo suru.",
+      "en": "I'm eating with the boss today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2496554.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04271A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "申し出る",
+  "hrkt": "もうしでる",
+  "latn": "moushideru",
+  "en": "offer, propose",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01809A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はプロジェクトへの参加を<b>申し出た</b>よ。",
+      "hrkt": "かれ は プロジェクト へ の さんか を <b>もうしでた</b> よ。",
+      "latn": "kare ha purojekuto he no sanka wo <b>moushideta</b> yo.",
+      "en": "He offered to join us in the project.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01809A.mp3"
+    }
+  ]
+}

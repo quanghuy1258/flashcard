@@ -1,0 +1,26 @@
+{
+  "ja": "是非",
+  "hrkt": "ぜひ",
+  "latn": "zehi",
+  "en": "by all means, please",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04832A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>是非</b>、うちに来てください。",
+      "hrkt": "<b>ぜひ</b>、うち に きて ください。",
+      "latn": "<b>zehi</b>,uchi ni kite kudasai.",
+      "en": "Please come to my house.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4282414.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04832A.mp3"
+    },
+    {
+      "ja": "みなさん、<b>是非</b>一緒に歌ってください。",
+      "hrkt": "みなさん、<b>ぜひ</b> いっしょ に うたって ください。",
+      "latn": "minasan,<b>zehi</b> issho ni utatte kudasai.",
+      "en": "Everybody, please feel free to sing with me.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b6c78l59cs.mp3"
+    }
+  ]
+}

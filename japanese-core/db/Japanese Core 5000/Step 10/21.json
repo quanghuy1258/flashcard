@@ -1,0 +1,18 @@
+{
+  "ja": "天才",
+  "hrkt": "てんさい",
+  "latn": "tensai",
+  "en": "genius",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01752A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は笑いの<b>天才</b>だね。",
+      "hrkt": "かれ は わらい の <b>てんさい</b> だ ね。",
+      "latn": "kare ha warai no <b>tensai</b> da ne.",
+      "en": "He's a comic genius.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01752A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "国家",
+  "hrkt": "こっか",
+  "latn": "kokka",
+  "en": "state, nation",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00127A.mp3",
+  "sentences": [
+    {
+      "ja": "首相は<b>国家</b>のリーダーだ。",
+      "hrkt": "しゅしょう は <b>こっか</b> の リーダー だ。",
+      "latn": "shushou ha <b>kokka</b> no ri-da- da.",
+      "en": "The Prime Minister is the leader of the nation.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d3dh9k3uhs.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00127A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "首都",
+  "hrkt": "しゅと",
+  "latn": "shuto",
+  "en": "capital",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04080A.mp3",
+  "sentences": [
+    {
+      "ja": "東京は日本の<b>首都</b>です。",
+      "hrkt": "とうきょう は にっぽん の <b>しゅと</b> です。",
+      "latn": "toukyou ha nippon no <b>shuto</b> desu.",
+      "en": "Tokyo is the capital of Japan.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4150210.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04080A.mp3"
+    },
+    {
+      "ja": "オーストラリアの<b>首都</b>はシドニーではありません。",
+      "hrkt": "オーストラリア の <b>しゅと</b> は シドニー で は ありません。",
+      "latn": "o-sutoraria no <b>shuto</b> ha shidoni- de ha arimasen.",
+      "en": "The capital of Australia is not Sydney.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/857n6o5fak.mp3"
+    }
+  ]
+}

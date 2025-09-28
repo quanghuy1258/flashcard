@@ -1,0 +1,26 @@
+{
+  "ja": "大型",
+  "hrkt": "おおがた",
+  "latn": "oogata",
+  "en": "large, large scale",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00970A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>大型</b>のテレビを買った。",
+      "hrkt": "<b>おおがた</b> の テレビ を かった。",
+      "latn": "<b>oogata</b> no terebi wo katta.",
+      "en": "We bought a large television.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1861388.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00970A.mp3"
+    },
+    {
+      "ja": "父は<b>大型</b>バスの運転手です。",
+      "hrkt": "ちち は <b>おおがた</b> バス の うんてんしゅ です。",
+      "latn": "chichi ha <b>oogata</b> basu no untenshu desu.",
+      "en": "My father is a large bus driver.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f4dd9j832g.mp3"
+    }
+  ]
+}

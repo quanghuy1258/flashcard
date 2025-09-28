@@ -1,0 +1,18 @@
+{
+  "ja": "観衆",
+  "hrkt": "かんしゅう",
+  "latn": "kanshuu",
+  "en": "audience, spectators",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02443A.mp3",
+  "sentences": [
+    {
+      "ja": "スタジアムは<b>観衆</b>で満員だったよ。",
+      "hrkt": "スタジアム は <b>かんしゅう</b> で まんいん だった よ。",
+      "latn": "sutajiamu ha <b>kanshuu</b> de manin datta yo.",
+      "en": "The stadium was full of spectators.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02443A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "税金",
+  "hrkt": "ぜいきん",
+  "latn": "zeikin",
+  "en": "tax, tax charge",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00581A.mp3",
+  "sentences": [
+    {
+      "ja": "これは<b>税金</b>の無駄遣いだね。",
+      "hrkt": "これ は <b>ぜいきん</b> の むだづかい だ ね。",
+      "latn": "kore ha <b>zeikin</b> no mudazukai da ne.",
+      "en": "This is a waste of tax money.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e2638478u4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00581A.mp3"
+    }
+  ]
+}

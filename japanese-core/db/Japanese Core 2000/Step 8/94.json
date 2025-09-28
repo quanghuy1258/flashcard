@@ -1,0 +1,26 @@
+{
+  "ja": "本箱",
+  "hrkt": "ほんばこ",
+  "latn": "honbako",
+  "en": "bookcase",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08613A.mp3",
+  "sentences": [
+    {
+      "ja": "雑誌を<b>本箱</b>に入れました。",
+      "hrkt": "ざっし を <b>ほんばこ</b> に いれました。",
+      "latn": "zasshi wo <b>honbako</b> ni iremashita.",
+      "en": "I put the magazine in the bookcase.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4802522.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08613A.mp3"
+    },
+    {
+      "ja": "読んだ本は<b>本箱</b>に仕舞ってください。",
+      "hrkt": "よんだ ほん は <b>ほんばこ</b> に しまって ください。",
+      "latn": "yonda hon ha <b>honbako</b> ni shimatte kudasai.",
+      "en": "Please put back the books you read in the bookcase.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/55799s5u4o.mp3"
+    }
+  ]
+}

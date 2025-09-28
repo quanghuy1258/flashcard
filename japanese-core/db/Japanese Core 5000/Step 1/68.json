@@ -1,0 +1,18 @@
+{
+  "ja": "薬品",
+  "hrkt": "やくひん",
+  "latn": "yakuhin",
+  "en": "medicine, drug",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01825A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>薬品</b>を戸棚から出したんだ。",
+      "hrkt": "かのじょ は <b>やくひん</b> を とだな から だした ん だ。",
+      "latn": "kanojo ha <b>yakuhin</b> wo todana kara dashita n da.",
+      "en": "She took the medicine out of the cupboard.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01825A.mp3"
+    }
+  ]
+}

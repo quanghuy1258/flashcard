@@ -1,0 +1,18 @@
+{
+  "ja": "生年月日",
+  "hrkt": "せいねんがっぴ",
+  "latn": "seinengappi",
+  "en": "year and date of birth",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02569A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>生年月日</b>を教えて。",
+      "hrkt": "<b>せいねんがっぴ</b> を おしえて。",
+      "latn": "<b>seinengappi</b> wo oshiete.",
+      "en": "Please tell me your year and date of birth.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/44cu3035lk.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02569A.mp3"
+    }
+  ]
+}

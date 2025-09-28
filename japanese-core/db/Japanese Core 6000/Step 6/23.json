@@ -1,0 +1,18 @@
+{
+  "ja": "最小",
+  "hrkt": "さいしょう",
+  "latn": "saishou",
+  "en": "the smallest, minimum",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01098A.mp3",
+  "sentences": [
+    {
+      "ja": "これは世界で<b>最小</b>のコンピューターです。",
+      "hrkt": "これ は せかい で <b>さいしょう</b> の コンピューター です。",
+      "latn": "kore ha sekai de <b>saishou</b> no konpyu-ta- desu.",
+      "en": "This is the smallest computer in the world.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01098A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "指差す",
+  "hrkt": "ゆびさす",
+  "latn": "yubisasu",
+  "en": "point to",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03179A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなが彼の<b>指差す</b>方を見たんだ。",
+      "hrkt": "みんな が かれ の <b>ゆびさす</b> ほう を みた ん だ。",
+      "latn": "minna ga kare no <b>yubisasu</b> hou wo mita n da.",
+      "en": "Everyone looked in the direction he pointed.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03179A.mp3"
+    }
+  ]
+}

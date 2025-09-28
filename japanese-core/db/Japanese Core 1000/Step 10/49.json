@@ -1,0 +1,26 @@
+{
+  "ja": "方向",
+  "hrkt": "ほうこう",
+  "latn": "houkou",
+  "en": "direction, course",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08412A.mp3",
+  "sentences": [
+    {
+      "ja": "あの人たちは皆、同じ<b>方向</b>を見ている。",
+      "hrkt": "あの ひと たち は みな、 おなじ <b>ほうこう</b> を みて いる。",
+      "latn": "ano hito tachi ha mina, onaji <b>houkou</b> wo mite iru.",
+      "en": "Those people are all looking at the same direction.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4425513.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08412A.mp3?1216463312"
+    },
+    {
+      "ja": "鳥が南の<b>方向</b>へ飛んでいった。",
+      "hrkt": "とり が みなみ の <b>ほうこう</b> へ とんで いった。",
+      "latn": "tori ga minami no <b>houkou</b> he tonde itta.",
+      "en": "Birds flew southward.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/838r0t10cg.mp3"
+    }
+  ]
+}

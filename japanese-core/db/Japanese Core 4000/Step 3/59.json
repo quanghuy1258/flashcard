@@ -1,0 +1,18 @@
+{
+  "ja": "道具",
+  "hrkt": "どうぐ",
+  "latn": "dougu",
+  "en": "tool",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01055A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>道具</b>は全部そろっていますか。",
+      "hrkt": "<b>どうぐ</b> は ぜんぶ そろって います か。",
+      "latn": "<b>dougu</b> ha zenbu sorotte imasu ka.",
+      "en": "Do we have all the tools ready?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01055A.mp3"
+    }
+  ]
+}

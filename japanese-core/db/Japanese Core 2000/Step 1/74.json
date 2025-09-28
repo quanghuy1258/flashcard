@@ -1,0 +1,26 @@
+{
+  "ja": "交通事故",
+  "hrkt": "こうつうじこ",
+  "latn": "koutsuujiko",
+  "en": "traffic accident",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02953A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>交通事故</b>を起こした。",
+      "hrkt": "かれ は <b>こうつう じこ</b> を おこした。",
+      "latn": "kare ha <b>koutsuu jiko</b> wo okoshita.",
+      "en": "He caused a traffic accident.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4484991.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02953A.mp3"
+    },
+    {
+      "ja": "今日の<b>交通事故</b>はゼロです。",
+      "hrkt": "きょう の <b>こうつう じこ</b> は ゼロ です。",
+      "latn": "kyou no <b>koutsuu jiko</b> ha zero desu.",
+      "en": "There were no traffic accidents today.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1780309.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04845A.mp3"
+    }
+  ]
+}

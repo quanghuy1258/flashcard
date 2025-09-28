@@ -1,0 +1,26 @@
+{
+  "ja": "ガラス",
+  "hrkt": "ガラス",
+  "latn": "garasu",
+  "en": "glass (material)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01811A.mp3",
+  "sentences": [
+    {
+      "ja": "クリスタル<b>ガラス</b>の花瓶を買いました。",
+      "hrkt": "クリスタル <b>ガラス</b> の かびん を かいました。",
+      "latn": "kurisutaru <b>garasu</b> no kabin wo kaimashita.",
+      "en": "I bought a crystal glass vase.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1252406.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01811A.mp3"
+    },
+    {
+      "ja": "シンデレラは<b>ガラス</b>の靴を履いていました。",
+      "hrkt": "シンデレラ は <b>ガラス</b> の くつ を はいて いました。",
+      "latn": "shinderera ha <b>garasu</b> no kutsu wo haite imashita.",
+      "en": "Cinderella was wearing glass shoes.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/26a11vb2s0.mp3"
+    }
+  ]
+}

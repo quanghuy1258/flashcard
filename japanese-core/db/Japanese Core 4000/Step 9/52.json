@@ -1,0 +1,18 @@
+{
+  "ja": "性別",
+  "hrkt": "せいべつ",
+  "latn": "seibetsu",
+  "en": "gender",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02483A.mp3",
+  "sentences": [
+    {
+      "ja": "出席者を<b>性別</b>で分けてください。",
+      "hrkt": "しゅっせきしゃ を <b>せいべつ</b> で わけて ください。",
+      "latn": "shussekisha wo <b>seibetsu</b> de wakete kudasai.",
+      "en": "Please divide the participants by gender.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02483A.mp3"
+    }
+  ]
+}

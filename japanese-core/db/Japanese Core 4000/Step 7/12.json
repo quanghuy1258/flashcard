@@ -1,0 +1,18 @@
+{
+  "ja": "平日",
+  "hrkt": "へいじつ",
+  "latn": "heijitsu",
+  "en": "weekday",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03865A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>平日</b>がお休みです。",
+      "hrkt": "かれ は <b>へいじつ</b> が おやすみ です。",
+      "latn": "kare ha <b>heijitsu</b> ga oyasumi desu.",
+      "en": "He has weekdays off.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03865A.mp3"
+    }
+  ]
+}

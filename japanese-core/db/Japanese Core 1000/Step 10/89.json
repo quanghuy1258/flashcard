@@ -1,0 +1,26 @@
+{
+  "ja": "夫婦",
+  "hrkt": "ふうふ",
+  "latn": "fuufu",
+  "en": "husband and wife, married couple",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07965A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>夫婦</b>はとても仲がいい。",
+      "hrkt": "その <b>ふうふ</b> は とても なか が いい。",
+      "latn": "sono <b>fuufu</b> ha totemo naka ga ii.",
+      "en": "That couple is getting on very well.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3115757.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07965A.mp3"
+    },
+    {
+      "ja": "姉<b>夫婦</b>に男の子が生まれました。",
+      "hrkt": "あね <b>ふうふ</b> に おとこのこ が うまれました。",
+      "latn": "ane <b>fuufu</b> ni otokonoko ga umaremashita.",
+      "en": "My sister and her husband had a baby boy.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3493041.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00761A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "梅",
+  "hrkt": "うめ",
+  "latn": "ume",
+  "en": "plum",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02761A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>梅</b>の花が咲きました。",
+      "hrkt": "<b>うめ</b> の はな が さきました。",
+      "latn": "<b>ume</b> no hana ga sakimashita.",
+      "en": "Plum blossoms have bloomed.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02761A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "職員",
+  "hrkt": "しょくいん",
+  "latn": "shokuin",
+  "en": "staff, employee",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00070A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>職員</b>専用の出入り口です。",
+      "hrkt": "ここ は <b>しょくいん</b> せんよう の でいりぐち です。",
+      "latn": "koko ha <b>shokuin</b> sen'you no deiriguchi desu.",
+      "en": "This is an entrance for staff only.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/2n0u8b7ro.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00070A.mp3"
+    }
+  ]
+}

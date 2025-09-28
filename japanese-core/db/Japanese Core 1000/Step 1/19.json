@@ -1,0 +1,26 @@
+{
+  "ja": "同じ",
+  "hrkt": "おなじ",
+  "latn": "onaji",
+  "en": "same, identical",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01160A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の日本語のレベルは私と<b>同じ</b>くらいだ。",
+      "hrkt": "かれ の にほん ご の レベル は わたし と <b>おなじ</b> くらい だ。",
+      "latn": "kare no nihon go no reberu ha watashi to <b>onaji</b> kurai da.",
+      "en": "His Japanese level is about the same as mine.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4626499.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01160A.mp3"
+    },
+    {
+      "ja": "いとこと私は<b>同じ</b>年です。",
+      "hrkt": "いとこ と わたし は <b>おなじ</b> とし です。",
+      "latn": "itoko to watashi ha <b>onaji</b> toshi desu.",
+      "en": "My cousin and I are the same age.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6295631.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00555A.mp3"
+    }
+  ]
+}

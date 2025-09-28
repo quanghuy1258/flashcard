@@ -1,0 +1,26 @@
+{
+  "ja": "気付く",
+  "hrkt": "きづく",
+  "latn": "kizuku",
+  "en": "notice, realize",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01153A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はやっと問題点に<b>気付きました</b>。",
+      "hrkt": "かれ は やっと もんだい てん に <b>きづきました</b>。",
+      "latn": "kare ha yatto mondai ten ni <b>kizukimashita</b>.",
+      "en": "He finally realized what the problem was.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/668855.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01153A.mp3"
+    },
+    {
+      "ja": "彼女は私に<b>気付いて</b>いません。",
+      "hrkt": "かのじょ は わたし に <b>きづいて</b> いません。",
+      "latn": "kanojo ha watashi ni <b>kizuite</b> imasen.",
+      "en": "She hasn't noticed me.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/264kdkbor8.mp3"
+    }
+  ]
+}

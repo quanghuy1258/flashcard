@@ -1,0 +1,26 @@
+{
+  "ja": "黒板",
+  "hrkt": "こくばん",
+  "latn": "kokuban",
+  "en": "blackboard",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03063A.mp3",
+  "sentences": [
+    {
+      "ja": "答えを<b>黒板</b>に書いてください。",
+      "hrkt": "こたえ を <b>こくばん</b> に かいて ください。",
+      "latn": "kotae wo <b>kokuban</b> ni kaite kudasai.",
+      "en": "Please write your answer on the blackboard.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3910078.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03063A.mp3"
+    },
+    {
+      "ja": "先生が<b>黒板</b>の前に立っています。",
+      "hrkt": "せんせい が <b>こくばん</b> の まえ に たって います。",
+      "latn": "sensei ga <b>kokuban</b> no mae ni tatte imasu.",
+      "en": "The teacher is standing in front of the blackboard.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/031p3tffq0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "起こす",
+  "hrkt": "おこす",
+  "latn": "okosu",
+  "en": "wake (someone) up",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01048A.mp3",
+  "sentences": [
+    {
+      "ja": "明日、6時に<b>起こして</b>ください。",
+      "hrkt": "あす 6 じ に <b>おこして</b> ください。",
+      "latn": "asu 6 ji ni <b>okoshite</b> kudasai.",
+      "en": "Please wake me up tomorrow at six o'clock.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5286788.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01048A.mp3"
+    },
+    {
+      "ja": "私は、毎朝7時に息子を<b>起こします</b>。",
+      "hrkt": "わたし は、まいあさ 7 じ に むすこ を <b>おこします</b>。",
+      "latn": "watashi ha,maiasa 7 ji ni musuko wo <b>okoshimasu</b>.",
+      "en": "Every morning I wake my son up at seven.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f4d4850coc.mp3"
+    }
+  ]
+}

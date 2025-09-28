@@ -1,0 +1,18 @@
+{
+  "ja": "文化財",
+  "hrkt": "ぶんかざい",
+  "latn": "bunkazai",
+  "en": "cultural heritage",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01755A.mp3",
+  "sentences": [
+    {
+      "ja": "この建物は国の<b>文化財</b>です。",
+      "hrkt": "この たてもの は くに の <b>ぶんかざい</b> です。",
+      "latn": "kono tatemono ha kuni no <b>bunkazai</b> desu.",
+      "en": "This building is a national cultural heritage.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01755A.mp3"
+    }
+  ]
+}

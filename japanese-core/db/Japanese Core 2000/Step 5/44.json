@@ -1,0 +1,26 @@
+{
+  "ja": "チャンネル",
+  "hrkt": "チャンネル",
+  "latn": "channeru",
+  "en": "channel",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05637A.mp3",
+  "sentences": [
+    {
+      "ja": "テレビの<b>チャンネル</b>を変えてください。",
+      "hrkt": "テレビ の <b>チャンネル</b> を かえて ください。",
+      "latn": "terebi no <b>channeru</b> wo kaete kudasai.",
+      "en": "Please change the TV channel.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4827010.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05637A.mp3"
+    },
+    {
+      "ja": "そのドラマは何<b>チャンネル</b>ですか。",
+      "hrkt": "その ドラマ は なん <b>チャンネル</b> です か。",
+      "latn": "sono dorama ha nan <b>channeru</b> desu ka.",
+      "en": "What channel is the drama on?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/66c66u22eg.mp3"
+    }
+  ]
+}

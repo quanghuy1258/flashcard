@@ -1,0 +1,18 @@
+{
+  "ja": "末っ子",
+  "hrkt": "すえっこ",
+  "latn": "suekko",
+  "en": "youngest child",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02687A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は5人兄弟の<b>末っ子</b>です。",
+      "hrkt": "かれ は 5 にん きょうだい の <b>すえっこ</b> です。",
+      "latn": "kare ha 5 nin kyoudai no <b>suekko</b> desu.",
+      "en": "He is the youngest of the five siblings.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02687A.mp3"
+    }
+  ]
+}

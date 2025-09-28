@@ -1,0 +1,18 @@
+{
+  "ja": "もしかしたら",
+  "hrkt": "もしかしたら",
+  "latn": "moshikashitara",
+  "en": "possibly, perhaps",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03927A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>もしかしたら</b>来年転勤になるかもしれない。",
+      "hrkt": "<b>もしか したら</b> らいねん てんきん に なる かも しれない。",
+      "latn": "<b>moshika shitara</b> rainen tenkin ni naru kamo shirenai.",
+      "en": "It's possible that I might get transferred next year.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a5bu07fcts.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03927A.mp3"
+    }
+  ]
+}

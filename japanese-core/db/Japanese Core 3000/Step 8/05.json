@@ -1,0 +1,18 @@
+{
+  "ja": "元",
+  "hrkt": "もと",
+  "latn": "moto",
+  "en": "origin, former",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01623A.mp3",
+  "sentences": [
+    {
+      "ja": "あの人は卓球の<b>元</b>選手です。",
+      "hrkt": "あの ひと は たっきゅう の <b>もと</b> せんしゅ です。",
+      "latn": "ano hito ha takkyuu no <b>moto</b> senshu desu.",
+      "en": "That person is a former table tennis player.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/611lbe098s.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01623A.mp3"
+    }
+  ]
+}

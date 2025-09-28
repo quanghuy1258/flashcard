@@ -1,0 +1,26 @@
+{
+  "ja": "変わる",
+  "hrkt": "かわる",
+  "latn": "kawaru",
+  "en": "change, turn into",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01863A.mp3",
+  "sentences": [
+    {
+      "ja": "信号が青に<b>変わりました</b>。",
+      "hrkt": "しんごう が あお に <b>かわりました</b>。",
+      "latn": "shingou ga ao ni <b>kawarimashita</b>.",
+      "en": "The traffic light turned green.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3866993.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01863A.mp3"
+    },
+    {
+      "ja": "彼はすごく<b>変わった</b>。",
+      "hrkt": "かれ は すごく <b>かわった</b>。",
+      "latn": "kare ha sugoku <b>kawatta</b>.",
+      "en": "He's changed a lot.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e55i5sagds.mp3"
+    }
+  ]
+}

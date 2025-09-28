@@ -1,0 +1,26 @@
+{
+  "ja": "暖かい",
+  "hrkt": "あたたかい",
+  "latn": "atatakai",
+  "en": "warm",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00142A.mp3",
+  "sentences": [
+    {
+      "ja": "このコートはとても<b>暖かい</b>。",
+      "hrkt": "この コート は とても <b>あたたかい</b>。",
+      "latn": "kono ko-to ha totemo <b>atatakai</b>.",
+      "en": "This coat is really warm.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5199873.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00142A.mp3"
+    },
+    {
+      "ja": "今年の春は<b>暖かい</b>ね。",
+      "hrkt": "ことし の はる は <b>あたたかい</b> ね。",
+      "latn": "kotoshi no haru ha <b>atatakai</b> ne.",
+      "en": "It's warm this spring, isn't it.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6234388.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07500A.mp3"
+    }
+  ]
+}

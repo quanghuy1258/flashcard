@@ -1,0 +1,18 @@
+{
+  "ja": "大便",
+  "hrkt": "だいべん",
+  "latn": "daiben",
+  "en": "stool, feces",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03361A.mp3",
+  "sentences": [
+    {
+      "ja": "病院で<b>大便</b>の検査をした。",
+      "hrkt": "びょういん で <b>だいべん</b> の けんさ を した。",
+      "latn": "byouin de <b>daiben</b> no kensa wo shita.",
+      "en": "I had a stool examination at the hospital.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03361A.mp3"
+    }
+  ]
+}

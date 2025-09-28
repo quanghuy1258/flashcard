@@ -1,0 +1,18 @@
+{
+  "ja": "試合",
+  "hrkt": "しあい",
+  "latn": "shiai",
+  "en": "match, game",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00508A.mp3",
+  "sentences": [
+    {
+      "ja": "明日の<b>試合</b>は何時からですか。",
+      "hrkt": "あした の <b>しあい</b> は なん じ から です か。",
+      "latn": "ashita no <b>shiai</b> ha nan ji kara desu ka.",
+      "en": "What time is the game tomorrow?",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d19h9u4o2g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00508A.mp3"
+    }
+  ]
+}

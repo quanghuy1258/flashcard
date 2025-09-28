@@ -1,0 +1,18 @@
+{
+  "ja": "肺",
+  "hrkt": "はい",
+  "latn": "hai",
+  "en": "lung",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02126A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>肺</b>の病気にかかったのよ。",
+      "hrkt": "かれ は <b>はい</b> の びょうき に かかった の よ。",
+      "latn": "kare ha <b>hai</b> no byouki ni kakatta no yo.",
+      "en": "He's contracted a lung disease.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02126A.mp3"
+    }
+  ]
+}

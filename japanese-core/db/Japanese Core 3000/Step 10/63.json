@@ -1,0 +1,18 @@
+{
+  "ja": "現れる",
+  "hrkt": "あらわれる",
+  "latn": "arawareru",
+  "en": "appear, emerge",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01396A.mp3",
+  "sentences": [
+    {
+      "ja": "雲の間から太陽が<b>現れました</b>。",
+      "hrkt": "くも の あいだ から たいよう が <b>あらわれました</b>。",
+      "latn": "kumo no aida kara taiyou ga <b>arawaremashita</b>.",
+      "en": "The sun appeared between the clouds.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a158964e30.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01396A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "訳す",
+  "hrkt": "やくす",
+  "latn": "yakusu",
+  "en": "translate",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09388A.mp3",
+  "sentences": [
+    {
+      "ja": "この文を<b>訳して</b>ください。",
+      "hrkt": "この ぶん を <b>やくして</b> ください 。",
+      "latn": "kono bun wo <b>yakushite</b> kudasai .",
+      "en": "Please translate this sentence.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4373607.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09388A.mp3"
+    },
+    {
+      "ja": "父は英語の小説を日本語に<b>訳して</b>います。",
+      "hrkt": "ちち は えいご の しょうせつ を にほん ご に <b>やくして</b> います。",
+      "latn": "chichi ha eigo no shousetsu wo nihon go ni <b>yakushite</b> imasu.",
+      "en": "My father is translating an English novel into Japanese.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f5fkeab5rg.mp3"
+    }
+  ]
+}

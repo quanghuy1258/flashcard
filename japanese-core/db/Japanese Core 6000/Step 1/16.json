@@ -1,0 +1,18 @@
+{
+  "ja": "振り",
+  "hrkt": "ふり",
+  "latn": "furi",
+  "en": "swing, shake",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02995A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はバットの<b>振り</b>が大きすぎる。",
+      "hrkt": "かれ は バット の <b>ふり</b> が おおき すぎる。",
+      "latn": "kare ha batto no <b>furi</b> ga ooki sugiru.",
+      "en": "He swings the bat too wide.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02995A.mp3"
+    }
+  ]
+}

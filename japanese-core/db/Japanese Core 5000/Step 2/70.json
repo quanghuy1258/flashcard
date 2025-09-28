@@ -1,0 +1,18 @@
+{
+  "ja": "慰める",
+  "hrkt": "なぐさめる",
+  "latn": "nagusameru",
+  "en": "console, comfort",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02390A.mp3",
+  "sentences": [
+    {
+      "ja": "友人が<b>慰めて</b>くれました。",
+      "hrkt": "ゆうじん が <b>なぐさめて</b> くれました。",
+      "latn": "yuujin ga <b>nagusamete</b> kuremashita.",
+      "en": "My friend consoled me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02390A.mp3"
+    }
+  ]
+}

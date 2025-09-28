@@ -1,0 +1,26 @@
+{
+  "ja": "コース",
+  "hrkt": "コース",
+  "latn": "ko-su",
+  "en": "course, route",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03023A.mp3",
+  "sentences": [
+    {
+      "ja": "私は日本語<b>コース</b>を取っています。",
+      "hrkt": "わたし は にほん ご <b>コース</b> を とって います。",
+      "latn": "watashi ha nihon go <b>ko-su</b> wo totte imasu.",
+      "en": "I'm taking a Japanese course.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5596845.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03023A.mp3"
+    },
+    {
+      "ja": "バスはいつもと違う<b>コース</b>を走った。",
+      "hrkt": "バス は いつも と ちがう <b>コース</b> を はしった。",
+      "latn": "basu ha itsumo to chigau <b>ko-su</b> wo hashitta.",
+      "en": "The bus took a different route from normal.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c2cvaa5fio.mp3"
+    }
+  ]
+}

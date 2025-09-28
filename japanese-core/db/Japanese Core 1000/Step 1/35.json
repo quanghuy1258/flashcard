@@ -1,0 +1,26 @@
+{
+  "ja": "午後",
+  "hrkt": "ごご",
+  "latn": "gogo",
+  "en": "afternoon, p.m.",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03085A.mp3",
+  "sentences": [
+    {
+      "ja": "明日の<b>午後</b>、お客様が来る。",
+      "hrkt": "あす の <b>ごご</b> おきゃくさま が くる。",
+      "latn": "asu no <b>gogo</b> okyakusama ga kuru.",
+      "en": "A guest is coming to visit tomorrow afternoon.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6000580.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03085A.mp3"
+    },
+    {
+      "ja": "<b>午後</b>8時に大阪に着きます。",
+      "hrkt": "<b>ごご</b> 8 じ に おおさか に つきます。",
+      "latn": "<b>gogo</b> 8 ji ni oosaka ni tsukimasu.",
+      "en": "I will arrive in Osaka at 8:00 pm.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5296697.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05851A.mp3"
+    }
+  ]
+}

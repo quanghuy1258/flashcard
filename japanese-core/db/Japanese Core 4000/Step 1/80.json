@@ -1,0 +1,18 @@
+{
+  "ja": "人類",
+  "hrkt": "じんるい",
+  "latn": "jinrui",
+  "en": "humankind",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00580A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>人類</b>は2本の足で歩きます。",
+      "hrkt": "<b>じんるい</b> は 2 ほん の あし で あるきます。",
+      "latn": "<b>jinrui</b> ha 2 hon no ashi de arukimasu.",
+      "en": "Humans walk on two feet.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e2c2d504jk.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00580A.mp3"
+    }
+  ]
+}

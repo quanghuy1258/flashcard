@@ -1,0 +1,26 @@
+{
+  "ja": "客",
+  "hrkt": "きゃく",
+  "latn": "kyaku",
+  "en": "visitor, customer",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02167A.mp3",
+  "sentences": [
+    {
+      "ja": "その店は若い<b>客</b>が多いです。",
+      "hrkt": "その みせ は わかい <b>きゃく</b> が おおい です。",
+      "latn": "sono mise ha wakai <b>kyaku</b> ga ooi desu.",
+      "en": "That shop has a lot of young customers.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5213644.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02167A.mp3"
+    },
+    {
+      "ja": "今日、うちにお<b>客</b>様が来ます。",
+      "hrkt": "きょう、うち に お<b>きゃく</b>さま が きます。",
+      "latn": "kyou,uchi ni o<b>kyaku</b>sama ga kimasu.",
+      "en": "Today a visitor is coming to our home.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d3a42f1v1o.mp3"
+    }
+  ]
+}

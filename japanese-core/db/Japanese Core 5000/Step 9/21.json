@@ -1,0 +1,18 @@
+{
+  "ja": "所属",
+  "hrkt": "しょぞく",
+  "latn": "shozoku",
+  "en": "belonging, affiliation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01013A.mp3",
+  "sentences": [
+    {
+      "ja": "学校では音楽部に<b>所属</b>していました。",
+      "hrkt": "がっこう で は おんがく ぶ に <b>しょぞく</b> して いました。",
+      "latn": "gakkou de ha ongaku bu ni <b>shozoku</b> shite imashita.",
+      "en": "I used to be a member of the music club at school.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01013A.mp3"
+    }
+  ]
+}

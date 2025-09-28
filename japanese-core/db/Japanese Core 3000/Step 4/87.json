@@ -1,0 +1,18 @@
+{
+  "ja": "ファッション",
+  "hrkt": "ファッション",
+  "latn": "fasshon",
+  "en": "fashion",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01221A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>ファッション</b>の専門家だ。",
+      "hrkt": "かのじょ は <b>ファッション</b> の せんもんか だ。",
+      "latn": "kanojo ha <b>fasshon</b> no senmonka da.",
+      "en": "She's a fashion expert.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/cd9r4het0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01221A.mp3"
+    }
+  ]
+}

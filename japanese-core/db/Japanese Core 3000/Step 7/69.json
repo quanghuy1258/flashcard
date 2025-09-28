@@ -1,0 +1,18 @@
+{
+  "ja": "よける",
+  "hrkt": "よける",
+  "latn": "yokeru",
+  "en": "avoid, dodge",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03948A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は飛んできたボールを<b>よけた</b>の。",
+      "hrkt": "かれ は とんで きた ボール を <b>よけた</b> の。",
+      "latn": "kare ha tonde kita bo-ru wo <b>yoketa</b> no.",
+      "en": "He dodged the ball that flew toward him.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/315dc22oks.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03948A.mp3"
+    }
+  ]
+}

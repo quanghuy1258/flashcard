@@ -1,0 +1,26 @@
+{
+  "ja": "森",
+  "hrkt": "もり",
+  "latn": "mori",
+  "en": "forest",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09350A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>森</b>を歩くのが好きです。",
+      "hrkt": "わたし は <b>もり</b> を あるく の が すき です。",
+      "latn": "watashi ha <b>mori</b> wo aruku no ga suki desu.",
+      "en": "I like to walk in the forest.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3978885.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09350A.mp3"
+    },
+    {
+      "ja": "その<b>森</b>にはクマが住んでいます。",
+      "hrkt": "その <b>もり</b> に は クマ が すんで います。",
+      "latn": "sono <b>mori</b> ni ha kuma ga sunde imasu.",
+      "en": "Bears live in the forest.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/060d6j589s.mp3"
+    }
+  ]
+}

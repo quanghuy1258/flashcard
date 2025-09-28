@@ -1,0 +1,26 @@
+{
+  "ja": "来る",
+  "hrkt": "くる",
+  "latn": "kuru",
+  "en": "come",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02541A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は昼すぎに<b>来ます</b>。",
+      "hrkt": "かれ は ひる すぎ に <b>きます</b> 。",
+      "latn": "kare ha hiru sugi ni <b>kimasu</b> .",
+      "en": "He'll come after lunch.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5009059.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02541A.mp3"
+    },
+    {
+      "ja": "彼女はいつ<b>来ます</b>か。",
+      "hrkt": "かのじょ は いつ <b>きます</b> か。",
+      "latn": "kanojo ha itsu <b>kimasu</b> ka.",
+      "en": "When is she coming?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3026871.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00501A.mp3"
+    }
+  ]
+}

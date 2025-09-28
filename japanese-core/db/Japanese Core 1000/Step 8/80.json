@@ -1,0 +1,26 @@
+{
+  "ja": "おば",
+  "hrkt": "おば",
+  "latn": "oba",
+  "en": "(one's own) aunt",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01170A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>おば</b>は大阪に住んでいます。",
+      "hrkt": "<b>おば</b> は おおさか に すんで います。",
+      "latn": "<b>oba</b> ha oosaka ni sunde imasu.",
+      "en": "My aunt lives in Osaka.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6015920.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01170A.mp3"
+    },
+    {
+      "ja": "<b>おば</b>は小さな会社の社長です。",
+      "hrkt": "<b>おば</b> は ちいさな かいしゃ の しゃちょう です",
+      "latn": "<b>oba</b> ha chiisana kaisha no shachou desu",
+      "en": "My aunt is the president of a small firm.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5633842.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03915A.mp3"
+    }
+  ]
+}

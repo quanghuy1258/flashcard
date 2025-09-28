@@ -1,0 +1,26 @@
+{
+  "ja": "電池",
+  "hrkt": "でんち",
+  "latn": "denchi",
+  "en": "battery",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06171A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>電池</b>を入れましょう。",
+      "hrkt": "あたらしい <b>でんち</b> を いれましょう。",
+      "latn": "atarashii <b>denchi</b> wo iremashou.",
+      "en": "Let's put in a new battery.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6031373.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06171A.mp3"
+    },
+    {
+      "ja": "携帯電話の<b>電池</b>が切れている。",
+      "hrkt": "けいたい でんわ の <b>でんち</b> が きれて いる。",
+      "latn": "keitai denwa no <b>denchi</b> ga kirete iru.",
+      "en": "The battery of my cell phone is drained.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/45aub95h00.mp3"
+    }
+  ]
+}

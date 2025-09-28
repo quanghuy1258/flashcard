@@ -1,0 +1,18 @@
+{
+  "ja": "音",
+  "hrkt": "ね",
+  "latn": "ne",
+  "en": "comfortable sound",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00026A.mp3",
+  "sentences": [
+    {
+      "ja": "秋は虫の<b>音</b>が心地いいです。",
+      "hrkt": "あき は むし の <b>ね</b> が ここち いい です。",
+      "latn": "aki ha mushi no <b>ne</b> ga kokochi ii desu.",
+      "en": "The singing of insects in fall makes me feel comfortable.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00026A.mp3"
+    }
+  ]
+}

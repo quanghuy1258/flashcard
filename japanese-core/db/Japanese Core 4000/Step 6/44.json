@@ -1,0 +1,18 @@
+{
+  "ja": "勧める",
+  "hrkt": "すすめる",
+  "latn": "susumeru",
+  "en": "suggest, recommend",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01885A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>勧められて</b>欲しくもないものを買っちゃったよ。",
+      "hrkt": "<b>すすめられて</b> ほしく も ない もの を かっちゃった よ。",
+      "latn": "<b>susumerarete</b> hoshiku mo nai mono wo kacchatta yo.",
+      "en": "Following a recommendation, I ended up buying something I didn't want.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01885A.mp3"
+    }
+  ]
+}

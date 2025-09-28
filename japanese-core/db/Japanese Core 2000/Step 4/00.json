@@ -1,0 +1,26 @@
+{
+  "ja": "貯金",
+  "hrkt": "ちょきん",
+  "latn": "chokin",
+  "en": "money saved up",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05737A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>貯金</b>は十分にあります。",
+      "hrkt": "<b>ちょきん</b> は じゅうぶん に あります。",
+      "latn": "<b>chokin</b> ha juubun ni arimasu.",
+      "en": "I have enough money saved up.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4130332.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05737A.mp3"
+    },
+    {
+      "ja": "私は毎月<b>貯金</b>をしています。",
+      "hrkt": "わたし は まいつき <b>ちょきん</b> を して います。",
+      "latn": "watashi ha maitsuki <b>chokin</b> wo shite imasu.",
+      "en": "I save money every month.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3143259.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08637A.mp3"
+    }
+  ]
+}

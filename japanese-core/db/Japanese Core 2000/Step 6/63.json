@@ -1,0 +1,26 @@
+{
+  "ja": "角",
+  "hrkt": "かど",
+  "latn": "kado",
+  "en": "corner, edge",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01712A.mp3",
+  "sentences": [
+    {
+      "ja": "次の<b>角</b>で左に曲がってください。",
+      "hrkt": "つぎ の <b>かど</b> で ひだり に まがって ください。",
+      "latn": "tsugi no <b>kado</b> de hidari ni magatte kudasai.",
+      "en": "Please turn left at the next corner.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5809246.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01712A.mp3"
+    },
+    {
+      "ja": "ごみはそこの<b>角</b>に出してください。",
+      "hrkt": "ごみ は そこ の <b>かど</b> に だして ください。",
+      "latn": "gomi ha soko no <b>kado</b> ni dashite kudasai.",
+      "en": "Please take garbage to the corner there.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f5dr6gce7k.mp3"
+    }
+  ]
+}

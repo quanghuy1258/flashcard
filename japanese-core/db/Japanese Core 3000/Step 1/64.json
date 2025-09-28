@@ -1,0 +1,18 @@
+{
+  "ja": "貿易",
+  "hrkt": "ぼうえき",
+  "latn": "boueki",
+  "en": "(export and import) trade",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08392A.mp3",
+  "sentences": [
+    {
+      "ja": "父は<b>貿易</b>の仕事をしています。",
+      "hrkt": "ちち は <b>ぼうえき</b> の しごと を して います。",
+      "latn": "chichi ha <b>boueki</b> no shigoto wo shite imasu.",
+      "en": "My father works in the trading business.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/63blf393c8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08392A.mp3"
+    }
+  ]
+}

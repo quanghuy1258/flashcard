@@ -1,0 +1,18 @@
+{
+  "ja": "ハードウェア",
+  "hrkt": "ハードウェア",
+  "latn": "ha-dowea",
+  "en": "hardware",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00418A.mp3",
+  "sentences": [
+    {
+      "ja": "この問題は<b>ハードウェア</b>の故障が原因です。",
+      "hrkt": "この もんだい は <b>ハードウェア</b> の こしょう が げんいん です。",
+      "latn": "kono mondai ha <b>ha-dowea</b> no koshou ga genin desu.",
+      "en": "This problem is caused by hardware malfunction.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e53t676ki4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00418A.mp3"
+    }
+  ]
+}

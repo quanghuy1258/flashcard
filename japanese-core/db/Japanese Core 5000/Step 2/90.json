@@ -1,0 +1,18 @@
+{
+  "ja": "装置",
+  "hrkt": "そうち",
+  "latn": "souchi",
+  "en": "equipment, device",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05004A.mp3",
+  "sentences": [
+    {
+      "ja": "実験にはこの<b>装置</b>を使います。",
+      "hrkt": "じっけん に は この <b>そうち</b> を つかいます。",
+      "latn": "jikken ni ha kono <b>souchi</b> wo tsukaimasu.",
+      "en": "We'll use this equipment in our experiment.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05004A.mp3"
+    }
+  ]
+}

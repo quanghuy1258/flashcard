@@ -1,0 +1,26 @@
+{
+  "ja": "鳴く",
+  "hrkt": "なく",
+  "latn": "naku",
+  "en": "sing, cry (of animals)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06660A.mp3",
+  "sentences": [
+    {
+      "ja": "どこかで猫が<b>鳴いて</b>いる。",
+      "hrkt": "どこ か で ねこ が <b>ないて</b> いる。",
+      "latn": "doko ka de neko ga <b>naite</b> iru.",
+      "en": "A cat is meowing somewhere.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4791061.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06660A.mp3"
+    },
+    {
+      "ja": "その鶏は毎朝<b>鳴きます</b>。",
+      "hrkt": "その にわとり は まいあさ <b>なきます</b>。",
+      "latn": "sono niwatori ha maiasa <b>nakimasu</b>.",
+      "en": "The rooster crows every morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5280068.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06907A.mp3"
+    }
+  ]
+}

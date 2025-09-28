@@ -1,0 +1,26 @@
+{
+  "ja": "欠席",
+  "hrkt": "けっせき",
+  "latn": "kesseki",
+  "en": "absence (from school, a gathering, etc.)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02706A.mp3",
+  "sentences": [
+    {
+      "ja": "風邪のため今日は<b>欠席</b>します。",
+      "hrkt": "かぜ の ため きょう は <b>けっせき</b> します。",
+      "latn": "kaze no tame kyou ha <b>kesseki</b> shimasu.",
+      "en": "I'll be absent today because I have a cold.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4033872.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02706A.mp3"
+    },
+    {
+      "ja": "彼女は今日、日本語の授業を<b>欠席</b>しました。",
+      "hrkt": "かのじょ は きょう、にほん ご の じゅぎょう を <b>けっせき</b> しました。",
+      "latn": "kanojo ha kyou,nihon go no jugyou wo <b>kesseki</b> shimashita.",
+      "en": "She was absent from the Japanese class today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c53f2949r8.mp3"
+    }
+  ]
+}

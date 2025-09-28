@@ -1,0 +1,18 @@
+{
+  "ja": "災害",
+  "hrkt": "さいがい",
+  "latn": "saigai",
+  "en": "disaster",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00935A.mp3",
+  "sentences": [
+    {
+      "ja": "地震は自然<b>災害</b>の一つです。",
+      "hrkt": "じしん は しぜん <b>さいがい</b> の ひとつ です 。",
+      "latn": "jishin ha shizen <b>saigai</b> no hitotsu desu .",
+      "en": "Earthquakes are one type of natural disaster.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00935A.mp3"
+    }
+  ]
+}

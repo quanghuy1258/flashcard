@@ -1,0 +1,26 @@
+{
+  "ja": "コンピューター",
+  "hrkt": "コンピューター",
+  "latn": "konpyu-ta-",
+  "en": "computer",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03268A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>コンピューター</b>を買った。",
+      "hrkt": "あたらしい <b>コンピューター</b> を かった。",
+      "latn": "atarashii <b>konpyu-ta-</b> wo katta.",
+      "en": "I bought a new computer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5194890.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03268A.mp3"
+    },
+    {
+      "ja": "この<b>コンピューター</b>はすごく遅いです。",
+      "hrkt": "この <b>コンピューター</b> は すごく おそい です。",
+      "latn": "kono <b>konpyu-ta-</b> ha sugoku osoi desu.",
+      "en": "This computer is so slow.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/232m13cp08.mp3"
+    }
+  ]
+}

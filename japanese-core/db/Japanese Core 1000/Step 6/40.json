@@ -1,0 +1,26 @@
+{
+  "ja": "助ける",
+  "hrkt": "たすける",
+  "latn": "tasukeru",
+  "en": "help, save",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05338A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は病気の犬を<b>助けた</b>。",
+      "hrkt": "かのじょ は びょうき の いぬ を <b>たすけた</b>。",
+      "latn": "kanojo ha byouki no inu wo <b>tasuketa</b>.",
+      "en": "She saved a sick dog.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5604597.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05338A.mp3"
+    },
+    {
+      "ja": "姉はいつも私を<b>助けて</b>くれる。",
+      "hrkt": "あね は いつも わたし を <b>たすけて</b> くれる。",
+      "latn": "ane ha itsumo watashi wo <b>tasukete</b> kureru.",
+      "en": "My older sister always helps me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/387782d8mk.mp3"
+    }
+  ]
+}

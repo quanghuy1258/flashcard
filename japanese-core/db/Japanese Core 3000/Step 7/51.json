@@ -1,0 +1,18 @@
+{
+  "ja": "出入り口",
+  "hrkt": "でいりぐち",
+  "latn": "deiriguchi",
+  "en": "doorway, gateway",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02012A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>出入り口</b>に車を停めないでください。",
+      "hrkt": "<b>でいりぐち</b> に くるま を とめない で ください。",
+      "latn": "<b>deiriguchi</b> ni kuruma wo tomenai de kudasai.",
+      "en": "Please don't park your car at the gateway.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b30oed6f4s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02012A.mp3"
+    }
+  ]
+}

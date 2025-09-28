@@ -1,0 +1,26 @@
+{
+  "ja": "箱",
+  "hrkt": "はこ",
+  "latn": "hako",
+  "en": "box, case",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07282A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>箱</b>は重い。",
+      "hrkt": "この <b>はこ</b> は おもい。",
+      "latn": "kono <b>hako</b> ha omoi.",
+      "en": "This box is heavy.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5819133.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07282A.mp3"
+    },
+    {
+      "ja": "棚からその<b>箱</b>を下ろしてください。",
+      "hrkt": "たな から その <b>はこ</b> を おろして ください。",
+      "latn": "tana kara sono <b>hako</b> wo oroshite kudasai.",
+      "en": "Please take the box down from the shelf.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/528121.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01264A.mp3"
+    }
+  ]
+}

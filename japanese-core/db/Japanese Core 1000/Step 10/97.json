@@ -1,0 +1,26 @@
+{
+  "ja": "長さ",
+  "hrkt": "ながさ",
+  "latn": "nagasa",
+  "en": "length",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06631A.mp3",
+  "sentences": [
+    {
+      "ja": "このケーブルの<b>長さ</b>は1メートルです。",
+      "hrkt": "この ケーブル の <b>ながさ</b> は 1 メートル です。",
+      "latn": "kono ke-buru no <b>nagasa</b> ha 1 me-toru desu.",
+      "en": "The length of this cable is one meter.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1514536.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06631A.mp3"
+    },
+    {
+      "ja": "今日は昼と夜の<b>長さ</b>が同じです。",
+      "hrkt": "きょう は ひる と よる の <b>ながさ</b> が おなじ です。",
+      "latn": "kyou ha hiru to yoru no <b>nagasa</b> ga onaji desu.",
+      "en": "Today, day and night are the same length.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a52tfa1arc.mp3"
+    }
+  ]
+}

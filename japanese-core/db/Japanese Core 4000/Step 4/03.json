@@ -1,0 +1,18 @@
+{
+  "ja": "発電",
+  "hrkt": "はつでん",
+  "latn": "hatsuden",
+  "en": "generation of electricity",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01250A.mp3",
+  "sentences": [
+    {
+      "ja": "ここでは太陽エネルギーを使って<b>発電</b>しています。",
+      "hrkt": "ここ で は たいよう エネルギー を つかって <b>はつでん</b> して います。",
+      "latn": "koko de ha taiyou enerugi- wo tsukatte <b>hatsuden</b> shite imasu.",
+      "en": "We generate electricity with solar energy here.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01250A.mp3"
+    }
+  ]
+}

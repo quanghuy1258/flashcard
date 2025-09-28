@@ -1,0 +1,18 @@
+{
+  "ja": "ラッシュ",
+  "hrkt": "ラッシュ",
+  "latn": "rasshu",
+  "en": "rush, rush hour",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01558A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎朝<b>ラッシュ</b>の電車に乗っています。",
+      "hrkt": "わたし は まいあさ <b>ラッシュ</b> の でんしゃ に のって います。",
+      "latn": "watashi ha maiasa <b>rasshu</b> no densha ni notte imasu.",
+      "en": "I take the train during rush hour every morning.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/645v1b3hf0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01558A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "答える",
+  "hrkt": "こたえる",
+  "latn": "kotaeru",
+  "en": "give an answer",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03131A.mp3",
+  "sentences": [
+    {
+      "ja": "私の質問に<b>答えて</b>ください。",
+      "hrkt": "わたし の しつもん に <b>こたえて</b> ください。",
+      "latn": "watashi no shitsumon ni <b>kotaete</b> kudasai.",
+      "en": "Please answer my question.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1567809.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03131A.mp3"
+    },
+    {
+      "ja": "誰も彼の質問に<b>答えられません</b>でした。",
+      "hrkt": "だれ も かれ の しつもん に <b>こたえられません</b> でした。",
+      "latn": "dare mo kare no shitsumon ni <b>kotaeraremasen</b> deshita.",
+      "en": "Nobody was able to answer his question.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f468ah85u8.mp3"
+    }
+  ]
+}

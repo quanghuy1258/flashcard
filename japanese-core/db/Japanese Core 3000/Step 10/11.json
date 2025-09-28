@@ -1,0 +1,18 @@
+{
+  "ja": "仲間",
+  "hrkt": "なかま",
+  "latn": "nakama",
+  "en": "comrade, peer",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03784A.mp3",
+  "sentences": [
+    {
+      "ja": "彼には<b>仲間</b>がたくさんいる。",
+      "hrkt": "かれ に は <b>なかま</b> が たくさん いる。",
+      "latn": "kare ni ha <b>nakama</b> ga takusan iru.",
+      "en": "He has a lot of peers.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c33u4d29u4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03784A.mp3"
+    }
+  ]
+}

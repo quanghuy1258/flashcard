@@ -1,0 +1,18 @@
+{
+  "ja": "かぼちゃ",
+  "hrkt": "かぼちゃ",
+  "latn": "kabocha",
+  "en": "pumpkin",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02911A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>かぼちゃ</b>のスープは美味しいです。",
+      "hrkt": "<b>かぼちゃ</b> の スープ は おいしい です。",
+      "latn": "<b>kabocha</b> no su-pu ha oishii desu.",
+      "en": "Pumpkin soup is delicious.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f50vcr49bk.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02911A.mp3"
+    }
+  ]
+}

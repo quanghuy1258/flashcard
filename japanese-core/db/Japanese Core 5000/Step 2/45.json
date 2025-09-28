@@ -1,0 +1,18 @@
+{
+  "ja": "苦しめる",
+  "hrkt": "くるしめる",
+  "latn": "kurushimeru",
+  "en": "torment (someone), trouble (someone)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02184A.mp3",
+  "sentences": [
+    {
+      "ja": "強い日差しが選手たちを<b>苦しめた</b>の。",
+      "hrkt": "つよい ひざし が せんしゅ たち を <b>くるしめた</b> の。",
+      "latn": "tsuyoi hizashi ga senshu tachi wo <b>kurushimeta</b> no.",
+      "en": "The strong sunlight troubled the athletes.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02184A.mp3"
+    }
+  ]
+}

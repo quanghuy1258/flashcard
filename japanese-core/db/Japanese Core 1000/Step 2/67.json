@@ -1,0 +1,26 @@
+{
+  "ja": "女の子",
+  "hrkt": "おんなのこ",
+  "latn": "onnanoko",
+  "en": "little girl",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01291A.mp3",
+  "sentences": [
+    {
+      "ja": "あの<b>女の子</b>を知っていますか。",
+      "hrkt": "あの <b>おんなのこ</b> を しって います か。",
+      "latn": "ano <b>onnanoko</b> wo shitte imasu ka.",
+      "en": "Do you know that little girl?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2615613.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01291A.mp3"
+    },
+    {
+      "ja": "彼女は普通の<b>女の子</b>だ。",
+      "hrkt": "かのじょ は ふつう の <b>おんなのこ</b> だ。",
+      "latn": "kanojo ha futsuu no <b>onnanoko</b> da.",
+      "en": "She's just a normal girl.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5143047.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08103A.mp3"
+    }
+  ]
+}

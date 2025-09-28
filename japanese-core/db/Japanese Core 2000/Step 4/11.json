@@ -1,0 +1,26 @@
+{
+  "ja": "封筒",
+  "hrkt": "ふうとう",
+  "latn": "fuutou",
+  "en": "envelope",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07964A.mp3",
+  "sentences": [
+    {
+      "ja": "その手紙を<b>封筒</b>に入れた。",
+      "hrkt": "その てがみ を <b>ふうとう</b> に いれた。",
+      "latn": "sono tegami wo <b>fuutou</b> ni ireta.",
+      "en": "I put that letter in an envelope.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5649160.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07964A.mp3"
+    },
+    {
+      "ja": "この大きさの<b>封筒</b>が欲しいのですが。",
+      "hrkt": "この おおきさ の <b>ふうとう</b> が ほしい の です が。",
+      "latn": "kono ookisa no <b>fuutou</b> ga hoshii no desu ga.",
+      "en": "I'd like an envelope of this size.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4695478.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00972A.mp3"
+    }
+  ]
+}

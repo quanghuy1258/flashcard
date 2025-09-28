@@ -1,0 +1,18 @@
+{
+  "ja": "よる",
+  "hrkt": "よる",
+  "latn": "yoru",
+  "en": "be caused by, be due to",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03497A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の病気は過労に<b>よる</b>ものです。",
+      "hrkt": "かれ の びょうき は かろう に <b>よる</b> もの です。",
+      "latn": "kare no byouki ha karou ni <b>yoru</b> mono desu.",
+      "en": "His illness is due to overwork.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03497A.mp3"
+    }
+  ]
+}

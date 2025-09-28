@@ -1,0 +1,26 @@
+{
+  "ja": "間に合う",
+  "hrkt": "まにあう",
+  "latn": "maniau",
+  "en": "be in time, suffice",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08777A.mp3",
+  "sentences": [
+    {
+      "ja": "授業に<b>間に合いました</b>。",
+      "hrkt": "じゅぎょう に <b>まにあいました</b>。",
+      "latn": "jugyou ni <b>maniaimashita</b>.",
+      "en": "I made it in time for class.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6351071.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08777A.mp3"
+    },
+    {
+      "ja": "駅まで走って電車に<b>間に合いました</b>。",
+      "hrkt": "えき まで はしって でんしゃ に <b>まにあいました</b>。",
+      "latn": "eki made hashitte densha ni <b>maniaimashita</b>.",
+      "en": "I ran to the station and made it to the train.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a59l6gbu3k.mp3"
+    }
+  ]
+}

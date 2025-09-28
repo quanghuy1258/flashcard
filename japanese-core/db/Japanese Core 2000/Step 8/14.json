@@ -1,0 +1,26 @@
+{
+  "ja": "無くなる",
+  "hrkt": "なくなる",
+  "latn": "nakunaru",
+  "en": "go missing, run out",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06665A.mp3",
+  "sentences": [
+    {
+      "ja": "もうお金が<b>無くなりました</b>。",
+      "hrkt": "もう おかね が <b>なくなりました</b>。",
+      "latn": "mou okane ga <b>nakunarimashita</b>.",
+      "en": "I've run out of money already.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4688872.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06665A.mp3"
+    },
+    {
+      "ja": "トイレットペーパーが<b>無くなりました</b>。",
+      "hrkt": "トイレットペーパー が <b>なくなりました</b>。",
+      "latn": "toirettope-pa- ga <b>nakunarimashita</b>.",
+      "en": "We've run out of toilet paper.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e4d1210kic.mp3"
+    }
+  ]
+}

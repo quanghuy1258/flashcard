@@ -1,0 +1,18 @@
+{
+  "ja": "式",
+  "hrkt": "しき",
+  "latn": "shiki",
+  "en": "ceremony",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00395A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは教会で<b>式</b>を挙げました。",
+      "hrkt": "かれら は きょうかい で <b>しき</b> を あげました。",
+      "latn": "karera ha kyoukai de <b>shiki</b> wo agemashita.",
+      "en": "They had a wedding ceremony in the church.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/24735m4vr0.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00395A.mp3"
+    }
+  ]
+}

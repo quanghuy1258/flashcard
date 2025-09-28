@@ -1,0 +1,26 @@
+{
+  "ja": "豚",
+  "hrkt": "ぶた",
+  "latn": "buta",
+  "en": "pig",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08082A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>豚</b>はすごく鼻がいい。",
+      "hrkt": "<b>ぶた</b> は すごく はな が いい。",
+      "latn": "<b>buta</b> ha sugoku hana ga ii.",
+      "en": "Pigs have a very keen sense of smell.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/614590.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08082A.mp3"
+    },
+    {
+      "ja": "<b>豚</b>の鼻はおもしろいですね。",
+      "hrkt": "<b>ぶた</b> の はな は おもしろい です ね。",
+      "latn": "<b>buta</b> no hana ha omoshiroi desu ne.",
+      "en": "The noses of pigs are funny.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/126t8qa4p8.mp3"
+    }
+  ]
+}

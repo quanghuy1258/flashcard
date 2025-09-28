@@ -1,0 +1,26 @@
+{
+  "ja": "大好き",
+  "hrkt": "だいすき",
+  "latn": "daisuki",
+  "en": "like (something) a lot",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05207A.mp3",
+  "sentences": [
+    {
+      "ja": "私は犬が<b>大好き</b>だ。",
+      "hrkt": "わたし は いぬ が <b>だいすき</b> だ。",
+      "latn": "watashi ha inu ga <b>daisuki</b> da.",
+      "en": "I like dogs a lot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5635350.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05207A.mp3"
+    },
+    {
+      "ja": "私は夏が<b>大好き</b>。",
+      "hrkt": "わたし は なつ が <b>だいすき</b>。",
+      "latn": "watashi ha natsu ga <b>daisuki</b>.",
+      "en": "I just love summer.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5324432.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06694A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "回路",
+  "hrkt": "かいろ",
+  "latn": "kairo",
+  "en": "circuit",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00276A.mp3",
+  "sentences": [
+    {
+      "ja": "コンピュータの電子<b>回路</b>が故障した。",
+      "hrkt": "コンピュータ の でんし <b>かいろ</b> が こしょう した。",
+      "latn": "konpyu-ta no denshi <b>kairo</b> ga koshou shita.",
+      "en": "The computer's electric circuits have broken down.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00276A.mp3"
+    }
+  ]
+}

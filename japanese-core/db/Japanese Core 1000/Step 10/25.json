@@ -1,0 +1,26 @@
+{
+  "ja": "入院",
+  "hrkt": "にゅういん",
+  "latn": "nyuuin",
+  "en": "hospitalization",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06876A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、母が<b>入院</b>しました。",
+      "hrkt": "きのう、はは が <b>にゅういん</b> しました。",
+      "latn": "kinou,haha ga <b>nyuuin</b> shimashita.",
+      "en": "My mother was hospitalized yesterday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4039068.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06876A.mp3"
+    },
+    {
+      "ja": "父は<b>入院</b>が必要かもしれない。",
+      "hrkt": "ちち は <b>にゅういん</b> が ひつよう かも しれない。",
+      "latn": "chichi ha <b>nyuuin</b> ga hitsuyou kamo shirenai.",
+      "en": "My father may need to be hospitalized.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/941n906u4g.mp3"
+    }
+  ]
+}

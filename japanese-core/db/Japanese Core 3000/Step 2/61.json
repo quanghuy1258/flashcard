@@ -1,0 +1,18 @@
+{
+  "ja": "虫歯",
+  "hrkt": "むしば",
+  "latn": "mushiba",
+  "en": "cavity",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02662A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>虫歯</b>が痛い。",
+      "hrkt": "<b>むしば</b> が いたい。",
+      "latn": "<b>mushiba</b> ga itai.",
+      "en": "My cavity hurts.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/72b58l4v38.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02662A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "戸",
+  "hrkt": "と",
+  "latn": "to",
+  "en": "door, sliding door",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06193A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋の<b>戸</b>が開いています。",
+      "hrkt": "へや の <b>と</b> が あいて います。",
+      "latn": "heya no <b>to</b> ga aite imasu.",
+      "en": "The room's sliding door is open.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/63244mf7hc.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06193A.mp3"
+    },
+    {
+      "ja": "そこの<b>戸</b>を閉めてください。",
+      "hrkt": "そこ の <b>と</b> を しめて ください。",
+      "latn": "soko no <b>to</b> wo shimete kudasai.",
+      "en": "Please close the door there.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/344d7u73lk.mp3"
+    }
+  ]
+}

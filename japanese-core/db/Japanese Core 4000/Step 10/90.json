@@ -1,0 +1,18 @@
+{
+  "ja": "貝",
+  "hrkt": "かい",
+  "latn": "kai",
+  "en": "shellfish, shell",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02063A.mp3",
+  "sentences": [
+    {
+      "ja": "浜辺できれいな<b>貝</b>を拾いました。",
+      "hrkt": "はまべ で きれいな <b>かい</b> を ひろいました。",
+      "latn": "hamabe de kireina <b>kai</b> wo hiroimashita.",
+      "en": "I picked up a beautiful shell on the beach.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02063A.mp3"
+    }
+  ]
+}

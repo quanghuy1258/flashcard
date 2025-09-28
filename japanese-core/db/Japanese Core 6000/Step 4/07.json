@@ -1,0 +1,18 @@
+{
+  "ja": "家出",
+  "hrkt": "いえで",
+  "latn": "iede",
+  "en": "running away from home",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02406A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の息子が<b>家出</b>したそうよ。",
+      "hrkt": "かれ の むすこ が <b>いえで</b> した そう よ。",
+      "latn": "kare no musuko ga <b>iede</b> shita sou yo.",
+      "en": "I heard that his son ran away from home.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02406A.mp3"
+    }
+  ]
+}

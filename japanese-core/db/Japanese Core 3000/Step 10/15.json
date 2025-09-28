@@ -1,0 +1,18 @@
+{
+  "ja": "賞",
+  "hrkt": "しょう",
+  "latn": "shou",
+  "en": "prize, award",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00944A.mp3",
+  "sentences": [
+    {
+      "ja": "このデザインは数々の<b>賞</b>を受けています。",
+      "hrkt": "この デザイン は かずかず の <b>しょう</b> を うけて います。",
+      "latn": "kono dezain ha kazukazu no <b>shou</b> wo ukete imasu.",
+      "en": "This design has received numerous awards.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/045r6k6gpg.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00944A.mp3"
+    }
+  ]
+}

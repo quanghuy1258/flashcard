@@ -1,0 +1,26 @@
+{
+  "ja": "残す",
+  "hrkt": "のこす",
+  "latn": "nokosu",
+  "en": "leave, leave undone",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07079A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はメッセージを<b>残しました</b>。",
+      "hrkt": "かのじょ は メッセージ を <b>のこしました</b>。",
+      "latn": "kanojo ha messe-ji wo <b>nokoshimashita</b>.",
+      "en": "She left a message.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3908094.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07079A.mp3"
+    },
+    {
+      "ja": "彼は家族を<b>残して</b>アメリカに行った。",
+      "hrkt": "かれ は かぞく を <b>のこして</b> アメリカ に いった。",
+      "latn": "kare ha kazoku wo <b>nokoshite</b> amerika ni itta.",
+      "en": "He left his family behind and went to America.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b27v4q5c0o.mp3"
+    }
+  ]
+}

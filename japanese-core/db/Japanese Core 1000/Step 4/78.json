@@ -1,0 +1,26 @@
+{
+  "ja": "お手洗い",
+  "hrkt": "おてあらい",
+  "latn": "otearai",
+  "en": "rest room, lavatory",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01128A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>お手洗い</b>はどこですか。",
+      "hrkt": "<b>おてあらい</b> は どこ です か。",
+      "latn": "<b>otearai</b> ha doko desu ka.",
+      "en": "Where's the bathroom?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6211125.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01128A.mp3"
+    },
+    {
+      "ja": "<b>お手洗い</b>に行ってきます。",
+      "hrkt": "<b>おてあらい</b> に いって きます。",
+      "latn": "<b>otearai</b> ni itte kimasu.",
+      "en": "I'm going to the rest room.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/151s6u095g.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "正直",
+  "hrkt": "しょうじき",
+  "latn": "shoujiki",
+  "en": "honest, upright",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04168A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はとても<b>正直</b>だ。",
+      "hrkt": "かのじょ は とても <b>しょうじき</b> だ。",
+      "latn": "kanojo ha totemo <b>shoujiki</b> da.",
+      "en": "She's very honest.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4889237.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04168A.mp3"
+    },
+    {
+      "ja": "自分の気持ちを<b>正直</b>に言ってください。",
+      "hrkt": "じぶん の きもち を <b>しょうじき</b> に いって ください。",
+      "latn": "jibun no kimochi wo <b>shoujiki</b> ni itte kudasai.",
+      "en": "Please tell me how you really feel.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b3013eb9jc.mp3"
+    }
+  ]
+}

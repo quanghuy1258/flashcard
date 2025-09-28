@@ -1,0 +1,26 @@
+{
+  "ja": "コーラ",
+  "hrkt": "コーラ",
+  "latn": "ko-ra",
+  "en": "cola, coke",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03030A.mp3",
+  "sentences": [
+    {
+      "ja": "私の兄は<b>コーラ</b>が好きだ。",
+      "hrkt": "わたし の あに は <b>コーラ</b> が すき だ。",
+      "latn": "watashi no ani ha <b>ko-ra</b> ga suki da.",
+      "en": "My older brother likes cola.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3414683.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03030A.mp3"
+    },
+    {
+      "ja": "<b>コーラ</b>のMサイズとハンバーガーをください。",
+      "hrkt": "<b>コーラ</b> の M サイズ と ハンバーガー を ください。",
+      "latn": "<b>ko-ra</b> no M saizu to hanba-ga- wo kudasai.",
+      "en": "Could I have a medium-sized coke and a hamburger?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/0633fpddco.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "割合",
+  "hrkt": "わりあい",
+  "latn": "wariai",
+  "en": "rate, proportion",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00569A.mp3",
+  "sentences": [
+    {
+      "ja": "二つの薬品を1対3の<b>割合</b>で混ぜたんだ。",
+      "hrkt": "ふたつ の やくひん を 1 たい 3 の <b>わりあい</b> で まぜた ん だ。",
+      "latn": "futatsu no yakuhin wo 1 tai 3 no <b>wariai</b> de mazeta n da.",
+      "en": "I mixed the two chemicals at a ratio of 1 to 3.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00569A.mp3"
+    }
+  ]
+}

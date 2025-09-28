@@ -1,0 +1,18 @@
+{
+  "ja": "非常",
+  "hrkt": "ひじょう",
+  "latn": "hijou",
+  "en": "emergency",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00790A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>非常</b>事態です。",
+      "hrkt": "<b>ひじょう</b> じたい です。",
+      "latn": "<b>hijou</b> jitai desu.",
+      "en": "We're in a state of emergency.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a43aeac57s.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00790A.mp3"
+    }
+  ]
+}

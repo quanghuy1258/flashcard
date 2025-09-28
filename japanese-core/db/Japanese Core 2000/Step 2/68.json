@@ -1,0 +1,26 @@
+{
+  "ja": "招く",
+  "hrkt": "まねく",
+  "latn": "maneku",
+  "en": "invite",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08784A.mp3",
+  "sentences": [
+    {
+      "ja": "両親を食事に<b>招いた</b>。",
+      "hrkt": "りょうしん を しょくじ に <b>まねいた</b>。",
+      "latn": "ryoushin wo shokuji ni <b>maneita</b>.",
+      "en": "I invited my parents for a meal.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/815256.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08784A.mp3"
+    },
+    {
+      "ja": "私は友達のホームパーティーに<b>招かれました</b>。",
+      "hrkt": "わたし は ともだち の ホーム パーティー に <b>まねかれました</b>。",
+      "latn": "watashi ha tomodachi no ho-mu pa-ti- ni <b>manekaremashita</b>.",
+      "en": "I was invited to a friend's house party.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a52t2qabmk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "敵",
+  "hrkt": "てき",
+  "latn": "teki",
+  "en": "enemy, foe",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03092A.mp3",
+  "sentences": [
+    {
+      "ja": "あそこに<b>敵</b>がひそんでいる。",
+      "hrkt": "あそこ に <b>てき</b> が ひそんで いる。",
+      "latn": "asoko ni <b>teki</b> ga hisonde iru.",
+      "en": "The enemy is lurking there.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a171497ro4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03092A.mp3"
+    }
+  ]
+}

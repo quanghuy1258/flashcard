@@ -1,0 +1,18 @@
+{
+  "ja": "区分",
+  "hrkt": "くぶん",
+  "latn": "kubun",
+  "en": "division, segment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00628A.mp3",
+  "sentences": [
+    {
+      "ja": "この表は年齢<b>区分</b>ごとの人口を表しています。",
+      "hrkt": "この ひょう は ねんれい <b>くぶん</b> ごと の じんこう を あらわして います。",
+      "latn": "kono hyou ha nenrei <b>kubun</b> goto no jinkou wo arawashite imasu.",
+      "en": "This table shows the population divided into age groups.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00628A.mp3"
+    }
+  ]
+}

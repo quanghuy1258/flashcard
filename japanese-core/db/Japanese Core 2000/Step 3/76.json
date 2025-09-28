@@ -1,0 +1,26 @@
+{
+  "ja": "胃",
+  "hrkt": "い",
+  "latn": "i",
+  "en": "stomach",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00335A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日から<b>胃</b>が痛い。",
+      "hrkt": "きのう から <b>い</b> が いたい。",
+      "latn": "kinou kara <b>i</b> ga itai.",
+      "en": "I've had a stomach ache since yesterday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4545624.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00335A.mp3"
+    },
+    {
+      "ja": "たくさん食べて<b>胃</b>が苦しいです。",
+      "hrkt": "たくさん たべて <b>い</b> が くるしい です。",
+      "latn": "takusan tabete <b>i</b> ga kurushii desu.",
+      "en": "I ate a lot, so I feel full in the stomach.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/850kc34u0g.mp3"
+    }
+  ]
+}

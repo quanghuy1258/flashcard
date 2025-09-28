@@ -1,0 +1,18 @@
+{
+  "ja": "高原",
+  "hrkt": "こうげん",
+  "latn": "kougen",
+  "en": "plateau, highland",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01936A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>高原</b>には気持ちのいい風が吹いていたよ。",
+      "hrkt": "<b>こうげん</b>  に は きもち の いい かぜ が ふいて いた よ。",
+      "latn": "<b>kougen</b>  ni ha kimochi no ii kaze ga fuite ita yo.",
+      "en": "A pleasant breeze was blowing across the plateau.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01936A.mp3"
+    }
+  ]
+}

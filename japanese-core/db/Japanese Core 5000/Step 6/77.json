@@ -1,0 +1,18 @@
+{
+  "ja": "浮かぶ",
+  "hrkt": "うかぶ",
+  "latn": "ukabu",
+  "en": "float (on a surface)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00374A.mp3",
+  "sentences": [
+    {
+      "ja": "沖にボートが<b>浮かんで</b>います。",
+      "hrkt": "おき に ボート が <b>うかんで</b> います。",
+      "latn": "oki ni bo-to ga <b>ukande</b> imasu.",
+      "en": "The boat is floating off the coast.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00374A.mp3"
+    }
+  ]
+}

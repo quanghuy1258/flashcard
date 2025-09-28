@@ -1,0 +1,26 @@
+{
+  "ja": "冗談",
+  "hrkt": "じょうだん",
+  "latn": "joudan",
+  "en": "joke",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04202A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>冗談</b>は止めてください。",
+      "hrkt": "<b>じょうだん</b> は やめて ください。",
+      "latn": "<b>joudan</b> ha yamete kudasai.",
+      "en": "Please stop joking.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5357600.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04202A.mp3"
+    },
+    {
+      "ja": "彼はいつも<b>冗談</b>ばかり言います。",
+      "hrkt": "かれ は いつも <b>じょうだん</b> ばかり いいます。",
+      "latn": "kare ha itsumo <b>joudan</b> bakari iimasu.",
+      "en": "He is always telling jokes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f24b8q6dqs.mp3"
+    }
+  ]
+}

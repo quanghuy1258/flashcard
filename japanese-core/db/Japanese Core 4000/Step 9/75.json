@@ -1,0 +1,18 @@
+{
+  "ja": "マラソン",
+  "hrkt": "マラソン",
+  "latn": "marason",
+  "en": "marathon",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01497A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>マラソン</b>に出場したよ。",
+      "hrkt": "かれ は <b>マラソン</b> に しゅつじょうした よ。",
+      "latn": "kare ha <b>marason</b> ni shutsujoushita yo.",
+      "en": "He participated in the marathon.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01497A.mp3"
+    }
+  ]
+}

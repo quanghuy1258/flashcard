@@ -1,0 +1,26 @@
+{
+  "ja": "悩む",
+  "hrkt": "なやむ",
+  "latn": "nayamu",
+  "en": "be troubled, suffer",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00839A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は受験のことで<b>悩んで</b>います。",
+      "hrkt": "かれ は じゅけん の こと で <b>なやんで</b> います。",
+      "latn": "kare ha juken no koto de <b>nayande</b> imasu.",
+      "en": "He's worried about entrance examinations.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3816944.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00839A.mp3?1220196808"
+    },
+    {
+      "ja": "今度の夏休み、どこに行くか<b>悩む</b>なあ。",
+      "hrkt": "こんど の なつやすみ、どこ に いく か <b>なやむ</b> なあ。",
+      "latn": "kondo no natsuyasumi,doko ni iku ka <b>nayamu</b> naa.",
+      "en": "I'm having trouble deciding where to go this summer.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/046ier11h0.mp3"
+    }
+  ]
+}

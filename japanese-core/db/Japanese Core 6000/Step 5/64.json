@@ -1,0 +1,18 @@
+{
+  "ja": "疑い",
+  "hrkt": "うたがい",
+  "latn": "utagai",
+  "en": "doubt, suspicion",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00342A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は盗みの<b>疑い</b>をかけられたの。",
+      "hrkt": "かれ は ぬすみ の <b>うたがい</b> を かけられた の。",
+      "latn": "kare ha nusumi no <b>utagai</b> wo kakerareta no.",
+      "en": "He was suspected of theft.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00342A.mp3"
+    }
+  ]
+}

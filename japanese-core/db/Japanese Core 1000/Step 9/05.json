@@ -1,0 +1,26 @@
+{
+  "ja": "受け取る",
+  "hrkt": "うけとる",
+  "latn": "uketoru",
+  "en": "receive, get",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00676A.mp3",
+  "sentences": [
+    {
+      "ja": "彼からメールを<b>受け取りました</b>。",
+      "hrkt": "かれ から メール を <b>うけとりました</b>。",
+      "latn": "kare kara me-ru wo <b>uketorimashita</b>.",
+      "en": "I got an email from him.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4045949.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00676A.mp3"
+    },
+    {
+      "ja": "昨日、手紙を<b>受け取りました</b>。",
+      "hrkt": "きのう、てがみ を <b>うけとりました</b>。",
+      "latn": "kinou,tegami wo <b>uketorimashita</b>.",
+      "en": "Yesterday I received the letter.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/533ccu8f78.mp3"
+    }
+  ]
+}

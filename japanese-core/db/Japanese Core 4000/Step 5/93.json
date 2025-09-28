@@ -1,0 +1,18 @@
+{
+  "ja": "典型",
+  "hrkt": "てんけい",
+  "latn": "tenkei",
+  "en": "model, typical",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01787A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は職人の<b>典型</b>です。",
+      "hrkt": "かれ は しょくにん の <b>てんけい</b> です。",
+      "latn": "kare ha shokunin no <b>tenkei</b> desu.",
+      "en": "He's a typical artisan.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01787A.mp3"
+    }
+  ]
+}

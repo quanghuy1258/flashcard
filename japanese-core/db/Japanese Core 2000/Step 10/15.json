@@ -1,0 +1,26 @@
+{
+  "ja": "示す",
+  "hrkt": "しめす",
+  "latn": "shimesu",
+  "en": "show, indicate",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03873A.mp3",
+  "sentences": [
+    {
+      "ja": "あのプレゼンテーションは彼女の能力が高いことを<b>示して</b>いた。",
+      "hrkt": "あの プレゼンテーション は かのじょ の のうりょく が たかい こと を <b>しめして</b> いた。",
+      "latn": "ano purezente-shon ha kanojo no nouryoku ga takai koto wo <b>shimeshite</b> ita.",
+      "en": "That presentation demonstrates her strong capabilities.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/c50v3385a0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/55bvf3f5oc.mp3"
+    },
+    {
+      "ja": "その事件は、この地域が安全ではないことを<b>示して</b>います。",
+      "hrkt": "その じけん は、この ちいき が あんぜん で は ない こと を <b>しめして</b> います。",
+      "latn": "sono jiken ha,kono chiiki ga anzen de ha nai koto wo <b>shimeshite</b> imasu.",
+      "en": "The incident indicates that this area is not safe.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c54cb0a80g.mp3"
+    }
+  ]
+}

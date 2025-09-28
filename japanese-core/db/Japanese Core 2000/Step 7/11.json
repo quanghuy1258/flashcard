@@ -1,0 +1,26 @@
+{
+  "ja": "バスケットボール",
+  "hrkt": "バスケットボール",
+  "latn": "basukettobo-ru",
+  "en": "basketball",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07314A.mp3",
+  "sentences": [
+    {
+      "ja": "姉は<b>バスケットボール</b>の選手です。",
+      "hrkt": "あね は <b>バスケットボール</b> の せんしゅ です。",
+      "latn": "ane ha <b>basukettobo-ru</b> no senshu desu.",
+      "en": "My big sister's a basketball player.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/57937.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07314A.mp3"
+    },
+    {
+      "ja": "彼は背が低いですが、<b>バスケットボール</b>が上手です。",
+      "hrkt": "かれ は せ が ひくい です が、<b>バスケットボール</b> が じょうず です。",
+      "latn": "kare ha se ga hikui desu ga,<b>basukettobo-ru</b> ga jouzu desu.",
+      "en": "He's short but good at basketball.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/05dq585lik.mp3"
+    }
+  ]
+}

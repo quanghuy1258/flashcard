@@ -1,0 +1,18 @@
+{
+  "ja": "木の葉",
+  "hrkt": "このは",
+  "latn": "konoha",
+  "en": "tree leaves",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02772A.mp3",
+  "sentences": [
+    {
+      "ja": "秋には<b>木の葉</b>が赤くなります。",
+      "hrkt": "あき に は <b>このは</b> が あかく なります。",
+      "latn": "aki ni ha <b>konoha</b> ga akaku narimasu.",
+      "en": "Tree leaves turn red in autumn.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02772A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "殴る",
+  "hrkt": "なぐる",
+  "latn": "naguru",
+  "en": "hit, punch",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02030A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は思わず友人を<b>殴った</b>の。",
+      "hrkt": "かれ は おもわず ゆうじん を <b>なぐった</b> の。",
+      "latn": "kare ha omowazu yuujin wo <b>nagutta</b> no.",
+      "en": "He punched his friend without thinking.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/453kfjd428.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02030A.mp3"
+    }
+  ]
+}

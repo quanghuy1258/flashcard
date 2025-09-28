@@ -1,0 +1,18 @@
+{
+  "ja": "調味料",
+  "hrkt": "ちょうみりょう",
+  "latn": "choumiryou",
+  "en": "seasoning",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02932A.mp3",
+  "sentences": [
+    {
+      "ja": "塩、コショウはよく使われる<b>調味料</b>です。",
+      "hrkt": "しお、コショウ は よく つかわれる <b>ちょうみりょう</b> です。",
+      "latn": "shio,koshou ha yoku tsukawareru <b>choumiryou</b> desu.",
+      "en": "Salt and pepper are commonly used seasonings.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02932A.mp3"
+    }
+  ]
+}

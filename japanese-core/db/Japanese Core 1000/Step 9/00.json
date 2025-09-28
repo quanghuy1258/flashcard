@@ -1,0 +1,26 @@
+{
+  "ja": "うまい",
+  "hrkt": "うまい",
+  "latn": "umai",
+  "en": "delicious, tasty (used by male)",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00757A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>うまい</b>寿司屋を見つけたよ。",
+      "hrkt": "<b>うまい</b> すし や を みつけた よ。",
+      "latn": "<b>umai</b> sushi ya wo mitsuketa yo.",
+      "en": "I found a good sushi restaurant.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5210138.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00757A.mp3"
+    },
+    {
+      "ja": "あそこのハンバーガーはすごく<b>うまい</b>。",
+      "hrkt": "あそこ の ハンバーガー は すごく <b>うまい</b>。",
+      "latn": "asoko no hanba-ga- ha sugoku <b>umai</b>.",
+      "en": "The hamburgers there are very delicious.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/168e5v2lhs.mp3"
+    }
+  ]
+}

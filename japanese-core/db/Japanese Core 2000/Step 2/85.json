@@ -1,0 +1,26 @@
+{
+  "ja": "ベッド",
+  "hrkt": "ベッド",
+  "latn": "beddo",
+  "en": "bed",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08323A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>ベッド</b>で寝ています。",
+      "hrkt": "かれ は <b>ベッド</b> で ねて います。",
+      "latn": "kare ha <b>beddo</b> de nete imasu.",
+      "en": "He's sleeping in the bed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5501411.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08323A.mp3"
+    },
+    {
+      "ja": "<b>ベッド</b>で赤ちゃんが眠っています。",
+      "hrkt": "<b>ベッド</b> で あかちゃん が ねむって います。",
+      "latn": "<b>beddo</b> de akachan ga nemutte imasu.",
+      "en": "The baby's sleeping in the bed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5363353.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00047A.mp3"
+    }
+  ]
+}

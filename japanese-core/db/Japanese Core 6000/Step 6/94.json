@@ -1,0 +1,18 @@
+{
+  "ja": "文系",
+  "hrkt": "ぶんけい",
+  "latn": "bunkei",
+  "en": "liberal arts, humanities",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03253A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>文系</b>です。",
+      "hrkt": "かのじょ は <b>ぶんけい</b> です。",
+      "latn": "kanojo ha <b>bunkei</b> desu.",
+      "en": "She's in the humanities department.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03253A.mp3"
+    }
+  ]
+}

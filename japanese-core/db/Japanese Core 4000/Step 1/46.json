@@ -1,0 +1,18 @@
+{
+  "ja": "生物",
+  "hrkt": "せいぶつ",
+  "latn": "seibutsu",
+  "en": "living creature, organism",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03693A.mp3",
+  "sentences": [
+    {
+      "ja": "海の底には不思議な<b>生物</b>がたくさんいるよ。",
+      "hrkt": "うみ の そこ に は ふしぎな <b>せいぶつ</b> が たくさん いる よ。",
+      "latn": "umi no soko ni ha fushigina <b>seibutsu</b> ga takusan iru yo.",
+      "en": "There are a lot of mysterious creatures at the bottom of the sea.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/042n5p52fg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03693A.mp3"
+    }
+  ]
+}

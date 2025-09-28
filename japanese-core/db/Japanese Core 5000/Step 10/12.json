@@ -1,0 +1,18 @@
+{
+  "ja": "推測",
+  "hrkt": "すいそく",
+  "latn": "suisoku",
+  "en": "conjecture, guess",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01545A.mp3",
+  "sentences": [
+    {
+      "ja": "それは彼の<b>推測</b>にすぎない。",
+      "hrkt": "それ は かれ の <b>すいそく</b> に すぎない。",
+      "latn": "sore ha kare no <b>suisoku</b> ni suginai.",
+      "en": "It's nothing more than his guess.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01545A.mp3"
+    }
+  ]
+}

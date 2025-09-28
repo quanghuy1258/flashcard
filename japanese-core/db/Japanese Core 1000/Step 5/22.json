@@ -1,0 +1,26 @@
+{
+  "ja": "多く",
+  "hrkt": "おおく",
+  "latn": "ooku",
+  "en": "much, largely",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00974A.mp3",
+  "sentences": [
+    {
+      "ja": "毎年<b>多く</b>の人が海外へ旅行する。",
+      "hrkt": "まいとし <b>おおく</b> の ひと が かいがい へ りょこう する。",
+      "latn": "maitoshi <b>ooku</b> no hito ga kaigai he ryokou suru.",
+      "en": "A lot of people travel abroad every year.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3335477.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00974A.mp3"
+    },
+    {
+      "ja": "私はその事故について、<b>多く</b>は知りません。",
+      "hrkt": "わたし は その じこ について、 <b>おおく</b> は しりません。",
+      "latn": "watashi ha sono jiko nitsuite, <b>ooku</b> ha shirimasen.",
+      "en": "I don't know much about the accident.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/758aet0bp4.mp3"
+    }
+  ]
+}

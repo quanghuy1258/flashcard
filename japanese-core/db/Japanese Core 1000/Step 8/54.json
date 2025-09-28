@@ -1,0 +1,26 @@
+{
+  "ja": "塩",
+  "hrkt": "しお",
+  "latn": "shio",
+  "en": "salt",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03596A.mp3",
+  "sentences": [
+    {
+      "ja": "もうちょっと<b>塩</b>を入れて。",
+      "hrkt": "もう ちょっと <b>しお</b> を いれて 。",
+      "latn": "mou chotto <b>shio</b> wo irete .",
+      "en": "Add a little more salt.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/552751.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03596A.mp3"
+    },
+    {
+      "ja": "<b>塩</b>を取ってください。",
+      "hrkt": "<b>しお</b> を とって ください。",
+      "latn": "<b>shio</b> wo totte kudasai.",
+      "en": "Please pass me the salt.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/213k6kcp90.mp3"
+    }
+  ]
+}

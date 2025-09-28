@@ -1,0 +1,18 @@
+{
+  "ja": "生死",
+  "hrkt": "せいし",
+  "latn": "seishi",
+  "en": "life and death",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03688A.mp3",
+  "sentences": [
+    {
+      "ja": "これは人の<b>生死</b>にかかわる問題です。",
+      "hrkt": "これ は ひと の <b>せいし</b> に かかわる もんだい です。",
+      "latn": "kore ha hito no <b>seishi</b> ni kakawaru mondai desu.",
+      "en": "This is a matter of life and death.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03688A.mp3"
+    }
+  ]
+}

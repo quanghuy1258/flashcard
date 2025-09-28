@@ -1,0 +1,18 @@
+{
+  "ja": "足し算",
+  "hrkt": "たしざん",
+  "latn": "tashizan",
+  "en": "addition (math)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05329A.mp3",
+  "sentences": [
+    {
+      "ja": "娘は学校で<b>足し算</b>を習った。",
+      "hrkt": "むすめ は がっこう で <b>たしざん</b> を ならった。",
+      "latn": "musume ha gakkou de <b>tashizan</b> wo naratta.",
+      "en": "My daughter learned addition in school.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05329A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "制限",
+  "hrkt": "せいげん",
+  "latn": "seigen",
+  "en": "restriction, limit",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00457A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は食事を<b>制限</b>しています。",
+      "hrkt": "かのじょ は しょくじ を <b>せいげん</b> して います。",
+      "latn": "kanojo ha shokuji wo <b>seigen</b> shite imasu.",
+      "en": "She is restricting her diet.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/443r04dfas.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00457A.mp3"
+    }
+  ]
+}

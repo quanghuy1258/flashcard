@@ -1,0 +1,18 @@
+{
+  "ja": "ブレーキ",
+  "hrkt": "ブレーキ",
+  "latn": "bure-ki",
+  "en": "brake",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01236A.mp3",
+  "sentences": [
+    {
+      "ja": "赤信号で<b>ブレーキ</b>を踏んだの。",
+      "hrkt": "あかしんごう で <b>ブレーキ</b> を ふんだ の。",
+      "latn": "akashingou de <b>bure-ki</b> wo funda no.",
+      "en": "I stepped on the brake at the red light.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01236A.mp3"
+    }
+  ]
+}

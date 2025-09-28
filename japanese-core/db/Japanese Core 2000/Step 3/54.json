@@ -1,0 +1,26 @@
+{
+  "ja": "申し込む",
+  "hrkt": "もうしこむ",
+  "latn": "moushikomu",
+  "en": "apply, sign up",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09241A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はそのセミナーに<b>申し込んだ</b>。",
+      "hrkt": "かのじょ は その セミナー に <b>もうしこんだ</b>。",
+      "latn": "kanojo ha sono semina- ni <b>moushikonda</b>.",
+      "en": "She registered for that workshop.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4069501.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09241A.mp3"
+    },
+    {
+      "ja": "日本語の試験を受けるなら、来月5日までに<b>申し込んで</b>ください。",
+      "hrkt": "にほん ご の しけん を うける なら、らいげつ いつか まで に <b>もうしこんで</b> ください。",
+      "latn": "nihon go no shiken wo ukeru nara,raigetsu itsuka made ni <b>moushikonde</b> kudasai.",
+      "en": "If you are going to take the Japanese test, please apply before the 5th of the next month.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/531v6ff17k.mp3"
+    }
+  ]
+}

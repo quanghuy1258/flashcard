@@ -1,0 +1,26 @@
+{
+  "ja": "色々",
+  "hrkt": "いろいろ",
+  "latn": "iroiro",
+  "en": "a variety of",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00615A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>いろいろ</b>なことを知っている。",
+      "hrkt": "かれ は <b>いろいろ</b>な こと を しって いる。",
+      "latn": "kare ha <b>iroiro</b>na koto wo shitte iru.",
+      "en": "He knows a variety of things.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4218361.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00615A.mp3"
+    },
+    {
+      "ja": "その店は<b>いろいろ</b>な品物を売っている。",
+      "hrkt": "その みせ は <b>いろいろ</b>な しなもの を うって いる。",
+      "latn": "sono mise ha <b>iroiro</b>na shinamono wo utte iru.",
+      "en": "The shop sells a variety of products.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5703601.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03808A.mp3"
+    }
+  ]
+}

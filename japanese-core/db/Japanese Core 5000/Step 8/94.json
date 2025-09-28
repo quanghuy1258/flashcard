@@ -1,0 +1,18 @@
+{
+  "ja": "値下げ",
+  "hrkt": "ねさげ",
+  "latn": "nesage",
+  "en": "price reduction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01513A.mp3",
+  "sentences": [
+    {
+      "ja": "電話料金が<b>値下げ</b>された。",
+      "hrkt": "でんわ りょうきん が <b>ねさげ</b> された。",
+      "latn": "denwa ryoukin ga <b>nesage</b> sareta.",
+      "en": "Phone charge has been reduced.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01513A.mp3"
+    }
+  ]
+}

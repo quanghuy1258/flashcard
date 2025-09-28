@@ -1,0 +1,26 @@
+{
+  "ja": "テキスト",
+  "hrkt": "テキスト",
+  "latn": "tekisuto",
+  "en": "text, textbook",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06048A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>テキスト</b>を読んでください。",
+      "hrkt": "<b>テキスト</b> を よんで ください。",
+      "latn": "<b>tekisuto</b> wo yonde kudasai.",
+      "en": "Please read the textbook.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5377826.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06048A.mp3"
+    },
+    {
+      "ja": "<b>テキスト</b>の20ページを開いてください。",
+      "hrkt": "<b>テキスト</b> の 20 ページ を ひらいて ください。",
+      "latn": "<b>tekisuto</b> no 20 pe-ji wo hiraite kudasai.",
+      "en": "Please open to page 20 of the textbook.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d54e4kends.mp3"
+    }
+  ]
+}

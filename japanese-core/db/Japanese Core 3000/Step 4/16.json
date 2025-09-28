@@ -1,0 +1,26 @@
+{
+  "ja": "好調",
+  "hrkt": "こうちょう",
+  "latn": "kouchou",
+  "en": "good condition",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00742A.mp3",
+  "sentences": [
+    {
+      "ja": "今月はエアコンの売り上げが<b>好調</b>です。",
+      "hrkt": "こんげつ は エアコン の うりあげ が <b>こうちょう</b> です。",
+      "latn": "kongetsu ha eakon no uriage ga <b>kouchou</b> desu.",
+      "en": "Sales of air conditioners are good this month.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e5694q9vk4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00742A.mp3"
+    },
+    {
+      "ja": "その選手は今シーズンも<b>好調</b>だね。",
+      "hrkt": "その せんしゅ は こん シーズン も <b>こうちょう</b> だ ね。",
+      "latn": "sono senshu ha kon shi-zun mo <b>kouchou</b> da ne.",
+      "en": "That player is good this season as well.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c5ed8ba12g.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01073A.mp3"
+    }
+  ]
+}

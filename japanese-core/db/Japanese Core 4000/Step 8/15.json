@@ -1,0 +1,18 @@
+{
+  "ja": "先端",
+  "hrkt": "せんたん",
+  "latn": "sentan",
+  "en": "end, tip",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01106A.mp3",
+  "sentences": [
+    {
+      "ja": "棒の<b>先端</b>を持ってください。",
+      "hrkt": "ぼう の <b>せんたん</b> を もって ください 。",
+      "latn": "bou no <b>sentan</b> wo motte kudasai .",
+      "en": "Please hold the end of the stick.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01106A.mp3"
+    }
+  ]
+}

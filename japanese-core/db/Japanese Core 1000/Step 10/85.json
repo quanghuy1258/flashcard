@@ -1,0 +1,26 @@
+{
+  "ja": "入学",
+  "hrkt": "にゅうがく",
+  "latn": "nyuugaku",
+  "en": "enter a school, matriculate",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06878A.mp3",
+  "sentences": [
+    {
+      "ja": "妹は九月にアメリカの大学に<b>入学</b>します。",
+      "hrkt": "いもうと は く がつ に アメリカ の だいがく に <b>にゅうがく</b> します。",
+      "latn": "imouto ha ku gatsu ni amerika no daigaku ni <b>nyuugaku</b> shimasu.",
+      "en": "My little sister's entering college in the United States in September.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4092253.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06878A.mp3"
+    },
+    {
+      "ja": "四月に大学に<b>入学</b>しました。",
+      "hrkt": "し がつ に だいがく に <b>にゅうがく</b> しました。",
+      "latn": "shi gatsu ni daigaku ni <b>nyuugaku</b> shimashita.",
+      "en": "I entered my university in April.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4879391.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03561A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "人通り",
+  "hrkt": "ひとどおり",
+  "latn": "hitodoori",
+  "en": "pedestrian traffic",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02619A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>人通り</b>が激しいね。",
+      "hrkt": "ここ は <b>ひとどおり</b> が はげしい ね。",
+      "latn": "koko ha <b>hitodoori</b> ga hageshii ne.",
+      "en": "A lot of people pass through here.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02619A.mp3"
+    }
+  ]
+}

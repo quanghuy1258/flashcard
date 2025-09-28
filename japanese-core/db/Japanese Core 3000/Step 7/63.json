@@ -1,0 +1,18 @@
+{
+  "ja": "明日",
+  "hrkt": "あす",
+  "latn": "asu",
+  "en": "tomorrow (rather formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01432A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>明日</b>もいい天気になりそうだね。",
+      "hrkt": "<b>あす</b> も いい てんき に なり そうだ ね。",
+      "latn": "<b>asu</b> mo ii tenki ni nari souda ne.",
+      "en": "It looks like the weather is going to be good tomorrow, too.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/1555772lmg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01432A.mp3"
+    }
+  ]
+}

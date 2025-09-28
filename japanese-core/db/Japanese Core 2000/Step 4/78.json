@@ -1,0 +1,26 @@
+{
+  "ja": "迫る",
+  "hrkt": "せまる",
+  "latn": "semaru",
+  "en": "close in on, approach",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04838A.mp3",
+  "sentences": [
+    {
+      "ja": "締め切りが<b>迫って</b>います。",
+      "hrkt": "しめきり が <b>せまって</b> います。",
+      "latn": "shimekiri ga <b>sematte</b> imasu.",
+      "en": "The deadline is approaching.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5296132.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04838A.mp3"
+    },
+    {
+      "ja": "スターウォーズの映画の公開が明日に<b>迫って</b>います。",
+      "hrkt": "スターウォーズ の えいが の こうかい が あした に <b>せまって</b> います。",
+      "latn": "suta-uo-zu no eiga no koukai ga ashita ni <b>sematte</b> imasu.",
+      "en": "The release of the Star Wars movie is just a day away.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/446l5cetao.mp3"
+    }
+  ]
+}

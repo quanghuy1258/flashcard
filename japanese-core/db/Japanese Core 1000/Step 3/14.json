@@ -1,0 +1,26 @@
+{
+  "ja": "背",
+  "hrkt": "せ",
+  "latn": "se",
+  "en": "height, stature",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04656A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>背</b>が高い。",
+      "hrkt": "かのじょ は <b>せ</b> が たかい。",
+      "latn": "kanojo ha <b>se</b> ga takai.",
+      "en": "She's tall.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4130236.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04656A.mp3"
+    },
+    {
+      "ja": "彼は<b>背</b>が低い。",
+      "hrkt": "かれ は <b>せ</b> が ひくい。",
+      "latn": "kare ha <b>se</b> ga hikui.",
+      "en": "He's short.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4558890.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07663A.mp3"
+    }
+  ]
+}

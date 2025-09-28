@@ -1,0 +1,18 @@
+{
+  "ja": "地点",
+  "hrkt": "ちてん",
+  "latn": "chiten",
+  "en": "spot, point",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01292A.mp3",
+  "sentences": [
+    {
+      "ja": "もうすぐ目標の<b>地点</b>に到達します。",
+      "hrkt": "もうすぐ もくひょう の <b>ちてん</b> に とうたつ します。",
+      "latn": "mousugu mokuhyou no <b>chiten</b> ni toutatsu shimasu.",
+      "en": "We'll soon be arriving at our destination.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01292A.mp3"
+    }
+  ]
+}

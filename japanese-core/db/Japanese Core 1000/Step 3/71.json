@@ -1,0 +1,26 @@
+{
+  "ja": "触る",
+  "hrkt": "さわる",
+  "latn": "sawaru",
+  "en": "touch, feel",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03519A.mp3",
+  "sentences": [
+    {
+      "ja": "絵に<b>触らないで</b>ください。",
+      "hrkt": "え に <b>さわらないで</b> ください。",
+      "latn": "e ni <b>sawaranaide</b> kudasai.",
+      "en": "Please don't touch the painting.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6304214.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03519A.mp3"
+    },
+    {
+      "ja": "汚い手で赤ちゃんに<b>触らないで</b>。",
+      "hrkt": "きたない て で あかちゃん に <b>さわらないで</b>。",
+      "latn": "kitanai te de akachan ni <b>sawaranaide</b>.",
+      "en": "Don't touch the baby with your dirty hands.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/757j48euuc.mp3"
+    }
+  ]
+}

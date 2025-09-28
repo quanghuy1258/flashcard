@@ -1,0 +1,18 @@
+{
+  "ja": "飲み込む",
+  "hrkt": "のみこむ",
+  "latn": "nomikomu",
+  "en": "swallow, gulp down",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02658A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は薬を一気に<b>飲み込んだ</b>。",
+      "hrkt": "かれ は くすり を いっき に <b>のみこんだ</b>。",
+      "latn": "kare ha kusuri wo ikki ni <b>nomikonda</b>.",
+      "en": "He swallowed all the medicine in one go.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02658A.mp3"
+    }
+  ]
+}

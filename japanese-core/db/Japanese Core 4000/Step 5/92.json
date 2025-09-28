@@ -1,0 +1,18 @@
+{
+  "ja": "笑い",
+  "hrkt": "わらい",
+  "latn": "warai",
+  "en": "laughter, laugh",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01688A.mp3",
+  "sentences": [
+    {
+      "ja": "あの家は<b>笑い</b>が絶えないね。",
+      "hrkt": "あの いえ は <b>わらい</b> が たえない ね。",
+      "latn": "ano ie ha <b>warai</b> ga taenai ne.",
+      "en": "I can always hear laughter from that house.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01688A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "だぶだぶ",
+  "hrkt": "だぶだぶ",
+  "latn": "dabudabu",
+  "en": "baggy, too big",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03363A.mp3",
+  "sentences": [
+    {
+      "ja": "この服は大き過ぎて<b>だぶだぶ</b>です。",
+      "hrkt": "この ふく は おおき すぎて <b>だぶだぶ</b> です。",
+      "latn": "kono fuku ha ooki sugite <b>dabudabu</b> desu.",
+      "en": "These clothes are too big and baggy.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/15e16j33b8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03363A.mp3"
+    }
+  ]
+}

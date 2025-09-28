@@ -1,0 +1,26 @@
+{
+  "ja": "青",
+  "hrkt": "あお",
+  "latn": "ao",
+  "en": "blue, green",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00033A.mp3",
+  "sentences": [
+    {
+      "ja": "私の好きな色は<b>青</b>です。",
+      "hrkt": "わたし の すきな いろ は <b>あお</b> です。",
+      "latn": "watashi no sukina iro ha <b>ao</b> desu.",
+      "en": "My favorite color is blue.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5583843.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00033A.mp3"
+    },
+    {
+      "ja": "信号が<b>青</b>に変わりました。",
+      "hrkt": "しんごう が <b>あお</b> に かわりました。",
+      "latn": "shingou ga <b>ao</b> ni kawarimashita.",
+      "en": "The traffic light turned green.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3866993.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01863A.mp3"
+    }
+  ]
+}

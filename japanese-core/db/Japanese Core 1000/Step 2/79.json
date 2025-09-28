@@ -1,0 +1,26 @@
+{
+  "ja": "乗る",
+  "hrkt": "のる",
+  "latn": "noru",
+  "en": "ride, take",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07132A.mp3",
+  "sentences": [
+    {
+      "ja": "駅からはタクシーに<b>乗って</b>ください。",
+      "hrkt": "えき から は タクシー に <b>のって</b> ください。",
+      "latn": "eki kara ha takushi- ni <b>notte</b> kudasai.",
+      "en": "Please take a taxi from the station.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5704470.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07132A.mp3"
+    },
+    {
+      "ja": "私たちは船に<b>乗った</b>。",
+      "hrkt": "わたし たち は ふね に <b>のった</b>。",
+      "latn": "watashi tachi ha fune ni <b>notta</b>.",
+      "en": "We got on the ship.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4723979.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08138A.mp3"
+    }
+  ]
+}

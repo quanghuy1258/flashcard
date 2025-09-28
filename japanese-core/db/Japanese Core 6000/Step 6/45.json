@@ -1,0 +1,18 @@
+{
+  "ja": "両面",
+  "hrkt": "りょうめん",
+  "latn": "ryoumen",
+  "en": "both faces, both sides",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03963A.mp3",
+  "sentences": [
+    {
+      "ja": "紙の<b>両面</b>に字が書かれていたよ。",
+      "hrkt": "かみ の <b>りょうめん</b> に じ が かかれて いた よ。",
+      "latn": "kami no <b>ryoumen</b> ni ji ga kakarete ita yo.",
+      "en": "There was writing on both sides of the paper.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03963A.mp3"
+    }
+  ]
+}

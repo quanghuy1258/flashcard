@@ -1,0 +1,18 @@
+{
+  "ja": "ほうき",
+  "hrkt": "ほうき",
+  "latn": "houki",
+  "en": "broom",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03870A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ほうき</b>で庭を掃除しました。",
+      "hrkt": "<b>ほうき</b> で にわ を そうじ しました。",
+      "latn": "<b>houki</b> de niwa wo souji shimashita.",
+      "en": "I cleaned up the yard with a broom.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03870A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "部長",
+  "hrkt": "ぶちょう",
+  "latn": "buchou",
+  "en": "department head",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00355A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>部長</b>に仕事の相談をしたんだ。",
+      "hrkt": "<b>ぶちょう</b> に しごと の そうだん を した ん  だ。",
+      "latn": "<b>buchou</b> ni shigoto no soudan wo shita n  da.",
+      "en": "I consulted the manager about my job.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/ebe54vb1s.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00355A.mp3"
+    },
+    {
+      "ja": "<b>部長</b>は京都に出張中です。",
+      "hrkt": "<b>ぶちょう</b> は きょうと に しゅっちょう ちゅう です。",
+      "latn": "<b>buchou</b> ha kyouto ni shucchou chuu desu.",
+      "en": "The manager is on a business trip to Kyoto.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/2lfe6l7imn0s0.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01201A.mp3"
+    }
+  ]
+}

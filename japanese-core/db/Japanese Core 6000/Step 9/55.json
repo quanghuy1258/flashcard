@@ -1,0 +1,18 @@
+{
+  "ja": "名",
+  "hrkt": "な",
+  "latn": "na",
+  "en": "name, reputation",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00159A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>名</b>の通った会社に就職しました。",
+      "hrkt": "かれ は <b>な</b> の とおった かいしゃ に しゅうしょく しました。",
+      "latn": "kare ha <b>na</b> no tootta kaisha ni shuushoku shimashita.",
+      "en": "He got a job in a well-known company.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00159A.mp3"
+    }
+  ]
+}

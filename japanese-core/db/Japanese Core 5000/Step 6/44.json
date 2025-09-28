@@ -1,0 +1,18 @@
+{
+  "ja": "著す",
+  "hrkt": "あらわす",
+  "latn": "arawasu",
+  "en": "write (a book)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03521A.mp3",
+  "sentences": [
+    {
+      "ja": "この本では自然の大切さがよく<b>著されて</b>いるよ。",
+      "hrkt": "この ほん で は しぜん の たいせつさ が よく <b>あらわされて</b> いる よ。",
+      "latn": "kono hon de ha shizen no taisetsusa ga yoku <b>arawasarete</b> iru yo.",
+      "en": "The importance of nature is well written in this book.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03521A.mp3"
+    }
+  ]
+}

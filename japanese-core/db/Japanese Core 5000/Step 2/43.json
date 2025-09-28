@@ -1,0 +1,18 @@
+{
+  "ja": "花嫁",
+  "hrkt": "はなよめ",
+  "latn": "hanayome",
+  "en": "bride",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02364A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>花嫁</b>が父親と一緒に入ってきましたね。",
+      "hrkt": "<b>はなよめ</b> が ちちおや と いっしょ に はいって きました ね。",
+      "latn": "<b>hanayome</b> ga chichioya to issho ni haitte kimashita ne.",
+      "en": "The bride came in with her father.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02364A.mp3"
+    }
+  ]
+}

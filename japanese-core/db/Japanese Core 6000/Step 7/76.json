@@ -1,0 +1,18 @@
+{
+  "ja": "取り決め",
+  "hrkt": "とりきめ",
+  "latn": "torikime",
+  "en": "decision, agreement",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01683A.mp3",
+  "sentences": [
+    {
+      "ja": "これは会社間の<b>取り決め</b>です。",
+      "hrkt": "これ は かいしゃ かん の <b>とりきめ</b> です。",
+      "latn": "kore ha kaisha kan no <b>torikime</b> desu.",
+      "en": "This is a decision among the companies.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01683A.mp3"
+    }
+  ]
+}

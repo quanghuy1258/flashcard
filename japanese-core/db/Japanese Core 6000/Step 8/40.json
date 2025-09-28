@@ -1,0 +1,18 @@
+{
+  "ja": "水力",
+  "hrkt": "すいりょく",
+  "latn": "suiryoku",
+  "en": "water power, hydraulic power",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03083A.mp3",
+  "sentences": [
+    {
+      "ja": "この島は発電を<b>水力</b>に頼っているんだ。",
+      "hrkt": "この しま は はつでん を <b>すいりょく</b> に たよって いる ん だ。",
+      "latn": "kono shima ha hatsuden wo <b>suiryoku</b> ni tayotte iru n da.",
+      "en": "This island relies on hydraulic power to generate electricity.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03083A.mp3"
+    }
+  ]
+}

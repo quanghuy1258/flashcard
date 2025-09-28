@@ -1,0 +1,18 @@
+{
+  "ja": "郡",
+  "hrkt": "ぐん",
+  "latn": "gun",
+  "en": "county",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02004A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>郡</b>は来年、市になりますよ。",
+      "hrkt": "この <b>ぐん</b> は らいねん、し に なります よ。",
+      "latn": "kono <b>gun</b> ha rainen,shi ni narimasu yo.",
+      "en": "This county will become a city next year.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02004A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "おかしい",
+  "hrkt": "おかしい",
+  "latn": "okashii",
+  "en": "funny, comical",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01009A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の話は<b>おかしかった</b>。",
+      "hrkt": "かれ の はなし は <b>おかしかった</b>。",
+      "latn": "kare no hanashi ha <b>okashikatta</b>.",
+      "en": "His story was funny.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2203232.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01009A.mp3"
+    },
+    {
+      "ja": "子供みたいなことをして、<b>おかしい</b>ね。",
+      "hrkt": "こども みたいな こと を して、<b>おかしい</b> ね。",
+      "latn": "kodomo mitaina koto wo shite,<b>okashii</b> ne.",
+      "en": "It's funny that he/she has done a childish thing.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b6e41ufa7k.mp3"
+    }
+  ]
+}

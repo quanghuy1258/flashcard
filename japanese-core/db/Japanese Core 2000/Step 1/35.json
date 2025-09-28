@@ -1,0 +1,26 @@
+{
+  "ja": "安心",
+  "hrkt": "あんしん",
+  "latn": "anshin",
+  "en": "peace of mind, relief",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00319A.mp3",
+  "sentences": [
+    {
+      "ja": "それを聞いて<b>安心</b>しました。",
+      "hrkt": "それ を きいて <b>あんしん</b> しました。",
+      "latn": "sore wo kiite <b>anshin</b> shimashita.",
+      "en": "I was relieved to hear that.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3330502.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00319A.mp3"
+    },
+    {
+      "ja": "<b>安心</b>するのはまだ早いです。",
+      "hrkt": "<b>あんしん</b> する の は まだ はやい です。",
+      "latn": "<b>anshin</b> suru no ha mada hayai desu.",
+      "en": "It's too early to breathe a sigh of relief.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f509fhabes.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "もらう",
+  "hrkt": "もらう",
+  "latn": "morau",
+  "en": "receive, get (something from someone)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09348A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女からプレゼントを<b>もらいました</b>。",
+      "hrkt": "かのじょ から プレゼント を <b>もらいました</b>。",
+      "latn": "kanojo kara purezento wo <b>moraimashita</b>.",
+      "en": "I got a present from her.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5048361.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09348A.mp3"
+    },
+    {
+      "ja": "誕生日にプレゼントを<b>もらいました</b>。",
+      "hrkt": "たんじょうび に プレゼント を <b>もらいました</b>。",
+      "latn": "tanjoubi ni purezento wo <b>moraimashita</b>.",
+      "en": "I got some presents on my birthday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3549132.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08212A.mp3"
+    }
+  ]
+}

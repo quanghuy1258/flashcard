@@ -1,0 +1,26 @@
+{
+  "ja": "ひも",
+  "hrkt": "ひも",
+  "latn": "himo",
+  "en": "laces, string",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07827A.mp3",
+  "sentences": [
+    {
+      "ja": "靴の<b>ひも</b>が切れた。",
+      "hrkt": "くつ の <b>ひも</b> が きれた。",
+      "latn": "kutsu no <b>himo</b> ga kireta.",
+      "en": "The shoelace has fallen apart.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3581069.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07827A.mp3"
+    },
+    {
+      "ja": "うちの猫は<b>ひも</b>で遊ぶのが好きです。",
+      "hrkt": "うち の ねこ は <b>ひも</b> で あそぶ の が すき です。",
+      "latn": "uchi no neko ha <b>himo</b> de asobu no ga suki desu.",
+      "en": "Our cat likes to play with a string.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d62f919gag.mp3"
+    }
+  ]
+}

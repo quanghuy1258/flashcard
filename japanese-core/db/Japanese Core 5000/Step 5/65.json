@@ -1,0 +1,18 @@
+{
+  "ja": "振り仮名",
+  "hrkt": "ふりがな",
+  "latn": "furigana",
+  "en": "reading aid in kana characters",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03860A.mp3",
+  "sentences": [
+    {
+      "ja": "名前に<b>振り仮名</b>をつけてください。",
+      "hrkt": "なまえ に <b>ふりがな</b> を つけて ください。",
+      "latn": "namae ni <b>furigana</b> wo tsukete kudasai.",
+      "en": "Please indicate the pronunciation of your name with kana.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03860A.mp3"
+    }
+  ]
+}

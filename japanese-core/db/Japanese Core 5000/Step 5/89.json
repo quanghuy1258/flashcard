@@ -1,0 +1,18 @@
+{
+  "ja": "新学期",
+  "hrkt": "しんがっき",
+  "latn": "shingakki",
+  "en": "new term, new semester",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02824A.mp3",
+  "sentences": [
+    {
+      "ja": "今日から<b>新学期</b>が始まります。",
+      "hrkt": "きょう から <b>しん がっき</b> が はじまります。",
+      "latn": "kyou kara <b>shin gakki</b> ga hajimarimasu.",
+      "en": "The new semester starts today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02824A.mp3"
+    }
+  ]
+}

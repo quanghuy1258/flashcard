@@ -1,0 +1,26 @@
+{
+  "ja": "ガールフレンド",
+  "hrkt": "ガールフレンド",
+  "latn": "ga-rufurendo",
+  "en": "girlfriend",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01314A.mp3",
+  "sentences": [
+    {
+      "ja": "昔は彼女のことを<b>ガールフレンド</b>と言っていました。",
+      "hrkt": "むかし は かのじょ の こと を <b>ガールフレンド</b> と いって いました。",
+      "latn": "mukashi ha kanojo no koto wo <b>ga-rufurendo</b> to itte imashita.",
+      "en": "We used to call our girlfriends \"garufurendo.\"",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6619119.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01314A.mp3"
+    },
+    {
+      "ja": "あなたの<b>ガールフレンド</b>は可愛いですね。",
+      "hrkt": "あなた の <b>ガールフレンド</b> は かわいい です ね。",
+      "latn": "anata no <b>ga-rufurendo</b> ha kawaii desu ne.",
+      "en": "Your girlfriend is pretty.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d6aha46jdc.mp3"
+    }
+  ]
+}

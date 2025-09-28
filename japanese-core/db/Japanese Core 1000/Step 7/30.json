@@ -1,0 +1,26 @@
+{
+  "ja": "選手",
+  "hrkt": "せんしゅ",
+  "latn": "senshu",
+  "en": "athlete, (sports) player",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04883A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はプロのサッカー<b>選手</b>だ。",
+      "hrkt": "かれ は プロ の サッカー <b>せんしゅ</b> だ。",
+      "latn": "kare ha puro no sakka- <b>senshu</b> da.",
+      "en": "He's a professional soccer player.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1471317.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04883A.mp3"
+    },
+    {
+      "ja": "彼らはバスケットの<b>選手</b>です。",
+      "hrkt": "かれら は バスケット の <b>せんしゅ</b> です。",
+      "latn": "karera ha basuketto no <b>senshu</b> desu.",
+      "en": "They're basketball players.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5072984.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01840A.mp3"
+    }
+  ]
+}

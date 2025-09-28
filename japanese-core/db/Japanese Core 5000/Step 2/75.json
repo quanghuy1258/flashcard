@@ -1,0 +1,18 @@
+{
+  "ja": "香水",
+  "hrkt": "こうすい",
+  "latn": "kousui",
+  "en": "perfume",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02410A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>香水</b>のいい香りがした。",
+      "hrkt": "<b>こうすい</b> の いい かおり が した。",
+      "latn": "<b>kousui</b> no ii kaori ga shita.",
+      "en": "There was a nice scent of perfume.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02410A.mp3"
+    }
+  ]
+}

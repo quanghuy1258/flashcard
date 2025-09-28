@@ -1,0 +1,26 @@
+{
+  "ja": "桜",
+  "hrkt": "さくら",
+  "latn": "sakura",
+  "en": "cherry tree, cherry blossom",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03398A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>桜</b>は三月か四月に咲きます。",
+      "hrkt": "<b>さくら</b> は さん がつ か し がつ に さきます。",
+      "latn": "<b>sakura</b> ha san gatsu ka shi gatsu ni sakimasu.",
+      "en": "Cherry blossoms bloom in March or April.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5054796.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03398A.mp3"
+    },
+    {
+      "ja": "<b>桜</b>の花が咲きました。",
+      "hrkt": "<b>さくら</b> の はな が さきました。",
+      "latn": "<b>sakura</b> no hana ga sakimashita.",
+      "en": "The cherry blossoms have bloomed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5877539.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03378A.mp3"
+    }
+  ]
+}

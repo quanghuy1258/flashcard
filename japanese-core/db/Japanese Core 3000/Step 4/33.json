@@ -1,0 +1,26 @@
+{
+  "ja": "だるい",
+  "hrkt": "だるい",
+  "latn": "darui",
+  "en": "feel run-down, weary",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03033A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日は風邪で少し<b>だるかった</b>んだ。",
+      "hrkt": "きのう は かぜ で すこし <b>だるかった</b> ん だ。",
+      "latn": "kinou ha kaze de sukoshi <b>darukatta</b> n da.",
+      "en": "Yesterday I felt run-down because I had a cold.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/95785ndvrk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03033A.mp3"
+    },
+    {
+      "ja": "今日はなぜか体が<b>だるい</b>。",
+      "hrkt": "きょう は なぜ か からだ が <b>だるい</b>。",
+      "latn": "kyou ha naze ka karada ga <b>darui</b>.",
+      "en": "I feel heavy today for some reason.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a5aebldkjk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03990A.mp3"
+    }
+  ]
+}

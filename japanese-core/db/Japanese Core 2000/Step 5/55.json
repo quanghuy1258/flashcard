@@ -1,0 +1,26 @@
+{
+  "ja": "梅雨",
+  "hrkt": "つゆ",
+  "latn": "tsuyu",
+  "en": "rainy season",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05947A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>梅雨</b>は6月頃です。",
+      "hrkt": "<b>つゆ</b> は 6 がつ ごろ です。",
+      "latn": "<b>tsuyu</b> ha 6 gatsu goro desu.",
+      "en": "The rainy season comes around June.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/334447.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05947A.mp3"
+    },
+    {
+      "ja": "今年の<b>梅雨</b>はあまり雨が降りませんでした。",
+      "hrkt": "ことし の <b>つゆ</b> は あまり あめ が ふりません でした。",
+      "latn": "kotoshi no <b>tsuyu</b> ha amari ame ga furimasen deshita.",
+      "en": "It didn't rain a lot this rainy season.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/03ee352dj0.mp3"
+    }
+  ]
+}

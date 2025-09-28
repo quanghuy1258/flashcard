@@ -1,0 +1,18 @@
+{
+  "ja": "唇",
+  "hrkt": "くちびる",
+  "latn": "kuchibiru",
+  "en": "lip",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01959A.mp3",
+  "sentences": [
+    {
+      "ja": "寒くて<b>唇</b>が青くなってしまった。",
+      "hrkt": "さむくて <b>くちびる</b> が あおく なって しまった。",
+      "latn": "samukute <b>kuchibiru</b> ga aoku natte shimatta.",
+      "en": "My lips have turned blue with cold.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01959A.mp3"
+    }
+  ]
+}

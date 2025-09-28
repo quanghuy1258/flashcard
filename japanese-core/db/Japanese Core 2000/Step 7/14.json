@@ -1,0 +1,26 @@
+{
+  "ja": "欲しがる",
+  "hrkt": "ほしがる",
+  "latn": "hoshigaru",
+  "en": "want, desire (of the third person)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08516A.mp3",
+  "sentences": [
+    {
+      "ja": "子供がジュースを<b>欲しがって</b>います。",
+      "hrkt": "こども が ジュース を <b>ほしがって</b> います。",
+      "latn": "kodomo ga ju-su wo <b>hoshigatte</b> imasu.",
+      "en": "My kid wants some juice.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5861932.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08516A.mp3"
+    },
+    {
+      "ja": "あの子は人の物を何でも<b>欲しがる</b>。",
+      "hrkt": "あの こ は ひと の もの を なん でも <b>ほしがる</b>。",
+      "latn": "ano ko ha hito no mono wo nan demo <b>hoshigaru</b>.",
+      "en": "She wants anything others have.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b39q00a8b4.mp3"
+    }
+  ]
+}

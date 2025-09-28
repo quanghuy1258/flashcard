@@ -1,0 +1,26 @@
+{
+  "ja": "正しい",
+  "hrkt": "ただしい",
+  "latn": "tadashii",
+  "en": "correct, righteous",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05354A.mp3",
+  "sentences": [
+    {
+      "ja": "それは<b>正しい</b>答えです。",
+      "hrkt": "それ は <b>ただしい</b> こたえ です。",
+      "latn": "sore ha <b>tadashii</b> kotae desu.",
+      "en": "That's the correct answer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5740062.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05354A.mp3"
+    },
+    {
+      "ja": "彼はいつも自分が<b>正しい</b>と思っている。",
+      "hrkt": "かれ は いつも じぶん が <b>ただしい</b> と おもって いる。",
+      "latn": "kare ha itsumo jibun ga <b>tadashii</b> to omotte iru.",
+      "en": "He thinks he's always right.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/24687i37r8.mp3"
+    }
+  ]
+}

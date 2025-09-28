@@ -1,0 +1,26 @@
+{
+  "ja": "代表",
+  "hrkt": "だいひょう",
+  "latn": "daihyou",
+  "en": "representative",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05247A.mp3",
+  "sentences": [
+    {
+      "ja": "彼がクラスの<b>代表</b>だ。",
+      "hrkt": "かれ が クラス の <b>だいひょう</b> だ。",
+      "latn": "kare ga kurasu no <b>daihyou</b> da.",
+      "en": "He's the class representative.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/869442.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05247A.mp3"
+    },
+    {
+      "ja": "彼女が会社を<b>代表</b>して挨拶をしました。",
+      "hrkt": "かのじょ が かいしゃ を <b>だいひょう</b> して あいさつ を しました。",
+      "latn": "kanojo ga kaisha wo <b>daihyou</b> shite aisatsu wo shimashita.",
+      "en": "She said a few words on behalf of the company.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/34df591kcg.mp3"
+    }
+  ]
+}

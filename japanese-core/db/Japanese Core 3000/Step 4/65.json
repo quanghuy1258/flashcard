@@ -1,0 +1,18 @@
+{
+  "ja": "自信",
+  "hrkt": "じしん",
+  "latn": "jishin",
+  "en": "confidence",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00515A.mp3",
+  "sentences": [
+    {
+      "ja": "あの人の顔には<b>自信</b>があふれているね。",
+      "hrkt": "あの ひと の かお に は <b>じしん</b> が あふれて いる ね。",
+      "latn": "ano hito no kao ni ha <b>jishin</b> ga afurete iru ne.",
+      "en": "That person's face is brimming with confidence.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f48md14sbs.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00515A.mp3"
+    }
+  ]
+}

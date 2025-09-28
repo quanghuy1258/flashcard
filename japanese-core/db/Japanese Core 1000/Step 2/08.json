@@ -1,0 +1,26 @@
+{
+  "ja": "みんな",
+  "hrkt": "みんな",
+  "latn": "minna",
+  "en": "everybody (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09024A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>みんな</b>にお菓子をあげましょう。",
+      "hrkt": "<b>みんな</b> に おかし を あげましょう。",
+      "latn": "<b>minna</b> ni okashi wo agemashou.",
+      "en": "Let's give everyone some sweets.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4229800.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09024A.mp3"
+    },
+    {
+      "ja": "<b>みんな</b>にこのことを伝えてください。",
+      "hrkt": "<b>みんな</b> に この こと を つたえて ください。",
+      "latn": "<b>minna</b> ni kono koto wo tsutaete kudasai.",
+      "en": "Please tell everyone about this matter.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5327644.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05883A.mp3"
+    }
+  ]
+}

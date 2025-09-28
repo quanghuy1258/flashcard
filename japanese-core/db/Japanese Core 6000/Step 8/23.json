@@ -1,0 +1,18 @@
+{
+  "ja": "木枯らし",
+  "hrkt": "こがらし",
+  "latn": "kogarashi",
+  "en": "cold wintry wind",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02971A.mp3",
+  "sentences": [
+    {
+      "ja": "外は<b>木枯らし</b>が吹いているよ。",
+      "hrkt": "そと は <b>こがらし</b> が ふいて いる よ。",
+      "latn": "soto ha <b>kogarashi</b> ga fuite iru yo.",
+      "en": "A cold wintry wind is blowing outside.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02971A.mp3"
+    }
+  ]
+}

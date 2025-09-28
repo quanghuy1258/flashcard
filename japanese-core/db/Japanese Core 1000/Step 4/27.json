@@ -1,0 +1,26 @@
+{
+  "ja": "いい",
+  "hrkt": "いい",
+  "latn": "ii",
+  "en": "good (informal/spoken form)",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00337A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>いい</b>友達です。",
+      "hrkt": "かのじょ は <b>いい</b> ともだち です。",
+      "latn": "kanojo ha <b>ii</b> tomodachi desu.",
+      "en": "She's a good friend of mine.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5930207.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00337A.mp3"
+    },
+    {
+      "ja": "それはとても<b>いい</b>話だ。",
+      "hrkt": "それ は とても <b>いい</b> はなし だ。",
+      "latn": "sore ha totemo <b>ii</b> hanashi da.",
+      "en": "That's a really nice story.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3534288.jpg",
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/015v4jboea1g3s.mp3"
+    }
+  ]
+}

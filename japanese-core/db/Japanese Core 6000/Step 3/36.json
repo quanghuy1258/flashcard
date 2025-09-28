@@ -1,0 +1,18 @@
+{
+  "ja": "満月",
+  "hrkt": "まんげつ",
+  "latn": "mangetsu",
+  "en": "full moon",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03112A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>満月</b>ですね。",
+      "hrkt": "きょう は <b>まんげつ</b> です ね。",
+      "latn": "kyou ha <b>mangetsu</b> desu ne.",
+      "en": "It's a full moon today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03112A.mp3"
+    }
+  ]
+}

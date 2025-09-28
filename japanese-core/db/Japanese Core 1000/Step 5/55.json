@@ -1,0 +1,26 @@
+{
+  "ja": "意見",
+  "hrkt": "いけん",
+  "latn": "iken",
+  "en": "opinion",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00406A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの<b>意見</b>が聞きたいです。",
+      "hrkt": "あなた の <b>いけん</b> が ききたい です。",
+      "latn": "anata no <b>iken</b> ga kikitai desu.",
+      "en": "I want to hear your opinion.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5083734.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00406A.mp3"
+    },
+    {
+      "ja": "彼は人の<b>意見</b>を聞かない。",
+      "hrkt": "かれ は ひと の <b>いけん</b> を きかない。",
+      "latn": "kare ha hito no <b>iken</b> wo kikanai.",
+      "en": "He doesn't listen to others' opinions.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e52gc6dgcs.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "もしかすると",
+  "hrkt": "もしかすると",
+  "latn": "moshikasuruto",
+  "en": "possibly, by any chance",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03058A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>もしかすると</b>あなたに一度お会いしてますか。",
+      "hrkt": "<b>もしかする</b>と あなた に いちど おあいしてます か。",
+      "latn": "<b>moshikasuru</b>to anata ni ichido oaishitemasu ka.",
+      "en": "Have we met before by any chance?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03058A.mp3"
+    }
+  ]
+}

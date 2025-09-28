@@ -1,0 +1,18 @@
+{
+  "ja": "エイズ",
+  "hrkt": "エイズ",
+  "latn": "eizu",
+  "en": "AIDS",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00430A.mp3",
+  "sentences": [
+    {
+      "ja": "その国では<b>エイズ</b>が大きな社会問題ね。",
+      "hrkt": "その くに で は <b>エイズ</b> が おおきな しゃかい もんだい ね。",
+      "latn": "sono kuni de ha <b>eizu</b> ga ookina shakai mondai ne.",
+      "en": "AIDS is a major social problem in that country.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00430A.mp3"
+    }
+  ]
+}

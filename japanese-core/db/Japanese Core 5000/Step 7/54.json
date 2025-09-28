@@ -1,0 +1,18 @@
+{
+  "ja": "値下がり",
+  "hrkt": "ねさがり",
+  "latn": "nesagari",
+  "en": "fall in price",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01308A.mp3",
+  "sentences": [
+    {
+      "ja": "ガソリンが<b>値下がり</b>しました。",
+      "hrkt": "ガソリン が <b>ねさがり</b> しました。",
+      "latn": "gasorin ga <b>nesagari</b> shimashita.",
+      "en": "The price of gasoline has gone down.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01308A.mp3"
+    }
+  ]
+}

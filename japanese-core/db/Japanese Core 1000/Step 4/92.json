@@ -1,0 +1,26 @@
+{
+  "ja": "男",
+  "hrkt": "おとこ",
+  "latn": "otoko",
+  "en": "man, male",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01137A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>男</b>の人が私たちに話しかけた。",
+      "hrkt": "<b>おとこ</b> の ひと が わたし たち に はなしかけた。",
+      "latn": "<b>otoko</b> no hito ga watashi tachi ni hanashikaketa.",
+      "en": "This guy began talking to us.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2454092.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01137A.mp3"
+    },
+    {
+      "ja": "彼は駄目な<b>男</b>だ。",
+      "hrkt": "かれ は だめな <b>おとこ</b> だ。",
+      "latn": "kare ha damena <b>otoko</b> da.",
+      "en": "He's a loser.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2440729.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05460A.mp3"
+    }
+  ]
+}

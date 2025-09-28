@@ -1,0 +1,26 @@
+{
+  "ja": "複雑",
+  "hrkt": "ふくざつ",
+  "latn": "fukuzatsu",
+  "en": "complicated, intricate",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08009A.mp3",
+  "sentences": [
+    {
+      "ja": "このプログラムはとても<b>複雑</b>です。",
+      "hrkt": "この プログラム は とても <b>ふくざつ</b> です。",
+      "latn": "kono puroguramu ha totemo <b>fukuzatsu</b> desu.",
+      "en": "This program is very complicated.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3912929.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08009A.mp3"
+    },
+    {
+      "ja": "この問題は非常に<b>複雑</b>です。",
+      "hrkt": "この もんだい は ひじょうに <b>ふくざつ</b> です。",
+      "latn": "kono mondai ha hijouni <b>fukuzatsu</b> desu.",
+      "en": "This problem is very complicated.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/84810h1hbk.mp3"
+    }
+  ]
+}

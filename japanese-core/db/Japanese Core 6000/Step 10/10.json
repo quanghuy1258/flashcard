@@ -1,0 +1,18 @@
+{
+  "ja": "合唱",
+  "hrkt": "がっしょう",
+  "latn": "gasshou",
+  "en": "chorus",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02144A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは校歌を<b>合唱</b>したの。",
+      "hrkt": "わたし たち は こうか を <b>がっしょう</b> した の。",
+      "latn": "watashi tachi ha kouka wo <b>gasshou</b> shita no.",
+      "en": "We sang the school song in chorus.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02144A.mp3"
+    }
+  ]
+}

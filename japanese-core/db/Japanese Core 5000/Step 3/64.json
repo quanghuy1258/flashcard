@@ -1,0 +1,18 @@
+{
+  "ja": "灯油",
+  "hrkt": "とうゆ",
+  "latn": "touyu",
+  "en": "kerosene, lamp oil",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02100A.mp3",
+  "sentences": [
+    {
+      "ja": "ストーブの<b>灯油</b>がなくなったわよ。",
+      "hrkt": "ストーブ の <b>とうゆ</b> が なくなった わ よ。",
+      "latn": "suto-bu no <b>touyu</b> ga nakunatta wa yo.",
+      "en": "The kerosene in the stove has run out.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02100A.mp3"
+    }
+  ]
+}

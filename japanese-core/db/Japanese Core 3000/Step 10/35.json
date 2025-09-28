@@ -1,0 +1,18 @@
+{
+  "ja": "レポート",
+  "hrkt": "レポート",
+  "latn": "repo-to",
+  "en": "report, paper",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02135A.mp3",
+  "sentences": [
+    {
+      "ja": "教授に<b>レポート</b>を提出しました。",
+      "hrkt": "きょうじゅ に <b>レポート</b> を ていしゅつ しました。",
+      "latn": "kyouju ni <b>repo-to</b> wo teishutsu shimashita.",
+      "en": "I turned in my report to the professor.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/51541n0664.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02135A.mp3"
+    }
+  ]
+}

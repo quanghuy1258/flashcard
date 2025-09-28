@@ -1,0 +1,18 @@
+{
+  "ja": "五十音",
+  "hrkt": "ごじゅうおん",
+  "latn": "gojuuon",
+  "en": "Japanese syllabary",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03621A.mp3",
+  "sentences": [
+    {
+      "ja": "名前は<b>五十音</b>順に並んでいます。",
+      "hrkt": "なまえ は <b>ごじゅうおん</b> じゅん に ならんで います。",
+      "latn": "namae ha <b>gojuuon</b> jun ni narande imasu.",
+      "en": "The names are arranged in order of the Japanese syllabary.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03621A.mp3"
+    }
+  ]
+}

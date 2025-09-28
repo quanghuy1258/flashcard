@@ -1,0 +1,26 @@
+{
+  "ja": "天気",
+  "hrkt": "てんき",
+  "latn": "tenki",
+  "en": "weather",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06144A.mp3",
+  "sentences": [
+    {
+      "ja": "今日はいい<b>天気</b>ですね。",
+      "hrkt": "きょう は いい <b>てんき</b> です ね。",
+      "latn": "kyou ha ii <b>tenki</b> desu ne.",
+      "en": "It's nice out today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6121397.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06144A.mp3"
+    },
+    {
+      "ja": "明日の<b>天気</b>は晴れです。",
+      "hrkt": "あす の <b>てんき</b> は はれ です。",
+      "latn": "asu no <b>tenki</b> ha hare desu.",
+      "en": "Tomorrow's weather will be sunny.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4629609.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07504A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "ろうそく",
+  "hrkt": "ろうそく",
+  "latn": "rousoku",
+  "en": "candle",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03968A.mp3",
+  "sentences": [
+    {
+      "ja": "バースデーケーキに<b>ろうそく</b>を立てました。",
+      "hrkt": "バースデー ケーキ に <b>ろうそく</b> を たてました。",
+      "latn": "ba-sude- ke-ki ni <b>rousoku</b> wo tatemashita.",
+      "en": "We put candles on the birthday cake.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03968A.mp3"
+    }
+  ]
+}

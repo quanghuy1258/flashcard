@@ -1,0 +1,18 @@
+{
+  "ja": "当選",
+  "hrkt": "とうせん",
+  "latn": "tousen",
+  "en": "winning an election, winning a prize",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00531A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は選挙に<b>当選</b>しました。",
+      "hrkt": "かれ は せんきょ に <b>とうせん</b> しました。",
+      "latn": "kare ha senkyo ni <b>tousen</b> shimashita.",
+      "en": "He won the election.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00531A.mp3"
+    }
+  ]
+}

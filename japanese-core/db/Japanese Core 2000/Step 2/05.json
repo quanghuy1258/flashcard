@@ -1,0 +1,26 @@
+{
+  "ja": "久しぶり",
+  "hrkt": "ひさしぶり",
+  "latn": "hisashiburi",
+  "en": "after a long time",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07683A.mp3",
+  "sentences": [
+    {
+      "ja": "明日、<b>久しぶり</b>に友達に会います。",
+      "hrkt": "あした、<b>ひさしぶり</b> に ともだち に あいます。",
+      "latn": "ashita,<b>hisashiburi</b> ni tomodachi ni aimasu.",
+      "en": "Tomorrow I'm meeting a friend I haven't seen for a long time.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3867702.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07683A.mp3"
+    },
+    {
+      "ja": "彼に会ったのは<b>久しぶり</b>です。",
+      "hrkt": "かれ に あった の は <b>ひさしぶり</b> です。",
+      "latn": "kare ni atta no ha <b>hisashiburi</b> desu.",
+      "en": "It's been a while since I've seen him.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/857c3m7lm4.mp3"
+    }
+  ]
+}

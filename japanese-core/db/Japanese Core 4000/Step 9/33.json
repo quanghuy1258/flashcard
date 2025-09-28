@@ -1,0 +1,18 @@
+{
+  "ja": "スピーチ",
+  "hrkt": "スピーチ",
+  "latn": "supi-chi",
+  "en": "speech",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02482A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>スピーチ</b>は素晴らしかった。",
+      "hrkt": "かれ の <b>スピーチ</b> は すばらしかった。",
+      "latn": "kare no <b>supi-chi</b> ha subarashikatta.",
+      "en": "His speech was excellent.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02482A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "コマーシャル",
+  "hrkt": "コマーシャル",
+  "latn": "koma-sharu",
+  "en": "commercial, advertising",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02518A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はテレビの<b>コマーシャル</b>に出ているわ。",
+      "hrkt": "かのじょ は テレビ の <b>コマーシャル</b> に でて いる わ。",
+      "latn": "kanojo ha terebi no <b>koma-sharu</b> ni dete iru wa.",
+      "en": "She is on a TV commercial.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/255va15918.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02518A.mp3"
+    }
+  ]
+}

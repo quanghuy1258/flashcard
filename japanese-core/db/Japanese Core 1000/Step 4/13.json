@@ -1,0 +1,26 @@
+{
+  "ja": "違う",
+  "hrkt": "ちがう",
+  "latn": "chigau",
+  "en": "differ, be wrong",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05566A.mp3",
+  "sentences": [
+    {
+      "ja": "答えが<b>違います</b>。",
+      "hrkt": "こたえ が <b>ちがいます</b>。",
+      "latn": "kotae ga <b>chigaimasu</b>.",
+      "en": "The answer is wrong.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4550910.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05566A.mp3"
+    },
+    {
+      "ja": "これまでの私とは<b>違う</b>んです。",
+      "hrkt": "これ まで の わたし と は <b>ちがう</b> ん です。",
+      "latn": "kore made no watashi to ha <b>chigau</b> n desu.",
+      "en": "I am not the same as before.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/25297c8p8o.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03351A.mp3"
+    }
+  ]
+}

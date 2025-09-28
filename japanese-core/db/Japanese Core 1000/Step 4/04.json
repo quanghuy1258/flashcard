@@ -1,0 +1,26 @@
+{
+  "ja": "辛い",
+  "hrkt": "からい",
+  "latn": "karai",
+  "en": "spicy, hot",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01800A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>辛い</b>ものが好きです。",
+      "hrkt": "かれ は <b>からい</b> もの が すき です。",
+      "latn": "kare ha <b>karai</b> mono ga suki desu.",
+      "en": "He likes spicy food.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1671379.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01800A.mp3"
+    },
+    {
+      "ja": "このカレーはすごく<b>辛い</b>。",
+      "hrkt": "この カレー は すごく <b>からい</b>。",
+      "latn": "kono kare- ha sugoku <b>karai</b>.",
+      "en": "This curry is very spicy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/238r1p9lps.mp3"
+    }
+  ]
+}

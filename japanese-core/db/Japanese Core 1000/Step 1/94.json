@@ -1,0 +1,26 @@
+{
+  "ja": "古い",
+  "hrkt": "ふるい",
+  "latn": "furui",
+  "en": "old",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08200A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>古い</b>車が好きです。",
+      "hrkt": "わたし は <b>ふるい</b> くるま が すき です。",
+      "latn": "watashi ha <b>furui</b> kuruma ga suki desu.",
+      "en": "I like old cars.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5363354.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08200A.mp3"
+    },
+    {
+      "ja": "あそこに<b>古い</b>お寺があります。",
+      "hrkt": "あそこ に <b>ふるい</b> おてら が あります。",
+      "latn": "asoko ni <b>furui</b> otera ga arimasu.",
+      "en": "There's an old temple there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5311860.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06125A.mp3"
+    }
+  ]
+}

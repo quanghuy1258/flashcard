@@ -1,0 +1,26 @@
+{
+  "ja": "期間",
+  "hrkt": "きかん",
+  "latn": "kikan",
+  "en": "term, period",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02007A.mp3",
+  "sentences": [
+    {
+      "ja": "テスト<b>期間</b>は10日から15日までだ。",
+      "hrkt": "テスト <b>きかん</b> は とおか から 15 にち まで だ。",
+      "latn": "tesuto <b>kikan</b> ha tooka kara 15 nichi made da.",
+      "en": "The exam period is from the 10th to the 15th.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5281233.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02007A.mp3"
+    },
+    {
+      "ja": "今、あのお店はセール<b>期間</b>中だ。",
+      "hrkt": "いま、あの おみせ は セール <b>きかん</b> ちゅう だ。",
+      "latn": "ima,ano omise ha se-ru <b>kikan</b> chuu da.",
+      "en": "That store is currently having a sales period.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c4803p53no.mp3"
+    }
+  ]
+}

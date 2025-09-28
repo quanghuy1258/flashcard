@@ -1,0 +1,18 @@
+{
+  "ja": "並木",
+  "hrkt": "なみき",
+  "latn": "namiki",
+  "en": "row (line) of trees",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02492A.mp3",
+  "sentences": [
+    {
+      "ja": "駅前の<b>並木</b>が台風で倒れたらしい。",
+      "hrkt": "えき まえ の <b>なみき</b> が たいふう で たおれた らしい。",
+      "latn": "eki mae no <b>namiki</b> ga taifuu de taoreta rashii.",
+      "en": "I heard that the line of trees in front of the station fell over in the typhoon.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02492A.mp3"
+    }
+  ]
+}

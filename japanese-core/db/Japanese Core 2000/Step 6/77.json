@@ -1,0 +1,26 @@
+{
+  "ja": "過ぎる",
+  "hrkt": "すぎる",
+  "latn": "sugiru",
+  "en": "pass by, go past",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04539A.mp3",
+  "sentences": [
+    {
+      "ja": "時が<b>過ぎる</b>のは速い。",
+      "hrkt": "とき が <b>すぎる</b> の は はやい。",
+      "latn": "toki ga <b>sugiru</b> no ha hayai.",
+      "en": "Time passes quickly.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3395938.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04539A.mp3"
+    },
+    {
+      "ja": "もう予定の時間を<b>過ぎて</b>います。",
+      "hrkt": "もう よてい の じかん を <b>すぎて</b> います。",
+      "latn": "mou yotei no jikan wo <b>sugite</b> imasu.",
+      "en": "It's already past the scheduled time.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/145552ceoc.mp3"
+    }
+  ]
+}

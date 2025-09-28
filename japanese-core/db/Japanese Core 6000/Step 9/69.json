@@ -1,0 +1,18 @@
+{
+  "ja": "田",
+  "hrkt": "た",
+  "latn": "ta",
+  "en": "rice field, rice paddy",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02526A.mp3",
+  "sentences": [
+    {
+      "ja": "今は<b>田</b>に水を入れる季節です。",
+      "hrkt": "いま は <b>た</b> に みず を いれる きせつ です。",
+      "latn": "ima ha <b>ta</b> ni mizu wo ireru kisetsu desu.",
+      "en": "Now is the time to fill the rice paddies with water.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02526A.mp3"
+    }
+  ]
+}

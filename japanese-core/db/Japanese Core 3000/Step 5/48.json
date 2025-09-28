@@ -1,0 +1,18 @@
+{
+  "ja": "日本酒",
+  "hrkt": "にほんしゅ",
+  "latn": "nihonshu",
+  "en": "Japanese rice wine",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02424A.mp3",
+  "sentences": [
+    {
+      "ja": "珍しい<b>日本酒</b>が手に入りました。",
+      "hrkt": "めずらしい <b>にほんしゅ</b> が て に はいりました。",
+      "latn": "mezurashii <b>nihonshu</b> ga te ni hairimashita.",
+      "en": "I obtained some unusual sake.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/929i8a5nj8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02424A.mp3"
+    }
+  ]
+}

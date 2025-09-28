@@ -1,0 +1,26 @@
+{
+  "ja": "なるほど",
+  "hrkt": "なるほど",
+  "latn": "naruhodo",
+  "en": "I see, now I understand",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01734A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>なるほど</b>、よく分かりました。",
+      "hrkt": "<b>なるほど</b>、よく わかりました。",
+      "latn": "<b>naruhodo</b>,yoku wakarimashita.",
+      "en": "I see--now I understand well.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/0l3bev5bultgo.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01734A.mp3"
+    },
+    {
+      "ja": "<b>なるほど</b>、これなら簡単です。",
+      "hrkt": "<b>なるほど</b>、これ なら かんたん です。",
+      "latn": "<b>naruhodo</b>,kore nara kantan desu.",
+      "en": "I see. It's easier this way.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/63ev7o8quc.mp3"
+    }
+  ]
+}

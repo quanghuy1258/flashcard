@@ -1,0 +1,26 @@
+{
+  "ja": "答え",
+  "hrkt": "こたえ",
+  "latn": "kotae",
+  "en": "answer, solution",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03130A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はその問題の<b>答え</b>が分からない。",
+      "hrkt": "かれ は その もんだい の <b>こたえ</b> が わからない。",
+      "latn": "kare ha sono mondai no <b>kotae</b> ga wakaranai.",
+      "en": "He doesn't know the answer to the problem.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5514415.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03130A.mp3"
+    },
+    {
+      "ja": "<b>答え</b>が違います。",
+      "hrkt": "<b>こたえ</b> が ちがいます。",
+      "latn": "<b>kotae</b> ga chigaimasu.",
+      "en": "The answer is wrong.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4550910.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05566A.mp3"
+    }
+  ]
+}

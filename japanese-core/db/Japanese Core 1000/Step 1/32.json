@@ -1,0 +1,26 @@
+{
+  "ja": "学生",
+  "hrkt": "がくせい",
+  "latn": "gakusei",
+  "en": "student",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01515A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は真面目な<b>学生</b>です。",
+      "hrkt": "かれ は まじめな <b>がくせい</b> です。",
+      "latn": "kare ha majimena <b>gakusei</b> desu.",
+      "en": "He's a serious student.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3570153.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01515A.mp3?1220256862"
+    },
+    {
+      "ja": "僕は<b>学生</b>です。",
+      "hrkt": "ぼく は <b>がくせい</b> です。",
+      "latn": "boku ha <b>gakusei</b> desu.",
+      "en": "I'm a student.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/869442.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08489A.mp3"
+    }
+  ]
+}

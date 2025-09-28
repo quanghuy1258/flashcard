@@ -1,0 +1,18 @@
+{
+  "ja": "可愛がる",
+  "hrkt": "かわいがる",
+  "latn": "kawaigaru",
+  "en": "love, cherish",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03587A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は猫を<b>可愛がって</b>います。",
+      "hrkt": "かのじょ は ねこ を <b>かわいがって</b> います。",
+      "latn": "kanojo ha neko wo <b>kawaigatte</b> imasu.",
+      "en": "She cherishes her cat.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/34agad48hg.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03587A.mp3"
+    }
+  ]
+}

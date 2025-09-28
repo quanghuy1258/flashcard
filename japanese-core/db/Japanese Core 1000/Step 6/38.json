@@ -1,0 +1,26 @@
+{
+  "ja": "大切",
+  "hrkt": "たいせつ",
+  "latn": "taisetsu",
+  "en": "important, valuable",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05214A.mp3",
+  "sentences": [
+    {
+      "ja": "これは母が<b>大切</b>にしていた指輪です。",
+      "hrkt": "これ は はは が <b>たいせつ</b> に して いた ゆびわ です。",
+      "latn": "kore ha haha ga <b>taisetsu</b> ni shite ita yubiwa desu.",
+      "en": "This is a ring that meant a lot to my mother.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4614350.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05214A.mp3"
+    },
+    {
+      "ja": "この学校では一人一人の生徒を<b>大切</b>にしています。",
+      "hrkt": "この がっこう で は ひとり ひとり の せいと を <b>たいせつ</b> に して います。",
+      "latn": "kono gakkou de ha hitori hitori no seito wo <b>taisetsu</b> ni shite imasu.",
+      "en": "Each individual student is valued in this school.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/54e7eec6hk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/259v161qb0.mp3"
+    }
+  ]
+}

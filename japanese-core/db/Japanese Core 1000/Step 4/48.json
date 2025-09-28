@@ -1,0 +1,26 @@
+{
+  "ja": "妹",
+  "hrkt": "いもうと",
+  "latn": "imouto",
+  "en": "younger sister",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00587A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>妹</b>は小学生です。",
+      "hrkt": "わたし の <b>いもうと</b> は しょうがくせい です。",
+      "latn": "watashi no <b>imouto</b> ha shougakusei desu.",
+      "en": "My little sister goes to elementary school.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3515213.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00587A.mp3"
+    },
+    {
+      "ja": "<b>妹</b>は漫画が好きです。",
+      "hrkt": "<b>いもうと</b> は まんが が すき です。",
+      "latn": "<b>imouto</b> ha manga ga suki desu.",
+      "en": "My little sister likes comics.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/el3b3e9td1knk.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01424A.mp3"
+    }
+  ]
+}

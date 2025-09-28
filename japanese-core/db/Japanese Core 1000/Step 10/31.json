@@ -1,0 +1,26 @@
+{
+  "ja": "ビール",
+  "hrkt": "ビール",
+  "latn": "bi-ru",
+  "en": "beer",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07607A.mp3",
+  "sentences": [
+    {
+      "ja": "夏は<b>ビール</b>がとても美味しい。",
+      "hrkt": "なつ は <b>ビール</b> が とても おいしい。",
+      "latn": "natsu ha <b>bi-ru</b> ga totemo oishii.",
+      "en": "Beer tastes really good in summer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4501467.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07607A.mp3"
+    },
+    {
+      "ja": "仕事の帰りに<b>ビール</b>を飲んだ。",
+      "hrkt": "しごと の かえり に <b>ビール</b> を のんだ。",
+      "latn": "shigoto no kaeri ni <b>bi-ru</b> wo nonda.",
+      "en": "I had a beer on the way home from work.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2368499.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01434A.mp3"
+    }
+  ]
+}

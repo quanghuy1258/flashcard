@@ -1,0 +1,18 @@
+{
+  "ja": "寿命",
+  "hrkt": "じゅみょう",
+  "latn": "jumyou",
+  "en": "life span",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01325A.mp3",
+  "sentences": [
+    {
+      "ja": "亀の<b>寿命</b>は長いんだ。",
+      "hrkt": "かめ の <b>じゅみょう</b> は ながい ん だ。",
+      "latn": "kame no <b>jumyou</b> ha nagai n da.",
+      "en": "Turtles have long life spans.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01325A.mp3"
+    }
+  ]
+}

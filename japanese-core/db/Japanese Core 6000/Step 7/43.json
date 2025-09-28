@@ -1,0 +1,18 @@
+{
+  "ja": "追突",
+  "hrkt": "ついとつ",
+  "latn": "tsuitotsu",
+  "en": "collision",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02693A.mp3",
+  "sentences": [
+    {
+      "ja": "バスが乗用車に<b>追突</b>したよ。",
+      "hrkt": "バス が じょうようしゃ に <b>ついとつ</b> した よ。",
+      "latn": "basu ga jouyousha ni <b>tsuitotsu</b> shita yo.",
+      "en": "A bus collided with a passenger car.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02693A.mp3"
+    }
+  ]
+}

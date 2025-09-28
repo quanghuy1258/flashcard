@@ -1,0 +1,18 @@
+{
+  "ja": "縮める",
+  "hrkt": "ちぢめる",
+  "latn": "chijimeru",
+  "en": "reduce (time, size etc.), shorten",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01422A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はタイムを1秒<b>縮めた</b>の。",
+      "hrkt": "かれ は タイム を 1 びょう <b>ちぢめた</b> の。",
+      "latn": "kare ha taimu wo 1 byou <b>chijimeta</b> no.",
+      "en": "He slashed one second off the record.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01422A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "鞄",
+  "hrkt": "かばん",
+  "latn": "kaban",
+  "en": "bag, handbag",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01744A.mp3",
+  "sentences": [
+    {
+      "ja": "その黒い<b>鞄</b>は僕のです。",
+      "hrkt": "その くろい <b>かばん</b> は ぼく の です。",
+      "latn": "sono kuroi <b>kaban</b> ha boku no desu.",
+      "en": "The black briefcase is mine.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3839502.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01744A.mp3"
+    },
+    {
+      "ja": "これはあなたの<b>鞄</b>ですか。",
+      "hrkt": "これ は あなた の <b>かばん</b> です か。",
+      "latn": "kore ha anata no <b>kaban</b> desu ka.",
+      "en": "Is this your bag?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5542044.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00197A.mp3"
+    }
+  ]
+}

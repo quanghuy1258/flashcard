@@ -1,0 +1,18 @@
+{
+  "ja": "枝",
+  "hrkt": "えだ",
+  "latn": "eda",
+  "en": "branch, twig",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03546A.mp3",
+  "sentences": [
+    {
+      "ja": "木の<b>枝</b>を折ってはいけません。",
+      "hrkt": "き の <b>えだ</b> を おって は いけません。",
+      "latn": "ki no <b>eda</b> wo otte ha ikemasen.",
+      "en": "Don't break branches off the trees.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03546A.mp3"
+    }
+  ]
+}

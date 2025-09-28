@@ -1,0 +1,18 @@
+{
+  "ja": "無生物",
+  "hrkt": "むせいぶつ",
+  "latn": "museibutsu",
+  "en": "inanimate object",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03913A.mp3",
+  "sentences": [
+    {
+      "ja": "岩は<b>無生物</b>に分類される。",
+      "hrkt": "いわ は <b>むせいぶつ</b> に ぶんるい される。",
+      "latn": "iwa ha <b>museibutsu</b> ni bunrui sareru.",
+      "en": "Rocks are classified as inanimate objects.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03913A.mp3"
+    }
+  ]
+}

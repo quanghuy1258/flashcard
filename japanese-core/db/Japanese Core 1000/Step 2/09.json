@@ -1,0 +1,26 @@
+{
+  "ja": "取る",
+  "hrkt": "とる",
+  "latn": "toru",
+  "en": "take, get",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06567A.mp3",
+  "sentences": [
+    {
+      "ja": "テストでいい点を<b>取った</b>。",
+      "hrkt": "テスト で いい てん を <b>とった</b>。",
+      "latn": "tesuto de ii ten wo <b>totta</b>.",
+      "en": "I got a good score on the test.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5809290.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06567A.mp3"
+    },
+    {
+      "ja": "メモを<b>取って</b>ください。",
+      "hrkt": "メモ を <b>とって</b> ください。",
+      "latn": "memo wo <b>totte</b> kudasai.",
+      "en": "Please take notes.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5176483.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09213A.mp3"
+    }
+  ]
+}

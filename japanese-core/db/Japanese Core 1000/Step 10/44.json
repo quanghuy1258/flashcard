@@ -1,0 +1,26 @@
+{
+  "ja": "野菜",
+  "hrkt": "やさい",
+  "latn": "yasai",
+  "en": "vegetable",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09401A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎日たくさん<b>野菜</b>を食べます。",
+      "hrkt": "わたし は まいにち たくさん <b>やさい</b> を たべます。",
+      "latn": "watashi ha mainichi takusan <b>yasai</b> wo tabemasu.",
+      "en": "I eat a lot of vegetables every day.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5231649.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09401A.mp3"
+    },
+    {
+      "ja": "大根は白くて長い<b>野菜</b>です。",
+      "hrkt": "だいこん は しろくて ながい <b>やさい</b> です。",
+      "latn": "daikon ha shirokute nagai <b>yasai</b> desu.",
+      "en": "The daikon radish is a long, white vegetable.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/846b0j297o.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03706A.mp3"
+    }
+  ]
+}

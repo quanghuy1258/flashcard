@@ -1,0 +1,26 @@
+{
+  "ja": "虫",
+  "hrkt": "むし",
+  "latn": "mushi",
+  "en": "insect, bug",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03912A.mp3",
+  "sentences": [
+    {
+      "ja": "庭で秋の<b>虫</b>が鳴いているね。",
+      "hrkt": "にわ で あき の <b>むし</b> が ないて いる ね。",
+      "latn": "niwa de aki no <b>mushi</b> ga naite iru ne.",
+      "en": "Autumn insects are chirping in the garden.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/8l6e0l4j4gvhk.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03912A.mp3"
+    },
+    {
+      "ja": "<b>虫</b>に腕を刺されました。",
+      "hrkt": "<b>むし</b> に うで を さされました。",
+      "latn": "<b>mushi</b> ni ude wo sasaremashita.",
+      "en": "I was stung on the arm by an insect.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/781682.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03427A.mp3"
+    }
+  ]
+}

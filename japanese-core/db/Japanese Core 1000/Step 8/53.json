@@ -1,0 +1,26 @@
+{
+  "ja": "曇り",
+  "hrkt": "くもり",
+  "latn": "kumori",
+  "en": "cloudy weather",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02514A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は一日<b>曇り</b>でした。",
+      "hrkt": "きょう は いちにち <b>くもり</b> でした。",
+      "latn": "kyou ha ichinichi <b>kumori</b> deshita.",
+      "en": "It was cloudy all day today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5579361.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02514A.mp3"
+    },
+    {
+      "ja": "今日は晴れときどき<b>曇り</b>です。",
+      "hrkt": "きょう は はれ ときどき <b>くもり</b> です。",
+      "latn": "kyou ha hare tokidoki <b>kumori</b> desu.",
+      "en": "It will be sunny but sometimes cloudy today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c20u7i2kg0.mp3"
+    }
+  ]
+}

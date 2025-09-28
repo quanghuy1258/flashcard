@@ -1,0 +1,26 @@
+{
+  "ja": "まま",
+  "hrkt": "まま",
+  "latn": "mama",
+  "en": "as is, still (in the current state)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08794A.mp3",
+  "sentences": [
+    {
+      "ja": "電気が付いた<b>まま</b>ですよ。",
+      "hrkt": "でんき が ついた <b>まま</b> です よ 。",
+      "latn": "denki ga tsuita <b>mama</b> desu yo .",
+      "en": "The light is still on.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4321779.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08794A.mp3"
+    },
+    {
+      "ja": "その<b>まま</b>のあなたでいてください。",
+      "hrkt": "その <b>まま</b> の あなた で いて ください。",
+      "latn": "sono <b>mama</b> no anata de ite kudasai.",
+      "en": "Please stay as you are.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/355oeia8mg.mp3"
+    }
+  ]
+}

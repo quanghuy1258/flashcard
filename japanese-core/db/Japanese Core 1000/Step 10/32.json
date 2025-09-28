@@ -1,0 +1,26 @@
+{
+  "ja": "早く",
+  "hrkt": "はやく",
+  "latn": "hayaku",
+  "en": "early, soon",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07468A.mp3",
+  "sentences": [
+    {
+      "ja": "なるべく<b>早く</b>来てください。",
+      "hrkt": "なるべく <b>はやく</b> きて ください。",
+      "latn": "narubeku <b>hayaku</b> kite kudasai.",
+      "en": "Please come as early as possible.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5767008.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07468A.mp3"
+    },
+    {
+      "ja": "今朝は<b>早く</b>家を出ました。",
+      "hrkt": "けさ は <b>はやく</b> いえ を でました。",
+      "latn": "kesa ha <b>hayaku</b> ie wo demashita.",
+      "en": "I left home early this morning.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4786067.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06128A.mp3"
+    }
+  ]
+}

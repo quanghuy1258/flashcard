@@ -1,0 +1,18 @@
+{
+  "ja": "見本",
+  "hrkt": "みほん",
+  "latn": "mihon",
+  "en": "sample, model",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02461A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>見本</b>はこちらにございます。",
+      "hrkt": "<b>みほん</b> は こちら に ございます。",
+      "latn": "<b>mihon</b> ha kochira ni gozaimasu.",
+      "en": "There's a sample here.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02461A.mp3"
+    }
+  ]
+}

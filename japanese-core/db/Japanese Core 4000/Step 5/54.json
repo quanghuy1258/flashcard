@@ -1,0 +1,18 @@
+{
+  "ja": "筋肉",
+  "hrkt": "きんにく",
+  "latn": "kinniku",
+  "en": "muscle",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01729A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は最近<b>筋肉</b>を鍛えているよ。",
+      "hrkt": "かれ は さいきん <b>きんにく</b> を きたえて いる よ。",
+      "latn": "kare ha saikin <b>kinniku</b> wo kitaete iru yo.",
+      "en": "He has been building up his muscles recently.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01729A.mp3"
+    }
+  ]
+}

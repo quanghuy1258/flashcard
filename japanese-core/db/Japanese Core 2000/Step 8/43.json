@@ -1,0 +1,26 @@
+{
+  "ja": "担当",
+  "hrkt": "たんとう",
+  "latn": "tantou",
+  "en": "being in charge (of official duties)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05534A.mp3",
+  "sentences": [
+    {
+      "ja": "私はセールスを<b>担当</b>しています。",
+      "hrkt": "わたし は セールス を <b>たんとう</b> して います。",
+      "latn": "watashi ha se-rusu wo <b>tantou</b> shite imasu.",
+      "en": "I'm in charge of sales.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3584688.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05534A.mp3"
+    },
+    {
+      "ja": "家では料理は私の<b>担当</b>です。",
+      "hrkt": "いえ で は りょうり は わたし の <b>たんとう</b> です。",
+      "latn": "ie de ha ryouri ha watashi no <b>tantou</b> desu.",
+      "en": "At home I'm in charge of cooking.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f53ie98jm0.mp3"
+    }
+  ]
+}

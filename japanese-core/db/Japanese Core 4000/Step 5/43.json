@@ -1,0 +1,26 @@
+{
+  "ja": "保健",
+  "hrkt": "ほけん",
+  "latn": "hoken",
+  "en": "preservation of health",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02256A.mp3",
+  "sentences": [
+    {
+      "ja": "学校でけがをした時、<b>保健</b>の先生が病院に連れていってくれました。",
+      "hrkt": "がっこう で けが を した とき、<b>ほけん</b> の せんせい が びょういん に つれて いって くれました。",
+      "latn": "gakkou de kega wo shita toki,<b>hoken</b> no sensei ga byouin ni tsurete itte kuremashita.",
+      "en": "When I was injured at school, the school nurse took me to the hospital.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/545e1q5v0g.mp3"
+    },
+    {
+      "ja": "<b>保健</b>室で少し休みました。",
+      "hrkt": "<b>ほけん</b>しつ で すこし やすみました。",
+      "latn": "<b>hoken</b>shitsu de sukoshi yasumimashita.",
+      "en": "I rested a little in the school nurse's office.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/944m2kdkhg.mp3"
+    }
+  ]
+}

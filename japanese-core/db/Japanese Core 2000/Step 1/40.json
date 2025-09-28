@@ -1,0 +1,26 @@
+{
+  "ja": "往復",
+  "hrkt": "おうふく",
+  "latn": "oufuku",
+  "en": "round trip",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00955A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>往復</b>切符をください。",
+      "hrkt": "<b>おうふく</b> きっぷ を ください。",
+      "latn": "<b>oufuku</b> kippu wo kudasai.",
+      "en": "I'd like a roundtrip ticket please.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3384572.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00955A.mp3"
+    },
+    {
+      "ja": "会社まで<b>往復</b>で2時間かかります。",
+      "hrkt": "かいしゃ まで <b>おうふく</b> で 2 じかん かかります。",
+      "latn": "kaisha made <b>oufuku</b> de 2 jikan kakarimasu.",
+      "en": "It takes two hours to get to work and back.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/732q90epek.mp3"
+    }
+  ]
+}

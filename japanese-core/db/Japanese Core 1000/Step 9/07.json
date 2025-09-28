@@ -1,0 +1,26 @@
+{
+  "ja": "一緒",
+  "hrkt": "いっしょ",
+  "latn": "issho",
+  "en": "together, same (colloquial)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01095A.mp3",
+  "sentences": [
+    {
+      "ja": "あの二人はいつも<b>一緒</b>です。",
+      "hrkt": "あの ふたり は いつも <b>いっしょ</b> です。",
+      "latn": "ano futari ha itsumo <b>issho</b> desu.",
+      "en": "Those two are always together.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/63cv95bd9s.mp3"
+    },
+    {
+      "ja": "どっちでも<b>一緒</b>だよ。",
+      "hrkt": "どっち でも <b>いっしょ</b> だ よ。",
+      "latn": "docchi demo <b>issho</b> da yo.",
+      "en": "Both are the same.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c472140pok.mp3"
+    }
+  ]
+}

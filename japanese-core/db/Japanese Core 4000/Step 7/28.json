@@ -1,0 +1,18 @@
+{
+  "ja": "出勤",
+  "hrkt": "しゅっきん",
+  "latn": "shukkin",
+  "en": "going to work, attendance at work",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01713A.mp3",
+  "sentences": [
+    {
+      "ja": "毎朝7時5分に<b>出勤</b>します。",
+      "hrkt": "まいあさ 7 じ 5 ふん に <b>しゅっきん</b> します。",
+      "latn": "maiasa 7 ji 5 fun ni <b>shukkin</b> shimasu.",
+      "en": "I go to work at 7:05 every morning.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01713A.mp3"
+    }
+  ]
+}

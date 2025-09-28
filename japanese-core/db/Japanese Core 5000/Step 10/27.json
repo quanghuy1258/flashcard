@@ -1,0 +1,18 @@
+{
+  "ja": "本文",
+  "hrkt": "ほんぶん",
+  "latn": "honbun",
+  "en": "body text, this text",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02018A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>本文</b>をよく読んで答えてください。",
+      "hrkt": "<b>ほんぶん</b> を よく よんで こたえて ください。",
+      "latn": "<b>honbun</b> wo yoku yonde kotaete kudasai.",
+      "en": "Please read the text carefully before you answer.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02018A.mp3"
+    }
+  ]
+}

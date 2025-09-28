@@ -1,0 +1,26 @@
+{
+  "ja": "太い",
+  "hrkt": "ふとい",
+  "latn": "futoi",
+  "en": "thick, fat",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08123A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は足が<b>太い</b>。",
+      "hrkt": "かのじょ は あし が <b>ふとい</b>。",
+      "latn": "kanojo ha ashi ga <b>futoi</b>.",
+      "en": "She has big legs.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/81dv3j977u6gg4.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08123A.mp3"
+    },
+    {
+      "ja": "彼の腕は<b>太い</b>。",
+      "hrkt": "かれ の うで は <b>ふとい</b>。",
+      "latn": "kare no ude ha <b>futoi</b>.",
+      "en": "He has big arms.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5678242.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00740A.mp3"
+    }
+  ]
+}

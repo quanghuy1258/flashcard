@@ -1,0 +1,18 @@
+{
+  "ja": "対象",
+  "hrkt": "たいしょう",
+  "latn": "taishou",
+  "en": "target, object",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05199A.mp3",
+  "sentences": [
+    {
+      "ja": "このアンケートは大学生が<b>対象</b>です。",
+      "hrkt": "この アンケート は だいがくせい が <b>たいしょう</b> です。",
+      "latn": "kono anke-to ha daigakusei ga <b>taishou</b> desu.",
+      "en": "This questionnaire targets university students.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05199A.mp3"
+    }
+  ]
+}

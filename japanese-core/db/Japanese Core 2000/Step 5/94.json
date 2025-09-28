@@ -1,0 +1,26 @@
+{
+  "ja": "痛める",
+  "hrkt": "いためる",
+  "latn": "itameru",
+  "en": "damage, hurt",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02801A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は柔道で腰を<b>痛めた</b>んだ。",
+      "hrkt": "かれ は じゅうどう で こし を <b>いためた</b> ん だ 。",
+      "latn": "kare ha juudou de koshi wo <b>itameta</b> n da .",
+      "en": "He hurt his lower back doing judo.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2834527.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02801A.mp3"
+    },
+    {
+      "ja": "スキーでひざを<b>痛めました</b>。",
+      "hrkt": "スキー で ひざ を <b>いためました</b>。",
+      "latn": "suki- de hiza wo <b>itamemashita</b>.",
+      "en": "I hurt my knee when skiing.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/2323dd50ms.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "組み立てる",
+  "hrkt": "くみたてる",
+  "latn": "kumitateru",
+  "en": "set up, put together",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02508A.mp3",
+  "sentences": [
+    {
+      "ja": "日曜日に本棚を<b>組み立てます</b>。",
+      "hrkt": "にちようび に ほんだな を <b>くみたてます</b>。",
+      "latn": "nichiyoubi ni hondana wo <b>kumitatemasu</b>.",
+      "en": "I'll build and set up the bookshelf on Sunday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/643782.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02508A.mp3"
+    },
+    {
+      "ja": "私は自分でこのベッドを<b>組み立てました</b>。",
+      "hrkt": "わたし は じぶん で この ベッド を <b>くみたてました</b>。",
+      "latn": "watashi ha jibun de kono beddo wo <b>kumitatemashita</b>.",
+      "en": "I put this bed together by myself.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/532n9t64ro.mp3"
+    }
+  ]
+}

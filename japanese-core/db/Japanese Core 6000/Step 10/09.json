@@ -1,0 +1,18 @@
+{
+  "ja": "露",
+  "hrkt": "つゆ",
+  "latn": "tsuyu",
+  "en": "dew, dewfall",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03757A.mp3",
+  "sentences": [
+    {
+      "ja": "花に<b>露</b>が付いていました。",
+      "hrkt": "はな に <b>つゆ</b> が ついて いました。",
+      "latn": "hana ni <b>tsuyu</b> ga tsuite imashita.",
+      "en": "There was some dew on the flower.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03757A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "空",
+  "hrkt": "から",
+  "latn": "kara",
+  "en": "emptiness, hollow",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03584A.mp3",
+  "sentences": [
+    {
+      "ja": "この瓶はもう<b>空</b>ね。",
+      "hrkt": "この びん は もう <b>から</b> ね。",
+      "latn": "kono bin ha mou <b>kara</b> ne.",
+      "en": "This bottle is already empty.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/24c61i3ams.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03584A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "身長",
+  "hrkt": "しんちょう",
+  "latn": "shinchou",
+  "en": "height",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01490A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>身長</b>はどれくらいありますか。",
+      "hrkt": "<b>しんちょう</b> は どれ くらい あります か。",
+      "latn": "<b>shinchou</b> ha dore kurai arimasu ka.",
+      "en": "How tall are you?",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/0522b1fubs.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01490A.mp3"
+    }
+  ]
+}

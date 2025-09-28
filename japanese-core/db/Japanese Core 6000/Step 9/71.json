@@ -1,0 +1,18 @@
+{
+  "ja": "球",
+  "hrkt": "きゅう",
+  "latn": "kyuu",
+  "en": "globe, ball",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02473A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>球</b>技が大好きです。",
+      "hrkt": "かれ は <b>きゅう</b>ぎ が だいすき です。",
+      "latn": "kare ha <b>kyuu</b>gi ga daisuki desu.",
+      "en": "He loves ball games.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02473A.mp3"
+    }
+  ]
+}

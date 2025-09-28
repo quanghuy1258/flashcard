@@ -1,0 +1,18 @@
+{
+  "ja": "布",
+  "hrkt": "ぬの",
+  "latn": "nuno",
+  "en": "cloth",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03800A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>布</b>はカーテンに使えます。",
+      "hrkt": "この <b>ぬの</b> は カーテン に つかえます。",
+      "latn": "kono <b>nuno</b> ha ka-ten ni tsukaemasu.",
+      "en": "This cloth can be used for curtains.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03800A.mp3"
+    }
+  ]
+}

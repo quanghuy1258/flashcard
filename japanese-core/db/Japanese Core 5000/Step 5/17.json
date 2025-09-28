@@ -1,0 +1,18 @@
+{
+  "ja": "器械",
+  "hrkt": "きかい",
+  "latn": "kikai",
+  "en": "instrument, equipment",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03202A.mp3",
+  "sentences": [
+    {
+      "ja": "体育館で<b>器械</b>を使って運動したの。",
+      "hrkt": "たいいくかん で <b>きかい</b> を つかって うんどう した の。",
+      "latn": "taiikukan de <b>kikai</b> wo tsukatte undou shita no.",
+      "en": "I did exercise with equipment in the gym.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03202A.mp3"
+    }
+  ]
+}

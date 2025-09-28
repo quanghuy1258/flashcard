@@ -1,0 +1,26 @@
+{
+  "ja": "穴",
+  "hrkt": "あな",
+  "latn": "ana",
+  "en": "hole",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00194A.mp3",
+  "sentences": [
+    {
+      "ja": "靴下に<b>穴</b>が開いている。",
+      "hrkt": "くつした に <b>あな</b> が あいて いる。",
+      "latn": "kutsushita ni <b>ana</b> ga aite iru.",
+      "en": "There are holes in my socks.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4255519.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00194A.mp3"
+    },
+    {
+      "ja": "子ネコが<b>穴</b>に落ちてしまった。",
+      "hrkt": "こ ネコ が <b>あな</b> に おちて しまった。",
+      "latn": "ko neko ga <b>ana</b> ni ochite shimatta.",
+      "en": "A kitten fell into a hole.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d26n1l02ng.mp3"
+    }
+  ]
+}

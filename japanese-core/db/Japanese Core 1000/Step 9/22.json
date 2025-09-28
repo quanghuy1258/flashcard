@@ -1,0 +1,26 @@
+{
+  "ja": "サラリーマン",
+  "hrkt": "サラリーマン",
+  "latn": "sarari-man",
+  "en": "salaried worker",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03509A.mp3",
+  "sentences": [
+    {
+      "ja": "父は<b>サラリーマン</b>です。",
+      "hrkt": "ちち は <b>サラリーマン</b> です。",
+      "latn": "chichi ha <b>sarari-man</b> desu.",
+      "en": "My father is a salaried worker.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5388245.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03509A.mp3"
+    },
+    {
+      "ja": "私の夫は<b>サラリーマン</b>です。",
+      "hrkt": "わたし の おっと は <b>サラリーマン</b> です。",
+      "latn": "watashi no otto ha <b>sarari-man</b> desu.",
+      "en": "My husband is a salaried worker.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5537869.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01126A.mp3"
+    }
+  ]
+}

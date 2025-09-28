@@ -1,0 +1,18 @@
+{
+  "ja": "届け",
+  "hrkt": "とどけ",
+  "latn": "todoke",
+  "en": "notice, delivery",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02985A.mp3",
+  "sentences": [
+    {
+      "ja": "郵便局に引っ越しの<b>届け</b>を出したよ。",
+      "hrkt": "ゆうびんきょく に ひっこし の <b>とどけ</b> を だした よ。",
+      "latn": "yuubinkyoku ni hikkoshi no <b>todoke</b> wo dashita yo.",
+      "en": "I sent a change of address notice to the post office.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02985A.mp3"
+    }
+  ]
+}

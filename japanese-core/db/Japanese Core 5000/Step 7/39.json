@@ -1,0 +1,18 @@
+{
+  "ja": "笑い声",
+  "hrkt": "わらいごえ",
+  "latn": "waraigoe",
+  "en": "laughter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02230A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋の中から<b>笑い声</b>が聞こえた。",
+      "hrkt": "へや の なか から <b>わらいごえ</b> が きこえた。",
+      "latn": "heya no naka kara <b>waraigoe</b> ga kikoeta.",
+      "en": "I heard laughter coming from the room.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02230A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "飾る",
+  "hrkt": "かざる",
+  "latn": "kazaru",
+  "en": "decorate",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01581A.mp3",
+  "sentences": [
+    {
+      "ja": "テーブルの上に花を<b>飾りました</b>。",
+      "hrkt": "テーブル の うえ に はな を <b>かざりました</b>。",
+      "latn": "te-buru no ue ni hana wo <b>kazarimashita</b>.",
+      "en": "I decorated the table with flowers.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5641414.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01581A.mp3"
+    },
+    {
+      "ja": "玄関に花を<b>飾りました</b>。",
+      "hrkt": "げんかん に はな を <b>かざりました</b>。",
+      "latn": "genkan ni hana wo <b>kazarimashita</b>.",
+      "en": "I decorated the entrance with flowers.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/436455.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02749A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "店員",
+  "hrkt": "てんいん",
+  "latn": "tenin",
+  "en": "clerk, salesperson",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06137A.mp3",
+  "sentences": [
+    {
+      "ja": "あの<b>店員</b>はとても親切です。",
+      "hrkt": "あの <b>てんいん</b> は とても しんせつ です。",
+      "latn": "ano <b>tenin</b> ha totemo shinsetsu desu.",
+      "en": "That store clerk is very kind.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4163259.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06137A.mp3"
+    },
+    {
+      "ja": "<b>店員</b>は若い女の人でした。",
+      "hrkt": "<b>てんいん</b> は わかい おんな の ひと でした。",
+      "latn": "<b>tenin</b> ha wakai onna no hito deshita.",
+      "en": "The salesclerk was a young woman.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6205989.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01290A.mp3"
+    }
+  ]
+}

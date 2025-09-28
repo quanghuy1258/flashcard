@@ -1,0 +1,18 @@
+{
+  "ja": "サボる",
+  "hrkt": "サボル",
+  "latn": "saboru",
+  "en": "slack off, ditch",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02865A.mp3",
+  "sentences": [
+    {
+      "ja": "また仕事を<b>サボって</b>いますね。",
+      "hrkt": "また しごと を <b>サボって</b> います ね。",
+      "latn": "mata shigoto wo <b>sabotte</b> imasu ne.",
+      "en": "He's slacking off at work again, isn't he?",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/ab7hfn998.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02865A.mp3"
+    }
+  ]
+}

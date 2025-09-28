@@ -1,0 +1,18 @@
+{
+  "ja": "引き伸ばす",
+  "hrkt": "ひきのばす",
+  "latn": "hikinobasu",
+  "en": "stretch out, enlarge",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03311A.mp3",
+  "sentences": [
+    {
+      "ja": "この写真を<b>引き伸ばして</b>ください。",
+      "hrkt": "この しゃしん を <b>ひきのばして</b> ください。",
+      "latn": "kono shashin wo <b>hikinobashite</b> kudasai.",
+      "en": "Please enlarge this photograph.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03311A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "似ている",
+  "hrkt": "にている",
+  "latn": "niteiru",
+  "en": "look like, resemble",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06865A.mp3",
+  "sentences": [
+    {
+      "ja": "私は母に<b>似ています</b>。",
+      "hrkt": "わたし は はは に <b>にて います</b>。",
+      "latn": "watashi ha haha ni <b>nite imasu</b>.",
+      "en": "I resemble my mother.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3236426.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06865A.mp3"
+    },
+    {
+      "ja": "彼はお兄さんによく<b>似ている</b>。",
+      "hrkt": "かれ は おにいさん に よく <b>にて いる</b>。",
+      "latn": "kare ha oniisan ni yoku <b>nite iru</b>.",
+      "en": "He looks a lot like his older brother.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d33ncd2s00.mp3"
+    }
+  ]
+}

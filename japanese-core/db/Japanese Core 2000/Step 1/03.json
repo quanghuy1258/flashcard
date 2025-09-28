@@ -1,0 +1,26 @@
+{
+  "ja": "先月",
+  "hrkt": "せんげつ",
+  "latn": "sengetsu",
+  "en": "last month",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04867A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>先月</b>、友達の結婚式があった。",
+      "hrkt": "<b>せんげつ</b>、ともだち の けっこん しき が あった。",
+      "latn": "<b>sengetsu</b>,tomodachi no kekkon shiki ga atta.",
+      "en": "My friend had a wedding last month.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5227180.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04867A.mp3"
+    },
+    {
+      "ja": "<b>先月</b>の七日に孫が生まれました。",
+      "hrkt": "<b>せんげつ</b> の なのか に まご が うまれました。",
+      "latn": "<b>sengetsu</b> no nanoka ni mago ga umaremashita.",
+      "en": "My grandchild was born on the seventh of last month.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3829930.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06716A.mp3"
+    }
+  ]
+}

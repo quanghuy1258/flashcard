@@ -1,0 +1,18 @@
+{
+  "ja": "含む",
+  "hrkt": "ふくむ",
+  "latn": "fukumu",
+  "en": "contain, include",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03853A.mp3",
+  "sentences": [
+    {
+      "ja": "その食品は有害物質を<b>含んで</b>いるぞ。",
+      "hrkt": "その しょくひん は ゆうがい ぶっしつ を <b>ふくんで</b> いる ぞ。",
+      "latn": "sono shokuhin ha yuugai busshitsu wo <b>fukunde</b> iru zo.",
+      "en": "The food contains a poisonous substance.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/4360466vgk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03853A.mp3"
+    }
+  ]
+}

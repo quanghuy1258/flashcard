@@ -1,0 +1,18 @@
+{
+  "ja": "測定",
+  "hrkt": "そくてい",
+  "latn": "sokutei",
+  "en": "measure",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00421A.mp3",
+  "sentences": [
+    {
+      "ja": "これから身長と体重を<b>測定</b>します。",
+      "hrkt": "これから しんちょう と たいじゅう を <b>そくてい</b> します。",
+      "latn": "korekara shinchou to taijuu wo <b>sokutei</b> shimasu.",
+      "en": "Now we will measure your height and weight.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00421A.mp3"
+    }
+  ]
+}

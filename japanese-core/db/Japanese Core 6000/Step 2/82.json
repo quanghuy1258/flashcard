@@ -1,0 +1,18 @@
+{
+  "ja": "メロディー",
+  "hrkt": "メロディー",
+  "latn": "merodi-",
+  "en": "melody",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02340A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>メロディー</b>は聞いたことがある。",
+      "hrkt": "この <b>メロディー</b> は きいた こと が ある。",
+      "latn": "kono <b>merodi-</b> ha kiita koto ga aru.",
+      "en": "I've heard this melody before.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02340A.mp3"
+    }
+  ]
+}

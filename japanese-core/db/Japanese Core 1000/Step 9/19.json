@@ -1,0 +1,26 @@
+{
+  "ja": "カメラ",
+  "hrkt": "カメラ",
+  "latn": "kamera",
+  "en": "camera",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01780A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>カメラ</b>が壊れた。",
+      "hrkt": "<b>カメラ</b> が こわれた。",
+      "latn": "<b>kamera</b> ga kowareta.",
+      "en": "My camera broke.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2266948.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01780A.mp3"
+    },
+    {
+      "ja": "ホテルに<b>カメラ</b>を忘れました。",
+      "hrkt": "ホテル に <b>カメラ</b> を わすれました。",
+      "latn": "hoteru ni <b>kamera</b> wo wasuremashita.",
+      "en": "I forgot my camera at the hotel.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/040l4qbnhc.mp3"
+    }
+  ]
+}

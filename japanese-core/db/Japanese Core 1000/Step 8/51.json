@@ -1,0 +1,26 @@
+{
+  "ja": "晴れ",
+  "hrkt": "はれ",
+  "latn": "hare",
+  "en": "fine weather, clear sky",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07504A.mp3",
+  "sentences": [
+    {
+      "ja": "明日の天気は<b>晴れ</b>です。",
+      "hrkt": "あす の てんき は <b>はれ</b> です。",
+      "latn": "asu no tenki ha <b>hare</b> desu.",
+      "en": "Tomorrow's weather will be sunny.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4629609.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07504A.mp3"
+    },
+    {
+      "ja": "今日は<b>晴れ</b>ときどき曇りです。",
+      "hrkt": "きょう は <b>はれ</b> ときどき くもり です。",
+      "latn": "kyou ha <b>hare</b> tokidoki kumori desu.",
+      "en": "It will be sunny but sometimes cloudy.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/35074u70qg.mp3"
+    }
+  ]
+}

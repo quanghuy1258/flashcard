@@ -1,0 +1,26 @@
+{
+  "ja": "食べ物",
+  "hrkt": "たべもの",
+  "latn": "tabemono",
+  "en": "food (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05442A.mp3",
+  "sentences": [
+    {
+      "ja": "日本の<b>食べ物</b>はとてもおいしいです。",
+      "hrkt": "にっぽん の <b>たべもの</b> は とても おいしい です 。",
+      "latn": "nippon no <b>tabemono</b> ha totemo oishii desu .",
+      "en": "Japanese food is very delicious.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6173866.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05442A.mp3"
+    },
+    {
+      "ja": "弟は<b>食べ物</b>の好き嫌いが多い。",
+      "hrkt": "おとうと は <b>たべもの</b> の すききらい が おおい。",
+      "latn": "otouto ha <b>tabemono</b> no sukikirai ga ooi.",
+      "en": "My little brother is very particular about food.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/350b2q06b0.mp3"
+    }
+  ]
+}

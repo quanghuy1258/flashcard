@@ -1,0 +1,18 @@
+{
+  "ja": "金融",
+  "hrkt": "きんゆう",
+  "latn": "kin'yuu",
+  "en": "finance",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00066A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>金融</b>関係の会社で働いています。",
+      "hrkt": "かれ は <b>きんゆう</b> かんけい の かいしゃ で はたらいて います。",
+      "latn": "kare ha <b>kin'yuu</b> kankei no kaisha de hataraite imasu.",
+      "en": "He works at a financial company.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/5431f67c9c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00066A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "外側",
+  "hrkt": "そとがわ",
+  "latn": "sotogawa",
+  "en": "exterior, outside",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05074A.mp3",
+  "sentences": [
+    {
+      "ja": "白線の<b>外側</b>を歩かないでください。",
+      "hrkt": "はくせん の <b>そと がわ</b> を あるかないで ください。",
+      "latn": "hakusen no <b>soto gawa</b> wo arukanaide kudasai.",
+      "en": "Please don't walk outside the white line.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2480402.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05074A.mp3"
+    },
+    {
+      "ja": "窓の<b>外側</b>は私が拭きます。",
+      "hrkt": "まど の <b>そと がわ</b> は わたし が ふきます。",
+      "latn": "mado no <b>soto gawa</b> ha watashi ga fukimasu.",
+      "en": "I'll wipe the outside of the window.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/65697h5c60.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "弾く",
+  "hrkt": "ひく",
+  "latn": "hiku",
+  "en": "play (instruments)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07661A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はギターを<b>弾きます</b>。",
+      "hrkt": "かれ は ギター を <b>ひきます</b>。",
+      "latn": "kare ha gita- wo <b>hikimasu</b>.",
+      "en": "He plays the guitar.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5337176.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07661A.mp3"
+    },
+    {
+      "ja": "娘はピアノを<b>弾く</b>のが大好きです。",
+      "hrkt": "むすめ は ピアノ を <b>ひく</b> の が だいすき です。",
+      "latn": "musume ha piano wo <b>hiku</b> no ga daisuki desu.",
+      "en": "My daughter loves playing the piano.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/54f19gd5ps.mp3"
+    }
+  ]
+}

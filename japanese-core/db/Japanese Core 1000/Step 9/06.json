@@ -1,0 +1,26 @@
+{
+  "ja": "捨てる",
+  "hrkt": "すてる",
+  "latn": "suteru",
+  "en": "discard, abandon",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04590A.mp3",
+  "sentences": [
+    {
+      "ja": "ゴミを<b>捨てて</b>ください。",
+      "hrkt": "ゴミ を <b>すてて</b> ください。",
+      "latn": "gomi wo <b>sutete</b> kudasai.",
+      "en": "Please throw away the garbage.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5172728.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04590A.mp3"
+    },
+    {
+      "ja": "私は古い服を全部<b>捨てました</b>。",
+      "hrkt": "わたし は ふるい ふく を ぜんぶ <b>すてました</b>。",
+      "latn": "watashi ha furui fuku wo zenbu <b>sutemashita</b>.",
+      "en": "I discarded all my old clothes.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/530q5dejdc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "つまらない",
+  "hrkt": "つまらない",
+  "latn": "tsumaranai",
+  "en": "boring, dull",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05930A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の話は<b>つまらない</b>ですね。",
+      "hrkt": "かれ の はなし は <b>つまらない</b> です ね。",
+      "latn": "kare no hanashi ha <b>tsumaranai</b> desu ne.",
+      "en": "His story is boring.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5429946.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05930A.mp3"
+    },
+    {
+      "ja": "あの映画は<b>つまらなかった</b>。",
+      "hrkt": "あの えいが は <b>つまらなかった</b>。",
+      "latn": "ano eiga ha <b>tsumaranakatta</b>.",
+      "en": "That movie was boring.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a34n0p8q3g.mp3"
+    }
+  ]
+}

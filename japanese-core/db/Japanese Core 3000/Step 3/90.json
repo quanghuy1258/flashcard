@@ -1,0 +1,18 @@
+{
+  "ja": "ヒント",
+  "hrkt": "ヒント",
+  "latn": "hinto",
+  "en": "hint, clue",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03850A.mp3",
+  "sentences": [
+    {
+      "ja": "何か<b>ヒント</b>をください。",
+      "hrkt": "なに か <b>ヒント</b> を ください。",
+      "latn": "nani ka <b>hinto</b> wo kudasai.",
+      "en": "Please give me a hint.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b6435d6pn0.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03850A.mp3"
+    }
+  ]
+}

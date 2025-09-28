@@ -1,0 +1,26 @@
+{
+  "ja": "責任",
+  "hrkt": "せきにん",
+  "latn": "sekinin",
+  "en": "responsibility",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04785A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は失敗の<b>責任</b>を取って、会社を辞めた。",
+      "hrkt": "かれ は しっぱい の <b>せきにん</b> を とって、かいしゃ を やめた。",
+      "latn": "kare ha shippai no <b>sekinin</b> wo totte,kaisha wo yameta.",
+      "en": "He took responsibility for the mistake and left the company.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1092461.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04785A.mp3"
+    },
+    {
+      "ja": "私は、もっと<b>責任</b>のある仕事がしたいです。",
+      "hrkt": "わたし は、もっと <b>せきにん</b> の ある しごと が したい です。",
+      "latn": "watashi ha,motto <b>sekinin</b> no aru shigoto ga shitai desu.",
+      "en": "I want a job with more responsibility.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/951h046rf8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "こぼす",
+  "hrkt": "こぼす",
+  "latn": "kobosu",
+  "en": "spill (something)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03194A.mp3",
+  "sentences": [
+    {
+      "ja": "ソファにワインを<b>こぼした</b>。",
+      "hrkt": "ソファ に ワイン を <b>こぼした</b>。",
+      "latn": "sofa ni wain wo <b>koboshita</b>.",
+      "en": "I spilt wine on the sofa.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2919958.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03194A.mp3"
+    },
+    {
+      "ja": "教科書にコーヒーを<b>こぼして</b>しまいました。",
+      "hrkt": "きょうかしょ に コーヒー を <b>こぼして</b> しまいました。",
+      "latn": "kyoukasho ni ko-hi- wo <b>koboshite</b> shimaimashita.",
+      "en": "I spilled coffee on my textbook.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/76d00q0s08.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "シェフ",
+  "hrkt": "シェフ",
+  "latn": "shefu",
+  "en": "chef",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/83e53r868s.mp3",
+  "sentences": [
+    {
+      "ja": "私の父はフランス料理の<b>シェフ</b>だ。",
+      "hrkt": "わたし の ちち は フランス りょうり の <b>シェフ</b> だ。",
+      "latn": "watashi no chichi ha furansu ryouri no <b>shefu</b> da.",
+      "en": "My father is a French chef.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d44c7j62so.mp3"
+    }
+  ]
+}

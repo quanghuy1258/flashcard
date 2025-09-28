@@ -1,0 +1,18 @@
+{
+  "ja": "都立",
+  "hrkt": "とりつ",
+  "latn": "toritsu",
+  "en": "Tokyo metropolitan",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02029A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>都立</b>の病院です。",
+      "hrkt": "ここ は <b>とりつ</b> の びょういん です。",
+      "latn": "koko ha <b>toritsu</b> no byouin desu.",
+      "en": "This is a Tokyo metropolitan hospital.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02029A.mp3"
+    }
+  ]
+}

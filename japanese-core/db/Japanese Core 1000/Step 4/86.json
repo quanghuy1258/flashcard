@@ -1,0 +1,26 @@
+{
+  "ja": "六つ",
+  "hrkt": "むっつ",
+  "latn": "muttsu",
+  "en": "six (things)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09108A.mp3",
+  "sentences": [
+    {
+      "ja": "息子は<b>六つ</b>になりました。",
+      "hrkt": "むすこ は <b>むっつ</b> に なりました。",
+      "latn": "musuko ha <b>muttsu</b> ni narimashita.",
+      "en": "My son turned six.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2796874.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09108A.mp3"
+    },
+    {
+      "ja": "おにぎりを<b>六つ</b>作りました。",
+      "hrkt": "おにぎり を <b>むっつ</b> つくりました。",
+      "latn": "onigiri wo <b>muttsu</b> tsukurimashita.",
+      "en": "I made six rice balls.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b5fk8uf2g0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "混じる",
+  "hrkt": "まじる",
+  "latn": "majiru",
+  "en": "be blended, get mixed (distinguishable)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03886A.mp3",
+  "sentences": [
+    {
+      "ja": "電話の声に雑音が<b>混じって</b>いたの。",
+      "hrkt": "でんわ の こえ に ざつおん が <b>まじって</b> いた の。",
+      "latn": "denwa no koe ni zatsuon ga <b>majitte</b> ita no.",
+      "en": "The voice on the phone was mixed with background noise.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03886A.mp3"
+    }
+  ]
+}

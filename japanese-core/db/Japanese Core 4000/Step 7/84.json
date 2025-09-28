@@ -1,0 +1,18 @@
+{
+  "ja": "誤り",
+  "hrkt": "あやまり",
+  "latn": "ayamari",
+  "en": "error, mistake",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00738A.mp3",
+  "sentences": [
+    {
+      "ja": "解答に<b>誤り</b>が3つありますよ。",
+      "hrkt": "かいとう に <b>あやまり</b> が みっつ あります よ 。",
+      "latn": "kaitou ni <b>ayamari</b> ga mittsu arimasu yo .",
+      "en": "There are three errors in your answer.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00738A.mp3"
+    }
+  ]
+}

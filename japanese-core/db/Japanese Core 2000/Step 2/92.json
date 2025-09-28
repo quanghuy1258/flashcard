@@ -1,0 +1,26 @@
+{
+  "ja": "燃える",
+  "hrkt": "もえる",
+  "latn": "moeru",
+  "en": "burn, catch on fire",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09253A.mp3",
+  "sentences": [
+    {
+      "ja": "山が<b>燃えて</b>います。",
+      "hrkt": "やま が <b>もえて</b> います。",
+      "latn": "yama ga <b>moete</b> imasu.",
+      "en": "The mountain's on fire.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6065138.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09253A.mp3"
+    },
+    {
+      "ja": "庭で何かが<b>燃えて</b>います。",
+      "hrkt": "にわ で なに か が <b>もえて</b> います。",
+      "latn": "niwa de nani ka ga <b>moete</b> imasu.",
+      "en": "Something is burning in the yard.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c4e8a02tf8.mp3"
+    }
+  ]
+}

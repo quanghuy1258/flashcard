@@ -1,0 +1,26 @@
+{
+  "ja": "本棚",
+  "hrkt": "ほんだな",
+  "latn": "hondana",
+  "en": "bookshelf, bookcase",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08602A.mp3",
+  "sentences": [
+    {
+      "ja": "これはとても大きな<b>本棚</b>ですね。",
+      "hrkt": "これ は とても おおきな <b>ほんだな</b> です ね。",
+      "latn": "kore ha totemo ookina <b>hondana</b> desu ne.",
+      "en": "This is a very big bookshelf.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5896523.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08602A.mp3"
+    },
+    {
+      "ja": "日曜日に<b>本棚</b>を組み立てます。",
+      "hrkt": "にちようび に <b>ほんだな</b> を くみたてます。",
+      "latn": "nichiyoubi ni <b>hondana</b> wo kumitatemasu.",
+      "en": "I'll build and set up the bookshelf on Sunday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/643782.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02508A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "市",
+  "hrkt": "し",
+  "latn": "shi",
+  "en": "city (municipality)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02642A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>市</b>の人口は減り続けているの。",
+      "hrkt": "その <b>し</b> の じんこう は へり つづけて いる の。",
+      "latn": "sono <b>shi</b> no jinkou ha heri tsuzukete iru no.",
+      "en": "The population of the city has been decreasing.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02642A.mp3"
+    }
+  ]
+}

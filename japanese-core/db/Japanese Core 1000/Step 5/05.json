@@ -1,0 +1,26 @@
+{
+  "ja": "治る",
+  "hrkt": "なおる",
+  "latn": "naoru",
+  "en": "be cured, get well",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06624A.mp3",
+  "sentences": [
+    {
+      "ja": "けがはもう<b>治りました</b>か。",
+      "hrkt": "けが は もう <b>なおりました</b> か。",
+      "latn": "kega ha mou <b>naorimashita</b> ka.",
+      "en": "Is your injury cured yet?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5238719.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06624A.mp3"
+    },
+    {
+      "ja": "やっと風邪が<b>治りました</b>。",
+      "hrkt": "やっと かぜ が <b>なおりました</b>。",
+      "latn": "yatto kaze ga <b>naorimashita</b>.",
+      "en": "I've finally recovered from a cold.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/6373chf9qc.mp3"
+    }
+  ]
+}

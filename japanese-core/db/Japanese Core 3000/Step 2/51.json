@@ -1,0 +1,18 @@
+{
+  "ja": "横切る",
+  "hrkt": "よこぎる",
+  "latn": "yokogiru",
+  "en": "cut across",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01951A.mp3",
+  "sentences": [
+    {
+      "ja": "目の前を猫が<b>横切った</b>んだ。",
+      "hrkt": "め の まえ を ねこ が <b>よこぎった</b> ん だ。",
+      "latn": "me no mae wo neko ga <b>yokogitta</b> n da.",
+      "en": "A cat cut across in front of me.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/35701r5mg4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01951A.mp3"
+    }
+  ]
+}

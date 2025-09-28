@@ -1,0 +1,26 @@
+{
+  "ja": "出張",
+  "hrkt": "しゅっちょう",
+  "latn": "shucchou",
+  "en": "business trip",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01201A.mp3",
+  "sentences": [
+    {
+      "ja": "部長は京都に<b>出張</b>中です。",
+      "hrkt": "ぶちょう は きょうと に <b>しゅっちょう</b> ちゅう です。",
+      "latn": "buchou ha kyouto ni <b>shucchou</b> chuu desu.",
+      "en": "The manager is on a business trip to Kyoto.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/2lfe6l7imn0s0.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01201A.mp3"
+    },
+    {
+      "ja": "来月、オーストラリアに<b>出張</b>に行きます。",
+      "hrkt": "らいげつ、オーストラリア に <b>しゅっちょう</b> に いきます。",
+      "latn": "raigetsu,o-sutoraria ni <b>shucchou</b> ni ikimasu.",
+      "en": "Next month I'm going to Australia on business.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/336tdn2n1c.mp3"
+    }
+  ]
+}

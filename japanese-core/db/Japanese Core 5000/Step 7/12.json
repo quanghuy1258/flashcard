@@ -1,0 +1,18 @@
+{
+  "ja": "つまむ",
+  "hrkt": "つまむ",
+  "latn": "tsumamu",
+  "en": "snack on",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02731A.mp3",
+  "sentences": [
+    {
+      "ja": "お菓子でも<b>つまんで</b>ください。",
+      "hrkt": "おかし で も <b>つまんで</b> ください。",
+      "latn": "okashi de mo <b>tsumande</b> kudasai.",
+      "en": "Please help yourself to some snacks.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02731A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "よす",
+  "hrkt": "よす",
+  "latn": "yosu",
+  "en": "quit, stop",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03952A.mp3",
+  "sentences": [
+    {
+      "ja": "人をからかうのは<b>よしなさい</b>。",
+      "hrkt": "ひと を からかう の は <b>よしなさい</b>。",
+      "latn": "hito wo karakau no ha <b>yoshinasai</b>.",
+      "en": "Stop making fun of people.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03952A.mp3"
+    }
+  ]
+}

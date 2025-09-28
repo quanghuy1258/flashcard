@@ -1,0 +1,18 @@
+{
+  "ja": "駅長",
+  "hrkt": "えきちょう",
+  "latn": "ekichou",
+  "en": "stationmaster",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02763A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>駅長</b>です。",
+      "hrkt": "かれ は <b>えきちょう</b> です。",
+      "latn": "kare ha <b>ekichou</b> desu.",
+      "en": "He is a stationmaster.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02763A.mp3"
+    }
+  ]
+}

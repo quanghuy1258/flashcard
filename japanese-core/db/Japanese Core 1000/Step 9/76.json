@@ -1,0 +1,26 @@
+{
+  "ja": "長男",
+  "hrkt": "ちょうなん",
+  "latn": "chounan",
+  "en": "eldest son",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05724A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>長男</b>は8才です。",
+      "hrkt": "かれ の <b>ちょうなん</b> は 8 さい です。",
+      "latn": "kare no <b>chounan</b> ha 8 sai desu.",
+      "en": "His oldest son is eight years old.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6337387.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05724A.mp3"
+    },
+    {
+      "ja": "姉は<b>長男</b>と結婚した。",
+      "hrkt": "あね は <b>ちょうなん</b> と けっこん した。",
+      "latn": "ane ha <b>chounan</b> to kekkon shita.",
+      "en": "My older sister got married to an eldest son.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/44d0et6m78.mp3"
+    }
+  ]
+}

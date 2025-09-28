@@ -1,0 +1,18 @@
+{
+  "ja": "ガラス戸",
+  "hrkt": "ガラスど",
+  "latn": "garasudo",
+  "en": "glass door",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03201A.mp3",
+  "sentences": [
+    {
+      "ja": "お店の<b>ガラス戸</b>が割られたんだ。",
+      "hrkt": "おみせ の <b>ガラス ど</b> が わられた ん だ。",
+      "latn": "omise no <b>garasu do</b> ga warareta n da.",
+      "en": "The shop's glass door was broken.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03201A.mp3"
+    }
+  ]
+}

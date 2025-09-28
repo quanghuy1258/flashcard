@@ -1,0 +1,26 @@
+{
+  "ja": "図書館",
+  "hrkt": "としょかん",
+  "latn": "toshokan",
+  "en": "library",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06434A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>図書館</b>で料理の本を借りた。",
+      "hrkt": "<b>としょかん</b> で りょうり の ほん を かりた。",
+      "latn": "<b>toshokan</b> de ryouri no hon wo karita.",
+      "en": "I borrowed a cookbook from the library.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4751161.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06434A.mp3"
+    },
+    {
+      "ja": "日曜日は<b>図書館</b>に行きます。",
+      "hrkt": "にちようび は <b>としょかん</b> に いきます。",
+      "latn": "nichiyoubi ha <b>toshokan</b> ni ikimasu.",
+      "en": "I go to the library on Sundays.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3835135.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00393A.mp3"
+    }
+  ]
+}

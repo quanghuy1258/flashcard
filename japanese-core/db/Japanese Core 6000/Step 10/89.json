@@ -1,0 +1,18 @@
+{
+  "ja": "大蔵省",
+  "hrkt": "おおくらしょう",
+  "latn": "ookurashou",
+  "en": "Ministry of Finance",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00135A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>大蔵省</b>に勤務しているんだよ。",
+      "hrkt": "かれ は <b>おおくらしょう</b> に きんむ して いる ん だ よ。",
+      "latn": "kare ha <b>ookurashou</b> ni kinmu shite iru n da yo.",
+      "en": "He works for the Ministry of Finance.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00135A.mp3"
+    }
+  ]
+}

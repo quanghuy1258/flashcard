@@ -1,0 +1,18 @@
+{
+  "ja": "前回",
+  "hrkt": "ぜんかい",
+  "latn": "zenkai",
+  "en": "last time",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01190A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>前回</b>の続きから始めます。",
+      "hrkt": "<b>ぜんかい</b> の つづき から はじめます。",
+      "latn": "<b>zenkai</b> no tsuzuki kara hajimemasu.",
+      "en": "We'll start from where we left off last time.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/eb47cd7g4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01190A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "なるべく",
+  "hrkt": "なるべく",
+  "latn": "narubeku",
+  "en": "as...as possible, if possible",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01109A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>なるべく</b>早く仕事を終わらせてください。",
+      "hrkt": "<b>なるべく</b> はやく しごと を おわらせて ください。",
+      "latn": "<b>narubeku</b> hayaku shigoto wo owarasete kudasai.",
+      "en": "Please finish your work as quickly as possible.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/460503.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01109A.mp3"
+    },
+    {
+      "ja": "<b>なるべく</b>早く来てください。",
+      "hrkt": "<b>なるべく</b> はやく きて ください。",
+      "latn": "<b>narubeku</b> hayaku kite kudasai.",
+      "en": "Please come as early as possible.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5767008.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07468A.mp3"
+    }
+  ]
+}

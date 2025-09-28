@@ -1,0 +1,18 @@
+{
+  "ja": "閉店",
+  "hrkt": "へいてん",
+  "latn": "heiten",
+  "en": "shop closing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02430A.mp3",
+  "sentences": [
+    {
+      "ja": "この店は8時に<b>閉店</b>します。",
+      "hrkt": "この みせ は 8 じ に <b>へいてん</b> します。",
+      "latn": "kono mise ha 8 ji ni <b>heiten</b> shimasu.",
+      "en": "This shop closes at eight o'clock.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d52i2d4fek.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02430A.mp3"
+    }
+  ]
+}

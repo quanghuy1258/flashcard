@@ -1,0 +1,26 @@
+{
+  "ja": "郵便屋さん",
+  "hrkt": "ゆうびんやさん",
+  "latn": "yuubin'yasan",
+  "en": "mail carrier",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09515A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>郵便屋さん</b>はもう来ましたか。",
+      "hrkt": "<b>ゆうびん や さん</b> は もう きました か。",
+      "latn": "<b>yuubin ya san</b> ha mou kimashita ka.",
+      "en": "Has the mail carrier already come?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5479230.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09515A.mp3"
+    },
+    {
+      "ja": "<b>郵便屋さん</b>が母からの荷物を届けてくれました。",
+      "hrkt": "<b>ゆうびん や さん</b> が はは から の にもつ を とどけて くれました。",
+      "latn": "<b>yuubin ya san</b> ga haha kara no nimotsu wo todokete kuremashita.",
+      "en": "A mailman delivered a package from my mother.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a18k65dv4g.mp3"
+    }
+  ]
+}

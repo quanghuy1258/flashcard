@@ -1,0 +1,26 @@
+{
+  "ja": "懐かしい",
+  "hrkt": "なつかしい",
+  "latn": "natsukashii",
+  "en": "fondly-remembered, long-forgotten",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02219A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは私にとって<b>懐かしい</b>場所です。",
+      "hrkt": "ここ は わたし にとって <b>なつかしい</b> ばしょ です。",
+      "latn": "koko ha watashi nitotte <b>natsukashii</b> basho desu.",
+      "en": "I have a fond memory of this place.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/7ldb1e8tcb8cg.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02219A.mp3"
+    },
+    {
+      "ja": "日本にいた時が<b>懐かしい</b>です。",
+      "hrkt": "にほん に いた とき が <b>なつかしい</b> です。",
+      "latn": "nihon ni ita toki ga <b>natsukashii</b> desu.",
+      "en": "I fondly remember the time I was in Japan.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/94clcjc74s.mp3"
+    }
+  ]
+}

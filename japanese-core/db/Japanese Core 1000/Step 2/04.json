@@ -1,0 +1,26 @@
+{
+  "ja": "見せる",
+  "hrkt": "みせる",
+  "latn": "miseru",
+  "en": "show",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08911A.mp3",
+  "sentences": [
+    {
+      "ja": "その写真を<b>見せて</b>ください。",
+      "hrkt": "その しゃしん を <b>みせて</b> ください。",
+      "latn": "sono shashin wo <b>misete</b> kudasai.",
+      "en": "Please show me those pictures.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2879512.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08911A.mp3"
+    },
+    {
+      "ja": "去年のデータを<b>見せて</b>ください。",
+      "hrkt": "きょねん の データ を <b>みせて</b> ください。",
+      "latn": "kyonen no de-ta wo <b>misete</b> kudasai.",
+      "en": "Please show me last year's data.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/85dr724tj8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00003A.mp3"
+    }
+  ]
+}

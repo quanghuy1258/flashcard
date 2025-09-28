@@ -1,0 +1,18 @@
+{
+  "ja": "横顔",
+  "hrkt": "よこがお",
+  "latn": "yokogao",
+  "en": "profile, side face",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02631A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の<b>横顔</b>は素敵だ。",
+      "hrkt": "かのじょ の <b>よこがお</b> は すてき だ。",
+      "latn": "kanojo no <b>yokogao</b> ha suteki da.",
+      "en": "She has a lovely profile.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02631A.mp3"
+    }
+  ]
+}

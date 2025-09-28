@@ -1,0 +1,26 @@
+{
+  "ja": "それ",
+  "hrkt": "それ",
+  "latn": "sore",
+  "en": "that, that one",
+  "pos": "Pronoun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05106A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>それ</b>はとてもいい話だ。",
+      "hrkt": "<b>それ</b> は とても いい はなし だ。",
+      "latn": "<b>sore</b> ha totemo ii hanashi da.",
+      "en": "That's a really nice story.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3534288.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05106A.mp3"
+    },
+    {
+      "ja": "<b>それ</b>を一つください。",
+      "hrkt": "<b>それ</b> を ひとつ ください。",
+      "latn": "<b>sore</b> wo hitotsu kudasai.",
+      "en": "Please give me that one.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5689320.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07770A.mp3"
+    }
+  ]
+}

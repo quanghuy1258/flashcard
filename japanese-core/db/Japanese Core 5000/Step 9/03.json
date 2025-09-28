@@ -1,0 +1,18 @@
+{
+  "ja": "拒否",
+  "hrkt": "きょひ",
+  "latn": "kyohi",
+  "en": "rejection",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00415A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は出席を<b>拒否</b>した。",
+      "hrkt": "かのじょ は しゅっせき を <b>きょひ</b> した。",
+      "latn": "kanojo ha shusseki wo <b>kyohi</b> shita.",
+      "en": "She refused to attend.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00415A.mp3"
+    }
+  ]
+}

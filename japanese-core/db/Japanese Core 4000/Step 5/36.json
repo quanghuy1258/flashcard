@@ -1,0 +1,18 @@
+{
+  "ja": "さす",
+  "hrkt": "さす",
+  "latn": "sasu",
+  "en": "pour, fill, add",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03427A.mp3",
+  "sentences": [
+    {
+      "ja": "自転車に油を<b>さした</b>の。",
+      "hrkt": "じてんしゃ に あぶら を <b>さした</b> の。",
+      "latn": "jitensha ni abura wo <b>sashita</b> no.",
+      "en": "I greased (the gear of) my bicycle.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03640A.mp3"
+    }
+  ]
+}

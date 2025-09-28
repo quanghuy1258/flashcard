@@ -1,0 +1,18 @@
+{
+  "ja": "洋間",
+  "hrkt": "ようま",
+  "latn": "youma",
+  "en": "Western-style room",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03325A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の家には<b>洋間</b>があります。",
+      "hrkt": "かれ の いえ に は <b>ようま</b> が あります。",
+      "latn": "kare no ie ni ha <b>youma</b> ga arimasu.",
+      "en": "There's a Western-style room in his house.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03325A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "そんなに",
+  "hrkt": "そんなに",
+  "latn": "sonnani",
+  "en": "so much",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05136A.mp3",
+  "sentences": [
+    {
+      "ja": "一度に<b>そんなに</b>たくさんはできない。",
+      "hrkt": "いちど  に <b>そんな に</b> たくさん は できない。",
+      "latn": "ichido  ni <b>sonna ni</b> takusan ha dekinai.",
+      "en": "You can't do so much at one time.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6267421.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05136A.mp3"
+    },
+    {
+      "ja": "あのスーツは<b>そんなに</b>高くない。",
+      "hrkt": "あの スーツ は <b>そんな に</b> たかくない。",
+      "latn": "ano su-tsu ha <b>sonna ni</b> takakunai.",
+      "en": "The suit is not that pricey.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4199361.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04514A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "取れる",
+  "hrkt": "とれる",
+  "latn": "toreru",
+  "en": "come off, get removed, get picked",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01912A.mp3",
+  "sentences": [
+    {
+      "ja": "このナスは畑で<b>取れた</b>ばかりです。",
+      "hrkt": "この ナス は はたけ で <b>とれた</b> ばかり です。",
+      "latn": "kono nasu ha hatake de <b>toreta</b> bakari desu.",
+      "en": "This eggplant has just been picked from the field.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/83fr5sfbeg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01912A.mp3"
+    }
+  ]
+}

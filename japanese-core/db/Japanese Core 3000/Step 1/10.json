@@ -1,0 +1,18 @@
+{
+  "ja": "負け",
+  "hrkt": "まけ",
+  "latn": "make",
+  "en": "defeat, loss",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02162A.mp3",
+  "sentences": [
+    {
+      "ja": "この勝負はあなたの<b>負け</b>です。",
+      "hrkt": "この しょうぶ は あなた の <b>まけ</b> です。",
+      "latn": "kono shoubu ha anata no <b>make</b> desu.",
+      "en": "You've lost this match.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d59a6ce4a8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02162A.mp3"
+    }
+  ]
+}

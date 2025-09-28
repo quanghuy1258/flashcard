@@ -1,0 +1,18 @@
+{
+  "ja": "直後",
+  "hrkt": "ちょくご",
+  "latn": "chokugo",
+  "en": "immediately after",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01704A.mp3",
+  "sentences": [
+    {
+      "ja": "食べた<b>直後</b>に寝ないほうがいいよ。",
+      "hrkt": "たべた <b>ちょくご</b> に ねない ほう が いい よ。",
+      "latn": "tabeta <b>chokugo</b> ni nenai hou ga ii yo.",
+      "en": "You should not sleep immediately after meals.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01704A.mp3"
+    }
+  ]
+}

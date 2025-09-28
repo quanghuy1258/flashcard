@@ -1,0 +1,26 @@
+{
+  "ja": "柔らか",
+  "hrkt": "やわらか",
+  "latn": "yawaraka",
+  "en": "soft, gentle",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09465A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の声は<b>柔らか</b>だ。",
+      "hrkt": "かれ の こえ は <b>やわらか</b> だ。",
+      "latn": "kare no koe ha <b>yawaraka</b> da.",
+      "en": "His voice is soft.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4243008.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09465A.mp3"
+    },
+    {
+      "ja": "窓から<b>柔らか</b>な風が入ってきます。",
+      "hrkt": "まど から <b>やわらか</b>な かぜ が はいって きます。",
+      "latn": "mado kara <b>yawaraka</b>na kaze ga haitte kimasu.",
+      "en": "A gentle wind is coming in from the window.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b3eo0a24k4.mp3"
+    }
+  ]
+}

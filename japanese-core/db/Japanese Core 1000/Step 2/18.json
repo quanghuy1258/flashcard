@@ -1,0 +1,26 @@
+{
+  "ja": "冬",
+  "hrkt": "ふゆ",
+  "latn": "fuyu",
+  "en": "winter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08167A.mp3",
+  "sentences": [
+    {
+      "ja": "カナダの<b>冬</b>はとても寒いです。",
+      "hrkt": "カナダ の <b>ふゆ</b> は とても さむい です。",
+      "latn": "kanada no <b>fuyu</b> ha totemo samui desu.",
+      "en": "Canadian winters are very cold.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2814710.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08167A.mp3"
+    },
+    {
+      "ja": "<b>冬</b>はよくスキーに行きます。",
+      "hrkt": "<b>ふゆ</b> は よく スキー に いきます。",
+      "latn": "<b>fuyu</b> ha yoku suki- ni ikimasu.",
+      "en": "We go skiing a lot in winter.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2890485.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04532A.mp3"
+    }
+  ]
+}

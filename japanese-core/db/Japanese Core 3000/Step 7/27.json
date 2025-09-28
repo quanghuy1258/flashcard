@@ -1,0 +1,18 @@
+{
+  "ja": "通行止め",
+  "hrkt": "つうこうどめ",
+  "latn": "tsuukoudome",
+  "en": "road closed",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03732A.mp3",
+  "sentences": [
+    {
+      "ja": "あの道路は<b>通行止め</b>だそうです。",
+      "hrkt": "あの どうろ は <b>つうこうどめ</b> だ そうです。",
+      "latn": "ano douro ha <b>tsuukoudome</b> da soudesu.",
+      "en": "I hear that road is closed to traffic.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/25bv14epl0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03732A.mp3"
+    }
+  ]
+}

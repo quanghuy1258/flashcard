@@ -1,0 +1,18 @@
+{
+  "ja": "客間",
+  "hrkt": "きゃくま",
+  "latn": "kyakuma",
+  "en": "guest room",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03206A.mp3",
+  "sentences": [
+    {
+      "ja": "お客さんを<b>客間</b>にお通ししたわよ。",
+      "hrkt": "おきゃくさん を <b>きゃくま</b> に おとおしした わ よ。",
+      "latn": "okyakusan wo <b>kyakuma</b> ni otooshishita wa yo.",
+      "en": "I showed the guest into the reception room.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03206A.mp3"
+    }
+  ]
+}

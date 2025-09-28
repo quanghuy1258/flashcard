@@ -1,0 +1,26 @@
+{
+  "ja": "復習",
+  "hrkt": "ふくしゅう",
+  "latn": "fukushuu",
+  "en": "review",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08014A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日の<b>復習</b>をしましたか。",
+      "hrkt": "きのう の <b>ふくしゅう</b> を しました か。",
+      "latn": "kinou no <b>fukushuu</b> wo shimashita ka.",
+      "en": "Did you review yesterday's lesson?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6045197.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08014A.mp3"
+    },
+    {
+      "ja": "まず、先週の<b>復習</b>から始めましょう。",
+      "hrkt": "まず、せんしゅう の <b>ふくしゅう</b> から はじめましょう。",
+      "latn": "mazu,senshuu no <b>fukushuu</b> kara hajimemashou.",
+      "en": "First, let's start with the review of last week.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c87m6c9vrs.mp3"
+    }
+  ]
+}

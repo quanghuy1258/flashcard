@@ -1,0 +1,26 @@
+{
+  "ja": "暑い",
+  "hrkt": "あつい",
+  "latn": "atsui",
+  "en": "hot (of weather)",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00158A.mp3",
+  "sentences": [
+    {
+      "ja": "今日はとても<b>暑い</b>。",
+      "hrkt": "きょう は とても <b>あつい</b>。",
+      "latn": "kyou ha totemo <b>atsui</b>.",
+      "en": "It's very hot today.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3855625.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00158A.mp3"
+    },
+    {
+      "ja": "外は<b>暑い</b>よ。",
+      "hrkt": "そと は <b>あつい</b> よ。",
+      "latn": "soto ha <b>atsui</b> yo.",
+      "en": "It's hot outside.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1927705.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05073A.mp3"
+    }
+  ]
+}

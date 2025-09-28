@@ -1,0 +1,26 @@
+{
+  "ja": "除く",
+  "hrkt": "のぞく",
+  "latn": "nozoku",
+  "en": "remove, exclude",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07084A.mp3",
+  "sentences": [
+    {
+      "ja": "部長を<b>除く</b>全員が土曜日も働いた。",
+      "hrkt": "ぶちょう を <b>のぞく</b> ぜんいん が どようび も はたらいた。",
+      "latn": "buchou wo <b>nozoku</b> zenin ga doyoubi mo hataraita.",
+      "en": "Everyone except for the director worked on Saturday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5305116.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07084A.mp3"
+    },
+    {
+      "ja": "週末を<b>除く</b>と、家族といる時間がほとんどありません。",
+      "hrkt": "しゅうまつ を <b>のぞく</b> と、かぞく と いる じかん が ほとんど ありません。",
+      "latn": "shuumatsu wo <b>nozoku</b> to,kazoku to iru jikan ga hotondo arimasen.",
+      "en": "Excluding weekends, I hardly spend time with my family.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/350h2ibjdc.mp3"
+    }
+  ]
+}

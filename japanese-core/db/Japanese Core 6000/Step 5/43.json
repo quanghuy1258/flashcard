@@ -1,0 +1,18 @@
+{
+  "ja": "府",
+  "hrkt": "ふ",
+  "latn": "fu",
+  "en": "(Osaka or Kyoto) prefecture",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02660A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大阪<b>府</b>に住んでいます。",
+      "hrkt": "かれ は おおさか <b>ふ</b> に すんで います。",
+      "latn": "kare ha oosaka <b>fu</b> ni sunde imasu.",
+      "en": "He lives in the Osaka prefecture.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02660A.mp3"
+    }
+  ]
+}

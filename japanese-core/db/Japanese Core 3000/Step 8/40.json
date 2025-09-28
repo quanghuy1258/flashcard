@@ -1,0 +1,18 @@
+{
+  "ja": "指導",
+  "hrkt": "しどう",
+  "latn": "shidou",
+  "en": "guide, instruction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00340A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は生徒の<b>指導</b>が上手ね。",
+      "hrkt": "かれ は せいと の <b>しどう</b> が じょうず ね。",
+      "latn": "kare ha seito no <b>shidou</b> ga jouzu ne.",
+      "en": "He gives good instructions to his students.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d4307scplg.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00340A.mp3"
+    }
+  ]
+}

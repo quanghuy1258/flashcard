@@ -1,0 +1,18 @@
+{
+  "ja": "朝日",
+  "hrkt": "あさひ",
+  "latn": "asahi",
+  "en": "morning sun",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02262A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>朝日</b>が昇りました。",
+      "hrkt": "<b>あさひ</b> が のぼりました。",
+      "latn": "<b>asahi</b> ga noborimashita.",
+      "en": "The morning sun has risen.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f34ibj7ar0.mp3"
+    }
+  ]
+}

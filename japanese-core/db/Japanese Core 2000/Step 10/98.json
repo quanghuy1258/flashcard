@@ -1,0 +1,26 @@
+{
+  "ja": "対する",
+  "hrkt": "たいする",
+  "latn": "taisuru",
+  "en": "face, be in response to",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05208A.mp3",
+  "sentences": [
+    {
+      "ja": "その質問に<b>対する</b>答えが見つからなかった。",
+      "hrkt": "その しつもん に <b>たいする</b> こたえ が みつからなかった。",
+      "latn": "sono shitsumon ni <b>taisuru</b> kotae ga mitsukaranakatta.",
+      "en": "I couldn't find an answer to the question.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6496396.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05208A.mp3"
+    },
+    {
+      "ja": "彼女の仕事に<b>対する</b>姿勢は問題です。",
+      "hrkt": "かのじょ の しごと に <b>たいする</b> しせい は もんだい です。",
+      "latn": "kanojo no shigoto ni <b>taisuru</b> shisei ha mondai desu.",
+      "en": "Her attitude toward work is problematic.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/84991f72g8.mp3"
+    }
+  ]
+}

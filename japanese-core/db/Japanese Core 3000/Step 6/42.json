@@ -1,0 +1,18 @@
+{
+  "ja": "まぐろ",
+  "hrkt": "まぐろ",
+  "latn": "maguro",
+  "en": "tuna",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02705A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>まぐろ</b>の刺身を食べました。",
+      "hrkt": "<b>まぐろ</b> の さしみ を たべました。",
+      "latn": "<b>maguro</b> no sashimi wo tabemashita.",
+      "en": "I ate tuna sashimi.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/214839d7qs.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02705A.mp3"
+    }
+  ]
+}

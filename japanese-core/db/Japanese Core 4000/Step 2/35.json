@@ -1,0 +1,18 @@
+{
+  "ja": "支払う",
+  "hrkt": "しはらう",
+  "latn": "shiharau",
+  "en": "pay (money)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00473A.mp3",
+  "sentences": [
+    {
+      "ja": "カウンターで料金を<b>支払った</b>。",
+      "hrkt": "カウンター で りょうきん を <b>しはらった</b>。",
+      "latn": "kaunta- de ryoukin wo <b>shiharatta</b>.",
+      "en": "I paid the fee at the counter.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/3521464ngc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00473A.mp3"
+    }
+  ]
+}

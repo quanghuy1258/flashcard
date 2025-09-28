@@ -1,0 +1,26 @@
+{
+  "ja": "スプーン",
+  "hrkt": "スプーン",
+  "latn": "supu-n",
+  "en": "spoon",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04610A.mp3",
+  "sentences": [
+    {
+      "ja": "カレーライスは<b>スプーン</b>で食べます。",
+      "hrkt": "カレーライス は <b>スプーン</b> で たべます。",
+      "latn": "kare-raisu ha <b>supu-n</b> de tabemasu.",
+      "en": "You eat curry and rice with a spoon.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/431121.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04610A.mp3"
+    },
+    {
+      "ja": "赤ちゃんが<b>スプーン</b>でご飯を食べている。",
+      "hrkt": "あかちゃん が <b>スプーン</b> で ごはん を たべて いる。",
+      "latn": "akachan ga <b>supu-n</b> de gohan wo tabete iru.",
+      "en": "The baby is eating with a spoon.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/75dcfe4i9g.mp3"
+    }
+  ]
+}

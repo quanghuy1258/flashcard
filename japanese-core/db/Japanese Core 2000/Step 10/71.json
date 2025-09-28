@@ -1,0 +1,26 @@
+{
+  "ja": "土産",
+  "hrkt": "みやげ",
+  "latn": "miyage",
+  "en": "souvenir (plain)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03907A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>土産</b>に日本酒をもらった。",
+      "hrkt": "<b>みやげ</b> に にほんしゅ を もらった。",
+      "latn": "<b>miyage</b> ni nihonshu wo moratta.",
+      "en": "I got sake as a souvenir.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/fl6e5l2j8vi44.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03907A.mp3"
+    },
+    {
+      "ja": "父はお<b>土産</b>にお菓子を買ってきた。",
+      "hrkt": "ちち は お<b>みやげ</b> に おかし を かって きた。",
+      "latn": "chichi ha o<b>miyage</b> ni okashi wo katte kita.",
+      "en": "My father bought some sweets as a souvenir.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5431045.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01192A.mp3"
+    }
+  ]
+}

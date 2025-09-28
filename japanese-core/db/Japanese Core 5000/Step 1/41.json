@@ -1,0 +1,18 @@
+{
+  "ja": "上旬",
+  "hrkt": "じょうじゅん",
+  "latn": "joujun",
+  "en": "the first ten days (of a month)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01218A.mp3",
+  "sentences": [
+    {
+      "ja": "7月<b>上旬</b>に夏祭りがありますよ。",
+      "hrkt": "7 がつ <b>じょうじゅん</b> に なつまつり が あります よ。",
+      "latn": "7 gatsu <b>joujun</b> ni natsumatsuri ga arimasu yo.",
+      "en": "There is a summer festival at the beginning of July.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01218A.mp3"
+    }
+  ]
+}

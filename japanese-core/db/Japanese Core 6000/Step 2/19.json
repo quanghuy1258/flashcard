@@ -1,0 +1,18 @@
+{
+  "ja": "国交",
+  "hrkt": "こっこう",
+  "latn": "kokkou",
+  "en": "diplomatic relations",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01665A.mp3",
+  "sentences": [
+    {
+      "ja": "あの国とは<b>国交</b>がない。",
+      "hrkt": "あの くに と は <b>こっこう</b> が ない。",
+      "latn": "ano kuni to ha <b>kokkou</b> ga nai.",
+      "en": "We don't have any diplomatic relations with that country.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01665A.mp3"
+    }
+  ]
+}

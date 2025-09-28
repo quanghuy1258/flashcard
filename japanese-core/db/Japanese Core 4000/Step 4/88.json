@@ -1,0 +1,18 @@
+{
+  "ja": "旗",
+  "hrkt": "はた",
+  "latn": "hata",
+  "en": "flag, banner",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07324A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>旗</b>が風に揺れている。",
+      "hrkt": "<b>はた</b> が かぜ に ゆれて いる。",
+      "latn": "<b>hata</b> ga kaze ni yurete iru.",
+      "en": "The flag is waving in the wind.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07324A.mp3"
+    }
+  ]
+}

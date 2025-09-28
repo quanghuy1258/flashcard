@@ -1,0 +1,18 @@
+{
+  "ja": "全身",
+  "hrkt": "ぜんしん",
+  "latn": "zenshin",
+  "en": "the whole body",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01139A.mp3",
+  "sentences": [
+    {
+      "ja": "運動した翌日は<b>全身</b>の筋肉が痛い。",
+      "hrkt": "うんどう した よくじつ は <b>ぜんしん</b> の きんにく が いたい。",
+      "latn": "undou shita yokujitsu ha <b>zenshin</b> no kinniku ga itai.",
+      "en": "I have muscular pain all over my body the day after I exercise.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01139A.mp3"
+    }
+  ]
+}

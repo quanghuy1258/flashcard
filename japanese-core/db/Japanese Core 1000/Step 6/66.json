@@ -1,0 +1,26 @@
+{
+  "ja": "醤油",
+  "hrkt": "しょうゆ",
+  "latn": "shouyu",
+  "en": "soy sauce",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04244A.mp3",
+  "sentences": [
+    {
+      "ja": "もう少し<b>醤油</b>を足してください。",
+      "hrkt": "もう すこし <b>しょうゆ</b> を たして ください。",
+      "latn": "mou sukoshi <b>shouyu</b> wo tashite kudasai.",
+      "en": "Please add a little more soy sauce.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1387093.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04244A.mp3"
+    },
+    {
+      "ja": "寿司には<b>醤油</b>をつけます。",
+      "hrkt": "すし に は <b>しょうゆ</b> を つけます。",
+      "latn": "sushi ni ha <b>shouyu</b> wo tsukemasu.",
+      "en": "We put soy sauce on sushi.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/533eca46ts.mp3"
+    }
+  ]
+}

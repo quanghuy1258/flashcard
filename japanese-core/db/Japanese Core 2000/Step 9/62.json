@@ -1,0 +1,26 @@
+{
+  "ja": "状況",
+  "hrkt": "じょうきょう",
+  "latn": "joukyou",
+  "en": "situation, surrounding conditions",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04153A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>状況</b>では出発は難しいです。",
+      "hrkt": "この <b>じょうきょう</b> で は しゅっぱつ は むずかしい です。",
+      "latn": "kono <b>joukyou</b> de ha shuppatsu ha muzukashii desu.",
+      "en": "It's difficult to depart under these surrounding conditions.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5861821.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04153A.mp3"
+    },
+    {
+      "ja": "うちの会社は厳しい<b>状況</b>にあります。",
+      "hrkt": "うち の かいしゃ は きびしい <b>じょうきょう</b> に あります。",
+      "latn": "uchi no kaisha ha kibishii <b>joukyou</b> ni arimasu.",
+      "en": "Our company has been in a difficult situation.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/3495c6985c.mp3"
+    }
+  ]
+}

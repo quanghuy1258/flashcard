@@ -1,0 +1,18 @@
+{
+  "ja": "はめる",
+  "hrkt": "はめる",
+  "latn": "hameru",
+  "en": "put (something) into a hole, frame etc.",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02127A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は指輪をたくさん<b>はめて</b>いますね。",
+      "hrkt": "かのじょ は ゆびわ を たくさん <b>はめて</b> います ね。",
+      "latn": "kanojo ha yubiwa wo takusan <b>hamete</b> imasu ne.",
+      "en": "She's wearing a lot of rings.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02127A.mp3"
+    }
+  ]
+}

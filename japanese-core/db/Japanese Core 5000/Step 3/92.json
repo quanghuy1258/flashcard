@@ -1,0 +1,18 @@
+{
+  "ja": "毛皮",
+  "hrkt": "けがわ",
+  "latn": "kegawa",
+  "en": "fur",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01878A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>毛皮</b>のコートを着ていたの。",
+      "hrkt": "かのじょ は <b>けがわ</b> の コート を きて いた の。",
+      "latn": "kanojo ha <b>kegawa</b> no ko-to wo kite ita no.",
+      "en": "She was wearing a fur coat.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01878A.mp3"
+    }
+  ]
+}

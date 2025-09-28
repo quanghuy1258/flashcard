@@ -1,0 +1,18 @@
+{
+  "ja": "承認",
+  "hrkt": "しょうにん",
+  "latn": "shounin",
+  "en": "approval, recognition",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00520A.mp3",
+  "sentences": [
+    {
+      "ja": "これは政府の<b>承認</b>を受けた資格です。",
+      "hrkt": "これ は せいふ の <b>しょうにん</b> を うけた しかく です。",
+      "latn": "kore ha seifu no <b>shounin</b> wo uketa shikaku desu.",
+      "en": "This is a qualification approved by the government",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00520A.mp3"
+    }
+  ]
+}

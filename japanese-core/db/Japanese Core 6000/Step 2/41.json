@@ -1,0 +1,18 @@
+{
+  "ja": "密か",
+  "hrkt": "ひそか",
+  "latn": "hisoka",
+  "en": "secret, private",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03843A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の誕生日パーティーを<b>密か</b>に計画しています。",
+      "hrkt": "かのじょ の たんじょう び パーティー を <b>ひそか</b> に けいかく して います。",
+      "latn": "kanojo no tanjou bi pa-ti- wo <b>hisoka</b> ni keikaku shite imasu.",
+      "en": "We're secretly planning a birthday party for her.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03843A.mp3"
+    }
+  ]
+}

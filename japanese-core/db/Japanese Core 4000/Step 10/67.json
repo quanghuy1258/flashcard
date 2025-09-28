@@ -1,0 +1,18 @@
+{
+  "ja": "活字",
+  "hrkt": "かつじ",
+  "latn": "katsuji",
+  "en": "printed type",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01264A.mp3",
+  "sentences": [
+    {
+      "ja": "新聞の<b>活字</b>が読みやすくなったね。",
+      "hrkt": "しんぶん の <b>かつじ</b> が よみ やすく なった ね。",
+      "latn": "shinbun no <b>katsuji</b> ga yomi yasuku natta ne.",
+      "en": "Newspaper prints have become easier to read.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01264A.mp3"
+    }
+  ]
+}

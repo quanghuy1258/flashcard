@@ -1,0 +1,18 @@
+{
+  "ja": "氏",
+  "hrkt": "し",
+  "latn": "shi",
+  "en": "Mr., Mrs., pronoun for the third person",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03446A.mp3",
+  "sentences": [
+    {
+      "ja": "会長は田中<b>氏</b>に決定。",
+      "hrkt": "かいちょう は たなか <b>し</b> に けってい。",
+      "latn": "kaichou ha tanaka <b>shi</b> ni kettei.",
+      "en": "It has been decided that Mr. Tanaka will be chairperson.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03446A.mp3"
+    }
+  ]
+}

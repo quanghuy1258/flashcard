@@ -1,0 +1,26 @@
+{
+  "ja": "店",
+  "hrkt": "みせ",
+  "latn": "mise",
+  "en": "shop, store",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08905A.mp3",
+  "sentences": [
+    {
+      "ja": "私はこの<b>店</b>によく来ます。",
+      "hrkt": "わたし は この <b>みせ</b> に よく きます。",
+      "latn": "watashi ha kono <b>mise</b> ni yoku kimasu.",
+      "en": "I come to this store quite often.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5808499.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08905A.mp3"
+    },
+    {
+      "ja": "この<b>店</b>はサービスがいい。",
+      "hrkt": "この <b>みせ</b> は サービス が いい。",
+      "latn": "kono <b>mise</b> ha sa-bisu ga ii.",
+      "en": "The service in this store is good.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2367127.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03282A.mp3"
+    }
+  ]
+}

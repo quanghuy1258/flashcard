@@ -1,0 +1,18 @@
+{
+  "ja": "直通",
+  "hrkt": "ちょくつう",
+  "latn": "chokutsuu",
+  "en": "direct link",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03150A.mp3",
+  "sentences": [
+    {
+      "ja": "これは私の<b>直通</b>の電話番号です。",
+      "hrkt": "これ は わたし の <b>ちょくつう</b> の でんわ ばんごう です。",
+      "latn": "kore ha watashi no <b>chokutsuu</b> no denwa bangou desu.",
+      "en": "This is my direct phone number.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03150A.mp3"
+    }
+  ]
+}

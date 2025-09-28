@@ -1,0 +1,18 @@
+{
+  "ja": "権威",
+  "hrkt": "けんい",
+  "latn": "keni",
+  "en": "authority, power",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01398A.mp3",
+  "sentences": [
+    {
+      "ja": "博士はその道の<b>権威</b>です。",
+      "hrkt": "はかせ は その みち の <b>けんい</b> です。",
+      "latn": "hakase ha sono michi no <b>keni</b> desu.",
+      "en": "The doctor is an authority in the field.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01398A.mp3"
+    }
+  ]
+}

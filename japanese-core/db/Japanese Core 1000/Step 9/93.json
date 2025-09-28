@@ -1,0 +1,26 @@
+{
+  "ja": "馬",
+  "hrkt": "うま",
+  "latn": "uma",
+  "en": "horse",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00755A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は牧場で<b>馬</b>に乗った。",
+      "hrkt": "かれ は ぼくじょう で <b>うま</b> に のった。",
+      "latn": "kare ha bokujou de <b>uma</b> ni notta.",
+      "en": "He rode a horse at the ranch.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4602724.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00755A.mp3"
+    },
+    {
+      "ja": "<b>馬</b>はにんじんやりんごが好きです。",
+      "hrkt": "<b>うま</b> は にんじん や りんご が すき です。",
+      "latn": "<b>uma</b> ha ninjin ya ringo ga suki desu.",
+      "en": "Horses like carrots and apples.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/54041kfrv8.mp3"
+    }
+  ]
+}

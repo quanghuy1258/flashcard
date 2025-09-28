@@ -1,0 +1,18 @@
+{
+  "ja": "緊急",
+  "hrkt": "きんきゅう",
+  "latn": "kinkyuu",
+  "en": "urgent, emergency",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00553A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>緊急</b>事態が発生した。",
+      "hrkt": "<b>きんきゅう</b> じたい が はっせい した。",
+      "latn": "<b>kinkyuu</b> jitai ga hassei shita.",
+      "en": "We have an emergency.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/15d7ee5l4o.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00553A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "付け足す",
+  "hrkt": "つけたす",
+  "latn": "tsuketasu",
+  "en": "add on, append",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03366A.mp3",
+  "sentences": [
+    {
+      "ja": "何か<b>付け足す</b>ことはありますか。",
+      "hrkt": "なに か <b>つけたす</b> こと は あります か。",
+      "latn": "nani ka <b>tsuketasu</b> koto ha arimasu ka.",
+      "en": "Is there anything to add?",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c1fd957f34.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03366A.mp3"
+    }
+  ]
+}

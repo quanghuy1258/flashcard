@@ -1,0 +1,26 @@
+{
+  "ja": "肌",
+  "hrkt": "はだ",
+  "latn": "hada",
+  "en": "human skin, surface",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01320A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>肌</b>がとても白いですね。",
+      "hrkt": "かのじょ は <b>はだ</b> が とても しろい です ね。",
+      "latn": "kanojo ha <b>hada</b> ga totemo shiroi desu ne.",
+      "en": "Her skin is very white.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/2l0e1ldi1ho6c.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01320A.mp3"
+    },
+    {
+      "ja": "あまり<b>肌</b>を焼かない方がいいですよ。",
+      "hrkt": "あまり <b>はだ</b> を やかない ほう が いい です よ。",
+      "latn": "amari <b>hada</b> wo yakanai hou ga ii desu yo.",
+      "en": "It's better if you don't tan your skin this much.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/743vc1419g.mp3"
+    }
+  ]
+}

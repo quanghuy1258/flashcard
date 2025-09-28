@@ -1,0 +1,18 @@
+{
+  "ja": "焼き肉",
+  "hrkt": "やきにく",
+  "latn": "yakiniku",
+  "en": "grilled meat, barbecued meat",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02588A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>焼き肉</b>が大好きです。",
+      "hrkt": "かれ は <b>やきにく</b> が だいすき です。",
+      "latn": "kare ha <b>yakiniku</b> ga daisuki desu.",
+      "en": "He loves barbecues.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/16b90ke5gc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02588A.mp3"
+    }
+  ]
+}

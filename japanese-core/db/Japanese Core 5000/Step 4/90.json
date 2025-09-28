@@ -1,0 +1,18 @@
+{
+  "ja": "日当たり",
+  "hrkt": "ひあたり",
+  "latn": "hiatari",
+  "en": "exposure to the sun",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03051A.mp3",
+  "sentences": [
+    {
+      "ja": "この部屋は<b>日当たり</b>がいい。",
+      "hrkt": "この へや は <b>ひあたり</b> が いい。",
+      "latn": "kono heya ha <b>hiatari</b> ga ii.",
+      "en": "This room gets a lot of sunshine.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03051A.mp3"
+    }
+  ]
+}

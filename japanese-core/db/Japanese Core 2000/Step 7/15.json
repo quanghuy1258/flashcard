@@ -1,0 +1,26 @@
+{
+  "ja": "早起き",
+  "hrkt": "はやおき",
+  "latn": "hayaoki",
+  "en": "getting up early",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07467A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父は<b>早起き</b>です。",
+      "hrkt": "そふ は <b>はやおき</b> です。",
+      "latn": "sofu ha <b>hayaoki</b> desu.",
+      "en": "My grandfather gets up early.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3691765.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07467A.mp3"
+    },
+    {
+      "ja": "明日は<b>早起き</b>しないといけません。",
+      "hrkt": "あした は <b>はやおき</b> しない と いけません。",
+      "latn": "ashita ha <b>hayaoki</b> shinai to ikemasen.",
+      "en": "We have to get up early tomorrow.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/11dq7399r8.mp3"
+    }
+  ]
+}

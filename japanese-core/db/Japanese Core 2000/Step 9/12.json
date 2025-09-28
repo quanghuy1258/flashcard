@@ -1,0 +1,26 @@
+{
+  "ja": "袋",
+  "hrkt": "ふくろ",
+  "latn": "fukuro",
+  "en": "bag, sack",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08026A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>袋</b>は要りません。",
+      "hrkt": "<b>ふくろ</b> は いりません。",
+      "latn": "<b>fukuro</b> ha irimasen.",
+      "en": "I don't need a bag.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5893830.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08026A.mp3"
+    },
+    {
+      "ja": "お菓子を入れる<b>袋</b>を持ってきてください。",
+      "hrkt": "おかし を いれる <b>ふくろ</b> を もって きて ください。",
+      "latn": "okashi wo ireru <b>fukuro</b> wo motte kite kudasai.",
+      "en": "Please bring a bag to put snack in.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/731u6derm8.mp3"
+    }
+  ]
+}

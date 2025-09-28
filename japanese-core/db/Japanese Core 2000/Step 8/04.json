@@ -1,0 +1,26 @@
+{
+  "ja": "母親",
+  "hrkt": "ははおや",
+  "latn": "hahaoya",
+  "en": "mother, female parent",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00044A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は2才の子の<b>母親</b>です。",
+      "hrkt": "かのじょ は 2 さい の こ の <b>ははおや</b> です。",
+      "latn": "kanojo ha 2 sai no ko no <b>hahaoya</b> desu.",
+      "en": "She's a mother of a two-year-old kid.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5381866.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00044A.mp3"
+    },
+    {
+      "ja": "少女は<b>母親</b>の手を握った。",
+      "hrkt": "しょうじょ は <b>ははおや</b> の て を にぎった。",
+      "latn": "shoujo ha <b>hahaoya</b> no te wo nigitta.",
+      "en": "The girl clasped her mother's hand.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/660847.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06812A.mp3"
+    }
+  ]
+}

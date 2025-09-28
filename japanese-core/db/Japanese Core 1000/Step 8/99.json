@@ -1,0 +1,26 @@
+{
+  "ja": "雪",
+  "hrkt": "ゆき",
+  "latn": "yuki",
+  "en": "snow, snowfall",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09535A.mp3",
+  "sentences": [
+    {
+      "ja": "クリスマスに<b>雪</b>が降りました。",
+      "hrkt": "クリスマス に <b>ゆき</b> が ふりました。",
+      "latn": "kurisumasu ni <b>yuki</b> ga furimashita.",
+      "en": "It snowed on Christmas Day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6284593.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09535A.mp3"
+    },
+    {
+      "ja": "白は<b>雪</b>の色です。",
+      "hrkt": "しろ は <b>ゆき</b> の いろ です。",
+      "latn": "shiro ha <b>yuki</b> no iro desu.",
+      "en": "White is the color of snow.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4389909.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04344A.mp3"
+    }
+  ]
+}

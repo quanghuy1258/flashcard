@@ -1,0 +1,18 @@
+{
+  "ja": "級",
+  "hrkt": "きゅう",
+  "latn": "kyuu",
+  "en": "grade, class",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01435A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は書道3<b>級</b>です。",
+      "hrkt": "かれ は しょどう 3 <b>きゅう</b> です。",
+      "latn": "kare ha shodou 3 <b>kyuu</b> desu.",
+      "en": "He has a class three certificate in Japanese calligraphy.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a47453fn78.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01435A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "脱ぐ",
+  "hrkt": "ぬぐ",
+  "latn": "nugu",
+  "en": "take off (clothes)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06931A.mp3",
+  "sentences": [
+    {
+      "ja": "靴を<b>脱いで</b>ください。",
+      "hrkt": "くつ を <b>ぬいで</b> ください。",
+      "latn": "kutsu wo <b>nuide</b> kudasai.",
+      "en": "Please take off your shoes.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/585469.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06931A.mp3"
+    },
+    {
+      "ja": "暑いので上着を<b>脱ぎました</b>。",
+      "hrkt": "あつい ので うわぎ を <b>ぬぎました</b>。",
+      "latn": "atsui node uwagi wo <b>nugimashita</b>.",
+      "en": "I took my jacket off because it was hot.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3025464.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00807A.mp3"
+    }
+  ]
+}

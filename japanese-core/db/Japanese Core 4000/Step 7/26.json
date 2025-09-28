@@ -1,0 +1,18 @@
+{
+  "ja": "予備",
+  "hrkt": "よび",
+  "latn": "yobi",
+  "en": "reserve, extra",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01932A.mp3",
+  "sentences": [
+    {
+      "ja": "旅行には<b>予備</b>の靴を持っていきます。",
+      "hrkt": "りょこう に は <b>よび</b> の くつ を もって いきます。",
+      "latn": "ryokou ni ha <b>yobi</b> no kutsu wo motte ikimasu.",
+      "en": "I'm taking some extra shoes for the trip.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01932A.mp3"
+    }
+  ]
+}

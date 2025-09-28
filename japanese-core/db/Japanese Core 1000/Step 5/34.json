@@ -1,0 +1,26 @@
+{
+  "ja": "今回",
+  "hrkt": "こんかい",
+  "latn": "konkai",
+  "en": "this time",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03243A.mp3",
+  "sentences": [
+    {
+      "ja": "まあ<b>今回</b>は許してあげよう。",
+      "hrkt": "まあ <b>こんかい</b> は ゆるして あげよう。",
+      "latn": "maa <b>konkai</b> ha yurushite ageyou.",
+      "en": "Well, I'll let you off this time.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4533923.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03243A.mp3"
+    },
+    {
+      "ja": "<b>今回</b>はビジネスクラスに乗りました。",
+      "hrkt": "<b>こんかい</b> は ビジネス クラス に のりました。",
+      "latn": "<b>konkai</b> ha bijinesu kurasu ni norimashita.",
+      "en": "This time I flew business class.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b43h7u8rsg.mp3"
+    }
+  ]
+}

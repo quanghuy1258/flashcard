@@ -1,0 +1,26 @@
+{
+  "ja": "咲く",
+  "hrkt": "さく",
+  "latn": "saku",
+  "en": "bloom, blossom",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/users/teddydoggie/85c3af26debc1a73acd57444578ba551.mp3",
+  "sentences": [
+    {
+      "ja": "桜の花が<b>咲きました</b>。",
+      "hrkt": "さくら の はな が <b>さきました</b>。",
+      "latn": "sakura no hana ga <b>sakimashita</b>.",
+      "en": "Cherry blossoms have bloomed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5877539.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03378A.mp3"
+    },
+    {
+      "ja": "小さい花が<b>咲いて</b>います。",
+      "hrkt": "ちいさい はな が <b>さいて</b> います。",
+      "latn": "chiisai hana ga <b>saite</b> imasu.",
+      "en": "Small flowers are blooming.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5507048.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05553A.mp3"
+    }
+  ]
+}

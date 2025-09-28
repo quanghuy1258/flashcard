@@ -1,0 +1,26 @@
+{
+  "ja": "自転車",
+  "hrkt": "じてんしゃ",
+  "latn": "jitensha",
+  "en": "bicycle",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03798A.mp3",
+  "sentences": [
+    {
+      "ja": "毎日、駅まで<b>自転車</b>で行きます。",
+      "hrkt": "まいにち、えき まで <b>じてんしゃ</b> で いきます。",
+      "latn": "mainichi,eki made <b>jitensha</b> de ikimasu.",
+      "en": "I go to the station by bike every day.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2504001.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03798A.mp3"
+    },
+    {
+      "ja": "昨日、<b>自転車</b>で海に行きました。",
+      "hrkt": "きのう、<b>じてんしゃ</b> で うみ に いきました。",
+      "latn": "kinou,<b>jitensha</b> de umi ni ikimashita.",
+      "en": "Yesterday, I cycled to the sea.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/232o0t6k4k.mp3"
+    }
+  ]
+}

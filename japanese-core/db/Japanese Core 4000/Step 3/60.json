@@ -1,0 +1,18 @@
+{
+  "ja": "刑事",
+  "hrkt": "けいじ",
+  "latn": "keiji",
+  "en": "detective",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01484A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>刑事</b>が現場を調べているわ。",
+      "hrkt": "<b>けいじ</b> が げんば を しらべて いる わ。",
+      "latn": "<b>keiji</b> ga genba wo shirabete iru wa.",
+      "en": "The detective is investigating the crime scene.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01484A.mp3"
+    }
+  ]
+}

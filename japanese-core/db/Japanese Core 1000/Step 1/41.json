@@ -1,0 +1,26 @@
+{
+  "ja": "どう",
+  "hrkt": "どう",
+  "latn": "dou",
+  "en": "how, what",
+  "pos": "Interrogative",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06208A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたは<b>どう</b>思いますか。",
+      "hrkt": "あなた は <b>どう</b> おもいます か。",
+      "latn": "anata ha <b>dou</b> omoimasu ka.",
+      "en": "What do you think?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3169119.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06208A.mp3"
+    },
+    {
+      "ja": "私は<b>どう</b>したらいいですか。",
+      "hrkt": "わたし は <b>どう</b> したら いい です か。",
+      "latn": "watashi ha <b>dou</b> shitara ii desu ka.",
+      "en": "What should I do?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/452505eamg.mp3"
+    }
+  ]
+}

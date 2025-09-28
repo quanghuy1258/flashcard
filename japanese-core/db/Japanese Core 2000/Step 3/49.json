@@ -1,0 +1,26 @@
+{
+  "ja": "注射",
+  "hrkt": "ちゅうしゃ",
+  "latn": "chuusha",
+  "en": "injection, shot",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05662A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>注射</b>があまり好きではありません。",
+      "hrkt": "かれ は <b>ちゅうしゃ</b> が あまり すき で は ありません。",
+      "latn": "kare ha <b>chuusha</b> ga amari suki de ha arimasen.",
+      "en": "He doesn't like getting shots very much.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4887938.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05662A.mp3"
+    },
+    {
+      "ja": "熱が高かったので<b>注射</b>をしました。",
+      "hrkt": "ねつ が たかかった ので <b>ちゅうしゃ</b> を しました。",
+      "latn": "netsu ga takakatta node <b>chuusha</b> wo shimashita.",
+      "en": "Because I had a high fever, I got a shot.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/54ecfi8r08.mp3"
+    }
+  ]
+}

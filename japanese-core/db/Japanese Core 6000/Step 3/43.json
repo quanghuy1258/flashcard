@@ -1,0 +1,18 @@
+{
+  "ja": "売り出す",
+  "hrkt": "うりだす",
+  "latn": "uridasu",
+  "en": "put (something) on sale",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00858A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい車が<b>売り出された</b>。",
+      "hrkt": "あたらしい くるま が <b>うりだされた</b>。",
+      "latn": "atarashii kuruma ga <b>uridasareta</b>.",
+      "en": "A new car has been put on sale.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00858A.mp3"
+    }
+  ]
+}

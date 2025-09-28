@@ -1,0 +1,26 @@
+{
+  "ja": "降ろす",
+  "hrkt": "おろす",
+  "latn": "orosu",
+  "en": "unload, set down",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01265A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は車から荷物を<b>降ろした</b>。",
+      "hrkt": "かれ は くるま から にもつ を <b>おろした</b>。",
+      "latn": "kare ha kuruma kara nimotsu wo <b>oroshita</b>.",
+      "en": "He unloaded the luggage from the car.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3576216.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01265A.mp3"
+    },
+    {
+      "ja": "すみません、そこの角で<b>降ろして</b>ください。",
+      "hrkt": "すみません、そこ の かど で <b>おろして</b> ください。",
+      "latn": "sumimasen,soko no kado de <b>oroshite</b> kudasai.",
+      "en": "Excuse me, please drop me off at the corner there.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d3fv7b8foc.mp3"
+    }
+  ]
+}

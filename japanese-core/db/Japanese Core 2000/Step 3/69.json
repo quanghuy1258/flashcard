@@ -1,0 +1,26 @@
+{
+  "ja": "引っ張る",
+  "hrkt": "ひっぱる",
+  "latn": "hipparu",
+  "en": "pull, drag",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07749A.mp3",
+  "sentences": [
+    {
+      "ja": "娘が私の手を<b>引っ張った</b>。",
+      "hrkt": "むすめ が わたし の て を <b>ひっぱった</b>。",
+      "latn": "musume ga watashi no te wo <b>hippatta</b>.",
+      "en": "My daughter tugged on my hand.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6082321.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07749A.mp3"
+    },
+    {
+      "ja": "その女の子は犬に<b>引っ張られて</b>いる。",
+      "hrkt": "その おんな の こ は いぬ に <b>ひっぱられて</b> いる。",
+      "latn": "sono onna no ko ha inu ni <b>hippararete</b> iru.",
+      "en": "That girl is being dragged by the dog.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/155ia6bco8.mp3"
+    }
+  ]
+}

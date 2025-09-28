@@ -1,0 +1,18 @@
+{
+  "ja": "バーゲン",
+  "hrkt": "バーゲン",
+  "latn": "ba-gen",
+  "en": "bargain sale",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03047A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日<b>バーゲン</b>でスーツを買いました。",
+      "hrkt": "きのう <b>バーゲン</b> で スーツ を かいました。",
+      "latn": "kinou <b>ba-gen</b> de su-tsu wo kaimashita.",
+      "en": "I bought a suit in a sale yesterday.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/932vem14go.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03047A.mp3"
+    }
+  ]
+}

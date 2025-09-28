@@ -1,0 +1,26 @@
+{
+  "ja": "理科",
+  "hrkt": "りか",
+  "latn": "rika",
+  "en": "science (school subject)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09793A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>理科</b>が得意です。",
+      "hrkt": "わたし は <b>りか</b> が とくい です。",
+      "latn": "watashi ha <b>rika</b> ga tokui desu.",
+      "en": "I'm good at science.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5463393.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09793A.mp3"
+    },
+    {
+      "ja": "明日は<b>理科</b>のテストです。",
+      "hrkt": "あした は <b>りか</b> の テスト です。",
+      "latn": "ashita ha <b>rika</b> no tesuto desu.",
+      "en": "I have a science test tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2546152.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06084A.mp3"
+    }
+  ]
+}

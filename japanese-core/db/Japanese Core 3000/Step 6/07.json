@@ -1,0 +1,18 @@
+{
+  "ja": "近道",
+  "hrkt": "ちかみち",
+  "latn": "chikamichi",
+  "en": "shortcut",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02875A.mp3",
+  "sentences": [
+    {
+      "ja": "こっちが<b>近道</b>です。",
+      "hrkt": "こっち が <b>ちかみち</b> です。",
+      "latn": "kocchi ga <b>chikamichi</b> desu.",
+      "en": "This is a shortcut.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/422t6t36j8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02875A.mp3"
+    }
+  ]
+}

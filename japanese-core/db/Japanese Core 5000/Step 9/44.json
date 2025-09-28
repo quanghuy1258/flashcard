@@ -1,0 +1,18 @@
+{
+  "ja": "幹部",
+  "hrkt": "かんぶ",
+  "latn": "kanbu",
+  "en": "leader, executive",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00027A.mp3",
+  "sentences": [
+    {
+      "ja": "あの会社の<b>幹部</b>はみんなとても優秀だね。",
+      "hrkt": "あの かいしゃ の <b>かんぶ</b> は みんな とても ゆうしゅう だ ね 。",
+      "latn": "ano kaisha no <b>kanbu</b> ha minna totemo yuushuu da ne .",
+      "en": "The leaders in that company are all exceptional.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00027A.mp3"
+    }
+  ]
+}

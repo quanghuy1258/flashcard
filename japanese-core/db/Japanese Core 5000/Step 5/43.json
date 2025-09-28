@@ -1,0 +1,18 @@
+{
+  "ja": "射す",
+  "hrkt": "さす",
+  "latn": "sasu",
+  "en": "shine on",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03445A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は久しぶりに日が<b>射してる</b>ね。",
+      "hrkt": "きょう は ひさしぶり に ひ が <b>さしてる</b> ね。",
+      "latn": "kyou ha hisashiburi ni hi ga <b>sashiteru</b> ne.",
+      "en": "Today the sun is shining for the first time in a long time.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03445A.mp3"
+    }
+  ]
+}

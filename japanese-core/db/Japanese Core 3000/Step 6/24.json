@@ -1,0 +1,18 @@
+{
+  "ja": "くしゃくしゃ",
+  "hrkt": "くしゃくしゃ",
+  "latn": "kushakusha",
+  "en": "messy, crumpled",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03209A.mp3",
+  "sentences": [
+    {
+      "ja": "紙を<b>くしゃくしゃ</b>に丸めました。",
+      "hrkt": "かみ を <b>くしゃくしゃ</b> に まるめました。",
+      "latn": "kami wo <b>kushakusha</b> ni marumemashita.",
+      "en": "I crumpled the paper into a ball.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/45amar3t2c.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03209A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "求人",
+  "hrkt": "きゅうじん",
+  "latn": "kyuujin",
+  "en": "recruiting",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01405A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>求人</b>広告で仕事を見つけたんだ。",
+      "hrkt": "かれ は <b>きゅうじん</b> こうこく で しごと を みつけた ん だ。",
+      "latn": "kare ha <b>kyuujin</b> koukoku de shigoto wo mitsuketa n da.",
+      "en": "He found a job through recruiting ads.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01405A.mp3"
+    }
+  ]
+}

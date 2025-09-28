@@ -1,0 +1,18 @@
+{
+  "ja": "人種",
+  "hrkt": "じんしゅ",
+  "latn": "jinshu",
+  "en": "race, racial group",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01380A.mp3",
+  "sentences": [
+    {
+      "ja": "この国にはさまざまな<b>人種</b>がいます。",
+      "hrkt": "この くに に は さまざまな <b>じんしゅ</b> が います。",
+      "latn": "kono kuni ni ha samazamana <b>jinshu</b> ga imasu.",
+      "en": "There are many different racial groups in this country.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01380A.mp3"
+    }
+  ]
+}

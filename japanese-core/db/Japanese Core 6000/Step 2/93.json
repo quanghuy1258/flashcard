@@ -1,0 +1,18 @@
+{
+  "ja": "押さえる",
+  "hrkt": "おさえる",
+  "latn": "osaeru",
+  "en": "hold down",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01058A.mp3",
+  "sentences": [
+    {
+      "ja": "ドアを<b>押さえて</b>ください。",
+      "hrkt": "ドア を <b>おさえて</b> ください。",
+      "latn": "doa wo <b>osaete</b> kudasai.",
+      "en": "Please hold the door.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01058A.mp3"
+    }
+  ]
+}

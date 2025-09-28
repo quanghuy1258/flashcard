@@ -1,0 +1,26 @@
+{
+  "ja": "事実",
+  "hrkt": "じじつ",
+  "latn": "jijitsu",
+  "en": "fact, truth",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03674A.mp3",
+  "sentences": [
+    {
+      "ja": "それは全て<b>事実</b>ですか。",
+      "hrkt": "それ は すべて <b>じじつ</b> です か。",
+      "latn": "sore ha subete <b>jijitsu</b> desu ka.",
+      "en": "Is it all true?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5993650.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03674A.mp3"
+    },
+    {
+      "ja": "計画が失敗したのは<b>事実</b>です。",
+      "hrkt": "けいかく が しっぱい した の は <b>じじつ</b> です。",
+      "latn": "keikaku ga shippai shita no ha <b>jijitsu</b> desu.",
+      "en": "It is a fact that the plan failed.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c4df29fsfs.mp3"
+    }
+  ]
+}

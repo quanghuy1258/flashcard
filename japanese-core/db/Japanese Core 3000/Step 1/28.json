@@ -1,0 +1,18 @@
+{
+  "ja": "見学",
+  "hrkt": "けんがく",
+  "latn": "kengaku",
+  "en": "field trip",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02746A.mp3",
+  "sentences": [
+    {
+      "ja": "今日、工場の<b>見学</b>に行きました。",
+      "hrkt": "きょう、こうじょう の <b>けんがく</b> に いきました。",
+      "latn": "kyou,koujou no <b>kengaku</b> ni ikimashita.",
+      "en": "We went on a field trip to a factory today.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e41p6k2dcg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02746A.mp3"
+    }
+  ]
+}

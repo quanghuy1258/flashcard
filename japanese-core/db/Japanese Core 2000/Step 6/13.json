@@ -1,0 +1,26 @@
+{
+  "ja": "昼寝",
+  "hrkt": "ひるね",
+  "latn": "hirune",
+  "en": "nap",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07898A.mp3",
+  "sentences": [
+    {
+      "ja": "私の子供は毎日<b>昼寝</b>をします。",
+      "hrkt": "わたし の こども は まいにち <b>ひるね</b> を します。",
+      "latn": "watashi no kodomo ha mainichi <b>hirune</b> wo shimasu.",
+      "en": "My child takes a nap every day.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4975681.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07898A.mp3"
+    },
+    {
+      "ja": "お昼ご飯のあとは<b>昼寝</b>の時間です。",
+      "hrkt": "おひる ごはん の あと は <b>ひるね</b> の じかん です。",
+      "latn": "ohiru gohan no ato ha <b>hirune</b> no jikan desu.",
+      "en": "After lunch, it's time for a nap.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/131l0q4gd0.mp3"
+    }
+  ]
+}

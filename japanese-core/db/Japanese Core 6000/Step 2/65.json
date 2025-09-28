@@ -1,0 +1,18 @@
+{
+  "ja": "名付ける",
+  "hrkt": "なづける",
+  "latn": "nazukeru",
+  "en": "name, give a name to",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02252A.mp3",
+  "sentences": [
+    {
+      "ja": "子猫にトラと<b>名付けました</b>。",
+      "hrkt": "こ ねこ に トラ と <b>なづけました</b>。",
+      "latn": "ko neko ni tora to <b>nazukemashita</b>.",
+      "en": "I named the kitten \"Tora.\"",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02252A.mp3"
+    }
+  ]
+}

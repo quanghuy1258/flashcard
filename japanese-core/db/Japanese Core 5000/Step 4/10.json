@@ -1,0 +1,18 @@
+{
+  "ja": "遊園地",
+  "hrkt": "ゆうえんち",
+  "latn": "yuuenchi",
+  "en": "amusement park",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02258A.mp3",
+  "sentences": [
+    {
+      "ja": "友達と<b>遊園地</b>に行きました。",
+      "hrkt": "ともだち と <b>ゆうえんち</b> に いきました。",
+      "latn": "tomodachi to <b>yuuenchi</b> ni ikimashita.",
+      "en": "I went to an amusement park with my friend.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02258A.mp3"
+    }
+  ]
+}

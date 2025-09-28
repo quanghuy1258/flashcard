@@ -1,0 +1,26 @@
+{
+  "ja": "カード",
+  "hrkt": "カード",
+  "latn": "ka-do",
+  "en": "card",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01309A.mp3",
+  "sentences": [
+    {
+      "ja": "支払いは<b>カード</b>でお願いします。",
+      "hrkt": "しはらい は <b>カード</b> で おねがい します。",
+      "latn": "shiharai ha <b>ka-do</b> de onegai shimasu.",
+      "en": "Please pay by credit card.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4059371.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01309A.mp3"
+    },
+    {
+      "ja": "母の日に母に<b>カード</b>を書きました。",
+      "hrkt": "はは の ひ に はは に <b>カード</b> を かきました。",
+      "latn": "haha no hi ni haha ni <b>ka-do</b> wo kakimashita.",
+      "en": "On Mother's Day, I wrote my mother a card.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/95ficc66jo.mp3"
+    }
+  ]
+}

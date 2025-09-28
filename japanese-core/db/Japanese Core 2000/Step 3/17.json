@@ -1,0 +1,26 @@
+{
+  "ja": "プレゼント",
+  "hrkt": "プレゼント",
+  "latn": "purezento",
+  "en": "present (loan word)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08212A.mp3",
+  "sentences": [
+    {
+      "ja": "誕生日に<b>プレゼント</b>をもらいました。",
+      "hrkt": "たんじょうび に <b>プレゼント</b> を もらいました。",
+      "latn": "tanjoubi ni <b>purezento</b> wo moraimashita.",
+      "en": "I got some presents on my birthday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3549132.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08212A.mp3"
+    },
+    {
+      "ja": "友達が誕生日<b>プレゼント</b>をくれた。",
+      "hrkt": "ともだち が たんじょうび <b>プレゼント</b> を くれた。",
+      "latn": "tomodachi ga tanjoubi <b>purezento</b> wo kureta.",
+      "en": "My friend gave me a birthday present.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3997254.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02561A.mp3"
+    }
+  ]
+}

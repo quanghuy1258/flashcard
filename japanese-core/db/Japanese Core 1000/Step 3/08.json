@@ -1,0 +1,26 @@
+{
+  "ja": "腰",
+  "hrkt": "こし",
+  "latn": "koshi",
+  "en": "waist, lower back",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03107A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日から<b>腰</b>が痛い。",
+      "hrkt": "きのう から <b>こし</b> が いたい。",
+      "latn": "kinou kara <b>koshi</b> ga itai.",
+      "en": "I've had a pain in my lower back since yesterday.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/038ufb1160.png",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03107A.mp3"
+    },
+    {
+      "ja": "私のおじいちゃんは<b>腰</b>が曲がっています。",
+      "hrkt": "わたし の おじいちゃん は <b>こし</b> が まがって います。",
+      "latn": "watashi no ojiichan ha <b>koshi</b> ga magatte imasu.",
+      "en": "My grandfather's lower back is bent (so bent that he cannot stand up straight).",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/153l1h393g.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "固い",
+  "hrkt": "かたい",
+  "latn": "katai",
+  "en": "stiff, tight",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01633A.mp3",
+  "sentences": [
+    {
+      "ja": "私の上司は頭が<b>固い</b>。",
+      "hrkt": "わたし の じょうし は あたま が <b>かたい</b>。",
+      "latn": "watashi no joushi ha atama ga <b>katai</b>.",
+      "en": "My boss is stubborn.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/767814.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01633A.mp3"
+    },
+    {
+      "ja": "彼女は口が<b>固い</b>。",
+      "hrkt": "かのじょ は くち が <b>かたい</b>。",
+      "latn": "kanojo ha kuchi ga <b>katai</b>.",
+      "en": "She has a tight mouth (= She can keep a secret).",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/64fbcdcf6k.mp3"
+    }
+  ]
+}

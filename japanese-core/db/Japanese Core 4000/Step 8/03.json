@@ -1,0 +1,18 @@
+{
+  "ja": "警官",
+  "hrkt": "けいかん",
+  "latn": "keikan",
+  "en": "police officer (formal)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00575A.mp3",
+  "sentences": [
+    {
+      "ja": "道で<b>警官</b>に呼び止められた。",
+      "hrkt": "みち で <b>けいかん</b> に よびとめられた。",
+      "latn": "michi de <b>keikan</b> ni yobitomerareta.",
+      "en": "I was stopped by a police officer on the road.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00575A.mp3"
+    }
+  ]
+}

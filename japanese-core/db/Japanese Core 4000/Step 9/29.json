@@ -1,0 +1,26 @@
+{
+  "ja": "盛る",
+  "hrkt": "もる",
+  "latn": "moru",
+  "en": "heap up, fill",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03934A.mp3",
+  "sentences": [
+    {
+      "ja": "お客さんがたくさん来るように、店の前に塩を<b>盛りました</b>。",
+      "hrkt": "おきゃくさん が たくさん くる よう に、みせ の まえ に しお を <b>もりました</b>。",
+      "latn": "okyakusan ga takusan kuru you ni,mise no mae ni shio wo <b>morimashita</b>.",
+      "en": "We made a small heap of salt in front of the shop so that many customers would come.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/323rakdrdk.mp3"
+    },
+    {
+      "ja": "工事現場に土が<b>盛られて</b>います。",
+      "hrkt": "こうじ げんば に つち が <b>もられて</b> います。",
+      "latn": "kouji genba ni tsuchi ga <b>morarete</b> imasu.",
+      "en": "Dirt has been heaped up at the construction site.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/465a2p0b38.mp3"
+    }
+  ]
+}

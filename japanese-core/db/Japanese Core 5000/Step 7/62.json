@@ -1,0 +1,18 @@
+{
+  "ja": "食費",
+  "hrkt": "しょくひ",
+  "latn": "shokuhi",
+  "en": "food expenses",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02480A.mp3",
+  "sentences": [
+    {
+      "ja": "男の子が3人もいるので<b>食費</b>がかさみます。",
+      "hrkt": "おとこのこ が 3 にん も いる ので <b>しょくひ</b> が かさみます。",
+      "latn": "otokonoko ga 3 nin mo iru node <b>shokuhi</b> ga kasamimasu.",
+      "en": "We have three boys, so our food expenses are high.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02480A.mp3"
+    }
+  ]
+}

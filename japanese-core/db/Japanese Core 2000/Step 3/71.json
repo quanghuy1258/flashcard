@@ -1,0 +1,26 @@
+{
+  "ja": "鉛筆",
+  "hrkt": "えんぴつ",
+  "latn": "enpitsu",
+  "en": "pencil",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00914A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>鉛筆</b>を貸してください。",
+      "hrkt": "<b>えんぴつ</b> を かして ください。",
+      "latn": "<b>enpitsu</b> wo kashite kudasai.",
+      "en": "Can I borrow a pencil?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1286588.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00914A.mp3"
+    },
+    {
+      "ja": "紙と<b>鉛筆</b>はありますか。",
+      "hrkt": "かみ と <b>えんぴつ</b> は あります か。",
+      "latn": "kami to <b>enpitsu</b> ha arimasu ka.",
+      "en": "Do you have paper and pencil?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5330999.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01768A.mp3"
+    }
+  ]
+}

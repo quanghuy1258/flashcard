@@ -1,0 +1,26 @@
+{
+  "ja": "二十日",
+  "hrkt": "はつか",
+  "latn": "hatsuka",
+  "en": "20 days, 20th of the month",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07356A.mp3",
+  "sentences": [
+    {
+      "ja": "来月の<b>二十日</b>は弟の誕生日です。",
+      "hrkt": "らいげつ の <b>はつか</b> は おとうと の たんじょうび です。",
+      "latn": "raigetsu no <b>hatsuka</b> ha otouto no tanjoubi desu.",
+      "en": "The 20th of next month is my little brother's birthday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5345289.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07356A.mp3"
+    },
+    {
+      "ja": "前は七月<b>二十日</b>が海の日でした。",
+      "hrkt": "まえ は しち がつ <b>はつか</b> が うみ の ひ でした。",
+      "latn": "mae ha shichi gatsu <b>hatsuka</b> ga umi no hi deshita.",
+      "en": "Before, July 20th was Marine Day.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/bs600efpg.mp3"
+    }
+  ]
+}

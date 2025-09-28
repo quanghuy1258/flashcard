@@ -1,0 +1,26 @@
+{
+  "ja": "もちろん",
+  "hrkt": "もちろん",
+  "latn": "mochiron",
+  "en": "of course",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09290A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>もちろん</b>一緒に行きます。",
+      "hrkt": "<b>もちろん</b> いっしょ に いきます。",
+      "latn": "<b>mochiron</b> issho ni ikimasu.",
+      "en": "Of course I'll go with you.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5933808.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09290A.mp3"
+    },
+    {
+      "ja": "<b>もちろん</b>一緒に来てもいいですよ。",
+      "hrkt": "<b>もちろん</b> いっしょ に きても いい です よ。",
+      "latn": "<b>mochiron</b> issho ni kitemo ii desu yo.",
+      "en": "Of course, you can come with me.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c39r0509e8.mp3"
+    }
+  ]
+}

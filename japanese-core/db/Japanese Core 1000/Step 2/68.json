@@ -1,0 +1,26 @@
+{
+  "ja": "男の子",
+  "hrkt": "おとこのこ",
+  "latn": "otokonoko",
+  "en": "boy",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01138A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>男の子</b>たちがサッカーをしている。",
+      "hrkt": "<b>おとこのこ</b> たち が サッカー を して いる。",
+      "latn": "<b>otokonoko</b> tachi ga sakka- wo shite iru.",
+      "en": "The boys are playing soccer.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/629842.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01138A.mp3"
+    },
+    {
+      "ja": "このクラスは<b>男の子</b>の方が多いです。",
+      "hrkt": "この クラス は <b>おとこのこ</b> の ほう が おおい です。",
+      "latn": "kono kurasu ha <b>otokonoko</b> no hou ga ooi desu.",
+      "en": "There are more boys in this class.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/931r6f5iq8.mp3"
+    }
+  ]
+}

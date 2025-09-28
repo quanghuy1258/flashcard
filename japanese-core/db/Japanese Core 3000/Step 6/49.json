@@ -1,0 +1,18 @@
+{
+  "ja": "寝過ごす",
+  "hrkt": "ねすごす",
+  "latn": "nesugosu",
+  "en": "oversleep",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03375A.mp3",
+  "sentences": [
+    {
+      "ja": "うっかり<b>寝過ごして</b>しまったんだ。",
+      "hrkt": "うっかり <b>ねすごして</b> しまった ん だ。",
+      "latn": "ukkari <b>nesugoshite</b> shimatta n da.",
+      "en": "I accidentally overslept.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/83et9i6g2s.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03375A.mp3"
+    }
+  ]
+}

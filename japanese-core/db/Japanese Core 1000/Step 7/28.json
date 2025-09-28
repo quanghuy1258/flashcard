@@ -1,0 +1,26 @@
+{
+  "ja": "卒業",
+  "hrkt": "そつぎょう",
+  "latn": "sotsugyou",
+  "en": "graduation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05065A.mp3",
+  "sentences": [
+    {
+      "ja": "私は去年、大学を<b>卒業</b>した。",
+      "hrkt": "わたし は きょねん、だいがく を <b>そつぎょう</b> した。",
+      "latn": "watashi ha kyonen,daigaku wo <b>sotsugyou</b> shita.",
+      "en": "I graduated from university last year.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5086650.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05065A.mp3"
+    },
+    {
+      "ja": "姉は大学を<b>卒業</b>して、アメリカで働いています。",
+      "hrkt": "あね は だいがく を <b>そつぎょう</b> して、アメリカ で はたらいて います。",
+      "latn": "ane ha daigaku wo <b>sotsugyou</b> shite,amerika de hataraite imasu.",
+      "en": "My older sister graduated from university and is working in the States.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d2cs3c5lfs.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "現金",
+  "hrkt": "げんきん",
+  "latn": "genkin",
+  "en": "cash",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00787A.mp3",
+  "sentences": [
+    {
+      "ja": "代金は<b>現金</b>でお願いします。",
+      "hrkt": "だいきん は <b>げんきん</b> で おねがい します。",
+      "latn": "daikin ha <b>genkin</b> de onegai shimasu.",
+      "en": "Please pay in cash.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3162346.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00787A.mp3"
+    },
+    {
+      "ja": "あまり<b>現金</b>を持っていないので、カードを使います。",
+      "hrkt": "あまり <b>げんきん</b> を もって いない ので、カード を つかいます。",
+      "latn": "amari <b>genkin</b> wo motte inai node,ka-do wo tsukaimasu.",
+      "en": "I don't have much cash, so I'll use my card.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/446c6rfql8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "苦情",
+  "hrkt": "くじょう",
+  "latn": "kujou",
+  "en": "complaint on actual damage, loss, etc. (formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01389A.mp3",
+  "sentences": [
+    {
+      "ja": "店に<b>苦情</b>の電話をかけました。",
+      "hrkt": "みせ に <b>くじょう</b> の でんわ を かけました。",
+      "latn": "mise ni <b>kujou</b> no denwa wo kakemashita.",
+      "en": "I called the store to complain.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01389A.mp3"
+    }
+  ]
+}

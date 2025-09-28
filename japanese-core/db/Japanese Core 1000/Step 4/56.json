@@ -1,0 +1,26 @@
+{
+  "ja": "時々",
+  "hrkt": "ときどき",
+  "latn": "tokidoki",
+  "en": "sometimes",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06363A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>時々</b>遅刻します。",
+      "hrkt": "かれ は <b>ときどき</b> ちこく します。",
+      "latn": "kare ha <b>tokidoki</b> chikoku shimasu.",
+      "en": "He's sometimes late.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5476327.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06363A.mp3"
+    },
+    {
+      "ja": "私は<b>時々</b>母に電話します。",
+      "hrkt": "わたし は <b>ときどき</b> はは に でんわ します。",
+      "latn": "watashi ha <b>tokidoki</b> haha ni denwa shimasu.",
+      "en": "I sometimes call my mother.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/15f60d3r6k.mp3"
+    }
+  ]
+}

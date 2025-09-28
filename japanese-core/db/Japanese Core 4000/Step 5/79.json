@@ -1,0 +1,18 @@
+{
+  "ja": "嫌う",
+  "hrkt": "きらう",
+  "latn": "kirau",
+  "en": "dislike, hate",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01174A.mp3",
+  "sentences": [
+    {
+      "ja": "父はラッシュアワーを<b>嫌って</b>います。",
+      "hrkt": "ちち は ラッシュアワー を <b>きらって</b> います。",
+      "latn": "chichi ha rasshuawa- wo <b>kiratte</b> imasu.",
+      "en": "My father hates rush hour.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01174A.mp3"
+    }
+  ]
+}

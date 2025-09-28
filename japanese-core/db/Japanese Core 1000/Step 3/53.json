@@ -1,0 +1,26 @@
+{
+  "ja": "空く",
+  "hrkt": "すく",
+  "latn": "suku",
+  "en": "be empty, become less crowded",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04541A.mp3",
+  "sentences": [
+    {
+      "ja": "レストランは<b>空いて</b>いました。",
+      "hrkt": "レストラン は <b>すいて</b> いました。",
+      "latn": "resutoran ha <b>suite</b> imashita.",
+      "en": "There weren't many people at the restaurant.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4157840.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04541A.mp3"
+    },
+    {
+      "ja": "お腹が<b>空きました</b>。",
+      "hrkt": "おなか が <b>すきました</b>。",
+      "latn": "onaka ga <b>sukimashita</b>.",
+      "en": "My stomach has become empty (=I'm hungry).",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/255sce8cl0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d52s5e4cqk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "餌",
+  "hrkt": "えさ",
+  "latn": "esa",
+  "en": "bait, feed",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03545A.mp3",
+  "sentences": [
+    {
+      "ja": "毎日金魚に<b>餌</b>をやります。",
+      "hrkt": "まいにち きんぎょ に <b>えさ</b> を やります。",
+      "latn": "mainichi kingyo ni <b>esa</b> wo yarimasu.",
+      "en": "I feed my goldfish everyday.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03545A.mp3"
+    }
+  ]
+}

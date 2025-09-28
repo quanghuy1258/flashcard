@@ -1,0 +1,18 @@
+{
+  "ja": "ジャズ",
+  "hrkt": "ジャズ",
+  "latn": "jazu",
+  "en": "jazz",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02006A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日の夜、<b>ジャズ</b>を聴きにいきました。",
+      "hrkt": "きのう の よる 、 <b>ジャズ</b> を きき に いきました 。",
+      "latn": "kinou no yoru , <b>jazu</b> wo kiki ni ikimashita .",
+      "en": "I went to a jazz concert last night.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02006A.mp3"
+    }
+  ]
+}

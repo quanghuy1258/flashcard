@@ -1,0 +1,26 @@
+{
+  "ja": "ざあざあ",
+  "hrkt": "ざあざあ",
+  "latn": "zaazaa",
+  "en": "pouring",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03280A.mp3",
+  "sentences": [
+    {
+      "ja": "雨が<b>ざあざあ</b>降っている。",
+      "hrkt": "あめ が <b>ざあざあ</b> ふって いる。",
+      "latn": "ame ga <b>zaazaa</b> futte iru.",
+      "en": "It's pouring.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3536840.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03280A.mp3"
+    },
+    {
+      "ja": "今日は<b>ざあざあ</b>降りになりました。",
+      "hrkt": "きょう は <b>ざあざあ</b> ぶり に なりました。",
+      "latn": "kyou ha <b>zaazaa</b> buri ni narimashita.",
+      "en": "It was pouring today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f508e7aobs.mp3"
+    }
+  ]
+}

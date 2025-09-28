@@ -1,0 +1,18 @@
+{
+  "ja": "解ける",
+  "hrkt": "とける",
+  "latn": "tokeru",
+  "en": "be solved, be resolved",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02101A.mp3",
+  "sentences": [
+    {
+      "ja": "やっと難しい問題が<b>解けました</b>。",
+      "hrkt": "やっと むずかしい もんだい が <b>とけました</b>。",
+      "latn": "yatto muzukashii mondai ga <b>tokemashita</b>.",
+      "en": "We were finally able to solve the difficult problem.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02101A.mp3"
+    }
+  ]
+}

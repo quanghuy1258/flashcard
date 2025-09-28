@@ -1,0 +1,26 @@
+{
+  "ja": "秘密",
+  "hrkt": "ひみつ",
+  "latn": "himitsu",
+  "en": "secret, privacy",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07823A.mp3",
+  "sentences": [
+    {
+      "ja": "これは<b>秘密</b>です。",
+      "hrkt": "これ は <b>ひみつ</b> です。",
+      "latn": "kore ha <b>himitsu</b> desu.",
+      "en": "This is a secret.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6006367.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07823A.mp3"
+    },
+    {
+      "ja": "彼はいつも<b>秘密</b>を守りません。",
+      "hrkt": "かれ は いつも <b>ひみつ</b> を まもりません。",
+      "latn": "kare ha itsumo <b>himitsu</b> wo mamorimasen.",
+      "en": "He never keeps secrets.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d47k4209io.mp3"
+    }
+  ]
+}

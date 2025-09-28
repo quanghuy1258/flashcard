@@ -1,0 +1,26 @@
+{
+  "ja": "まあ",
+  "hrkt": "まあ",
+  "latn": "maa",
+  "en": "well (interjection)",
+  "pos": "Interjection",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02539A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>まあ</b>これでいいだろう。",
+      "hrkt": "<b>まあ</b> これ で いい だろう。",
+      "latn": "<b>maa</b> kore de ii darou.",
+      "en": "Well, I guess this will do.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6214986.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02539A.mp3"
+    },
+    {
+      "ja": "<b>まあ</b>今回は許してあげよう。",
+      "hrkt": "<b>まあ</b> こんかい は ゆるして あげよう。",
+      "latn": "<b>maa</b> konkai ha yurushite ageyou.",
+      "en": "Well, I'll let you off this time.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4533923.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03243A.mp3"
+    }
+  ]
+}

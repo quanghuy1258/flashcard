@@ -1,0 +1,26 @@
+{
+  "ja": "免許証",
+  "hrkt": "めんきょしょう",
+  "latn": "menkyoshou",
+  "en": "license",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09221A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>免許証</b>を見せてください。",
+      "hrkt": "<b>めんきょしょう</b> を みせて ください。",
+      "latn": "<b>menkyoshou</b> wo misete kudasai.",
+      "en": "Please show me your license.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2306834.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09221A.mp3"
+    },
+    {
+      "ja": "私は安全運転なので、<b>免許証</b>がゴールドです。",
+      "hrkt": "わたし は あんぜん うんてん なので、<b>めんきょしょう</b> が ゴールド です。",
+      "latn": "watashi ha anzen unten nanode,<b>menkyoshou</b> ga go-rudo desu.",
+      "en": "Because I drive safely, I have a gold driver's license.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e4bc5redm8.mp3"
+    }
+  ]
+}

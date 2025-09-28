@@ -1,0 +1,18 @@
+{
+  "ja": "例える",
+  "hrkt": "たとえる",
+  "latn": "tatoeru",
+  "en": "compare, liken",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02983A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は彼女をバラに<b>例えた</b>んだ。",
+      "hrkt": "かれ は かのじょ を バラ に <b>たとえた</b> ん だ。",
+      "latn": "kare ha kanojo wo bara ni <b>tatoeta</b> n da.",
+      "en": "He likened her to a rose.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02983A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "掛かる",
+  "hrkt": "かかる",
+  "latn": "kakaru",
+  "en": "hang",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01465A.mp3",
+  "sentences": [
+    {
+      "ja": "壁に大きな時計が<b>掛かって</b>います。",
+      "hrkt": "かべ に おおきな とけい が <b>かかって</b> います。",
+      "latn": "kabe ni ookina tokei ga <b>kakatte</b> imasu.",
+      "en": "There's a big clock hanging on the wall.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5209774.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01465A.mp3"
+    },
+    {
+      "ja": "壁に絵が<b>掛かって</b>いる。",
+      "hrkt": "かべ に え が <b>かかって</b> いる。",
+      "latn": "kabe ni e ga <b>kakatte</b> iru.",
+      "en": "There's a painting on the wall.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/651056.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01759A.mp3"
+    }
+  ]
+}

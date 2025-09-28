@@ -1,0 +1,18 @@
+{
+  "ja": "詰める",
+  "hrkt": "つめる",
+  "latn": "tsumeru",
+  "en": "stuff (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01220A.mp3",
+  "sentences": [
+    {
+      "ja": "かばんに荷物を<b>詰めました</b>。",
+      "hrkt": "かばん に にもつ を <b>つめました</b>。",
+      "latn": "kaban ni nimotsu wo <b>tsumemashita</b>.",
+      "en": "I packed my stuff into the bag.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01220A.mp3"
+    }
+  ]
+}

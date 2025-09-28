@@ -1,0 +1,26 @@
+{
+  "ja": "名字",
+  "hrkt": "みょうじ",
+  "latn": "myouji",
+  "en": "surname, family name",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09002A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの<b>名字</b>は何ですか。",
+      "hrkt": "あなた の <b>みょうじ</b> は なん です か。",
+      "latn": "anata no <b>myouji</b> ha nan desu ka.",
+      "en": "What's your surname?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3429770.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09002A.mp3"
+    },
+    {
+      "ja": "私の<b>名字</b>は伊藤です。",
+      "hrkt": "わたし の <b>みょうじ</b> は いとう です。",
+      "latn": "watashi no <b>myouji</b> ha itou desu.",
+      "en": "My last name is Ito.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/14e7dp5ub8.mp3"
+    }
+  ]
+}

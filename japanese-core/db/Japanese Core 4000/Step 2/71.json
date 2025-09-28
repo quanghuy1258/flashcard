@@ -1,0 +1,18 @@
+{
+  "ja": "青年",
+  "hrkt": "せいねん",
+  "latn": "seinen",
+  "en": "young man",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00249A.mp3",
+  "sentences": [
+    {
+      "ja": "町の<b>青年</b>たちはボランティア活動をしています。",
+      "hrkt": "まち の <b>せいねん</b> たち は ボランティア かつどう を して います。",
+      "latn": "machi no <b>seinen</b> tachi ha borantia katsudou wo shite imasu.",
+      "en": "Young people in the town are doing volunteer work.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d16u2scojk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00249A.mp3"
+    }
+  ]
+}

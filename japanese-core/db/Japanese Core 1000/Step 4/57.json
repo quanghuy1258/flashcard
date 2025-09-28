@@ -1,0 +1,26 @@
+{
+  "ja": "何",
+  "hrkt": "なに",
+  "latn": "nani",
+  "en": "what",
+  "pos": "Interrogative",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06705A.mp3",
+  "sentences": [
+    {
+      "ja": "夕食には<b>何</b>を食べたいですか。",
+      "hrkt": "ゆうしょく に は <b>なに</b> を たべたい です か。",
+      "latn": "yuushoku ni ha <b>nani</b> wo tabetai desu ka.",
+      "en": "What would you like to eat for dinner?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4946994.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06705A.mp3"
+    },
+    {
+      "ja": "晩ご飯のおかずは<b>何</b>？",
+      "hrkt": "ばん ごはん の おかず は <b>なに</b>？",
+      "latn": "ban gohan no okazu ha <b>nani</b>?",
+      "en": "What are we having for dinner?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5326801.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01015A.mp3"
+    }
+  ]
+}

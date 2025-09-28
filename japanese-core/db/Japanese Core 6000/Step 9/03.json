@@ -1,0 +1,18 @@
+{
+  "ja": "ウィークエンド",
+  "hrkt": "ウィークエンド",
+  "latn": "wi-kuendo",
+  "en": "weekend (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03535A.mp3",
+  "sentences": [
+    {
+      "ja": "今度の<b>ウィークエンド</b>は映画を見ます。",
+      "hrkt": "こんど の <b>ウィークエンド</b> は えいが を みます。",
+      "latn": "kondo no <b>wi-kuendo</b> ha eiga wo mimasu.",
+      "en": "I'm going to watch a movie this weekend.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03535A.mp3"
+    }
+  ]
+}

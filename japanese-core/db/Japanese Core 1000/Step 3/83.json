@@ -1,0 +1,26 @@
+{
+  "ja": "今晩",
+  "hrkt": "こんばん",
+  "latn": "konban",
+  "en": "this evening, tonight",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03266A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今晩</b>のパーティーは何時からですか。",
+      "hrkt": "<b>こんばん</b> の パーティー は なん じ から です か。",
+      "latn": "<b>konban</b> no pa-ti- ha nan ji kara desu ka.",
+      "en": "What time does the party start tonight?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4811576.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03266A.mp3"
+    },
+    {
+      "ja": "<b>今晩</b>、飲みに行きませんか。",
+      "hrkt": "<b>こんばん</b>、 のみ に いきません か。",
+      "latn": "<b>konban</b>, nomi ni ikimasen ka.",
+      "en": "Would you like to go get some drinks tonight?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e56g3abhos.mp3"
+    }
+  ]
+}

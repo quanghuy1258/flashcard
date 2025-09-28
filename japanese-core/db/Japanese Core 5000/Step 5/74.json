@@ -1,0 +1,18 @@
+{
+  "ja": "デモ",
+  "hrkt": "デモ",
+  "latn": "demo",
+  "en": "demonstration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00392A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>デモ</b>に参加したよ。",
+      "hrkt": "かのじょ は <b>デモ</b> に さんか した よ。",
+      "latn": "kanojo ha <b>demo</b> ni sanka shita yo.",
+      "en": "She participated in the demonstration.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00392A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "統合",
+  "hrkt": "とうごう",
+  "latn": "tougou",
+  "en": "integration, merging",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00018A.mp3",
+  "sentences": [
+    {
+      "ja": "三つの町が<b>統合</b>されて新しい市が誕生したのよ。",
+      "hrkt": "みっつ の まち が <b>とうごう</b> されて あたらしい し が たんじょう した の よ。",
+      "latn": "mittsu no machi ga <b>tougou</b> sarete atarashii shi ga tanjou shita no yo.",
+      "en": "A new city was formed by the merging of three towns.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00018A.mp3"
+    }
+  ]
+}

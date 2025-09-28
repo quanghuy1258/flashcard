@@ -1,0 +1,18 @@
+{
+  "ja": "言い換える",
+  "hrkt": "いいかえる",
+  "latn": "iikaeru",
+  "en": "paraphrase, express in different words",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02591A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は易しい言葉に<b>言い換えた</b>んだ。",
+      "hrkt": "かれ は やさしい ことば に <b>いいかえた</b> ん だ。",
+      "latn": "kare ha yasashii kotoba ni <b>iikaeta</b> n da.",
+      "en": "He paraphrased it in easy language.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02591A.mp3"
+    }
+  ]
+}

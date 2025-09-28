@@ -1,0 +1,26 @@
+{
+  "ja": "石鹸",
+  "hrkt": "せっけん",
+  "latn": "sekken",
+  "en": "soap",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04804A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>石鹸</b>で手を洗ってください。",
+      "hrkt": "<b>せっけん</b> で て を あらって ください。",
+      "latn": "<b>sekken</b> de te wo aratte kudasai.",
+      "en": "Please wash your hands with soap.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2996747.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04804A.mp3"
+    },
+    {
+      "ja": "<b>石鹸</b>がないので買ってきてください。",
+      "hrkt": "<b>せっけん</b> が ない ので かって きて ください。",
+      "latn": "<b>sekken</b> ga nai node katte kite kudasai.",
+      "en": "There is no soap, so please go and get (some).",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c28lckd0do.mp3"
+    }
+  ]
+}

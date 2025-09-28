@@ -1,0 +1,26 @@
+{
+  "ja": "止める",
+  "hrkt": "とめる",
+  "latn": "tomeru",
+  "en": "stop (something/someone)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06507A.mp3",
+  "sentences": [
+    {
+      "ja": "車を<b>止めて</b>。",
+      "hrkt": "くるま を <b>とめて</b>。",
+      "latn": "kuruma wo <b>tomete</b>.",
+      "en": "Stop the car.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5394268.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06507A.mp3"
+    },
+    {
+      "ja": "このまま時間を<b>止めたい</b>。",
+      "hrkt": "この まま じかん を <b>とめたい</b>。",
+      "latn": "kono mama jikan wo <b>tometai</b>.",
+      "en": "I want to stop time (in this moment).",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/534t284nis.mp3"
+    }
+  ]
+}

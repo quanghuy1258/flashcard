@@ -1,0 +1,18 @@
+{
+  "ja": "猿",
+  "hrkt": "さる",
+  "latn": "saru",
+  "en": "monkey, ape",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02299A.mp3",
+  "sentences": [
+    {
+      "ja": "山で<b>猿</b>の親子を見ました。",
+      "hrkt": "やま で <b>さる</b> の おやこ を みました。",
+      "latn": "yama de <b>saru</b> no oyako wo mimashita.",
+      "en": "I saw mother and child monkeys in the mountain.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02299A.mp3"
+    }
+  ]
+}

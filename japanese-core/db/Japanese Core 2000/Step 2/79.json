@@ -1,0 +1,26 @@
+{
+  "ja": "引っ越す",
+  "hrkt": "ひっこす",
+  "latn": "hikkosu",
+  "en": "move, relocate",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07728A.mp3",
+  "sentences": [
+    {
+      "ja": "来月、大阪に<b>引っ越します</b>。",
+      "hrkt": "らいげつ、おおさか に <b>ひっこします</b>。",
+      "latn": "raigetsu,oosaka ni <b>hikkoshimasu</b>.",
+      "en": "I'll move to Osaka next month.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5699698.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07728A.mp3"
+    },
+    {
+      "ja": "私たちは先週、北海道から<b>引っ越して</b>きました。",
+      "hrkt": "わたし たち は せんしゅう、ほっかいどう から <b>ひっこして</b> きました。",
+      "latn": "watashi tachi ha senshuu,hokkaidou kara <b>hikkoshite</b> kimashita.",
+      "en": "We moved (here) from Hokkaido last week.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/946deh3l2k.mp3"
+    }
+  ]
+}

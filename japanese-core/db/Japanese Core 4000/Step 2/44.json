@@ -1,0 +1,18 @@
+{
+  "ja": "中身",
+  "hrkt": "なかみ",
+  "latn": "nakami",
+  "en": "content, interior",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00807A.mp3",
+  "sentences": [
+    {
+      "ja": "かばんの<b>中身</b>を見せてください。",
+      "hrkt": "かばん の <b>なかみ</b> を みせて ください。",
+      "latn": "kaban no <b>nakami</b> wo misete kudasai.",
+      "en": "Please show me the contents of your bag.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f38rcj5t7k.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00807A.mp3"
+    }
+  ]
+}

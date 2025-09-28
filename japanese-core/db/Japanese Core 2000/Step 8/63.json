@@ -1,0 +1,26 @@
+{
+  "ja": "決して",
+  "hrkt": "けっして",
+  "latn": "kesshite",
+  "en": "never, by no means",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00321A.mp3",
+  "sentences": [
+    {
+      "ja": "このことを<b>決して</b>忘れないでください。",
+      "hrkt": "この こと を <b>けっして</b> わすれないで ください。",
+      "latn": "kono koto wo <b>kesshite</b> wasurenaide kudasai.",
+      "en": "Don't you ever forget this.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4899474.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00321A.mp3"
+    },
+    {
+      "ja": "ご親切は<b>決して</b>忘れません。",
+      "hrkt": "ごしんせつ は <b>けっして</b> わすれません。",
+      "latn": "goshinsetsu ha <b>kesshite</b> wasuremasen.",
+      "en": "I will never forget your kindness.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2653142.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01454A.mp3"
+    }
+  ]
+}

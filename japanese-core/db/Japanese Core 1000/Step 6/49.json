@@ -1,0 +1,26 @@
+{
+  "ja": "降る",
+  "hrkt": "ふる",
+  "latn": "furu",
+  "en": "fall, come down (rain, snow, etc.)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08198A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は雨が<b>降る</b>でしょう。",
+      "hrkt": "あす は あめ が <b>ふる</b> でしょう。",
+      "latn": "asu ha ame ga <b>furu</b> deshou.",
+      "en": "It will rain tomorrow.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5637169.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08198A.mp3"
+    },
+    {
+      "ja": "雨が<b>降って</b>います。",
+      "hrkt": "あめ が <b>ふって</b> います。",
+      "latn": "ame ga <b>futte</b> imasu.",
+      "en": "It's raining.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5313525.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00239A.mp3"
+    }
+  ]
+}

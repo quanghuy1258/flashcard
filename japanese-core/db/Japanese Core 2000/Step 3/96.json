@@ -1,0 +1,26 @@
+{
+  "ja": "内緒",
+  "hrkt": "ないしょ",
+  "latn": "naisho",
+  "en": "secrecy, privacy",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03238A.mp3",
+  "sentences": [
+    {
+      "ja": "この話は課長には<b>内緒</b>ですよ。",
+      "hrkt": "この はなし は かちょう に は <b>ないしょ</b> です よ。",
+      "latn": "kono hanashi ha kachou ni ha <b>naisho</b> desu yo.",
+      "en": "You have to keep this secret from the section chief.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5141183.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03238A.mp3"
+    },
+    {
+      "ja": "私は妻に<b>内緒</b>で新しいパソコンを買いました。",
+      "hrkt": "わたし は つま に <b>ないしょ</b> で あたらしい パソコン を かいました。",
+      "latn": "watashi ha tsuma ni <b>naisho</b> de atarashii pasokon wo kaimashita.",
+      "en": "I bought a new computer without telling my wife.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b53e677pg8.mp3"
+    }
+  ]
+}

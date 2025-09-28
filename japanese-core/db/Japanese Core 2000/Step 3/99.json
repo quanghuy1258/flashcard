@@ -1,0 +1,26 @@
+{
+  "ja": "ロマンチック",
+  "hrkt": "ロマンチック",
+  "latn": "romanchikku",
+  "en": "romantic",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03410A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>ロマンチック</b>な人です。",
+      "hrkt": "かのじょ は <b>ロマンチック</b>な ひと です。",
+      "latn": "kanojo ha <b>romanchikku</b>na hito desu.",
+      "en": "She's a romantic person.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/808093.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03410A.mp3"
+    },
+    {
+      "ja": "その映画はとても<b>ロマンチック</b>でした。",
+      "hrkt": "その えいが は とても <b>ロマンチック</b> でした。",
+      "latn": "sono eiga ha totemo <b>romanchikku</b> deshita.",
+      "en": "The movie was very romantic.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/95aq5l4uik.mp3"
+    }
+  ]
+}

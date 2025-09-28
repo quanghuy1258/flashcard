@@ -1,0 +1,18 @@
+{
+  "ja": "反応",
+  "hrkt": "はんのう",
+  "latn": "hannou",
+  "en": "reaction, response",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00408A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は良い<b>反応</b>を示したわ。",
+      "hrkt": "かのじょ は よい <b>はんのう</b> を しめした わ。",
+      "latn": "kanojo ha yoi <b>hannou</b> wo shimeshita wa.",
+      "en": "She reacted well.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00408A.mp3"
+    }
+  ]
+}

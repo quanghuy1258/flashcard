@@ -1,0 +1,26 @@
+{
+  "ja": "キャンプ",
+  "hrkt": "キャンプ",
+  "latn": "kyanpu",
+  "en": "camping, camp",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02184A.mp3",
+  "sentences": [
+    {
+      "ja": "友達と<b>キャンプ</b>に行った。",
+      "hrkt": "ともだち と <b>キャンプ</b> に いった。",
+      "latn": "tomodachi to <b>kyanpu</b> ni itta.",
+      "en": "I went camping with my friend.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3707602.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02184A.mp3"
+    },
+    {
+      "ja": "私たちは毎年、夏に家族で<b>キャンプ</b>をします。",
+      "hrkt": "わたし たち は まいとし、なつ に かぞく で <b>キャンプ</b> を します。",
+      "latn": "watashi tachi ha maitoshi,natsu ni kazoku de <b>kyanpu</b> wo shimasu.",
+      "en": "We go camping with the family every summer.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/755l84d7ss.mp3"
+    }
+  ]
+}

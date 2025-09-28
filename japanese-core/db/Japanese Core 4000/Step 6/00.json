@@ -1,0 +1,18 @@
+{
+  "ja": "心臓",
+  "hrkt": "しんぞう",
+  "latn": "shinzou",
+  "en": "heart",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00651A.mp3",
+  "sentences": [
+    {
+      "ja": "祖母は<b>心臓</b>が悪いんだ。",
+      "hrkt": "そぼ は <b>しんぞう</b> が わるい ん だ。",
+      "latn": "sobo ha <b>shinzou</b> ga warui n da.",
+      "en": "My grandmother has a heart condition.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00651A.mp3"
+    }
+  ]
+}

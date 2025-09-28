@@ -1,0 +1,26 @@
+{
+  "ja": "握手",
+  "hrkt": "あくしゅ",
+  "latn": "akushu",
+  "en": "handshake",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00073A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは<b>握手</b>をした。",
+      "hrkt": "かれら は <b>あくしゅ</b> を した。",
+      "latn": "karera ha <b>akushu</b> wo shita.",
+      "en": "They shook hands.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5896679.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00073A.mp3"
+    },
+    {
+      "ja": "卒業式のあと、先生と<b>握手</b>しました。",
+      "hrkt": "そつぎょう しき の あと、せんせい と <b>あくしゅ</b> しました。",
+      "latn": "sotsugyou shiki no ato,sensei to <b>akushu</b> shimashita.",
+      "en": "After the graduation ceremony, I shook hands with the teacher.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/14398vfias.mp3"
+    }
+  ]
+}

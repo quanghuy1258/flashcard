@@ -1,0 +1,18 @@
+{
+  "ja": "必死",
+  "hrkt": "ひっし",
+  "latn": "hisshi",
+  "en": "desperate",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01071A.mp3",
+  "sentences": [
+    {
+      "ja": "学生たちは授業に付いていくのに<b>必死</b>です。",
+      "hrkt": "がくせい たち は じゅぎょう に ついていく の に <b>ひっし</b> です 。",
+      "latn": "gakusei tachi ha jugyou ni tsuiteiku no ni <b>hisshi</b> desu .",
+      "en": "Students are desperately trying to catch up with the class.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01071A.mp3"
+    }
+  ]
+}

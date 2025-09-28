@@ -1,0 +1,26 @@
+{
+  "ja": "オレンジ",
+  "hrkt": "オレンジ",
+  "latn": "orenji",
+  "en": "orange",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01260A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>オレンジ</b>が好きです。",
+      "hrkt": "わたし は <b>オレンジ</b> が すき です。",
+      "latn": "watashi ha <b>orenji</b> ga suki desu.",
+      "en": "I like oranges.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/clbq45boiigo4.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01260A.mp3"
+    },
+    {
+      "ja": "この<b>オレンジ</b>は酸っぱいです。",
+      "hrkt": "この <b>オレンジ</b> は すっぱい です。",
+      "latn": "kono <b>orenji</b> ha suppai desu.",
+      "en": "This orange is sour.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/131pd64fnk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "テスト",
+  "hrkt": "テスト",
+  "latn": "tesuto",
+  "en": "test",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06084A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は理科の<b>テスト</b>です。",
+      "hrkt": "あした は りか の <b>テスト</b> です。",
+      "latn": "ashita ha rika no <b>tesuto</b> desu.",
+      "en": "I have a science test tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2546152.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06084A.mp3"
+    },
+    {
+      "ja": "今週は日本語の<b>テスト</b>があります。",
+      "hrkt": "こんしゅう は にほん ご の <b>テスト</b> が あります。",
+      "latn": "konshuu ha nihon go no <b>tesuto</b> ga arimasu.",
+      "en": "We have a Japanese test this week.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3757783.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03253A.mp3"
+    }
+  ]
+}

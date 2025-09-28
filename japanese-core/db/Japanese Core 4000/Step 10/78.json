@@ -1,0 +1,18 @@
+{
+  "ja": "外科",
+  "hrkt": "げか",
+  "latn": "geka",
+  "en": "surgery",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02040A.mp3",
+  "sentences": [
+    {
+      "ja": "友人が骨折して<b>外科</b>に入院しました。",
+      "hrkt": "ゆうじん が こっせつ して <b>げか</b> に にゅういん しました。",
+      "latn": "yuujin ga kossetsu shite <b>geka</b> ni nyuuin shimashita.",
+      "en": "My friend was admitted to hospital for surgery because he broke a bone.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02040A.mp3"
+    }
+  ]
+}

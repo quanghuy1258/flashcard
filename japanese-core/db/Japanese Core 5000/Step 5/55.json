@@ -1,0 +1,18 @@
+{
+  "ja": "言づける",
+  "hrkt": "ことづける",
+  "latn": "kotozukeru",
+  "en": "leave a message",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03624A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女への伝言を<b>言づけた</b>の。",
+      "hrkt": "かのじょ へ の でんごん を <b>ことづけた</b> の。",
+      "latn": "kanojo he no dengon wo <b>kotozuketa</b> no.",
+      "en": "I left her a message.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03624A.mp3"
+    }
+  ]
+}

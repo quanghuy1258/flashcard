@@ -1,0 +1,26 @@
+{
+  "ja": "歯医者",
+  "hrkt": "はいしゃ",
+  "latn": "haisha",
+  "en": "dentist",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07179A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>歯医者</b>が嫌いです。",
+      "hrkt": "わたし は <b>はいしゃ</b> が きらい です。",
+      "latn": "watashi ha <b>haisha</b> ga kirai desu.",
+      "en": "I hate the dentist.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6263909.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07179A.mp3"
+    },
+    {
+      "ja": "歯が痛いので<b>歯医者</b>に行きました。",
+      "hrkt": "は が いたい ので <b>はいしゃ</b> に いきました。",
+      "latn": "ha ga itai node <b>haisha</b> ni ikimashita.",
+      "en": "I have a toothache, so I went to the dentist.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b5edfv927c.mp3"
+    }
+  ]
+}

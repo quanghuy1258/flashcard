@@ -1,0 +1,18 @@
+{
+  "ja": "生まれつき",
+  "hrkt": "うまれつき",
+  "latn": "umaretsuki",
+  "en": "by nature",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02804A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>生まれつき</b>丈夫です。",
+      "hrkt": "かのじょ は <b>うまれつき</b> じょうぶ です。",
+      "latn": "kanojo ha <b>umaretsuki</b> joubu desu.",
+      "en": "She is healthy by nature.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02804A.mp3"
+    }
+  ]
+}

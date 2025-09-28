@@ -1,0 +1,26 @@
+{
+  "ja": "なぜ",
+  "hrkt": "なぜ",
+  "latn": "naze",
+  "en": "why",
+  "pos": "Interrogative",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06684A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>なぜ</b>来なかったの？",
+      "hrkt": "<b>なぜ</b> こなかった の？",
+      "latn": "<b>naze</b> konakatta no?",
+      "en": "Why didn't you come?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5242608.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06684A.mp3"
+    },
+    {
+      "ja": "<b>なぜ</b>昨日、学校を休んだんですか。",
+      "hrkt": "<b>なぜ</b> きのう、がっこう を やすんだ ん です か。",
+      "latn": "<b>naze</b> kinou,gakkou wo yasunda n desu ka.",
+      "en": "Why were you absent from school yesterday?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/139odc7rqo.mp3"
+    }
+  ]
+}

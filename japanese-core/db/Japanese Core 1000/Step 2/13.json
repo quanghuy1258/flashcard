@@ -1,0 +1,26 @@
+{
+  "ja": "落ちる",
+  "hrkt": "おちる",
+  "latn": "ochiru",
+  "en": "fall, come down",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01124A.mp3",
+  "sentences": [
+    {
+      "ja": "猿も木から<b>落ちる</b>。",
+      "hrkt": "さる も き から <b>おちる</b>。",
+      "latn": "saru mo ki kara <b>ochiru</b>.",
+      "en": "Even monkeys fall from trees.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2713295.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01124A.mp3"
+    },
+    {
+      "ja": "道に何か<b>落ちて</b>います。",
+      "hrkt": "みち に なに か <b>おちて</b> います。",
+      "latn": "michi ni nani ka <b>ochite</b> imasu.",
+      "en": "Something has fallen on the road.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6540095.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06706A.mp3?1216463704"
+    }
+  ]
+}

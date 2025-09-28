@@ -1,0 +1,26 @@
+{
+  "ja": "毎週",
+  "hrkt": "まいしゅう",
+  "latn": "maishuu",
+  "en": "every week",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08635A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>毎週</b>母に電話をします。",
+      "hrkt": "わたし は <b>まいしゅう</b> はは に でんわ を します。",
+      "latn": "watashi ha <b>maishuu</b> haha ni denwa wo shimasu.",
+      "en": "I call my mother every week.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5637916.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08635A.mp3"
+    },
+    {
+      "ja": "この週刊誌を<b>毎週</b>買っているの。",
+      "hrkt": "この しゅうかん し を <b>まいしゅう</b> かって いる の。",
+      "latn": "kono shuukan shi wo <b>maishuu</b> katte iru no.",
+      "en": "I buy this weekly magazine every week.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/44489qa4b8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02644A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "住宅",
+  "hrkt": "じゅうたく",
+  "latn": "juutaku",
+  "en": "housing, residence",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03992A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは静かな<b>住宅</b>地だ。",
+      "hrkt": "ここ は しずかな <b>じゅうたく</b> ち だ。",
+      "latn": "koko ha shizukana <b>juutaku</b> chi da.",
+      "en": "This is a quiet residential area.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2958700.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03992A.mp3"
+    },
+    {
+      "ja": "その<b>住宅</b>地は便利な場所にあるね。",
+      "hrkt": "その <b>じゅうたく</b> ち は べんりな ばしょ に ある ね。",
+      "latn": "sono <b>juutaku</b> chi ha benrina basho ni aru ne.",
+      "en": "That residential area is conveniently located.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/f30q9l4tu4.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01373A.mp3"
+    }
+  ]
+}

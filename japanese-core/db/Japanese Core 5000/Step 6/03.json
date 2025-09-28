@@ -1,0 +1,18 @@
+{
+  "ja": "臭う",
+  "hrkt": "におう",
+  "latn": "niou",
+  "en": "stink (unpleasant)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03795A.mp3",
+  "sentences": [
+    {
+      "ja": "流しが<b>臭う</b>のできれいにしたよ。",
+      "hrkt": "ながし が <b>におう</b> ので きれい に した よ。",
+      "latn": "nagashi ga <b>niou</b> node kirei ni shita yo.",
+      "en": "I cleaned the sink because it stank.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03795A.mp3"
+    }
+  ]
+}

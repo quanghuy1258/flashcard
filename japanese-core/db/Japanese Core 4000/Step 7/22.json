@@ -1,0 +1,18 @@
+{
+  "ja": "マイク",
+  "hrkt": "マイク",
+  "latn": "maiku",
+  "en": "microphone",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01756A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>マイク</b>を持って話し始めたの。",
+      "hrkt": "かのじょ は <b>マイク</b> を もって はなし はじめた の。",
+      "latn": "kanojo ha <b>maiku</b> wo motte hanashi hajimeta no.",
+      "en": "She took the microphone and began to talk.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01756A.mp3"
+    }
+  ]
+}

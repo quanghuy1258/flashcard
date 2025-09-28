@@ -1,0 +1,26 @@
+{
+  "ja": "半月",
+  "hrkt": "はんつき",
+  "latn": "hantsuki",
+  "en": "half a month",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07562A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>半月</b>前に日本に来ました。",
+      "hrkt": "<b>はんつき</b> まえ に にほん に きました。",
+      "latn": "<b>hantsuki</b> mae ni nihon ni kimashita.",
+      "en": "I came to Japan half a month ago.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1575504.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07562A.mp3"
+    },
+    {
+      "ja": "私のお祖母ちゃんは<b>半月</b>に一度お医者さんに行きます。",
+      "hrkt": "わたし の おばあちゃん は <b>はんつき</b> に いち ど おいしゃさん に いきます。",
+      "latn": "watashi no obaachan ha <b>hantsuki</b> ni ichi do oishasan ni ikimasu.",
+      "en": "My grandmother goes to a doctor once in half a month.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/850dem4jl8.mp3"
+    }
+  ]
+}

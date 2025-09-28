@@ -1,0 +1,26 @@
+{
+  "ja": "貸し出す",
+  "hrkt": "かしだす",
+  "latn": "kashidasu",
+  "en": "lend, lend out",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01593A.mp3",
+  "sentences": [
+    {
+      "ja": "その図書館は海外の雑誌も<b>貸し出して</b>いる。",
+      "hrkt": "その としょかん は かいがい の ざっし も <b>かしだして</b> いる。",
+      "latn": "sono toshokan ha kaigai no zasshi mo <b>kashidashite</b> iru.",
+      "en": "That library lends out foreign magazines, too.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/528148.jpg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f2cq0o4t1k.mp3"
+    },
+    {
+      "ja": "そのお店はCDも<b>貸し出して</b>います。",
+      "hrkt": "その おみせ は CD も <b>かしだして</b> います。",
+      "latn": "sono omise ha CD mo <b>kashidashite</b> imasu.",
+      "en": "The shop lends CDs, too.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/067d4n7708.mp3"
+    }
+  ]
+}

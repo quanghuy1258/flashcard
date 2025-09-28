@@ -1,0 +1,18 @@
+{
+  "ja": "小遣い",
+  "hrkt": "こづかい",
+  "latn": "kozukai",
+  "en": "pocket money, allowance",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01937A.mp3",
+  "sentences": [
+    {
+      "ja": "おじいちゃんにお<b>小遣い</b>をもらったよ。",
+      "hrkt": "おじいちゃん に お<b>こづかい</b> を もらった よ。",
+      "latn": "ojiichan ni o<b>kozukai</b> wo moratta yo.",
+      "en": "My grandpa gave me pocket money.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01937A.mp3"
+    }
+  ]
+}

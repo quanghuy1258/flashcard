@@ -1,0 +1,18 @@
+{
+  "ja": "半径",
+  "hrkt": "はんけい",
+  "latn": "hankei",
+  "en": "radius",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02074A.mp3",
+  "sentences": [
+    {
+      "ja": "この円の<b>半径</b>は5センチです。",
+      "hrkt": "この えん の <b>はんけい</b> は 5 センチ です。",
+      "latn": "kono en no <b>hankei</b> ha 5 senchi desu.",
+      "en": "The radius of this circle is five centimeters.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02074A.mp3"
+    }
+  ]
+}

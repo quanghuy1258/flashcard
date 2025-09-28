@@ -1,0 +1,18 @@
+{
+  "ja": "専門",
+  "hrkt": "せんもん",
+  "latn": "senmon",
+  "en": "specialty, profession",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00240A.mp3",
+  "sentences": [
+    {
+      "ja": "法律は私の<b>専門</b>です。",
+      "hrkt": "ほうりつ は わたし の <b>せんもん</b> です。",
+      "latn": "houritsu ha watashi no <b>senmon</b> desu.",
+      "en": "My specialty is law.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/23103v6lcs.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00240A.mp3"
+    }
+  ]
+}

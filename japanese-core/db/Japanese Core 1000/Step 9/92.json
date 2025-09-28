@@ -1,0 +1,26 @@
+{
+  "ja": "北",
+  "hrkt": "きた",
+  "latn": "kita",
+  "en": "north",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02089A.mp3",
+  "sentences": [
+    {
+      "ja": "ロシアは日本の<b>北</b>にあります。",
+      "hrkt": "ロシア は にっぽん の <b>きた</b> に あります。",
+      "latn": "roshia ha nippon no <b>kita</b> ni arimasu.",
+      "en": "Russia is north of Japan.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6379699.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02089A.mp3"
+    },
+    {
+      "ja": "私の町は東京の<b>北</b>に位置します。",
+      "hrkt": "わたし の まち は とうきょう の <b>きた</b> に いち します。",
+      "latn": "watashi no machi ha toukyou no <b>kita</b> ni ichi shimasu.",
+      "en": "My town is located north of Tokyo.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5471118.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00475A.mp3"
+    }
+  ]
+}

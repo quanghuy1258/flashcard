@@ -1,0 +1,26 @@
+{
+  "ja": "逃げる",
+  "hrkt": "にげる",
+  "latn": "nigeru",
+  "en": "escape, run away",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06827A.mp3",
+  "sentences": [
+    {
+      "ja": "鳥が窓から<b>逃げた</b>よ。",
+      "hrkt": "とり が まど から <b>にげた</b> よ。",
+      "latn": "tori ga mado kara <b>nigeta</b> yo.",
+      "en": "The bird flew out of the window.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3449953.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06827A.mp3"
+    },
+    {
+      "ja": "公園で犬が<b>逃げて</b>しまった。",
+      "hrkt": "こうえん で いぬ が <b>にげて</b> しまった。",
+      "latn": "kouen de inu ga <b>nigete</b> shimatta.",
+      "en": "My dog ran away in the park.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/5300fjdlu8.mp3"
+    }
+  ]
+}

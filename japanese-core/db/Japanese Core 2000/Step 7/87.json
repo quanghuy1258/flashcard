@@ -1,0 +1,26 @@
+{
+  "ja": "ピクニック",
+  "hrkt": "ピクニック",
+  "latn": "pikunikku",
+  "en": "picnic",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07664A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>ピクニック</b>に行きましょう。",
+      "hrkt": "きょう は <b>ピクニック</b> に いきましょう。",
+      "latn": "kyou ha <b>pikunikku</b> ni ikimashou.",
+      "en": "Let's go on a picnic today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5361364.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07664A.mp3"
+    },
+    {
+      "ja": "サンドイッチを作って、公園で<b>ピクニック</b>をしました。",
+      "hrkt": "サンドイッチ を つくって、こうえん で <b>ピクニック</b> を しました。",
+      "latn": "sandoicchi wo tsukutte,kouen de <b>pikunikku</b> wo shimashita.",
+      "en": "We made sandwiches and had a picnic in the park.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/355neidje4.mp3"
+    }
+  ]
+}

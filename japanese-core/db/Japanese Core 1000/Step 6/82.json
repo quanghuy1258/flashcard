@@ -1,0 +1,26 @@
+{
+  "ja": "たばこ",
+  "hrkt": "たばこ",
+  "latn": "tabako",
+  "en": "tobacco, cigarette",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05430A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>たばこ</b>を吸いません。",
+      "hrkt": "かれ は <b>たばこ</b> を すいません。",
+      "latn": "kare ha <b>tabako</b> wo suimasen.",
+      "en": "He doesn't smoke.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6213857.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05430A.mp3"
+    },
+    {
+      "ja": "<b>たばこ</b>は体に悪い。",
+      "hrkt": "<b>たばこ</b> は からだ に わるい。",
+      "latn": "<b>tabako</b> ha karada ni warui.",
+      "en": "Cigarettes are bad for your health.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5173714.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10077A.mp3"
+    }
+  ]
+}

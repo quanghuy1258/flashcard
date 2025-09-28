@@ -1,0 +1,26 @@
+{
+  "ja": "沸かす",
+  "hrkt": "わかす",
+  "latn": "wakasu",
+  "en": "boil (water)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW10005A.mp3",
+  "sentences": [
+    {
+      "ja": "お湯を<b>沸かして</b>ください。",
+      "hrkt": "おゆ を <b>わかして</b> ください。",
+      "latn": "oyu wo <b>wakashite</b> kudasai.",
+      "en": "Please boil some water.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4264745.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS10005A.mp3"
+    },
+    {
+      "ja": "やかんでお湯を<b>沸かしました</b>。",
+      "hrkt": "やかん で おゆ を <b>わかしました</b>。",
+      "latn": "yakan de oyu wo <b>wakashimashita</b>.",
+      "en": "I boiled water in the kettle.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4490728.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09371A.mp3"
+    }
+  ]
+}

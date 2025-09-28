@@ -1,0 +1,18 @@
+{
+  "ja": "あぐら",
+  "hrkt": "あぐら",
+  "latn": "agura",
+  "en": "sitting cross-legged",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03183A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>あぐら</b>をかいてしゃべっていますね。",
+      "hrkt": "かれ は <b>あぐら</b> を かいて しゃべって います ね。",
+      "latn": "kare ha <b>agura</b> wo kaite shabette imasu ne.",
+      "en": "He is sitting cross-legged while talking.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03183A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "建物",
+  "hrkt": "たてもの",
+  "latn": "tatemono",
+  "en": "building, structure",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05408A.mp3",
+  "sentences": [
+    {
+      "ja": "これは日本一古い<b>建物</b>です。",
+      "hrkt": "これ は にほん いち ふるい <b>たてもの</b> です。",
+      "latn": "kore ha nihon ichi furui <b>tatemono</b> desu.",
+      "en": "This is the oldest building in Japan.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6399828.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05408A.mp3"
+    },
+    {
+      "ja": "あの大きい<b>建物</b>は何ですか。",
+      "hrkt": "あの おおきい <b>たてもの</b> は なん です か。",
+      "latn": "ano ookii <b>tatemono</b> ha nan desu ka.",
+      "en": "What's that big building?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5068648.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00971A.mp3"
+    }
+  ]
+}

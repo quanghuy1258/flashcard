@@ -1,0 +1,26 @@
+{
+  "ja": "文字",
+  "hrkt": "もじ",
+  "latn": "moji",
+  "en": "character, letter, writing",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09272A.mp3",
+  "sentences": [
+    {
+      "ja": "壁に<b>文字</b>が書いてあった。",
+      "hrkt": "かべ に <b>もじ</b> が かいて あった。",
+      "latn": "kabe ni <b>moji</b> ga kaite atta.",
+      "en": "There was some writing on the wall.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5108781.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09272A.mp3"
+    },
+    {
+      "ja": "この写真に<b>文字</b>を入れることはできますか。",
+      "hrkt": "この しゃしん に <b>もじ</b> を いれる こと は できます か。",
+      "latn": "kono shashin ni <b>moji</b> wo ireru koto ha dekimasu ka.",
+      "en": "Can I add letters (texts) to this photograph?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c48f006ukc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "今日",
+  "hrkt": "こんにち",
+  "latn": "konnichi",
+  "en": "these days",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00501A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今日</b>の日本の若者は欧米化している。",
+      "hrkt": "<b>こんにち</b> の にほん の わかもの は おうべいか して いる。",
+      "latn": "<b>konnichi</b> no nihon no wakamono ha oubeika shite iru.",
+      "en": "Young people in Japan these days are westernized.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/910deuai40.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00501A.mp3"
+    }
+  ]
+}

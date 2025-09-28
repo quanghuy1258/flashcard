@@ -1,0 +1,26 @@
+{
+  "ja": "年",
+  "hrkt": "とし",
+  "latn": "toshi",
+  "en": "year, age",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06421A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>年</b>が始まりました。",
+      "hrkt": "あたらしい <b>とし</b> が はじまりました。",
+      "latn": "atarashii <b>toshi</b> ga hajimarimashita.",
+      "en": "A new year has started.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4796732.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06421A.mp3"
+    },
+    {
+      "ja": "いとこと私は同じ<b>年</b>です。",
+      "hrkt": "いとこ と わたし は おなじ <b>とし</b> です。",
+      "latn": "itoko to watashi ha onaji <b>toshi</b> desu.",
+      "en": "My cousin and I are the same age.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6295631.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00555A.mp3"
+    }
+  ]
+}

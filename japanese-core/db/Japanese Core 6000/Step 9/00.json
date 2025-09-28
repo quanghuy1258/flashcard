@@ -1,0 +1,18 @@
+{
+  "ja": "あらすじ",
+  "hrkt": "あらすじ",
+  "latn": "arasuji",
+  "en": "plot, storyline",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03519A.mp3",
+  "sentences": [
+    {
+      "ja": "その映画はどんな<b>あらすじ</b>ですか。",
+      "hrkt": "その えいが は どんな <b>あらすじ</b> です か。",
+      "latn": "sono eiga ha donna <b>arasuji</b> desu ka.",
+      "en": "What's the storyline of the movie?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03519A.mp3"
+    }
+  ]
+}

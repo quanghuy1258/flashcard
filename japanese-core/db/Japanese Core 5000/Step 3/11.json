@@ -1,0 +1,18 @@
+{
+  "ja": "初歩",
+  "hrkt": "しょほ",
+  "latn": "shoho",
+  "en": "beginning, basic",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03081A.mp3",
+  "sentences": [
+    {
+      "ja": "英語を<b>初歩</b>から勉強しています。",
+      "hrkt": "えいご を <b>しょほ</b> から べんきょう して います。",
+      "latn": "eigo wo <b>shoho</b> kara benkyou shite imasu.",
+      "en": "I'm learning English starting from the basics.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03081A.mp3"
+    }
+  ]
+}

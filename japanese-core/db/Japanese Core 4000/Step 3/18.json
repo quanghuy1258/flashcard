@@ -1,0 +1,18 @@
+{
+  "ja": "城",
+  "hrkt": "しろ",
+  "latn": "shiro",
+  "en": "castle",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03674A.mp3",
+  "sentences": [
+    {
+      "ja": "今回の旅行ではヨーロッパの<b>城</b>を見て回ります。",
+      "hrkt": "こんかい の りょこう で は ヨーロッパ の <b>しろ</b> を みて まわります。",
+      "latn": "konkai no ryokou de ha yo-roppa no <b>shiro</b> wo mite mawarimasu.",
+      "en": "I will look around some European castles on this trip.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03674A.mp3"
+    }
+  ]
+}

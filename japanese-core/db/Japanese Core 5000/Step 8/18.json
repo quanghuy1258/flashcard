@@ -1,0 +1,18 @@
+{
+  "ja": "種",
+  "hrkt": "たね",
+  "latn": "tane",
+  "en": "seed",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03712A.mp3",
+  "sentences": [
+    {
+      "ja": "プランターにトマトの<b>種</b>をまきました。",
+      "hrkt": "プランター に トマト の <b>たね</b> を まきました。",
+      "latn": "puranta- ni tomato no <b>tane</b> wo makimashita.",
+      "en": "I planted tomato seeds in the planter.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03712A.mp3"
+    }
+  ]
+}

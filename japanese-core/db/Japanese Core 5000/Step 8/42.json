@@ -1,0 +1,18 @@
+{
+  "ja": "出演",
+  "hrkt": "しゅつえん",
+  "latn": "shutsuen",
+  "en": "appearance (on stage, TV etc.)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02068A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はその映画に<b>出演</b>しているよ。",
+      "hrkt": "かのじょ は その えいが に <b>しゅつえん</b> して いる よ。",
+      "latn": "kanojo ha sono eiga ni <b>shutsuen</b> shite iru yo.",
+      "en": "She's in the movie.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02068A.mp3"
+    }
+  ]
+}

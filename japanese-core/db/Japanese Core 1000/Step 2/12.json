@@ -1,0 +1,26 @@
+{
+  "ja": "短い",
+  "hrkt": "みじかい",
+  "latn": "mijikai",
+  "en": "short, brief",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08883A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は足が<b>短い</b>。",
+      "hrkt": "かれ は あし が <b>みじかい</b>。",
+      "latn": "kare ha ashi ga <b>mijikai</b>.",
+      "en": "His legs are short.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5987686.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08883A.mp3"
+    },
+    {
+      "ja": "このセーターはちょっと<b>短い</b>ですね。",
+      "hrkt": "この セーター は ちょっと <b>みじかい</b> です ね。",
+      "latn": "kono se-ta- ha chotto <b>mijikai</b> desu ne.",
+      "en": "This sweater is a little short.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/326t1b5gdo.mp3"
+    }
+  ]
+}

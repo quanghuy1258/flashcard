@@ -1,0 +1,18 @@
+{
+  "ja": "申し込み",
+  "hrkt": "もうしこみ",
+  "latn": "moushikomi",
+  "en": "application, signing up",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01150A.mp3",
+  "sentences": [
+    {
+      "ja": "今日、スポーツジムの<b>申し込み</b>をしました。",
+      "hrkt": "きょう、スポーツジム の <b>もうしこみ</b> を しました。",
+      "latn": "kyou,supo-tsujimu no <b>moushikomi</b> wo shimashita.",
+      "en": "I signed up for a sports gym today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01150A.mp3"
+    }
+  ]
+}

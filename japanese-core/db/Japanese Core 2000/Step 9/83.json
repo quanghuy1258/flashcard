@@ -1,0 +1,26 @@
+{
+  "ja": "会長",
+  "hrkt": "かいちょう",
+  "latn": "kaichou",
+  "en": "president, chairperson",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01395A.mp3",
+  "sentences": [
+    {
+      "ja": "始めに<b>会長</b>が挨拶した。",
+      "hrkt": "はじめ に <b>かいちょう</b> が あいさつ した。",
+      "latn": "hajime ni <b>kaichou</b> ga aisatsu shita.",
+      "en": "First was the president's greeting.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/368898.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01395A.mp3"
+    },
+    {
+      "ja": "父は弟の学校のPTAの<b>会長</b>です。",
+      "hrkt": "ちち は おとうと の がっこう の PTA の <b>かいちょう</b> です。",
+      "latn": "chichi ha otouto no gakkou no PTA no <b>kaichou</b> desu.",
+      "en": "My father is the chairperson of the PTA at my younger brother's school.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c448er8svo.mp3"
+    }
+  ]
+}

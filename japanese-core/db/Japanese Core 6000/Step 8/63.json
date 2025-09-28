@@ -1,0 +1,18 @@
+{
+  "ja": "ぴょんぴょん",
+  "hrkt": "ぴょんぴょん",
+  "latn": "pyonpyon",
+  "en": "jump, hop",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03250A.mp3",
+  "sentences": [
+    {
+      "ja": "カエルが<b>ぴょんぴょん</b>はねているね。",
+      "hrkt": "カエル が <b>ぴょんぴょん</b> はねて いる ね。",
+      "latn": "kaeru ga <b>pyonpyon</b> hanete iru ne.",
+      "en": "Frogs are jumping around the pond.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03250A.mp3"
+    }
+  ]
+}

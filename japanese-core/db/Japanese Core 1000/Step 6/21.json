@@ -1,0 +1,26 @@
+{
+  "ja": "庭",
+  "hrkt": "にわ",
+  "latn": "niwa",
+  "en": "garden, yard",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06903A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>庭</b>に白いネコがいます。",
+      "hrkt": "<b>にわ</b> に しろい ネコ が います。",
+      "latn": "<b>niwa</b> ni shiroi neko ga imasu.",
+      "en": "There's a white cat in the garden.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/137400.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06903A.mp3"
+    },
+    {
+      "ja": "<b>庭</b>には2羽にわとりがいます。",
+      "hrkt": "<b>にわ</b> に は 2 わ にわとり が います。",
+      "latn": "<b>niwa</b> ni ha 2 wa niwatori ga imasu.",
+      "en": "There are two chickens in the garden. (Japanese word play)",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e59q79d5lk.mp3"
+    }
+  ]
+}

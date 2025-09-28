@@ -1,0 +1,26 @@
+{
+  "ja": "知らせる",
+  "hrkt": "しらせる",
+  "latn": "shiraseru",
+  "en": "let know, inform",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04328A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなに会議の日にちを<b>知らせた</b>。",
+      "hrkt": "みんな に かいぎ の ひにち を <b>しらせた</b> 。",
+      "latn": "minna ni kaigi no hinichi wo <b>shiraseta</b> .",
+      "en": "I informed everyone of the date of the meeting.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6491462.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04328A.mp3"
+    },
+    {
+      "ja": "友達がコンサートの時間を<b>知らせて</b>くれました。",
+      "hrkt": "ともだち が コンサート の じかん を <b>しらせて</b> くれました。",
+      "latn": "tomodachi ga konsa-to no jikan wo <b>shirasete</b> kuremashita.",
+      "en": "A friend of mine told me the time of the concert.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/73fv35d94o.mp3"
+    }
+  ]
+}

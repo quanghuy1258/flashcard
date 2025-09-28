@@ -1,0 +1,18 @@
+{
+  "ja": "たった",
+  "hrkt": "たった",
+  "latn": "tatta",
+  "en": "only, merely",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01701A.mp3",
+  "sentences": [
+    {
+      "ja": "財布の中に<b>たった</b>1000円しかないよ。",
+      "hrkt": "さいふ の なか に <b>たった</b> 1000 えん しか ない よ。",
+      "latn": "saifu no naka ni <b>tatta</b> 1000 en shika nai yo.",
+      "en": "I only have 1,000 yen in my wallet.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01701A.mp3"
+    }
+  ]
+}

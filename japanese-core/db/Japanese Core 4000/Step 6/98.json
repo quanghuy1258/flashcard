@@ -1,0 +1,18 @@
+{
+  "ja": "崩れる",
+  "hrkt": "くずれる",
+  "latn": "kuzureru",
+  "en": "crumble, collapse",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00926A.mp3",
+  "sentences": [
+    {
+      "ja": "大雨で崖が<b>崩れた</b>ね。",
+      "hrkt": "おおあめ で がけ が <b>くずれた</b> ね。",
+      "latn": "ooame de gake ga <b>kuzureta</b> ne.",
+      "en": "The cliff collapsed in the downpour.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00926A.mp3"
+    }
+  ]
+}

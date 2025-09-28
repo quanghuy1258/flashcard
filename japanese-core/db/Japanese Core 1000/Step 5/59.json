@@ -1,0 +1,26 @@
+{
+  "ja": "相手",
+  "hrkt": "あいて",
+  "latn": "aite",
+  "en": "opponent (in sports, etc.), the other party, partner",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00018A.mp3",
+  "sentences": [
+    {
+      "ja": "試合の<b>相手</b>は誰ですか。",
+      "hrkt": "しあい の <b>あいて</b> は だれ です か。",
+      "latn": "shiai no <b>aite</b> ha dare desu ka.",
+      "en": "Who are they playing against?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/780292.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00018A.mp3"
+    },
+    {
+      "ja": "<b>相手</b>は何て言ってますか。",
+      "hrkt": "<b>あいて</b> は なんて いって ます か。",
+      "latn": "<b>aite</b> ha nante itte masu ka.",
+      "en": "What does the other party say?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/15295i7ajo.mp3"
+    }
+  ]
+}

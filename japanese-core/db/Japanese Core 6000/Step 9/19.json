@@ -1,0 +1,18 @@
+{
+  "ja": "漬物",
+  "hrkt": "つけもの",
+  "latn": "tsukemono",
+  "en": "pickle, pickled vegetable",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03740A.mp3",
+  "sentences": [
+    {
+      "ja": "祖母は<b>漬物</b>を自分で作ります。",
+      "hrkt": "そぼ は <b>つけもの</b> を じぶん で つくります。",
+      "latn": "sobo ha <b>tsukemono</b> wo jibun de tsukurimasu.",
+      "en": "My grandmother makes her own pickles.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03740A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "捜す",
+  "hrkt": "さがす",
+  "latn": "sagasu",
+  "en": "look for, search for (someone or something missing)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01600A.mp3",
+  "sentences": [
+    {
+      "ja": "警察がその男を<b>捜して</b>いるの。",
+      "hrkt": "けいさつ が その おとこ を <b>さがして</b> いる の。",
+      "latn": "keisatsu ga sono otoko wo <b>sagashite</b> iru no.",
+      "en": "The police are searching for the man.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01600A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "一人",
+  "hrkt": "ひとり",
+  "latn": "hitori",
+  "en": "one person",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07788A.mp3",
+  "sentences": [
+    {
+      "ja": "そこには私<b>一人</b>しかいなかった。",
+      "hrkt": "そこ に は わたし <b>ひとり</b> しか いなかった。",
+      "latn": "soko ni ha watashi <b>hitori</b> shika inakatta.",
+      "en": "I was the only one there.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5058270.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07788A.mp3"
+    },
+    {
+      "ja": "今日は<b>一人</b>の時間を楽しみたい。",
+      "hrkt": "きょう は <b>ひとり</b> の じかん を たのしみたい。",
+      "latn": "kyou ha <b>hitori</b> no jikan wo tanoshimitai.",
+      "en": "Today I want to enjoy some time to myself.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6062408.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05424A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "和風",
+  "hrkt": "わふう",
+  "latn": "wafuu",
+  "en": "Japanese-inspired, Japanese-style",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02795A.mp3",
+  "sentences": [
+    {
+      "ja": "夕食に<b>和風</b>パスタを作ったよ。",
+      "hrkt": "ゆうしょく に <b>わふう</b> パスタ を つくった よ。",
+      "latn": "yuushoku ni <b>wafuu</b> pasuta wo tsukutta yo.",
+      "en": "I made Japanese-inspired pasta for dinner.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/6l2b6e3t9fjc8.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02795A.mp3"
+    },
+    {
+      "ja": "私は<b>和風</b>の家に住みたいです。",
+      "hrkt": "わたし は <b>わふう</b> の いえ に すみたい です。",
+      "latn": "watashi ha <b>wafuu</b> no ie ni sumitai desu.",
+      "en": "I want to live in a Japanese-style house.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d6ap1o11o4.mp3"
+    }
+  ]
+}

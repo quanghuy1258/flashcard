@@ -1,0 +1,26 @@
+{
+  "ja": "スピード",
+  "hrkt": "スピード",
+  "latn": "supi-do",
+  "en": "speed (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00522A.mp3",
+  "sentences": [
+    {
+      "ja": "カーブを曲がるときは<b>スピード</b>を落としましょう。",
+      "hrkt": "カーブ を まがる とき は <b>スピード</b> を おとしましょう。",
+      "latn": "ka-bu wo magaru toki ha <b>supi-do</b> wo otoshimashou.",
+      "en": "You should slow down when driving around a bend.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/25722t3080.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00522A.mp3"
+    },
+    {
+      "ja": "今は便利さと<b>スピード</b>の時代だ。",
+      "hrkt": "いま は べんりさ と <b>スピード</b> の じだい だ。",
+      "latn": "ima ha benrisa to <b>supi-do</b> no jidai da.",
+      "en": "We're living in the age of convenience and speed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/943969.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03720A.mp3"
+    }
+  ]
+}

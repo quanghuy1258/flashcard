@@ -1,0 +1,18 @@
+{
+  "ja": "暴れる",
+  "hrkt": "あばれる",
+  "latn": "abareru",
+  "en": "act violently, rage about",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02467A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は悪酔いして<b>暴れた</b>んだ。",
+      "hrkt": "かれ は わるよい して <b>あばれた</b> ん だ。",
+      "latn": "kare ha waruyoi shite <b>abareta</b> n da.",
+      "en": "He was so drunk that he became violent.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02467A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "どれ",
+  "hrkt": "どれ",
+  "latn": "dore",
+  "en": "what, which",
+  "pos": "Interrogative",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06572A.mp3",
+  "sentences": [
+    {
+      "ja": "この中で<b>どれ</b>が好きですか。",
+      "hrkt": "この なか で <b>どれ</b> が すき です か。",
+      "latn": "kono naka de <b>dore</b> ga suki desu ka.",
+      "en": "Which of these do you like?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3320660.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06572A.mp3"
+    },
+    {
+      "ja": "ソースは<b>どれ</b>ですか。",
+      "hrkt": "ソース は <b>どれ</b> です か。",
+      "latn": "so-su ha <b>dore</b> desu ka.",
+      "en": "Which one is the sauce?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/181192.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05025A.mp3"
+    }
+  ]
+}

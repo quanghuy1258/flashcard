@@ -1,0 +1,18 @@
+{
+  "ja": "書店",
+  "hrkt": "しょてん",
+  "latn": "shoten",
+  "en": "bookstore (formal)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01579A.mp3",
+  "sentences": [
+    {
+      "ja": "駅前に新しい<b>書店</b>ができました。",
+      "hrkt": "えき まえ に あたらしい <b>しょてん</b> が できました。",
+      "latn": "eki mae ni atarashii <b>shoten</b> ga dekimashita.",
+      "en": "There's a new bookstore in front of the station.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01579A.mp3"
+    }
+  ]
+}

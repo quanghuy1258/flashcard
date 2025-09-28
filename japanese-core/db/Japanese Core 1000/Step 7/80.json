@@ -1,0 +1,26 @@
+{
+  "ja": "経験",
+  "hrkt": "けいけん",
+  "latn": "keiken",
+  "en": "experience, knowledge or skill gained",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02605A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の試合はいい<b>経験</b>になりました。",
+      "hrkt": "きょう の しあい は いい <b>けいけん</b> に なりました。",
+      "latn": "kyou no shiai ha ii <b>keiken</b> ni narimashita.",
+      "en": "Today's game was a good experience.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4722771.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02605A.mp3"
+    },
+    {
+      "ja": "この<b>経験</b>はあなたにとってプラスになるでしょう。",
+      "hrkt": "この <b>けいけん</b> は あなた にとって プラス に なる でしょう。",
+      "latn": "kono <b>keiken</b> ha anata nitotte purasu ni naru deshou.",
+      "en": "This experience will be a good thing for you.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/8558cm1t9c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01092A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ウェーター",
+  "hrkt": "ウェーター",
+  "latn": "we-ta-",
+  "en": "waiter",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00651A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ウェーター</b>が水を運んできました。",
+      "hrkt": "<b>ウェーター</b> が みず を はこんで きました。",
+      "latn": "<b>we-ta-</b> ga mizu wo hakonde kimashita.",
+      "en": "The waiter brought some water.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5940714.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00651A.mp3"
+    },
+    {
+      "ja": "私は<b>ウェーター</b>をしています。",
+      "hrkt": "わたし は <b>ウェーター</b> を して います。",
+      "latn": "watashi ha <b>we-ta-</b> wo shite imasu.",
+      "en": "I'm working as a waiter.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/65ah5p3tq0.mp3"
+    }
+  ]
+}

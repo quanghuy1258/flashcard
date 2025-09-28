@@ -1,0 +1,18 @@
+{
+  "ja": "撃つ",
+  "hrkt": "うつ",
+  "latn": "utsu",
+  "en": "fire, shoot",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01172A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は拳銃で<b>撃たれた</b>わ。",
+      "hrkt": "かれ は けんじゅう で <b>うたれた</b> わ。",
+      "latn": "kare ha kenjuu de <b>utareta</b> wa.",
+      "en": "He was shot by a handgun.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01172A.mp3"
+    }
+  ]
+}

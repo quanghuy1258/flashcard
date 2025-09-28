@@ -1,0 +1,18 @@
+{
+  "ja": "強盗",
+  "hrkt": "ごうとう",
+  "latn": "goutou",
+  "en": "robbery, burglar",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03615A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>強盗</b>がカメラに写っていました。",
+      "hrkt": "<b>ごうとう</b> が カメラ に うつって いました。",
+      "latn": "<b>goutou</b> ga kamera ni utsutte imashita.",
+      "en": "The burglar was caught on a camera.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03615A.mp3"
+    }
+  ]
+}

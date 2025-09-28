@@ -1,0 +1,26 @@
+{
+  "ja": "探す",
+  "hrkt": "さがす",
+  "latn": "sagasu",
+  "en": "search for, look for (someone or something one wants)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03360A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は郵便局を<b>探して</b>いました。",
+      "hrkt": "かれ は ゆうびんきょく を <b>さがして</b> いました。",
+      "latn": "kare ha yuubinkyoku wo <b>sagashite</b> imashita.",
+      "en": "He was looking for the post office.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5321780.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03360A.mp3"
+    },
+    {
+      "ja": "私は犬を<b>探して</b>います。",
+      "hrkt": "わたし は いぬ を <b>さがして</b> います。",
+      "latn": "watashi ha inu wo <b>sagashite</b> imasu.",
+      "en": "I'm looking for my dog.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a3bs7gd1d8.mp3"
+    }
+  ]
+}

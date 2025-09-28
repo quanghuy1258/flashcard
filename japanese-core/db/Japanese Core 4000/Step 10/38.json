@@ -1,0 +1,18 @@
+{
+  "ja": "離す",
+  "hrkt": "はなす",
+  "latn": "hanasu",
+  "en": "set (something) apart, let go (of)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01720A.mp3",
+  "sentences": [
+    {
+      "ja": "子供の手を<b>離さない</b>でください。",
+      "hrkt": "こども の て を <b>はなさない</b> で ください。",
+      "latn": "kodomo no te wo <b>hanasanai</b> de kudasai.",
+      "en": "Don't let go of your child's hand.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01720A.mp3"
+    }
+  ]
+}

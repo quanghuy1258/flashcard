@@ -1,0 +1,26 @@
+{
+  "ja": "大人しい",
+  "hrkt": "おとなしい",
+  "latn": "otonashii",
+  "en": "gentle, quiet",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01150A.mp3",
+  "sentences": [
+    {
+      "ja": "私の彼女はとても<b>大人しい</b>です。",
+      "hrkt": "わたし の かのじょ は とても <b>おとなしい</b> です。",
+      "latn": "watashi no kanojo ha totemo <b>otonashii</b> desu.",
+      "en": "My girlfriend's very quiet.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2993981.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01150A.mp3"
+    },
+    {
+      "ja": "うちの娘は子供の時は<b>大人しかった</b>。",
+      "hrkt": "うち の むすめ は こども の とき は <b>おとなしかった</b>。",
+      "latn": "uchi no musume ha kodomo no toki ha <b>otonashikatta</b>.",
+      "en": "My daughter was quiet when she was a child.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/75ddfk30h8.mp3"
+    }
+  ]
+}

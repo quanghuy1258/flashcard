@@ -1,0 +1,26 @@
+{
+  "ja": "後ろ",
+  "hrkt": "うしろ",
+  "latn": "ushiro",
+  "en": "back, behind",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00687A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>後ろ</b>を向いて。",
+      "hrkt": "<b>うしろ</b> を むいて。",
+      "latn": "<b>ushiro</b> wo muite.",
+      "en": "Turn around.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5083652.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00687A.mp3"
+    },
+    {
+      "ja": "<b>後ろ</b>の席が空いています。",
+      "hrkt": "<b>うしろ</b> の せき が あいて います。",
+      "latn": "<b>ushiro</b> no seki ga aite imasu.",
+      "en": "The rear seat is empty.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1581257.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00068A.mp3"
+    }
+  ]
+}

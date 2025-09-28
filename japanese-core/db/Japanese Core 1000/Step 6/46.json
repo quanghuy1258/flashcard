@@ -1,0 +1,26 @@
+{
+  "ja": "山",
+  "hrkt": "やま",
+  "latn": "yama",
+  "en": "mountain",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09442A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>山</b>の空気はきれいだ。",
+      "hrkt": "<b>やま</b> の くうき は きれい だ。",
+      "latn": "<b>yama</b> no kuuki ha kirei da.",
+      "en": "The mountain air is clean.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4614553.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09442A.mp3"
+    },
+    {
+      "ja": "今日は<b>山</b>がはっきり見える。",
+      "hrkt": "きょう は <b>やま</b> が はっきり みえる。",
+      "latn": "kyou ha <b>yama</b> ga hakkiri mieru.",
+      "en": "You can see the mountains clearly today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3986271.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07361A.mp3"
+    }
+  ]
+}

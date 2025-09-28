@@ -1,0 +1,18 @@
+{
+  "ja": "不良",
+  "hrkt": "ふりょう",
+  "latn": "furyou",
+  "en": "bad, defective",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02287A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>不良</b>品を返品したよ。",
+      "hrkt": "<b>ふりょう</b> ひん を へんぴん した よ。",
+      "latn": "<b>furyou</b> hin wo henpin shita yo.",
+      "en": "I returned the defective product.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02287A.mp3"
+    }
+  ]
+}

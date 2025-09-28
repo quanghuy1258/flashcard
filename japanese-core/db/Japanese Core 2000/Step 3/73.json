@@ -1,0 +1,26 @@
+{
+  "ja": "ギター",
+  "hrkt": "ギター",
+  "latn": "gita-",
+  "en": "guitar",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02090A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>ギター</b>が得意です。",
+      "hrkt": "かのじょ は <b>ギター</b> が とくい です。",
+      "latn": "kanojo ha <b>gita-</b> ga tokui desu.",
+      "en": "She's good at the guitar.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6115531.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02090A.mp3"
+    },
+    {
+      "ja": "彼は<b>ギター</b>を弾きます。",
+      "hrkt": "かれ は <b>ギター</b> を ひきます。",
+      "latn": "kare ha <b>gita-</b> wo hikimasu.",
+      "en": "He plays the guitar.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5337176.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07661A.mp3"
+    }
+  ]
+}

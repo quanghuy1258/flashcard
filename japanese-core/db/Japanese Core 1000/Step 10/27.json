@@ -1,0 +1,26 @@
+{
+  "ja": "旅行",
+  "hrkt": "りょこう",
+  "latn": "ryokou",
+  "en": "travel, trip",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09875A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>旅行</b>が好きです。",
+      "hrkt": "かのじょ は <b>りょこう</b> が すき です。",
+      "latn": "kanojo ha <b>ryokou</b> ga suki desu.",
+      "en": "She likes traveling.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3759341.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09875A.mp3"
+    },
+    {
+      "ja": "毎年多くの人が海外へ<b>旅行</b>する。",
+      "hrkt": "まいとし おおく の ひと が かいがい へ <b>りょこう</b> する。",
+      "latn": "maitoshi ooku no hito ga kaigai he <b>ryokou</b> suru.",
+      "en": "A lot of people travel abroad every year.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3335477.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00974A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "帯",
+  "hrkt": "おび",
+  "latn": "obi",
+  "en": "belt, sash",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02551A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>帯</b>は長すぎます。",
+      "hrkt": "この <b>おび</b> は なが すぎます。",
+      "latn": "kono <b>obi</b> ha naga sugimasu.",
+      "en": "This sash is too long.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02551A.mp3"
+    }
+  ]
+}

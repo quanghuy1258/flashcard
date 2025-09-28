@@ -1,0 +1,18 @@
+{
+  "ja": "世代",
+  "hrkt": "せだい",
+  "latn": "sedai",
+  "en": "generation",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00326A.mp3",
+  "sentences": [
+    {
+      "ja": "私は彼と同じ<b>世代</b>です。",
+      "hrkt": "わたし は かれ と おなじ <b>せだい</b> です。",
+      "latn": "watashi ha kare to onaji <b>sedai</b> desu.",
+      "en": "I am of the same generation as him.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/658be06n44.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00326A.mp3"
+    }
+  ]
+}

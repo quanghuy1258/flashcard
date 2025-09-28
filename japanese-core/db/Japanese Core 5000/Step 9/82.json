@@ -1,0 +1,18 @@
+{
+  "ja": "襲う",
+  "hrkt": "おそう",
+  "latn": "osou",
+  "en": "raid, attack",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00571A.mp3",
+  "sentences": [
+    {
+      "ja": "山で登山客が熊に<b>襲われた</b>よ。",
+      "hrkt": "やま で とざん きゃく が くま に <b>おそわれた</b> よ。",
+      "latn": "yama de tozan kyaku ga kuma ni <b>osowareta</b> yo.",
+      "en": "Climbers were attacked by a bear in the mountain.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00571A.mp3"
+    }
+  ]
+}

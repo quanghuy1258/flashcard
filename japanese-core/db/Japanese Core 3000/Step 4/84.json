@@ -1,0 +1,26 @@
+{
+  "ja": "支払い",
+  "hrkt": "しはらい",
+  "latn": "shiharai",
+  "en": "payment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00828A.mp3",
+  "sentences": [
+    {
+      "ja": "お<b>支払い</b>はカードもお使いいただけます。",
+      "hrkt": "お<b>しはらい</b> は カード も おつかい いただけます。",
+      "latn": "o<b>shiharai</b> ha ka-do mo otsukai itadakemasu.",
+      "en": "You can also pay by credit card.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d4ct9685mg.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00828A.mp3"
+    },
+    {
+      "ja": "<b>支払い</b>はカードでお願いします。",
+      "hrkt": "<b>しはらい</b> は カード で おねがい します。",
+      "latn": "<b>shiharai</b> ha ka-do de onegai shimasu.",
+      "en": "Please pay by credit card.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4059371.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01309A.mp3"
+    }
+  ]
+}

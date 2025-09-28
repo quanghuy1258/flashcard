@@ -1,0 +1,18 @@
+{
+  "ja": "意向",
+  "hrkt": "いこう",
+  "latn": "ikou",
+  "en": "intention",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00379A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>意向</b>を聞いてみましょう。",
+      "hrkt": "かれ の <b>いこう</b> を きいて みましょう。",
+      "latn": "kare no <b>ikou</b> wo kiite mimashou.",
+      "en": "Let's ask what his intentions are.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00379A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "垂直",
+  "hrkt": "すいちょく",
+  "latn": "suichoku",
+  "en": "vertical, perpendicular",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01408A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは<b>垂直</b>のがけを登り始めたの。",
+      "hrkt": "かれら は <b>すいちょく</b> の がけ を のぼり はじめた の。",
+      "latn": "karera ha <b>suichoku</b> no gake wo nobori hajimeta no.",
+      "en": "They started to climb a vertical cliff.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01408A.mp3"
+    }
+  ]
+}

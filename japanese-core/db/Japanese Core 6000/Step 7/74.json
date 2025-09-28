@@ -1,0 +1,18 @@
+{
+  "ja": "ノーベル賞",
+  "hrkt": "ノーベルしょう",
+  "latn": "no-berushou",
+  "en": "Nobel Prize",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01384A.mp3",
+  "sentences": [
+    {
+      "ja": "日本人が<b>ノーベル賞</b>を取ったよ。",
+      "hrkt": "にほん じん が <b>ノーベル しょう</b> を とった よ。",
+      "latn": "nihon jin ga <b>no-beru shou</b> wo totta yo.",
+      "en": "A Japanese person won the Nobel Prize.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01384A.mp3"
+    }
+  ]
+}

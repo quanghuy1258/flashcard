@@ -1,0 +1,18 @@
+{
+  "ja": "人混み",
+  "hrkt": "ひとごみ",
+  "latn": "hitogomi",
+  "en": "crowd",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02939A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>人混み</b>が好きではありません。",
+      "hrkt": "わたし は <b>ひとごみ</b> が すき では ありません。",
+      "latn": "watashi ha <b>hitogomi</b> ga suki deha arimasen.",
+      "en": "I don't like crowds.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/3251ap7a9c.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02939A.mp3"
+    }
+  ]
+}

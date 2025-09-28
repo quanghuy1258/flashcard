@@ -1,0 +1,26 @@
+{
+  "ja": "教える",
+  "hrkt": "おしえる",
+  "latn": "oshieru",
+  "en": "teach, tell",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01077A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は数学を<b>教えて</b>います。",
+      "hrkt": "かれ は すうがく を <b>おしえて</b> います。",
+      "latn": "kare ha suugaku wo <b>oshiete</b> imasu.",
+      "en": "He teaches mathematics.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5376900.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01077A.mp3"
+    },
+    {
+      "ja": "あなたの名前を<b>教えて</b>ください。",
+      "hrkt": "あなた の なまえ を <b>おしえて</b> ください。",
+      "latn": "anata no namae wo <b>oshiete</b> kudasai.",
+      "en": "Please tell me your name.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4108445.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06723A.mp3"
+    }
+  ]
+}

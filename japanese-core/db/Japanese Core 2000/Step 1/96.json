@@ -1,0 +1,26 @@
+{
+  "ja": "恐ろしい",
+  "hrkt": "おそろしい",
+  "latn": "osoroshii",
+  "en": "terrible, awful",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01109A.mp3",
+  "sentences": [
+    {
+      "ja": "昨夜<b>恐ろしい</b>夢を見た。",
+      "hrkt": "ゆうべ <b>おそろしい</b> ゆめ を みた。",
+      "latn": "yuube <b>osoroshii</b> yume wo mita.",
+      "en": "I had a terrible dream last night.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1822009.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01109A.mp3"
+    },
+    {
+      "ja": "3年前、ここで<b>恐ろしい</b>事故がありました。",
+      "hrkt": "3 ねん まえ、ここ で <b>おそろしい</b> じこ が ありました。",
+      "latn": "3 nen mae,koko de <b>osoroshii</b> jiko ga arimashita.",
+      "en": "Three years ago, there was a terrible accident here.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/421if1brng.mp3"
+    }
+  ]
+}

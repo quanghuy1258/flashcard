@@ -1,0 +1,26 @@
+{
+  "ja": "向く",
+  "hrkt": "むく",
+  "latn": "muku",
+  "en": "turn, face",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09051A.mp3",
+  "sentences": [
+    {
+      "ja": "こっちを<b>向いて</b>ください。",
+      "hrkt": "こっち を <b>むいて</b> ください。",
+      "latn": "kocchi wo <b>muite</b> kudasai.",
+      "en": "Please turn this way.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5088586.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09051A.mp3"
+    },
+    {
+      "ja": "後ろを<b>向いて</b>。",
+      "hrkt": "うしろ を <b>むいて</b>。",
+      "latn": "ushiro wo <b>muite</b>.",
+      "en": "Turn around.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5083652.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00687A.mp3"
+    }
+  ]
+}

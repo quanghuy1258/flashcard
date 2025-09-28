@@ -1,0 +1,26 @@
+{
+  "ja": "販売",
+  "hrkt": "はんばい",
+  "latn": "hanbai",
+  "en": "sale, selling",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07581A.mp3",
+  "sentences": [
+    {
+      "ja": "前売券は窓口で<b>販売</b>しています。",
+      "hrkt": "まえうり けん は まどぐち で <b>はんばい</b> して います。",
+      "latn": "maeuri ken ha madoguchi de <b>hanbai</b> shite imasu.",
+      "en": "Advance tickets are sold at the ticket window.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1999704.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07581A.mp3"
+    },
+    {
+      "ja": "その商品は<b>販売</b>中止になりました。",
+      "hrkt": "その しょうひん は <b>はんばい</b> ちゅうし に なりました。",
+      "latn": "sono shouhin ha <b>hanbai</b> chuushi ni narimashita.",
+      "en": "Sale of the product has been discontinued.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/4448001t3c.mp3"
+    }
+  ]
+}

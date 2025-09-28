@@ -1,0 +1,18 @@
+{
+  "ja": "花火",
+  "hrkt": "はなび",
+  "latn": "hanabi",
+  "en": "fireworks",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02283A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、<b>花火</b>を見にいったよ。",
+      "hrkt": "きのう 、 <b>はなび</b> を みに いった よ。",
+      "latn": "kinou , <b>hanabi</b> wo mini itta yo.",
+      "en": "I went to see fireworks yesterday.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02283A.mp3"
+    }
+  ]
+}

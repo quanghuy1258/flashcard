@@ -1,0 +1,18 @@
+{
+  "ja": "学科",
+  "hrkt": "がっか",
+  "latn": "gakka",
+  "en": "school subject, academic department",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01727A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の得意な<b>学科</b>は数学です。",
+      "hrkt": "かれ の とくいな <b>がっか</b> は すうがく です。",
+      "latn": "kare no tokuina <b>gakka</b> ha suugaku desu.",
+      "en": "Math is his strong subject.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01727A.mp3"
+    }
+  ]
+}

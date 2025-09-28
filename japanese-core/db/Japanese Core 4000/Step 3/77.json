@@ -1,0 +1,18 @@
+{
+  "ja": "確率",
+  "hrkt": "かくりつ",
+  "latn": "kakuritsu",
+  "en": "probability, chance",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02143A.mp3",
+  "sentences": [
+    {
+      "ja": "天気予報は当たる<b>確率</b>が高くなりましたね。",
+      "hrkt": "てんき よほう は あたる <b>かくりつ</b> が たかく なりました ね。",
+      "latn": "tenki yohou ha ataru <b>kakuritsu</b> ga takaku narimashita ne.",
+      "en": "The weather forecast is getting a higher probability of proving its forecast right.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02143A.mp3"
+    }
+  ]
+}

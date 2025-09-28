@@ -1,0 +1,18 @@
+{
+  "ja": "昨晩",
+  "hrkt": "さくばん",
+  "latn": "sakuban",
+  "en": "last night, last evening (formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03635A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>昨晩</b>の雪がまだ庭に残っている。",
+      "hrkt": "<b>さくばん</b> の ゆき が まだ にわ に のこって いる。",
+      "latn": "<b>sakuban</b> no yuki ga mada niwa ni nokotte iru.",
+      "en": "Last night's snow is still in the garden.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e44a50fvas.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03635A.mp3"
+    }
+  ]
+}

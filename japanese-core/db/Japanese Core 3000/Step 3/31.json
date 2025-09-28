@@ -1,0 +1,18 @@
+{
+  "ja": "購入",
+  "hrkt": "こうにゅう",
+  "latn": "kounyuu",
+  "en": "purchase",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00048A.mp3",
+  "sentences": [
+    {
+      "ja": "入学式のあと、教科書を<b>購入</b>してください。",
+      "hrkt": "にゅうがく しき の あと、きょうかしょ を <b>こうにゅう</b> して ください。",
+      "latn": "nyuugaku shiki no ato,kyoukasho wo <b>kounyuu</b> shite kudasai.",
+      "en": "Please buy the textbooks after the entrance ceremony.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/72dh77ea8c.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00048A.mp3"
+    }
+  ]
+}

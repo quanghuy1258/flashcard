@@ -1,0 +1,26 @@
+{
+  "ja": "与える",
+  "hrkt": "あたえる",
+  "latn": "ataeru",
+  "en": "give (formal)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00139A.mp3",
+  "sentences": [
+    {
+      "ja": "そのニュースは彼に大きなショックを<b>与えた</b>。",
+      "hrkt": "その ニュース は かれ に おおきな ショック を <b>あたえた</b>。",
+      "latn": "sono nyu-su ha kare ni ookina shokku wo <b>ataeta</b>.",
+      "en": "The news gave him a great shock.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5832369.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00139A.mp3"
+    },
+    {
+      "ja": "その先生は生徒に大きな影響を<b>与えました</b>。",
+      "hrkt": "その せんせい は せいと に おおきな えいきょう を <b>あたえました</b>。",
+      "latn": "sono sensei ha seito ni ookina eikyou wo <b>ataemashita</b>.",
+      "en": "The teacher had a big influence on the students.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/5493e88808.mp3"
+    }
+  ]
+}

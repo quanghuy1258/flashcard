@@ -1,0 +1,26 @@
+{
+  "ja": "酒",
+  "hrkt": "さけ",
+  "latn": "sake",
+  "en": "alcohol, rice wine",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03401A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>酒</b>に強い。",
+      "hrkt": "かのじょ は <b>さけ</b> に つよい。",
+      "latn": "kanojo ha <b>sake</b> ni tsuyoi.",
+      "en": "She holds her liquor well.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5884410.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03401A.mp3"
+    },
+    {
+      "ja": "友達とお<b>酒</b>を飲んでいます。",
+      "hrkt": "ともだち と お<b>さけ</b> を のんで います。",
+      "latn": "tomodachi to o<b>sake</b> wo nonde imasu.",
+      "en": "I'm drinking sake with my friend.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4286932.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07115A.mp3"
+    }
+  ]
+}

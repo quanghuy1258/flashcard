@@ -1,0 +1,26 @@
+{
+  "ja": "情報",
+  "hrkt": "じょうほう",
+  "latn": "jouhou",
+  "en": "information",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04237A.mp3",
+  "sentences": [
+    {
+      "ja": "学生たちはインターネットでいろいろな<b>情報</b>を集めた。",
+      "hrkt": "がくせい たち は インターネット で いろいろな <b>じょうほう</b> を あつめた。",
+      "latn": "gakusei tachi ha inta-netto de iroirona <b>jouhou</b> wo atsumeta.",
+      "en": "The students collected all kinds of information on the Internet.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4369030.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04237A.mp3"
+    },
+    {
+      "ja": "インターネットでマネー<b>情報</b>をチェックしたよ。",
+      "hrkt": "インターネット で マネー <b>じょうほう</b> を チェック した よ。",
+      "latn": "inta-netto de mane- <b>jouhou</b> wo chekku shita yo.",
+      "en": "I checked some financial information on the Internet.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/132uf5cg8o.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02163A.mp3"
+    }
+  ]
+}

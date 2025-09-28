@@ -1,0 +1,18 @@
+{
+  "ja": "湿っぽい",
+  "hrkt": "しめっぽい",
+  "latn": "shimeppoi",
+  "en": "damp, gloomy",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03141A.mp3",
+  "sentences": [
+    {
+      "ja": "雨の日が続いて家の中が<b>湿っぽい</b>な。",
+      "hrkt": "あめ の ひ が つづいて いえ の なか が <b>しめっぽい</b> な。",
+      "latn": "ame no hi ga tsuzuite ie no naka ga <b>shimeppoi</b> na.",
+      "en": "Since it's been raining for days, the whole house is damp.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03141A.mp3"
+    }
+  ]
+}

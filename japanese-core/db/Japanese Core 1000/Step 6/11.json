@@ -1,0 +1,26 @@
+{
+  "ja": "お祖母さん",
+  "hrkt": "おばあさん",
+  "latn": "obaasan",
+  "en": "grandmother (colloquial), elderly woman",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01171A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>お祖母さん</b>と住んでいる。",
+      "hrkt": "かのじょ は <b>おばあさん</b> と すんで いる。",
+      "latn": "kanojo ha <b>obaasan</b> to sunde iru.",
+      "en": "She lives with her grandma.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4109962.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01171A.mp3"
+    },
+    {
+      "ja": "あの<b>お祖母さん</b>は今、80歳です。",
+      "hrkt": "あの <b>おばあさん</b> は いま、80 さい です。",
+      "latn": "ano <b>obaasan</b> ha ima,80 sai desu.",
+      "en": "That elderly woman is 80 years old now.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a16j406cgo.mp3"
+    }
+  ]
+}

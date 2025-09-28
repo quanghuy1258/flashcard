@@ -1,0 +1,18 @@
+{
+  "ja": "発生",
+  "hrkt": "はっせい",
+  "latn": "hassei",
+  "en": "occurrence, happening",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07379A.mp3",
+  "sentences": [
+    {
+      "ja": "交差点で事故が<b>発生</b>した。",
+      "hrkt": "こうさてん で じこ が <b>はっせい</b> した。",
+      "latn": "kousaten de jiko ga <b>hassei</b> shita.",
+      "en": "There was an accident at the intersection.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07379A.mp3"
+    }
+  ]
+}

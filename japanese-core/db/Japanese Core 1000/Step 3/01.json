@@ -1,0 +1,26 @@
+{
+  "ja": "時",
+  "hrkt": "とき",
+  "latn": "toki",
+  "en": "time, moment",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06359A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>時</b>の経つのは早い。",
+      "hrkt": "<b>とき</b> の たつ の は はやい。",
+      "latn": "<b>toki</b> no tatsu no ha hayai.",
+      "en": "Time flies.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5207247.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06359A.mp3"
+    },
+    {
+      "ja": "あの<b>時</b>、私はまだ学生でした。",
+      "hrkt": "あの <b>とき</b>、わたし は まだ がくせい でした。",
+      "latn": "ano <b>toki</b>,watashi ha mada gakusei deshita.",
+      "en": "At that time, I was still a student.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/25db0mdmjc.mp3"
+    }
+  ]
+}

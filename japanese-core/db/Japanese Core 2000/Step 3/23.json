@@ -1,0 +1,26 @@
+{
+  "ja": "テニス",
+  "hrkt": "テニス",
+  "latn": "tenisu",
+  "en": "tennis",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06107A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らはよく<b>テニス</b>をしています。",
+      "hrkt": "かれら は よく <b>テニス</b> を して います。",
+      "latn": "karera ha yoku <b>tenisu</b> wo shite imasu.",
+      "en": "They often play tennis.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4338337.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06107A.mp3"
+    },
+    {
+      "ja": "新しいコートで<b>テニス</b>をしました。",
+      "hrkt": "あたらしい コート で <b>テニス</b> を しました。",
+      "latn": "atarashii ko-to de <b>tenisu</b> wo shimashita.",
+      "en": "I played tennis on the new court.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4036770.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03026A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "鍋",
+  "hrkt": "なべ",
+  "latn": "nabe",
+  "en": "pan",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06719A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>鍋</b>にスープが入っているよ。",
+      "hrkt": "<b>なべ</b> に スープ が はいって いる よ。",
+      "latn": "<b>nabe</b> ni su-pu ga haitte iru yo.",
+      "en": "There's some soup in the pan.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4329630.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06719A.mp3"
+    },
+    {
+      "ja": "母はお<b>鍋</b>いっぱいにトマトソースを作りました。",
+      "hrkt": "はは は お<b>なべ</b> いっぱい に トマト ソース を つくりました。",
+      "latn": "haha ha o<b>nabe</b> ippai ni tomato so-su wo tsukurimashita.",
+      "en": "My mother made a pot of tomato sauce.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/867a6q97rs.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "頑張る",
+  "hrkt": "がんばる",
+  "latn": "ganbaru",
+  "en": "work hard, do one's best",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01959A.mp3",
+  "sentences": [
+    {
+      "ja": "明日の試験、<b>頑張って</b>ね。",
+      "hrkt": "あした の しけん、<b>がんばって</b> ね。",
+      "latn": "ashita no shiken,<b>ganbatte</b> ne.",
+      "en": "Good luck on tomorrow's exam.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4394705.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01959A.mp3"
+    },
+    {
+      "ja": "今日もお仕事、<b>頑張って</b>ください。",
+      "hrkt": "きょう も おしごと、 <b>がんばって</b> ください。",
+      "latn": "kyou mo oshigoto, <b>ganbatte</b> kudasai.",
+      "en": "Good luck with your work today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c6ch0k8820.mp3"
+    }
+  ]
+}

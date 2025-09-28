@@ -1,0 +1,18 @@
+{
+  "ja": "重み",
+  "hrkt": "おもみ",
+  "latn": "omomi",
+  "en": "weight, importance",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01625A.mp3",
+  "sentences": [
+    {
+      "ja": "雪の<b>重み</b>で枝が折れそうだ。",
+      "hrkt": "ゆき の <b>おもみ</b> で えだ が おれ そうだ。",
+      "latn": "yuki no <b>omomi</b> de eda ga ore souda.",
+      "en": "The branch looks like it might snap due to the weight of the snow.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01625A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "ピンポン",
+  "hrkt": "ピンポン",
+  "latn": "pinpon",
+  "en": "table tennis",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07937A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日の夕方、友達と<b>ピンポン</b>をした。",
+      "hrkt": "きのう の ゆうがた、ともだち と <b>ピンポン</b> を した。",
+      "latn": "kinou no yuugata,tomodachi to <b>pinpon</b> wo shita.",
+      "en": "I played table tennis with my friend last night.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/225l9uac78.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07937A.mp3"
+    }
+  ]
+}

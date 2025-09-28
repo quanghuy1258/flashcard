@@ -1,0 +1,18 @@
+{
+  "ja": "各種",
+  "hrkt": "かくしゅ",
+  "latn": "kakushu",
+  "en": "each kind, various",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00245A.mp3",
+  "sentences": [
+    {
+      "ja": "図書館には<b>各種</b>の雑誌がそろっています。",
+      "hrkt": "としょかん に は <b>かくしゅ</b> の ざっし が そろって います。",
+      "latn": "toshokan ni ha <b>kakushu</b> no zasshi ga sorotte imasu.",
+      "en": "There are various magazines in the library.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00245A.mp3"
+    }
+  ]
+}

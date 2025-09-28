@@ -1,0 +1,18 @@
+{
+  "ja": "せめて",
+  "hrkt": "せめて",
+  "latn": "semete",
+  "en": "at least",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01509A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>せめて</b>これだけは約束してください。",
+      "hrkt": "<b>せめて</b> これ だけ は やくそく して ください。",
+      "latn": "<b>semete</b> kore dake ha yakusoku shite kudasai.",
+      "en": "At least promise this, please.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01509A.mp3"
+    }
+  ]
+}

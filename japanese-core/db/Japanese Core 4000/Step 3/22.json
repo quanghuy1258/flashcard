@@ -1,0 +1,18 @@
+{
+  "ja": "天皇",
+  "hrkt": "てんのう",
+  "latn": "tennou",
+  "en": "emperor",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03770A.mp3",
+  "sentences": [
+    {
+      "ja": "日本には<b>天皇</b>がいます。",
+      "hrkt": "にっぽん に は <b>てんのう</b> が います。",
+      "latn": "nippon ni ha <b>tennou</b> ga imasu.",
+      "en": "Japan has an emperor.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03770A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "中学",
+  "hrkt": "ちゅうがく",
+  "latn": "chuugaku",
+  "en": "junior high",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05649A.mp3",
+  "sentences": [
+    {
+      "ja": "息子は<b>中学</b>に通っています。",
+      "hrkt": "むすこ は <b>ちゅうがく</b> に かよって います。",
+      "latn": "musuko ha <b>chuugaku</b> ni kayotte imasu.",
+      "en": "My son goes to junior high.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3887639.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05649A.mp3"
+    },
+    {
+      "ja": "<b>中学</b>では野球をしていました。",
+      "hrkt": "<b>ちゅうがく</b> で は やきゅう を して いました。",
+      "latn": "<b>chuugaku</b> de ha yakyuu wo shite imashita.",
+      "en": "When I was in junior high school, I played baseball.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/93er832qtg.mp3"
+    }
+  ]
+}

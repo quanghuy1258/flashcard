@@ -1,0 +1,18 @@
+{
+  "ja": "問屋",
+  "hrkt": "とんや",
+  "latn": "ton'ya",
+  "en": "wholesale store, wholesaler",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03466A.mp3",
+  "sentences": [
+    {
+      "ja": "この街には家具の<b>問屋</b>がたくさんあります。",
+      "hrkt": "この まち に は かぐ の <b>とんや</b> が たくさん あります。",
+      "latn": "kono machi ni ha kagu no <b>ton'ya</b> ga takusan arimasu.",
+      "en": "There are a lot of wholesale furniture stores in this town.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03466A.mp3"
+    }
+  ]
+}

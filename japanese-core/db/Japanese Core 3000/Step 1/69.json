@@ -1,0 +1,26 @@
+{
+  "ja": "住民",
+  "hrkt": "じゅうみん",
+  "latn": "juumin",
+  "en": "resident",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04015A.mp3",
+  "sentences": [
+    {
+      "ja": "地域の<b>住民</b>が集まって話合いをした。",
+      "hrkt": "ちいき の <b>じゅうみん</b> が あつまって はなしあい を した。",
+      "latn": "chiiki no <b>juumin</b> ga atsumatte hanashiai wo shita.",
+      "en": "The local residents got together and had a talk.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c6289t0q1c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04015A.mp3"
+    },
+    {
+      "ja": "ダムの開発に<b>住民</b>は反対しています。",
+      "hrkt": "ダム の かいはつ に <b>じゅうみん</b> は はんたい して います。",
+      "latn": "damu no kaihatsu ni <b>juumin</b> ha hantai shite imasu.",
+      "en": "The residents are against the development of the dam.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/108622.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01407A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "紫",
+  "hrkt": "むらさき",
+  "latn": "murasaki",
+  "en": "purple",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09123A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>紫</b>のドレスを着ていた。",
+      "hrkt": "かのじょ は <b>むらさき</b> の ドレス を きて いた。",
+      "latn": "kanojo ha <b>murasaki</b> no doresu wo kite ita.",
+      "en": "She wore a purple dress.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5576842.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09123A.mp3"
+    },
+    {
+      "ja": "私は<b>紫</b>の車が欲しいが、妻が反対している。",
+      "hrkt": "わたし は <b>むらさき</b> の くるま が ほしい が、つま が はんたい して いる。",
+      "latn": "watashi ha <b>murasaki</b> no kuruma ga hoshii ga,tsuma ga hantai shite iru.",
+      "en": "I want a purple car, but my wife is against that.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a636bcc98o.mp3"
+    }
+  ]
+}

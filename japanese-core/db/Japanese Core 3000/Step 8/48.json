@@ -1,0 +1,18 @@
+{
+  "ja": "軍",
+  "hrkt": "ぐん",
+  "latn": "gun",
+  "en": "military",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03605A.mp3",
+  "sentences": [
+    {
+      "ja": "怪我人は<b>軍</b>の病院に運ばれたよ。",
+      "hrkt": "けが にん は <b>ぐん</b> の びょういん に はこばれた よ。",
+      "latn": "kega nin ha <b>gun</b> no byouin ni hakobareta yo.",
+      "en": "The injured were taken to the military hospital.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/94e3b3fdf8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03605A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "追い抜く",
+  "hrkt": "おいぬく",
+  "latn": "oinuku",
+  "en": "pass, overtake",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02265A.mp3",
+  "sentences": [
+    {
+      "ja": "リレーで彼は二人<b>追い抜いた</b>ね。",
+      "hrkt": "リレー で かれ は ふたり <b>おいぬいた</b> ね。",
+      "latn": "rire- de kare ha futari <b>oinuita</b> ne.",
+      "en": "He overtook two people in the relay.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02265A.mp3"
+    }
+  ]
+}

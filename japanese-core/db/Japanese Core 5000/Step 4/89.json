@@ -1,0 +1,18 @@
+{
+  "ja": "逃がす",
+  "hrkt": "にがす",
+  "latn": "nigasu",
+  "en": "let (someone/something) to escape",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03042A.mp3",
+  "sentences": [
+    {
+      "ja": "釣った魚を<b>逃がしました</b>。",
+      "hrkt": "つった さかな を <b>にがしました</b>。",
+      "latn": "tsutta sakana wo <b>nigashimashita</b>.",
+      "en": "I let go of the fish I had caught.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03042A.mp3"
+    }
+  ]
+}

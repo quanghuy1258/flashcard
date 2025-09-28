@@ -1,0 +1,26 @@
+{
+  "ja": "素敵",
+  "hrkt": "すてき",
+  "latn": "suteki",
+  "en": "lovely, nice",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02567A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>素敵</b>なプレゼントをありがとう。",
+      "hrkt": "<b>すてき</b>な プレゼント を ありがとう。",
+      "latn": "<b>suteki</b>na purezento wo arigatou.",
+      "en": "Thank you for the wonderful gift.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b5d54a495o.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02567A.mp3"
+    },
+    {
+      "ja": "このアクセサリーは<b>素敵</b>ね。",
+      "hrkt": "この アクセサリー は <b>すてき</b> ね。",
+      "latn": "kono akusesari- ha <b>suteki</b> ne.",
+      "en": "This jewelry is lovely.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4920209.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00076A.mp3"
+    }
+  ]
+}

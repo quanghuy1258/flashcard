@@ -1,0 +1,18 @@
+{
+  "ja": "立ち直る",
+  "hrkt": "たちなおる",
+  "latn": "tachinaoru",
+  "en": "get over, recover",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01771A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は失敗から<b>立ち直った</b>よ。",
+      "hrkt": "かのじょ は しっぱい から <b>たちなおった</b> よ。",
+      "latn": "kanojo ha shippai kara <b>tachinaotta</b> yo.",
+      "en": "She's gotten over a mistake.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01771A.mp3"
+    }
+  ]
+}

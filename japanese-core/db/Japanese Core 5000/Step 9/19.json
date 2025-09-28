@@ -1,0 +1,18 @@
+{
+  "ja": "生かす",
+  "hrkt": "いかす",
+  "latn": "ikasu",
+  "en": "apply, make use of",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01812A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は語学力を仕事に<b>生かして</b>いるね。",
+      "hrkt": "かのじょ は ごがく りょく を しごと に <b>いかして</b> いる ね。",
+      "latn": "kanojo ha gogaku ryoku wo shigoto ni <b>ikashite</b> iru ne.",
+      "en": "She's making use of her language skills in her job.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01812A.mp3"
+    }
+  ]
+}

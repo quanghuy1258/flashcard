@@ -1,0 +1,18 @@
+{
+  "ja": "交替",
+  "hrkt": "こうたい",
+  "latn": "koutai",
+  "en": "shift, taking turns",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03614A.mp3",
+  "sentences": [
+    {
+      "ja": "家まで<b>交替</b>で荷物を持ちました。",
+      "hrkt": "いえ まで <b>こうたい</b> で にもつ を もちました。",
+      "latn": "ie made <b>koutai</b> de nimotsu wo mochimashita.",
+      "en": "We took turns carrying the luggage home.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03614A.mp3"
+    }
+  ]
+}

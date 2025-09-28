@@ -1,0 +1,18 @@
+{
+  "ja": "くしゃみ",
+  "hrkt": "くしゃみ",
+  "latn": "kushami",
+  "en": "sneeze",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03281A.mp3",
+  "sentences": [
+    {
+      "ja": "風邪で<b>くしゃみ</b>が止まりません。",
+      "hrkt": "かぜ で <b>くしゃみ</b> が とまりません。",
+      "latn": "kaze de <b>kushami</b> ga tomarimasen.",
+      "en": "I can't stop sneezing because of my cold.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/6537de4fe8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03281A.mp3"
+    }
+  ]
+}

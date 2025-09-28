@@ -1,0 +1,18 @@
+{
+  "ja": "見当",
+  "hrkt": "けんとう",
+  "latn": "kentou",
+  "en": "estimate, guess",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02322A.mp3",
+  "sentences": [
+    {
+      "ja": "この仕事には何日必要か<b>見当</b>もつかないね。",
+      "hrkt": "この しごと に は なん にち ひつよう か <b>けんとう</b> も つかない ね。",
+      "latn": "kono shigoto ni ha nan nichi hitsuyou ka <b>kentou</b> mo tsukanai ne.",
+      "en": "I can't tell how many days we'll need for this work.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02322A.mp3"
+    }
+  ]
+}

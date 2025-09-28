@@ -1,0 +1,18 @@
+{
+  "ja": "オルガン",
+  "hrkt": "オルガン",
+  "latn": "orugan",
+  "en": "organ (music)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03193A.mp3",
+  "sentences": [
+    {
+      "ja": "僕たちは<b>オルガン</b>に合わせて賛美歌を歌ったんだ。",
+      "hrkt": "ぼく たち は <b>オルガン</b> に あわせて さんびか を うたった ん だ。",
+      "latn": "boku tachi ha <b>orugan</b> ni awasete sanbika wo utatta n da.",
+      "en": "We sang hymns with an organ accompaniment.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03193A.mp3"
+    }
+  ]
+}

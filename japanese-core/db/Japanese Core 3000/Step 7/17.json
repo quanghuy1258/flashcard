@@ -1,0 +1,18 @@
+{
+  "ja": "からす",
+  "hrkt": "からす",
+  "latn": "karasu",
+  "en": "crow, raven",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03585A.mp3",
+  "sentences": [
+    {
+      "ja": "木の上で<b>からす</b>が鳴いています。",
+      "hrkt": "き の うえ で <b>からす</b> が ないて います。",
+      "latn": "ki no ue de <b>karasu</b> ga naite imasu.",
+      "en": "A crow is cawing on the tree.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b12v2iaihb50es.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03585A.mp3"
+    }
+  ]
+}

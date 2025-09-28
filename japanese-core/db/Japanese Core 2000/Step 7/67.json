@@ -1,0 +1,26 @@
+{
+  "ja": "汚す",
+  "hrkt": "よごす",
+  "latn": "yogosu",
+  "en": "make (something) dirty",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09670A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は服を<b>汚した</b>。",
+      "hrkt": "かれ は ふく を <b>よごした</b>。",
+      "latn": "kare ha fuku wo <b>yogoshita</b>.",
+      "en": "He got his clothes dirty.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1364715.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09670A.mp3"
+    },
+    {
+      "ja": "彼は雨の中遊んで靴を<b>汚した</b>。",
+      "hrkt": "かれ は あめ の なか あそんで くつ を <b>よごした</b>。",
+      "latn": "kare ha ame no naka asonde kutsu wo <b>yogoshita</b>.",
+      "en": "He played in the rain and got his shoes dirty.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e3ao30bvvo.mp3"
+    }
+  ]
+}

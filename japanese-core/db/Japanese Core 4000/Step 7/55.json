@@ -1,0 +1,18 @@
+{
+  "ja": "跡",
+  "hrkt": "あと",
+  "latn": "ato",
+  "en": "trace, imprint",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00656A.mp3",
+  "sentences": [
+    {
+      "ja": "ここにタイヤの<b>跡</b>があるわ。",
+      "hrkt": "ここ に タイヤ の <b>あと</b> が ある わ。",
+      "latn": "koko ni taiya no <b>ato</b> ga aru wa.",
+      "en": "There is a tire imprint here.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00656A.mp3"
+    }
+  ]
+}

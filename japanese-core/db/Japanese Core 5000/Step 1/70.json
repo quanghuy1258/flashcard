@@ -1,0 +1,18 @@
+{
+  "ja": "ボーイ",
+  "hrkt": "ボーイ",
+  "latn": "bo-i",
+  "en": "waiter, porter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02739A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ボーイ</b>に荷物を運んでもらった。",
+      "hrkt": "<b>ボーイ</b> に にもつ を はこんで もらった。",
+      "latn": "<b>bo-i</b> ni nimotsu wo hakonde moratta.",
+      "en": "The porter carried the luggage for me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02739A.mp3"
+    }
+  ]
+}

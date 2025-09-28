@@ -1,0 +1,26 @@
+{
+  "ja": "左右",
+  "hrkt": "さゆう",
+  "latn": "sayuu",
+  "en": "left and right",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03643A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>左右</b>を見てから横断歩道を渡りなさい。",
+      "hrkt": "<b>さゆう</b> を みて から おうだん ほどう を わたりなさい。",
+      "latn": "<b>sayuu</b> wo mite kara oudan hodou wo watarinasai.",
+      "en": "Look left and right before crossing the crosswalk.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/7lfe1lcj00ff0.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03643A.mp3"
+    },
+    {
+      "ja": "私は<b>左右</b>で足の大きさが違います。",
+      "hrkt": "わたし は <b>さゆう</b> で あし の おおきさ が ちがいます。",
+      "latn": "watashi ha <b>sayuu</b> de ashi no ookisa ga chigaimasu.",
+      "en": "My left and right feet are different sizes.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a19rcf0l10.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "利く",
+  "hrkt": "きく",
+  "latn": "kiku",
+  "en": "function, be effective",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02181A.mp3",
+  "sentences": [
+    {
+      "ja": "この自転車はブレーキが<b>利きません</b>。",
+      "hrkt": "この じてんしゃ は ブレーキ が <b>ききません</b>。",
+      "latn": "kono jitensha ha bure-ki ga <b>kikimasen</b>.",
+      "en": "The brakes on this bicycle are not working.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/64ad85155o.mp3"
+    }
+  ]
+}

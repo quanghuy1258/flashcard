@@ -1,0 +1,26 @@
+{
+  "ja": "三角",
+  "hrkt": "さんかく",
+  "latn": "sankaku",
+  "en": "figure, area etc. with three points or angles, triangle",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03528A.mp3",
+  "sentences": [
+    {
+      "ja": "紙を<b>三角</b>に切りました。",
+      "hrkt": "かみ を <b>さんかく</b> に きりました。",
+      "latn": "kami wo <b>sankaku</b> ni kirimashita.",
+      "en": "I cut the paper into a triangle.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/185630.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03528A.mp3"
+    },
+    {
+      "ja": "あの<b>三角</b>屋根の家が私の家です。",
+      "hrkt": "あの <b>さんかく</b> やね の いえ が わたし の いえ です。",
+      "latn": "ano <b>sankaku</b> yane no ie ga watashi no ie desu.",
+      "en": "The house with the triangle-shaped roof is my home.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c4c08d5250.mp3"
+    }
+  ]
+}

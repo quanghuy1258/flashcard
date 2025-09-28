@@ -1,0 +1,26 @@
+{
+  "ja": "育てる",
+  "hrkt": "そだてる",
+  "latn": "sodateru",
+  "en": "bring up, raise",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05062A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は三人の子を<b>育てました</b>。",
+      "hrkt": "かのじょ は さん にん の こ を <b>そだてました</b>。",
+      "latn": "kanojo ha san nin no ko wo <b>sodatemashita</b>.",
+      "en": "She raised three children.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5241203.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05062A.mp3"
+    },
+    {
+      "ja": "私は庭でハーブを<b>育てて</b>います。",
+      "hrkt": "わたし は にわ で ハーブ を <b>そだてて</b> います。",
+      "latn": "watashi ha niwa de ha-bu wo <b>sodatete</b> imasu.",
+      "en": "I grow herbs in my yard.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/832m20btrc.mp3"
+    }
+  ]
+}

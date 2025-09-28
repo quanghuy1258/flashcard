@@ -1,0 +1,18 @@
+{
+  "ja": "放る",
+  "hrkt": "ほうる",
+  "latn": "houru",
+  "en": "fling, throw",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03110A.mp3",
+  "sentences": [
+    {
+      "ja": "ボールを空中に<b>放った</b>の。",
+      "hrkt": "ボール を くうちゅう に <b>ほうった</b> の。",
+      "latn": "bo-ru wo kuuchuu ni <b>houtta</b> no.",
+      "en": "I threw a ball in the air.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03110A.mp3"
+    }
+  ]
+}

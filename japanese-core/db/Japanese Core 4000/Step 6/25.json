@@ -1,0 +1,18 @@
+{
+  "ja": "金属",
+  "hrkt": "きんぞく",
+  "latn": "kinzoku",
+  "en": "metal",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00255A.mp3",
+  "sentences": [
+    {
+      "ja": "アルミニウムは<b>金属</b>の一種です。",
+      "hrkt": "アルミニウム は <b>きんぞく</b> の いっしゅ です。",
+      "latn": "aruminiumu ha <b>kinzoku</b> no isshu desu.",
+      "en": "Aluminum is a kind of metal.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00255A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "襟",
+  "hrkt": "えり",
+  "latn": "eri",
+  "en": "collar",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03191A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>襟</b>の大きいコートを買いました。",
+      "hrkt": "<b>えり</b> の おおきい コート を かいました。",
+      "latn": "<b>eri</b> no ookii ko-to wo kaimashita.",
+      "en": "I bought a coat with a large collar.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03191A.mp3"
+    }
+  ]
+}

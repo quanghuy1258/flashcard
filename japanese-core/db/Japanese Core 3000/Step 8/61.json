@@ -1,0 +1,18 @@
+{
+  "ja": "イメージ",
+  "hrkt": "イメージ",
+  "latn": "ime-ji",
+  "en": "image",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00265A.mp3",
+  "sentences": [
+    {
+      "ja": "彼には清潔な<b>イメージ</b>があるね。",
+      "hrkt": "かれ に は せいけつな <b>イメージ</b> が ある ね。",
+      "latn": "kare ni ha seiketsuna <b>ime-ji</b> ga aru ne.",
+      "en": "He has a clean image.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00265A.mp3"
+    }
+  ]
+}

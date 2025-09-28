@@ -1,0 +1,18 @@
+{
+  "ja": "無害",
+  "hrkt": "むがい",
+  "latn": "mugai",
+  "en": "harmless",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03258A.mp3",
+  "sentences": [
+    {
+      "ja": "この農薬は人には<b>無害</b>です。",
+      "hrkt": "この のうやく は ひと に は <b>むがい</b> です。",
+      "latn": "kono nouyaku ha hito ni ha <b>mugai</b> desu.",
+      "en": "This pesticide is harmless to humans.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03258A.mp3"
+    }
+  ]
+}

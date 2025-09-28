@@ -1,0 +1,26 @@
+{
+  "ja": "寂しい",
+  "hrkt": "さびしい",
+  "latn": "sabishii",
+  "en": "lonely, desolate",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03475A.mp3",
+  "sentences": [
+    {
+      "ja": "これは<b>寂しい</b>曲ですね。",
+      "hrkt": "これ は <b>さびしい</b> きょく です ね。",
+      "latn": "kore ha <b>sabishii</b> kyoku desu ne.",
+      "en": "This is a lonely song.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6420923.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03475A.mp3"
+    },
+    {
+      "ja": "あなたがいなくて<b>寂しい</b>です。",
+      "hrkt": "あなた が いなくて <b>さびしい</b> です。",
+      "latn": "anata ga inakute <b>sabishii</b> desu.",
+      "en": "I feel lonely because you are not with me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b4ff185ups.mp3"
+    }
+  ]
+}

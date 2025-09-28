@@ -1,0 +1,18 @@
+{
+  "ja": "向ける",
+  "hrkt": "むける",
+  "latn": "mukeru",
+  "en": "turn toward, point at",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00423A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は上司に怒りの目を<b>向けた</b>んだよ。",
+      "hrkt": "かれ は じょうし に いかり の め を <b>むけた</b> ん だ よ。",
+      "latn": "kare ha joushi ni ikari no me wo <b>muketa</b> n da yo.",
+      "en": "He turned his angry eyes towards his boss.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/83djfpc6ts.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00423A.mp3"
+    }
+  ]
+}

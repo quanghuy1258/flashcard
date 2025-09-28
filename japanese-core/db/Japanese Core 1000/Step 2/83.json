@@ -1,0 +1,26 @@
+{
+  "ja": "閉める",
+  "hrkt": "しめる",
+  "latn": "shimeru",
+  "en": "shut, close (doors, windows, etc.)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03879A.mp3",
+  "sentences": [
+    {
+      "ja": "ちゃんとドアを<b>閉めて</b>よ。",
+      "hrkt": "ちゃんと ドア を <b>しめて</b> よ。",
+      "latn": "chanto doa wo <b>shimete</b> yo.",
+      "en": "Close the door properly.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2363655.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03879A.mp3"
+    },
+    {
+      "ja": "寒いので窓を<b>閉めて</b>ください。",
+      "hrkt": "さむい ので まど を <b>しめて</b> ください。",
+      "latn": "samui node mado wo <b>shimete</b> kudasai.",
+      "en": "It's cold, so please close the window.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/659l5h3eeo.mp3"
+    }
+  ]
+}

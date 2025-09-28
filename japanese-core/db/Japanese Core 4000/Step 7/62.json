@@ -1,0 +1,18 @@
+{
+  "ja": "飛び出す",
+  "hrkt": "とびだす",
+  "latn": "tobidasu",
+  "en": "fly out, dash out",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00512A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は道路に<b>飛び出した</b>の。",
+      "hrkt": "かれ は どうろ に <b>とびだした</b> の。",
+      "latn": "kare ha douro ni <b>tobidashita</b> no.",
+      "en": "He ran out into the road.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00512A.mp3"
+    }
+  ]
+}

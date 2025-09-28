@@ -1,0 +1,18 @@
+{
+  "ja": "俳句",
+  "hrkt": "はいく",
+  "latn": "haiku",
+  "en": "Japanese seventeen-syllabled verse",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00785A.mp3",
+  "sentences": [
+    {
+      "ja": "「さくら」という言葉を使って<b>俳句</b>を書いたよ。",
+      "hrkt": "「さくら」 と いう ことば を つかって <b>はいく</b> を かいた よ。",
+      "latn": "「sakura」 to iu kotoba wo tsukatte <b>haiku</b> wo kaita yo.",
+      "en": "I wrote a haiku poem using the word \"sakura.\"",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Cerego/f9eea7350dd4d4c760b305868e9830b0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "こぐ",
+  "hrkt": "こぐ",
+  "latn": "kogu",
+  "en": "row, paddle",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03441A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは交代でボートを<b>こいだ</b>んだ。",
+      "hrkt": "かれら は こうたい で ボート を <b>こいだ</b> ん だ。",
+      "latn": "karera ha koutai de bo-to wo <b>koida</b> n da.",
+      "en": "They took turns rowing the boat.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03441A.mp3"
+    }
+  ]
+}

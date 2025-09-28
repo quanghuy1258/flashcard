@@ -1,0 +1,18 @@
+{
+  "ja": "覆う",
+  "hrkt": "おおう",
+  "latn": "oou",
+  "en": "cover up",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03548A.mp3",
+  "sentences": [
+    {
+      "ja": "雲が空を<b>覆って</b>いるね。",
+      "hrkt": "くも が そら を <b>おおって</b> いる ね。",
+      "latn": "kumo ga sora wo <b>ootte</b> iru ne.",
+      "en": "The sky is covered by clouds.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03548A.mp3"
+    }
+  ]
+}

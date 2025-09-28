@@ -1,0 +1,26 @@
+{
+  "ja": "贈り物",
+  "hrkt": "おくりもの",
+  "latn": "okurimono",
+  "en": "present, gift",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01042A.mp3",
+  "sentences": [
+    {
+      "ja": "すてきな<b>贈り物</b>をどうもありがとう。",
+      "hrkt": "すてきな <b>おくりもの</b> を どうも ありがとう。",
+      "latn": "sutekina <b>okurimono</b> wo doumo arigatou.",
+      "en": "Thank you for the wonderful gift.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5969324.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01042A.mp3"
+    },
+    {
+      "ja": "このワインは<b>贈り物</b>にいいですよ。",
+      "hrkt": "この ワイン は <b>おくりもの</b> に いい です よ。",
+      "latn": "kono wain ha <b>okurimono</b> ni ii desu yo.",
+      "en": "This wine is good as a gift.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b33r7g2ig0.mp3"
+    }
+  ]
+}

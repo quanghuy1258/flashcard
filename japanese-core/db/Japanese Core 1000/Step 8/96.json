@@ -1,0 +1,26 @@
+{
+  "ja": "平和",
+  "hrkt": "へいわ",
+  "latn": "heiwa",
+  "en": "peace, harmony",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08307A.mp3",
+  "sentences": [
+    {
+      "ja": "この国は<b>平和</b>です。",
+      "hrkt": "この くに は <b>へいわ</b> です。",
+      "latn": "kono kuni ha <b>heiwa</b> desu.",
+      "en": "This country is at peace.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5221334.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08307A.mp3"
+    },
+    {
+      "ja": "私は世界の<b>平和</b>を守りたい。",
+      "hrkt": "わたし は せかい の <b>へいわ</b> を まもりたい。",
+      "latn": "watashi ha sekai no <b>heiwa</b> wo mamoritai.",
+      "en": "I want to preserve world peace.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/924rbf7uh0.mp3"
+    }
+  ]
+}

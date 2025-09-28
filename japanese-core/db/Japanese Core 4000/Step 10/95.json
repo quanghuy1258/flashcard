@@ -1,0 +1,18 @@
+{
+  "ja": "脱線",
+  "hrkt": "だっせん",
+  "latn": "dassen",
+  "en": "derailment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02982A.mp3",
+  "sentences": [
+    {
+      "ja": "地震で電車が<b>脱線</b>したよ。",
+      "hrkt": "じしん で でんしゃ が <b>だっせん</b> した よ。",
+      "latn": "jishin de densha ga <b>dassen</b> shita yo.",
+      "en": "The train derailed in the earthquake.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02982A.mp3"
+    }
+  ]
+}

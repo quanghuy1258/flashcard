@@ -1,0 +1,18 @@
+{
+  "ja": "崩す",
+  "hrkt": "くずす",
+  "latn": "kuzusu",
+  "en": "put (something) into disorder, destroy",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01161A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は体調を<b>崩して</b>います。",
+      "hrkt": "かのじょ は たいちょう を <b>くずして</b> います。",
+      "latn": "kanojo ha taichou wo <b>kuzushite</b> imasu.",
+      "en": "She is under the weather.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01161A.mp3"
+    }
+  ]
+}

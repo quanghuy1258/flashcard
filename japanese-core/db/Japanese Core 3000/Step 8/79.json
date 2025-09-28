@@ -1,0 +1,18 @@
+{
+  "ja": "時刻",
+  "hrkt": "じこく",
+  "latn": "jikoku",
+  "en": "time (formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01783A.mp3",
+  "sentences": [
+    {
+      "ja": "ただ今の<b>時刻</b>は6時35分です。",
+      "hrkt": "ただいま の <b>じこく</b> は 6 じ 35 ふん です。",
+      "latn": "tadaima no <b>jikoku</b> ha 6 ji 35 fun desu.",
+      "en": "The time now is 6:35.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/42945b03bk.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01783A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "和英",
+  "hrkt": "わえい",
+  "latn": "waei",
+  "en": "Japanese-English",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03502A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>和英</b>辞書をよく使います。",
+      "hrkt": "わたし は <b>わえい</b> じしょ を よく つかいます。",
+      "latn": "watashi ha <b>waei</b> jisho wo yoku tsukaimasu.",
+      "en": "I often use a Japanese-English dictionary.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03502A.mp3"
+    }
+  ]
+}

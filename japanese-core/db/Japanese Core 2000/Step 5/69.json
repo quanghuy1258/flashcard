@@ -1,0 +1,26 @@
+{
+  "ja": "都合",
+  "hrkt": "つごう",
+  "latn": "tsugou",
+  "en": "convenience, availability",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05879A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>都合</b>が悪くて行けません。",
+      "hrkt": "きょう は <b>つごう</b> が わるくて いけません。",
+      "latn": "kyou ha <b>tsugou</b> ga warukute ikemasen.",
+      "en": "I'm not available today.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6189186.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05879A.mp3?1219902582"
+    },
+    {
+      "ja": "来週の日曜日なら<b>都合</b>がつきます。",
+      "hrkt": "らいしゅう の にちようび なら <b>つごう</b> が つきます。",
+      "latn": "raishuu no nichiyoubi nara <b>tsugou</b> ga tsukimasu.",
+      "en": "I can be available next Sunday.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a475fd6a9k.mp3"
+    }
+  ]
+}

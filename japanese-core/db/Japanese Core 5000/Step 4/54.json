@@ -1,0 +1,18 @@
+{
+  "ja": "日用品",
+  "hrkt": "にちようひん",
+  "latn": "nichiyouhin",
+  "en": "groceries, daily necessities",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02735A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>日用品</b>の買い物をした。",
+      "hrkt": "きょう は <b>にちようひん</b> の かいもの を した。",
+      "latn": "kyou ha <b>nichiyouhin</b> no kaimono wo shita.",
+      "en": "I did grocery shopping today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02735A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "市場",
+  "hrkt": "しじょう",
+  "latn": "shijou",
+  "en": "market (industrial, financial, etc.)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01439A.mp3",
+  "sentences": [
+    {
+      "ja": "海外<b>市場</b>の動きを確認してください。",
+      "hrkt": "かいがい <b>しじょう</b> の うごき を かくにん して ください。",
+      "latn": "kaigai <b>shijou</b> no ugoki wo kakunin shite kudasai.",
+      "en": "Please check the behavior of overseas markets.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/54e07h0nmk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/427ie946t4.mp3"
+    },
+    {
+      "ja": "その商品は<b>市場</b>に出せません。",
+      "hrkt": "その しょうひん は <b>しじょう</b> に だせません。",
+      "latn": "sono shouhin ha <b>shijou</b> ni dasemasen.",
+      "en": "We can't bring the product to the market.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/231md08kig.mp3"
+    }
+  ]
+}

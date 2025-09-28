@@ -1,0 +1,26 @@
+{
+  "ja": "遠い",
+  "hrkt": "とおい",
+  "latn": "tooi",
+  "en": "far, distant",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06341A.mp3",
+  "sentences": [
+    {
+      "ja": "家から学校までは<b>遠い</b>です。",
+      "hrkt": "いえ から がっこう まで は <b>とおい</b> です。",
+      "latn": "ie kara gakkou made ha <b>tooi</b> desu.",
+      "en": "It's a long way from my house to school. ",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5823712.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06341A.mp3"
+    },
+    {
+      "ja": "私の家は駅から<b>遠い</b>です。",
+      "hrkt": "わたし の いえ は えき から <b>とおい</b> です。",
+      "latn": "watashi no ie ha eki kara <b>tooi</b> desu.",
+      "en": "My house is far from the station.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a5ee1q8lck.mp3"
+    }
+  ]
+}

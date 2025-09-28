@@ -1,0 +1,18 @@
+{
+  "ja": "アルミニウム",
+  "hrkt": "アルミニウム",
+  "latn": "aruminiumu",
+  "en": "aluminum",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01759A.mp3",
+  "sentences": [
+    {
+      "ja": "このお鍋は<b>アルミニウム</b>製です。",
+      "hrkt": "この おなべ は <b>アルミニウム</b> せい です。",
+      "latn": "kono onabe ha <b>aruminiumu</b> sei desu.",
+      "en": "This pan is made of aluminum.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01759A.mp3"
+    }
+  ]
+}

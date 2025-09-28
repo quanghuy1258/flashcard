@@ -1,0 +1,26 @@
+{
+  "ja": "ジャガイモ",
+  "hrkt": "ジャガイモ",
+  "latn": "jagaimo",
+  "en": "potato",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03899A.mp3",
+  "sentences": [
+    {
+      "ja": "ポテトサラダを作るから、<b>ジャガイモ</b>を買ってきて。",
+      "hrkt": "ポテト サラダ を つくる から <b>ジャガイモ</b> を かって きて。",
+      "latn": "poteto sarada wo tsukuru kara <b>jagaimo</b> wo katte kite.",
+      "en": "I'm going to make a potato salad, so go and buy some potatoes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4621258.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03899A.mp3"
+    },
+    {
+      "ja": "私はカレーに<b>ジャガイモ</b>を入れません。",
+      "hrkt": "わたし は カレー に <b>ジャガイモ</b> を いれません。",
+      "latn": "watashi ha kare- ni <b>jagaimo</b> wo iremasen.",
+      "en": "I don't put potatoes in curry.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/440gbo8cn0.mp3"
+    }
+  ]
+}

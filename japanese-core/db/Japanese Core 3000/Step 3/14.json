@@ -1,0 +1,18 @@
+{
+  "ja": "うがい",
+  "hrkt": "うがい",
+  "latn": "ugai",
+  "en": "gargling",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03537A.mp3",
+  "sentences": [
+    {
+      "ja": "冬はまめに<b>うがい</b>をします。",
+      "hrkt": "ふゆ は まめ に <b>うがい</b> を します。",
+      "latn": "fuyu ha mame ni <b>ugai</b> wo shimasu.",
+      "en": "I gargle a lot in winter.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/3547554tjo.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03537A.mp3"
+    }
+  ]
+}

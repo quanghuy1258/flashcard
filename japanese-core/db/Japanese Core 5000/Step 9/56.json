@@ -1,0 +1,18 @@
+{
+  "ja": "ダウン",
+  "hrkt": "ダウン",
+  "latn": "daun",
+  "en": "down, malfunction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01602A.mp3",
+  "sentences": [
+    {
+      "ja": "サーバーが<b>ダウン</b>しています。",
+      "hrkt": "サーバー が <b>ダウン</b> して います。",
+      "latn": "sa-ba- ga <b>daun</b> shite imasu.",
+      "en": "The server is down.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01602A.mp3"
+    }
+  ]
+}

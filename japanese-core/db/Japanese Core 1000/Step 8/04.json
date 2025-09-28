@@ -1,0 +1,26 @@
+{
+  "ja": "うるさい",
+  "hrkt": "うるさい",
+  "latn": "urusai",
+  "en": "noisy, annoying",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00800A.mp3",
+  "sentences": [
+    {
+      "ja": "この通りは車の音が<b>うるさい</b>。",
+      "hrkt": "この とおり は くるま の おと が <b>うるさい</b>。",
+      "latn": "kono toori ha kuruma no oto ga <b>urusai</b>.",
+      "en": "Traffic is noisy on this street.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5623969.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00800A.mp3"
+    },
+    {
+      "ja": "朝から子どもたちが<b>うるさい</b>。",
+      "hrkt": "あさ から こども たち が <b>うるさい</b>。",
+      "latn": "asa kara kodomo tachi ga <b>urusai</b>.",
+      "en": "The children have been noisy since morning.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b48a7774ls.mp3"
+    }
+  ]
+}

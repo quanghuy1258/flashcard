@@ -1,0 +1,26 @@
+{
+  "ja": "仮名",
+  "hrkt": "かな",
+  "latn": "kana",
+  "en": "kana",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01716A.mp3",
+  "sentences": [
+    {
+      "ja": "お名前に<b>仮名</b>を振ってください。",
+      "hrkt": "おなまえ に <b>かな</b> を ふって ください。",
+      "latn": "onamae ni <b>kana</b> wo futte kudasai.",
+      "en": "Please write the pronunciation of your name in kana.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3989841.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01716A.mp3"
+    },
+    {
+      "ja": "日本語では漢字と<b>仮名</b>で文を書きます。",
+      "hrkt": "にほん ご で は かんじ と <b>かな</b> で ぶん を かきます。",
+      "latn": "nihon go de ha kanji to <b>kana</b> de bun wo kakimasu.",
+      "en": "In Japanese we write sentences in Kanji and Kana.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/56aj2qe97g.mp3"
+    }
+  ]
+}

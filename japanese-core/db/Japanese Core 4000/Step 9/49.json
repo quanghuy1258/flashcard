@@ -1,0 +1,18 @@
+{
+  "ja": "切れ",
+  "hrkt": "きれ",
+  "latn": "kire",
+  "en": "sharpness",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03023A.mp3",
+  "sentences": [
+    {
+      "ja": "この包丁は<b>切れ</b>が良いな。",
+      "hrkt": "この ほうちょう は <b>きれ</b> が いい な。",
+      "latn": "kono houchou ha <b>kire</b> ga ii na.",
+      "en": "This kitchen knife cuts well.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03023A.mp3"
+    }
+  ]
+}

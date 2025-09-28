@@ -1,0 +1,26 @@
+{
+  "ja": "話す",
+  "hrkt": "はなす",
+  "latn": "hanasu",
+  "en": "speak, talk",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07421A.mp3",
+  "sentences": [
+    {
+      "ja": "母と電話で<b>話しました</b>。",
+      "hrkt": "はは と でんわ で <b>はなしました</b>。",
+      "latn": "haha to denwa de <b>hanashimashita</b>.",
+      "en": "I spoke to my mother on the phone.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5475755.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07421A.mp3"
+    },
+    {
+      "ja": "もっとゆっくり<b>話して</b>ください。",
+      "hrkt": "もっと ゆっくり <b>はなして</b> ください。",
+      "latn": "motto yukkuri <b>hanashite</b> kudasai.",
+      "en": "Please speak more slowly.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3106884.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09546A.mp3"
+    }
+  ]
+}

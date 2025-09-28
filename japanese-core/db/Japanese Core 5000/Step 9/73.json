@@ -1,0 +1,18 @@
+{
+  "ja": "生涯",
+  "hrkt": "しょうがい",
+  "latn": "shougai",
+  "en": "life, lifetime",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01118A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は80年の<b>生涯</b>を閉じました。",
+      "hrkt": "かれ は 80 ねん の <b>しょうがい</b> を とじました。",
+      "latn": "kare ha 80 nen no <b>shougai</b> wo tojimashita.",
+      "en": "His 80 years of life came to an end.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01118A.mp3"
+    }
+  ]
+}

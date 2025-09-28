@@ -1,0 +1,26 @@
+{
+  "ja": "関する",
+  "hrkt": "かんする",
+  "latn": "kansuru",
+  "en": "relate to, regarding",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01929A.mp3",
+  "sentences": [
+    {
+      "ja": "その問題に<b>関する</b>記事を読みました。",
+      "hrkt": "その もんだい に <b>かんする</b> きじ を よみました。",
+      "latn": "sono mondai ni <b>kansuru</b> kiji wo yomimashita.",
+      "en": "I read an article regarding that problem.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4622955.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01929A.mp3"
+    },
+    {
+      "ja": "この計画に<b>関して</b>、何か意見はありますか。",
+      "hrkt": "この けいかく に <b>かんして</b>、なに か いけん は あります か。",
+      "latn": "kono keikaku ni <b>kanshite</b>,nani ka iken ha arimasu ka.",
+      "en": "Do you have opinions regarding this plan?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/5456dr5oa4.mp3"
+    }
+  ]
+}

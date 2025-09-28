@@ -1,0 +1,18 @@
+{
+  "ja": "コード",
+  "hrkt": "コード",
+  "latn": "ko-do",
+  "en": "cord",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01599A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>コード</b>が短くてコンセントに届きません。",
+      "hrkt": "<b>コード</b> が みじかくて コンセント に とどきません。",
+      "latn": "<b>ko-do</b> ga mijikakute konsento ni todokimasen.",
+      "en": "The cord is too short to reach the outlet.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/238m599ek4.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01599A.mp3"
+    }
+  ]
+}

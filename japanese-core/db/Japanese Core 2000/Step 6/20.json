@@ -1,0 +1,26 @@
+{
+  "ja": "サラダ",
+  "hrkt": "サラダ",
+  "latn": "sarada",
+  "en": "salad",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03507A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>サラダ</b>をたくさん食べました。",
+      "hrkt": "<b>サラダ</b> を たくさん たべました。",
+      "latn": "<b>sarada</b> wo takusan tabemashita.",
+      "en": "I ate a lot of salad.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5231649.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03507A.mp3"
+    },
+    {
+      "ja": "ポテト<b>サラダ</b>を作るから、ジャガイモを買ってきて。",
+      "hrkt": "ポテト<b>サラダ</b> を つくる から ジャガイモ を かって きて。",
+      "latn": "poteto<b>sarada</b> wo tsukuru kara jagaimo wo katte kite.",
+      "en": "I'm going to make potato salad, so go and buy some potatoes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4621258.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03899A.mp3"
+    }
+  ]
+}

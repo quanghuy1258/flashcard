@@ -1,0 +1,26 @@
+{
+  "ja": "増やす",
+  "hrkt": "ふやす",
+  "latn": "fuyasu",
+  "en": "increase (something), add (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08166A.mp3",
+  "sentences": [
+    {
+      "ja": "あの町は緑を<b>増やして</b>います。",
+      "hrkt": "あの まち は みどり を <b>ふやして</b> います。",
+      "latn": "ano machi ha midori wo <b>fuyashite</b> imasu.",
+      "en": "That town is increasing its greenery.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4393860.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08166A.mp3"
+    },
+    {
+      "ja": "その病院はベッドの数を<b>増やしました</b>。",
+      "hrkt": "その びょういん は ベッド の かず を <b>ふやしました</b>。",
+      "latn": "sono byouin ha beddo no kazu wo <b>fuyashimashita</b>.",
+      "en": "The hospital increased the number of beds.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/344bf7aeqc.mp3"
+    }
+  ]
+}

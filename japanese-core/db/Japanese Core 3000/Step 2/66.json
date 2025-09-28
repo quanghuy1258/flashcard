@@ -1,0 +1,26 @@
+{
+  "ja": "シーツ",
+  "hrkt": "シーツ",
+  "latn": "shi-tsu",
+  "en": "bed sheet",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02411A.mp3",
+  "sentences": [
+    {
+      "ja": "メイドが<b>シーツ</b>を交換してくれたね。",
+      "hrkt": "メイド が <b>シーツ</b> を こうかん して くれた ね。",
+      "latn": "meido ga <b>shi-tsu</b> wo koukan shite kureta ne.",
+      "en": "The maid changed the sheets.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b59e501l60.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02411A.mp3"
+    },
+    {
+      "ja": "<b>シーツ</b>を取り替えました。",
+      "hrkt": "<b>シーツ</b> を とりかえました。",
+      "latn": "<b>shi-tsu</b> wo torikaemashita.",
+      "en": "I changed the sheets.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/946146fnmc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02782A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "アンテナ",
+  "hrkt": "アンテナ",
+  "latn": "antena",
+  "en": "antenna",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01197A.mp3",
+  "sentences": [
+    {
+      "ja": "屋上に<b>アンテナ</b>が立っていますね。",
+      "hrkt": "おくじょう に <b>アンテナ</b> が たって います ね。",
+      "latn": "okujou ni <b>antena</b> ga tatte imasu ne.",
+      "en": "An antenna is standing on the rooftop.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01197A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ぶつかる",
+  "hrkt": "ぶつかる",
+  "latn": "butsukaru",
+  "en": "hit, bump into",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08107A.mp3",
+  "sentences": [
+    {
+      "ja": "車が電柱に<b>ぶつかった</b>。",
+      "hrkt": "くるま が でんちゅう に <b>ぶつかった</b>。",
+      "latn": "kuruma ga denchuu ni <b>butsukatta</b>.",
+      "en": "The car crashed into the telephone pole.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/153720.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08107A.mp3"
+    },
+    {
+      "ja": "スマホを見ていたら人に<b>ぶつかった</b>。",
+      "hrkt": "スマホ を みて いたら ひと に <b>ぶつかった</b>。",
+      "latn": "sumaho wo mite itara hito ni <b>butsukatta</b>.",
+      "en": "When I was on my smart phone, I bumped into someone.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/04529k17qk.mp3"
+    }
+  ]
+}

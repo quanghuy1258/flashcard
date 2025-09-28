@@ -1,0 +1,26 @@
+{
+  "ja": "通学",
+  "hrkt": "つうがく",
+  "latn": "tsuugaku",
+  "en": "commuting to school",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05801A.mp3",
+  "sentences": [
+    {
+      "ja": "毎朝、<b>通学</b>に1時間かかる。",
+      "hrkt": "まいあさ、<b>つうがく</b> に 1 じかん かかる。",
+      "latn": "maiasa,<b>tsuugaku</b> ni 1 jikan kakaru.",
+      "en": "It takes me an hour to commute to school every morning.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5019138.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05801A.mp3"
+    },
+    {
+      "ja": "私は電車で<b>通学</b>しています。",
+      "hrkt": "わたし は でんしゃ で <b>つうがく</b> して います。",
+      "latn": "watashi ha densha de <b>tsuugaku</b> shite imasu.",
+      "en": "I go to school by train.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4602298.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06162A.mp3"
+    }
+  ]
+}

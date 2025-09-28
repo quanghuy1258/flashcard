@@ -1,0 +1,26 @@
+{
+  "ja": "台風",
+  "hrkt": "たいふう",
+  "latn": "taifuu",
+  "en": "typhoon",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05251A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>台風</b>が近づいている。",
+      "hrkt": "<b>たいふう</b> が ちかづいて いる。",
+      "latn": "<b>taifuu</b> ga chikazuite iru.",
+      "en": "The typhoon's getting closer.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/510427.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05251A.mp3"
+    },
+    {
+      "ja": "<b>台風</b>で木が倒れた。",
+      "hrkt": "<b>たいふう</b> で き が たおれた。",
+      "latn": "<b>taifuu</b> de ki ga taoreta.",
+      "en": "The tree fell in the typhoon.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/801899.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01982A.mp3"
+    }
+  ]
+}

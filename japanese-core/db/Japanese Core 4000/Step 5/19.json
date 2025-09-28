@@ -1,0 +1,18 @@
+{
+  "ja": "辞典",
+  "hrkt": "じてん",
+  "latn": "jiten",
+  "en": "(individual) dictionary",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02561A.mp3",
+  "sentences": [
+    {
+      "ja": "知らない言葉を<b>辞典</b>で調べました。",
+      "hrkt": "しらない ことば を <b>じてん</b> で しらべました。",
+      "latn": "shiranai kotoba wo <b>jiten</b> de shirabemashita.",
+      "en": "I looked up the word I didn't know in the dictionary.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02561A.mp3"
+    }
+  ]
+}

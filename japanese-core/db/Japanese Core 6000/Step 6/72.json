@@ -1,0 +1,18 @@
+{
+  "ja": "吸い込む",
+  "hrkt": "すいこむ",
+  "latn": "suikomu",
+  "en": "inhale, suck in",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01884A.mp3",
+  "sentences": [
+    {
+      "ja": "ほこりを<b>吸い込んじゃった</b>。",
+      "hrkt": "ほこり を <b>すいこんじゃった</b>。",
+      "latn": "hokori wo <b>suikonjatta</b>.",
+      "en": "I inhaled dust.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01884A.mp3"
+    }
+  ]
+}

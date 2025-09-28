@@ -1,0 +1,18 @@
+{
+  "ja": "小雨",
+  "hrkt": "こさめ",
+  "latn": "kosame",
+  "en": "drizzle",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02639A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>小雨</b>なので傘は要りません。",
+      "hrkt": "<b>こさめ</b> なので かさ は いりません 。",
+      "latn": "<b>kosame</b> nanode kasa ha irimasen .",
+      "en": "I don't need an umbrella because it's only drizzling.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02639A.mp3"
+    }
+  ]
+}

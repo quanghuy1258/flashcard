@@ -1,0 +1,26 @@
+{
+  "ja": "なかなか",
+  "hrkt": "なかなか",
+  "latn": "nakanaka",
+  "en": "not easily, not readily (in a negative sentence)",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06638A.mp3",
+  "sentences": [
+    {
+      "ja": "荷物が<b>なかなか</b>届きません。",
+      "hrkt": "にもつ が <b>なかなか</b> とどきません。",
+      "latn": "nimotsu ga <b>nakanaka</b> todokimasen.",
+      "en": "The parcel still hasn't arrived.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4691013.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06638A.mp3"
+    },
+    {
+      "ja": "バスが<b>なかなか</b>来ません。",
+      "hrkt": "バス が <b>なかなか</b> きません。",
+      "latn": "basu ga <b>nakanaka</b> kimasen.",
+      "en": "The bus is taking forever.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f6700o25go.mp3"
+    }
+  ]
+}

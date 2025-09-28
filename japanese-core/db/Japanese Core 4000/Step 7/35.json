@@ -1,0 +1,18 @@
+{
+  "ja": "司会",
+  "hrkt": "しかい",
+  "latn": "shikai",
+  "en": "master of ceremonies, host",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02092A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>司会</b>が上手ですね。",
+      "hrkt": "かれ は <b>しかい</b> が じょうず です ね。",
+      "latn": "kare ha <b>shikai</b> ga jouzu desu ne.",
+      "en": "He is a good host.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02092A.mp3"
+    }
+  ]
+}

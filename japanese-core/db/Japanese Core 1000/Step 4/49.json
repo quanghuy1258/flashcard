@@ -1,0 +1,26 @@
+{
+  "ja": "冷たい",
+  "hrkt": "つめたい",
+  "latn": "tsumetai",
+  "en": "cold (to touch)",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05940A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>冷たい</b>飲み物をください。",
+      "hrkt": "<b>つめたい</b> のみもの を ください。",
+      "latn": "<b>tsumetai</b> nomimono wo kudasai.",
+      "en": "Please give me a cold drink.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6111706.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05940A.mp3?1220269427"
+    },
+    {
+      "ja": "今日は海の水が<b>冷たい</b>。",
+      "hrkt": "きょう は うみ の みず が <b>つめたい</b>。",
+      "latn": "kyou ha umi no mizu ga <b>tsumetai</b>.",
+      "en": "Today, the ocean water is cold.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e40i7334bc.mp3"
+    }
+  ]
+}

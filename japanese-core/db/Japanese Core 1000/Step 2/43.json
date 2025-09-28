@@ -1,0 +1,26 @@
+{
+  "ja": "遅い",
+  "hrkt": "おそい",
+  "latn": "osoi",
+  "en": "slow, late",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01101A.mp3",
+  "sentences": [
+    {
+      "ja": "前の車はとても<b>遅い</b>。",
+      "hrkt": "まえ の くるま は とても <b>おそい</b>。",
+      "latn": "mae no kuruma ha totemo <b>osoi</b>.",
+      "en": "The car in front of me is very slow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4578294.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01101A.mp3"
+    },
+    {
+      "ja": "もう<b>遅い</b>ので帰ります。",
+      "hrkt": "もう <b>おそい</b> ので かえります。",
+      "latn": "mou <b>osoi</b> node kaerimasu.",
+      "en": "It's late, so I'll get going.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/231vencm3k.mp3"
+    }
+  ]
+}

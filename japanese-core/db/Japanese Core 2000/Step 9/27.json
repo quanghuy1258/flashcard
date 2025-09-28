@@ -1,0 +1,26 @@
+{
+  "ja": "主に",
+  "hrkt": "おもに",
+  "latn": "omoni",
+  "en": "mostly, predominantly",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00705A.mp3",
+  "sentences": [
+    {
+      "ja": "この商品は<b>主に</b>女性に人気がありまして。",
+      "hrkt": "この しょうひん は <b>おも に</b> じょせい に にんき が ありまして。",
+      "latn": "kono shouhin ha <b>omo ni</b> josei ni ninki ga arimashite.",
+      "en": "This product is predominantly popular among women.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/4l5bae5tcljd0.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00705A.mp3"
+    },
+    {
+      "ja": "私は<b>主に</b>子供に英語を教えています。",
+      "hrkt": "わたし は <b>おも に</b> こども に えいご を おしえて います。",
+      "latn": "watashi ha <b>omo ni</b> kodomo ni eigo wo oshiete imasu.",
+      "en": "I teach English mainly to children.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/544q1nebsc.mp3"
+    }
+  ]
+}

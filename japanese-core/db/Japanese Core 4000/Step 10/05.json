@@ -1,0 +1,18 @@
+{
+  "ja": "パイプ",
+  "hrkt": "パイプ",
+  "latn": "paipu",
+  "en": "pipe",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01014A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>パイプ</b>は詰まっていますよ。",
+      "hrkt": "この <b>パイプ</b> は つまって います よ。",
+      "latn": "kono <b>paipu</b> ha tsumatte imasu yo.",
+      "en": "This pipe is clogged.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01014A.mp3"
+    }
+  ]
+}

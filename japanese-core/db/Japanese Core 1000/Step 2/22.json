@@ -1,0 +1,26 @@
+{
+  "ja": "払う",
+  "hrkt": "はらう",
+  "latn": "harau",
+  "en": "pay (money, respect, attention, etc.)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07488A.mp3",
+  "sentences": [
+    {
+      "ja": "私が<b>払いましょう</b>。",
+      "hrkt": "わたし が <b>はらいましょう</b>。",
+      "latn": "watashi ga <b>haraimashou</b>.",
+      "en": "I'll pay for that.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4319373.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07488A.mp3"
+    },
+    {
+      "ja": "別々に<b>払いましょう</b>。",
+      "hrkt": "べつべつ に <b>はらいましょう</b>。",
+      "latn": "betsubetsu ni <b>haraimashou</b>.",
+      "en": "Let's pay separately.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/347643.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08325A.mp3"
+    }
+  ]
+}

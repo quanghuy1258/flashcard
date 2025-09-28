@@ -1,0 +1,18 @@
+{
+  "ja": "ぺこぺこ",
+  "hrkt": "ぺこぺこ",
+  "latn": "pekopeko",
+  "en": "bow, kowtow",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03390A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は上司に<b>ぺこぺこ</b>している。",
+      "hrkt": "かれ は じょうし に <b>ぺこぺこ</b> して いる。",
+      "latn": "kare ha joushi ni <b>pekopeko</b> shite iru.",
+      "en": "He's kowtowing to his boss.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03390A.mp3"
+    }
+  ]
+}

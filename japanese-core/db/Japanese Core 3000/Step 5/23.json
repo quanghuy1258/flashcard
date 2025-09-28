@@ -1,0 +1,18 @@
+{
+  "ja": "始め",
+  "hrkt": "はじめ",
+  "latn": "hajime",
+  "en": "beginning, initial part",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01309A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちの旅は<b>始め</b>はよかったんだ。",
+      "hrkt": "わたし たち の たび は <b>はじめ</b> は よかった ん だ。",
+      "latn": "watashi tachi no tabi ha <b>hajime</b> ha yokatta n da.",
+      "en": "The initial part of our trip was good.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a3b869fpss.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01309A.mp3"
+    }
+  ]
+}

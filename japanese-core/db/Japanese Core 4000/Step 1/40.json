@@ -1,0 +1,18 @@
+{
+  "ja": "設備",
+  "hrkt": "せつび",
+  "latn": "setsubi",
+  "en": "equipment, facilities",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00146A.mp3",
+  "sentences": [
+    {
+      "ja": "この研究所には最新の<b>設備</b>が揃っています。",
+      "hrkt": "この けんきゅう じょ に は さいしん の <b>せつび</b> が そろって います。",
+      "latn": "kono kenkyuu jo ni ha saishin no <b>setsubi</b> ga sorotte imasu.",
+      "en": "This laboratory has the latest equipment.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/14cc9g8k10.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00146A.mp3"
+    }
+  ]
+}

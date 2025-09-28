@@ -1,0 +1,18 @@
+{
+  "ja": "狙う",
+  "hrkt": "ねらう",
+  "latn": "nerau",
+  "en": "aim, be after",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03806A.mp3",
+  "sentences": [
+    {
+      "ja": "来年は優勝を<b>狙います</b>。",
+      "hrkt": "らいねん は ゆうしょう を <b>ねらいます</b>。",
+      "latn": "rainen ha yuushou wo <b>neraimasu</b>.",
+      "en": "We will aim for a championship victory next year.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a5ft7h15f0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03806A.mp3"
+    }
+  ]
+}

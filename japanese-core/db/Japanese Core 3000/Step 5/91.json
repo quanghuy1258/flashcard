@@ -1,0 +1,18 @@
+{
+  "ja": "サングラス",
+  "hrkt": "サングラス",
+  "latn": "sangurasu",
+  "en": "sunglasses",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02925A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>サングラス</b>が似合うね。",
+      "hrkt": "かれ は <b>サングラス</b> が にあう ね。",
+      "latn": "kare ha <b>sangurasu</b> ga niau ne.",
+      "en": "Sunglasses suit him.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c5eg4j93f0.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02925A.mp3"
+    }
+  ]
+}

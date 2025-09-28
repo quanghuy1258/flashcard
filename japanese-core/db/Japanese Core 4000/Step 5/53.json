@@ -1,0 +1,18 @@
+{
+  "ja": "家具",
+  "hrkt": "かぐ",
+  "latn": "kagu",
+  "en": "furniture",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02022A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>家具</b>の配置を変えました。",
+      "hrkt": "<b>かぐ</b> の はいち を かえました。",
+      "latn": "<b>kagu</b> no haichi wo kaemashita.",
+      "en": "I changed the furniture layout.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02022A.mp3"
+    }
+  ]
+}

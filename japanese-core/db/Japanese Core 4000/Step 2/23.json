@@ -1,0 +1,18 @@
+{
+  "ja": "統一",
+  "hrkt": "とういつ",
+  "latn": "touitsu",
+  "en": "unity, standardization",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00341A.mp3",
+  "sentences": [
+    {
+      "ja": "文字の大きさは<b>統一</b>してください。",
+      "hrkt": "もじ の おおきさ は <b>とういつ</b> して ください。",
+      "latn": "moji no ookisa ha <b>touitsu</b> shite kudasai.",
+      "en": "Please standardize the size of characters.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/817d6ubmpc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00341A.mp3"
+    }
+  ]
+}

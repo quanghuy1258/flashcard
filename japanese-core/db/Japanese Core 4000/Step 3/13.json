@@ -1,0 +1,18 @@
+{
+  "ja": "混乱",
+  "hrkt": "こんらん",
+  "latn": "konran",
+  "en": "chaos, confusion",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00525A.mp3",
+  "sentences": [
+    {
+      "ja": "地震のあと、町は大<b>混乱</b>だったよ。",
+      "hrkt": "じしん の あと、まち は だい <b>こんらん</b> だった よ。",
+      "latn": "jishin no ato,machi ha dai <b>konran</b> datta yo.",
+      "en": "After the earthquake, the town was in great chaos.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00525A.mp3"
+    }
+  ]
+}

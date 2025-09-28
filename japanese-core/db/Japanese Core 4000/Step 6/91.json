@@ -1,0 +1,18 @@
+{
+  "ja": "ボーナス",
+  "hrkt": "ボーナス",
+  "latn": "bo-nasu",
+  "en": "bonus",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01345A.mp3",
+  "sentences": [
+    {
+      "ja": "今年は<b>ボーナス</b>がたくさん出ました。",
+      "hrkt": "ことし は <b>ボーナス</b> が たくさん でました。",
+      "latn": "kotoshi ha <b>bo-nasu</b> ga takusan demashita.",
+      "en": "We got a lot of bonuses this year.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01345A.mp3"
+    }
+  ]
+}

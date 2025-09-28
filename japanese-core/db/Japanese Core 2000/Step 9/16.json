@@ -1,0 +1,26 @@
+{
+  "ja": "景色",
+  "hrkt": "けしき",
+  "latn": "keshiki",
+  "en": "natural scenery or landscape",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02664A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>景色</b>が綺麗ですね。",
+      "hrkt": "ここ は <b>けしき</b> が きれい です ね。",
+      "latn": "koko ha <b>keshiki</b> ga kirei desu ne.",
+      "en": "The scenery here is beautiful.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4146472.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02664A.mp3"
+    },
+    {
+      "ja": "素晴らしい<b>景色</b>ですね。",
+      "hrkt": "すばらしい <b>けしき</b> です ね。",
+      "latn": "subarashii <b>keshiki</b> desu ne.",
+      "en": "This is wonderful scenery.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4518879.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04604A.mp3"
+    }
+  ]
+}

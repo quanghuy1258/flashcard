@@ -1,0 +1,18 @@
+{
+  "ja": "注",
+  "hrkt": "ちゅう",
+  "latn": "chuu",
+  "en": "annotation, explanatory note",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03091A.mp3",
+  "sentences": [
+    {
+      "ja": "詳しくは<b>注</b>を読んでください。",
+      "hrkt": "くわしく は <b>ちゅう</b> を よんで ください。",
+      "latn": "kuwashiku ha <b>chuu</b> wo yonde kudasai.",
+      "en": "Please read the explanatory notes for more details.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03091A.mp3"
+    }
+  ]
+}

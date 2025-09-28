@@ -1,0 +1,18 @@
+{
+  "ja": "衝突",
+  "hrkt": "しょうとつ",
+  "latn": "shoutotsu",
+  "en": "collision, conflict",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00680A.mp3",
+  "sentences": [
+    {
+      "ja": "そこの角で車同士が<b>衝突</b>したのよ。",
+      "hrkt": "そこ の かど で くるま どうし が <b>しょうとつ</b> した の よ。",
+      "latn": "soko no kado de kuruma doushi ga <b>shoutotsu</b> shita no yo.",
+      "en": "The cars collided into each other at the corner there.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00680A.mp3"
+    }
+  ]
+}

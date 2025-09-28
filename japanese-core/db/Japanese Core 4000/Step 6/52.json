@@ -1,0 +1,18 @@
+{
+  "ja": "立ち上がる",
+  "hrkt": "たちあがる",
+  "latn": "tachiagaru",
+  "en": "stand up, take action",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01134A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は急に<b>立ち上がった</b>の。",
+      "hrkt": "かれ は きゅうに <b>たちあがった</b> の。",
+      "latn": "kare ha kyuuni <b>tachiagatta</b> no.",
+      "en": "He suddenly stood up.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01134A.mp3"
+    }
+  ]
+}

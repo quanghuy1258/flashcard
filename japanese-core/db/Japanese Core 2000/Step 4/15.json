@@ -1,0 +1,26 @@
+{
+  "ja": "アルバム",
+  "hrkt": "アルバム",
+  "latn": "arubamu",
+  "en": "album",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00295A.mp3",
+  "sentences": [
+    {
+      "ja": "私は彼の<b>アルバム</b>を見た。",
+      "hrkt": "わたし は かれ の <b>アルバム</b> を みた。",
+      "latn": "watashi ha kare no <b>arubamu</b> wo mita.",
+      "en": "I saw his album.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5940894.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00295A.mp3"
+    },
+    {
+      "ja": "私の<b>アルバム</b>はみんな、両親の所にあります。",
+      "hrkt": "わたし の <b>アルバム</b> は みんな、りょうしん の ところ に あります。",
+      "latn": "watashi no <b>arubamu</b> ha minna,ryoushin no tokoro ni arimasu.",
+      "en": "My albums are all at my parents' place.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/830u1ob4q4.mp3"
+    }
+  ]
+}

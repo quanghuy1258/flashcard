@@ -1,0 +1,26 @@
+{
+  "ja": "普通",
+  "hrkt": "ふつう",
+  "latn": "futsuu",
+  "en": "normal, regular",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08103A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>普通</b>の女の子だ。",
+      "hrkt": "かのじょ は <b>ふつう</b> の おんなのこ だ。",
+      "latn": "kanojo ha <b>futsuu</b> no onnanoko da.",
+      "en": "She's just a normal girl.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5143047.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08103A.mp3"
+    },
+    {
+      "ja": "あの人は<b>普通</b>じゃない。",
+      "hrkt": "あの ひと は <b>ふつう</b> じゃ ない。",
+      "latn": "ano hito ha <b>futsuu</b> ja nai.",
+      "en": "That person is not normal.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/94ag8h2tc0.mp3"
+    }
+  ]
+}

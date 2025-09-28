@@ -1,0 +1,18 @@
+{
+  "ja": "俳優",
+  "hrkt": "はいゆう",
+  "latn": "haiyuu",
+  "en": "actor",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01249A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>俳優</b>です。",
+      "hrkt": "かれ は <b>はいゆう</b> です。",
+      "latn": "kare ha <b>haiyuu</b> desu.",
+      "en": "He's an actor.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01249A.mp3"
+    }
+  ]
+}

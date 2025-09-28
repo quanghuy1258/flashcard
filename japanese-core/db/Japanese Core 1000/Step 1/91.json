@@ -1,0 +1,26 @@
+{
+  "ja": "次",
+  "hrkt": "つぎ",
+  "latn": "tsugi",
+  "en": "next",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05835A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>次</b>はいつ会いましょうか。",
+      "hrkt": "<b>つぎ</b> は いつ あいましょう か。",
+      "latn": "<b>tsugi</b> ha itsu aimashou ka.",
+      "en": "When shall we meet again?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5083767.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05835A.mp3"
+    },
+    {
+      "ja": "<b>次</b>の駅で降ります。",
+      "hrkt": "<b>つぎ</b> の えき で おります。",
+      "latn": "<b>tsugi</b> no eki de orimasu.",
+      "en": "I get off at the next station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4047118.jpg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/dlemb579mhlk8.mp3"
+    }
+  ]
+}

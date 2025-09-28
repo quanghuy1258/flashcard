@@ -1,0 +1,18 @@
+{
+  "ja": "育児",
+  "hrkt": "いくじ",
+  "latn": "ikuji",
+  "en": "childcare, child-raising",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02137A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>育児</b>で忙しいよ。",
+      "hrkt": "かのじょ は <b>いくじ</b> で いそがしい よ。",
+      "latn": "kanojo ha <b>ikuji</b> de isogashii yo.",
+      "en": "She is busy taking care of her children.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02137A.mp3"
+    }
+  ]
+}

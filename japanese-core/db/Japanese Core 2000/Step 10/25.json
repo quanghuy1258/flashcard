@@ -1,0 +1,26 @@
+{
+  "ja": "手続き",
+  "hrkt": "てつづき",
+  "latn": "tetsuzuki",
+  "en": "procedure, proceeding",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00243A.mp3",
+  "sentences": [
+    {
+      "ja": "入国<b>手続き</b>が終わりました。",
+      "hrkt": "にゅうこく <b>てつづき</b> が おわりました。",
+      "latn": "nyuukoku <b>tetsuzuki</b> ga owarimashita.",
+      "en": "The immigration procedures are finished.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2014426.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00243A.mp3"
+    },
+    {
+      "ja": "引っ越しをすると、いろいろ<b>手続き</b>が必要です。",
+      "hrkt": "ひっこし を する と、いろいろ <b>てつづき</b> が ひつよう です。",
+      "latn": "hikkoshi wo suru to,iroiro <b>tetsuzuki</b> ga hitsuyou desu.",
+      "en": "When we move, we need to follow various procedures.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/942a1259rg.mp3"
+    }
+  ]
+}

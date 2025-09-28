@@ -1,0 +1,18 @@
+{
+  "ja": "診る",
+  "hrkt": "みる",
+  "latn": "miru",
+  "en": "examine (doctor)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09011A.mp3",
+  "sentences": [
+    {
+      "ja": "今日、医者に<b>診て</b>もらいました。",
+      "hrkt": "きょう、 いしゃ に <b>みて</b> もらいました。",
+      "latn": "kyou, isha ni <b>mite</b> moraimashita.",
+      "en": "The doctor examined me today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02949A.mp3"
+    }
+  ]
+}

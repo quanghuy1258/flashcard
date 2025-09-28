@@ -1,0 +1,18 @@
+{
+  "ja": "墨",
+  "hrkt": "すみ",
+  "latn": "sumi",
+  "en": "black ink",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02416A.mp3",
+  "sentences": [
+    {
+      "ja": "服に<b>墨</b>がついちゃった。",
+      "hrkt": "ふく に <b>すみ</b> が ついちゃった。",
+      "latn": "fuku ni <b>sumi</b> ga tsuichatta.",
+      "en": "I got a black ink stain on my clothes.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02416A.mp3"
+    }
+  ]
+}

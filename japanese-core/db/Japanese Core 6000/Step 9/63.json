@@ -1,0 +1,18 @@
+{
+  "ja": "辛い",
+  "hrkt": "からい",
+  "latn": "karai",
+  "en": "harsh, severe",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03199A.mp3",
+  "sentences": [
+    {
+      "ja": "部長は僕の仕事に<b>辛い</b>評価を出したんだ。",
+      "hrkt": "ぶちょう は ぼく の しごと に <b>からい</b> ひょうか を だした ん だ。",
+      "latn": "buchou ha boku no shigoto ni <b>karai</b> hyouka wo dashita n da.",
+      "en": "My manager was harsh in his evaluation of my work.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03199A.mp3"
+    }
+  ]
+}

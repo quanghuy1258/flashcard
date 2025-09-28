@@ -1,0 +1,18 @@
+{
+  "ja": "待合室",
+  "hrkt": "まちあいしつ",
+  "latn": "machiaishitsu",
+  "en": "waiting room",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02401A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>待合室</b>はとても混んでいたよ。",
+      "hrkt": "<b>まちあいしつ</b> は とても こんで いた よ。",
+      "latn": "<b>machiaishitsu</b> ha totemo konde ita yo.",
+      "en": "The waiting room was very crowded.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02401A.mp3"
+    }
+  ]
+}

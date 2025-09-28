@@ -1,0 +1,26 @@
+{
+  "ja": "何",
+  "hrkt": "なん",
+  "latn": "nan",
+  "en": "what (used with t, d, n consonants and counters)",
+  "pos": "Interrogative",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06760A.mp3",
+  "sentences": [
+    {
+      "ja": "質問は<b>何</b>ですか。",
+      "hrkt": "しつもん は <b>なん</b> です か。",
+      "latn": "shitsumon ha <b>nan</b> desu ka.",
+      "en": "What's your question?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2098320.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06760A.mp3"
+    },
+    {
+      "ja": "あれは<b>何</b>ですか。",
+      "hrkt": "あれ は <b>なん</b> です か。",
+      "latn": "are ha <b>nan</b> desu ka.",
+      "en": "What's that?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1561934.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00298A.mp3"
+    }
+  ]
+}

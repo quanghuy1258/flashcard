@@ -1,0 +1,26 @@
+{
+  "ja": "廊下",
+  "hrkt": "ろうか",
+  "latn": "rouka",
+  "en": "hallway, corridor",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09953A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>廊下</b>は走らないでください。",
+      "hrkt": "<b>ろうか</b> は はしらないで ください。",
+      "latn": "<b>rouka</b> ha hashiranaide kudasai.",
+      "en": "Don't run in the hallway.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/223643.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09953A.mp3"
+    },
+    {
+      "ja": "<b>廊下</b>から大きな足音が聞こえた。",
+      "hrkt": "<b>ろうか</b> から おおきな あしおと が きこえた。",
+      "latn": "<b>rouka</b> kara ookina ashioto ga kikoeta.",
+      "en": "I heard loud footsteps from the hallway.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/d34s0c4l9s.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02368A.mp3"
+    }
+  ]
+}

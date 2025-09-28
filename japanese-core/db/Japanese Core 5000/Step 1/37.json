@@ -1,0 +1,18 @@
+{
+  "ja": "団地",
+  "hrkt": "だんち",
+  "latn": "danchi",
+  "en": "housing estate, housing complex",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01209A.mp3",
+  "sentences": [
+    {
+      "ja": "私の弟は<b>団地</b>に住んでいます。",
+      "hrkt": "わたし の おとうと は <b>だんち</b> に すんで います。",
+      "latn": "watashi no otouto ha <b>danchi</b> ni sunde imasu.",
+      "en": "My little brother lives in a housing complex.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01209A.mp3"
+    }
+  ]
+}

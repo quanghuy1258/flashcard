@@ -1,0 +1,18 @@
+{
+  "ja": "目方",
+  "hrkt": "めかた",
+  "latn": "mekata",
+  "en": "weight (old expression)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02896A.mp3",
+  "sentences": [
+    {
+      "ja": "この荷の<b>目方</b>は70キロってとこかね。",
+      "hrkt": "この に の <b>めかた</b> は 70 キロ って とこ か ね。",
+      "latn": "kono ni no <b>mekata</b> ha 70 kiro tte toko ka ne.",
+      "en": "I'd say the weight of this load is about 70 kilograms.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02896A.mp3"
+    }
+  ]
+}

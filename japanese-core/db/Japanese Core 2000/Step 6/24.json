@@ -1,0 +1,26 @@
+{
+  "ja": "交差点",
+  "hrkt": "こうさてん",
+  "latn": "kousaten",
+  "en": "crossing, intersection",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02910A.mp3",
+  "sentences": [
+    {
+      "ja": "次の<b>交差点</b>を左に曲がってください。",
+      "hrkt": "つぎ の <b>こうさてん</b> を ひだり に まがって ください。",
+      "latn": "tsugi no <b>kousaten</b> wo hidari ni magatte kudasai.",
+      "en": "Please turn left at the next intersection.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2017512.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02910A.mp3"
+    },
+    {
+      "ja": "あの<b>交差点</b>で大きな事故がありました。",
+      "hrkt": "あの <b>こうさてん</b> で おおきな じこ が ありました。",
+      "latn": "ano <b>kousaten</b> de ookina jiko ga arimashita.",
+      "en": "There was a big accident at the intersection.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/75fnce7op4.mp3"
+    }
+  ]
+}

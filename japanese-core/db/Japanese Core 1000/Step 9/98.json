@@ -1,0 +1,26 @@
+{
+  "ja": "故障",
+  "hrkt": "こしょう",
+  "latn": "koshou",
+  "en": "malfunction, breakdown",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03117A.mp3",
+  "sentences": [
+    {
+      "ja": "冷蔵庫が<b>故障</b>しました。",
+      "hrkt": "れいぞうこ が <b>こしょう</b> しました。",
+      "latn": "reizouko ga <b>koshou</b> shimashita.",
+      "en": "The refrigerator broke down.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4077919.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03117A.mp3"
+    },
+    {
+      "ja": "私の車は<b>故障</b>しています。",
+      "hrkt": "わたし の くるま は <b>こしょう</b> して います。",
+      "latn": "watashi no kuruma ha <b>koshou</b> shite imasu.",
+      "en": "My car is broken.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/334pbsaepo.mp3"
+    }
+  ]
+}

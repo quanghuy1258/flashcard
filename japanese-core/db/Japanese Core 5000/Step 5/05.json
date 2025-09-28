@@ -1,0 +1,18 @@
+{
+  "ja": "偶数",
+  "hrkt": "ぐうすう",
+  "latn": "guusuu",
+  "en": "even number",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03135A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>偶数</b>は2で割り切れます。",
+      "hrkt": "<b>ぐうすう</b> は 2 で わりきれます。",
+      "latn": "<b>guusuu</b> ha 2 de warikiremasu.",
+      "en": "Even numbers can be divided by 2.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03135A.mp3"
+    }
+  ]
+}

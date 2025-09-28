@@ -1,0 +1,18 @@
+{
+  "ja": "交際",
+  "hrkt": "こうさい",
+  "latn": "kousai",
+  "en": "association, dating",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01675A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はモデルと<b>交際</b>していたんだ。",
+      "hrkt": "かれ は モデル と <b>こうさい</b> して いた ん だ。",
+      "latn": "kare ha moderu to <b>kousai</b> shite ita n da.",
+      "en": "He was dating a model.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01675A.mp3"
+    }
+  ]
+}

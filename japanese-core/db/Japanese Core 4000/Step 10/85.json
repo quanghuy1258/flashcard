@@ -1,0 +1,18 @@
+{
+  "ja": "泥",
+  "hrkt": "どろ",
+  "latn": "doro",
+  "en": "mud",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03464A.mp3",
+  "sentences": [
+    {
+      "ja": "靴が<b>泥</b>だらけになったよ。",
+      "hrkt": "くつ が <b>どろ</b> だらけ に なった よ。",
+      "latn": "kutsu ga <b>doro</b> darake ni natta yo.",
+      "en": "My shoes were covered in mud.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03464A.mp3"
+    }
+  ]
+}

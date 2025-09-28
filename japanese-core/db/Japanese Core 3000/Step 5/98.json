@@ -1,0 +1,18 @@
+{
+  "ja": "散らかる",
+  "hrkt": "ちらかる",
+  "latn": "chirakaru",
+  "en": "be in a mess, lie scattered",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03233A.mp3",
+  "sentences": [
+    {
+      "ja": "弟の部屋はいつも<b>散らかって</b>いるんだ。",
+      "hrkt": "おとうと の へや は いつも <b>ちらかって</b> いる ん だ。",
+      "latn": "otouto no heya ha itsumo <b>chirakatte</b> iru n da.",
+      "en": "My little brother's room is always messy.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/254ualbi50.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03233A.mp3"
+    }
+  ]
+}

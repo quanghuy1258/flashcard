@@ -1,0 +1,26 @@
+{
+  "ja": "届ける",
+  "hrkt": "とどける",
+  "latn": "todokeru",
+  "en": "deliver",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06471A.mp3",
+  "sentences": [
+    {
+      "ja": "これを彼に<b>届けて</b>ください。",
+      "hrkt": "これ を かれ に <b>とどけて</b> ください。",
+      "latn": "kore wo kare ni <b>todokete</b> kudasai.",
+      "en": "Please send this to him.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5661576.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06471A.mp3"
+    },
+    {
+      "ja": "この花をおばあちゃんに<b>届けて</b>ください。",
+      "hrkt": "この はな を おばあちゃん に <b>とどけて</b> ください。",
+      "latn": "kono hana wo obaachan ni <b>todokete</b> kudasai.",
+      "en": "Please deliver this flower to my grandmother.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/859n6q1l1s.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "取り戻す",
+  "hrkt": "とりもどす",
+  "latn": "torimodosu",
+  "en": "take back, recover",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01088A.mp3",
+  "sentences": [
+    {
+      "ja": "緑を<b>取り戻す</b>必要があります。",
+      "hrkt": "みどり を <b>とりもどす</b> ひつよう が あります。",
+      "latn": "midori wo <b>torimodosu</b> hitsuyou ga arimasu.",
+      "en": "We need to bring back our green environment.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01088A.mp3"
+    }
+  ]
+}

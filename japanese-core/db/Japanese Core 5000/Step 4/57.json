@@ -1,0 +1,18 @@
+{
+  "ja": "迷信",
+  "hrkt": "めいしん",
+  "latn": "meishin",
+  "en": "superstition",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02789A.mp3",
+  "sentences": [
+    {
+      "ja": "村の人たちは<b>迷信</b>を信じています。",
+      "hrkt": "むら の ひと たち は  <b>めいしん</b>  を しんじて います。",
+      "latn": "mura no hito tachi ha  <b>meishin</b>  wo shinjite imasu.",
+      "en": "The people in the village believe in superstitions.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02789A.mp3"
+    }
+  ]
+}

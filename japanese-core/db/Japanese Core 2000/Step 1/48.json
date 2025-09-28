@@ -1,0 +1,26 @@
+{
+  "ja": "階段",
+  "hrkt": "かいだん",
+  "latn": "kaidan",
+  "en": "steps, flight of stairs",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01391A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは駅の<b>階段</b>をかけ上がった。",
+      "hrkt": "わたし たち は えき の <b>かいだん</b> を かけあがった。",
+      "latn": "watashi tachi ha eki no <b>kaidan</b> wo kakeagatta.",
+      "en": "We ran up the station steps.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4513316.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01391A.mp3"
+    },
+    {
+      "ja": "そこの<b>階段</b>を下りてください。",
+      "hrkt": "そこ の <b>かいだん</b> を おりて ください。",
+      "latn": "soko no <b>kaidan</b> wo orite kudasai.",
+      "en": "Please go down those stairs.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3877644.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01250A.mp3"
+    }
+  ]
+}

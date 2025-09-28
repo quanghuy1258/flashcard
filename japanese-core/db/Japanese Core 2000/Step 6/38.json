@@ -1,0 +1,26 @@
+{
+  "ja": "うどん",
+  "hrkt": "うどん",
+  "latn": "udon",
+  "en": "Japanese wheat noodles",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00745A.mp3",
+  "sentences": [
+    {
+      "ja": "私はお昼に<b>うどん</b>を食べました。",
+      "hrkt": "わたし は おひる に <b>うどん</b> を たべました。",
+      "latn": "watashi ha ohiru ni <b>udon</b> wo tabemashita.",
+      "en": "I ate udon noodles for lunch.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2957408.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00745A.mp3"
+    },
+    {
+      "ja": "香川県は<b>うどん</b>で有名です。",
+      "hrkt": "かがわ けん は <b>うどん</b> で ゆうめい です。",
+      "latn": "kagawa ken ha <b>udon</b> de yuumei desu.",
+      "en": "Kagawa prefecture is famous for udon noodles.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/43cu2lfnjg.mp3"
+    }
+  ]
+}

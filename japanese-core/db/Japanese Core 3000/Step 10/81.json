@@ -1,0 +1,26 @@
+{
+  "ja": "不足",
+  "hrkt": "ふそく",
+  "latn": "fusoku",
+  "en": "lack, shortage",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00450A.mp3",
+  "sentences": [
+    {
+      "ja": "今年はひどい水<b>不足</b>よ。",
+      "hrkt": "ことし は ひどい みず <b>ぶそく</b> よ。",
+      "latn": "kotoshi ha hidoi mizu <b>busoku</b> yo.",
+      "en": "We've been facing a severe shortage of water this year.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/92514l636s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00450A.mp3"
+    },
+    {
+      "ja": "最近、産婦人科の<b>不足</b>が問題になっているね。",
+      "hrkt": "さいきん、さんふじんか の <b>ふそく</b> が もんだい に なって いる ね。",
+      "latn": "saikin,sanfujinka no <b>fusoku</b> ga mondai ni natte iru ne.",
+      "en": "A shortage of obstetrics and gynecology specialists has become a problem lately.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/346k3p7lok.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02560A.mp3"
+    }
+  ]
+}

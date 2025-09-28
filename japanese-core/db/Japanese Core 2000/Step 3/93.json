@@ -1,0 +1,26 @@
+{
+  "ja": "結構",
+  "hrkt": "けっこう",
+  "latn": "kekkou",
+  "en": "quite",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01529A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>結構</b>めがねが似合いますね。",
+      "hrkt": "かのじょ は <b>けっこう</b> めがね が にあいます ね。",
+      "latn": "kanojo ha <b>kekkou</b> megane ga niaimasu ne.",
+      "en": "She looks quite good in glasses.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2285748.jpg",
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/62fseo84k.mp3"
+    },
+    {
+      "ja": "最近、<b>結構</b>忙しいんです。",
+      "hrkt": "さいきん、<b>けっこう</b> いそがしい ん です。",
+      "latn": "saikin,<b>kekkou</b> isogashii n desu.",
+      "en": "Lately, I've been quite busy.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/160668a3rc.mp3"
+    }
+  ]
+}

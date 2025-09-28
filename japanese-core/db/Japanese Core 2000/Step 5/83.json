@@ -1,0 +1,26 @@
+{
+  "ja": "バター",
+  "hrkt": "バター",
+  "latn": "bata-",
+  "en": "butter",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07326A.mp3",
+  "sentences": [
+    {
+      "ja": "パンに<b>バター</b>をぬって食べました。",
+      "hrkt": "パン に <b>バター</b> を ぬって たべました。",
+      "latn": "pan ni <b>bata-</b> wo nutte tabemashita.",
+      "en": "I spread some butter on the bread and ate it.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5767511.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07326A.mp3"
+    },
+    {
+      "ja": "私はカレーに<b>バター</b>を入れます。",
+      "hrkt": "わたし は カレー に <b>バター</b> を いれます。",
+      "latn": "watashi ha kare- ni <b>bata-</b> wo iremasu.",
+      "en": "I put butter in curry.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/631mbketik.mp3"
+    }
+  ]
+}

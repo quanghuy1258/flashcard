@@ -1,0 +1,26 @@
+{
+  "ja": "連絡",
+  "hrkt": "れんらく",
+  "latn": "renraku",
+  "en": "contact, communication",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00359A.mp3",
+  "sentences": [
+    {
+      "ja": "仕事が終わったら<b>連絡</b>します。",
+      "hrkt": "しごと が おわったら <b>れんらく</b> します。",
+      "latn": "shigoto ga owattara <b>renraku</b> shimasu.",
+      "en": "I'll contact you when I finish my work.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2796148.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00359A.mp3"
+    },
+    {
+      "ja": "娘から1週間、<b>連絡</b>がありません。",
+      "hrkt": "むすめ から 1 しゅうかん、<b>れんらく</b> が ありません。",
+      "latn": "musume kara 1 shuukan,<b>renraku</b> ga arimasen.",
+      "en": "I haven't heard from my daughter for a week.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f5ec07am38.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "着陸",
+  "hrkt": "ちゃくりく",
+  "latn": "chakuriku",
+  "en": "landing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01178A.mp3",
+  "sentences": [
+    {
+      "ja": "飛行機が無事<b>着陸</b>したわね。",
+      "hrkt": "ひこうき が ぶじ <b>ちゃくりく</b> した わ ね。",
+      "latn": "hikouki ga buji <b>chakuriku</b> shita wa ne.",
+      "en": "The airplane has landed safely.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01178A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "葉書",
+  "hrkt": "はがき",
+  "latn": "hagaki",
+  "en": "postcard",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07220A.mp3",
+  "sentences": [
+    {
+      "ja": "家族に<b>葉書</b>を書いています。",
+      "hrkt": "かぞく に <b>はがき</b> を かいて います。",
+      "latn": "kazoku ni <b>hagaki</b> wo kaite imasu.",
+      "en": "I'm writing a postcard to my family.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4229603.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07220A.mp3"
+    },
+    {
+      "ja": "祖母に<b>葉書</b>を出しました。",
+      "hrkt": "そぼ に <b>はがき</b> を だしました。",
+      "latn": "sobo ni <b>hagaki</b> wo dashimashita.",
+      "en": "I sent a postcard to my grandmother.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e1ci37aoj0.mp3"
+    }
+  ]
+}

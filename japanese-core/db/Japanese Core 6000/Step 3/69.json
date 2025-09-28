@@ -1,0 +1,18 @@
+{
+  "ja": "印鑑",
+  "hrkt": "いんかん",
+  "latn": "inkan",
+  "en": "personal seal",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02508A.mp3",
+  "sentences": [
+    {
+      "ja": "ここに受け取りの<b>印鑑</b>をお願いします。",
+      "hrkt": "ここ に うけとり の <b>いんかん</b> を おねがいします。",
+      "latn": "koko ni uketori no <b>inkan</b> wo onegaishimasu.",
+      "en": "Please put your personal seal here for the receipt.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02508A.mp3"
+    }
+  ]
+}

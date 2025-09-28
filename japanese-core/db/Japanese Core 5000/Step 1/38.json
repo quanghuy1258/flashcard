@@ -1,0 +1,18 @@
+{
+  "ja": "作物",
+  "hrkt": "さくもつ",
+  "latn": "sakumotsu",
+  "en": "crop, farm produce",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03636A.mp3",
+  "sentences": [
+    {
+      "ja": "米はアジアでは大切な<b>作物</b>だ。",
+      "hrkt": "こめ は アジア で は たいせつな <b>さくもつ</b> だ。",
+      "latn": "kome ha ajia de ha taisetsuna <b>sakumotsu</b> da.",
+      "en": "Rice is an important crop in Asia.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03636A.mp3"
+    }
+  ]
+}

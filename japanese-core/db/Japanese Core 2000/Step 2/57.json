@@ -1,0 +1,26 @@
+{
+  "ja": "真っ赤",
+  "hrkt": "まっか",
+  "latn": "makka",
+  "en": "deep red",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08746A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の顔は<b>真っ赤</b>でした。",
+      "hrkt": "かれ の かお は <b>まっか</b> でした。",
+      "latn": "kare no kao ha <b>makka</b> deshita.",
+      "en": "His face was all red.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4877310.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08746A.mp3"
+    },
+    {
+      "ja": "彼女は<b>真っ赤</b>なドレスを着ていました。",
+      "hrkt": "かのじょ は <b>まっか</b>な ドレス を きて いました。",
+      "latn": "kanojo ha <b>makka</b>na doresu wo kite imashita.",
+      "en": "She was wearing a deep red dress.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/763d8n01qk.mp3"
+    }
+  ]
+}

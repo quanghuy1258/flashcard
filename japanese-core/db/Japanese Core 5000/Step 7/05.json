@@ -1,0 +1,18 @@
+{
+  "ja": "持ち主",
+  "hrkt": "もちぬし",
+  "latn": "mochinushi",
+  "en": "owner",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01347A.mp3",
+  "sentences": [
+    {
+      "ja": "この自転車の<b>持ち主</b>は誰ですか。",
+      "hrkt": "この じてんしゃ の <b>もちぬし</b> は だれ です か。",
+      "latn": "kono jitensha no <b>mochinushi</b> ha dare desu ka.",
+      "en": "Who's the owner of this bicycle?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01347A.mp3"
+    }
+  ]
+}

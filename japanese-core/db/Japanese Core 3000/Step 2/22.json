@@ -1,0 +1,18 @@
+{
+  "ja": "通り過ぎる",
+  "hrkt": "とおりすぎる",
+  "latn": "toorisugiru",
+  "en": "go past, pass",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02160A.mp3",
+  "sentences": [
+    {
+      "ja": "うっかり目的地を<b>通り過ぎた</b>。",
+      "hrkt": "うっかり もくてき ち を <b>とおりすぎた</b>。",
+      "latn": "ukkari mokuteki chi wo <b>toorisugita</b>.",
+      "en": "I inadvertently missed my destination.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f49j359bp4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02160A.mp3"
+    }
+  ]
+}

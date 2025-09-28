@@ -1,0 +1,18 @@
+{
+  "ja": "原料",
+  "hrkt": "げんりょう",
+  "latn": "genryou",
+  "en": "raw material",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00366A.mp3",
+  "sentences": [
+    {
+      "ja": "石油はいろいろな製品の<b>原料</b>になります。",
+      "hrkt": "せきゆ は いろいろな せいひん の <b>げんりょう</b> に なります。",
+      "latn": "sekiyu ha iroirona seihin no <b>genryou</b> ni narimasu.",
+      "en": "Petroleum is the raw material for various products.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00366A.mp3"
+    }
+  ]
+}

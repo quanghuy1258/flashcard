@@ -1,0 +1,26 @@
+{
+  "ja": "半分",
+  "hrkt": "はんぶん",
+  "latn": "hanbun",
+  "en": "half",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07584A.mp3",
+  "sentences": [
+    {
+      "ja": "お菓子を友達に<b>半分</b>あげた。",
+      "hrkt": "おかし を ともだち に <b>はんぶん</b> あげた。",
+      "latn": "okashi wo tomodachi ni <b>hanbun</b> ageta.",
+      "en": "I gave half of the sweets to my friend.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2770247.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07584A.mp3"
+    },
+    {
+      "ja": "この紙を<b>半分</b>に切ってください。",
+      "hrkt": "この かみ を <b>はんぶん</b> に きって ください。",
+      "latn": "kono kami wo <b>hanbun</b> ni kitte kudasai.",
+      "en": "Please cut this paper in half.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5316169.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02333A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "展開",
+  "hrkt": "てんかい",
+  "latn": "tenkai",
+  "en": "development, storyline (plot)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00017A.mp3",
+  "sentences": [
+    {
+      "ja": "話の<b>展開</b>に付いていけない。",
+      "hrkt": "はなし の <b>てんかい</b> に ついて いけない。",
+      "latn": "hanashi no <b>tenkai</b> ni tsuite ikenai.",
+      "en": "I can't follow the storyline.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/534hf0ai1s.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00017A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "峠",
+  "hrkt": "とうげ",
+  "latn": "touge",
+  "en": "mountain pass, ridge",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01753A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>峠</b>を越えると村があります。",
+      "hrkt": "この <b>とうげ</b> を こえる と むら が あります。",
+      "latn": "kono <b>touge</b> wo koeru to mura ga arimasu.",
+      "en": "You'll see a village when you go over this mountain pass.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01753A.mp3"
+    }
+  ]
+}

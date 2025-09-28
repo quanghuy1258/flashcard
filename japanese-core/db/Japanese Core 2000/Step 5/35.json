@@ -1,0 +1,26 @@
+{
+  "ja": "年賀状",
+  "hrkt": "ねんがじょう",
+  "latn": "nengajou",
+  "en": "New Year's card",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07022A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、<b>年賀状</b>を出しました。",
+      "hrkt": "きのう、<b>ねんがじょう</b> を だしました。",
+      "latn": "kinou,<b>nengajou</b> wo dashimashita.",
+      "en": "I sent my New Year's cards yesterday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3776581.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07022A.mp3"
+    },
+    {
+      "ja": "今年は<b>年賀状</b>を80通もらいました。",
+      "hrkt": "ことし は <b>ねんがじょう</b> を 80 つう もらいました。",
+      "latn": "kotoshi ha <b>nengajou</b> wo 80 tsuu moraimashita.",
+      "en": "I received 80 New Year's cards this year.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d5bq056qv8.mp3"
+    }
+  ]
+}

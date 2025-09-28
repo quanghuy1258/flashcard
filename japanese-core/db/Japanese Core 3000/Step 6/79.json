@@ -1,0 +1,18 @@
+{
+  "ja": "急用",
+  "hrkt": "きゅうよう",
+  "latn": "kyuuyou",
+  "en": "urgent business",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03279A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>急用</b>で帰りました。",
+      "hrkt": "かれ は <b>きゅうよう</b> で かえりました。",
+      "latn": "kare ha <b>kyuuyou</b> de kaerimashita.",
+      "en": "He went home on urgent business.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/4652b29ih4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03279A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "消防",
+  "hrkt": "しょうぼう",
+  "latn": "shoubou",
+  "en": "fire fighting, fire prevention",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02150A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>消防</b>士は勇敢でなければならない。",
+      "hrkt": "<b>しょうぼう</b> し は ゆうかん で なければ ならない。",
+      "latn": "<b>shoubou</b> shi ha yuukan de nakereba naranai.",
+      "en": "Fire fighters must be brave.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02150A.mp3"
+    },
+    {
+      "ja": "火事の原因を警察と<b>消防</b>の両方で調べています。",
+      "hrkt": "かじ の げんいん を けいさつ と <b>しょうぼう</b> の りょうほう で しらべて います。",
+      "latn": "kaji no genin wo keisatsu to <b>shoubou</b> no ryouhou de shirabete imasu.",
+      "en": "Both the police and the fire department are investigating the cause of the fire.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/36b90d9eao.mp3"
+    }
+  ]
+}

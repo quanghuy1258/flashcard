@@ -1,0 +1,18 @@
+{
+  "ja": "同等",
+  "hrkt": "どうとう",
+  "latn": "doutou",
+  "en": "equality, equivalence",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02014A.mp3",
+  "sentences": [
+    {
+      "ja": "彼には大学生と<b>同等</b>の学力があります。",
+      "hrkt": "かれ に は だいがくせい と <b>どうとう</b> の がくりょく が あります。",
+      "latn": "kare ni ha daigakusei to <b>doutou</b> no gakuryoku ga arimasu.",
+      "en": "His academic skills are equivalent to that of a university student.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02014A.mp3"
+    }
+  ]
+}

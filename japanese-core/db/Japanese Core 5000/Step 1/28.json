@@ -1,0 +1,18 @@
+{
+  "ja": "頬",
+  "hrkt": "ほほ",
+  "latn": "hoho",
+  "en": "cheek (traditional reading)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03876A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は真っ赤な<b>頬</b>をしているね。",
+      "hrkt": "かのじょ は まっかな <b>ほほ</b> を して いる ね。",
+      "latn": "kanojo ha makkana <b>hoho</b> wo shite iru ne.",
+      "en": "Her cheeks are all red.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03876A.mp3"
+    }
+  ]
+}

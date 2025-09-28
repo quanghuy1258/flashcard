@@ -1,0 +1,18 @@
+{
+  "ja": "知識",
+  "hrkt": "ちしき",
+  "latn": "chishiki",
+  "en": "knowledge",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00091A.mp3",
+  "sentences": [
+    {
+      "ja": "私は旅行から多くの<b>知識</b>を得た。",
+      "hrkt": "わたし は りょこう から おおく の <b>ちしき</b> を えた。",
+      "latn": "watashi ha ryokou kara ooku no <b>chishiki</b> wo eta.",
+      "en": "I gained a lot of knowledge from traveling.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/61aicgdcp4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00091A.mp3"
+    }
+  ]
+}

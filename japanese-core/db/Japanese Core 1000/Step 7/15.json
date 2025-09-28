@@ -1,0 +1,26 @@
+{
+  "ja": "話し合う",
+  "hrkt": "はなしあう",
+  "latn": "hanashiau",
+  "en": "discuss, talk over",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07416A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちはよく<b>話し合いました</b>。",
+      "hrkt": "わたし たち は よく <b>はなしあいました</b>。",
+      "latn": "watashi tachi ha yoku <b>hanashiaimashita</b>.",
+      "en": "We often talked to each other.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5531408.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07416A.mp3"
+    },
+    {
+      "ja": "今日はこれらの問題について<b>話し合います</b>。",
+      "hrkt": "きょう は これら の もんだい について <b>はなしあいます</b>。",
+      "latn": "kyou ha korera no mondai nitsuite <b>hanashiaimasu</b>.",
+      "en": "We will discuss these issues today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4615817.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03229A.mp3"
+    }
+  ]
+}

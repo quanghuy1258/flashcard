@@ -1,0 +1,26 @@
+{
+  "ja": "重い",
+  "hrkt": "おもい",
+  "latn": "omoi",
+  "en": "heavy",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01196A.mp3",
+  "sentences": [
+    {
+      "ja": "このかばんは<b>重い</b>です。",
+      "hrkt": "この かばん は <b>おもい</b> です。",
+      "latn": "kono kaban ha <b>omoi</b> desu.",
+      "en": "This bag is heavy.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2493105.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01196A.mp3"
+    },
+    {
+      "ja": "この箱は<b>重い</b>。",
+      "hrkt": "この はこ は <b>おもい</b>。",
+      "latn": "kono hako ha <b>omoi</b>.",
+      "en": "This box is heavy.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5819133.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07282A.mp3"
+    }
+  ]
+}

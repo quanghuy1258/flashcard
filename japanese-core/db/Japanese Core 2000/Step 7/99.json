@@ -1,0 +1,26 @@
+{
+  "ja": "納豆",
+  "hrkt": "なっとう",
+  "latn": "nattou",
+  "en": "fermented soybeans",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06697A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>納豆</b>をよく食べます。",
+      "hrkt": "わたし は <b>なっとう</b> を よく たべます。",
+      "latn": "watashi ha <b>nattou</b> wo yoku tabemasu.",
+      "en": "I often eat natto.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2809889.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06697A.mp3"
+    },
+    {
+      "ja": "<b>納豆</b>は臭い。",
+      "hrkt": "<b>なっとう</b> は くさい。",
+      "latn": "<b>nattou</b> ha kusai.",
+      "en": "Natto stinks.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5292385.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02427A.mp3"
+    }
+  ]
+}

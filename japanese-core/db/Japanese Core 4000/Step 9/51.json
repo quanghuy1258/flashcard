@@ -1,0 +1,18 @@
+{
+  "ja": "固まる",
+  "hrkt": "かたまる",
+  "latn": "katamaru",
+  "en": "harden, solidify",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00835A.mp3",
+  "sentences": [
+    {
+      "ja": "もうプリンは<b>固まった</b>かな。",
+      "hrkt": "もう プリン は <b>かたまった</b> か な。",
+      "latn": "mou purin ha <b>katamatta</b> ka na.",
+      "en": "Has the pudding set yet?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00835A.mp3"
+    }
+  ]
+}

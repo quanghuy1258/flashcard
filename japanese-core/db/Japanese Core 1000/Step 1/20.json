@@ -1,0 +1,26 @@
+{
+  "ja": "今",
+  "hrkt": "いま",
+  "latn": "ima",
+  "en": "now",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00573A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>今</b>、勉強しています。",
+      "hrkt": "かれ は <b>いま</b>、べんきょう して います。",
+      "latn": "kare ha <b>ima</b>,benkyou shite imasu.",
+      "en": "He's studying now.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5055255.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00573A.mp3"
+    },
+    {
+      "ja": "<b>今</b>ホテルに着きました。",
+      "hrkt": "<b>いま</b> ホテル に つきました。",
+      "latn": "<b>ima</b> hoteru ni tsukimashita.",
+      "en": "I've just arrived at the hotel.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3253181.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08557A.mp3"
+    }
+  ]
+}

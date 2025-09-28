@@ -1,0 +1,18 @@
+{
+  "ja": "つながり",
+  "hrkt": "つながり",
+  "latn": "tsunagari",
+  "en": "connection, relationship",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03744A.mp3",
+  "sentences": [
+    {
+      "ja": "この文の<b>つながり</b>はおかしいです。",
+      "hrkt": "この ぶん の <b>つながり</b> は おかしい です。",
+      "latn": "kono bun no <b>tsunagari</b> ha okashii desu.",
+      "en": "The flow of this sentence is strange.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03744A.mp3"
+    }
+  ]
+}

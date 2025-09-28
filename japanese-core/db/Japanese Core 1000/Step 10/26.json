@@ -1,0 +1,26 @@
+{
+  "ja": "ニュース",
+  "hrkt": "ニュース",
+  "latn": "nyu-su",
+  "en": "news",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06890A.mp3",
+  "sentences": [
+    {
+      "ja": "夜の<b>ニュース</b>を見ましたか。",
+      "hrkt": "よる の <b>ニュース</b> を みました か。",
+      "latn": "yoru no <b>nyu-su</b> wo mimashita ka.",
+      "en": "Did you see the evening news?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4841232.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06890A.mp3"
+    },
+    {
+      "ja": "午前9時の<b>ニュース</b>です。",
+      "hrkt": "ごぜん 9 じ の <b>ニュース</b> です。",
+      "latn": "gozen 9 ji no <b>nyu-su</b> desu.",
+      "en": "Now for the 9.00 a.m. news.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6351096.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03125A.mp3"
+    }
+  ]
+}

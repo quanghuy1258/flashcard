@@ -1,0 +1,26 @@
+{
+  "ja": "まとめる",
+  "hrkt": "まとめる",
+  "latn": "matomeru",
+  "en": "gather together, put in order",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08769A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は荷物を<b>まとめて</b>出て行った。",
+      "hrkt": "かのじょ は にもつ を <b>まとめて</b> でて いった。",
+      "latn": "kanojo ha nimotsu wo <b>matomete</b> dete itta.",
+      "en": "She packed her luggage and left.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3353067.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08769A.mp3"
+    },
+    {
+      "ja": "みんなの考えを<b>まとめて</b>ください。",
+      "hrkt": "みんな の かんがえ を <b>まとめて</b> ください。",
+      "latn": "minna no kangae wo <b>matomete</b> kudasai.",
+      "en": "Please gather (and summarize) everyone's ideas.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c3drfb98vk.mp3"
+    }
+  ]
+}

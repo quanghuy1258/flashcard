@@ -1,0 +1,18 @@
+{
+  "ja": "競技",
+  "hrkt": "きょうぎ",
+  "latn": "kyougi",
+  "en": "sports game, competitive sport",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01371A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は個人<b>競技</b>のスポーツが好きです。",
+      "hrkt": "かれ は こじん <b>きょうぎ</b> の スポーツ が すき です。",
+      "latn": "kare ha kojin <b>kyougi</b> no supo-tsu ga suki desu.",
+      "en": "He likes individual sports.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01371A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "布団",
+  "hrkt": "ふとん",
+  "latn": "futon",
+  "en": "Japanese-style padded mattress",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08133A.mp3",
+  "sentences": [
+    {
+      "ja": "母が<b>布団</b>を干している。",
+      "hrkt": "はは が <b>ふとん</b> を ほして いる。",
+      "latn": "haha ga <b>futon</b> wo hoshite iru.",
+      "en": "My mother is airing the futons.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3244526.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08133A.mp3"
+    },
+    {
+      "ja": "<b>布団</b>がとても柔らかい。",
+      "hrkt": "<b>ふとん</b> が とても やわらかい。",
+      "latn": "<b>futon</b> ga totemo yawarakai.",
+      "en": "The futon is very soft.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/112537.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09467A.mp3"
+    }
+  ]
+}

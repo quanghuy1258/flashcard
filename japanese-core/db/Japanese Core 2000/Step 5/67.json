@@ -1,0 +1,26 @@
+{
+  "ja": "怒る",
+  "hrkt": "おこる",
+  "latn": "okoru",
+  "en": "get angry, scold",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01054A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女が嘘をついたので、彼は<b>怒った</b>。",
+      "hrkt": "かのじょ が うそ を ついた ので、かれ は <b>おこった</b>。",
+      "latn": "kanojo ga uso wo tsuita node,kare ha <b>okotta</b>.",
+      "en": "He was angry because she lied to him.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3484028.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01054A.mp3"
+    },
+    {
+      "ja": "彼女はめったに<b>怒りません</b>。",
+      "hrkt": "かのじょ は めった に <b>おこりません</b>。",
+      "latn": "kanojo ha metta ni <b>okorimasen</b>.",
+      "en": "She rarely gets angry.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2790034.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09206A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "出産",
+  "hrkt": "しゅっさん",
+  "latn": "shussan",
+  "en": "childbirth, delivery",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01407A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は女の子を<b>出産</b>したんだ。",
+      "hrkt": "かのじょ は おんなのこ を <b>しゅっさん</b> した ん だ。",
+      "latn": "kanojo ha onnanoko wo <b>shussan</b> shita n da.",
+      "en": "She gave birth to a girl.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01407A.mp3"
+    }
+  ]
+}

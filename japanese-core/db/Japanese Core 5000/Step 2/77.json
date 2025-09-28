@@ -1,0 +1,18 @@
+{
+  "ja": "区切る",
+  "hrkt": "くぎる",
+  "latn": "kugiru",
+  "en": "divide, partition",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01900A.mp3",
+  "sentences": [
+    {
+      "ja": "フロアはパーティションで<b>区切られて</b>います。",
+      "hrkt": "フロア は パーティション で <b>くぎられて</b> います。",
+      "latn": "furoa ha pa-tishon de <b>kugirarete</b> imasu.",
+      "en": "The floor is divided by partitions.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01900A.mp3"
+    }
+  ]
+}

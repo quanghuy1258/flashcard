@@ -1,0 +1,18 @@
+{
+  "ja": "保障",
+  "hrkt": "ほしょう",
+  "latn": "hoshou",
+  "en": "guarantee, security",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01000A.mp3",
+  "sentences": [
+    {
+      "ja": "私があなたの安全を<b>保障</b>します。",
+      "hrkt": "わたし が あなた の あんぜん を <b>ほしょう</b> します。",
+      "latn": "watashi ga anata no anzen wo <b>hoshou</b> shimasu.",
+      "en": "I guarantee your safety.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01000A.mp3"
+    }
+  ]
+}

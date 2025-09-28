@@ -1,0 +1,26 @@
+{
+  "ja": "ガソリン",
+  "hrkt": "ガソリン",
+  "latn": "gasorin",
+  "en": "gasoline",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01334A.mp3",
+  "sentences": [
+    {
+      "ja": "車に<b>ガソリン</b>を入れました。",
+      "hrkt": "くるま に <b>ガソリン</b> を いれました。",
+      "latn": "kuruma ni <b>gasorin</b> wo iremashita.",
+      "en": "I put gasoline in my car.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/er63beem4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01334A.mp3"
+    },
+    {
+      "ja": "<b>ガソリン</b>の価格がどんどん上がっている。",
+      "hrkt": "<b>ガソリン</b> の かかく が どんどん あがって いる。",
+      "latn": "<b>gasorin</b> no kakaku ga dondon agatte iru.",
+      "en": "The price of gasoline keeps going up fast.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5331078.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01454A.mp3"
+    }
+  ]
+}

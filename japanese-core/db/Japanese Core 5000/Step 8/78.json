@@ -1,0 +1,18 @@
+{
+  "ja": "捜査",
+  "hrkt": "そうさ",
+  "latn": "sousa",
+  "en": "criminal investigation, search",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00446A.mp3",
+  "sentences": [
+    {
+      "ja": "その殺人事件の<b>捜査</b>は2年間続きました。",
+      "hrkt": "その さつじん じけん の <b>そうさ</b> は 2 ねん かん つづきました。",
+      "latn": "sono satsujin jiken no <b>sousa</b> ha 2 nen kan tsuzukimashita.",
+      "en": "The investigation of the murder case continued for two years.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00446A.mp3"
+    }
+  ]
+}

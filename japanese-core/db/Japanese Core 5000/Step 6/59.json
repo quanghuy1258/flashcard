@@ -1,0 +1,18 @@
+{
+  "ja": "材木",
+  "hrkt": "ざいもく",
+  "latn": "zaimoku",
+  "en": "timber, wood",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02351A.mp3",
+  "sentences": [
+    {
+      "ja": "船から<b>材木</b>が降ろされていますね。",
+      "hrkt": "ふね から <b>ざいもく</b> が おろされて います ね。",
+      "latn": "fune kara <b>zaimoku</b> ga orosarete imasu ne.",
+      "en": "Timber is being unloaded from the ship.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02351A.mp3"
+    }
+  ]
+}

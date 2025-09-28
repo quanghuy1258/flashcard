@@ -1,0 +1,26 @@
+{
+  "ja": "にこにこ",
+  "hrkt": "にこにこ",
+  "latn": "nikoniko",
+  "en": "smilingly, keep smiling",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06829A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はいつも<b>にこにこ</b>しています。",
+      "hrkt": "かのじょ は いつも <b>にこにこ</b> して います。",
+      "latn": "kanojo ha itsumo <b>nikoniko</b> shite imasu.",
+      "en": "She's always smiling.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6098769.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06829A.mp3"
+    },
+    {
+      "ja": "娘が<b>にこにこ</b>と私を見ました。",
+      "hrkt": "むすめ が <b>にこにこ</b> と わたし を みました。",
+      "latn": "musume ga <b>nikoniko</b> to watashi wo mimashita.",
+      "en": "My daughter looked at me with a big smile.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f5acej17nc.mp3"
+    }
+  ]
+}

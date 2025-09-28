@@ -1,0 +1,26 @@
+{
+  "ja": "沈む",
+  "hrkt": "しずむ",
+  "latn": "shizumu",
+  "en": "sink",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03700A.mp3",
+  "sentences": [
+    {
+      "ja": "ボートが川に<b>沈んだ</b>。",
+      "hrkt": "ボート が かわ に <b>しずんだ</b>。",
+      "latn": "bo-to ga kawa ni <b>shizunda</b>.",
+      "en": "The boat sank in the river.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4650776.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03700A.mp3"
+    },
+    {
+      "ja": "太陽は西に<b>沈みます</b>。",
+      "hrkt": "たいよう は にし に <b>しずみます</b>。",
+      "latn": "taiyou ha nishi ni <b>shizumimasu</b>.",
+      "en": "The sun sets in the west.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4807882.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06833A.mp3"
+    }
+  ]
+}

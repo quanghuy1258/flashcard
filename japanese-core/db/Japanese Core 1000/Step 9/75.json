@@ -1,0 +1,26 @@
+{
+  "ja": "兄弟",
+  "hrkt": "きょうだい",
+  "latn": "kyoudai",
+  "en": "sibling",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02269A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は3人<b>兄弟</b>です。",
+      "hrkt": "かれ は 3 にん <b>きょうだい</b> です。",
+      "latn": "kare ha 3 nin <b>kyoudai</b> desu.",
+      "en": "He is one of the three siblings.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3612632.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02269A.mp3"
+    },
+    {
+      "ja": "あなたは何人<b>兄弟</b>ですか。",
+      "hrkt": "あなた は なん にん <b>きょうだい</b> です か。",
+      "latn": "anata ha nan nin <b>kyoudai</b> desu ka.",
+      "en": "How many kids are in your family?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b4f33lfhtk.mp3"
+    }
+  ]
+}

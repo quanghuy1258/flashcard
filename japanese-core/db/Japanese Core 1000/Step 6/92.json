@@ -1,0 +1,26 @@
+{
+  "ja": "空",
+  "hrkt": "そら",
+  "latn": "sora",
+  "en": "sky",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05102A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>空</b>の写真を撮るのが好きです。",
+      "hrkt": "<b>そら</b> の しゃしん を とる の が すき です。",
+      "latn": "<b>sora</b> no shashin wo toru no ga suki desu.",
+      "en": "I like to take photographs of the sky.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4782851.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05102A.mp3?1216463416"
+    },
+    {
+      "ja": "東の<b>空</b>が暗いです。",
+      "hrkt": "ひがし の <b>そら</b> が くらい です。",
+      "latn": "higashi no <b>sora</b> ga kurai desu.",
+      "en": "The eastern sky is dark.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5315108.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02521A.mp3"
+    }
+  ]
+}

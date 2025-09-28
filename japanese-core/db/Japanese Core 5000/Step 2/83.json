@@ -1,0 +1,18 @@
+{
+  "ja": "ロッカー",
+  "hrkt": "ロッカー",
+  "latn": "rokka-",
+  "en": "locker",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02465A.mp3",
+  "sentences": [
+    {
+      "ja": "荷物を駅の<b>ロッカー</b>に入れた。",
+      "hrkt": "にもつ を えき の <b>ロッカー</b> に いれた。",
+      "latn": "nimotsu wo eki no <b>rokka-</b> ni ireta.",
+      "en": "I put my luggage in a locker at the station.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02465A.mp3"
+    }
+  ]
+}

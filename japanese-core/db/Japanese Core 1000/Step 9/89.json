@@ -1,0 +1,26 @@
+{
+  "ja": "科学",
+  "hrkt": "かがく",
+  "latn": "kagaku",
+  "en": "science",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01455A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>科学</b>は常に進歩している。",
+      "hrkt": "<b>かがく</b> は つねに しんぽ して いる。",
+      "latn": "<b>kagaku</b> ha tsuneni shinpo shite iru.",
+      "en": "Science is always advancing.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5279712.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01455A.mp3"
+    },
+    {
+      "ja": "私は大学で社会<b>科学</b>を勉強しました。",
+      "hrkt": "わたし は だいがく で しゃかい <b>かがく</b> を べんきょう しました。",
+      "latn": "watashi ha daigaku de shakai <b>kagaku</b> wo benkyou shimashita.",
+      "en": "I studied social science at university.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/51140j36r4.mp3"
+    }
+  ]
+}

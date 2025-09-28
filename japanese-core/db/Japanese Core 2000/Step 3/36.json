@@ -1,0 +1,26 @@
+{
+  "ja": "ドラマ",
+  "hrkt": "ドラマ",
+  "latn": "dorama",
+  "en": "drama",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06530A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>ドラマ</b>を見るのが好きです。",
+      "hrkt": "わたし は <b>ドラマ</b> を みる の が すき です。",
+      "latn": "watashi ha <b>dorama</b> wo miru no ga suki desu.",
+      "en": "I like to watch TV dramas.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4881742.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06530A.mp3"
+    },
+    {
+      "ja": "私は昼の<b>ドラマ</b>を毎日見ます。",
+      "hrkt": "わたし は ひる の <b>ドラマ</b> を まいにち みます。",
+      "latn": "watashi ha hiru no <b>dorama</b> wo mainichi mimasu.",
+      "en": "I watch daytime dramas every day.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3507466.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07893A.mp3"
+    }
+  ]
+}

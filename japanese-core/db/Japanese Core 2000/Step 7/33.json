@@ -1,0 +1,26 @@
+{
+  "ja": "ハム",
+  "hrkt": "ハム",
+  "latn": "hamu",
+  "en": "ham",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07460A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ハム</b>サンドをください。",
+      "hrkt": "<b>ハム</b> サンド を ください。",
+      "latn": "<b>hamu</b> sando wo kudasai.",
+      "en": "Can I have a ham sandwich, please?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5941761.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07460A.mp3"
+    },
+    {
+      "ja": "<b>ハム</b>と卵でサンドイッチを作りました。",
+      "hrkt": "<b>ハム</b> と たまご で サンドイッチ を つくりました。",
+      "latn": "<b>hamu</b> to tamago de sandoicchi wo tsukurimashita.",
+      "en": "I made sandwiches with ham and eggs.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/44e2bpf05k.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "乗り換え",
+  "hrkt": "のりかえ",
+  "latn": "norikae",
+  "en": "transfer, change (trains)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07120A.mp3",
+  "sentences": [
+    {
+      "ja": "次の駅で<b>乗り換え</b>です。",
+      "hrkt": "つぎ の えき で <b>のりかえ</b> です。",
+      "latn": "tsugi no eki de <b>norikae</b> desu.",
+      "en": "I'm transfering at the next station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4047118.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07120A.mp3"
+    },
+    {
+      "ja": "渋谷駅で<b>乗り換え</b>に時間がかかってしまいました。",
+      "hrkt": "しぶや えき で <b>のりかえ</b> に じかん が かかって しまいました。",
+      "latn": "shibuya eki de <b>norikae</b> ni jikan ga kakatte shimaimashita.",
+      "en": "The transfer at Shibuya Station took a long time.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f3a05n574o.mp3"
+    }
+  ]
+}

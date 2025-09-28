@@ -1,0 +1,18 @@
+{
+  "ja": "一帯",
+  "hrkt": "いったい",
+  "latn": "ittai",
+  "en": "whole area, all over",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00740A.mp3",
+  "sentences": [
+    {
+      "ja": "この辺<b>一帯</b>はりんご畑です。",
+      "hrkt": "この へん <b>いったい</b> は りんご ばたけ です。",
+      "latn": "kono hen <b>ittai</b> ha ringo batake desu.",
+      "en": "The whole area here is an apple orchard.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00740A.mp3"
+    }
+  ]
+}

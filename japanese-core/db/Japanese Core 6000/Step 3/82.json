@@ -1,0 +1,18 @@
+{
+  "ja": "助詞",
+  "hrkt": "じょし",
+  "latn": "joshi",
+  "en": "particle",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01785A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>助詞</b>を変えると文の意味が変わります。",
+      "hrkt": "<b>じょし</b> を かえる と ぶん の いみ が かわります。",
+      "latn": "<b>joshi</b> wo kaeru to bun no imi ga kawarimasu.",
+      "en": "The meaning of a sentence changes when its particle is changed.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01785A.mp3"
+    }
+  ]
+}

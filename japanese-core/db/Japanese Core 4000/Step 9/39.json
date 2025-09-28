@@ -1,0 +1,18 @@
+{
+  "ja": "騒音",
+  "hrkt": "そうおん",
+  "latn": "souon",
+  "en": "(loud) noise, din",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01580A.mp3",
+  "sentences": [
+    {
+      "ja": "窓から車の<b>騒音</b>が入ってきます。",
+      "hrkt": "まど から くるま の <b>そうおん</b> が はいって きます。",
+      "latn": "mado kara kuruma no <b>souon</b> ga haitte kimasu.",
+      "en": "The loud car noise is coming through the window.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01580A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ケーキ",
+  "hrkt": "ケーキ",
+  "latn": "ke-ki",
+  "en": "cake",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02650A.mp3",
+  "sentences": [
+    {
+      "ja": "誕生日に<b>ケーキ</b>を食べました。",
+      "hrkt": "たんじょうび に <b>ケーキ</b> を たべました。",
+      "latn": "tanjoubi ni <b>ke-ki</b> wo tabemashita.",
+      "en": "We ate cake on his birthday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4314887.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02650A.mp3"
+    },
+    {
+      "ja": "この<b>ケーキ</b>は美味しいね。",
+      "hrkt": "この <b>ケーキ</b> は おいしい ね。",
+      "latn": "kono <b>ke-ki</b> ha oishii ne.",
+      "en": "This cake is yummy.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5311022.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00927A.mp3"
+    }
+  ]
+}

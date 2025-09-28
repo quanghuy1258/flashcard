@@ -1,0 +1,26 @@
+{
+  "ja": "場合",
+  "hrkt": "ばあい",
+  "latn": "baai",
+  "en": "situation, case",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07149A.mp3",
+  "sentences": [
+    {
+      "ja": "分からない<b>場合</b>は私に聞いてください。",
+      "hrkt": "わからない <b>ばあい</b> は わたし に きいて ください。",
+      "latn": "wakaranai <b>baai</b> ha watashi ni kiite kudasai.",
+      "en": "Please ask me if you don't understand.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4032661.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07149A.mp3"
+    },
+    {
+      "ja": "雨の<b>場合</b>は、教室で授業をします。",
+      "hrkt": "あめ の <b>ばあい</b> は、きょうしつ で じゅぎょう を します。",
+      "latn": "ame no <b>baai</b> ha,kyoushitsu de jugyou wo shimasu.",
+      "en": "In case of rain, we will have class in the classroom.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e48a77adpo.mp3"
+    }
+  ]
+}

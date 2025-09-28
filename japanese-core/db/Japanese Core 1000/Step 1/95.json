@@ -1,0 +1,26 @@
+{
+  "ja": "質問",
+  "hrkt": "しつもん",
+  "latn": "shitsumon",
+  "en": "question",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03783A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>質問</b>のある方はどうぞ。",
+      "hrkt": "<b>しつもん</b> の ある かた は どうぞ。",
+      "latn": "<b>shitsumon</b> no aru kata ha douzo.",
+      "en": "Please feel free to ask any questions.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1589846.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03783A.mp3"
+    },
+    {
+      "ja": "<b>質問</b>は何ですか。",
+      "hrkt": "<b>しつもん</b> は なん です か。",
+      "latn": "<b>shitsumon</b> ha nan desu ka.",
+      "en": "What's your question?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2098320.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06760A.mp3"
+    }
+  ]
+}

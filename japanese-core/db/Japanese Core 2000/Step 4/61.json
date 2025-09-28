@@ -1,0 +1,26 @@
+{
+  "ja": "積もる",
+  "hrkt": "つもる",
+  "latn": "tsumoru",
+  "en": "pile up",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05943A.mp3",
+  "sentences": [
+    {
+      "ja": "雪が<b>積もって</b>います。",
+      "hrkt": "ゆき が <b>つもって</b> います。",
+      "latn": "yuki ga <b>tsumotte</b> imasu.",
+      "en": "The snow has piled up.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5283016.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05943A.mp3"
+    },
+    {
+      "ja": "ちりも<b>積もれば</b>山となる。",
+      "hrkt": "ちり  も <b>つもれば</b> やま と なる。",
+      "latn": "chiri  mo <b>tsumoreba</b> yama to naru.",
+      "en": "Even dust will accumulate into a mountain.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/95bb2b7o7g.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02984A.mp3"
+    }
+  ]
+}

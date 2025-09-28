@@ -1,0 +1,18 @@
+{
+  "ja": "週休",
+  "hrkt": "しゅうきゅう",
+  "latn": "shuukyuu",
+  "en": "weekly holiday",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02978A.mp3",
+  "sentences": [
+    {
+      "ja": "うちの会社は<b>週休</b>二日です。",
+      "hrkt": "うち の かいしゃ は <b>しゅうきゅう</b> ふつか です。",
+      "latn": "uchi no kaisha ha <b>shuukyuu</b> futsuka desu.",
+      "en": "We get two days off a week at this company.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02978A.mp3"
+    }
+  ]
+}

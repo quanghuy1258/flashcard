@@ -1,0 +1,18 @@
+{
+  "ja": "整える",
+  "hrkt": "ととのえる",
+  "latn": "totonoeru",
+  "en": "adjust (something), tidy up",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00851A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はスピーチの前に服装を<b>整えた</b>。",
+      "hrkt": "かれ は スピーチ の まえ に ふくそう を <b>ととのえた</b>。",
+      "latn": "kare ha supi-chi no mae ni fukusou wo <b>totonoeta</b>.",
+      "en": "He straightened out his clothes before the speech.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00851A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "利子",
+  "hrkt": "りし",
+  "latn": "rishi",
+  "en": "interest (to be paid)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03500A.mp3",
+  "sentences": [
+    {
+      "ja": "借金に<b>利子</b>をつけて返したの。",
+      "hrkt": "しゃっきん に <b>りし</b> を つけて かえした の。",
+      "latn": "shakkin ni <b>rishi</b> wo tsukete kaeshita no.",
+      "en": "I paid off the debt with its interest.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03500A.mp3"
+    }
+  ]
+}

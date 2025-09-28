@@ -1,0 +1,18 @@
+{
+  "ja": "引き出す",
+  "hrkt": "ひきだす",
+  "latn": "hikidasu",
+  "en": "draw out, bring out",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01148A.mp3",
+  "sentences": [
+    {
+      "ja": "先生が私の能力を<b>引き出して</b>くれました。",
+      "hrkt": "せんせい が わたし の のうりょく を <b>ひきだして</b> くれました。",
+      "latn": "sensei ga watashi no nouryoku wo <b>hikidashite</b> kuremashita.",
+      "en": "The teacher drew out the best of my ability.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01148A.mp3"
+    }
+  ]
+}

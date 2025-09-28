@@ -1,0 +1,26 @@
+{
+  "ja": "尋ねる",
+  "hrkt": "たずねる",
+  "latn": "tazuneru",
+  "en": "inquire, ask",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05341A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は道を<b>尋ねた</b>。",
+      "hrkt": "かのじょ は みち を <b>たずねた</b>。",
+      "latn": "kanojo ha michi wo <b>tazuneta</b>.",
+      "en": "She asked for directions.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4389378.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05341A.mp3"
+    },
+    {
+      "ja": "先生は、みんなの意見を<b>尋ねました</b>。",
+      "hrkt": "せんせい は、みんな の いけん を <b>たずねました</b>。",
+      "latn": "sensei ha,minna no iken wo <b>tazunemashita</b>.",
+      "en": "The teacher asked everyone for their opinion.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/466l95d4l4.mp3"
+    }
+  ]
+}

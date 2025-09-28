@@ -1,0 +1,26 @@
+{
+  "ja": "ネクタイ",
+  "hrkt": "ネクタイ",
+  "latn": "nekutai",
+  "en": "tie, necktie",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06967A.mp3",
+  "sentences": [
+    {
+      "ja": "父の日に<b>ネクタイ</b>をプレゼントした。",
+      "hrkt": "ちち の ひ に <b>ネクタイ</b> を プレゼント した。",
+      "latn": "chichi no hi ni <b>nekutai</b> wo purezento shita.",
+      "en": "I gave him a tie on Father's Day.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4690566.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06967A.mp3"
+    },
+    {
+      "ja": "うちの会社では、男性は<b>ネクタイ</b>をしないといけません。",
+      "hrkt": "うち の かいしゃ で は、だんせい は <b>ネクタイ</b> を しない と いけません。",
+      "latn": "uchi no kaisha de ha,dansei ha <b>nekutai</b> wo shinai to ikemasen.",
+      "en": "At our company, men have to wear a tie.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d3eu6o0560.mp3"
+    }
+  ]
+}

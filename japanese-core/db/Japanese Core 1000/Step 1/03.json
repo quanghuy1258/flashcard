@@ -1,0 +1,26 @@
+{
+  "ja": "家",
+  "hrkt": "うち",
+  "latn": "uchi",
+  "en": "home, household",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00709A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>家</b>に遊びにきてください。",
+      "hrkt": "<b>うち</b> に あそび に きて ください。",
+      "latn": "<b>uchi</b> ni asobi ni kite kudasai.",
+      "en": "Please come over to my home.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3752584.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00709A.mp3"
+    },
+    {
+      "ja": "夏休みにお祖母ちゃんの<b>家</b>へ行きました。",
+      "hrkt": "なつやすみ に おばあちゃん の <b>うち</b> へ いきました。",
+      "latn": "natsuyasumi ni obaachan no <b>uchi</b> he ikimashita.",
+      "en": "I went to my grandma's house during summer vacation.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4760119.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06700A.mp3"
+    }
+  ]
+}

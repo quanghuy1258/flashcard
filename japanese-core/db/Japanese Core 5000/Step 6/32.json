@@ -1,0 +1,18 @@
+{
+  "ja": "清書",
+  "hrkt": "せいしょ",
+  "latn": "seisho",
+  "en": "clean copy, final copy",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03689A.mp3",
+  "sentences": [
+    {
+      "ja": "この手紙を<b>清書</b>してください。",
+      "hrkt": "この てがみ を <b>せいしょ</b> して ください。",
+      "latn": "kono tegami wo <b>seisho</b> shite kudasai.",
+      "en": "Please write a final copy of this letter.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03689A.mp3"
+    }
+  ]
+}

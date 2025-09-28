@@ -1,0 +1,26 @@
+{
+  "ja": "財布",
+  "hrkt": "さいふ",
+  "latn": "saifu",
+  "en": "purse, wallet",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03339A.mp3",
+  "sentences": [
+    {
+      "ja": "会社に<b>財布</b>を忘れた。",
+      "hrkt": "かいしゃ に <b>さいふ</b> を わすれた。",
+      "latn": "kaisha ni <b>saifu</b> wo wasureta.",
+      "en": "I left my wallet at the office.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/91418.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03339A.mp3"
+    },
+    {
+      "ja": "<b>財布</b>は机の下にあった。",
+      "hrkt": "<b>さいふ</b> は つくえ の した に あった。",
+      "latn": "<b>saifu</b> ha tsukue no shita ni atta.",
+      "en": "My purse was under the desk.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/5395f8dotg.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03714A.mp3"
+    }
+  ]
+}

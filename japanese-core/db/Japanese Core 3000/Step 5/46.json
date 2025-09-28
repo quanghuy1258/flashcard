@@ -1,0 +1,18 @@
+{
+  "ja": "ボリューム",
+  "hrkt": "ボリューム",
+  "latn": "boryu-mu",
+  "en": "volume",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02946A.mp3",
+  "sentences": [
+    {
+      "ja": "ラジオの<b>ボリューム</b>を上げてください。",
+      "hrkt": "ラジオ の <b>ボリューム</b> を あげて ください。",
+      "latn": "rajio no <b>boryu-mu</b> wo agete kudasai.",
+      "en": "Please turn up the volume on the radio.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/647cb7bfgc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02946A.mp3"
+    }
+  ]
+}

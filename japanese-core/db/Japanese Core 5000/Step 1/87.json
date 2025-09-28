@@ -1,0 +1,18 @@
+{
+  "ja": "気圧",
+  "hrkt": "きあつ",
+  "latn": "kiatsu",
+  "en": "atmospheric pressure",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01763A.mp3",
+  "sentences": [
+    {
+      "ja": "高い山は<b>気圧</b>が低いね。",
+      "hrkt": "たかい やま は <b>きあつ</b> が ひくい ね。",
+      "latn": "takai yama ha <b>kiatsu</b> ga hikui ne.",
+      "en": "The atmospheric pressure is low in high mountains.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01763A.mp3"
+    }
+  ]
+}

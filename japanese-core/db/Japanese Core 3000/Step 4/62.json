@@ -1,0 +1,26 @@
+{
+  "ja": "画面",
+  "hrkt": "がめん",
+  "latn": "gamen",
+  "en": "screen",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00940A.mp3",
+  "sentences": [
+    {
+      "ja": "テレビの<b>画面</b>が明るすぎる。",
+      "hrkt": "テレビ の <b>がめん</b> が あかる すぎる。",
+      "latn": "terebi no <b>gamen</b> ga akaru sugiru.",
+      "en": "The TV screen is too bright.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f53o8vegp4.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00940A.mp3?1220179410"
+    },
+    {
+      "ja": "<b>画面</b>の左側を見てください。",
+      "hrkt": "<b>がめん</b> の ひだりがわ を みて ください。",
+      "latn": "<b>gamen</b> no hidarigawa wo mite kudasai.",
+      "en": "Please look at the left side of the screen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5548960.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07714A.mp3"
+    }
+  ]
+}

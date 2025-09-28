@@ -1,0 +1,26 @@
+{
+  "ja": "不動産屋",
+  "hrkt": "ふどうさんや",
+  "latn": "fudousan'ya",
+  "en": "real estate agent",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08128A.mp3",
+  "sentences": [
+    {
+      "ja": "私の父は<b>不動産屋</b>です。",
+      "hrkt": "わたし の ちち は <b>ふどうさん や</b> です。",
+      "latn": "watashi no chichi ha <b>fudousan ya</b> desu.",
+      "en": "My father's a real estate agent.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5685721.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08128A.mp3"
+    },
+    {
+      "ja": "私は<b>不動産屋</b>に頼んでアパートを見つけてもらいました。",
+      "hrkt": "わたし は <b>ふどうさん や</b> に たのんで アパート を みつけて もらいました。",
+      "latn": "watashi ha <b>fudousan ya</b> ni tanonde apa-to wo mitsukete moraimashita.",
+      "en": "I asked a real estate agent to find an apartment.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e40keo5d4k.mp3"
+    }
+  ]
+}

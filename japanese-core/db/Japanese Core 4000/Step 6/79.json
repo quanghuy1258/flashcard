@@ -1,0 +1,18 @@
+{
+  "ja": "手間",
+  "hrkt": "てま",
+  "latn": "tema",
+  "en": "time and effort",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01293A.mp3",
+  "sentences": [
+    {
+      "ja": "これはとても<b>手間</b>のかかる料理です。",
+      "hrkt": "これ は とても <b>てま</b> の かかる りょうり です。",
+      "latn": "kore ha totemo <b>tema</b> no kakaru ryouri desu.",
+      "en": "This is a very time-consuming dish.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01293A.mp3"
+    }
+  ]
+}

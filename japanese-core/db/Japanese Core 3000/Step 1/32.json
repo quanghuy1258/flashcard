@@ -1,0 +1,18 @@
+{
+  "ja": "踊り",
+  "hrkt": "おどり",
+  "latn": "odori",
+  "en": "dance, dancing",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01152A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>踊り</b>は易しいですよ。",
+      "hrkt": "この <b>おどり</b> は やさしい です よ。",
+      "latn": "kono <b>odori</b> ha yasashii desu yo.",
+      "en": "This dance is easy.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/3310cm7j94.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01152A.mp3"
+    }
+  ]
+}

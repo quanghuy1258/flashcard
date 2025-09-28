@@ -1,0 +1,26 @@
+{
+  "ja": "まく",
+  "hrkt": "まく",
+  "latn": "maku",
+  "en": "scatter, sprinkle",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08671A.mp3",
+  "sentences": [
+    {
+      "ja": "日本では、二月に豆を<b>まく</b>行事がある。",
+      "hrkt": "にほん で は、に がつ に まめ を <b>まく</b> ぎょうじ が ある。",
+      "latn": "nihon de ha,ni gatsu ni mame wo <b>maku</b> gyouji ga aru.",
+      "en": "In Japan, there's a bean scattering event in February.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4076734.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08671A.mp3"
+    },
+    {
+      "ja": "暑いので家の前の道に水を<b>まきました</b>。",
+      "hrkt": "あつい ので いえ の まえ の みち に みず を <b>まきました</b>。",
+      "latn": "atsui node ie no mae no michi ni mizu wo <b>makimashita</b>.",
+      "en": "It's hot, so I sprinkled water on the street in front of my house.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/939o7q4140.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "最初",
+  "hrkt": "さいしょ",
+  "latn": "saisho",
+  "en": "first, outset",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03315A.mp3",
+  "sentences": [
+    {
+      "ja": "5ページの<b>最初</b>を見てください。",
+      "hrkt": "5 ページ の <b>さいしょ</b> を みて ください。",
+      "latn": "5 pe-ji no <b>saisho</b> wo mite kudasai.",
+      "en": "Please look at the beginning of page 5.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6221332.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03315A.mp3"
+    },
+    {
+      "ja": "彼女は<b>最初</b>は大人しかった。",
+      "hrkt": "かのじょ は <b>さいしょ</b> は おとなしかった。",
+      "latn": "kanojo ha <b>saisho</b> ha otonashikatta.",
+      "en": "She was quiet at first.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/430t0f9nks.mp3"
+    }
+  ]
+}

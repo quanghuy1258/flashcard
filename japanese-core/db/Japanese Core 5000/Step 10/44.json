@@ -1,0 +1,18 @@
+{
+  "ja": "何だか",
+  "hrkt": "なんだか",
+  "latn": "nandaka",
+  "en": "somehow, for some reason",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02987A.mp3",
+  "sentences": [
+    {
+      "ja": "茶柱が立って<b>何だか</b>少し幸せな気分です。",
+      "hrkt": "ちゃばしら が たって <b>なんだか</b> すこし しあわせな きぶん です。",
+      "latn": "chabashira ga tatte <b>nandaka</b> sukoshi shiawasena kibun desu.",
+      "en": "Seeing the tea leaves floating upright, somehow I feel happy.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02987A.mp3"
+    }
+  ]
+}

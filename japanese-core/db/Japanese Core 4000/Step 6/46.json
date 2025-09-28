@@ -1,0 +1,18 @@
+{
+  "ja": "飛ばす",
+  "hrkt": "とばす",
+  "latn": "tobasu",
+  "en": "fly (something)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01480A.mp3",
+  "sentences": [
+    {
+      "ja": "子供が紙飛行機を<b>飛ばして</b>います。",
+      "hrkt": "こども が かみ ひこうき を <b>とばして</b> います。",
+      "latn": "kodomo ga kami hikouki wo <b>tobashite</b> imasu.",
+      "en": "The child is flying a paper airplane.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01480A.mp3"
+    }
+  ]
+}

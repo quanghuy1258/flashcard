@@ -1,0 +1,26 @@
+{
+  "ja": "六日",
+  "hrkt": "むいか",
+  "latn": "muika",
+  "en": "six days, sixth of the month",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09030A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>六日</b>前に日本に帰ってきました。",
+      "hrkt": "<b>むいか</b> まえ に にほん に かえって きました。",
+      "latn": "<b>muika</b> mae ni nihon ni kaette kimashita.",
+      "en": "I came back to Japan six days ago.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6049759.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09030A.mp3"
+    },
+    {
+      "ja": "今日は五月<b>六日</b>水曜日です。",
+      "hrkt": "きょう は ご がつ <b>むいか</b> すいようび です。",
+      "latn": "kyou ha go gatsu <b>muika</b> suiyoubi desu.",
+      "en": "It's Wednesday, May 6th today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/64214h8g98.mp3"
+    }
+  ]
+}

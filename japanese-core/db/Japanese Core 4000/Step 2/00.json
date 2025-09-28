@@ -1,0 +1,18 @@
+{
+  "ja": "死亡",
+  "hrkt": "しぼう",
+  "latn": "shibou",
+  "en": "death of a person",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00154A.mp3",
+  "sentences": [
+    {
+      "ja": "その事故では二人<b>死亡</b>したの。",
+      "hrkt": "その じこ で は ふたり <b>しぼう</b> した の。",
+      "latn": "sono jiko de ha futari <b>shibou</b> shita no.",
+      "en": "Two people died in the accident.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b2209808rg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00154A.mp3"
+    }
+  ]
+}

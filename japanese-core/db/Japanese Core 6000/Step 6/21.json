@@ -1,0 +1,18 @@
+{
+  "ja": "関節",
+  "hrkt": "かんせつ",
+  "latn": "kansetsu",
+  "en": "joint (of the body)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02678A.mp3",
+  "sentences": [
+    {
+      "ja": "手首の<b>関節</b>をひねっちゃった。",
+      "hrkt": "てくび の <b>かんせつ</b> を ひねっちゃった。",
+      "latn": "tekubi no <b>kansetsu</b> wo hinecchatta.",
+      "en": "I twisted my wrist joint.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02678A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "相撲",
+  "hrkt": "すもう",
+  "latn": "sumou",
+  "en": "Japanese-style wrestling",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03681A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>相撲</b>取りはたいてい体がとても大きいね。",
+      "hrkt": "<b>すもう</b>とり は たいてい からだ が とても おおきい ね。",
+      "latn": "<b>sumou</b>tori ha taitei karada ga totemo ookii ne.",
+      "en": "Sumo wrestlers are usually very big.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03681A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "女",
+  "hrkt": "おんな",
+  "latn": "onna",
+  "en": "woman",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01290A.mp3",
+  "sentences": [
+    {
+      "ja": "店員は若い<b>女</b>の人でした。",
+      "hrkt": "てんいん は わかい <b>おんな</b> の ひと でした。",
+      "latn": "tenin ha wakai <b>onna</b> no hito deshita.",
+      "en": "The salesclerk was a young woman.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6205989.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01290A.mp3"
+    },
+    {
+      "ja": "彼女は悪い<b>女</b>だ。",
+      "hrkt": "かのじょ は わるい <b>おんな</b> だ。",
+      "latn": "kanojo ha warui <b>onna</b> da.",
+      "en": "She is a bad woman.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/255c3p15h4.mp3"
+    }
+  ]
+}

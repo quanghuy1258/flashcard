@@ -1,0 +1,18 @@
+{
+  "ja": "かえる",
+  "hrkt": "かえる",
+  "latn": "kaeru",
+  "en": "frog",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/748v9k550g.mp3",
+  "sentences": [
+    {
+      "ja": "田んぼの中で<b>かえる</b>が合唱している。",
+      "hrkt": "たんぼ の なか で <b>かえる</b> が がっしょう して いる。",
+      "latn": "tanbo no naka de <b>kaeru</b> ga gasshou shite iru.",
+      "en": "Frogs in the rice field are croaking in chorus.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/65a32tdsm4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02177A.mp3"
+    }
+  ]
+}

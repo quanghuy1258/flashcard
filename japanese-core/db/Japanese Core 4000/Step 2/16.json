@@ -1,0 +1,18 @@
+{
+  "ja": "女子",
+  "hrkt": "じょし",
+  "latn": "joshi",
+  "en": "woman, girl",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03670A.mp3",
+  "sentences": [
+    {
+      "ja": "このクラスの<b>女子</b>は18人です。",
+      "hrkt": "この クラス の <b>じょし</b> は 18 にん です。",
+      "latn": "kono kurasu no <b>joshi</b> ha 18 nin desu.",
+      "en": "There are 18 girls in this class.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b48n2v7r7o.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03670A.mp3"
+    }
+  ]
+}

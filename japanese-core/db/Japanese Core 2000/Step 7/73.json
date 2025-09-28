@@ -1,0 +1,26 @@
+{
+  "ja": "桃",
+  "hrkt": "もも",
+  "latn": "momo",
+  "en": "peach",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09343A.mp3",
+  "sentences": [
+    {
+      "ja": "私の一番好きな果物は<b>桃</b>です。",
+      "hrkt": "わたし の いちばん すきな くだもの は <b>もも</b> です。",
+      "latn": "watashi no ichiban sukina kudamono ha <b>momo</b> desu.",
+      "en": "My favorite fruit is peach.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1726438.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09343A.mp3"
+    },
+    {
+      "ja": "<b>桃</b>を五つください。",
+      "hrkt": "<b>もも</b> を いつつ ください。",
+      "latn": "<b>momo</b> wo itsutsu kudasai.",
+      "en": "I'd like five peaches, please.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1838689.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00531A.mp3"
+    }
+  ]
+}

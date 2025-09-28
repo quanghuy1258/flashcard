@@ -1,0 +1,18 @@
+{
+  "ja": "なでる",
+  "hrkt": "なでる",
+  "latn": "naderu",
+  "en": "stroke, pat",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03788A.mp3",
+  "sentences": [
+    {
+      "ja": "猫の頭を<b>なでて</b>あげた。",
+      "hrkt": "ねこ の あたま を <b>なでて</b> あげた 。",
+      "latn": "neko no atama wo <b>nadete</b> ageta .",
+      "en": "I patted the cat's head.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03788A.mp3"
+    }
+  ]
+}

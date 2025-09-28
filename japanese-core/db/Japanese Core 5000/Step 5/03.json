@@ -1,0 +1,18 @@
+{
+  "ja": "待ち合わせる",
+  "hrkt": "まちあわせる",
+  "latn": "machiawaseru",
+  "en": "meet by appointment",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03111A.mp3",
+  "sentences": [
+    {
+      "ja": "彼と新宿で<b>待ち合わせました</b>。",
+      "hrkt": "かれ と しんじゅく で <b>まちあわせました</b>。",
+      "latn": "kare to shinjuku de <b>machiawasemashita</b>.",
+      "en": "He and I met in Shinjuku.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03111A.mp3"
+    }
+  ]
+}

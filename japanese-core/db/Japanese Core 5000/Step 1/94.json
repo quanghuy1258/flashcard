@@ -1,0 +1,18 @@
+{
+  "ja": "引き算",
+  "hrkt": "ひきざん",
+  "latn": "hikizan",
+  "en": "subtraction (math)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07638A.mp3",
+  "sentences": [
+    {
+      "ja": "娘は学校で<b>引き算</b>を習っている。",
+      "hrkt": "むすめ は がっこう で <b>ひきざん</b> を ならって いる。",
+      "latn": "musume ha gakkou de <b>hikizan</b> wo naratte iru.",
+      "en": "My daughter's learning subtraction at school.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07638A.mp3"
+    }
+  ]
+}

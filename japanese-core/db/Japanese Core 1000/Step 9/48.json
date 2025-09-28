@@ -1,0 +1,26 @@
+{
+  "ja": "試験",
+  "hrkt": "しけん",
+  "latn": "shiken",
+  "en": "exam",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03651A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は採用<b>試験</b>に合格した。",
+      "hrkt": "かれ は さいよう <b>しけん</b> に ごうかく した。",
+      "latn": "kare ha saiyou <b>shiken</b> ni goukaku shita.",
+      "en": "He passed the employment exam.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3818179.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03651A.mp3"
+    },
+    {
+      "ja": "明日の<b>試験</b>、頑張ってね。",
+      "hrkt": "あした の <b>しけん</b>、がんばって ね。",
+      "latn": "ashita no <b>shiken</b>,ganbatte ne.",
+      "en": "Good luck on tomorrow's exam.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4394705.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01959A.mp3"
+    }
+  ]
+}

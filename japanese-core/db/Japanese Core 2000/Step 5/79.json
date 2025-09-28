@@ -1,0 +1,26 @@
+{
+  "ja": "邪魔",
+  "hrkt": "じゃま",
+  "latn": "jama",
+  "en": "disturbance, blocking",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03927A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>邪魔</b>です、どいてください。",
+      "hrkt": "<b>じゃま</b> です、どいて ください。",
+      "latn": "<b>jama</b> desu,doite kudasai.",
+      "en": "You're blocking my way, so please move.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4136298.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03927A.mp3"
+    },
+    {
+      "ja": "私の<b>邪魔</b>をしないでください。",
+      "hrkt": "わたし の <b>じゃま</b> を しないで ください。",
+      "latn": "watashi no <b>jama</b> wo shinaide kudasai.",
+      "en": "Please don't disturb me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/44341m8544.mp3"
+    }
+  ]
+}

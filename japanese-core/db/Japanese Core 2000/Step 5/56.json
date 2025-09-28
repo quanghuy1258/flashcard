@@ -1,0 +1,26 @@
+{
+  "ja": "真っ直ぐ",
+  "hrkt": "まっすぐ",
+  "latn": "massugu",
+  "en": "straight",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08757A.mp3",
+  "sentences": [
+    {
+      "ja": "この道を<b>真っ直ぐ</b>行ってください。",
+      "hrkt": "この みち を <b>まっすぐ</b> いって ください。",
+      "latn": "kono michi wo <b>massugu</b> itte kudasai.",
+      "en": "Please go straight along this road.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6266772.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08757A.mp3"
+    },
+    {
+      "ja": "この道を<b>真っ直ぐ</b>行くと駅です。",
+      "hrkt": "この みち を <b>まっすぐ</b> いく と えき です。",
+      "latn": "kono michi wo <b>massugu</b> iku to eki desu.",
+      "en": "Go straight along this street to get to the station.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5844067.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08923A.mp3"
+    }
+  ]
+}

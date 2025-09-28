@@ -1,0 +1,26 @@
+{
+  "ja": "消防署",
+  "hrkt": "しょうぼうしょ",
+  "latn": "shoubousho",
+  "en": "fire station",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04236A.mp3",
+  "sentences": [
+    {
+      "ja": "この町には<b>消防署</b>が1つしかありません。",
+      "hrkt": "この まち に は <b>しょうぼう しょ</b> が ひとつ しか ありません。",
+      "latn": "kono machi ni ha <b>shoubou sho</b> ga hitotsu shika arimasen.",
+      "en": "There's only one fire station in this town.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1130907.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04236A.mp3"
+    },
+    {
+      "ja": "今日、授業で<b>消防署</b>に行きました。",
+      "hrkt": "きょう、じゅぎょう で <b>しょうぼう しょ</b> に いきました。",
+      "latn": "kyou,jugyou de <b>shoubou sho</b> ni ikimashita.",
+      "en": "Today we went to the fire station for class.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/85bf2a6ajc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "全く",
+  "hrkt": "まったく",
+  "latn": "mattaku",
+  "en": "entirely, truly",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08758A.mp3",
+  "sentences": [
+    {
+      "ja": "私には<b>全く</b>分かりません。",
+      "hrkt": "わたし に は <b>まったく</b> わかりません。",
+      "latn": "watashi ni ha <b>mattaku</b> wakarimasen.",
+      "en": "I don't understand at all.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5514415.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08758A.mp3"
+    },
+    {
+      "ja": "あの子は授業を<b>全く</b>聞いていません。",
+      "hrkt": "あの こ は じゅぎょう を <b>まったく</b> きいて いません。",
+      "latn": "ano ko ha jugyou wo <b>mattaku</b> kiite imasen.",
+      "en": "That child is not listening to the class at all.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/42ck50bmco.mp3"
+    }
+  ]
+}

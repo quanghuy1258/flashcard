@@ -1,0 +1,18 @@
+{
+  "ja": "生",
+  "hrkt": "なま",
+  "latn": "nama",
+  "en": "raw, fresh",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03790A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>生</b>の魚が食べられません。",
+      "hrkt": "かれ は <b>なま</b> の さかな が たべられません。",
+      "latn": "kare ha <b>nama</b> no sakana ga taberaremasen.",
+      "en": "He can't eat raw fish.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e1a9237s9k.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03790A.mp3"
+    }
+  ]
+}

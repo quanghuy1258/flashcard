@@ -1,0 +1,26 @@
+{
+  "ja": "首",
+  "hrkt": "くび",
+  "latn": "kubi",
+  "en": "neck",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02496A.mp3",
+  "sentences": [
+    {
+      "ja": "きりんの<b>首</b>は長い。",
+      "hrkt": "きりん の <b>くび</b> は ながい。",
+      "latn": "kirin no <b>kubi</b> ha nagai.",
+      "en": "Giraffes have long necks.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3459106.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02496A.mp3"
+    },
+    {
+      "ja": "朝起きてから<b>首</b>が痛いです。",
+      "hrkt": "あさ おきて から <b>くび</b> が いたい です。",
+      "latn": "asa okite kara <b>kubi</b> ga itai desu.",
+      "en": "My neck has been aching since I woke up.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/357g9k7gvs.mp3"
+    }
+  ]
+}

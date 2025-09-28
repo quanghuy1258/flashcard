@@ -1,0 +1,26 @@
+{
+  "ja": "片づく",
+  "hrkt": "かたづく",
+  "latn": "katazuku",
+  "en": "be put in order, be finished",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01646A.mp3",
+  "sentences": [
+    {
+      "ja": "仕事がだいぶ<b>片づいた</b>。",
+      "hrkt": "しごと が だいぶ <b>かたづいた</b>。",
+      "latn": "shigoto ga daibu <b>katazuita</b>.",
+      "en": "I've finished quite a lot of my work.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4944174.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01646A.mp3"
+    },
+    {
+      "ja": "やっと部屋が<b>片づきました</b>。",
+      "hrkt": "やっと へや が <b>かたづきました</b>。",
+      "latn": "yatto heya ga <b>katazukimashita</b>.",
+      "en": "The room is finally tidied up.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f59h7nd4sc.mp3"
+    }
+  ]
+}

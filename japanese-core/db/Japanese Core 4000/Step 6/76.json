@@ -1,0 +1,18 @@
+{
+  "ja": "軍隊",
+  "hrkt": "ぐんたい",
+  "latn": "guntai",
+  "en": "troops, military forces",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00887A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>軍隊</b>に入ったよ。",
+      "hrkt": "かれ は <b>ぐんたい</b> に はいった よ。",
+      "latn": "kare ha <b>guntai</b> ni haitta yo.",
+      "en": "He joined the military forces.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00887A.mp3"
+    }
+  ]
+}

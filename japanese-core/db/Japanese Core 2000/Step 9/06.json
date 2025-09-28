@@ -1,0 +1,26 @@
+{
+  "ja": "灰色",
+  "hrkt": "はいいろ",
+  "latn": "haiiro",
+  "en": "ash color, gray",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07163A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の空は<b>灰色</b>だ。",
+      "hrkt": "きょう の そら は <b>はいいろ</b> だ。",
+      "latn": "kyou no sora ha <b>haiiro</b> da.",
+      "en": "The sky's gray today.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5790871.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07163A.mp3"
+    },
+    {
+      "ja": "今日は<b>灰色</b>のスーツを選びました。",
+      "hrkt": "きょう は <b>はいいろ</b> の スーツ を えらびました。",
+      "latn": "kyou ha <b>haiiro</b> no su-tsu wo erabimashita.",
+      "en": "Today I chose a gray suit.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/138e6mbea8.mp3"
+    }
+  ]
+}

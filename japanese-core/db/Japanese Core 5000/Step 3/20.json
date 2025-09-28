@@ -1,0 +1,18 @@
+{
+  "ja": "放す",
+  "hrkt": "はなす",
+  "latn": "hanasu",
+  "en": "release, free",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02494A.mp3",
+  "sentences": [
+    {
+      "ja": "公園で犬を<b>放した</b>の。",
+      "hrkt": "こうえん で いぬ を <b>はなした</b> の。",
+      "latn": "kouen de inu wo <b>hanashita</b> no.",
+      "en": "I let my dog run freely in the park.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02494A.mp3"
+    }
+  ]
+}

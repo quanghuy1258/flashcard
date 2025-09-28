@@ -1,0 +1,18 @@
+{
+  "ja": "刻む",
+  "hrkt": "きざむ",
+  "latn": "kizamu",
+  "en": "cut, chop",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01418A.mp3",
+  "sentences": [
+    {
+      "ja": "玉ねぎを細かく<b>刻んで</b>ください。",
+      "hrkt": "たまねぎ を こまかく <b>きざんで</b> ください。",
+      "latn": "tamanegi wo komakaku <b>kizande</b> kudasai.",
+      "en": "Please mince the onion.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01418A.mp3"
+    }
+  ]
+}

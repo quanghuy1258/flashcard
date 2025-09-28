@@ -1,0 +1,18 @@
+{
+  "ja": "仕上げる",
+  "hrkt": "しあげる",
+  "latn": "shiageru",
+  "en": "finish (something) up",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01591A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はやっと報告書を<b>仕上げた</b>よ。",
+      "hrkt": "かれ は やっと ほうこく しょ を <b>しあげた</b> よ。",
+      "latn": "kare ha yatto houkoku sho wo <b>shiageta</b> yo.",
+      "en": "He finally finished up the report.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01591A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "強調",
+  "hrkt": "きょうちょう",
+  "latn": "kyouchou",
+  "en": "emphasis, stress",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02270A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は良いところだけを<b>強調</b>した。",
+      "hrkt": "かれ は よい ところ だけ を <b>きょうちょう</b> した。",
+      "latn": "kare ha yoi tokoro dake wo <b>kyouchou</b> shita.",
+      "en": "He only emphasized good points.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/84cm6ne5qo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02270A.mp3"
+    }
+  ]
+}

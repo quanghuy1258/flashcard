@@ -1,0 +1,18 @@
+{
+  "ja": "植民地",
+  "hrkt": "しょくみんち",
+  "latn": "shokuminchi",
+  "en": "colony",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01488A.mp3",
+  "sentences": [
+    {
+      "ja": "この国はイギリスの<b>植民地</b>でした。",
+      "hrkt": "この くに は イギリス の <b>しょくみんち</b> でした。",
+      "latn": "kono kuni ha igirisu no <b>shokuminchi</b> deshita.",
+      "en": "This country used to be a British colony.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01488A.mp3"
+    }
+  ]
+}

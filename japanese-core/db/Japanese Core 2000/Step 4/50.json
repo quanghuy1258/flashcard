@@ -1,0 +1,26 @@
+{
+  "ja": "引っ越し",
+  "hrkt": "ひっこし",
+  "latn": "hikkoshi",
+  "en": "moving (house)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07727A.mp3",
+  "sentences": [
+    {
+      "ja": "去年、<b>引っ越し</b>しました。",
+      "hrkt": "きょねん、<b>ひっこし</b> しました。",
+      "latn": "kyonen,<b>hikkoshi</b> shimashita.",
+      "en": "I moved last year.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5850660.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07727A.mp3"
+    },
+    {
+      "ja": "とうとう<b>引っ越し</b>の日が来ました。",
+      "hrkt": "とうとう <b>ひっこし</b> の ひ が きました 。",
+      "latn": "toutou <b>hikkoshi</b> no hi ga kimashita .",
+      "en": "At last, moving day has come.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/f4c2ftf6p4.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02455A.mp3"
+    }
+  ]
+}

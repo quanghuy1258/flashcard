@@ -1,0 +1,18 @@
+{
+  "ja": "天災",
+  "hrkt": "てんさい",
+  "latn": "tensai",
+  "en": "natural disaster",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03038A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>天災</b>を防ぐことはできません。",
+      "hrkt": "<b>てんさい</b> を ふせぐ こと は できません。",
+      "latn": "<b>tensai</b> wo fusegu koto ha dekimasen.",
+      "en": "Natural disasters cannot be prevented.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03038A.mp3"
+    }
+  ]
+}

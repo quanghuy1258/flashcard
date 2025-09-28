@@ -1,0 +1,26 @@
+{
+  "ja": "きつい",
+  "hrkt": "きつい",
+  "latn": "kitsui",
+  "en": "tight, tough",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02108A.mp3",
+  "sentences": [
+    {
+      "ja": "このシャツは少し<b>きつい</b>です。",
+      "hrkt": "この シャツ は すこし <b>きつい</b> です。",
+      "latn": "kono shatsu ha sukoshi <b>kitsui</b> desu.",
+      "en": "This shirt is a little tight.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5404735.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02108A.mp3"
+    },
+    {
+      "ja": "最近、仕事がとても<b>きつい</b>です。",
+      "hrkt": "さいきん、しごと が とても <b>きつい</b> です。",
+      "latn": "saikin,shigoto ga totemo <b>kitsui</b> desu.",
+      "en": "Recently, my work has been tough.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/13ep3s1lmc.mp3"
+    }
+  ]
+}

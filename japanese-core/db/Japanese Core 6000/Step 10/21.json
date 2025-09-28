@@ -1,0 +1,18 @@
+{
+  "ja": "区画",
+  "hrkt": "くかく",
+  "latn": "kukaku",
+  "en": "division, section",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02065A.mp3",
+  "sentences": [
+    {
+      "ja": "あそこの3<b>区画</b>は売り出し中です。",
+      "hrkt": "あそこ の 3 <b>くかく</b> は うりだし ちゅう です。",
+      "latn": "asoko no 3 <b>kukaku</b> ha uridashi chuu desu.",
+      "en": "Those three sections are on sale.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02065A.mp3"
+    }
+  ]
+}

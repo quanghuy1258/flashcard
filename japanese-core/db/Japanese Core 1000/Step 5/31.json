@@ -1,0 +1,26 @@
+{
+  "ja": "社会",
+  "hrkt": "しゃかい",
+  "latn": "shakai",
+  "en": "society",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03896A.mp3",
+  "sentences": [
+    {
+      "ja": "これは大きな<b>社会</b>問題になっている。",
+      "hrkt": "これ は おおきな <b>しゃかい</b> もんだい に なって いる。",
+      "latn": "kore ha ookina <b>shakai</b> mondai ni natte iru.",
+      "en": "This is a big social problem.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5113888.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03896A.mp3"
+    },
+    {
+      "ja": "みんなでより良い<b>社会</b>を作りましょう。",
+      "hrkt": "みんな で より よい <b>しゃかい</b> を つくりましょう。",
+      "latn": "minna de yori yoi <b>shakai</b> wo tsukurimashou.",
+      "en": "Let's build a better society together.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e5dl4j856k.mp3"
+    }
+  ]
+}

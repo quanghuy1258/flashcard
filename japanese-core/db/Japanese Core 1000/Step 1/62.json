@@ -1,0 +1,26 @@
+{
+  "ja": "難しい",
+  "hrkt": "むずかしい",
+  "latn": "muzukashii",
+  "en": "difficult",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09089A.mp3",
+  "sentences": [
+    {
+      "ja": "この本は<b>難しい</b>ですね。",
+      "hrkt": "この ほん は <b>むずかしい</b> です ね。",
+      "latn": "kono hon ha <b>muzukashii</b> desu ne.",
+      "en": "This book is difficult.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3040257.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09089A.mp3"
+    },
+    {
+      "ja": "外国語を習うのは<b>難しい</b>。",
+      "hrkt": "がいこく ご を ならう の は <b>むずかしい</b> 。",
+      "latn": "gaikoku go wo narau no ha <b>muzukashii</b> .",
+      "en": "Learning foreign languages is hard.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5302977.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01350A.mp3"
+    }
+  ]
+}

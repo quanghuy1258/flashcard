@@ -1,0 +1,18 @@
+{
+  "ja": "筆記用具",
+  "hrkt": "ひっきようぐ",
+  "latn": "hikkiyougu",
+  "en": "pens and pencils, writing materials",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03846A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>筆記用具</b>を忘れました。",
+      "hrkt": "きょう は <b>ひっき ようぐ</b> を わすれました。",
+      "latn": "kyou ha <b>hikki yougu</b> wo wasuremashita.",
+      "en": "I forgot my writing materials today.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/858cbffhec.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03846A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "買い物",
+  "hrkt": "かいもの",
+  "latn": "kaimono",
+  "en": "shopping, purchase",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01419A.mp3",
+  "sentences": [
+    {
+      "ja": "母は<b>買い物</b>に出かけています。",
+      "hrkt": "はは は <b>かいもの</b> に でかけて います。",
+      "latn": "haha ha <b>kaimono</b> ni dekakete imasu.",
+      "en": "My mother went out for shopping.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5752951.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01419A.mp3"
+    },
+    {
+      "ja": "<b>買い物</b>をすっかり忘れていた。",
+      "hrkt": "<b>かいもの</b> を すっかり わすれて いた。",
+      "latn": "<b>kaimono</b> wo sukkari wasurete ita.",
+      "en": "I completely forgot about the shopping.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/0lfeel7j84pb8.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00353A.mp3"
+    }
+  ]
+}

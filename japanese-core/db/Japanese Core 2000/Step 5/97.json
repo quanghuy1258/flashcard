@@ -1,0 +1,26 @@
+{
+  "ja": "襖",
+  "hrkt": "ふすま",
+  "latn": "fusuma",
+  "en": "paper sliding door",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08071A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>襖</b>を閉めてください。",
+      "hrkt": "<b>ふすま</b> を しめて ください。",
+      "latn": "<b>fusuma</b> wo shimete kudasai.",
+      "en": "Please close the paper sliding door.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4475506.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08071A.mp3"
+    },
+    {
+      "ja": "蹴ったら<b>襖</b>が破れてしまいました。",
+      "hrkt": "けったら <b>ふすま</b> が やぶれて しまいました。",
+      "latn": "kettara <b>fusuma</b> ga yaburete shimaimashita.",
+      "en": "The paper sliding door broke when I kicked it.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f30raq3kpo.mp3"
+    }
+  ]
+}

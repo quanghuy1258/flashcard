@@ -1,0 +1,18 @@
+{
+  "ja": "明け方",
+  "hrkt": "あけがた",
+  "latn": "akegata",
+  "en": "dawn, near daybreak",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02466A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>明け方</b>に雨が降り始めましたね。",
+      "hrkt": "<b>あけがた</b> に あめ が ふり はじめました ね。",
+      "latn": "<b>akegata</b> ni ame ga furi hajimemashita ne.",
+      "en": "It began to rain at dawn.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02466A.mp3"
+    }
+  ]
+}

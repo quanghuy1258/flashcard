@@ -1,0 +1,18 @@
+{
+  "ja": "和食",
+  "hrkt": "わしょく",
+  "latn": "washoku",
+  "en": "Japanese-style food",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03063A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>和食</b>が好きです。",
+      "hrkt": "わたし は <b>わしょく</b> が すき です。",
+      "latn": "watashi ha <b>washoku</b> ga suki desu.",
+      "en": "I like Japanese food.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/341p2he08k.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03063A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "パジャマ",
+  "hrkt": "パジャマ",
+  "latn": "pajama",
+  "en": "pajamas",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07305A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>パジャマ</b>を着て。",
+      "hrkt": "この <b>パジャマ</b> を きて。",
+      "latn": "kono <b>pajama</b> wo kite.",
+      "en": "Put on these pajamas.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3861115.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07305A.mp3"
+    },
+    {
+      "ja": "今日はお昼過ぎまで<b>パジャマ</b>でいました。",
+      "hrkt": "きょう は おひる すぎ まで <b>パジャマ</b> で いました。",
+      "latn": "kyou ha ohiru sugi made <b>pajama</b> de imashita.",
+      "en": "I was in pajamas past noon today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b52k1e8bqc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "私",
+  "hrkt": "わたし",
+  "latn": "watashi",
+  "en": "I (general)",
+  "pos": "Pronoun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW10045A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>私</b>が行きましょう。",
+      "hrkt": "<b>わたし</b> が いきましょう。",
+      "latn": "<b>watashi</b> ga ikimashou.",
+      "en": "I'll go.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/601582.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS10045A.mp3"
+    },
+    {
+      "ja": "<b>私</b>は毎朝コーヒーを飲みます。",
+      "hrkt": "<b>わたし</b> は まいあさ コーヒー を のみます。",
+      "latn": "<b>watashi</b> ha maiasa ko-hi- wo nomimasu.",
+      "en": "I drink coffee every morning.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5587059.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03029A.mp3"
+    }
+  ]
+}

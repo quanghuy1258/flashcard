@@ -1,0 +1,26 @@
+{
+  "ja": "たくさん",
+  "hrkt": "たくさん",
+  "latn": "takusan",
+  "en": "a lot, in large quantity",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05311A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日は<b>たくさん</b>泳ぎました。",
+      "hrkt": "きのう は <b>たくさん</b> およぎました。",
+      "latn": "kinou ha <b>takusan</b> oyogimashita.",
+      "en": "I swam a lot yesterday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/207488.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05311A.mp3"
+    },
+    {
+      "ja": "私は毎日<b>たくさん</b>野菜を食べます。",
+      "hrkt": "わたし は まいにち <b>たくさん</b> やさい を たべます。",
+      "latn": "watashi ha mainichi <b>takusan</b> yasai wo tabemasu.",
+      "en": "I eat a lot of vegetables every day.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5231649.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09401A.mp3"
+    }
+  ]
+}

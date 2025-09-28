@@ -1,0 +1,26 @@
+{
+  "ja": "橋",
+  "hrkt": "はし",
+  "latn": "hashi",
+  "en": "bridge",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07290A.mp3",
+  "sentences": [
+    {
+      "ja": "あの<b>橋</b>は日本で一番長い。",
+      "hrkt": "あの <b>はし</b> は にほん で いちばん ながい。",
+      "latn": "ano <b>hashi</b> ha nihon de ichiban nagai.",
+      "en": "That bridge is the longest in Japan.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6172757.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07290A.mp3"
+    },
+    {
+      "ja": "私たちは歩いて<b>橋</b>を渡った。",
+      "hrkt": "わたし たち は あるいて <b>はし</b> を わたった。",
+      "latn": "watashi tachi ha aruite <b>hashi</b> wo watatta.",
+      "en": "We walked over the bridge.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4700446.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10048A.mp3"
+    }
+  ]
+}

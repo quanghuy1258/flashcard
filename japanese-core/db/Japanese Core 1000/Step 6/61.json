@@ -1,0 +1,26 @@
+{
+  "ja": "ごちそう",
+  "hrkt": "ごちそう",
+  "latn": "gochisou",
+  "en": "feast, treat",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03135A.mp3",
+  "sentences": [
+    {
+      "ja": "テーブルの上に<b>ごちそう</b>が並んでいる。",
+      "hrkt": "テーブル の うえ に <b>ごちそう</b> が ならんで いる。",
+      "latn": "te-buru no ue ni <b>gochisou</b> ga narande iru.",
+      "en": "There are some delicious treats lined up on the table.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4149383.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03135A.mp3"
+    },
+    {
+      "ja": "今日は妻が<b>ごちそう</b>を作ってくれた。",
+      "hrkt": "きょう は つま が <b>ごちそう</b> を つくって くれた。",
+      "latn": "kyou ha tsuma ga <b>gochisou</b> wo tsukutte kureta.",
+      "en": "Today my wife cooked a feast.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/584e3lfnls.mp3"
+    }
+  ]
+}

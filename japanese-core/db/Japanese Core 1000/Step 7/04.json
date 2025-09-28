@@ -1,0 +1,26 @@
+{
+  "ja": "大変",
+  "hrkt": "たいへん",
+  "latn": "taihen",
+  "en": "awful, hard",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05256A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>大変</b>なことが起こりました。",
+      "hrkt": "<b>たいへん</b>な こと が おこりました。",
+      "latn": "<b>taihen</b>na koto ga okorimashita.",
+      "en": "A terrible thing happened.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4536839.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05256A.mp3"
+    },
+    {
+      "ja": "毎日勉強が<b>大変</b>です。",
+      "hrkt": "まいにち べんきょう が <b>たいへん</b> です。",
+      "latn": "mainichi benkyou ga <b>taihen</b> desu.",
+      "en": "My studies are a lot of work every day.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f3eldgesr4.mp3"
+    }
+  ]
+}

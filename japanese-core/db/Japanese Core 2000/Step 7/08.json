@@ -1,0 +1,26 @@
+{
+  "ja": "特急",
+  "hrkt": "とっきゅう",
+  "latn": "tokkyuu",
+  "en": "super-express, limited express",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06451A.mp3",
+  "sentences": [
+    {
+      "ja": "東京まで<b>特急</b>で3時間かかります。",
+      "hrkt": "とうきょう まで <b>とっきゅう</b> で 3 じかん かかります。",
+      "latn": "toukyou made <b>tokkyuu</b> de 3 jikan kakarimasu.",
+      "en": "It takes three hours to Tokyo by super-express.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4127280.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06451A.mp3"
+    },
+    {
+      "ja": "<b>特急</b>電車の切符はどこで買えますか。",
+      "hrkt": "<b>とっきゅう</b> でんしゃ の きっぷ は どこ で かえます か。",
+      "latn": "<b>tokkyuu</b> densha no kippu ha doko de kaemasu ka.",
+      "en": "Where can I buy a ticket for the limited express train?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b41cd53vbo.mp3"
+    }
+  ]
+}

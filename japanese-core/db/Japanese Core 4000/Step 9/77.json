@@ -1,0 +1,18 @@
+{
+  "ja": "各自",
+  "hrkt": "かくじ",
+  "latn": "kakuji",
+  "en": "each one, every individual",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02178A.mp3",
+  "sentences": [
+    {
+      "ja": "ごみは<b>各自</b>で持ち帰ってください。",
+      "hrkt": "ごみ は <b>かくじ</b> で もちかえって ください。",
+      "latn": "gomi ha <b>kakuji</b> de mochikaette kudasai.",
+      "en": "Please take your own garbage home.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02178A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "進行",
+  "hrkt": "しんこう",
+  "latn": "shinkou",
+  "en": "advancement, progress",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00125A.mp3",
+  "sentences": [
+    {
+      "ja": "学会は予定通りに<b>進行</b>しています。",
+      "hrkt": "がっかい は よてい どおり に <b>しんこう</b> して います。",
+      "latn": "gakkai ha yotei doori ni <b>shinkou</b> shite imasu.",
+      "en": "The academic conference is proceeding as scheduled.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00125A.mp3"
+    }
+  ]
+}

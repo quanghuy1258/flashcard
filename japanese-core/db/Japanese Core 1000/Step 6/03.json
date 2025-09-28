@@ -1,0 +1,26 @@
+{
+  "ja": "来週",
+  "hrkt": "らいしゅう",
+  "latn": "raishuu",
+  "en": "next week",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09766A.mp3",
+  "sentences": [
+    {
+      "ja": "続きは<b>来週</b>やりましょう。",
+      "hrkt": "つづき は <b>らいしゅう</b> やりましょう。",
+      "latn": "tsuzuki ha <b>raishuu</b> yarimashou.",
+      "en": "We'll continue this next week.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4737163.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09766A.mp3"
+    },
+    {
+      "ja": "私は<b>来週</b>、すごく忙しいです。",
+      "hrkt": "わたし は <b>らいしゅう</b>、すごく いそがしい です。",
+      "latn": "watashi ha <b>raishuu</b>,sugoku isogashii desu.",
+      "en": "I'll be very busy next week.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/153aar2cl4.mp3"
+    }
+  ]
+}

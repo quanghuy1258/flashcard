@@ -1,0 +1,26 @@
+{
+  "ja": "抱える",
+  "hrkt": "かかえる",
+  "latn": "kakaeru",
+  "en": "hold in one's arms",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00214A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大きな荷物を<b>抱えて</b>いるわ。",
+      "hrkt": "かれ は おおきな にもつ を <b>かかえて</b> いる わ。",
+      "latn": "kare ha ookina nimotsu wo <b>kakaete</b> iru wa.",
+      "en": "He is carrying some large luggage.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/cl2gds8vee3r0.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00214A.mp3"
+    },
+    {
+      "ja": "この国は今、大きな問題を<b>抱えて</b>います。",
+      "hrkt": "この くに は いま、おおきな もんだい を <b>かかえて</b> います。",
+      "latn": "kono kuni ha ima,ookina mondai wo <b>kakaete</b> imasu.",
+      "en": "This country has a big problem now.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/04bjcm7720.mp3"
+    }
+  ]
+}

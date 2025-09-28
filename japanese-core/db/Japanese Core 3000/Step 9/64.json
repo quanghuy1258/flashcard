@@ -1,0 +1,18 @@
+{
+  "ja": "どうも",
+  "hrkt": "どうも",
+  "latn": "doumo",
+  "en": "for no special reason, somehow",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00949A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>どうも</b>体の調子が悪い。",
+      "hrkt": "きょう は <b>どうも</b> からだ の ちょうし が わるい。",
+      "latn": "kyou ha <b>doumo</b> karada no choushi ga warui.",
+      "en": "For no special reason, I don't feel very well today.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/136had09g0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00949A.mp3"
+    }
+  ]
+}

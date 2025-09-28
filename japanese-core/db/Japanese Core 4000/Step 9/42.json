@@ -1,0 +1,18 @@
+{
+  "ja": "ベンチ",
+  "hrkt": "ベンチ",
+  "latn": "benchi",
+  "en": "bench",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02289A.mp3",
+  "sentences": [
+    {
+      "ja": "公園の<b>ベンチ</b>で本を読んでいます。",
+      "hrkt": "こうえん の <b>ベンチ</b> で ほん を よんで います。",
+      "latn": "kouen no <b>benchi</b> de hon wo yonde imasu.",
+      "en": "I'm reading a book on the park bench.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02289A.mp3"
+    }
+  ]
+}

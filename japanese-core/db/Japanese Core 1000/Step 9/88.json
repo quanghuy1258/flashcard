@@ -1,0 +1,26 @@
+{
+  "ja": "風",
+  "hrkt": "かぜ",
+  "latn": "kaze",
+  "en": "wind",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01609A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>風</b>が強いです。",
+      "hrkt": "きょう は <b>かぜ</b> が つよい です。",
+      "latn": "kyou ha <b>kaze</b> ga tsuyoi desu.",
+      "en": "The wind is strong today.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4463798.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01609A.mp3"
+    },
+    {
+      "ja": "<b>風</b>の強さに驚きました。",
+      "hrkt": "<b>かぜ</b> の つよさ に おどろきました。",
+      "latn": "<b>kaze</b> no tsuyosa ni odorokimashita.",
+      "en": "I was surprised by the strength of the wind.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4401394.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05953A.mp3"
+    }
+  ]
+}

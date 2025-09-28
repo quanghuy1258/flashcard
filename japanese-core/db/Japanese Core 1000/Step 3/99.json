@@ -1,0 +1,26 @@
+{
+  "ja": "金",
+  "hrkt": "かね",
+  "latn": "kane",
+  "en": "money (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01733A.mp3",
+  "sentences": [
+    {
+      "ja": "これはかなり<b>金</b>がかかった。",
+      "hrkt": "これ は かなり <b>かね</b> が かかった。",
+      "latn": "kore ha kanari <b>kane</b> ga kakatta.",
+      "en": "This cost quite a lot of money.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5020465.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01733A.mp3"
+    },
+    {
+      "ja": "今月はあまりお<b>金</b>がない。",
+      "hrkt": "こんげつ は あまり お<b>かね</b> が ない。",
+      "latn": "kongetsu ha amari o<b>kane</b> ga nai.",
+      "en": "I don't have much money this month.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/23co5s5nko.mp3"
+    }
+  ]
+}

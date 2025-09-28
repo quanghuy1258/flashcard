@@ -1,0 +1,18 @@
+{
+  "ja": "雨降り",
+  "hrkt": "あめふり",
+  "latn": "amefuri",
+  "en": "rainfall, rainy weather",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03420A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>雨降り</b>で月が見えなかったね。",
+      "hrkt": "<b>あめふり</b> で つき が みえなかった ね。",
+      "latn": "<b>amefuri</b> de tsuki ga mienakatta ne.",
+      "en": "We couldn't see the moon because of the rain.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03420A.mp3"
+    }
+  ]
+}

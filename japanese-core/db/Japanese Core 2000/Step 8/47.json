@@ -1,0 +1,26 @@
+{
+  "ja": "研究",
+  "hrkt": "けんきゅう",
+  "latn": "kenkyuu",
+  "en": "research, study",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02752A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は何年も地震の<b>研究</b>をしている。",
+      "hrkt": "かれ は なんねん も じしん の <b>けんきゅう</b> を して いる。",
+      "latn": "kare ha nannen mo jishin no <b>kenkyuu</b> wo shite iru.",
+      "en": "He's been researching earthquakes for many years.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5009897.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02752A.mp3"
+    },
+    {
+      "ja": "彼はロボットの<b>研究</b>をしています。",
+      "hrkt": "かれ は ロボット の <b>けんきゅう</b> を して います。",
+      "latn": "kare ha robotto no <b>kenkyuu</b> wo shite imasu.",
+      "en": "He is doing research on robots.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3315999.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09981A.mp3"
+    }
+  ]
+}

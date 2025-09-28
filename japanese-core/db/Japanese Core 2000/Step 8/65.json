@@ -1,0 +1,26 @@
+{
+  "ja": "番",
+  "hrkt": "ばん",
+  "latn": "ban",
+  "en": "one's turn, watch",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03835A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は私が皿を洗う<b>番</b>ですね。",
+      "hrkt": "きょう は わたし が さら を あらう <b>ばん</b> です ね。",
+      "latn": "kyou ha watashi ga sara wo arau <b>ban</b> desu ne.",
+      "en": "It's my turn to do the dishes today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2922985.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03835A.mp3"
+    },
+    {
+      "ja": "次はあなたの<b>番</b>ですよ。",
+      "hrkt": "つぎ は あなた の <b>ばん</b> です よ。",
+      "latn": "tsugi ha anata no <b>ban</b> desu yo.",
+      "en": "Next is your turn.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/26ad1d5pdk.mp3"
+    }
+  ]
+}

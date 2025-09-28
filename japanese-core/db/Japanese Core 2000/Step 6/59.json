@@ -1,0 +1,26 @@
+{
+  "ja": "再会",
+  "hrkt": "さいかい",
+  "latn": "saikai",
+  "en": "meeting again, reunion",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01324A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは互いに<b>再会</b>を喜んだの。",
+      "hrkt": "かれら は たがい に <b>さいかい</b> を よろこんだ の。",
+      "latn": "karera ha tagai ni <b>saikai</b> wo yorokonda no.",
+      "en": "They were both very happy to see each other again.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3526366.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01324A.mp3"
+    },
+    {
+      "ja": "彼らは10年ぶりに<b>再会</b>しました。",
+      "hrkt": "かれら は 10 ねん ぶり に <b>さいかい</b> しました。",
+      "latn": "karera ha 10 nen buri ni <b>saikai</b> shimashita.",
+      "en": "They were reunited with each other after 10 years.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/73dtav34ts.mp3"
+    }
+  ]
+}

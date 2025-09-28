@@ -1,0 +1,18 @@
+{
+  "ja": "飯",
+  "hrkt": "めし",
+  "latn": "meshi",
+  "en": "cooked rice, meal (vulgar language)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03488A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝は<b>飯</b>を食べたかい？",
+      "hrkt": "けさ は <b>めし</b> を たべた かい？",
+      "latn": "kesa ha <b>meshi</b> wo tabeta kai?",
+      "en": "Did you have a meal this morning?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03488A.mp3"
+    }
+  ]
+}

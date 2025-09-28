@@ -1,0 +1,26 @@
+{
+  "ja": "ボーイフレンド",
+  "hrkt": "ボーイフレンド",
+  "latn": "bo-ifurendo",
+  "en": "boyfriend",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08472A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>ボーイフレンド</b>はハンサムでした。",
+      "hrkt": "わたし の <b>ボーイフレンド</b> は ハンサム でした。",
+      "latn": "watashi no <b>bo-ifurendo</b> ha hansamu deshita.",
+      "en": "My boyfriend was handsome.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/475804.jpg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/9l6m409rimupk.mp3"
+    },
+    {
+      "ja": "あの男の人はあなたの<b>ボーイフレンド</b>ですか。",
+      "hrkt": "あの おとこ の ひと は あなた の <b>ボーイフレンド</b> です か。",
+      "latn": "ano otoko no hito ha anata no <b>bo-ifurendo</b> desu ka.",
+      "en": "Is that man your boyfriend?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/733m3f1sec.mp3"
+    }
+  ]
+}

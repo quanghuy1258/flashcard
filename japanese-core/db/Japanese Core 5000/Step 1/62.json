@@ -1,0 +1,18 @@
+{
+  "ja": "メーター",
+  "hrkt": "メーター",
+  "latn": "me-ta-",
+  "en": "meter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03057A.mp3",
+  "sentences": [
+    {
+      "ja": "ガス会社が<b>メーター</b>を調べにきたぞ。",
+      "hrkt": "ガス がいしゃ が <b>メーター</b> を しらべに きた ぞ。",
+      "latn": "gasu gaisha ga <b>me-ta-</b> wo shirabeni kita zo.",
+      "en": "The gas company came to examine the meter.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03057A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "拭く",
+  "hrkt": "ふく",
+  "latn": "fuku",
+  "en": "wipe, dry",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08006A.mp3",
+  "sentences": [
+    {
+      "ja": "タオルで体を<b>拭きました</b>。",
+      "hrkt": "タオル で からだ を <b>ふきました</b>。",
+      "latn": "taoru de karada wo <b>fukimashita</b>.",
+      "en": "I wiped myself with a towel.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5745492.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08006A.mp3"
+    },
+    {
+      "ja": "彼はタオルで顔を<b>拭きました</b>。",
+      "hrkt": "かれ は タオル で かお を <b>ふきました</b>。",
+      "latn": "kare ha taoru de kao wo <b>fukimashita</b>.",
+      "en": "He wiped his face with a towel.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5215173.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01443A.mp3"
+    }
+  ]
+}

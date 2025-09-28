@@ -1,0 +1,18 @@
+{
+  "ja": "休息",
+  "hrkt": "きゅうそく",
+  "latn": "kyuusoku",
+  "en": "rest",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02816A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>休息</b>をとることは大切です。",
+      "hrkt": "<b>きゅうそく</b> を とる こと は たいせつ です。",
+      "latn": "<b>kyuusoku</b> wo toru koto ha taisetsu desu.",
+      "en": "It's important to take a rest.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02816A.mp3"
+    }
+  ]
+}

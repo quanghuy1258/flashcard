@@ -1,0 +1,26 @@
+{
+  "ja": "下りる",
+  "hrkt": "おりる",
+  "latn": "oriru",
+  "en": "go down, come down",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01250A.mp3",
+  "sentences": [
+    {
+      "ja": "そこの階段を<b>下りて</b>ください。",
+      "hrkt": "そこ の かいだん を <b>おりて</b> ください。",
+      "latn": "soko no kaidan wo <b>orite</b> kudasai.",
+      "en": "Please go down those stairs.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3877644.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01250A.mp3"
+    },
+    {
+      "ja": "ネコが木から<b>下りて</b>きた。",
+      "hrkt": "ネコ が き から <b>おりて</b> きた。",
+      "latn": "neko ga ki kara <b>orite</b> kita.",
+      "en": "A cat came down from the tree.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/54ec5cca20.mp3"
+    }
+  ]
+}

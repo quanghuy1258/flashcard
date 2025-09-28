@@ -1,0 +1,26 @@
+{
+  "ja": "太る",
+  "hrkt": "ふとる",
+  "latn": "futoru",
+  "en": "grow fat, gain weight",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08132A.mp3",
+  "sentences": [
+    {
+      "ja": "私の姉はすぐ<b>太ります</b>。",
+      "hrkt": "わたし の あね は すぐ <b>ふとります</b>。",
+      "latn": "watashi no ane ha sugu <b>futorimasu</b>.",
+      "en": "My big sister puts on weight easily.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/91dvfv34qrjots.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08132A.mp3"
+    },
+    {
+      "ja": "私は去年から5キロ<b>太りました</b>。",
+      "hrkt": "わたし は きょねん から 5 キロ <b>ふとりました</b>。",
+      "latn": "watashi ha kyonen kara 5 kiro <b>futorimashita</b>.",
+      "en": "I've gained five kilograms since last year.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d62i73891s.mp3"
+    }
+  ]
+}

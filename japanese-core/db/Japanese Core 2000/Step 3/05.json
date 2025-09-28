@@ -1,0 +1,26 @@
+{
+  "ja": "間違い",
+  "hrkt": "まちがい",
+  "latn": "machigai",
+  "en": "mistake, error",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08729A.mp3",
+  "sentences": [
+    {
+      "ja": "この文には<b>間違い</b>があります。",
+      "hrkt": "この ぶん に は <b>まちがい</b> が あります。",
+      "latn": "kono bun ni ha <b>machigai</b> ga arimasu.",
+      "en": "There's a mistake in this sentence.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5942204.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08729A.mp3"
+    },
+    {
+      "ja": "彼女は同じ<b>間違い</b>を繰り返した。",
+      "hrkt": "かのじょ は おなじ <b>まちがい</b> を くりかえした。",
+      "latn": "kanojo ha onaji <b>machigai</b> wo kurikaeshita.",
+      "en": "She repeated the same mistake.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4542717.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02539A.mp3"
+    }
+  ]
+}

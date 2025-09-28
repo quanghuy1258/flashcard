@@ -1,0 +1,18 @@
+{
+  "ja": "かちかち",
+  "hrkt": "かちかち",
+  "latn": "kachikachi",
+  "en": "hard, solid",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03434A.mp3",
+  "sentences": [
+    {
+      "ja": "池が<b>かちかち</b>に凍っています。",
+      "hrkt": "いけ が <b>かちかち</b> に こおって います。",
+      "latn": "ike ga <b>kachikachi</b> ni kootte imasu.",
+      "en": "The pond is frozen solid.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03434A.mp3"
+    }
+  ]
+}

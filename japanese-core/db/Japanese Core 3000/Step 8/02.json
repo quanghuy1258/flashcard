@@ -1,0 +1,18 @@
+{
+  "ja": "求める",
+  "hrkt": "もとめる",
+  "latn": "motomeru",
+  "en": "seek, yearn for",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03931A.mp3",
+  "sentences": [
+    {
+      "ja": "子供は親の愛を<b>求めます</b>。",
+      "hrkt": "こども は おや の あい を <b>もとめます</b>。",
+      "latn": "kodomo ha oya no ai wo <b>motomemasu</b>.",
+      "en": "Children seek parental love.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d19mc852bc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03931A.mp3"
+    }
+  ]
+}

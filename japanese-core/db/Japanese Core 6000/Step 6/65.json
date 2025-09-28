@@ -1,0 +1,18 @@
+{
+  "ja": "歌舞伎",
+  "hrkt": "かぶき",
+  "latn": "kabuki",
+  "en": "Japanese classical drama played by male actors",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01834A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>歌舞伎</b>の芝居を見にいきました。",
+      "hrkt": "<b>かぶき</b>  の しばい を みに いきました。",
+      "latn": "<b>kabuki</b>  no shibai wo mini ikimashita.",
+      "en": "I went to see a kabuki play.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01834A.mp3"
+    }
+  ]
+}

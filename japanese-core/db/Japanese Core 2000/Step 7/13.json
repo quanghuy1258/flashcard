@@ -1,0 +1,26 @@
+{
+  "ja": "どきどき",
+  "hrkt": "どきどき",
+  "latn": "dokidoki",
+  "en": "thumping, in a pounding manner",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06364A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女に会うと<b>どきどき</b>します。",
+      "hrkt": "かのじょ に あう と <b>どきどき</b> します。",
+      "latn": "kanojo ni au to <b>dokidoki</b> shimasu.",
+      "en": "I feel my heart thumping when I see her.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5490492.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06364A.mp3"
+    },
+    {
+      "ja": "デートの前、緊張して<b>どきどき</b>しました。",
+      "hrkt": "デート の まえ、きんちょう して <b>どきどき</b> しました。",
+      "latn": "de-to no mae,kinchou shite <b>dokidoki</b> shimashita.",
+      "en": "Before the date, I was so nervous my heart pounded.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/156k60efs4.mp3"
+    }
+  ]
+}

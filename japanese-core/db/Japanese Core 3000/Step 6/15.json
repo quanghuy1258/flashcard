@@ -1,0 +1,18 @@
+{
+  "ja": "日米",
+  "hrkt": "にちべい",
+  "latn": "nichibei",
+  "en": "Japan and the U.S.",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00102A.mp3",
+  "sentences": [
+    {
+      "ja": "テレビで<b>日米</b>野球をやっていますよ。",
+      "hrkt": "テレビ で <b>にちべい</b> やきゅう を やって います よ。",
+      "latn": "terebi de <b>nichibei</b> yakyuu wo yatte imasu yo.",
+      "en": "A Japan vs. the U.S. baseball game is on TV.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b51m3mc7mk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00102A.mp3"
+    }
+  ]
+}

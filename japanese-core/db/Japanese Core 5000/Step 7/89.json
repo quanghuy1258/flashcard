@@ -1,0 +1,18 @@
+{
+  "ja": "日焼け",
+  "hrkt": "ひやけ",
+  "latn": "hiyake",
+  "en": "suntan",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02395A.mp3",
+  "sentences": [
+    {
+      "ja": "海で<b>日焼け</b>したんだ。",
+      "hrkt": "うみ で <b>ひやけ</b> した ん だ。",
+      "latn": "umi de <b>hiyake</b> shita n da.",
+      "en": "I got suntanned at the beach.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02395A.mp3"
+    }
+  ]
+}

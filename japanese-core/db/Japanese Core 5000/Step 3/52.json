@@ -1,0 +1,18 @@
+{
+  "ja": "当番",
+  "hrkt": "とうばん",
+  "latn": "touban",
+  "en": "being on duty, person in charge",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02251A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は私が掃除の<b>当番</b>です。",
+      "hrkt": "きょう は わたし が そうじ の <b>とうばん</b> です。",
+      "latn": "kyou ha watashi ga souji no <b>touban</b> desu.",
+      "en": "I'm in charge of the cleaning today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02251A.mp3"
+    }
+  ]
+}

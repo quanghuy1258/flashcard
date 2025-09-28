@@ -1,0 +1,18 @@
+{
+  "ja": "当局",
+  "hrkt": "とうきょく",
+  "latn": "toukyoku",
+  "en": "authorities",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00024A.mp3",
+  "sentences": [
+    {
+      "ja": "その事件については<b>当局</b>が調査しています。",
+      "hrkt": "その じけん について は <b>とうきょく</b> が ちょうさ して います。",
+      "latn": "sono jiken nitsuite ha <b>toukyoku</b> ga chousa shite imasu.",
+      "en": "The authorities are investigating the incident.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00024A.mp3"
+    }
+  ]
+}

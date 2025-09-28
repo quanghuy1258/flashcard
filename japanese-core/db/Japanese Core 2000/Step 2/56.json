@@ -1,0 +1,26 @@
+{
+  "ja": "握る",
+  "hrkt": "にぎる",
+  "latn": "nigiru",
+  "en": "grasp, grip, hold",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06812A.mp3",
+  "sentences": [
+    {
+      "ja": "少女は母親の手を<b>握った</b>。",
+      "hrkt": "しょうじょ は ははおや の て を <b>にぎった</b>。",
+      "latn": "shoujo ha hahaoya no te wo <b>nigitta</b>.",
+      "en": "The girl held her mother's hand.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/660847.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06812A.mp3"
+    },
+    {
+      "ja": "ずっとペンを<b>握って</b>いたので、手が痛いです。",
+      "hrkt": "ずっと ペン を <b>にぎって</b> いた ので、て が いたい です。",
+      "latn": "zutto pen wo <b>nigitte</b> ita node,te ga itai desu.",
+      "en": "Because I was holding a pen the whole time, my hand hurts.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a6e5b6b5kk.mp3"
+    }
+  ]
+}

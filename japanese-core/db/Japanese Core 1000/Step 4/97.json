@@ -1,0 +1,26 @@
+{
+  "ja": "辺",
+  "hrkt": "へん",
+  "latn": "hen",
+  "en": "vicinity",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08342A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はこの<b>辺</b>に住んでいます。",
+      "hrkt": "かれ は この <b>へん</b> に すんで います。",
+      "latn": "kare ha kono <b>hen</b> ni sunde imasu.",
+      "en": "He lives around here.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4798609.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08342A.mp3"
+    },
+    {
+      "ja": "この<b>辺</b>は田んぼがたくさんあります。",
+      "hrkt": "この <b>へん</b> は たんぼ が たくさん あります。",
+      "latn": "kono <b>hen</b> ha tanbo ga takusan arimasu.",
+      "en": "There are a lot of rice fields around here.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4613318.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05543A.mp3"
+    }
+  ]
+}

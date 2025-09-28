@@ -1,0 +1,18 @@
+{
+  "ja": "収支",
+  "hrkt": "しゅうし",
+  "latn": "shuushi",
+  "en": "earning and expense",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01506A.mp3",
+  "sentences": [
+    {
+      "ja": "家計の<b>収支</b>が合わないの。",
+      "hrkt": "かけい の <b>しゅうし</b> が あわない の。",
+      "latn": "kakei no <b>shuushi</b> ga awanai no.",
+      "en": "Our household income and expense do not match.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01506A.mp3"
+    }
+  ]
+}

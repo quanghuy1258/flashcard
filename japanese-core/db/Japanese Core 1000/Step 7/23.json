@@ -1,0 +1,26 @@
+{
+  "ja": "少年",
+  "hrkt": "しょうねん",
+  "latn": "shounen",
+  "en": "boy (between 7 and 18 years old)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04219A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>少年</b>たちがサッカーをしている。",
+      "hrkt": "<b>しょうねん</b> たち が サッカー を して いる。",
+      "latn": "<b>shounen</b> tachi ga sakka- wo shite iru.",
+      "en": "The boys are playing soccer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3435854.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04219A.mp3"
+    },
+    {
+      "ja": "私はあの<b>少年</b>たちを助けたい。",
+      "hrkt": "わたし は あの <b>しょうねん</b> たち を たすけたい。",
+      "latn": "watashi ha ano <b>shounen</b> tachi wo tasuketai.",
+      "en": "I want to help those boys.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/63fpca6u88.mp3"
+    }
+  ]
+}

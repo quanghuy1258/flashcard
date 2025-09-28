@@ -1,0 +1,18 @@
+{
+  "ja": "取り締まる",
+  "hrkt": "とりしまる",
+  "latn": "torishimaru",
+  "en": "control, crack down",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02654A.mp3",
+  "sentences": [
+    {
+      "ja": "警察が飲酒運転を<b>取り締まって</b>いますよ。",
+      "hrkt": "けいさつ が いんしゅ うんてん を <b>とりしまって</b> います よ。",
+      "latn": "keisatsu ga inshu unten wo <b>torishimatte</b> imasu yo.",
+      "en": "The police are cracking down on drunk driving.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02654A.mp3"
+    }
+  ]
+}

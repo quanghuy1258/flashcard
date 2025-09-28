@@ -1,0 +1,18 @@
+{
+  "ja": "まとめ",
+  "hrkt": "まとめ",
+  "latn": "matome",
+  "en": "summary, conclusion",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03889A.mp3",
+  "sentences": [
+    {
+      "ja": "論文の<b>まとめ</b>を書いています。",
+      "hrkt": "ろんぶん の <b>まとめ</b> を かいて います。",
+      "latn": "ronbun no <b>matome</b> wo kaite imasu.",
+      "en": "I'm writing a conclusion of my thesis.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03889A.mp3"
+    }
+  ]
+}

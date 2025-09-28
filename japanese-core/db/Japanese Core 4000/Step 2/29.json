@@ -1,0 +1,18 @@
+{
+  "ja": "隠す",
+  "hrkt": "かくす",
+  "latn": "kakusu",
+  "en": "hide, conceal",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00193A.mp3",
+  "sentences": [
+    {
+      "ja": "僕に<b>隠して</b>いることはないですか。",
+      "hrkt": "ぼく に <b>かくして</b> いる こと は ない です か。",
+      "latn": "boku ni <b>kakushite</b> iru koto ha nai desu ka.",
+      "en": "Are you hiding anything from me?",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/35123t6q2s.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00193A.mp3"
+    }
+  ]
+}

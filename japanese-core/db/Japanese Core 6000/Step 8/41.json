@@ -1,0 +1,18 @@
+{
+  "ja": "似せる",
+  "hrkt": "にせる",
+  "latn": "niseru",
+  "en": "imitate, model after",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03096A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の字に<b>似せて</b>書きました。",
+      "hrkt": "かれ の じ に <b>にせて</b> かきました。",
+      "latn": "kare no ji ni <b>nisete</b> kakimashita.",
+      "en": "I wrote it by imitating his handwriting.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03096A.mp3"
+    }
+  ]
+}

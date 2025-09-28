@@ -1,0 +1,18 @@
+{
+  "ja": "腫れる",
+  "hrkt": "はれる",
+  "latn": "hareru",
+  "en": "swell up, be swollen",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03834A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝は目が<b>腫れて</b>います。",
+      "hrkt": "けさ は め が <b>はれて</b> います。",
+      "latn": "kesa ha me ga <b>harete</b> imasu.",
+      "en": "My eyes are swollen this morning.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b55144e7uo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03834A.mp3"
+    }
+  ]
+}

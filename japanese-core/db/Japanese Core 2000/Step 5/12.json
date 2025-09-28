@@ -1,0 +1,26 @@
+{
+  "ja": "スープ",
+  "hrkt": "スープ",
+  "latn": "su-pu",
+  "en": "soup",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04517A.mp3",
+  "sentences": [
+    {
+      "ja": "母がコーン<b>スープ</b>を作っている。",
+      "hrkt": "はは が コーン <b>スープ</b> を つくって いる。",
+      "latn": "haha ga ko-n <b>su-pu</b> wo tsukutte iru.",
+      "en": "My mother is making some corn chowder.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2977864.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04517A.mp3"
+    },
+    {
+      "ja": "この<b>スープ</b>はとても熱い。",
+      "hrkt": "この <b>スープ</b> は とても あつい。",
+      "latn": "kono <b>su-pu</b> ha totemo atsui.",
+      "en": "This soup is very hot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3935018.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00157A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "よう",
+  "hrkt": "よう",
+  "latn": "you",
+  "en": "look like, seem",
+  "pos": "Auxiliary Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09577A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は眠い<b>よう</b>です。",
+      "hrkt": "かのじょ は ねむい <b>よう</b> です。",
+      "latn": "kanojo ha nemui <b>you</b> desu.",
+      "en": "It looks like she's sleepy.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d2bsdo5ubo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09577A.mp3"
+    }
+  ]
+}

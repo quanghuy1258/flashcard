@@ -1,0 +1,18 @@
+{
+  "ja": "恐れ",
+  "hrkt": "おそれ",
+  "latn": "osore",
+  "en": "fear, (negative) possibility",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00381A.mp3",
+  "sentences": [
+    {
+      "ja": "叔父には心臓病の<b>恐れ</b>があります。",
+      "hrkt": "おじ に は しんぞう びょう の <b>おそれ</b> が あります。",
+      "latn": "oji ni ha shinzou byou no <b>osore</b> ga arimasu.",
+      "en": "There's a possibility that my uncle has heart disease.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00381A.mp3"
+    }
+  ]
+}

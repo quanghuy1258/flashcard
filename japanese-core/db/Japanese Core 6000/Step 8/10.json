@@ -1,0 +1,18 @@
+{
+  "ja": "ごろごろ",
+  "hrkt": "ごろごろ",
+  "latn": "gorogoro",
+  "en": "rumble",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02819A.mp3",
+  "sentences": [
+    {
+      "ja": "雷が<b>ごろごろ</b>鳴っている。",
+      "hrkt": "かみなり が <b>ごろごろ</b> なって いる。",
+      "latn": "kaminari ga <b>gorogoro</b> natte iru.",
+      "en": "I can hear thunder rumbling.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02819A.mp3"
+    }
+  ]
+}

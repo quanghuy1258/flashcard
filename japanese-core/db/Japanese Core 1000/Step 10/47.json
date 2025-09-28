@@ -1,0 +1,26 @@
+{
+  "ja": "理由",
+  "hrkt": "りゆう",
+  "latn": "riyuu",
+  "en": "reason, excuse",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09830A.mp3",
+  "sentences": [
+    {
+      "ja": "遅れた<b>理由</b>を教えてください。",
+      "hrkt": "おくれた <b>りゆう</b> を おしえて ください。",
+      "latn": "okureta <b>riyuu</b> wo oshiete kudasai.",
+      "en": "Please tell me why you were late.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4462457.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09830A.mp3"
+    },
+    {
+      "ja": "あなたが1か月も仕事を休んだ<b>理由</b>は何ですか。",
+      "hrkt": "あなた が 1 かげつ も しごと を やすんだ <b>りゆう</b> は なん です か。",
+      "latn": "anata ga 1 kagetsu mo shigoto wo yasunda <b>riyuu</b> ha nan desu ka.",
+      "en": "What is the reason that you were absent from work for a month?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/16cbag5u9g.mp3"
+    }
+  ]
+}

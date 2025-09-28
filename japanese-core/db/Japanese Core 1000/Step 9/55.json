@@ -1,0 +1,26 @@
+{
+  "ja": "信じる",
+  "hrkt": "しんじる",
+  "latn": "shinjiru",
+  "en": "believe, trust",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04398A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はキリストを<b>信じて</b>いる。",
+      "hrkt": "かれ は キリスト を <b>しんじて</b> いる。",
+      "latn": "kare ha kirisuto wo <b>shinjite</b> iru.",
+      "en": "He believes in Jesus Christ.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2845745.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04398A.mp3"
+    },
+    {
+      "ja": "私は彼女の話を<b>信じて</b>いません。",
+      "hrkt": "わたし は かのじょ の はなし を <b>しんじて</b> いません。",
+      "latn": "watashi ha kanojo no hanashi wo <b>shinjite</b> imasen.",
+      "en": "I don't believe her story.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/24c2dp7r5c.mp3"
+    }
+  ]
+}

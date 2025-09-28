@@ -1,0 +1,26 @@
+{
+  "ja": "ばら",
+  "hrkt": "ばら",
+  "latn": "bara",
+  "en": "rose",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03475A.mp3",
+  "sentences": [
+    {
+      "ja": "お祝いに<b>ばら</b>の花束を贈りました。",
+      "hrkt": "おいわい に <b>ばら</b> の はなたば を おくりました。",
+      "latn": "oiwai ni <b>bara</b> no hanataba wo okurimashita.",
+      "en": "I gave her a bouquet of roses for a celebration.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2864853.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03475A.mp3"
+    },
+    {
+      "ja": "彼女の誕生日に真っ赤な<b>ばら</b>と指輪をあげました。",
+      "hrkt": "かのじょ の たんじょうび に まっかな <b>ばら</b> と ゆびわ を あげました。",
+      "latn": "kanojo no tanjoubi ni makkana <b>bara</b> to yubiwa wo agemashita.",
+      "en": "I gave my girlfriend bright red roses and a ring for her birthday.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/96f46sc9rk.mp3"
+    }
+  ]
+}

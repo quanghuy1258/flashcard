@@ -1,0 +1,18 @@
+{
+  "ja": "業者",
+  "hrkt": "ぎょうしゃ",
+  "latn": "gyousha",
+  "en": "contractor (company)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02259A.mp3",
+  "sentences": [
+    {
+      "ja": "引っ越しを<b>業者</b>に頼んだ。",
+      "hrkt": "ひっこし を <b>ぎょうしゃ</b> に たのんだ。",
+      "latn": "hikkoshi wo <b>gyousha</b> ni tanonda.",
+      "en": "I asked a company to handle the move.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02259A.mp3"
+    }
+  ]
+}

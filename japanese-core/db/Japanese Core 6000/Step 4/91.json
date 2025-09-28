@@ -1,0 +1,18 @@
+{
+  "ja": "田んぼ",
+  "hrkt": "たんぼ",
+  "latn": "tanbo",
+  "en": "rice field",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05543A.mp3",
+  "sentences": [
+    {
+      "ja": "この辺は<b>田んぼ</b>がたくさんあります。",
+      "hrkt": "この へん は <b>たんぼ</b> が たくさん あります。",
+      "latn": "kono hen ha <b>tanbo</b> ga takusan arimasu.",
+      "en": "There are a lot of rice fields around here.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05543A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "おしゃべり",
+  "hrkt": "おしゃべり",
+  "latn": "oshaberi",
+  "en": "talkative, chatty",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01087A.mp3",
+  "sentences": [
+    {
+      "ja": "妹はとても<b>おしゃべり</b>です。",
+      "hrkt": "いもうと は とても <b>おしゃべり</b> です。",
+      "latn": "imouto ha totemo <b>oshaberi</b> desu.",
+      "en": "My little sister's very talkative.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4548563.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01087A.mp3"
+    },
+    {
+      "ja": "彼女はとても<b>おしゃべり</b>で、秘密を守れません。",
+      "hrkt": "かのじょ は とても <b>おしゃべり</b> で、ひみつ を まもれません。",
+      "latn": "kanojo ha totemo <b>oshaberi</b> de,himitsu wo mamoremasen.",
+      "en": "She is very talkative and can't keep secrets.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/966kck4u6g.mp3"
+    }
+  ]
+}

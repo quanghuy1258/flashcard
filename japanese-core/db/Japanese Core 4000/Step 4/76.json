@@ -1,0 +1,18 @@
+{
+  "ja": "損",
+  "hrkt": "そん",
+  "latn": "son",
+  "en": "loss, damage",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01410A.mp3",
+  "sentences": [
+    {
+      "ja": "パチンコで5000円<b>損</b>しました。",
+      "hrkt": "パチンコ で 5000 えん <b>そん</b> しました。",
+      "latn": "pachinko de 5000 en <b>son</b> shimashita.",
+      "en": "I lost 5,000 yen at pachinko.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01410A.mp3"
+    }
+  ]
+}

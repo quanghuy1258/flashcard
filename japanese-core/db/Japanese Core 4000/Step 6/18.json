@@ -1,0 +1,18 @@
+{
+  "ja": "国語",
+  "hrkt": "こくご",
+  "latn": "kokugo",
+  "en": "national language, Japanese",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01475A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の1時間目は<b>国語</b>です。",
+      "hrkt": "きょう の 1 じかん め は <b>こくご</b> です。",
+      "latn": "kyou no 1 jikan me ha <b>kokugo</b> desu.",
+      "en": "The first class today is Japanese.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01475A.mp3"
+    }
+  ]
+}

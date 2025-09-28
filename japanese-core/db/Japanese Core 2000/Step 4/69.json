@@ -1,0 +1,26 @@
+{
+  "ja": "ほぼ",
+  "hrkt": "ほぼ",
+  "latn": "hobo",
+  "en": "almost, nearly",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08571A.mp3",
+  "sentences": [
+    {
+      "ja": "仕事が<b>ほぼ</b>終わりました。",
+      "hrkt": "しごと が <b>ほぼ</b> おわりました。",
+      "latn": "shigoto ga <b>hobo</b> owarimashita.",
+      "en": "My work is almost finished.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2966482.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08571A.mp3"
+    },
+    {
+      "ja": "この山は富士山と<b>ほぼ</b>同じ高さです。",
+      "hrkt": "この やま は ふじさん と <b>ほぼ</b> おなじ たかさ です。",
+      "latn": "kono yama ha fujisan to <b>hobo</b> onaji takasa desu.",
+      "en": "This mountain is almost the same height as Mt. Fuji.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d45dafdq34.mp3"
+    }
+  ]
+}

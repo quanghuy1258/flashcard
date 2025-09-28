@@ -1,0 +1,26 @@
+{
+  "ja": "今朝",
+  "hrkt": "けさ",
+  "latn": "kesa",
+  "en": "this morning",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02661A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今朝</b>テレビでそのニュースを知りました。",
+      "hrkt": "<b>けさ</b> テレビ で その ニュース を しりました。",
+      "latn": "<b>kesa</b> terebi de sono nyu-su wo shirimashita.",
+      "en": "I heard that news on TV this morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2384771.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02661A.mp3"
+    },
+    {
+      "ja": "<b>今朝</b>は早く家を出ました。",
+      "hrkt": "<b>けさ</b> は はやく いえ を でました。",
+      "latn": "<b>kesa</b> ha hayaku ie wo demashita.",
+      "en": "I left the house early this morning.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4786067.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06128A.mp3"
+    }
+  ]
+}

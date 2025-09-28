@@ -1,0 +1,26 @@
+{
+  "ja": "姉さん",
+  "hrkt": "ねえさん",
+  "latn": "neesan",
+  "en": "(one's own) older sister (polite)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06954A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>姉さん</b>、ごめんね。",
+      "hrkt": "<b>ねえさん</b>、ごめん ね。",
+      "latn": "<b>neesan</b>,gomen ne.",
+      "en": "I'm sorry sis.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5416841.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06954A.mp3"
+    },
+    {
+      "ja": "今日は<b>姉さん</b>が朝ごはんを作った。",
+      "hrkt": "きょう は <b>ねえさん</b> が あさ ごはん を つくった。",
+      "latn": "kyou ha <b>neesan</b> ga asa gohan wo tsukutta.",
+      "en": "Today, my older sister made a breakfast.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/348550fk28.mp3"
+    }
+  ]
+}

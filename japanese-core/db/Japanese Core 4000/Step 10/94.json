@@ -1,0 +1,18 @@
+{
+  "ja": "双子",
+  "hrkt": "ふたご",
+  "latn": "futago",
+  "en": "twins",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03857A.mp3",
+  "sentences": [
+    {
+      "ja": "友達に<b>双子</b>が生まれたよ。",
+      "hrkt": "ともだち に <b>ふたご</b> が うまれた よ。",
+      "latn": "tomodachi ni <b>futago</b> ga umareta yo.",
+      "en": "My friend gave birth to twins.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03857A.mp3"
+    }
+  ]
+}

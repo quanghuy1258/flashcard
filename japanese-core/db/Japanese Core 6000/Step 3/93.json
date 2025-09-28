@@ -1,0 +1,18 @@
+{
+  "ja": "強める",
+  "hrkt": "つよめる",
+  "latn": "tsuyomeru",
+  "en": "strengthen (something)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00303A.mp3",
+  "sentences": [
+    {
+      "ja": "火を<b>強めて</b>ください。",
+      "hrkt": "ひ を <b>つよめて</b> ください。",
+      "latn": "hi wo <b>tsuyomete</b> kudasai.",
+      "en": "Please turn up the heat.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00303A.mp3"
+    }
+  ]
+}

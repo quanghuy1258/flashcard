@@ -1,0 +1,18 @@
+{
+  "ja": "速達便",
+  "hrkt": "そくたつびん",
+  "latn": "sokutatsubin",
+  "en": "special delivery mail, express mail",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03988A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>速達便</b>なら明日の午前中に届きます。",
+      "hrkt": "<b>そくたつ びん</b> なら あした の ごぜん ちゅう に とどきます。",
+      "latn": "<b>sokutatsu bin</b> nara ashita no gozen chuu ni todokimasu.",
+      "en": "It will arrive tomorrow morning if you send it by express mail.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03988A.mp3"
+    }
+  ]
+}

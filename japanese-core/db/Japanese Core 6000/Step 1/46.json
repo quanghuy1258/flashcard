@@ -1,0 +1,18 @@
+{
+  "ja": "英雄",
+  "hrkt": "えいゆう",
+  "latn": "eiyuu",
+  "en": "hero",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02084A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は国の<b>英雄</b>ですね。",
+      "hrkt": "かれ は くに の <b>えいゆう</b> です ね。",
+      "latn": "kare ha kuni no <b>eiyuu</b> desu ne.",
+      "en": "He is a national hero.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02084A.mp3"
+    }
+  ]
+}

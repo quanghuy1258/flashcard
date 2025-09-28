@@ -1,0 +1,26 @@
+{
+  "ja": "続ける",
+  "hrkt": "つづける",
+  "latn": "tsuzukeru",
+  "en": "continue, keep up",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05891A.mp3",
+  "sentences": [
+    {
+      "ja": "仕事を<b>続けて</b>ください。",
+      "hrkt": "しごと を <b>つづけて</b> ください。",
+      "latn": "shigoto wo <b>tsuzukete</b> kudasai.",
+      "en": "Please keep working.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5080703.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05891A.mp3"
+    },
+    {
+      "ja": "さっきの話を<b>続けましょう</b>。",
+      "hrkt": "さっき の はなし を <b>つづけましょう</b>。",
+      "latn": "sakki no hanashi wo <b>tsuzukemashou</b>.",
+      "en": "Let's continue the conversation we had earlier.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3072983.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03450A.mp3"
+    }
+  ]
+}

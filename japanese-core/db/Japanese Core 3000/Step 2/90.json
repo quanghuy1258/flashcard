@@ -1,0 +1,18 @@
+{
+  "ja": "冷ます",
+  "hrkt": "さます",
+  "latn": "samasu",
+  "en": "let cool",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03288A.mp3",
+  "sentences": [
+    {
+      "ja": "お茶がとても熱かったので<b>冷まして</b>から飲んだの。",
+      "hrkt": "おちゃ が とても あつかった ので <b>さまして</b> から のんだ の。",
+      "latn": "ocha ga totemo atsukatta node <b>samashite</b> kara nonda no.",
+      "en": "Because the tea was very hot, I let it cool before I drank it.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/95f3c98ckc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03288A.mp3"
+    }
+  ]
+}

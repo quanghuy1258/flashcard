@@ -1,0 +1,26 @@
+{
+  "ja": "法律",
+  "hrkt": "ほうりつ",
+  "latn": "houritsu",
+  "en": "law",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08463A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>法律</b>ができた。",
+      "hrkt": "あたらしい <b>ほうりつ</b> が できた。",
+      "latn": "atarashii <b>houritsu</b> ga dekita.",
+      "en": "A new law has been passed.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4428195.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08463A.mp3"
+    },
+    {
+      "ja": "兄は<b>法律</b>事務所で働いています。",
+      "hrkt": "あに は <b>ほうりつ</b> じむしょ で はたらいて います。",
+      "latn": "ani ha <b>houritsu</b> jimusho de hataraite imasu.",
+      "en": "My older brother is working at a law firm.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c4a473dfbc.mp3"
+    }
+  ]
+}

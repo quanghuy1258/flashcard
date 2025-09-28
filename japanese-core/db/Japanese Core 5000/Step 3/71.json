@@ -1,0 +1,18 @@
+{
+  "ja": "公務員",
+  "hrkt": "こうむいん",
+  "latn": "koumuin",
+  "en": "public officer, civil servant",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01105A.mp3",
+  "sentences": [
+    {
+      "ja": "私の父は<b>公務員</b>です。",
+      "hrkt": "わたし の ちち は <b>こうむいん</b> です。",
+      "latn": "watashi no chichi ha <b>koumuin</b> desu.",
+      "en": "My father is a civil servant.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01105A.mp3"
+    }
+  ]
+}

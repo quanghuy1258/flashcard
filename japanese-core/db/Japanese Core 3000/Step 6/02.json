@@ -1,0 +1,18 @@
+{
+  "ja": "品切れ",
+  "hrkt": "しなぎれ",
+  "latn": "shinagire",
+  "en": "sold out",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02609A.mp3",
+  "sentences": [
+    {
+      "ja": "牛乳は<b>品切れ</b>だったよ。",
+      "hrkt": "ぎゅうにゅう は <b>しなぎれ</b> だった よ。",
+      "latn": "gyuunyuu ha <b>shinagire</b> datta yo.",
+      "en": "Milk was sold out.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f20u3le2ls.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02609A.mp3"
+    }
+  ]
+}

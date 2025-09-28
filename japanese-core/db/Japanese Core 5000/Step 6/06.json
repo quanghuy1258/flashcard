@@ -1,0 +1,18 @@
+{
+  "ja": "引っ掛ける",
+  "hrkt": "ひっかける",
+  "latn": "hikkakeru",
+  "en": "hook (something) on",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03845A.mp3",
+  "sentences": [
+    {
+      "ja": "その選手はハードルに足を<b>引っ掛けた</b>んだ。",
+      "hrkt": "その せんしゅ は ハードル に あし を <b>ひっかけた</b> ん だ。",
+      "latn": "sono senshu ha ha-doru ni ashi wo <b>hikkaketa</b> n da.",
+      "en": "The athlete caught his foot on the hurdle.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03845A.mp3"
+    }
+  ]
+}

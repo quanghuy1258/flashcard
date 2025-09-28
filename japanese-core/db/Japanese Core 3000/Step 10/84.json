@@ -1,0 +1,18 @@
+{
+  "ja": "項目",
+  "hrkt": "こうもく",
+  "latn": "koumoku",
+  "en": "item, topic",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03440A.mp3",
+  "sentences": [
+    {
+      "ja": "論文の<b>項目</b>を分かりやすく整理したわ。",
+      "hrkt": "ろんぶん の <b>こうもく</b> を わかりやすく せいり した わ。",
+      "latn": "ronbun no <b>koumoku</b> wo wakariyasuku seiri shita wa.",
+      "en": "I arranged the topics of my thesis to make it easy to understand.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e5cbeq956o.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03440A.mp3"
+    }
+  ]
+}

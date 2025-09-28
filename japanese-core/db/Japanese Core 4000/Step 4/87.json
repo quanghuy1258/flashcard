@@ -1,0 +1,18 @@
+{
+  "ja": "柱",
+  "hrkt": "はしら",
+  "latn": "hashira",
+  "en": "pillar, column",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07308A.mp3",
+  "sentences": [
+    {
+      "ja": "この家の<b>柱</b>は太い。",
+      "hrkt": "この いえ の <b>はしら</b> は ふとい。",
+      "latn": "kono ie no <b>hashira</b> ha futoi.",
+      "en": "The pillars in this house are thick.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07308A.mp3"
+    }
+  ]
+}

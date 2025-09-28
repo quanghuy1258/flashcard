@@ -1,0 +1,26 @@
+{
+  "ja": "並ぶ",
+  "hrkt": "ならぶ",
+  "latn": "narabu",
+  "en": "line up, be parallel",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06746A.mp3",
+  "sentences": [
+    {
+      "ja": "ここに<b>並んで</b>ください。",
+      "hrkt": "ここ に <b>ならんで</b> ください。",
+      "latn": "koko ni <b>narande</b> kudasai.",
+      "en": "Please line up here.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3933518.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06746A.mp3"
+    },
+    {
+      "ja": "テーブルの上にごちそうが<b>並んで</b>いる。",
+      "hrkt": "テーブル の うえ に ごちそう が <b>ならんで</b> いる。",
+      "latn": "te-buru no ue ni gochisou ga <b>narande</b> iru.",
+      "en": "There are some delicious treats lined up on the table.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4149383.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03135A.mp3"
+    }
+  ]
+}

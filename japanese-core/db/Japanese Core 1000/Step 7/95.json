@@ -1,0 +1,26 @@
+{
+  "ja": "会議",
+  "hrkt": "かいぎ",
+  "latn": "kaigi",
+  "en": "conference, meeting",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01336A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の午後、大事な<b>会議</b>があります。",
+      "hrkt": "きょう の ごご、だいじな <b>かいぎ</b> が あります。",
+      "latn": "kyou no gogo,daijina <b>kaigi</b> ga arimasu.",
+      "en": "There's an important meeting this afternoon.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4868416.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01336A.mp3"
+    },
+    {
+      "ja": "火曜日に<b>会議</b>があります。",
+      "hrkt": "かようび に <b>かいぎ</b> が あります。",
+      "latn": "kayoubi ni <b>kaigi</b> ga arimasu.",
+      "en": "There's a meeting on Tuesday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/527430.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01793A.mp3"
+    }
+  ]
+}

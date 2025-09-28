@@ -1,0 +1,26 @@
+{
+  "ja": "頭",
+  "hrkt": "あたま",
+  "latn": "atama",
+  "en": "head",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00146A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝から<b>頭</b>が痛い。",
+      "hrkt": "けさ から <b>あたま</b> が いたい。",
+      "latn": "kesa kara <b>atama</b> ga itai.",
+      "en": "I've had a headache since this morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2925678.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00146A.mp3"
+    },
+    {
+      "ja": "彼はすごく<b>頭</b>がいいです。",
+      "hrkt": "かれ は すごく <b>あたま</b> が いい です。",
+      "latn": "kare ha sugoku <b>atama</b> ga ii desu.",
+      "en": "He is very smart.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/75aodd6bho.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "本能",
+  "hrkt": "ほんのう",
+  "latn": "honnou",
+  "en": "instinct",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02076A.mp3",
+  "sentences": [
+    {
+      "ja": "動物は<b>本能</b>のまま動くね。",
+      "hrkt": "どうぶつ は <b>ほんのう</b> の まま うごく ね。",
+      "latn": "doubutsu ha <b>honnou</b> no mama ugoku ne.",
+      "en": "Animals act purely on instinct.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02076A.mp3"
+    }
+  ]
+}

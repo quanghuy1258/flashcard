@@ -1,0 +1,26 @@
+{
+  "ja": "ステレオ",
+  "hrkt": "ステレオ",
+  "latn": "sutereo",
+  "en": "stereo",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04591A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>ステレオ</b>で音楽を聞いた。",
+      "hrkt": "かれ は <b>ステレオ</b> で おんがく を きいた。",
+      "latn": "kare ha <b>sutereo</b> de ongaku wo kiita.",
+      "en": "He listened to music on the stereo.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5831077.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04591A.mp3"
+    },
+    {
+      "ja": "この<b>ステレオ</b>は音がとてもいいです。",
+      "hrkt": "この <b>ステレオ</b> は おと が とても いい です。",
+      "latn": "kono <b>sutereo</b> ha oto ga totemo ii desu.",
+      "en": "The sound of this stereo is very good.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f4ei329ld8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "剝げる",
+  "hrkt": "はげる",
+  "latn": "hageru",
+  "en": "come off, peel off",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02989A.mp3",
+  "sentences": [
+    {
+      "ja": "壁のペンキが<b>剝げて</b>きたな。",
+      "hrkt": "かべ の ペンキ が <b>はげて</b> きた な。",
+      "latn": "kabe no penki ga <b>hagete</b> kita na.",
+      "en": "The paint on the wall is peeling off.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02989A.mp3"
+    }
+  ]
+}

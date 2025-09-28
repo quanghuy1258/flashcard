@@ -1,0 +1,18 @@
+{
+  "ja": "男性",
+  "hrkt": "だんせい",
+  "latn": "dansei",
+  "en": "male, man",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00150A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は素敵な<b>男性</b>です。",
+      "hrkt": "かれ は すてきな <b>だんせい</b> です。",
+      "latn": "kare ha sutekina <b>dansei</b> desu.",
+      "en": "He's a wonderful man.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/14904dftvk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00150A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "切れる",
+  "hrkt": "きれる",
+  "latn": "kireru",
+  "en": "cut well, be sharp",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02338A.mp3",
+  "sentences": [
+    {
+      "ja": "このはさみはよく<b>切れます</b>ね。",
+      "hrkt": "この はさみ は よく <b>きれます</b> ね。",
+      "latn": "kono hasami ha yoku <b>kiremasu</b> ne.",
+      "en": "These scissors cut well.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5509036.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02338A.mp3"
+    },
+    {
+      "ja": "このナイフはあまり<b>切れません</b>。",
+      "hrkt": "この ナイフ は あまり <b>きれません</b>。",
+      "latn": "kono naifu ha amari <b>kiremasen</b>.",
+      "en": "This knife doesn't cut well.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/74533s82jo.mp3"
+    }
+  ]
+}

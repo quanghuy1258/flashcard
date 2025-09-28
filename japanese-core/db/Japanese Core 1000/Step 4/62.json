@@ -1,0 +1,26 @@
+{
+  "ja": "方",
+  "hrkt": "ほう",
+  "latn": "hou",
+  "en": "direction, side",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08386A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は私の<b>方</b>を見ました。",
+      "hrkt": "かれ は わたし の <b>ほう</b> を みました。",
+      "latn": "kare ha watashi no <b>hou</b> wo mimashita.",
+      "en": "He looked at me.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6530448.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08386A.mp3"
+    },
+    {
+      "ja": "ネコが窓の<b>方</b>を見ている。",
+      "hrkt": "ネコ が まど の <b>ほう</b> を みて いる。",
+      "latn": "neko ga mado no <b>hou</b> wo mite iru.",
+      "en": "The cat is looking in the direction of the window.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/166ba2ej2g.mp3"
+    }
+  ]
+}

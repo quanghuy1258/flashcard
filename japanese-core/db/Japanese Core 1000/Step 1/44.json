@@ -1,0 +1,26 @@
+{
+  "ja": "終わる",
+  "hrkt": "おわる",
+  "latn": "owaru",
+  "en": "finish, end",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01270A.mp3",
+  "sentences": [
+    {
+      "ja": "会議は4時に<b>終わります</b>。",
+      "hrkt": "かいぎ は 4 じ に <b>おわります</b>。",
+      "latn": "kaigi ha 4 ji ni <b>owarimasu</b>.",
+      "en": "The conference ends at four o'clock.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5390881.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01270A.mp3"
+    },
+    {
+      "ja": "やっと仕事が<b>終わりました</b>。",
+      "hrkt": "やっと しごと が <b>おわりました</b>。",
+      "latn": "yatto shigoto ga <b>owarimashita</b>.",
+      "en": "Finally, I finished my work.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6368571.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09426A.mp3"
+    }
+  ]
+}

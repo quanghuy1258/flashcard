@@ -1,0 +1,26 @@
+{
+  "ja": "合う",
+  "hrkt": "あう",
+  "latn": "au",
+  "en": "fit, match",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00028A.mp3",
+  "sentences": [
+    {
+      "ja": "この靴は私の足に<b>合って</b>いる。",
+      "hrkt": "この くつ は わたし の あし に <b>あって</b> いる。",
+      "latn": "kono kutsu ha watashi no ashi ni <b>atte</b> iru.",
+      "en": "These shoes fit me.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5653888.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00028A.mp3"
+    },
+    {
+      "ja": "焼き鳥はビールに<b>合う</b>な。",
+      "hrkt": "やきとり は ビール に <b>あう</b> な。",
+      "latn": "yakitori ha bi-ru ni <b>au</b> na.",
+      "en": "Yakitori goes well with beer.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/f4c8cb1glk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03177A.mp3"
+    }
+  ]
+}

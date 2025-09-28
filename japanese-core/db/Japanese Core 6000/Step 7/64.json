@@ -1,0 +1,18 @@
+{
+  "ja": "早退",
+  "hrkt": "そうたい",
+  "latn": "soutai",
+  "en": "leaving earlier than usual",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03360A.mp3",
+  "sentences": [
+    {
+      "ja": "具合が悪かったので仕事を<b>早退</b>しました。",
+      "hrkt": "ぐあい が わるかった ので しごと を <b>そうたい</b> しました。",
+      "latn": "guai ga warukatta node shigoto wo <b>soutai</b> shimashita.",
+      "en": "I wasn't feeling well, so I left work earlier than usual.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03360A.mp3"
+    }
+  ]
+}

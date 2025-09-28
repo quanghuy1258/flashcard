@@ -1,0 +1,18 @@
+{
+  "ja": "微笑む",
+  "hrkt": "ほほえむ",
+  "latn": "hohoemu",
+  "en": "smile",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03877A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は私に<b>微笑んだ</b>よ。",
+      "hrkt": "かのじょ は わたし に <b>ほほえんだ</b> よ。",
+      "latn": "kanojo ha watashi ni <b>hohoenda</b> yo.",
+      "en": "She smiled at me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03877A.mp3"
+    }
+  ]
+}

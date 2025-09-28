@@ -1,0 +1,18 @@
+{
+  "ja": "自習",
+  "hrkt": "じしゅう",
+  "latn": "jishuu",
+  "en": "self-study",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03682A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は<b>自習</b>の時間がある。",
+      "hrkt": "あす は <b>じしゅう</b> の じかん が ある。",
+      "latn": "asu ha <b>jishuu</b> no jikan ga aru.",
+      "en": "I have study time tomorrow.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03682A.mp3"
+    }
+  ]
+}

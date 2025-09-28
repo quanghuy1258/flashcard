@@ -1,0 +1,18 @@
+{
+  "ja": "船便",
+  "hrkt": "ふなびん",
+  "latn": "funabin",
+  "en": "surface mail, shipping service",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08134A.mp3",
+  "sentences": [
+    {
+      "ja": "アメリカの友人から<b>船便</b>が届いた。",
+      "hrkt": "アメリカ の ゆうじん から <b>ふなびん</b> が とどいた。",
+      "latn": "amerika no yuujin kara <b>funabin</b> ga todoita.",
+      "en": "Something arrived by surface mail from my friend in America.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/236fem60j0.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08134A.mp3"
+    }
+  ]
+}

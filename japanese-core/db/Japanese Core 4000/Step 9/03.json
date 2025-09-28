@@ -1,0 +1,18 @@
+{
+  "ja": "攻める",
+  "hrkt": "せめる",
+  "latn": "semeru",
+  "en": "make an attack, assault",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02069A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は積極的に<b>攻めた</b>が勝てなかったな。",
+      "hrkt": "かれ は せっきょくてきに <b>せめた</b> が かてなかった な。",
+      "latn": "kare ha sekkyokutekini <b>semeta</b> ga katenakatta na.",
+      "en": "He put up a good attack but couldn't win.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02069A.mp3"
+    }
+  ]
+}

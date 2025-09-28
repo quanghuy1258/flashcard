@@ -1,0 +1,18 @@
+{
+  "ja": "包み",
+  "hrkt": "つつみ",
+  "latn": "tsutsumi",
+  "en": "package, parcel",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03741A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>包み</b>は誰のですか。",
+      "hrkt": "この <b>つつみ</b> は だれ の です か。",
+      "latn": "kono <b>tsutsumi</b> ha dare no desu ka.",
+      "en": "Whose parcel is this?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03741A.mp3"
+    }
+  ]
+}

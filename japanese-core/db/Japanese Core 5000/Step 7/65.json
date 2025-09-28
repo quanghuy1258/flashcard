@@ -1,0 +1,18 @@
+{
+  "ja": "飲料水",
+  "hrkt": "いんりょうすい",
+  "latn": "inryousui",
+  "en": "drinking water (formal)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02470A.mp3",
+  "sentences": [
+    {
+      "ja": "被災地では<b>飲料水</b>が不足しているの。",
+      "hrkt": "ひさい ち で は <b>いんりょうすい</b> が ふそく して いる の。",
+      "latn": "hisai chi de ha <b>inryousui</b> ga fusoku shite iru no.",
+      "en": "Drinking water is lacking in the disaster area.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02470A.mp3"
+    }
+  ]
+}

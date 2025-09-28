@@ -1,0 +1,18 @@
+{
+  "ja": "棒",
+  "hrkt": "ぼう",
+  "latn": "bou",
+  "en": "stick",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01518A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>棒</b>は何に使うのですか。",
+      "hrkt": "この <b>ぼう</b> は なに に つかう の です か。",
+      "latn": "kono <b>bou</b> ha nani ni tsukau no desu ka.",
+      "en": "What do you use this stick for?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01518A.mp3"
+    }
+  ]
+}

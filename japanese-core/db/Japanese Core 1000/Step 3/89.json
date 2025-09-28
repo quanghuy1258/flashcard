@@ -1,0 +1,26 @@
+{
+  "ja": "四",
+  "hrkt": "よん",
+  "latn": "yon",
+  "en": "four (Japanese origin)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09760A.mp3",
+  "sentences": [
+    {
+      "ja": "ハワイは<b>四</b>回目です。",
+      "hrkt": "ハワイ は <b>よん</b> かい め です。",
+      "latn": "hawai ha <b>yon</b> kai me desu.",
+      "en": "This is my fourth trip to Hawaii.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3544497.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09760A.mp3"
+    },
+    {
+      "ja": "パーティーがあるので、ワインを<b>四</b>本買いました。",
+      "hrkt": "パーティー が ある ので 、 ワイン を <b>よん</b> ほん かいました。",
+      "latn": "pa-ti- ga aru node , wain wo <b>yon</b> hon kaimashita.",
+      "en": "Because we are having a party, we bought four bottles of wine.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e14o68c278.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "割り込む",
+  "hrkt": "わりこむ",
+  "latn": "warikomu",
+  "en": "cut in",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02712A.mp3",
+  "sentences": [
+    {
+      "ja": "車が前に<b>割り込んで</b>きた。",
+      "hrkt": "くるま が まえ に <b>わりこんで</b> きた。",
+      "latn": "kuruma ga mae ni <b>warikonde</b> kita.",
+      "en": "A car cut in front of me.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02712A.mp3"
+    }
+  ]
+}

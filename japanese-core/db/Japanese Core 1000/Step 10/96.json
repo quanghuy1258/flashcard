@@ -1,0 +1,26 @@
+{
+  "ja": "踊る",
+  "hrkt": "おどる",
+  "latn": "odoru",
+  "en": "dance",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01154A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はクラブで<b>踊る</b>のが好きです。",
+      "hrkt": "かのじょ は クラブ で <b>おどる</b> の が すき です。",
+      "latn": "kanojo ha kurabu de <b>odoru</b> no ga suki desu.",
+      "en": "She likes to dance at a club.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3869344.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01154A.mp3"
+    },
+    {
+      "ja": "若者が道で<b>踊って</b>いる。",
+      "hrkt": "わかもの が みち で <b>おどって</b> いる。",
+      "latn": "wakamono ga michi de <b>odotte</b> iru.",
+      "en": "Young people are dancing on the street.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a5aafd7514.mp3"
+    }
+  ]
+}

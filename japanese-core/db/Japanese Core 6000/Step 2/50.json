@@ -1,0 +1,18 @@
+{
+  "ja": "入浴",
+  "hrkt": "にゅうよく",
+  "latn": "nyuuyoku",
+  "en": "taking a bath",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02282A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎日寝る前に<b>入浴</b>します。",
+      "hrkt": "わたし は まいにち ねる まえ に <b>にゅうよく</b> します。",
+      "latn": "watashi ha mainichi neru mae ni <b>nyuuyoku</b> shimasu.",
+      "en": "I take a bath every day before I go to bed.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02282A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "どちら",
+  "hrkt": "どちら",
+  "latn": "dochira",
+  "en": "which (polite)",
+  "pos": "Interrogative",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06450A.mp3",
+  "sentences": [
+    {
+      "ja": "肉と魚と<b>どちら</b>が好きですか。",
+      "hrkt": "にく と さかな と <b>どちら</b> が すき です か。",
+      "latn": "niku to sakana to <b>dochira</b> ga suki desu ka.",
+      "en": "Which do you prefer, meat or fish?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4268469.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06450A.mp3"
+    },
+    {
+      "ja": "コーヒーと紅茶、<b>どちら</b>にしますか。",
+      "hrkt": "コーヒー と こうちゃ、<b>どちら</b> に します か。",
+      "latn": "ko-hi- to koucha,<b>dochira</b> ni shimasu ka.",
+      "en": "Which would you like, coffee or tea?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/55dl9q50b4.mp3"
+    }
+  ]
+}

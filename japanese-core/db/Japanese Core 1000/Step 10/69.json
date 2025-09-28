@@ -1,0 +1,26 @@
+{
+  "ja": "初め",
+  "hrkt": "はじめ",
+  "latn": "hajime",
+  "en": "first, beginning (in terms of time passage)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07299A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>初め</b>は上手くできませんでした。",
+      "hrkt": "<b>はじめ</b> は うまく できません でした。",
+      "latn": "<b>hajime</b> ha umaku dekimasen deshita.",
+      "en": "I couldn't do it well at first.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4827121.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07299A.mp3"
+    },
+    {
+      "ja": "私は<b>初め</b>は自分の仕事が好きではありませんでした。",
+      "hrkt": "わたし は <b>はじめ</b> は じぶん の しごと が すき で は ありません でした。",
+      "latn": "watashi ha <b>hajime</b> ha jibun no shigoto ga suki de ha arimasen deshita.",
+      "en": "I didn't like my job in the beginning.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/12cueb1c0k.mp3"
+    }
+  ]
+}

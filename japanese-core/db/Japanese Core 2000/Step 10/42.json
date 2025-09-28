@@ -1,0 +1,26 @@
+{
+  "ja": "表現",
+  "hrkt": "ひょうげん",
+  "latn": "hyougen",
+  "en": "expression",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07852A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は歌で自分の気持ちを<b>表現</b>した。",
+      "hrkt": "かれ は うた で じぶん の きもち を <b>ひょうげん</b> した。",
+      "latn": "kare ha uta de jibun no kimochi wo <b>hyougen</b> shita.",
+      "en": "He expressed his feelings in a song.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4204150.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07852A.mp3"
+    },
+    {
+      "ja": "今の気持ちにぴったりの<b>表現</b>が見つかりません。",
+      "hrkt": "いま の きもち に ぴったり の <b>ひょうげん</b> が みつかりません。",
+      "latn": "ima no kimochi ni pittari no <b>hyougen</b> ga mitsukarimasen.",
+      "en": "I can't find a fitting expression for my current feeling.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d54gdbe7ho.mp3"
+    }
+  ]
+}

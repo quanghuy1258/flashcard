@@ -1,0 +1,18 @@
+{
+  "ja": "道順",
+  "hrkt": "みちじゅん",
+  "latn": "michijun",
+  "en": "route, directions",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03321A.mp3",
+  "sentences": [
+    {
+      "ja": "家から学校までの<b>道順</b>を教えてください。",
+      "hrkt": "いえ から がっこう まで の <b>みちじゅん</b> を おしえて ください。",
+      "latn": "ie kara gakkou made no <b>michijun</b> wo oshiete kudasai.",
+      "en": "Please tell me the route from your house to the school.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03321A.mp3"
+    }
+  ]
+}

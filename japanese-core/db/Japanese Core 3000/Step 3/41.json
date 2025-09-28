@@ -1,0 +1,18 @@
+{
+  "ja": "ファン",
+  "hrkt": "ファン",
+  "latn": "fan",
+  "en": "fan, admirer",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00700A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大のサッカー<b>ファン</b>です。",
+      "hrkt": "かれ は だい の サッカー <b>ファン</b> です。",
+      "latn": "kare ha dai no sakka- <b>fan</b> desu.",
+      "en": "He's a huge soccer fan.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a51l9c3s2c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00700A.mp3"
+    }
+  ]
+}

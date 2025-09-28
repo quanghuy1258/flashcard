@@ -1,0 +1,26 @@
+{
+  "ja": "映画",
+  "hrkt": "えいが",
+  "latn": "eiga",
+  "en": "movie",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00836A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はよく<b>映画</b>を見ます。",
+      "hrkt": "かれ は よく <b>えいが</b> を みます。",
+      "latn": "kare ha yoku <b>eiga</b> wo mimasu.",
+      "en": "He watches movies a lot.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4386493.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00836A.mp3"
+    },
+    {
+      "ja": "仕事のあと、<b>映画</b>を見た。",
+      "hrkt": "しごと の あと、 <b>えいが</b> を みた。",
+      "latn": "shigoto no ato, <b>eiga</b> wo mita.",
+      "en": "I saw a movie after work.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4302585.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00187A.mp3"
+    }
+  ]
+}

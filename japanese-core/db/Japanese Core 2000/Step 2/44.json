@@ -1,0 +1,26 @@
+{
+  "ja": "習う",
+  "hrkt": "ならう",
+  "latn": "narau",
+  "en": "learn, take lessons",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06740A.mp3",
+  "sentences": [
+    {
+      "ja": "私はダンスを<b>習って</b>います。",
+      "hrkt": "わたし は ダンス を <b>ならって</b> います。",
+      "latn": "watashi ha dansu wo <b>naratte</b> imasu.",
+      "en": "I'm learning how to dance.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5590506.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06740A.mp3"
+    },
+    {
+      "ja": "昔、ピアノを<b>習って</b>いました。",
+      "hrkt": "むかし 、 ピアノ を <b>ならって</b> いました 。",
+      "latn": "mukashi , piano wo <b>naratte</b> imashita .",
+      "en": "I used to take piano lessons.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4151389.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07603A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "世紀",
+  "hrkt": "せいき",
+  "latn": "seiki",
+  "en": "century",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04676A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>世紀</b>の始まりです。",
+      "hrkt": "あたらしい <b>せいき</b> の はじまり です。",
+      "latn": "atarashii <b>seiki</b> no hajimari desu.",
+      "en": "It's the start of a new century.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4796780.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04676A.mp3"
+    },
+    {
+      "ja": "この建物は17<b>世紀</b>に建てられました。",
+      "hrkt": "この たてもの は 17 <b>せいき</b> に たてられました。",
+      "latn": "kono tatemono ha 17 <b>seiki</b> ni tateraremashita.",
+      "en": "This structure was built in the 17th century.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/638qc17nbg.mp3"
+    }
+  ]
+}

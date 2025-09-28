@@ -1,0 +1,18 @@
+{
+  "ja": "境界",
+  "hrkt": "きょうかい",
+  "latn": "kyoukai",
+  "en": "boundary, border",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01538A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは隣の市との<b>境界</b>です。",
+      "hrkt": "ここ は となり の し と の <b>きょうかい</b> です。",
+      "latn": "koko ha tonari no shi to no <b>kyoukai</b> desu.",
+      "en": "This is the border with the neighboring city.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01538A.mp3"
+    }
+  ]
+}

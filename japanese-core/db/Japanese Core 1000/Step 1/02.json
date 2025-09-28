@@ -1,0 +1,26 @@
+{
+  "ja": "多い",
+  "hrkt": "おおい",
+  "latn": "ooi",
+  "en": "a lot of, many",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00964A.mp3",
+  "sentences": [
+    {
+      "ja": "京都にはお寺が<b>多い</b>。",
+      "hrkt": "きょうと に は おてら が <b>おおい</b>。",
+      "latn": "kyouto ni ha otera ga <b>ooi</b>.",
+      "en": "There are a lot of temples in Kyoto.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4873535.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00964A.mp3"
+    },
+    {
+      "ja": "この道は車が<b>多い</b>。",
+      "hrkt": "この みち は くるま が <b>おおい</b>。",
+      "latn": "kono michi ha kuruma ga <b>ooi</b>.",
+      "en": "There are many cars on this road.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2912826.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02552A.mp3"
+    }
+  ]
+}

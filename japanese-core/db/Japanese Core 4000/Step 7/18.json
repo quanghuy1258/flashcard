@@ -1,0 +1,18 @@
+{
+  "ja": "照らす",
+  "hrkt": "てらす",
+  "latn": "terasu",
+  "en": "illuminate, shine on",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01442A.mp3",
+  "sentences": [
+    {
+      "ja": "月が庭を<b>照らして</b>いる。",
+      "hrkt": "つき が にわ を <b>てらして</b> いる。",
+      "latn": "tsuki ga niwa wo <b>terashite</b> iru.",
+      "en": "The moon is shining on the garden.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01442A.mp3"
+    }
+  ]
+}

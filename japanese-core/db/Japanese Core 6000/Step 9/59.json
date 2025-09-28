@@ -1,0 +1,18 @@
+{
+  "ja": "額",
+  "hrkt": "がく",
+  "latn": "gaku",
+  "en": "picture frame",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00094A.mp3",
+  "sentences": [
+    {
+      "ja": "写真を<b>額</b>に入れて飾ったんだ。",
+      "hrkt": "しゃしん を <b>がく</b> に いれて かざった ん だ。",
+      "latn": "shashin wo <b>gaku</b> ni irete kazatta n da.",
+      "en": "I put the photo in a frame and hung it.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00094A.mp3"
+    }
+  ]
+}

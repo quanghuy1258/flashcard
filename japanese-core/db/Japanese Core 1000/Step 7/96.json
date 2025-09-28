@@ -1,0 +1,26 @@
+{
+  "ja": "提案",
+  "hrkt": "ていあん",
+  "latn": "teian",
+  "en": "suggestion, proposal",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05982A.mp3",
+  "sentences": [
+    {
+      "ja": "そのアイデアは彼の<b>提案</b>です。",
+      "hrkt": "その アイデア は かれ の <b>ていあん</b> です。",
+      "latn": "sono aidea ha kare no <b>teian</b> desu.",
+      "en": "The idea is his suggestion.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3936884.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05982A.mp3"
+    },
+    {
+      "ja": "今度のイベントについて、彼がいい<b>提案</b>をした。",
+      "hrkt": "こんど の イベント について、かれ が いい <b>ていあん</b> を した。",
+      "latn": "kondo no ibento nitsuite,kare ga ii <b>teian</b> wo shita.",
+      "en": "He made a good suggestion about the upcoming event.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/14691aeaks.mp3"
+    }
+  ]
+}

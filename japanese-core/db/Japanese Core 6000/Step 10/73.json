@@ -1,0 +1,18 @@
+{
+  "ja": "開き",
+  "hrkt": "あき",
+  "latn": "aki",
+  "en": "opening",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03506A.mp3",
+  "sentences": [
+    {
+      "ja": "このブラウスは後ろ<b>開き</b>です。",
+      "hrkt": "この ブラウス は うしろ <b>あき</b> です。",
+      "latn": "kono burausu ha ushiro <b>aki</b> desu.",
+      "en": "This blouse opens from the back.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03506A.mp3"
+    }
+  ]
+}

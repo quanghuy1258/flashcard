@@ -1,0 +1,18 @@
+{
+  "ja": "下車",
+  "hrkt": "げしゃ",
+  "latn": "gesha",
+  "en": "getting off",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03211A.mp3",
+  "sentences": [
+    {
+      "ja": "景色が良かったので途中<b>下車</b>したよ。",
+      "hrkt": "けしき が よかった ので とちゅう <b>げしゃ</b> した よ。",
+      "latn": "keshiki ga yokatta node tochuu <b>gesha</b> shita yo.",
+      "en": "We got off on the way because the scenery was beautiful.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03211A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "雑誌",
+  "hrkt": "ざっし",
+  "latn": "zasshi",
+  "en": "magazine, journal",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03454A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>雑誌</b>はよく売れています。",
+      "hrkt": "この <b>ざっし</b> は よく うれて います。",
+      "latn": "kono <b>zasshi</b> ha yoku urete imasu.",
+      "en": "This magazine is selling well.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3574734.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03454A.mp3"
+    },
+    {
+      "ja": "彼女は<b>雑誌</b>を読んでいます。",
+      "hrkt": "かのじょ は <b>ざっし</b> を よんで います。",
+      "latn": "kanojo ha <b>zasshi</b> wo yonde imasu.",
+      "en": "She's reading a magazine.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4711471.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09728A.mp3"
+    }
+  ]
+}

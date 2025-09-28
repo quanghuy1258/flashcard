@@ -1,0 +1,26 @@
+{
+  "ja": "今年",
+  "hrkt": "ことし",
+  "latn": "kotoshi",
+  "en": "this year (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03165A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今年</b>はイタリアに旅行したい。",
+      "hrkt": "<b>ことし</b> は イタリア に りょこう したい。",
+      "latn": "<b>kotoshi</b> ha itaria ni ryokou shitai.",
+      "en": "I want to travel to Italy this year.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4169410.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03165A.mp3"
+    },
+    {
+      "ja": "<b>今年</b>は雨が少ないです。",
+      "hrkt": "<b>ことし</b> は あめ が すくない です。",
+      "latn": "<b>kotoshi</b> ha ame ga sukunai desu.",
+      "en": "There's not much rain this year.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4997333.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04547A.mp3"
+    }
+  ]
+}

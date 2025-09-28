@@ -1,0 +1,26 @@
+{
+  "ja": "出掛ける",
+  "hrkt": "でかける",
+  "latn": "dekakeru",
+  "en": "go out, leave home",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06034A.mp3",
+  "sentences": [
+    {
+      "ja": "主人はもう<b>出掛けました</b>。",
+      "hrkt": "しゅじん は もう <b>でかけました</b>。",
+      "latn": "shujin ha mou <b>dekakemashita</b>.",
+      "en": "My husband has already left home.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2488918.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06034A.mp3"
+    },
+    {
+      "ja": "週末、どこかへ<b>出掛けましょう</b>。",
+      "hrkt": "しゅうまつ、どこ か へ <b>でかけましょう</b>。",
+      "latn": "shuumatsu,doko ka he <b>dekakemashou</b>.",
+      "en": "Let's go out somewhere on the weekend.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b6beb500uo.mp3"
+    }
+  ]
+}

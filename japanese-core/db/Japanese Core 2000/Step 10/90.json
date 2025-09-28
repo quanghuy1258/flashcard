@@ -1,0 +1,26 @@
+{
+  "ja": "居間",
+  "hrkt": "いま",
+  "latn": "ima",
+  "en": "living room",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01560A.mp3",
+  "sentences": [
+    {
+      "ja": "父は<b>居間</b>でテレビを見ている。",
+      "hrkt": "ちち は <b>いま</b> で テレビ を みて いる。",
+      "latn": "chichi ha <b>ima</b> de terebi wo mite iru.",
+      "en": "My father is watching TV in the living room.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/dlbiad60rt2hc.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01560A.mp3"
+    },
+    {
+      "ja": "私は自分の部屋より<b>居間</b>にいる時間の方が長いです。",
+      "hrkt": "わたし は じぶん の へや より <b>いま</b> に いる じかん の ほう が ながい です。",
+      "latn": "watashi ha jibun no heya yori <b>ima</b> ni iru jikan no hou ga nagai desu.",
+      "en": "I stay in the living room longer than my room.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/059bdi963k.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "議題",
+  "hrkt": "ぎだい",
+  "latn": "gidai",
+  "en": "topic for discussion, agenda",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01526A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の<b>議題</b>は面白そうです。",
+      "hrkt": "きょう の <b>ぎだい</b> は おもしろ そうです。",
+      "latn": "kyou no <b>gidai</b> ha omoshiro soudesu.",
+      "en": "Today's agenda looks interesting.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01526A.mp3"
+    }
+  ]
+}

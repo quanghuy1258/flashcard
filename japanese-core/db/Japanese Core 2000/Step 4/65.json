@@ -1,0 +1,26 @@
+{
+  "ja": "方法",
+  "hrkt": "ほうほう",
+  "latn": "houhou",
+  "en": "method, procedure",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08455A.mp3",
+  "sentences": [
+    {
+      "ja": "いい<b>方法</b>を思いつきました。",
+      "hrkt": "いい <b>ほうほう</b> を おもいつきました。",
+      "latn": "ii <b>houhou</b> wo omoitsukimashita.",
+      "en": "We hit on a good method.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3305981.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08455A.mp3"
+    },
+    {
+      "ja": "他に<b>方法</b>がありません。",
+      "hrkt": "ほか に <b>ほうほう</b> が ありません。",
+      "latn": "hoka ni <b>houhou</b> ga arimasen.",
+      "en": "There's no other way.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2971056.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08480A.mp3"
+    }
+  ]
+}

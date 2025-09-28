@@ -1,0 +1,26 @@
+{
+  "ja": "姪",
+  "hrkt": "めい",
+  "latn": "mei",
+  "en": "niece",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09136A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>姪</b>は3才です。",
+      "hrkt": "わたし の <b>めい</b> は 3 さい です。",
+      "latn": "watashi no <b>mei</b> ha 3 sai desu.",
+      "en": "My niece is three years old.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3584004.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09136A.mp3"
+    },
+    {
+      "ja": "<b>姪</b>にクリスマスプレゼントを買いました。",
+      "hrkt": "<b>めい</b> に クリスマス プレゼント を かいました。",
+      "latn": "<b>mei</b> ni kurisumasu purezento wo kaimashita.",
+      "en": "I bought a Christmas present for my niece.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/538m33debk.mp3"
+    }
+  ]
+}

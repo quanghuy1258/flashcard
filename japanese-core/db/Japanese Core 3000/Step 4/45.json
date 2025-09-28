@@ -1,0 +1,18 @@
+{
+  "ja": "おごる",
+  "hrkt": "おごる",
+  "latn": "ogoru",
+  "en": "treat, pay for (someone)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02806A.mp3",
+  "sentences": [
+    {
+      "ja": "彼に食事を<b>おごって</b>もらった。",
+      "hrkt": "かれ に しょくじ を <b>おごって</b> もらった。",
+      "latn": "kare ni shokuji wo <b>ogotte</b> moratta.",
+      "en": "He treated me to a meal.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/33bg4aadmc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02806A.mp3"
+    }
+  ]
+}

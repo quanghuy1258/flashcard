@@ -1,0 +1,18 @@
+{
+  "ja": "駆け足",
+  "hrkt": "かけあし",
+  "latn": "kakeashi",
+  "en": "gallop, run",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03129A.mp3",
+  "sentences": [
+    {
+      "ja": "駅まで<b>駆け足</b>で行ったよ。",
+      "hrkt": "えき まで <b>かけあし</b> で いった よ。",
+      "latn": "eki made <b>kakeashi</b> de itta yo.",
+      "en": "I went to the station at a run.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03129A.mp3"
+    }
+  ]
+}

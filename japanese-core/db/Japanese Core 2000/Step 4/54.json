@@ -1,0 +1,26 @@
+{
+  "ja": "夕刊",
+  "hrkt": "ゆうかん",
+  "latn": "yuukan",
+  "en": "evening edition paper",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09485A.mp3",
+  "sentences": [
+    {
+      "ja": "そのニュースは<b>夕刊</b>で見ました。",
+      "hrkt": "その ニュース は <b>ゆうかん</b> で みました。",
+      "latn": "sono nyu-su ha <b>yuukan</b> de mimashita.",
+      "en": "I saw that news in the evening newspaper.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4396185.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09485A.mp3"
+    },
+    {
+      "ja": "<b>夕刊</b>は夕方5時ごろに来ます。",
+      "hrkt": "<b>ゆうかん</b> は ゆうがた 5 じ ごろ に きます。",
+      "latn": "<b>yuukan</b> ha yuugata 5 ji goro ni kimasu.",
+      "en": "The evening paper will come around 5 in the evening.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/513r2taguk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "今週",
+  "hrkt": "こんしゅう",
+  "latn": "konshuu",
+  "en": "this week",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03253A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今週</b>は日本語のテストがあります。",
+      "hrkt": "<b>こんしゅう</b> は にほん ご の テスト が あります。",
+      "latn": "<b>konshuu</b> ha nihon go no tesuto ga arimasu.",
+      "en": "We have a Japanese test this week.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3757783.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03253A.mp3"
+    },
+    {
+      "ja": "私は<b>今週</b>はあまり忙しくありません。",
+      "hrkt": "わたし は <b>こんしゅう</b> は あまり いそがしく ありません。",
+      "latn": "watashi ha <b>konshuu</b> ha amari isogashiku arimasen.",
+      "en": "I'm not very busy this week.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/619m768k0s.mp3"
+    }
+  ]
+}

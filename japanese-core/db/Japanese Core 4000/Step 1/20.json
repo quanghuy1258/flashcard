@@ -1,0 +1,18 @@
+{
+  "ja": "違反",
+  "hrkt": "いはん",
+  "latn": "ihan",
+  "en": "violation, breach",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00306A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は校則に<b>違反</b>しました。",
+      "hrkt": "かれ は こうそく に <b>いはん</b> しました。",
+      "latn": "kare ha kousoku ni <b>ihan</b> shimashita.",
+      "en": "He violated school regulations.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/945m9s63u4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00306A.mp3"
+    }
+  ]
+}

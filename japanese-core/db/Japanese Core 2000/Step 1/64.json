@@ -1,0 +1,26 @@
+{
+  "ja": "叩く",
+  "hrkt": "たたく",
+  "latn": "tataku",
+  "en": "tap, hit",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05352A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は子供のおしりを<b>叩いた</b>。",
+      "hrkt": "かれ は こども の おしり を <b>たたいた</b>。",
+      "latn": "kare ha kodomo no oshiri wo <b>tataita</b>.",
+      "en": "He slapped his child on his bottom.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5496729.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05352A.mp3"
+    },
+    {
+      "ja": "知らない人に肩を<b>叩かれました</b>。",
+      "hrkt": "しらない ひと に かた を <b>たたかれました</b>。",
+      "latn": "shiranai hito ni kata wo <b>tatakaremashita</b>.",
+      "en": "A stranger tapped my shoulder.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/74502c9pag.mp3"
+    }
+  ]
+}

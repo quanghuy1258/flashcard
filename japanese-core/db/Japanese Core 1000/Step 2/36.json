@@ -1,0 +1,26 @@
+{
+  "ja": "週",
+  "hrkt": "しゅう",
+  "latn": "shuu",
+  "en": "week",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03941A.mp3",
+  "sentences": [
+    {
+      "ja": "その次の<b>週</b>は空いてますか。",
+      "hrkt": "その つぎ の <b>しゅう</b> は あいて ます か。",
+      "latn": "sono tsugi no <b>shuu</b> ha aite masu ka.",
+      "en": "Will you be available the following week?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1736799.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03941A.mp3"
+    },
+    {
+      "ja": "私は<b>週</b>に1回、テニスをします。",
+      "hrkt": "わたし は <b>しゅう</b> に 1 かい、テニス を します。",
+      "latn": "watashi ha <b>shuu</b> ni 1 kai,tenisu wo shimasu.",
+      "en": "I play tennis once a week.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/5445cd7k6g.mp3"
+    }
+  ]
+}

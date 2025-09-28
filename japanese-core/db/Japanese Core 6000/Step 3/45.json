@@ -1,0 +1,18 @@
+{
+  "ja": "体格",
+  "hrkt": "たいかく",
+  "latn": "taikaku",
+  "en": "physique, build",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02330A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はとても<b>体格</b>がいいわ。",
+      "hrkt": "かれ は とても <b>たいかく</b> が いい わ。",
+      "latn": "kare ha totemo <b>taikaku</b> ga ii wa.",
+      "en": "He has a well-built body.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02330A.mp3"
+    }
+  ]
+}

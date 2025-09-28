@@ -1,0 +1,26 @@
+{
+  "ja": "燃やす",
+  "hrkt": "もやす",
+  "latn": "moyasu",
+  "en": "burn (something)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01537A.mp3",
+  "sentences": [
+    {
+      "ja": "古い手紙を<b>燃やした</b>んだ。",
+      "hrkt": "ふるい てがみ を <b>もやした</b> ん だ。",
+      "latn": "furui tegami wo <b>moyashita</b> n da.",
+      "en": "I burned some old letters.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/dlab6e4tencsk.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01537A.mp3"
+    },
+    {
+      "ja": "母は庭でごみを<b>燃やしました</b>。",
+      "hrkt": "はは は にわ で ごみ を <b>もやしました</b>。",
+      "latn": "haha ha niwa de gomi wo <b>moyashimashita</b>.",
+      "en": "My mother burned trash in the yard.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/631u5m4ol0.mp3"
+    }
+  ]
+}

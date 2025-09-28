@@ -1,0 +1,26 @@
+{
+  "ja": "手袋",
+  "hrkt": "てぶくろ",
+  "latn": "tebukuro",
+  "en": "gloves",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06114A.mp3",
+  "sentences": [
+    {
+      "ja": "寒いので<b>手袋</b>をしました。",
+      "hrkt": "さむい ので <b>てぶくろ</b> を しました。",
+      "latn": "samui node <b>tebukuro</b> wo shimashita.",
+      "en": "I wore gloves because it was cold.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4323309.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06114A.mp3"
+    },
+    {
+      "ja": "この<b>手袋</b>はとても暖かいですよ。",
+      "hrkt": "この <b>てぶくろ</b> は とても あたたかい です よ。",
+      "latn": "kono <b>tebukuro</b> ha totemo atatakai desu yo.",
+      "en": "These gloves are very warm.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/165d8ufj38.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "明治",
+  "hrkt": "めいじ",
+  "latn": "meiji",
+  "en": "Meiji era",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01261A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父は<b>明治</b>の生まれです。",
+      "hrkt": "そふ は <b>めいじ</b> の うまれ です。",
+      "latn": "sofu ha <b>meiji</b> no umare desu.",
+      "en": "My grandfather was born in the Meiji era.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01261A.mp3"
+    }
+  ]
+}

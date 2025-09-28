@@ -1,0 +1,18 @@
+{
+  "ja": "添える",
+  "hrkt": "そえる",
+  "latn": "soeru",
+  "en": "add, attach",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01546A.mp3",
+  "sentences": [
+    {
+      "ja": "贈り物に手書きのカードを<b>添えました</b>。",
+      "hrkt": "おくりもの に てがき の カード を <b>そえました</b>。",
+      "latn": "okurimono ni tegaki no ka-do wo <b>soemashita</b>.",
+      "en": "I attached a hand-written card to the gift.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01546A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "年始",
+  "hrkt": "ねんし",
+  "latn": "nenshi",
+  "en": "beginning of the year",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03244A.mp3",
+  "sentences": [
+    {
+      "ja": "部下の方が<b>年始</b>の挨拶に見えましたよ。",
+      "hrkt": "ぶか の かた が <b>ねんし</b> の あいさつ に みえました よ。",
+      "latn": "buka no kata ga <b>nenshi</b> no aisatsu ni miemashita yo.",
+      "en": "Your subordinate came to give you New Year's greetings.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03244A.mp3"
+    }
+  ]
+}

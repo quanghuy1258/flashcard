@@ -1,0 +1,26 @@
+{
+  "ja": "弱い",
+  "hrkt": "よわい",
+  "latn": "yowai",
+  "en": "weak",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09752A.mp3",
+  "sentences": [
+    {
+      "ja": "その子は体が少し<b>弱い</b>。",
+      "hrkt": "その こ は からだ が すこし <b>よわい</b>。",
+      "latn": "sono ko ha karada ga sukoshi <b>yowai</b>.",
+      "en": "That child has a somewhat weak constitution.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/677852.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09752A.mp3"
+    },
+    {
+      "ja": "そのチームは<b>弱かった</b>です。",
+      "hrkt": "その チーム は <b>よわかった</b> です。",
+      "latn": "sono chi-mu ha <b>yowakatta</b> desu.",
+      "en": "The team was weak.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/948hcj747s.mp3"
+    }
+  ]
+}

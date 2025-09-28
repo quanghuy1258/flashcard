@@ -1,0 +1,26 @@
+{
+  "ja": "忘れ物",
+  "hrkt": "わすれもの",
+  "latn": "wasuremono",
+  "en": "something left behind, lost item",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW10040A.mp3",
+  "sentences": [
+    {
+      "ja": "学校に<b>忘れ物</b>をしました。",
+      "hrkt": "がっこう に <b>わすれもの</b> を しました。",
+      "latn": "gakkou ni <b>wasuremono</b> wo shimashita.",
+      "en": "I left something behind at school.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/727213.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS10040A.mp3"
+    },
+    {
+      "ja": "うちの子は<b>忘れ物</b>が多いです。",
+      "hrkt": "うち の こ は <b>わすれもの</b> が おおい です。",
+      "latn": "uchi no ko ha <b>wasuremono</b> ga ooi desu.",
+      "en": "My child often forgets to take things (to school).",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b3ddfian00.mp3"
+    }
+  ]
+}

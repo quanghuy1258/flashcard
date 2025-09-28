@@ -1,0 +1,18 @@
+{
+  "ja": "等しい",
+  "hrkt": "ひとしい",
+  "latn": "hitoshii",
+  "en": "equal, same",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01090A.mp3",
+  "sentences": [
+    {
+      "ja": "私は株の知識がないに<b>等しい</b>です。",
+      "hrkt": "わたし は かぶ の ちしき が ない に <b>ひとしい</b> です。",
+      "latn": "watashi ha kabu no chishiki ga nai ni <b>hitoshii</b> desu.",
+      "en": "I have almost no knowledge of stocks.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01090A.mp3"
+    }
+  ]
+}

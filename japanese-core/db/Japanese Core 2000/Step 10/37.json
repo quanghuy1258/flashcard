@@ -1,0 +1,26 @@
+{
+  "ja": "価格",
+  "hrkt": "かかく",
+  "latn": "kakaku",
+  "en": "price, value",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01454A.mp3",
+  "sentences": [
+    {
+      "ja": "ガソリンの<b>価格</b>がどんどん上がっている。",
+      "hrkt": "ガソリン の <b>かかく</b> が どんどん あがって いる。",
+      "latn": "gasorin no <b>kakaku</b> ga dondon agatte iru.",
+      "en": "The price of gasoline keeps going up fast.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5331078.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01454A.mp3"
+    },
+    {
+      "ja": "この地域は土地の<b>価格</b>が下がっています。",
+      "hrkt": "この ちいき は とち の <b>かかく</b> が さがって います。",
+      "latn": "kono chiiki ha tochi no <b>kakaku</b> ga sagatte imasu.",
+      "en": "The price of land in this area is going down.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/44bi4h92fk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "基本",
+  "hrkt": "きほん",
+  "latn": "kihon",
+  "en": "basics",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02148A.mp3",
+  "sentences": [
+    {
+      "ja": "今、ジャズダンスの<b>基本</b>を習っています。",
+      "hrkt": "いま、ジャズ ダンス の <b>きほん</b> を ならって います。",
+      "latn": "ima,jazu dansu no <b>kihon</b> wo naratte imasu.",
+      "en": "We're learning the basics of jazz dance right now.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5523875.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02148A.mp3"
+    },
+    {
+      "ja": "彼はサッカーの<b>基本</b>を知らない。",
+      "hrkt": "かれ は サッカー の <b>きほん</b> を しらない。",
+      "latn": "kare ha sakka- no <b>kihon</b> wo shiranai.",
+      "en": "He doesn't know the basics of soccer.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/434v2h04sk.mp3"
+    }
+  ]
+}

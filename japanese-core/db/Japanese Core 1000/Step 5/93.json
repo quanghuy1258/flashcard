@@ -1,0 +1,26 @@
+{
+  "ja": "目覚まし時計",
+  "hrkt": "めざましどけい",
+  "latn": "mezamashidokei",
+  "en": "alarm clock",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09190A.mp3",
+  "sentences": [
+    {
+      "ja": "7時に<b>目覚まし時計</b>が鳴りました。",
+      "hrkt": "7 じ に <b>めざましどけい</b> が なりました。",
+      "latn": "7 ji ni <b>mezamashidokei</b> ga narimashita.",
+      "en": "The alarm clock went off at seven o'clock.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3811818.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09190A.mp3"
+    },
+    {
+      "ja": "<b>目覚まし時計</b>を6時にセットした。",
+      "hrkt": "<b>めざまし どけい</b> を 6 じ に セット した。",
+      "latn": "<b>mezamashi dokei</b> wo 6 ji ni setto shita.",
+      "en": "I set my alarm clock at six.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/75efbs473c.mp3"
+    }
+  ]
+}

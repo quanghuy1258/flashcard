@@ -1,0 +1,18 @@
+{
+  "ja": "間",
+  "hrkt": "ま",
+  "latn": "ma",
+  "en": "interval, time (in between)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03882A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は少し<b>間</b>を置いてから返事した。",
+      "hrkt": "かれ は すこし <b>ま</b> を おいて から へんじ した。",
+      "latn": "kare ha sukoshi <b>ma</b> wo oite kara henji shita.",
+      "en": "He responded after a short pause.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03882A.mp3"
+    }
+  ]
+}

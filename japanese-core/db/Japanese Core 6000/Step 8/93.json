@@ -1,0 +1,18 @@
+{
+  "ja": "小売店",
+  "hrkt": "こうりてん",
+  "latn": "kouriten",
+  "en": "retail store, outlet",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03505A.mp3",
+  "sentences": [
+    {
+      "ja": "この商品は<b>小売店</b>でも買えます。",
+      "hrkt": "この しょうひん は <b>こうり てん</b> で も かえます。",
+      "latn": "kono shouhin ha <b>kouri ten</b> de mo kaemasu.",
+      "en": "This product can also be purchased at retail stores.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03505A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "変える",
+  "hrkt": "かえる",
+  "latn": "kaeru",
+  "en": "change (something), alter",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02177A.mp3",
+  "sentences": [
+    {
+      "ja": "旅行の日程を<b>変えました</b>。",
+      "hrkt": "りょこう の にってい を <b>かえました</b>。",
+      "latn": "ryokou no nittei wo <b>kaemashita</b>.",
+      "en": "I changed my travel schedule.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5230367.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01438A.mp3"
+    },
+    {
+      "ja": "テレビのチャンネルを<b>変えて</b>ください。",
+      "hrkt": "テレビ の チャンネル を <b>かえて</b> ください。",
+      "latn": "terebi no channeru wo <b>kaete</b> kudasai.",
+      "en": "Please change the TV channel.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4827010.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05637A.mp3"
+    }
+  ]
+}

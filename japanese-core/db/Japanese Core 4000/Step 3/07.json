@@ -1,0 +1,18 @@
+{
+  "ja": "模様",
+  "hrkt": "もよう",
+  "latn": "moyou",
+  "en": "pattern, design",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00646A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は水玉<b>模様</b>のスカートをはいているね。",
+      "hrkt": "かのじょ は みずたま <b>もよう</b> の スカート を はいて いる ね。",
+      "latn": "kanojo ha mizutama <b>moyou</b> no suka-to wo haite iru ne.",
+      "en": "She's wearing a skirt with polka dots.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00646A.mp3"
+    }
+  ]
+}

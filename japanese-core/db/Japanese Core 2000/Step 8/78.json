@@ -1,0 +1,26 @@
+{
+  "ja": "自動",
+  "hrkt": "じどう",
+  "latn": "jidou",
+  "en": "automatic operation",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00486A.mp3",
+  "sentences": [
+    {
+      "ja": "このドアは<b>自動</b>よ。",
+      "hrkt": "この ドア は <b>じどう</b> よ。",
+      "latn": "kono doa ha <b>jidou</b> yo.",
+      "en": "This door is automatic.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/1l8i4d00aus9s.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00486A.mp3"
+    },
+    {
+      "ja": "早く<b>自動</b>運転の車が欲しいです。",
+      "hrkt": "はやく <b>じどう</b> うんてん の くるま が ほしい です。",
+      "latn": "hayaku <b>jidou</b> unten no kuruma ga hoshii desu.",
+      "en": "I can't wait (to get a) a self-driving car.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/16082acc9o.mp3"
+    }
+  ]
+}

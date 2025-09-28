@@ -1,0 +1,18 @@
+{
+  "ja": "縄",
+  "hrkt": "なわ",
+  "latn": "nawa",
+  "en": "rope, cord",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02734A.mp3",
+  "sentences": [
+    {
+      "ja": "枝を<b>縄</b>でしばったよ。",
+      "hrkt": "えだ を <b>なわ</b> で しばった よ。",
+      "latn": "eda wo <b>nawa</b> de shibatta yo.",
+      "en": "I bound the branches with a rope.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02734A.mp3"
+    }
+  ]
+}

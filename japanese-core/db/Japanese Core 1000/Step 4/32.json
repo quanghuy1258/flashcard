@@ -1,0 +1,26 @@
+{
+  "ja": "綺麗",
+  "hrkt": "きれい",
+  "latn": "kirei",
+  "en": "pretty, clean",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02336A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はとても<b>綺麗</b>だ。",
+      "hrkt": "かのじょ は とても <b>きれい</b> だ。",
+      "latn": "kanojo ha totemo <b>kirei</b> da.",
+      "en": "She's very pretty.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5114620.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02336A.mp3"
+    },
+    {
+      "ja": "あそこに<b>綺麗</b>な鳥がいます。",
+      "hrkt": "あそこ に <b>きれい</b>な とり が います 。",
+      "latn": "asoko ni <b>kirei</b>na tori ga imasu .",
+      "en": "There's a beautiful bird there.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4025666.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06533A.mp3"
+    }
+  ]
+}

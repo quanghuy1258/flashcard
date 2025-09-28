@@ -1,0 +1,26 @@
+{
+  "ja": "丁寧",
+  "hrkt": "ていねい",
+  "latn": "teinei",
+  "en": "polite, careful",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06017A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はいつも<b>丁寧</b>に仕事をします。",
+      "hrkt": "かのじょ は いつも <b>ていねい</b> に しごと を します。",
+      "latn": "kanojo ha itsumo <b>teinei</b> ni shigoto wo shimasu.",
+      "en": "She always works carefully.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3177212.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06017A.mp3"
+    },
+    {
+      "ja": "ご<b>丁寧</b>にお返事ありがとうございます。",
+      "hrkt": "ご<b>ていねい</b> に おへんじ ありがとう ございます。",
+      "latn": "go<b>teinei</b> ni ohenji arigatou gozaimasu.",
+      "en": "Thank you for replying to me politely.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b5bo9le7cg.mp3"
+    }
+  ]
+}

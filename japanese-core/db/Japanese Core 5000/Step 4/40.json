@@ -1,0 +1,18 @@
+{
+  "ja": "払い込む",
+  "hrkt": "はらいこむ",
+  "latn": "haraikomu",
+  "en": "pay in",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02618A.mp3",
+  "sentences": [
+    {
+      "ja": "授業料を学校に<b>払い込みました</b>。",
+      "hrkt": "じゅぎょう りょう を がっこう に <b>はらいこみました</b>。",
+      "latn": "jugyou ryou wo gakkou ni <b>haraikomimashita</b>.",
+      "en": "I paid tuition to the school.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02618A.mp3"
+    }
+  ]
+}

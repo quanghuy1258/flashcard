@@ -1,0 +1,26 @@
+{
+  "ja": "可能",
+  "hrkt": "かのう",
+  "latn": "kanou",
+  "en": "possible, potential",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01740A.mp3",
+  "sentences": [
+    {
+      "ja": "20キロのダイエットは<b>可能</b>だと思いますか。",
+      "hrkt": "20 キロ の ダイエット は <b>かのう</b> だと おもいます か。",
+      "latn": "20 kiro no daietto ha <b>kanou</b> dato omoimasu ka.",
+      "en": "Do you think it's possible to go on a twenty kilogram diet?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6902649.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01740A.mp3"
+    },
+    {
+      "ja": "3時前にチェックインすることは<b>可能</b>ですか。",
+      "hrkt": "3 じ まえ に チェックイン する こと は <b>かのう</b> です か。",
+      "latn": "3 ji mae ni chekkuin suru koto ha <b>kanou</b> desu ka.",
+      "en": "Is it possible to check in before three o'clock?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/634r491bts.mp3"
+    }
+  ]
+}

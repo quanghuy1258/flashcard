@@ -1,0 +1,26 @@
+{
+  "ja": "しばらく",
+  "hrkt": "しばらく",
+  "latn": "shibaraku",
+  "en": "a little while, a while",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03827A.mp3",
+  "sentences": [
+    {
+      "ja": "そこで<b>しばらく</b>休んでいます。",
+      "hrkt": "そこ で <b>しばらく</b> やすんで います。",
+      "latn": "soko de <b>shibaraku</b> yasunde imasu.",
+      "en": "He's resting over there for a while.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4239530.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03827A.mp3"
+    },
+    {
+      "ja": "<b>しばらく</b>仕事を休みます。",
+      "hrkt": "<b>しばらく</b> しごと を やすみます。",
+      "latn": "<b>shibaraku</b> shigoto wo yasumimasu.",
+      "en": "I'll be absent from work for a while.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f4003b9um0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "確か",
+  "hrkt": "たしか",
+  "latn": "tashika",
+  "en": "for sure, for certain",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05327A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の昇進は<b>確か</b>だ。",
+      "hrkt": "かれ の しょうしん は <b>たしか</b> だ。",
+      "latn": "kare no shoushin ha <b>tashika</b> da.",
+      "en": "He's sure to get a promotion.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3708712.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05327A.mp3"
+    },
+    {
+      "ja": "彼が元気なのは<b>確か</b>だ。",
+      "hrkt": "かれ が げんき な の は <b>たしか</b> だ。",
+      "latn": "kare ga genki na no ha <b>tashika</b> da.",
+      "en": "It is certain that he's well.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/92fpcr27eo.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "怠ける",
+  "hrkt": "なまける",
+  "latn": "namakeru",
+  "en": "be lazy, slack off",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06725A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>怠けて</b>いないで、手伝って。",
+      "hrkt": "<b>なまけて</b> いない で、てつだって。",
+      "latn": "<b>namakete</b> inai de,tetsudatte.",
+      "en": "Stop slacking and help me!",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5271396.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06725A.mp3"
+    },
+    {
+      "ja": "彼は仕事を<b>怠けて</b>ばかりいます。",
+      "hrkt": "かれ は しごと を <b>なまけて</b> ばかり います。",
+      "latn": "kare ha shigoto wo <b>namakete</b> bakari imasu.",
+      "en": "He always slacks off his work.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e4853ef0uk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "生活",
+  "hrkt": "せいかつ",
+  "latn": "seikatsu",
+  "en": "life, living",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04673A.mp3",
+  "sentences": [
+    {
+      "ja": "日本での<b>生活</b>は楽しいです。",
+      "hrkt": "にほん で の <b>せいかつ</b> は たのしい です。",
+      "latn": "nihon de no <b>seikatsu</b> ha tanoshii desu.",
+      "en": "Life in Japan is fun.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04673A.mp3"
+    },
+    {
+      "ja": "彼は海外での<b>生活</b>が長いです。",
+      "hrkt": "かれ は かいがい で の <b>せいかつ</b> が ながい です。",
+      "latn": "kare ha kaigai de no <b>seikatsu</b> ga nagai desu.",
+      "en": "He's lived abroad for a long time.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2088734.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01327A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "空港",
+  "hrkt": "くうこう",
+  "latn": "kuukou",
+  "en": "airport (for public transportation)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02409A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>空港</b>までリムジンバスで行った。",
+      "hrkt": "<b>くうこう</b> まで リムジン バス で いった。",
+      "latn": "<b>kuukou</b> made rimujin basu de itta.",
+      "en": "I went to the airport by shuttle bus.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/659432.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02409A.mp3"
+    },
+    {
+      "ja": "姉が<b>空港</b>まで迎えに来てくれます。",
+      "hrkt": "あね が <b>くうこう</b> まで むかえに きて くれます。",
+      "latn": "ane ga <b>kuukou</b> made mukaeni kite kuremasu.",
+      "en": "My big sister is coming to pick me up at the airport.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5284463.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09040A.mp3"
+    }
+  ]
+}

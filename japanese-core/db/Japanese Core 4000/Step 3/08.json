@@ -1,0 +1,18 @@
+{
+  "ja": "速度",
+  "hrkt": "そくど",
+  "latn": "sokudo",
+  "en": "speed, velocity",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00110A.mp3",
+  "sentences": [
+    {
+      "ja": "新幹線の<b>速度</b>はどれくらいですか。",
+      "hrkt": "しんかんせん の <b>そくど</b> は どれ くらい です か。",
+      "latn": "shinkansen no <b>sokudo</b> ha dore kurai desu ka.",
+      "en": "How fast is the speed of the Shinkansen?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00110A.mp3"
+    }
+  ]
+}

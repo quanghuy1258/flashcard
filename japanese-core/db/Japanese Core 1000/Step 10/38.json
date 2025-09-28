@@ -1,0 +1,26 @@
+{
+  "ja": "無理",
+  "hrkt": "むり",
+  "latn": "muri",
+  "en": "unreasonable, impossible",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09124A.mp3",
+  "sentences": [
+    {
+      "ja": "5時までに家に帰るのは<b>無理</b>です。",
+      "hrkt": "5 じ まで に いえ に かえる の は <b>むり</b> です。",
+      "latn": "5 ji made ni ie ni kaeru no ha <b>muri</b> desu.",
+      "en": "It's impossible for me to get home by five o'clock.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3604084.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09124A.mp3"
+    },
+    {
+      "ja": "<b>無理</b>はしないでください。",
+      "hrkt": "<b>むり</b> は しないで ください。",
+      "latn": "<b>muri</b> ha shinaide kudasai.",
+      "en": "Don't try to do the impossible.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/a474d456bk.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00640A.mp3"
+    }
+  ]
+}

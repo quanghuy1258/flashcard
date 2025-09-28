@@ -1,0 +1,26 @@
+{
+  "ja": "クリーニング",
+  "hrkt": "クリーニング",
+  "latn": "kuri-ningu",
+  "en": "dry cleaning",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02536A.mp3",
+  "sentences": [
+    {
+      "ja": "スーツを<b>クリーニング</b>に出しました。",
+      "hrkt": "スーツ を <b>クリーニング</b> に だしました。",
+      "latn": "su-tsu wo <b>kuri-ningu</b> ni dashimashita.",
+      "en": "I sent the suit to the cleaners.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1005261.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02536A.mp3"
+    },
+    {
+      "ja": "このシャツは<b>クリーニング</b>に出せません。",
+      "hrkt": "この シャツ は <b>クリーニング</b> に だせません。",
+      "latn": "kono shatsu ha <b>kuri-ningu</b> ni dasemasen.",
+      "en": "You cannot take this shirt to the dry cleaners.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f33e9ad4bc.mp3"
+    }
+  ]
+}

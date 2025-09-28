@@ -1,0 +1,26 @@
+{
+  "ja": "教科書",
+  "hrkt": "きょうかしょ",
+  "latn": "kyoukasho",
+  "en": "textbook, schoolbook",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02244A.mp3",
+  "sentences": [
+    {
+      "ja": "日本語の<b>教科書</b>を忘れた。",
+      "hrkt": "にほん ご の <b>きょうかしょ</b> を わすれた。",
+      "latn": "nihon go no <b>kyoukasho</b> wo wasureta.",
+      "en": "I forgot my Japanese textbook.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4802399.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02244A.mp3"
+    },
+    {
+      "ja": "<b>教科書</b>を閉じてください。",
+      "hrkt": "<b>きょうかしょ</b> を とじて ください。",
+      "latn": "<b>kyoukasho</b> wo tojite kudasai.",
+      "en": "Please close your textbooks.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5547222.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06438A.mp3"
+    }
+  ]
+}

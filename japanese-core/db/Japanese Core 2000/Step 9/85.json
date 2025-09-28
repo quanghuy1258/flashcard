@@ -1,0 +1,26 @@
+{
+  "ja": "灰",
+  "hrkt": "はい",
+  "latn": "hai",
+  "en": "ashes",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07158A.mp3",
+  "sentences": [
+    {
+      "ja": "火事ですべて<b>灰</b>になった。",
+      "hrkt": "かじ で すべて <b>はい</b> に なった。",
+      "latn": "kaji de subete <b>hai</b> ni natta.",
+      "en": "Everything turned into ashes in the fire.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4674213.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07158A.mp3"
+    },
+    {
+      "ja": "人は死んだら<b>灰</b>になる。",
+      "hrkt": "ひと は しんだら <b>はい</b> に なる。",
+      "latn": "hito ha shindara <b>hai</b> ni naru.",
+      "en": "When people die, they turn into ashes.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/33cd230fe4.mp3"
+    }
+  ]
+}

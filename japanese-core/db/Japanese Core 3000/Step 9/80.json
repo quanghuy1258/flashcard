@@ -1,0 +1,18 @@
+{
+  "ja": "応援",
+  "hrkt": "おうえん",
+  "latn": "ouen",
+  "en": "support, cheering",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00959A.mp3",
+  "sentences": [
+    {
+      "ja": "大勢が<b>応援</b>に駆けつけてくれたよ。",
+      "hrkt": "おおぜい が <b>おうえん</b> に かけつけて  くれた  よ。",
+      "latn": "oozei ga <b>ouen</b> ni kaketsukete  kureta  yo.",
+      "en": "Many people came to cheer us on.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/947h3i1fmc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00959A.mp3"
+    }
+  ]
+}

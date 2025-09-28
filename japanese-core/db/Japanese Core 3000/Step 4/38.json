@@ -1,0 +1,18 @@
+{
+  "ja": "バッジ",
+  "hrkt": "バッジ",
+  "latn": "bajji",
+  "en": "badge",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02533A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は弁護士<b>バッジ</b>を付けていたよ。",
+      "hrkt": "かれ は べんごし <b>バッジ</b> を つけて いた よ。",
+      "latn": "kare ha bengoshi <b>bajji</b> wo tsukete ita yo.",
+      "en": "He was wearing a lawyer's badge.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/151ec40eo0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02533A.mp3"
+    }
+  ]
+}

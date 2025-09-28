@@ -1,0 +1,26 @@
+{
+  "ja": "美味しい",
+  "hrkt": "おいしい",
+  "latn": "oishii",
+  "en": "tasty",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00927A.mp3",
+  "sentences": [
+    {
+      "ja": "このケーキは<b>美味しい</b>ね。",
+      "hrkt": "この ケーキ は <b>おいしい</b> ね。",
+      "latn": "kono ke-ki ha <b>oishii</b> ne.",
+      "en": "This cake is yummy.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5311022.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00927A.mp3"
+    },
+    {
+      "ja": "夏はすいかが<b>美味しい</b>。",
+      "hrkt": "なつ は すいか が <b>おいしい</b>。",
+      "latn": "natsu ha suika ga <b>oishii</b>.",
+      "en": "Watermelon is delicious in summer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3584369.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04469A.mp3"
+    }
+  ]
+}

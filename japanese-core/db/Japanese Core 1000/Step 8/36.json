@@ -1,0 +1,26 @@
+{
+  "ja": "帽子",
+  "hrkt": "ぼうし",
+  "latn": "boushi",
+  "en": "hat, cap",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08418A.mp3",
+  "sentences": [
+    {
+      "ja": "暑いので<b>帽子</b>を被りましょう。",
+      "hrkt": "あつい ので <b>ぼうし</b> を かぶりましょう。",
+      "latn": "atsui node <b>boushi</b> wo kaburimashou.",
+      "en": "You should wear a hat because it's hot.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5870286.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08418A.mp3"
+    },
+    {
+      "ja": "彼女の大きな<b>帽子</b>はとても目立つ。",
+      "hrkt": "かのじょ の おおきな <b>ぼうし</b> は とても めだつ。",
+      "latn": "kanojo no ookina <b>boushi</b> ha totemo medatsu.",
+      "en": "Her big hat really stands out.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/81av1gdh85rls4.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09198A.mp3"
+    }
+  ]
+}

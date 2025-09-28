@@ -1,0 +1,18 @@
+{
+  "ja": "オーケストラ",
+  "hrkt": "オーケストラ",
+  "latn": "o-kesutora",
+  "en": "orchestra",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01760A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>オーケストラ</b>を指揮しているの。",
+      "hrkt": "かれ は <b>オーケストラ</b> を しき して いる の。",
+      "latn": "kare ha <b>o-kesutora</b> wo shiki shite iru no.",
+      "en": "He is conducting the orchestra.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01760A.mp3"
+    }
+  ]
+}

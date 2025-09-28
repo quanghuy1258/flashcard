@@ -1,0 +1,26 @@
+{
+  "ja": "出会う",
+  "hrkt": "であう",
+  "latn": "deau",
+  "en": "meet, encounter",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03761A.mp3",
+  "sentences": [
+    {
+      "ja": "アメリカで彼女と<b>出会いました</b>。",
+      "hrkt": "アメリカ で かのじょ と <b>であいました</b>。",
+      "latn": "amerika de kanojo to <b>deaimashita</b>.",
+      "en": "I met her in the United States.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1783309.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03761A.mp3"
+    },
+    {
+      "ja": "町なかで彼女に<b>出会った</b>よ。",
+      "hrkt": "まちなか で かのじょ に <b>であった</b> よ。",
+      "latn": "machinaka de kanojo ni <b>deatta</b> yo.",
+      "en": "I met her downtown.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/757b8cfpu8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03887A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "パンク",
+  "hrkt": "パンク",
+  "latn": "panku",
+  "en": "flat tire",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02104A.mp3",
+  "sentences": [
+    {
+      "ja": "自転車のタイヤが<b>パンク</b>しました。",
+      "hrkt": "じてんしゃ の タイヤ が <b>パンク</b> しました。",
+      "latn": "jitensha no taiya ga <b>panku</b> shimashita.",
+      "en": "My bike got a flat tire.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/953d82c9pk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02104A.mp3"
+    }
+  ]
+}

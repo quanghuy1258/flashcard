@@ -1,0 +1,18 @@
+{
+  "ja": "医師",
+  "hrkt": "いし",
+  "latn": "ishi",
+  "en": "doctor, physician (formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00132A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>医師</b>に入院を勧められたの。",
+      "hrkt": "<b>いし</b> に にゅういん を すすめられた の。",
+      "latn": "<b>ishi</b> ni nyuuin wo susumerareta no.",
+      "en": "The doctor suggested that I get hospitalized.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/15bf20ed4k.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00132A.mp3"
+    }
+  ]
+}

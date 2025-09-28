@@ -1,0 +1,18 @@
+{
+  "ja": "便所",
+  "hrkt": "べんじょ",
+  "latn": "benjo",
+  "en": "lavatory, bathroom",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08364A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>便所</b>はそこです。",
+      "hrkt": "<b>べんじょ</b> は そこ です。",
+      "latn": "<b>benjo</b> ha soko desu.",
+      "en": "The bathroom is there.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08364A.mp3"
+    }
+  ]
+}

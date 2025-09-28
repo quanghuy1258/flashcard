@@ -1,0 +1,26 @@
+{
+  "ja": "気を付ける",
+  "hrkt": "きをつける",
+  "latn": "kiwotsukeru",
+  "en": "be careful about, pay attention to",
+  "pos": "Phrase",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02345A.mp3",
+  "sentences": [
+    {
+      "ja": "体に<b>気を付けて</b>ください。",
+      "hrkt": "からだ に <b>きをつけて</b> ください。",
+      "latn": "karada ni <b>kiwotsukete</b> kudasai.",
+      "en": "Please take care of yourself.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4171832.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02345A.mp3"
+    },
+    {
+      "ja": "これからはもっと<b>気を付けます</b>。",
+      "hrkt": "これから は もっと <b>きをつけます</b>。",
+      "latn": "korekara ha motto <b>kiwotsukemasu</b>.",
+      "en": "I will be more careful from now on.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/el5m9vai0j9mg.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03629A.mp3"
+    }
+  ]
+}

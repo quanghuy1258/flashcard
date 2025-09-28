@@ -1,0 +1,26 @@
+{
+  "ja": "貧乏",
+  "hrkt": "びんぼう",
+  "latn": "binbou",
+  "en": "poverty, destitution",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07935A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は昔は<b>貧乏</b>だった。",
+      "hrkt": "かれ は むかし は <b>びんぼう</b> だった。",
+      "latn": "kare ha mukashi ha <b>binbou</b> datta.",
+      "en": "He used to be poor.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5584797.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07935A.mp3"
+    },
+    {
+      "ja": "私は<b>貧乏</b>はしたくありません。",
+      "hrkt": "わたし は <b>びんぼう</b> は したく ありません。",
+      "latn": "watashi ha <b>binbou</b> ha shitaku arimasen.",
+      "en": "I don't want to live in poverty.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f3blfg2bg4.mp3"
+    }
+  ]
+}

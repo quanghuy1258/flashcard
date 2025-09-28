@@ -1,0 +1,18 @@
+{
+  "ja": "経由",
+  "hrkt": "けいゆ",
+  "latn": "keiyu",
+  "en": "via, through",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01162A.mp3",
+  "sentences": [
+    {
+      "ja": "メールを<b>経由</b>して広がるウィルスもあります。",
+      "hrkt": "メール を <b>けいゆ</b> して ひろがる ウィルス も あります。",
+      "latn": "me-ru wo <b>keiyu</b> shite hirogaru wirusu mo arimasu.",
+      "en": "There are even viruses that spread through e-mails.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01162A.mp3"
+    }
+  ]
+}

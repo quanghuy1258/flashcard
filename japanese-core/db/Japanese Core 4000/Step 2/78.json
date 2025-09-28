@@ -1,0 +1,18 @@
+{
+  "ja": "幅",
+  "hrkt": "はば",
+  "latn": "haba",
+  "en": "width, breadth",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03829A.mp3",
+  "sentences": [
+    {
+      "ja": "この道は<b>幅</b>が狭いので気をつけて運転してください。",
+      "hrkt": "この みち は <b>はば</b> が せまい ので きをつけて うんてん して ください。",
+      "latn": "kono michi ha <b>haba</b> ga semai node kiwotsukete unten shite kudasai.",
+      "en": "The width of this road is narrow, so please drive carefully.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f4as16d31c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03829A.mp3"
+    }
+  ]
+}

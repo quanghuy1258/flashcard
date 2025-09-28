@@ -1,0 +1,26 @@
+{
+  "ja": "詳しい",
+  "hrkt": "くわしい",
+  "latn": "kuwashii",
+  "en": "detailed, have detailed knowledge",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02569A.mp3",
+  "sentences": [
+    {
+      "ja": "もっと<b>詳しく</b>説明してください。",
+      "hrkt": "もっと <b>くわしく</b> せつめい して ください。",
+      "latn": "motto <b>kuwashiku</b> setsumei shite kudasai.",
+      "en": "Please explain it in greater detail.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5476303.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02569A.mp3"
+    },
+    {
+      "ja": "彼はコンピューターに<b>詳しい</b>。",
+      "hrkt": "かれ は コンピューター に <b>くわしい</b>。",
+      "latn": "kare ha konpyu-ta- ni <b>kuwashii</b>.",
+      "en": "He is very familiar with computer.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/838r1s6t6k.mp3"
+    }
+  ]
+}

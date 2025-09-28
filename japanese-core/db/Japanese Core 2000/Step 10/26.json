@@ -1,0 +1,26 @@
+{
+  "ja": "結果",
+  "hrkt": "けっか",
+  "latn": "kekka",
+  "en": "result, outcome",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02683A.mp3",
+  "sentences": [
+    {
+      "ja": "試合の<b>結果</b>を早く知りたい。",
+      "hrkt": "しあい の <b>けっか</b> を はやく しりたい。",
+      "latn": "shiai no <b>kekka</b> wo hayaku shiritai.",
+      "en": "I want to know the results of the game soon.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3744692.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02683A.mp3"
+    },
+    {
+      "ja": "これまでで最高の<b>結果</b>が出たよ。",
+      "hrkt": "これまで で さいこう の <b>けっか</b> が でた よ。",
+      "latn": "koremade de saikou no <b>kekka</b> ga deta yo.",
+      "en": "I got my best results so far.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/b5486n95t0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00253A.mp3"
+    }
+  ]
+}

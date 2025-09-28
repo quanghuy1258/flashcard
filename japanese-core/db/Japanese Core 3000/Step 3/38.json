@@ -1,0 +1,26 @@
+{
+  "ja": "詳細",
+  "hrkt": "しょうさい",
+  "latn": "shousai",
+  "en": "details, particulars",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00838A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>詳細</b>はお気軽にお問い合わせください。",
+      "hrkt": "<b>しょうさい</b> は おきがる に おといあわせ ください。",
+      "latn": "<b>shousai</b> ha okigaru ni otoiawase kudasai.",
+      "en": "Please do not hesitate to inquire for further details.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b5bkf969ig.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00838A.mp3"
+    },
+    {
+      "ja": "<b>詳細</b>はファックスで送ります。",
+      "hrkt": "<b>しょうさい</b> は ファックス で おくります。",
+      "latn": "<b>shousai</b> ha fakkusu de okurimasu.",
+      "en": "I'll send the details by fax.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/14163nag2o.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03851A.mp3"
+    }
+  ]
+}

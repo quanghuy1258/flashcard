@@ -1,0 +1,26 @@
+{
+  "ja": "肉",
+  "hrkt": "にく",
+  "latn": "niku",
+  "en": "flesh, meat",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06814A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日の夜は<b>肉</b>をたくさん食べました。",
+      "hrkt": "きのう の よる は <b>にく</b> を たくさん たべました。",
+      "latn": "kinou no yoru ha <b>niku</b> wo takusan tabemashita.",
+      "en": "I ate a lot of meat last night.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5083062.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06814A.mp3"
+    },
+    {
+      "ja": "<b>肉</b>と魚とどちらが好きですか。",
+      "hrkt": "<b>にく</b> と さかな と どちら が すき です か。",
+      "latn": "<b>niku</b> to sakana to dochira ga suki desu ka.",
+      "en": "Which do you prefer, meat or fish?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4268469.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06450A.mp3"
+    }
+  ]
+}

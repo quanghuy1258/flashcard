@@ -1,0 +1,18 @@
+{
+  "ja": "明かり",
+  "hrkt": "あかり",
+  "latn": "akari",
+  "en": "light, lighting",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01660A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋の<b>明かり</b>をつけましょう。",
+      "hrkt": "へや の <b>あかり</b> を つけましょう 。",
+      "latn": "heya no <b>akari</b> wo tsukemashou .",
+      "en": "Let's turn on the room light.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01660A.mp3"
+    }
+  ]
+}

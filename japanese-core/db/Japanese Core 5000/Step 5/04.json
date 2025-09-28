@@ -1,0 +1,18 @@
+{
+  "ja": "三日月",
+  "hrkt": "みかづき",
+  "latn": "mikazuki",
+  "en": "crescent moon",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03113A.mp3",
+  "sentences": [
+    {
+      "ja": "空に<b>三日月</b>が見えました。",
+      "hrkt": "そら に <b>みかづき</b> が みえました。",
+      "latn": "sora ni <b>mikazuki</b> ga miemashita.",
+      "en": "I saw a crescent moon in the sky.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03113A.mp3"
+    }
+  ]
+}

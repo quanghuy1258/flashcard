@@ -1,0 +1,18 @@
+{
+  "ja": "真四角",
+  "hrkt": "ましかく",
+  "latn": "mashikaku",
+  "en": "regular square (colloquial)",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03485A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の部屋には<b>真四角</b>な窓があったんだ。",
+      "hrkt": "かれ の へや に は <b>ましかく</b>な まど が あった ん だ。",
+      "latn": "kare no heya ni ha <b>mashikaku</b>na mado ga atta n da.",
+      "en": "There was a regular square window in his room.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03485A.mp3"
+    }
+  ]
+}

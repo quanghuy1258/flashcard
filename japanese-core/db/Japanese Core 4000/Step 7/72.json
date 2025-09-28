@@ -1,0 +1,18 @@
+{
+  "ja": "岩",
+  "hrkt": "いわ",
+  "latn": "iwa",
+  "en": "rock",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01252A.mp3",
+  "sentences": [
+    {
+      "ja": "あの<b>岩</b>まで泳ごう。",
+      "hrkt": "あの <b>いわ</b> まで およごう。",
+      "latn": "ano <b>iwa</b> made oyogou.",
+      "en": "Let's swim up to that rock.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01252A.mp3"
+    }
+  ]
+}

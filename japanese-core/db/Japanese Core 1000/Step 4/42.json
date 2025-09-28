@@ -1,0 +1,26 @@
+{
+  "ja": "大丈夫",
+  "hrkt": "だいじょうぶ",
+  "latn": "daijoubu",
+  "en": "all right, OK",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05203A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>大丈夫</b>ですか。",
+      "hrkt": "<b>だいじょうぶ</b> です か。",
+      "latn": "<b>daijoubu</b> desu ka.",
+      "en": "Are you OK?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5929123.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05203A.mp3"
+    },
+    {
+      "ja": "少し頭が痛いけど、<b>大丈夫</b>です。",
+      "hrkt": "すこし あたま が いたい けど、 <b>だいじょうぶ</b> です。",
+      "latn": "sukoshi atama ga itai kedo, <b>daijoubu</b> desu.",
+      "en": "I have a slight headache, but I'm OK.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/23ceed69jc.mp3"
+    }
+  ]
+}

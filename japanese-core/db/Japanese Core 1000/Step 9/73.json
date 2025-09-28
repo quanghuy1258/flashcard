@@ -1,0 +1,26 @@
+{
+  "ja": "相談",
+  "hrkt": "そうだん",
+  "latn": "soudan",
+  "en": "consultation, advice",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05003A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>相談</b>したいことがあります。",
+      "hrkt": "<b>そうだん</b> したい こと が あります。",
+      "latn": "<b>soudan</b> shitai koto ga arimasu.",
+      "en": "I'd like to get your advice on something.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5400258.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05003A.mp3"
+    },
+    {
+      "ja": "私は医者に<b>相談</b>した。",
+      "hrkt": "わたし は いしゃ に <b>そうだん</b> した。",
+      "latn": "watashi ha isha ni <b>soudan</b> shita.",
+      "en": "I consulted the doctor.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3924891.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00430A.mp3"
+    }
+  ]
+}

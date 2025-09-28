@@ -1,0 +1,26 @@
+{
+  "ja": "メニュー",
+  "hrkt": "メニュー",
+  "latn": "menyu-",
+  "en": "menu",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09211A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>メニュー</b>をください。",
+      "hrkt": "<b>メニュー</b> を ください。",
+      "latn": "<b>menyu-</b> wo kudasai.",
+      "en": "Can I have a menu, please?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5933551.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09211A.mp3"
+    },
+    {
+      "ja": "キッズ<b>メニュー</b>はありますか。",
+      "hrkt": "キッズ <b>メニュー</b> は あります か。",
+      "latn": "kizzu <b>menyu-</b> ha arimasu ka.",
+      "en": "Do you have a kids menu?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a56e5h7vos.mp3"
+    }
+  ]
+}

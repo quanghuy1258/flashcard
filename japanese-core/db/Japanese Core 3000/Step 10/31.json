@@ -1,0 +1,18 @@
+{
+  "ja": "会員",
+  "hrkt": "かいいん",
+  "latn": "kaiin",
+  "en": "member (of an association, society, etc.)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00314A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はクラブの<b>会員</b>です。",
+      "hrkt": "かのじょ は クラブ の <b>かいいん</b> です。",
+      "latn": "kanojo ha kurabu no <b>kaiin</b> desu.",
+      "en": "She's a member of the club.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/445fcj46dk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00314A.mp3"
+    }
+  ]
+}

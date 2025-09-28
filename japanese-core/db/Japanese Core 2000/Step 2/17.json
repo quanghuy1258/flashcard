@@ -1,0 +1,26 @@
+{
+  "ja": "地下鉄",
+  "hrkt": "ちかてつ",
+  "latn": "chikatetsu",
+  "en": "subway",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05573A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>地下鉄</b>で通勤しています。",
+      "hrkt": "わたし は <b>ちかてつ</b> で つうきん して います。",
+      "latn": "watashi ha <b>chikatetsu</b> de tsuukin shite imasu.",
+      "en": "I commute to work by subway.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1507992.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05573A.mp3"
+    },
+    {
+      "ja": "次の駅で<b>地下鉄</b>に乗り換えます。",
+      "hrkt": "つぎ の えき で <b>ちかてつ</b> に のりかえます。",
+      "latn": "tsugi no eki de <b>chikatetsu</b> ni norikaemasu.",
+      "en": "I'm transfering to the subway at the next station.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3782377.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07121A.mp3"
+    }
+  ]
+}

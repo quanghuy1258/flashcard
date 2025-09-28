@@ -1,0 +1,26 @@
+{
+  "ja": "ジュース",
+  "hrkt": "ジュース",
+  "latn": "ju-su",
+  "en": "juice",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03984A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>ジュース</b>は甘すぎる。",
+      "hrkt": "この <b>ジュース</b> は あま すぎる。",
+      "latn": "kono <b>ju-su</b> ha ama sugiru.",
+      "en": "This juice is too sweet.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1444108.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03984A.mp3"
+    },
+    {
+      "ja": "子供が<b>ジュース</b>を欲しがっています。",
+      "hrkt": "こども が <b>ジュース</b> を ほしがって います。",
+      "latn": "kodomo ga <b>ju-su</b> wo hoshigatte imasu.",
+      "en": "My kid wants some juice.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5861932.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08516A.mp3"
+    }
+  ]
+}

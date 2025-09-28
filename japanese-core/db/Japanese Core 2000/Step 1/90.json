@@ -1,0 +1,26 @@
+{
+  "ja": "オートバイ",
+  "hrkt": "オートバイ",
+  "latn": "o-tobai",
+  "en": "motorbike, motorcycle",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00985A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>オートバイ</b>に乗っている。",
+      "hrkt": "かれ は <b>オートバイ</b> に のって いる。",
+      "latn": "kare ha <b>o-tobai</b> ni notte iru.",
+      "en": "He rides a motorcycle.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4279939.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00985A.mp3"
+    },
+    {
+      "ja": "私は<b>オートバイ</b>で事故に遭いました。",
+      "hrkt": "わたし は <b>オートバイ</b> で じこ に あいました。",
+      "latn": "watashi ha <b>o-tobai</b> de jiko ni aimashita.",
+      "en": "I got into a motorcycle accident.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e48g8s6fq0.mp3"
+    }
+  ]
+}

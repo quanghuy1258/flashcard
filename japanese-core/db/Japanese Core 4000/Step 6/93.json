@@ -1,0 +1,18 @@
+{
+  "ja": "学年",
+  "hrkt": "がくねん",
+  "latn": "gakunen",
+  "en": "school year, grade",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01522A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は私より一<b>学年</b>上です。",
+      "hrkt": "かれ は わたし より ひと <b>がくねん</b> うえ です。",
+      "latn": "kare ha watashi yori hito <b>gakunen</b> ue desu.",
+      "en": "He's one grade above me in school.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01522A.mp3"
+    }
+  ]
+}

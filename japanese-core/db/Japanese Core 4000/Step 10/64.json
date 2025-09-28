@@ -1,0 +1,18 @@
+{
+  "ja": "弱点",
+  "hrkt": "じゃくてん",
+  "latn": "jakuten",
+  "en": "weak point, weakness",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01567A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>弱点</b>はスタミナが足りないところです。",
+      "hrkt": "かれ の <b>じゃくてん</b> は スタミナ が たりない ところ です。",
+      "latn": "kare no <b>jakuten</b> ha sutamina ga tarinai tokoro desu.",
+      "en": "The lack of stamina is his weakness.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01567A.mp3"
+    }
+  ]
+}

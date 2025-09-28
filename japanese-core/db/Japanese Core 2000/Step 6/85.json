@@ -1,0 +1,26 @@
+{
+  "ja": "こんなに",
+  "hrkt": "こんなに",
+  "latn": "konnani",
+  "en": "this much, such",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03262A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>こんなに</b>面白い本は初めて読んだ。",
+      "hrkt": "<b>こんな に</b> おもしろい ほん は はじめて よんだ。",
+      "latn": "<b>konna ni</b> omoshiroi hon ha hajimete yonda.",
+      "en": "I've never read such an interesting book.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5829775.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03262A.mp3"
+    },
+    {
+      "ja": "<b>こんなに</b>美味しいケーキは食べたことがありません。",
+      "hrkt": "<b>こんな に</b> おいしい ケーキ は たべた こと が ありません。",
+      "latn": "<b>konna ni</b> oishii ke-ki ha tabeta koto ga arimasen.",
+      "en": "I've never had such delicious cake.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a5foe12scc.mp3"
+    }
+  ]
+}

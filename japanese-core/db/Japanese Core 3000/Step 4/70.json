@@ -1,0 +1,26 @@
+{
+  "ja": "ついに",
+  "hrkt": "ついに",
+  "latn": "tsuini",
+  "en": "at last, finally",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00545A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>ついに</b>弁護士の資格を取ったよ。",
+      "hrkt": "かれ は <b>ついに</b> べんごし の しかく を とった よ。",
+      "latn": "kare ha <b>tsuini</b> bengoshi no shikaku wo totta yo.",
+      "en": "He finally passed the bar examination.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00545A.mp3"
+    },
+    {
+      "ja": "<b>ついに</b>実験が成功した。",
+      "hrkt": "<b>ついに</b> じっけん が せいこう した。",
+      "latn": "<b>tsuini</b> jikken ga seikou shita.",
+      "en": "The experiment finally succeeded.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5464221.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04688A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "一つ",
+  "hrkt": "ひとつ",
+  "latn": "hitotsu",
+  "en": "one (thing)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07770A.mp3",
+  "sentences": [
+    {
+      "ja": "それを<b>一つ</b>ください。",
+      "hrkt": "それ を <b>ひとつ</b> ください。",
+      "latn": "sore wo <b>hitotsu</b> kudasai.",
+      "en": "Please give me one of those.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5689320.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07770A.mp3"
+    },
+    {
+      "ja": "問題が<b>一つ</b>あります。",
+      "hrkt": "もんだい が <b>ひとつ</b> あります。",
+      "latn": "mondai ga <b>hitotsu</b> arimasu.",
+      "en": "There's one problem.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5483714.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09359A.mp3"
+    }
+  ]
+}

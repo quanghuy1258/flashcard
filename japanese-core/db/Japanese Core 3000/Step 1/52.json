@@ -1,0 +1,18 @@
+{
+  "ja": "記者",
+  "hrkt": "きしゃ",
+  "latn": "kisha",
+  "en": "journalist, reporter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02056A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は新聞<b>記者</b>です。",
+      "hrkt": "かれ は しんぶん <b>きしゃ</b> です。",
+      "latn": "kare ha shinbun <b>kisha</b> desu.",
+      "en": "He's a newspaper journalist.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/9ebfd37qc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02056A.mp3"
+    }
+  ]
+}

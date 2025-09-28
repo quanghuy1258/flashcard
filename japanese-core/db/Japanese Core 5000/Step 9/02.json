@@ -1,0 +1,18 @@
+{
+  "ja": "相場",
+  "hrkt": "そうば",
+  "latn": "souba",
+  "en": "market price",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00145A.mp3",
+  "sentences": [
+    {
+      "ja": "この辺りの家賃の<b>相場</b>はいくらですか。",
+      "hrkt": "この あたり の やちん の <b>そうば</b> は いくら です か。",
+      "latn": "kono atari no yachin no <b>souba</b> ha ikura desu ka.",
+      "en": "What is the market rent around here?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00145A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "怪しむ",
+  "hrkt": "あやしむ",
+  "latn": "ayashimu",
+  "en": "suspect, doubt",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03007A.mp3",
+  "sentences": [
+    {
+      "ja": "警察はそのグループを<b>怪しんで</b>います。",
+      "hrkt": "けいさつ は その グループ を <b>あやしんで</b> います。",
+      "latn": "keisatsu ha sono guru-pu wo <b>ayashinde</b> imasu.",
+      "en": "The police are suspicious of the group.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03007A.mp3"
+    }
+  ]
+}

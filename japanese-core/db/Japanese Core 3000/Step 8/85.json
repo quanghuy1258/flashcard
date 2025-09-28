@@ -1,0 +1,18 @@
+{
+  "ja": "プロ",
+  "hrkt": "プロ",
+  "latn": "puro",
+  "en": "professional",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00895A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はスケートの<b>プロ</b>です。",
+      "hrkt": "かれ は スケート の <b>プロ</b> です。",
+      "latn": "kare ha suke-to no <b>puro</b> desu.",
+      "en": "He's a professional skater.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f4c36e9h5o.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00895A.mp3"
+    }
+  ]
+}

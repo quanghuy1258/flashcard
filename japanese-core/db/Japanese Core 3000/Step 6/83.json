@@ -1,0 +1,18 @@
+{
+  "ja": "洗い物",
+  "hrkt": "あらいもの",
+  "latn": "araimono",
+  "en": "dishes to be washed",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03331A.mp3",
+  "sentences": [
+    {
+      "ja": "母は台所で<b>洗い物</b>をしています。",
+      "hrkt": "はは は だいどころ で <b>あらいもの</b> を して います。",
+      "latn": "haha ha daidokoro de <b>araimono</b> wo shite imasu.",
+      "en": "Mother is doing the dishes in the kitchen.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/75aba402h0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03331A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "はしご",
+  "hrkt": "はしご",
+  "latn": "hashigo",
+  "en": "ladder",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03822A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>はしご</b>を使って屋根に上りました。",
+      "hrkt": "<b>はしご</b> を つかって やね に のぼりました。",
+      "latn": "<b>hashigo</b> wo tsukatte yane ni noborimashita.",
+      "en": "I went up to the roof on a ladder.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03822A.mp3"
+    }
+  ]
+}

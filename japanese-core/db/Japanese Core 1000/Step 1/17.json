@@ -1,0 +1,26 @@
+{
+  "ja": "時間",
+  "hrkt": "じかん",
+  "latn": "jikan",
+  "en": "time, hour",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03620A.mp3",
+  "sentences": [
+    {
+      "ja": "今は<b>時間</b>がありません。",
+      "hrkt": "いま は <b>じかん</b> が ありません。",
+      "latn": "ima ha <b>jikan</b> ga arimasen.",
+      "en": "I don't have time now.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/734660.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03620A.mp3"
+    },
+    {
+      "ja": "まだ学校へ行くには早い<b>時間</b>です。",
+      "hrkt": "まだ がっこう へ いく に は はやい <b>じかん</b> です。",
+      "latn": "mada gakkou he iku ni ha hayai <b>jikan</b> desu.",
+      "en": "It's still too early to go to school.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1320981.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07465A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "揚げる",
+  "hrkt": "あげる",
+  "latn": "ageru",
+  "en": "fry",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02713A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は夕食に天ぷらを<b>揚げました</b>。",
+      "hrkt": "かのじょ は ゆうしょく に てんぷら を <b>あげました</b>。",
+      "latn": "kanojo ha yuushoku ni tenpura wo <b>agemashita</b>.",
+      "en": "She fried some tempura for dinner.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02713A.mp3"
+    }
+  ]
+}

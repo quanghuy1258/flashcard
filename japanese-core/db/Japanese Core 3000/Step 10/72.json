@@ -1,0 +1,18 @@
+{
+  "ja": "伝統",
+  "hrkt": "でんとう",
+  "latn": "dentou",
+  "en": "tradition",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00428A.mp3",
+  "sentences": [
+    {
+      "ja": "私は日本の<b>伝統</b>を大切にします。",
+      "hrkt": "わたし は にっぽん の <b>でんとう</b> を たいせつ に します。",
+      "latn": "watashi ha nippon no <b>dentou</b> wo taisetsu ni shimasu.",
+      "en": "I value Japanese traditions.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/71e4a9ac70.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00428A.mp3?1220179278"
+    }
+  ]
+}

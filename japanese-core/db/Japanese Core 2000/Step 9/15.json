@@ -1,0 +1,26 @@
+{
+  "ja": "形",
+  "hrkt": "かたち",
+  "latn": "katachi",
+  "en": "shape, form",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01644A.mp3",
+  "sentences": [
+    {
+      "ja": "その椅子は変わった<b>形</b>をしている。",
+      "hrkt": "その いす は かわった <b>かたち</b> を して いる。",
+      "latn": "sono isu ha kawatta <b>katachi</b> wo shite iru.",
+      "en": "That chair has an unusual shape.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1466535.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01644A.mp3"
+    },
+    {
+      "ja": "娘が色々な<b>形</b>のクッキーを焼いた。",
+      "hrkt": "むすめ が いろいろな <b>かたち</b> の クッキー を やいた。",
+      "latn": "musume ga iroirona <b>katachi</b> no kukki- wo yaita.",
+      "en": "My daughter baked cookies in various shapes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/56e74df1lg.mp3"
+    }
+  ]
+}

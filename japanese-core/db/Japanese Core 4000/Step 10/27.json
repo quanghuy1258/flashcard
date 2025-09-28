@@ -1,0 +1,18 @@
+{
+  "ja": "荒れる",
+  "hrkt": "あれる",
+  "latn": "areru",
+  "en": "be wild, get rough",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01644A.mp3",
+  "sentences": [
+    {
+      "ja": "台風で山も海も<b>荒れて</b>います。",
+      "hrkt": "たいふう で やま も うみ も <b>あれて</b> います。",
+      "latn": "taifuu de yama mo umi mo <b>arete</b> imasu.",
+      "en": "The weather in the typhoon is rough both on the mountains and in the ocean.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01644A.mp3"
+    }
+  ]
+}

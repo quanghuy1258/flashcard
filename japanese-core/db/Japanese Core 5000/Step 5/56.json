@@ -1,0 +1,18 @@
+{
+  "ja": "さびる",
+  "hrkt": "さびる",
+  "latn": "sabiru",
+  "en": "rust, get rusty",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03641A.mp3",
+  "sentences": [
+    {
+      "ja": "包丁が<b>さびて</b>しまった。",
+      "hrkt": "ほうちょう が <b>さびて</b> しまった。",
+      "latn": "houchou ga <b>sabite</b> shimatta.",
+      "en": "The kitchen knife has rusted.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03641A.mp3"
+    }
+  ]
+}

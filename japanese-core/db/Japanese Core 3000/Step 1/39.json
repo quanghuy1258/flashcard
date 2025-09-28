@@ -1,0 +1,18 @@
+{
+  "ja": "ハンドバッグ",
+  "hrkt": "ハンドバッグ",
+  "latn": "handobaggu",
+  "en": "handbag",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07569A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ハンドバッグ</b>を忘れました。",
+      "hrkt": "<b>ハンドバッグ</b> を わすれました。",
+      "latn": "<b>handobaggu</b> wo wasuremashita.",
+      "en": "I forgot my handbag.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/95a603f6sk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07569A.mp3"
+    }
+  ]
+}

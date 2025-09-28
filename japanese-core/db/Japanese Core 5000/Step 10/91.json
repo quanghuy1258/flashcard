@@ -1,0 +1,18 @@
+{
+  "ja": "避難",
+  "hrkt": "ひなん",
+  "latn": "hinan",
+  "en": "refuge, evacuation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00818A.mp3",
+  "sentences": [
+    {
+      "ja": "危ないので<b>避難</b>してください。",
+      "hrkt": "あぶない ので <b>ひなん</b> して ください。",
+      "latn": "abunai node <b>hinan</b> shite kudasai.",
+      "en": "It's dangerous here, so please evacuate!",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00818A.mp3"
+    }
+  ]
+}

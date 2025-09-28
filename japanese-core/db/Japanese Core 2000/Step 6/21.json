@@ -1,0 +1,26 @@
+{
+  "ja": "代える",
+  "hrkt": "かえる",
+  "latn": "kaeru",
+  "en": "substitute for",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01437A.mp3",
+  "sentences": [
+    {
+      "ja": "社長に<b>代えて</b>部長を出席させます。",
+      "hrkt": "しゃちょう に <b>かえて</b> ぶちょう を しゅっせき させます。",
+      "latn": "shachou ni <b>kaete</b> buchou wo shusseki sasemasu.",
+      "en": "I'll have the department manager attend in place of the president.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4868415.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01437A.mp3"
+    },
+    {
+      "ja": "そのピッチャーは途中で<b>代えられた</b>。",
+      "hrkt": "その ピッチャー は とちゅう で <b>かえられた</b>。",
+      "latn": "sono piccha- ha tochuu de <b>kaerareta</b>.",
+      "en": "The pitcher was changed in the middle.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b6a8ele0j4.mp3"
+    }
+  ]
+}

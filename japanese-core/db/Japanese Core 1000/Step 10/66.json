@@ -1,0 +1,26 @@
+{
+  "ja": "昼食",
+  "hrkt": "ちゅうしょく",
+  "latn": "chuushoku",
+  "en": "lunch (formal)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05668A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>昼食</b>に寿司を食べました。",
+      "hrkt": "<b>ちゅうしょく</b> に すし を たべました。",
+      "latn": "<b>chuushoku</b> ni sushi wo tabemashita.",
+      "en": "I ate sushi for lunch.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4248688.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05668A.mp3"
+    },
+    {
+      "ja": "<b>昼食</b>におにぎりを食べました。",
+      "hrkt": "<b>ちゅうしょく</b> に おにぎり を たべました。",
+      "latn": "<b>chuushoku</b> ni onigiri wo tabemashita.",
+      "en": "I ate rice balls for lunch.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/f3d066bipo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03268A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "炊く",
+  "hrkt": "たく",
+  "latn": "taku",
+  "en": "cook (rice)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05308A.mp3",
+  "sentences": [
+    {
+      "ja": "母は毎朝ご飯を<b>炊く</b>。",
+      "hrkt": "はは は まいあさ ごはん を <b>たく</b>。",
+      "latn": "haha ha maiasa gohan wo <b>taku</b>.",
+      "en": "My mother cooks rice every morning.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2890960.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05308A.mp3"
+    },
+    {
+      "ja": "ご飯と一緒にとり肉を<b>炊きました</b>。",
+      "hrkt": "ごはん と いっしょ に とりにく を <b>たきました</b>。",
+      "latn": "gohan to issho ni toriniku wo <b>takimashita</b>.",
+      "en": "I cooked chicken with rice.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e5al6cd5vg.mp3"
+    }
+  ]
+}

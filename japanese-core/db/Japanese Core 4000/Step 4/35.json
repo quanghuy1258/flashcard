@@ -1,0 +1,18 @@
+{
+  "ja": "政党",
+  "hrkt": "せいとう",
+  "latn": "seitou",
+  "en": "political party",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00516A.mp3",
+  "sentences": [
+    {
+      "ja": "選挙では3つの<b>政党</b>が争っています。",
+      "hrkt": "せんきょ で は みっつ の <b>せいとう</b> が あらそって います。",
+      "latn": "senkyo de ha mittsu no <b>seitou</b> ga arasotte imasu.",
+      "en": "Three political parties are competing in the election.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00516A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "干す",
+  "hrkt": "ほす",
+  "latn": "hosu",
+  "en": "hang (something) out to dry",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08526A.mp3",
+  "sentences": [
+    {
+      "ja": "母は洗濯物を<b>干して</b>います。",
+      "hrkt": "はは は せんたくもの を <b>ほして</b> います。",
+      "latn": "haha ha sentakumono wo <b>hoshite</b> imasu.",
+      "en": "My mother's hanging out the laundry to dry.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3366927.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08526A.mp3"
+    },
+    {
+      "ja": "母が布団を<b>干して</b>いる。",
+      "hrkt": "はは が ふとん を <b>ほして</b> いる。",
+      "latn": "haha ga futon wo <b>hoshite</b> iru.",
+      "en": "My mother is airing the futons.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3244526.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08133A.mp3"
+    }
+  ]
+}

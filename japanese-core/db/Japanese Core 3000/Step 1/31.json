@@ -1,0 +1,18 @@
+{
+  "ja": "テント",
+  "hrkt": "テント",
+  "latn": "tento",
+  "en": "tent",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06173A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなで<b>テント</b>を張りました。",
+      "hrkt": "みんな で <b>テント</b> を はりました。",
+      "latn": "minna de <b>tento</b> wo harimashita.",
+      "en": "We set up the tent together.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/23el5g4dt0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06173A.mp3"
+    }
+  ]
+}

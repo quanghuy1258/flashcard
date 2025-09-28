@@ -1,0 +1,26 @@
+{
+  "ja": "そば屋",
+  "hrkt": "そばや",
+  "latn": "sobaya",
+  "en": "buckwheat noodle shop",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05089A.mp3",
+  "sentences": [
+    {
+      "ja": "昼は<b>そば屋</b>に行きました。",
+      "hrkt": "ひる は <b>そば や</b> に いきました。",
+      "latn": "hiru ha <b>soba ya</b> ni ikimashita.",
+      "en": "I went to a noodle shop for lunch.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1144595.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05089A.mp3"
+    },
+    {
+      "ja": "私はあの<b>そば屋</b>の天ぷらそばが大好きです。",
+      "hrkt": "わたし は あの <b>そば や</b> の てんぷら そば が だいすき です。",
+      "latn": "watashi ha ano <b>soba ya</b> no tenpura soba ga daisuki desu.",
+      "en": "I love the soba noodles with tempura at that noodle shop.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/04e5cl6aa4.mp3"
+    }
+  ]
+}

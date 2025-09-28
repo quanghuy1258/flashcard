@@ -1,0 +1,18 @@
+{
+  "ja": "博士",
+  "hrkt": "はかせ",
+  "latn": "hakase",
+  "en": "expert, master",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00724A.mp3",
+  "sentences": [
+    {
+      "ja": "うちの息子は野球のことをよく知っていて、野球<b>博士</b>と言われている。",
+      "hrkt": "うち の むすこ は やきゅう の こと を よく しって いて、やきゅう <b>はかせ</b> と いわれて いる。",
+      "latn": "uchi no musuko ha yakyuu no koto wo yoku shitte ite,yakyuu <b>hakase</b> to iwarete iru.",
+      "en": "My son knows a lot about baseball and is said to be a baseball expert.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/743d6h787c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/021f6v2d80.mp3"
+    }
+  ]
+}

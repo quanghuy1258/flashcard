@@ -1,0 +1,26 @@
+{
+  "ja": "なかなか",
+  "hrkt": "なかなか",
+  "latn": "nakanaka",
+  "en": "pretty, considerably",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01294A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は絵が<b>なかなか</b>上手です。",
+      "hrkt": "かのじょ は え が <b>なかなか</b> じょうず です。",
+      "latn": "kanojo ha e ga <b>nakanaka</b> jouzu desu.",
+      "en": "She's pretty good at painting.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/5l0b5vbbmpgck.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01294A.mp3"
+    },
+    {
+      "ja": "この映画は<b>なかなか</b>面白いですね。",
+      "hrkt": "この えいが は <b>なかなか</b> おもしろい です ね。",
+      "latn": "kono eiga ha <b>nakanaka</b> omoshiroi desu ne.",
+      "en": "This movie is pretty funny.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/74fe5p8sos.mp3"
+    }
+  ]
+}

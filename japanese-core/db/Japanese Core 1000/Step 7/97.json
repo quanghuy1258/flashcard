@@ -1,0 +1,26 @@
+{
+  "ja": "事務所",
+  "hrkt": "じむしょ",
+  "latn": "jimusho",
+  "en": "office, one's place of business",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03866A.mp3",
+  "sentences": [
+    {
+      "ja": "後で<b>事務所</b>に来てください。",
+      "hrkt": "あと で <b>じむしょ</b> に きて ください。",
+      "latn": "ato de <b>jimusho</b> ni kite kudasai.",
+      "en": "Please come to the office later.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4825997.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03866A.mp3"
+    },
+    {
+      "ja": "彼らは大阪に新しい<b>事務所</b>を開いた。",
+      "hrkt": "かれら は おおさか に あたらしい <b>じむしょ</b> を ひらいた。",
+      "latn": "karera ha oosaka ni atarashii <b>jimusho</b> wo hiraita.",
+      "en": "They opened a new office in Osaka.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f4cgck06qk.mp3"
+    }
+  ]
+}

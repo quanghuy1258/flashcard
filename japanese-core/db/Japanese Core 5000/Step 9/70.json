@@ -1,0 +1,18 @@
+{
+  "ja": "兵器",
+  "hrkt": "へいき",
+  "latn": "heiki",
+  "en": "arms, weapon",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00791A.mp3",
+  "sentences": [
+    {
+      "ja": "あの国は強力な<b>兵器</b>を持っている。",
+      "hrkt": "あの くに は きょうりょくな <b>へいき</b> を もって いる。",
+      "latn": "ano kuni ha kyouryokuna <b>heiki</b> wo motte iru.",
+      "en": "That country has powerful weapons.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00791A.mp3"
+    }
+  ]
+}

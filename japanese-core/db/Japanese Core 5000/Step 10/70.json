@@ -1,0 +1,18 @@
+{
+  "ja": "履歴",
+  "hrkt": "りれき",
+  "latn": "rireki",
+  "en": "history, personal history",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03003A.mp3",
+  "sentences": [
+    {
+      "ja": "最近使ったファイルは、<b>履歴</b>からすぐ開けます。",
+      "hrkt": "さいきん つかった ファイル は、<b>りれき</b> から すぐ ひらけます。",
+      "latn": "saikin tsukatta fairu ha,<b>rireki</b> kara sugu hirakemasu.",
+      "en": "You can easily find and open recently used files in the history folder.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03003A.mp3"
+    }
+  ]
+}

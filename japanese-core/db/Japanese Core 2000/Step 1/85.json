@@ -1,0 +1,26 @@
+{
+  "ja": "大学院",
+  "hrkt": "だいがくいん",
+  "latn": "daigakuin",
+  "en": "graduate school",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05164A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>大学院</b>に進みました。",
+      "hrkt": "かれ は <b>だいがくいん</b> に すすみました。",
+      "latn": "kare ha <b>daigakuin</b> ni susumimashita.",
+      "en": "He's gone on to graduate school.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4459912.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05164A.mp3"
+    },
+    {
+      "ja": "私は<b>大学院</b>でもっと科学を勉強したいです。",
+      "hrkt": "わたし は <b>だいがくいん</b> で もっと かがく を べんきょう したい です。",
+      "latn": "watashi ha <b>daigakuin</b> de motto kagaku wo benkyou shitai desu.",
+      "en": "I want to study science more in graduate school.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/86868l3res.mp3"
+    }
+  ]
+}

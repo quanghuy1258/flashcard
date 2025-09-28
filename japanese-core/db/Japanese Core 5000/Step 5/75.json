@@ -1,0 +1,26 @@
+{
+  "ja": "一般に",
+  "hrkt": "いっぱんに",
+  "latn": "ippanni",
+  "en": "generally, in general",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00469A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>一般に</b>お年寄りは早起きです。",
+      "hrkt": "<b>いっぱん に</b> おとしより は はやおき です。",
+      "latn": "<b>ippan ni</b> otoshiyori ha hayaoki desu.",
+      "en": "Generally, elderly people are early risers.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/84d1dl5f1g.mp3"
+    },
+    {
+      "ja": "<b>一般に</b>女性の方が寿命が長いです。",
+      "hrkt": "<b>いっぱん に</b> じょせい の ほう が じゅみょう が ながい です。",
+      "latn": "<b>ippan ni</b> josei no hou ga jumyou ga nagai desu.",
+      "en": "In general, women have a longer life span.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/55fqaq4s3s.mp3"
+    }
+  ]
+}

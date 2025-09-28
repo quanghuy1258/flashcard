@@ -1,0 +1,26 @@
+{
+  "ja": "洗濯",
+  "hrkt": "せんたく",
+  "latn": "sentaku",
+  "en": "laundry, washing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04905A.mp3",
+  "sentences": [
+    {
+      "ja": "一週間、<b>洗濯</b>をしていない。",
+      "hrkt": "いっ しゅうかん、<b>せんたく</b> を して いない。",
+      "latn": "i shuukan,<b>sentaku</b> wo shite inai.",
+      "en": "I haven't done the laundry for a week.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4991864.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04905A.mp3"
+    },
+    {
+      "ja": "雨で<b>洗濯</b>ができない。",
+      "hrkt": "あめ で <b>せんたく</b> が できない。",
+      "latn": "ame de <b>sentaku</b> ga dekinai.",
+      "en": "I can't do laundry because of the rain.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b2am937nf8.mp3"
+    }
+  ]
+}

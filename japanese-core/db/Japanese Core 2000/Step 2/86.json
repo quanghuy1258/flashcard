@@ -1,0 +1,26 @@
+{
+  "ja": "ソファー",
+  "hrkt": "ソファー",
+  "latn": "sofa-",
+  "en": "sofa, couch",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05092A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>ソファー</b>は気持ちがいい。",
+      "hrkt": "この <b>ソファー</b> は きもち が いい。",
+      "latn": "kono <b>sofa-</b> ha kimochi ga ii.",
+      "en": "This sofa is comfortable.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5305671.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05092A.mp3"
+    },
+    {
+      "ja": "私の犬はいつもこの<b>ソファー</b>に座ります。",
+      "hrkt": "わたし の いぬ は いつも この <b>ソファー</b> に すわります。",
+      "latn": "watashi no inu ha itsumo kono <b>sofa-</b> ni suwarimasu.",
+      "en": "My dog always sits on this sofa.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d52d8sfv2k.mp3"
+    }
+  ]
+}

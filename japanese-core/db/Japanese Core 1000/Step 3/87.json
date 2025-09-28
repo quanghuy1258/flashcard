@@ -1,0 +1,26 @@
+{
+  "ja": "直る",
+  "hrkt": "なおる",
+  "latn": "naoru",
+  "en": "be repaired, get fixed",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06623A.mp3",
+  "sentences": [
+    {
+      "ja": "クーラーはまだ<b>直りません</b>。",
+      "hrkt": "クーラー は まだ <b>なおりません</b>。",
+      "latn": "ku-ra- ha mada <b>naorimasen</b>.",
+      "en": "The air conditioner hasn't been repaired yet.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3899874.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06623A.mp3"
+    },
+    {
+      "ja": "このプリンター、<b>直ります</b>か。",
+      "hrkt": "この プリンター、<b>なおります</b> か。",
+      "latn": "kono purinta-,<b>naorimasu</b> ka.",
+      "en": "Can this printer be fixed?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b36v7addfg.mp3"
+    }
+  ]
+}

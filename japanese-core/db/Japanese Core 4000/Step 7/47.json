@@ -1,0 +1,18 @@
+{
+  "ja": "毒",
+  "hrkt": "どく",
+  "latn": "doku",
+  "en": "poison, harm",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01969A.mp3",
+  "sentences": [
+    {
+      "ja": "飲み過ぎは体に<b>毒</b>ですよ。",
+      "hrkt": "のみ すぎ は からだ に <b>どく</b> です よ。",
+      "latn": "nomi sugi ha karada ni <b>doku</b> desu yo.",
+      "en": "Drinking too much can harm your body.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01969A.mp3"
+    }
+  ]
+}

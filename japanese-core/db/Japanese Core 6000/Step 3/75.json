@@ -1,0 +1,18 @@
+{
+  "ja": "志す",
+  "hrkt": "こころざす",
+  "latn": "kokorozasu",
+  "en": "aim, pursue",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02298A.mp3",
+  "sentences": [
+    {
+      "ja": "私は医者を<b>志して</b>います。",
+      "hrkt": "わたし は いしゃ を <b> こころざして</b> います。",
+      "latn": "watashi ha isha wo <b> kokorozashite</b> imasu.",
+      "en": "I aim to become a doctor.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02298A.mp3"
+    }
+  ]
+}

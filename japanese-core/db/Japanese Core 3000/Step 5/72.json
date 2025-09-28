@@ -1,0 +1,18 @@
+{
+  "ja": "車椅子",
+  "hrkt": "くるまいす",
+  "latn": "kurumaisu",
+  "en": "wheelchair",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02320A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>車椅子</b>に乗っています。",
+      "hrkt": "かのじょ は <b>くるまいす</b> に のって います。",
+      "latn": "kanojo ha <b>kurumaisu</b> ni notte imasu.",
+      "en": "She uses a wheelchair.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a5dvaqahmo.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02320A.mp3"
+    }
+  ]
+}

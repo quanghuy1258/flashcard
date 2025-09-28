@@ -1,0 +1,26 @@
+{
+  "ja": "料理",
+  "hrkt": "りょうり",
+  "latn": "ryouri",
+  "en": "cooking, dish",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09868A.mp3",
+  "sentences": [
+    {
+      "ja": "母は<b>料理</b>が得意です。",
+      "hrkt": "はは は <b>りょうり</b> が とくい です。",
+      "latn": "haha ha <b>ryouri</b> ga tokui desu.",
+      "en": "My mother is good at cooking.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5479657.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09868A.mp3"
+    },
+    {
+      "ja": "この<b>料理</b>はとても簡単です。",
+      "hrkt": "この <b>りょうり</b> は とても かんたん です。",
+      "latn": "kono <b>ryouri</b> ha totemo kantan desu.",
+      "en": "This dish is very easy to make.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4945168.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01942A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "舌",
+  "hrkt": "した",
+  "latn": "shita",
+  "en": "tongue",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03715A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>舌</b>を出してください。",
+      "hrkt": "<b>した</b> を だして ください。",
+      "latn": "<b>shita</b> wo dashite kudasai.",
+      "en": "Stick out your tongue.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5470770.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03715A.mp3"
+    },
+    {
+      "ja": "猫が<b>舌</b>で自分の体をきれいにしています。",
+      "hrkt": "ねこ が <b>した</b> で じぶん の からだ を きれい に して います。",
+      "latn": "neko ga <b>shita</b> de jibun no karada wo kirei ni shite imasu.",
+      "en": "The cat is cleaning itself with its tongue.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/11269v6qa0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "アマチュア",
+  "hrkt": "アマチュア",
+  "latn": "amachua",
+  "en": "amateur",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01811A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>アマチュア</b>音楽家です。",
+      "hrkt": "かれ は <b>アマチュア</b> おんがく か です。",
+      "latn": "kare ha <b>amachua</b> ongaku ka desu.",
+      "en": "He is an amateur musician.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/051b481r94.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01811A.mp3"
+    }
+  ]
+}

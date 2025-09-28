@@ -1,0 +1,18 @@
+{
+  "ja": "罰金",
+  "hrkt": "ばっきん",
+  "latn": "bakkin",
+  "en": "fine, penalty",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02032A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>罰金</b>を3万円もとられたよ。",
+      "hrkt": "<b>ばっきん</b> を 3 まん えん も とられた よ。",
+      "latn": "<b>bakkin</b> wo 3 man en mo torareta yo.",
+      "en": "I had to pay a fine of 30,000 yen.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02032A.mp3"
+    }
+  ]
+}

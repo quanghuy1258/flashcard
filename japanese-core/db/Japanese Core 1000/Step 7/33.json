@@ -1,0 +1,26 @@
+{
+  "ja": "手紙",
+  "hrkt": "てがみ",
+  "latn": "tegami",
+  "en": "letter",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06037A.mp3",
+  "sentences": [
+    {
+      "ja": "友人から<b>手紙</b>をもらいました。",
+      "hrkt": "ゆうじん から <b>てがみ</b> を もらいました。",
+      "latn": "yuujin kara <b>tegami</b> wo moraimashita.",
+      "en": "I got a letter from my friend.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/688950.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06037A.mp3"
+    },
+    {
+      "ja": "彼に<b>手紙</b>を書きました。",
+      "hrkt": "かれ に <b>てがみ</b> を かきました。",
+      "latn": "kare ni <b>tegami</b> wo kakimashita.",
+      "en": "I wrote him a letter.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4221544.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01487A.mp3"
+    }
+  ]
+}

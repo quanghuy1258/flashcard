@@ -1,0 +1,26 @@
+{
+  "ja": "草",
+  "hrkt": "くさ",
+  "latn": "kusa",
+  "en": "grass, weed",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02426A.mp3",
+  "sentences": [
+    {
+      "ja": "庭に<b>草</b>が生えている。",
+      "hrkt": "にわ に <b>くさ</b> が はえて いる。",
+      "latn": "niwa ni <b>kusa</b> ga haete iru.",
+      "en": "Weeds are growing in the garden.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3219714.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02426A.mp3"
+    },
+    {
+      "ja": "牛が<b>草</b>を食べています。",
+      "hrkt": "うし が <b>くさ</b> を たべて います。",
+      "latn": "ushi ga <b>kusa</b> wo tabete imasu.",
+      "en": "The cow is eating grass.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4788828.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00685A.mp3"
+    }
+  ]
+}

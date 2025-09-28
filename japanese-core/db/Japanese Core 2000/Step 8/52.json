@@ -1,0 +1,26 @@
+{
+  "ja": "人間",
+  "hrkt": "にんげん",
+  "latn": "ningen",
+  "en": "human being",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06914A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>人間</b>の心は複雑です。",
+      "hrkt": "<b>にんげん</b> の こころ は ふくざつ です。",
+      "latn": "<b>ningen</b> no kokoro ha fukuzatsu desu.",
+      "en": "The human mind is complex.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5809739.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06914A.mp3"
+    },
+    {
+      "ja": "<b>人間</b>は自然には勝てません。",
+      "hrkt": "<b>にんげん</b> は しぜん に は かてません。",
+      "latn": "<b>ningen</b> ha shizen ni ha katemasen.",
+      "en": "Human beings cannot win against nature.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/554k0c18q0.mp3"
+    }
+  ]
+}

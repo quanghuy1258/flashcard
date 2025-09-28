@@ -1,0 +1,18 @@
+{
+  "ja": "召し上がる",
+  "hrkt": "めしあがる",
+  "latn": "meshiagaru",
+  "en": "eat (honorific)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02226A.mp3",
+  "sentences": [
+    {
+      "ja": "どうぞ<b>召し上がって</b>ください。",
+      "hrkt": "どうぞ <b>めしあがって</b> ください。",
+      "latn": "douzo <b>meshiagatte</b> kudasai.",
+      "en": "Please eat.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02226A.mp3"
+    }
+  ]
+}

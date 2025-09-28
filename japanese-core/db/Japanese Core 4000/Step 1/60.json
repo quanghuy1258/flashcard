@@ -1,0 +1,18 @@
+{
+  "ja": "文学",
+  "hrkt": "ぶんがく",
+  "latn": "bungaku",
+  "en": "literature",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00800A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>文学</b>に興味をもっているのよ。",
+      "hrkt": "かのじょ は <b>ぶんがく</b> に きょうみ を もって いる の よ 。",
+      "latn": "kanojo ha <b>bungaku</b> ni kyoumi wo motte iru no yo .",
+      "en": "She's interested in literature.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b27aalfo2s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00800A.mp3"
+    }
+  ]
+}

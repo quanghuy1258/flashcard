@@ -1,0 +1,26 @@
+{
+  "ja": "お菓子",
+  "hrkt": "おかし",
+  "latn": "okashi",
+  "en": "sweets, snacks",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01008A.mp3",
+  "sentences": [
+    {
+      "ja": "お母さんと一緒に<b>お菓子</b>を作りました。",
+      "hrkt": "おかあさん と いっしょ に <b>おかし</b> を つくりました。",
+      "latn": "okaasan to issho ni <b>okashi</b> wo tsukurimashita.",
+      "en": "I made sweets with my mother.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4944966.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01008A.mp3"
+    },
+    {
+      "ja": "みんなに<b>お菓子</b>をあげましょう。",
+      "hrkt": "みんな に <b>おかし</b> を あげましょう。",
+      "latn": "minna ni <b>okashi</b> wo agemashou.",
+      "en": "Let's give everyone some sweets.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4229800.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09024A.mp3"
+    }
+  ]
+}

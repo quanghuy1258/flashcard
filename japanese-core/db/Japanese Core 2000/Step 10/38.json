@@ -1,0 +1,26 @@
+{
+  "ja": "姿",
+  "hrkt": "すがた",
+  "latn": "sugata",
+  "en": "figure, appearance",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04526A.mp3",
+  "sentences": [
+    {
+      "ja": "遠くに彼女の<b>姿</b>が見えた。",
+      "hrkt": "とおく に かのじょ の <b>すがた</b> が みえた。",
+      "latn": "tooku ni kanojo no <b>sugata</b> ga mieta.",
+      "en": "I saw her figure from a distance.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/683674.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04526A.mp3"
+    },
+    {
+      "ja": "彼は急に<b>姿</b>を消した。",
+      "hrkt": "かれ は きゅう に <b>すがた</b> を けした。",
+      "latn": "kare ha kyuu ni <b>sugata</b> wo keshita.",
+      "en": "He suddenly disappeared.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/96a81acvb4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "褒める",
+  "hrkt": "ほめる",
+  "latn": "homeru",
+  "en": "praise, compliment",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08573A.mp3",
+  "sentences": [
+    {
+      "ja": "頑張ったので<b>褒められました</b>。",
+      "hrkt": "がんばった ので <b>ほめられました</b>。",
+      "latn": "ganbatta node <b>homeraremashita</b>.",
+      "en": "He was praised because he worked hard.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6344723.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08573A.mp3"
+    },
+    {
+      "ja": "子供は<b>褒めて</b>育てましょう。",
+      "hrkt": "こども は <b>ほめて</b> そだてましょう。",
+      "latn": "kodomo ha <b>homete</b> sodatemashou.",
+      "en": "Raise children by praising them.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e6b4b4220o.mp3"
+    }
+  ]
+}

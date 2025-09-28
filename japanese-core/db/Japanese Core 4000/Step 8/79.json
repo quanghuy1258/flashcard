@@ -1,0 +1,18 @@
+{
+  "ja": "周り",
+  "hrkt": "まわり",
+  "latn": "mawari",
+  "en": "vicinity, surroundings",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02434A.mp3",
+  "sentences": [
+    {
+      "ja": "先生の<b>周り</b>に集まってください。",
+      "hrkt": "せんせい の <b>まわり</b> に あつまって ください。",
+      "latn": "sensei no <b>mawari</b> ni atsumatte kudasai.",
+      "en": "Gather around the teacher.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02434A.mp3"
+    }
+  ]
+}

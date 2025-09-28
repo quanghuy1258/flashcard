@@ -1,0 +1,18 @@
+{
+  "ja": "有料",
+  "hrkt": "ゆうりょう",
+  "latn": "yuuryou",
+  "en": "fee-charging, paid",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02259A.mp3",
+  "sentences": [
+    {
+      "ja": "このトイレは<b>有料</b>です。",
+      "hrkt": "この トイレ は <b>ゆうりょう</b> です。",
+      "latn": "kono toire ha <b>yuuryou</b> desu.",
+      "en": "This is a paid toilet.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02259A.mp3"
+    }
+  ]
+}

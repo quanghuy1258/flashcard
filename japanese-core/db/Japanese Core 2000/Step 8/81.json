@@ -1,0 +1,26 @@
+{
+  "ja": "書類",
+  "hrkt": "しょるい",
+  "latn": "shorui",
+  "en": "documents, papers",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01613A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>書類</b>を10枚コピー しました。",
+      "hrkt": "<b>しょるい</b> を 10 まい コピー しました。",
+      "latn": "<b>shorui</b> wo 10 mai kopi- shimashita.",
+      "en": "I made ten copies of the document.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1545120.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01613A.mp3"
+    },
+    {
+      "ja": "これは重要な<b>書類</b>です。",
+      "hrkt": "これ は じゅうような <b>しょるい</b> です。",
+      "latn": "kore ha juuyouna <b>shorui</b> desu.",
+      "en": "This is an important document.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1936211.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04018A.mp3"
+    }
+  ]
+}

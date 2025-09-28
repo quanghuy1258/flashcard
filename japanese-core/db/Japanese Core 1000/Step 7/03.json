@@ -1,0 +1,26 @@
+{
+  "ja": "はっきり",
+  "hrkt": "はっきり",
+  "latn": "hakkiri",
+  "en": "clearly",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07361A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は山が<b>はっきり</b>見える。",
+      "hrkt": "きょう は やま が <b>はっきり</b> みえる。",
+      "latn": "kyou ha yama ga <b>hakkiri</b> mieru.",
+      "en": "You can see the mountains clearly today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3986271.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07361A.mp3"
+    },
+    {
+      "ja": "あの人はいつも自分の意見を<b>はっきり</b>言う。",
+      "hrkt": "あの ひと は いつも じぶん の いけん を <b>はっきり</b> いう。",
+      "latn": "ano hito ha itsumo jibun no iken wo <b>hakkiri</b> iu.",
+      "en": "That person always expresses his opinions clearly.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a37defcd70.mp3"
+    }
+  ]
+}

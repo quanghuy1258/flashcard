@@ -1,0 +1,26 @@
+{
+  "ja": "私たち",
+  "hrkt": "わたしたち",
+  "latn": "watashitachi",
+  "en": "we (colloquial)",
+  "pos": "Pronoun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW10046A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>私たち</b>は来月結婚します。",
+      "hrkt": "<b>わたし たち</b> は らいげつ けっこん します。",
+      "latn": "<b>watashi tachi</b> ha raigetsu kekkon shimasu.",
+      "en": "We will get married next month.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5276703.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10046A.mp3"
+    },
+    {
+      "ja": "<b>私たち</b>はビデオゲームをした。",
+      "hrkt": "<b>わたし たち</b> は ビデオ ゲーム を した。",
+      "latn": "<b>watashi tachi</b> ha bideo ge-mu wo shita.",
+      "en": "We played a video game.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5557240.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02652A.mp3"
+    }
+  ]
+}

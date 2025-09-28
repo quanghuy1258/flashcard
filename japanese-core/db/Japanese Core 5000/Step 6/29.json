@@ -1,0 +1,18 @@
+{
+  "ja": "割合に",
+  "hrkt": "わりあいに",
+  "latn": "wariaini",
+  "en": "relatively, rather",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW04000A.mp3",
+  "sentences": [
+    {
+      "ja": "今回のテストは<b>割合に</b>簡単でした。",
+      "hrkt": "こんかい の テスト は <b>わりあい に</b> かんたん でした。",
+      "latn": "konkai no tesuto ha <b>wariai ni</b> kantan deshita.",
+      "en": "The test was relatively easy this time.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS04000A.mp3"
+    }
+  ]
+}

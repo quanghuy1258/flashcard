@@ -1,0 +1,26 @@
+{
+  "ja": "喫茶店",
+  "hrkt": "きっさてん",
+  "latn": "kissaten",
+  "en": "coffee shop, café",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02113A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>喫茶店</b>でコーヒーを飲んだ。",
+      "hrkt": "<b>きっさてん</b> で コーヒー を のんだ。",
+      "latn": "<b>kissaten</b> de ko-hi- wo nonda.",
+      "en": "I drank coffee in the café",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5806137.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02113A.mp3"
+    },
+    {
+      "ja": "いつもの<b>喫茶店</b>で3時に会いましょう。",
+      "hrkt": "いつも の <b>きっさてん</b> で 3 じ に あいましょう。",
+      "latn": "itsumo no <b>kissaten</b> de 3 ji ni aimashou.",
+      "en": "Let's meet at 3 o'clock at the usual cafe.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a65h9m0jc0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ぐっすり",
+  "hrkt": "ぐっすり",
+  "latn": "gussuri",
+  "en": "soundly",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02483A.mp3",
+  "sentences": [
+    {
+      "ja": "赤ちゃんが<b>ぐっすり</b>寝ている。",
+      "hrkt": "あかちゃん が <b>ぐっすり</b> ねて いる。",
+      "latn": "akachan ga <b>gussuri</b> nete iru.",
+      "en": "The baby's sleeping soundly.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4950908.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02483A.mp3"
+    },
+    {
+      "ja": "昨日は<b>ぐっすり</b>眠れました。",
+      "hrkt": "きのう は <b>ぐっすり</b> ねむれました。",
+      "latn": "kinou ha <b>gussuri</b> nemuremashita.",
+      "en": "I slept well last night.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/461vc95dp8.mp3"
+    }
+  ]
+}

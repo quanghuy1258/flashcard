@@ -1,0 +1,26 @@
+{
+  "ja": "寺",
+  "hrkt": "てら",
+  "latn": "tera",
+  "en": "temple",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06125A.mp3",
+  "sentences": [
+    {
+      "ja": "あそこに古いお<b>寺</b>があります。",
+      "hrkt": "あそこ に ふるい お<b>てら</b> が あります。",
+      "latn": "asoko ni furui o<b>tera</b> ga arimasu.",
+      "en": "There's an old temple there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5311860.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06125A.mp3"
+    },
+    {
+      "ja": "京都にはお<b>寺</b>が多い。",
+      "hrkt": "きょうと に は お<b>てら</b> が おおい。",
+      "latn": "kyouto ni ha o<b>tera</b> ga ooi.",
+      "en": "There are a lot of temples in Kyoto.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4873535.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00964A.mp3"
+    }
+  ]
+}

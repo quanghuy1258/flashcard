@@ -1,0 +1,26 @@
+{
+  "ja": "停車",
+  "hrkt": "ていしゃ",
+  "latn": "teisha",
+  "en": "stop (of a train)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06005A.mp3",
+  "sentences": [
+    {
+      "ja": "この電車は東京まで<b>停車</b>いたしません。",
+      "hrkt": "この でんしゃ は とうきょう まで <b>ていしゃ</b> いたしません。",
+      "latn": "kono densha ha toukyou made <b>teisha</b> itashimasen.",
+      "en": "This train won't stop until it reaches Tokyo.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4619117.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06005A.mp3"
+    },
+    {
+      "ja": "次の<b>停車</b>駅は品川です。",
+      "hrkt": "つぎ の <b>ていしゃ</b> えき は しながわ です。",
+      "latn": "tsugi no <b>teisha</b> eki ha shinagawa desu.",
+      "en": "The next stop is Shinagawa.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/754h1ccpdg.mp3"
+    }
+  ]
+}

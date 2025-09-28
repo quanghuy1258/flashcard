@@ -1,0 +1,26 @@
+{
+  "ja": "セーター",
+  "hrkt": "セーター",
+  "latn": "se-ta-",
+  "en": "sweater",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04770A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>セーター</b>はウールだ。",
+      "hrkt": "この <b>セーター</b> は ウール だ。",
+      "latn": "kono <b>se-ta-</b> ha u-ru da.",
+      "en": "This sweater is made of wool.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4963513.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04770A.mp3"
+    },
+    {
+      "ja": "すてきな色の<b>セーター</b>ですね。",
+      "hrkt": "すてきな いろ の <b>セーター</b> です ね。",
+      "latn": "sutekina iro no <b>se-ta-</b> desu ne.",
+      "en": "I like the color of your sweater.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4733263.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00614A.mp3"
+    }
+  ]
+}

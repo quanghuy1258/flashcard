@@ -1,0 +1,26 @@
+{
+  "ja": "動き",
+  "hrkt": "うごき",
+  "latn": "ugoki",
+  "en": "movement, motion",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00682A.mp3",
+  "sentences": [
+    {
+      "ja": "まず相手の<b>動き</b>を見ましょう。",
+      "hrkt": "まず あいて の <b>うごき</b> を みましょう。",
+      "latn": "mazu aite no <b>ugoki</b> wo mimashou.",
+      "en": "First, watch your opponent's moves.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5629740.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00682A.mp3"
+    },
+    {
+      "ja": "雲の<b>動き</b>を見てみましょう。",
+      "hrkt": "くも の <b>うごき</b> を みて みましょう。",
+      "latn": "kumo no <b>ugoki</b> wo mite mimashou.",
+      "en": "Let's look at the movement of the clouds.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d45fe43cq0.mp3"
+    }
+  ]
+}

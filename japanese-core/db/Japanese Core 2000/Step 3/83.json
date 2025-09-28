@@ -1,0 +1,26 @@
+{
+  "ja": "棚",
+  "hrkt": "たな",
+  "latn": "tana",
+  "en": "shelf, rack",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05417A.mp3",
+  "sentences": [
+    {
+      "ja": "大きな<b>棚</b>はとても便利です。",
+      "hrkt": "おおきな <b>たな</b> は とても べんり です。",
+      "latn": "ookina <b>tana</b> ha totemo benri desu.",
+      "en": "A large set of shelves is very useful.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3984769.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05417A.mp3"
+    },
+    {
+      "ja": "<b>棚</b>からその箱を下ろしてください。",
+      "hrkt": "<b>たな</b> から その はこ を おろして ください。",
+      "latn": "<b>tana</b> kara sono hako wo oroshite kudasai.",
+      "en": "Please take the box down from the shelf.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/528121.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01264A.mp3"
+    }
+  ]
+}

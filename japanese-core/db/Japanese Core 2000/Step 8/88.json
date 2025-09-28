@@ -1,0 +1,26 @@
+{
+  "ja": "梅干し",
+  "hrkt": "うめぼし",
+  "latn": "umeboshi",
+  "en": "pickled plum",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03337A.mp3",
+  "sentences": [
+    {
+      "ja": "うちでは、朝食には必ず<b>梅干し</b>が出ます。",
+      "hrkt": "うち で は、 ちょうしょく に は かならず <b>うめぼし</b> が でます。",
+      "latn": "uchi de ha, choushoku ni ha kanarazu <b>umeboshi</b> ga demasu.",
+      "en": "Pickled plums are always served for breakfast at my home.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/al4iade0ip22s.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03337A.mp3"
+    },
+    {
+      "ja": "朝ご飯は<b>梅干し</b>とご飯だけでいいです。",
+      "hrkt": "あさ ごはん は <b>うめぼし</b> と ごはん だけ で いい です。",
+      "latn": "asa gohan ha <b>umeboshi</b> to gohan dake de ii desu.",
+      "en": "Just rice and a pickled plum will be good for breakfast.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/230nch81t8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "ストーブ",
+  "hrkt": "ストーブ",
+  "latn": "suto-bu",
+  "en": "stove",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04593A.mp3",
+  "sentences": [
+    {
+      "ja": "うちではまだ<b>ストーブ</b>を使っています。",
+      "hrkt": "うち で は まだ <b>ストーブ</b> を つかって います。",
+      "latn": "uchi de ha mada <b>suto-bu</b> wo tsukatte imasu.",
+      "en": "We are still using a stove in our house.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04593A.mp3"
+    }
+  ]
+}

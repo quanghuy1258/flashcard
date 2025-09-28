@@ -1,0 +1,26 @@
+{
+  "ja": "説明",
+  "hrkt": "せつめい",
+  "latn": "setsumei",
+  "en": "explanation, description",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04825A.mp3",
+  "sentences": [
+    {
+      "ja": "この単語の意味を<b>説明</b>してください。",
+      "hrkt": "この たんご の いみ を <b>せつめい</b> して ください。",
+      "latn": "kono tango no imi wo <b>setsumei</b> shite kudasai.",
+      "en": "Please tell me the meaning of this word.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2361914.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04825A.mp3"
+    },
+    {
+      "ja": "もっと詳しく<b>説明</b>してください。",
+      "hrkt": "もっと くわしく <b>せつめい</b> して ください。",
+      "latn": "motto kuwashiku <b>setsumei</b> shite kudasai.",
+      "en": "Please explain in greater detail.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5476303.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02569A.mp3"
+    }
+  ]
+}

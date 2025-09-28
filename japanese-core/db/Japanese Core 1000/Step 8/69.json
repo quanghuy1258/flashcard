@@ -1,0 +1,26 @@
+{
+  "ja": "コップ",
+  "hrkt": "コップ",
+  "latn": "koppu",
+  "en": "cup, glass",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03155A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎朝<b>コップ</b>一杯の水を飲む。",
+      "hrkt": "わたし は まいあさ <b>コップ</b> いっぱい の みず を のむ。",
+      "latn": "watashi ha maiasa <b>koppu</b> ippai no mizu wo nomu.",
+      "en": "I drink a glass of water every morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5353844.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03155A.mp3"
+    },
+    {
+      "ja": "<b>コップ</b>を三つ買いました。",
+      "hrkt": "<b>コップ</b> を みっつ かいました。",
+      "latn": "<b>koppu</b> wo mittsu kaimashita.",
+      "en": "I bought three glasses.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5072024.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08939A.mp3"
+    }
+  ]
+}

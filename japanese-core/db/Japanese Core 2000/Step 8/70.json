@@ -1,0 +1,26 @@
+{
+  "ja": "代わり",
+  "hrkt": "かわり",
+  "latn": "kawari",
+  "en": "substitution, alternative",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00836A.mp3",
+  "sentences": [
+    {
+      "ja": "ごま油の<b>代わり</b>にオリーブ油を使いましょう。",
+      "hrkt": "ごまあぶら の <b>かわり</b> に オリーブゆ を つかいましょう。",
+      "latn": "gomaabura no <b>kawari</b> ni ori-buyu wo tsukaimashou.",
+      "en": "Let's use olive oil instead of sesame.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/al5gcs9vl0oq8.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00836A.mp3"
+    },
+    {
+      "ja": "誰も母親の<b>代わり</b>はできません。",
+      "hrkt": "だれ も ははおや の <b>かわり</b> は できません。",
+      "latn": "dare mo hahaoya no <b>kawari</b> ha dekimasen.",
+      "en": "Nobody can substitute for one's mother.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e40dfg3tfk.mp3"
+    }
+  ]
+}

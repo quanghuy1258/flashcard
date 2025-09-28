@@ -1,0 +1,18 @@
+{
+  "ja": "音読み",
+  "hrkt": "おんよみ",
+  "latn": "on'yomi",
+  "en": "Chinese-derived kanji reading",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02962A.mp3",
+  "sentences": [
+    {
+      "ja": "この漢字の<b>音読み</b>は何ですか。",
+      "hrkt": "この かんじ の <b>おんよみ</b> は なん です か。",
+      "latn": "kono kanji no <b>on'yomi</b> ha nan desu ka.",
+      "en": "What's the Chinese-derived reading of this kanji?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02962A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "折る",
+  "hrkt": "おる",
+  "latn": "oru",
+  "en": "break (something), fold (something)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01253A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父は足の骨を<b>折りました</b>。",
+      "hrkt": "そふ は あし の ほね を <b>おりました</b>。",
+      "latn": "sofu ha ashi no hone wo <b>orimashita</b>.",
+      "en": "My grandfather broke a bone in his foot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3200927.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01253A.mp3"
+    },
+    {
+      "ja": "まずおり紙を半分に<b>折って</b>ください。",
+      "hrkt": "まず おりがみ を はんぶん に <b>おって</b> ください。",
+      "latn": "mazu origami wo hanbun ni <b>otte</b> kudasai.",
+      "en": "First, please fold the origami paper in half.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c58lfg7p4s.mp3"
+    }
+  ]
+}

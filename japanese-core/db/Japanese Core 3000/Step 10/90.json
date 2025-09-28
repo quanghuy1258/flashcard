@@ -1,0 +1,18 @@
+{
+  "ja": "楽",
+  "hrkt": "らく",
+  "latn": "raku",
+  "en": "comfortable, easy",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03957A.mp3",
+  "sentences": [
+    {
+      "ja": "彼には<b>楽</b>な仕事が与えられたよ。",
+      "hrkt": "かれ に は <b>らく</b>な しごと が あたえられた よ。",
+      "latn": "kare ni ha <b>raku</b>na shigoto ga ataerareta yo.",
+      "en": "They gave him an easy job.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/75b45m4g0g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03957A.mp3"
+    }
+  ]
+}

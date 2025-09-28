@@ -1,0 +1,26 @@
+{
+  "ja": "換える",
+  "hrkt": "かえる",
+  "latn": "kaeru",
+  "en": "exchange, convert",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01440A.mp3",
+  "sentences": [
+    {
+      "ja": "車のタイヤを<b>換えた</b>。",
+      "hrkt": "くるま の タイヤ を <b>かえた</b>。",
+      "latn": "kuruma no taiya wo <b>kaeta</b>.",
+      "en": "I changed the tires on the car.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4123954.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01440A.mp3"
+    },
+    {
+      "ja": "姉は古い服をお金に<b>換えました</b>。",
+      "hrkt": "あね は ふるい ふく を おかね に <b>かえました</b>。",
+      "latn": "ane ha furui fuku wo okane ni <b>kaemashita</b>.",
+      "en": "My sister exchanged old clothes for money.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f6423fdmps.mp3"
+    }
+  ]
+}

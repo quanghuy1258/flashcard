@@ -1,0 +1,18 @@
+{
+  "ja": "経歴",
+  "hrkt": "けいれき",
+  "latn": "keireki",
+  "en": "personal background, experience",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01406A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの<b>経歴</b>をメールで送ってください。",
+      "hrkt": "あなた の <b>けいれき</b> を メール で おくって ください。",
+      "latn": "anata no <b>keireki</b> wo me-ru de okutte kudasai.",
+      "en": "Please send me your background information by e-mail.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01406A.mp3"
+    }
+  ]
+}

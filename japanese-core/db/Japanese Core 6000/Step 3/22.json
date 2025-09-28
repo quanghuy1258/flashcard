@@ -1,0 +1,18 @@
+{
+  "ja": "戸籍",
+  "hrkt": "こせき",
+  "latn": "koseki",
+  "en": "family register",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01745A.mp3",
+  "sentences": [
+    {
+      "ja": "結婚すると新しい<b>戸籍</b>が作られます。",
+      "hrkt": "けっこん する と あたらしい <b>こせき</b> が つくられます。",
+      "latn": "kekkon suru to atarashii <b>koseki</b> ga tsukuraremasu.",
+      "en": "They will make a new family register when you get married.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01745A.mp3"
+    }
+  ]
+}

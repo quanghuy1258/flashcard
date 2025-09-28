@@ -1,0 +1,26 @@
+{
+  "ja": "場所",
+  "hrkt": "ばしょ",
+  "latn": "basho",
+  "en": "place, space",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07307A.mp3",
+  "sentences": [
+    {
+      "ja": "会社の<b>場所</b>を教えてください。",
+      "hrkt": "かいしゃ の <b>ばしょ</b> を おしえて ください。",
+      "latn": "kaisha no <b>basho</b> wo oshiete kudasai.",
+      "en": "Please tell me where the office is.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4943658.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07307A.mp3"
+    },
+    {
+      "ja": "ピクニックにいい<b>場所</b>を知っていますか。",
+      "hrkt": "ピクニック に いい <b>ばしょ</b> を しって います か。",
+      "latn": "pikunikku ni ii <b>basho</b> wo shitte imasu ka.",
+      "en": "Do you know a good place for a picnic?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/5381addn28.mp3"
+    }
+  ]
+}

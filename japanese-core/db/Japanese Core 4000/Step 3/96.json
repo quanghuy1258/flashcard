@@ -1,0 +1,18 @@
+{
+  "ja": "抜ける",
+  "hrkt": "ぬける",
+  "latn": "nukeru",
+  "en": "come out, leave",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00763A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はグループから<b>抜けました</b>。",
+      "hrkt": "かれ は グループ から <b>ぬけました</b>。",
+      "latn": "kare ha guru-pu kara <b>nukemashita</b>.",
+      "en": "He left the group.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00763A.mp3"
+    }
+  ]
+}

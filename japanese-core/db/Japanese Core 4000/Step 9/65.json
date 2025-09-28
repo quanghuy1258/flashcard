@@ -1,0 +1,18 @@
+{
+  "ja": "筆",
+  "hrkt": "ふで",
+  "latn": "fude",
+  "en": "writing brush",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03858A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>筆</b>で手紙を書いたの。",
+      "hrkt": "かれ は <b>ふで</b> で てがみ を かいた の。",
+      "latn": "kare ha <b>fude</b> de tegami wo kaita no.",
+      "en": "He wrote a letter with a brush.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03858A.mp3"
+    }
+  ]
+}

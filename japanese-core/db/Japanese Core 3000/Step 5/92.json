@@ -1,0 +1,18 @@
+{
+  "ja": "病人",
+  "hrkt": "びょうにん",
+  "latn": "byounin",
+  "en": "sick person",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01775A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>病人</b>が出たので電車が少し止まったんだ。",
+      "hrkt": "<b>びょうにん</b> が でた ので でんしゃ が すこし とまった ん だ。",
+      "latn": "<b>byounin</b> ga deta node densha ga sukoshi tomatta n da.",
+      "en": "The train stopped for a while because there was a sick person.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01775A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "遅らせる",
+  "hrkt": "おくらせる",
+  "latn": "okuraseru",
+  "en": "delay (something)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c4cmap4of4.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは出発を1日<b>遅らせた</b>の。",
+      "hrkt": "わたし たち は しゅっぱつ を 1 にち <b>おくらせた</b> の。",
+      "latn": "watashi tachi ha shuppatsu wo 1 nichi <b>okuraseta</b> no.",
+      "en": "We delayed our departure by one day.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03430A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "飛行場",
+  "hrkt": "ひこうじょう",
+  "latn": "hikoujou",
+  "en": "airport, airdrome",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07676A.mp3",
+  "sentences": [
+    {
+      "ja": "バスが<b>飛行場</b>に着きました。",
+      "hrkt": "バス が <b>ひこうじょう</b> に つきました。",
+      "latn": "basu ga <b>hikoujou</b> ni tsukimashita.",
+      "en": "The bus has arrived at the airport.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07676A.mp3"
+    }
+  ]
+}

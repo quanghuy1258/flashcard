@@ -1,0 +1,18 @@
+{
+  "ja": "枠",
+  "hrkt": "わく",
+  "latn": "waku",
+  "en": "frame, limit",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00561A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>枠</b>の中に答えを書いてください。",
+      "hrkt": "<b>わく</b> の なか に こたえ を かいて ください。",
+      "latn": "<b>waku</b> no naka ni kotae wo kaite kudasai.",
+      "en": "Please write your answer in the box.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00561A.mp3"
+    }
+  ]
+}

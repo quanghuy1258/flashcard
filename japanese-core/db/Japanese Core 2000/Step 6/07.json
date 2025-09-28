@@ -1,0 +1,26 @@
+{
+  "ja": "蚊",
+  "hrkt": "か",
+  "latn": "ka",
+  "en": "mosquito",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01304A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>蚊</b>に足を刺された。",
+      "hrkt": "<b>か</b> に あし を さされた。",
+      "latn": "<b>ka</b> ni ashi wo sasareta.",
+      "en": "I was bitten on my foot by a mosquito.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3744702.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01304A.mp3"
+    },
+    {
+      "ja": "この公園は<b>蚊</b>が多いです。",
+      "hrkt": "この こうえん は <b>か</b> が おおい です 。",
+      "latn": "kono kouen ha <b>ka</b> ga ooi desu .",
+      "en": "There are many mosquitoes in this park.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/469e3vdgl0.mp3"
+    }
+  ]
+}

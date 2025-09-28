@@ -1,0 +1,18 @@
+{
+  "ja": "恋",
+  "hrkt": "こい",
+  "latn": "koi",
+  "en": "love, romance",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02212A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>恋</b>をしてきれいになったね。",
+      "hrkt": "かのじょ は <b>こい</b> を して きれい に なった ね。",
+      "latn": "kanojo ha <b>koi</b> wo shite kirei ni natta ne.",
+      "en": "She fell in love and became prettier.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a42l6s7ffc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02212A.mp3"
+    }
+  ]
+}

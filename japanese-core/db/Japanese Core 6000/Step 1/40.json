@@ -1,0 +1,18 @@
+{
+  "ja": "中断",
+  "hrkt": "ちゅうだん",
+  "latn": "chuudan",
+  "en": "interruption, to temporarily stop (doing something)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01193A.mp3",
+  "sentences": [
+    {
+      "ja": "停電のため、仕事を<b>中断</b>しました。",
+      "hrkt": "ていでん の ため、しごと を <b>ちゅうだん</b> しました。",
+      "latn": "teiden no tame,shigoto wo <b>chuudan</b> shimashita.",
+      "en": "We had a power failure, so we stopped working for a while.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01193A.mp3"
+    }
+  ]
+}

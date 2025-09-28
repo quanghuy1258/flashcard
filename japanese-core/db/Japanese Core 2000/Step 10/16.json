@@ -1,0 +1,26 @@
+{
+  "ja": "たっぷり",
+  "hrkt": "たっぷり",
+  "latn": "tappuri",
+  "en": "fully, amply",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01908A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>たっぷり</b>とマッサージしてもらいました。",
+      "hrkt": "<b>たっぷり</b> と マッサージ して もらいました。",
+      "latn": "<b>tappuri</b> to massa-ji shite moraimashita.",
+      "en": "I got a full massage.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/140140.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01908A.mp3"
+    },
+    {
+      "ja": "お鍋に<b>たっぷり</b>お湯を入れてください。",
+      "hrkt": "おなべ に <b>たっぷり</b> おゆ を いれて ください。",
+      "latn": "onabe ni <b>tappuri</b> oyu wo irete kudasai.",
+      "en": "Please pour plenty of hot water into the pot.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/74dp3fcqgg.mp3"
+    }
+  ]
+}

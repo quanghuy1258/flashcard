@@ -1,0 +1,26 @@
+{
+  "ja": "つもり",
+  "hrkt": "つもり",
+  "latn": "tsumori",
+  "en": "intention, purpose",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05942A.mp3",
+  "sentences": [
+    {
+      "ja": "明日からタバコを止める<b>つもり</b>です。",
+      "hrkt": "あした から タバコ を やめる <b>つもり</b> です。",
+      "latn": "ashita kara tabako wo yameru <b>tsumori</b> desu.",
+      "en": "I'll stop smoking as of tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/758104.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05942A.mp3"
+    },
+    {
+      "ja": "週末は子供と公園に行く<b>つもり</b>です。",
+      "hrkt": "しゅうまつ は こども と こうえん に いく <b>つもり</b> です。",
+      "latn": "shuumatsu ha kodomo to kouen ni iku <b>tsumori</b> desu.",
+      "en": "This weekend, I'm going to the park with my children.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d55eea7du4.mp3"
+    }
+  ]
+}

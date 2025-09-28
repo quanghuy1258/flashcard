@@ -1,0 +1,18 @@
+{
+  "ja": "いじめる",
+  "hrkt": "いじめる",
+  "latn": "ijimeru",
+  "en": "bully, abuse",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03528A.mp3",
+  "sentences": [
+    {
+      "ja": "動物を<b>いじめて</b>はいけません。",
+      "hrkt": "どうぶつ を <b>いじめて</b> は いけません。",
+      "latn": "doubutsu wo <b>ijimete</b> ha ikemasen.",
+      "en": "Don't abuse animals.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/34fhadd434.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03528A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "酸素",
+  "hrkt": "さんそ",
+  "latn": "sanso",
+  "en": "oxygen",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00911A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>酸素</b>無しでは生きていけない。",
+      "hrkt": "わたしたち は <b>さんそ</b> なし では いきて いけない。",
+      "latn": "watashitachi ha <b>sanso</b> nashi deha ikite ikenai.",
+      "en": "We can't live without oxygen.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00911A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "よく",
+  "hrkt": "よく",
+  "latn": "yoku",
+  "en": "often, well",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09642A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>よく</b>旅行に行きます。",
+      "hrkt": "かのじょ は <b>よく</b> りょこう に いきます。",
+      "latn": "kanojo ha <b>yoku</b> ryokou ni ikimasu.",
+      "en": "She often goes on holiday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3759321.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09642A.mp3"
+    },
+    {
+      "ja": "彼は<b>よく</b>映画を見ます。",
+      "hrkt": "かれ は <b>よく</b> えいが を みます。",
+      "latn": "kare ha <b>yoku</b> eiga wo mimasu.",
+      "en": "He often watches movies.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4386493.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00836A.mp3"
+    }
+  ]
+}

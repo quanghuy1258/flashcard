@@ -1,0 +1,26 @@
+{
+  "ja": "行き",
+  "hrkt": "ゆき",
+  "latn": "yuki",
+  "en": "going, bound for (traditional reading)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09534A.mp3",
+  "sentences": [
+    {
+      "ja": "東京<b>行き</b>の列車に乗った。",
+      "hrkt": "とうきょう <b>ゆき</b> の れっしゃ に のった。",
+      "latn": "toukyou <b>yuki</b> no ressha ni notta.",
+      "en": "I got on the Tokyo-bound train.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1315270.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09534A.mp3"
+    },
+    {
+      "ja": "その電車は新大阪<b>行き</b>です。",
+      "hrkt": "その でんしゃ は しんおおさか <b>ゆき</b> です。",
+      "latn": "sono densha ha shinoosaka <b>yuki</b> desu.",
+      "en": "The train is bound for Shin-Osaka.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e6989798kc.mp3"
+    }
+  ]
+}

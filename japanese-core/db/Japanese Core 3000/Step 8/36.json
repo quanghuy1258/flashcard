@@ -1,0 +1,18 @@
+{
+  "ja": "量",
+  "hrkt": "りょう",
+  "latn": "ryou",
+  "en": "quantity, amount",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03260A.mp3",
+  "sentences": [
+    {
+      "ja": "最近、食事の<b>量</b>を減らしています。",
+      "hrkt": "さいきん、しょくじ の <b>りょう</b> を へらして います。",
+      "latn": "saikin,shokuji no <b>ryou</b> wo herashite imasu.",
+      "en": "Lately, I'm cutting down on the amount of food I eat.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f4a33i4m8g.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03260A.mp3"
+    }
+  ]
+}

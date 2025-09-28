@@ -1,0 +1,18 @@
+{
+  "ja": "空き地",
+  "hrkt": "あきち",
+  "latn": "akichi",
+  "en": "unoccupied land, vacant lot",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01742A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>空き地</b>で工事が始まった。",
+      "hrkt": "<b>あきち</b> で こうじ が はじまった。",
+      "latn": "<b>akichi</b> de kouji ga hajimatta.",
+      "en": "Construction started in the vacant lot.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01742A.mp3"
+    }
+  ]
+}

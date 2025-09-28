@@ -1,0 +1,26 @@
+{
+  "ja": "政治",
+  "hrkt": "せいじ",
+  "latn": "seiji",
+  "en": "politics",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04701A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>政治</b>に関心がある。",
+      "hrkt": "わたし は <b>せいじ</b> に かんしん が ある。",
+      "latn": "watashi ha <b>seiji</b> ni kanshin ga aru.",
+      "en": "I'm interested in politics.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5384129.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04701A.mp3"
+    },
+    {
+      "ja": "この国の<b>政治</b>は終わっている。",
+      "hrkt": "この くに の <b>せいじ</b> は おわって いる。",
+      "latn": "kono kuni no <b>seiji</b> ha owatte iru.",
+      "en": "The governance of this country is a disaster.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/73cpfvfgj4.mp3"
+    }
+  ]
+}

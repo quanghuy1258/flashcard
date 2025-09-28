@@ -1,0 +1,18 @@
+{
+  "ja": "噛みつく",
+  "hrkt": "かみつく",
+  "latn": "kamitsuku",
+  "en": "bite",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03582A.mp3",
+  "sentences": [
+    {
+      "ja": "犬が手に<b>噛みつきました</b>。",
+      "hrkt": "いぬ が て に <b>かみつきました</b>。",
+      "latn": "inu ga te ni <b>kamitsukimashita</b>.",
+      "en": "The dog bit my hand.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a5an79fags.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03582A.mp3"
+    }
+  ]
+}

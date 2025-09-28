@@ -1,0 +1,26 @@
+{
+  "ja": "コート",
+  "hrkt": "コート",
+  "latn": "ko-to",
+  "en": "sports court",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03026A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>コート</b>でテニスをしました。",
+      "hrkt": "あたらしい <b>コート</b> で テニス を しました。",
+      "latn": "atarashii <b>ko-to</b> de tenisu wo shimashita.",
+      "en": "I played tennis on the new court.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4036770.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03026A.mp3"
+    },
+    {
+      "ja": "<b>コート</b>の数え方は「面」です。",
+      "hrkt": "<b>コート</b> の かぞえ かた は 「 めん 」 です。",
+      "latn": "<b>ko-to</b> no kazoe kata ha 「 men 」 desu.",
+      "en": "We use (the counting word) \"men\" to count game courts.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c5ad0c3gv0.mp3"
+    }
+  ]
+}

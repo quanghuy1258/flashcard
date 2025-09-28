@@ -1,0 +1,26 @@
+{
+  "ja": "泳ぐ",
+  "hrkt": "およぐ",
+  "latn": "oyogu",
+  "en": "swim",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01238A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はダイエットのために<b>泳いで</b>いる。",
+      "hrkt": "かのじょ は ダイエット の ため に <b>およいで</b> いる。",
+      "latn": "kanojo ha daietto no tame ni <b>oyoide</b> iru.",
+      "en": "She swims to lose weight.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3833238.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01238A.mp3"
+    },
+    {
+      "ja": "魚がたくさん<b>泳いで</b>います。",
+      "hrkt": "さかな が たくさん <b>およいで</b> います 。",
+      "latn": "sakana ga takusan <b>oyoide</b> imasu .",
+      "en": "There are a lot of fish swimming.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3853486.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03363A.mp3"
+    }
+  ]
+}

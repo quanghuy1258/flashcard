@@ -1,0 +1,26 @@
+{
+  "ja": "稼ぐ",
+  "hrkt": "かせぐ",
+  "latn": "kasegu",
+  "en": "earn, make money",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01021A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はお金をだいぶ<b>稼いだ</b>らしいよ。",
+      "hrkt": "かれ は おかね を だいぶ <b>かせいだ</b> らしい よ。",
+      "latn": "kare ha okane wo daibu <b>kaseida</b> rashii yo.",
+      "en": "I hear he made a lot of money.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/597412.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01021A.mp3"
+    },
+    {
+      "ja": "私より妻の方が<b>稼いで</b>います。",
+      "hrkt": "わたし より つま の ほう が <b>かせいで</b> います。",
+      "latn": "watashi yori tsuma no hou ga <b>kaseide</b> imasu.",
+      "en": "My wife makes more money than I.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/04e2didiuo.mp3"
+    }
+  ]
+}

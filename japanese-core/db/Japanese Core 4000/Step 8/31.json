@@ -1,0 +1,18 @@
+{
+  "ja": "解答",
+  "hrkt": "かいとう",
+  "latn": "kaitou",
+  "en": "solution, answer",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02963A.mp3",
+  "sentences": [
+    {
+      "ja": "インターネットで試験の<b>解答</b>を確認したんだ。",
+      "hrkt": "インターネット で しけん の <b>かいとう</b> を かくにん した ん だ。",
+      "latn": "inta-netto de shiken no <b>kaitou</b> wo kakunin shita n da.",
+      "en": "I checked the answers to the exam questions on the Internet.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02963A.mp3"
+    }
+  ]
+}

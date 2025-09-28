@@ -1,0 +1,26 @@
+{
+  "ja": "再び",
+  "hrkt": "ふたたび",
+  "latn": "futatabi",
+  "en": "again, a second time",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08087A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>再び</b>ここに戻ってきた。",
+      "hrkt": "かれ は <b>ふたたび</b> ここ に もどって きた。",
+      "latn": "kare ha <b>futatabi</b> koko ni modotte kita.",
+      "en": "He came back here once again.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2287868.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08087A.mp3"
+    },
+    {
+      "ja": "彼らが<b>再び</b>会うことはないだろう。",
+      "hrkt": "かれら が <b>ふたたび</b> あう こと は ない だろう。",
+      "latn": "karera ga <b>futatabi</b> au koto ha nai darou.",
+      "en": "They will never see each other again.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/853od88jj8.mp3"
+    }
+  ]
+}

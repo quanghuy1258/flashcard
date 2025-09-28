@@ -1,0 +1,26 @@
+{
+  "ja": "回る",
+  "hrkt": "まわる",
+  "latn": "mawaru",
+  "en": "turn round, go around",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08818A.mp3",
+  "sentences": [
+    {
+      "ja": "月は地球のまわりを<b>回って</b>います。",
+      "hrkt": "つき は ちきゅう の まわり を <b>まわって</b> います。",
+      "latn": "tsuki ha chikyuu no mawari wo <b>mawatte</b> imasu.",
+      "en": "The moon spins around the earth.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4171926.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08818A.mp3"
+    },
+    {
+      "ja": "犬が木のまわりを<b>回って</b>いる。",
+      "hrkt": "いぬ が き の まわり を <b>まわって</b> いる。",
+      "latn": "inu ga ki no mawari wo <b>mawatte</b> iru.",
+      "en": "A dog is going around the tree.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c3fldk74m8.mp3"
+    }
+  ]
+}

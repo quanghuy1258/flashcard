@@ -1,0 +1,26 @@
+{
+  "ja": "隣",
+  "hrkt": "となり",
+  "latn": "tonari",
+  "en": "next to, next door",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06478A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>隣</b>の家には犬がいます。",
+      "hrkt": "<b>となり</b> の いえ に は いぬ が います。",
+      "latn": "<b>tonari</b> no ie ni ha inu ga imasu.",
+      "en": "They have a dog next door.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1726812.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06478A.mp3"
+    },
+    {
+      "ja": "<b>隣</b>の部屋からテレビの音が聞こえる。",
+      "hrkt": "<b>となり</b> の へや から テレビ の おと が きこえる。",
+      "latn": "<b>tonari</b> no heya kara terebi no oto ga kikoeru.",
+      "en": "I can hear the sound of TV from the next room.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4314383.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02039A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "連れていく",
+  "hrkt": "つれていく",
+  "latn": "tsureteiku",
+  "en": "take along, bring along (a person)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05971A.mp3",
+  "sentences": [
+    {
+      "ja": "私も<b>連れていって</b>ください。",
+      "hrkt": "わたし も <b>つれて いって</b> ください。",
+      "latn": "watashi mo <b>tsurete itte</b> kudasai.",
+      "en": "Please take me along.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2279981.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05971A.mp3"
+    },
+    {
+      "ja": "昨日、息子を病院に<b>連れていった</b>。",
+      "hrkt": "きのう、むすこ を びょういん に <b>つれて いった</b>。",
+      "latn": "kinou,musuko wo byouin ni <b>tsurete itta</b>.",
+      "en": "Yesterday, I took my son to the hospital.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f7ag4k71d0.mp3"
+    }
+  ]
+}

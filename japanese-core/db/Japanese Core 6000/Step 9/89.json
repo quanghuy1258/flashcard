@@ -1,0 +1,18 @@
+{
+  "ja": "ペンチ",
+  "hrkt": "ペンチ",
+  "latn": "penchi",
+  "en": "pliers, pincers",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03109A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ペンチ</b>で針金を切ります。",
+      "hrkt": "<b>ペンチ</b> で はりがね を きります。",
+      "latn": "<b>penchi</b> de harigane wo kirimasu.",
+      "en": "I'll cut the wire with pincers.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03109A.mp3"
+    }
+  ]
+}

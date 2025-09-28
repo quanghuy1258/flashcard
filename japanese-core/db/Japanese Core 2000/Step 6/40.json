@@ -1,0 +1,26 @@
+{
+  "ja": "記念日",
+  "hrkt": "きねんび",
+  "latn": "kinenbi",
+  "en": "memorial day, anniversary",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02132A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は両親の結婚<b>記念日</b>です。",
+      "hrkt": "きょう は りょうしん の けっこん <b>きねんび</b> です。",
+      "latn": "kyou ha ryoushin no kekkon <b>kinenbi</b> desu.",
+      "en": "Today's my parents' wedding anniversary.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4242503.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02132A.mp3"
+    },
+    {
+      "ja": "六月十日は時の<b>記念日</b>です。",
+      "hrkt": "ろく がつ とおか は とき の <b>きねんび</b> です。",
+      "latn": "roku gatsu tooka ha toki no <b>kinenbi</b> desu.",
+      "en": "June 10th is Time Day.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/63ae9h2m3k.mp3"
+    }
+  ]
+}

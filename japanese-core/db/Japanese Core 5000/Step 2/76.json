@@ -1,0 +1,18 @@
+{
+  "ja": "知らせ",
+  "hrkt": "しらせ",
+  "latn": "shirase",
+  "en": "notice, news",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01817A.mp3",
+  "sentences": [
+    {
+      "ja": "今日、合格の<b>知らせ</b>をもらいました。",
+      "hrkt": "きょう、ごうかく の <b>しらせ</b> を もらいました。",
+      "latn": "kyou,goukaku no <b>shirase</b> wo moraimashita.",
+      "en": "Today I received a notice that I passed.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01817A.mp3"
+    }
+  ]
+}

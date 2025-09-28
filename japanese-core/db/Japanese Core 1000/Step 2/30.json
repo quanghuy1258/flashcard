@@ -1,0 +1,26 @@
+{
+  "ja": "狭い",
+  "hrkt": "せまい",
+  "latn": "semai",
+  "en": "narrow, small",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04837A.mp3",
+  "sentences": [
+    {
+      "ja": "私の部屋は<b>狭い</b>です。",
+      "hrkt": "わたし の へや は <b>せまい</b> です。",
+      "latn": "watashi no heya ha <b>semai</b> desu.",
+      "en": "My room is small.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5372092.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04837A.mp3"
+    },
+    {
+      "ja": "新しいオフィスはとても<b>狭い</b>。",
+      "hrkt": "あたらしい オフィス は とても <b>せまい</b>。",
+      "latn": "atarashii ofisu ha totemo <b>semai</b>.",
+      "en": "The new office is very small.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/54cr57aoh4.mp3"
+    }
+  ]
+}

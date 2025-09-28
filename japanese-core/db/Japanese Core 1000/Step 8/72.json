@@ -1,0 +1,26 @@
+{
+  "ja": "九",
+  "hrkt": "く",
+  "latn": "ku",
+  "en": "nine",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02391A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>九</b>月に行く予定です。",
+      "hrkt": "わたし は <b>く</b> がつ に いく よてい です。",
+      "latn": "watashi ha <b>ku</b> gatsu ni iku yotei desu.",
+      "en": "I'm planning to go there in September.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3782098.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02391A.mp3"
+    },
+    {
+      "ja": "今日は<b>九</b>時までに帰ります。",
+      "hrkt": "きょう は <b>く</b> じ まで に かえります。",
+      "latn": "kyou ha <b>ku</b> ji made ni kaerimasu.",
+      "en": "I'll come home by nine today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/236qd6ev4s.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "大工",
+  "hrkt": "だいく",
+  "latn": "daiku",
+  "en": "carpenter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01635A.mp3",
+  "sentences": [
+    {
+      "ja": "私の父は<b>大工</b>です。",
+      "hrkt": "わたし の ちち は <b>だいく</b> です。",
+      "latn": "watashi no chichi ha <b>daiku</b> desu.",
+      "en": "My father's a carpenter.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01635A.mp3"
+    }
+  ]
+}

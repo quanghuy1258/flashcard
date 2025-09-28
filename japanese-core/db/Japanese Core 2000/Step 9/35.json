@@ -1,0 +1,26 @@
+{
+  "ja": "濡れる",
+  "hrkt": "ぬれる",
+  "latn": "nureru",
+  "en": "get wet",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06944A.mp3",
+  "sentences": [
+    {
+      "ja": "雨で<b>濡れて</b>しまった。",
+      "hrkt": "あめ で <b>ぬれて</b> しまった。",
+      "latn": "ame de <b>nurete</b> shimatta.",
+      "en": "I got wet in the rain.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4356825.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06944A.mp3"
+    },
+    {
+      "ja": "まだ髪が<b>濡れて</b>いますよ。",
+      "hrkt": "まだ かみ が <b>ぬれて</b> います よ。",
+      "latn": "mada kami ga <b>nurete</b> imasu yo.",
+      "en": "Your hair is still wet.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/136o9hce2o.mp3"
+    }
+  ]
+}

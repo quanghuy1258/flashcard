@@ -1,0 +1,26 @@
+{
+  "ja": "僕",
+  "hrkt": "ぼく",
+  "latn": "boku",
+  "en": "I, me (usually used by young males)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08489A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>僕</b>は学生です。",
+      "hrkt": "<b>ぼく</b> は がくせい です。",
+      "latn": "<b>boku</b> ha gakusei desu.",
+      "en": "I'm a student.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/869442.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08489A.mp3"
+    },
+    {
+      "ja": "<b>僕</b>は新しい靴が欲しいです。",
+      "hrkt": "<b>ぼく</b> は あたらしい くつ が ほしい です。",
+      "latn": "<b>boku</b> ha atarashii kutsu ga hoshii desu.",
+      "en": "I want new shoes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4292715.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08515A.mp3?1220269766"
+    }
+  ]
+}

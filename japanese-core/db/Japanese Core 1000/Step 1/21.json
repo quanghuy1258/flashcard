@@ -1,0 +1,26 @@
+{
+  "ja": "新しい",
+  "hrkt": "あたらしい",
+  "latn": "atarashii",
+  "en": "new",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00147A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の車は<b>新しい</b>。",
+      "hrkt": "かれ の くるま は <b>あたらしい</b>。",
+      "latn": "kare no kuruma ha <b>atarashii</b>.",
+      "en": "His car is new.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5396779.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00147A.mp3"
+    },
+    {
+      "ja": "<b>新しい</b>テーブルを買いました。",
+      "hrkt": "<b>あたらしい</b> テーブル を かいました。",
+      "latn": "<b>atarashii</b> te-buru wo kaimashita.",
+      "en": "I bought a new table.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5520802.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06027A.mp3"
+    }
+  ]
+}

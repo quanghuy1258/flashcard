@@ -1,0 +1,26 @@
+{
+  "ja": "作る",
+  "hrkt": "つくる",
+  "latn": "tsukuru",
+  "en": "make, create",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05866A.mp3",
+  "sentences": [
+    {
+      "ja": "今、朝ご飯を<b>作って</b>います。",
+      "hrkt": "いま、あさ ごはん を <b>つくって</b> います。",
+      "latn": "ima,asa gohan wo <b>tsukutte</b> imasu.",
+      "en": "I'm making breakfast now.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5186326.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05866A.mp3"
+    },
+    {
+      "ja": "母がコーンスープを<b>作って</b>いる。",
+      "hrkt": "はは が コーン スープ を <b>つくって</b> いる。",
+      "latn": "haha ga ko-n su-pu wo <b>tsukutte</b> iru.",
+      "en": "My mother is making some corn chowder.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2977864.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04517A.mp3"
+    }
+  ]
+}

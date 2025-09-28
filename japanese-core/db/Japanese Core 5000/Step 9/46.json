@@ -1,0 +1,18 @@
+{
+  "ja": "導く",
+  "hrkt": "みちびく",
+  "latn": "michibiku",
+  "en": "guide, lead",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00931A.mp3",
+  "sentences": [
+    {
+      "ja": "先生は私たちを<b>導いて</b>くれます。",
+      "hrkt": "せんせい は わたし たち を <b>みちびいて</b> くれます。",
+      "latn": "sensei ha watashi tachi wo <b>michibiite</b> kuremasu.",
+      "en": "The teacher guides us.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00931A.mp3?1220196812"
+    }
+  ]
+}

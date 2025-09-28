@@ -1,0 +1,26 @@
+{
+  "ja": "よろしく",
+  "hrkt": "よろしく",
+  "latn": "yoroshiku",
+  "en": "one's regards",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09748A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>よろしく</b>お願いします。",
+      "hrkt": "<b>よろしく</b> おねがい します。",
+      "latn": "<b>yoroshiku</b> onegai shimasu.",
+      "en": "My best regards.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5263269.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09748A.mp3"
+    },
+    {
+      "ja": "お母さんに<b>よろしく</b>お伝えください。",
+      "hrkt": "おかあさん に <b>よろしく</b> おつたえ ください。",
+      "latn": "okaasan ni <b>yoroshiku</b> otsutae kudasai.",
+      "en": "Please give my best to your mother.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3858995.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01003A.mp3"
+    }
+  ]
+}

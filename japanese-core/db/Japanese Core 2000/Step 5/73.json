@@ -1,0 +1,26 @@
+{
+  "ja": "沸く",
+  "hrkt": "わく",
+  "latn": "waku",
+  "en": "boil, get loud (crowd applause etc.)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW10021A.mp3",
+  "sentences": [
+    {
+      "ja": "お風呂が<b>沸きました</b>。",
+      "hrkt": "おふろ が <b>わきました</b>。",
+      "latn": "ofuro ga <b>wakimashita</b>.",
+      "en": "The bath is ready.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4283218.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS10021A.mp3"
+    },
+    {
+      "ja": "お湯が<b>沸いた</b>ので、コーヒーを入れます。",
+      "hrkt": "おゆ が <b>わいた</b> ので、コーヒー を いれます。",
+      "latn": "oyu ga <b>waita</b> node,ko-hi- wo iremasu.",
+      "en": "The water has boiled, so I'll make coffee.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/56e8bb2n8o.mp3"
+    }
+  ]
+}

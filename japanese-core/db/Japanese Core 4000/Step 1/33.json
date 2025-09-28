@@ -1,0 +1,18 @@
+{
+  "ja": "食品",
+  "hrkt": "しょくひん",
+  "latn": "shokuhin",
+  "en": "food, food product",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00629A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>食品</b>は日曜日にまとめて買います。",
+      "hrkt": "<b>しょくひん</b> は にちようび に まとめて かいます。",
+      "latn": "<b>shokuhin</b> ha nichiyoubi ni matomete kaimasu.",
+      "en": "I buy my food in bulk on Sundays.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b3920d5mjc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00629A.mp3"
+    }
+  ]
+}

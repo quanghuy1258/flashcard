@@ -1,0 +1,26 @@
+{
+  "ja": "メール",
+  "hrkt": "メール",
+  "latn": "me-ru",
+  "en": "e-mail",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b29q395its.mp3",
+  "sentences": [
+    {
+      "ja": "また<b>メール</b>するね。",
+      "hrkt": "また <b>メール</b> する ね。",
+      "latn": "mata <b>me-ru</b> suru ne.",
+      "en": "I'll e-mail you again.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/06a5alf56s.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d6954l05d4.mp3"
+    },
+    {
+      "ja": "彼から<b>メール</b>を受け取りました。",
+      "hrkt": "かれ から <b>メール</b> を うけとりました。",
+      "latn": "kare kara <b>me-ru</b> wo uketorimashita.",
+      "en": "I got an email from him.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4045949.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00676A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "現地",
+  "hrkt": "げんち",
+  "latn": "genchi",
+  "en": "local, on-site",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00149A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>現地</b>の天気は雨です。",
+      "hrkt": "<b>げんち</b> の てんき は あめ です。",
+      "latn": "<b>genchi</b> no tenki ha ame desu.",
+      "en": "The local weather is rain.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b564fabtk0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00149A.mp3"
+    }
+  ]
+}

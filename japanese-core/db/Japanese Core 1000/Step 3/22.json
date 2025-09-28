@@ -1,0 +1,26 @@
+{
+  "ja": "甘い",
+  "hrkt": "あまい",
+  "latn": "amai",
+  "en": "sweet",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00218A.mp3",
+  "sentences": [
+    {
+      "ja": "このいちごは<b>甘い</b>。",
+      "hrkt": "この いちご は <b>あまい</b>。",
+      "latn": "kono ichigo ha <b>amai</b>.",
+      "en": "This strawberry is sweet.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3760751.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00218A.mp3"
+    },
+    {
+      "ja": "このジュースは<b>甘</b>すぎる。",
+      "hrkt": "この ジュース は <b>あま</b> すぎる。",
+      "latn": "kono ju-su ha <b>ama</b> sugiru.",
+      "en": "This juice is too sweet.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/b2ab0q35oo.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c2fb2r7ops.mp3"
+    }
+  ]
+}

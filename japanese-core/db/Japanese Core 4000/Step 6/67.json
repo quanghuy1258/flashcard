@@ -1,0 +1,18 @@
+{
+  "ja": "記号",
+  "hrkt": "きごう",
+  "latn": "kigou",
+  "en": "symbol, mark",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00548A.mp3",
+  "sentences": [
+    {
+      "ja": "地図にはいろいろな<b>記号</b>が使われているのね。",
+      "hrkt": "ちず に は いろいろな <b>きごう</b> が つかわれて いる の ね。",
+      "latn": "chizu ni ha iroirona <b>kigou</b> ga tsukawarete iru no ne.",
+      "en": "A variety of symbols are used on maps.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00548A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "三つ",
+  "hrkt": "みっつ",
+  "latn": "mittsu",
+  "en": "three (things)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08939A.mp3",
+  "sentences": [
+    {
+      "ja": "コップを<b>三つ</b>買いました。",
+      "hrkt": "コップ を <b>みっつ</b> かいました。",
+      "latn": "koppu wo <b>mittsu</b> kaimashita.",
+      "en": "I bought three glasses.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5072024.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08939A.mp3"
+    },
+    {
+      "ja": "ジャムを作るのにりんごが<b>三つ</b>要ります。",
+      "hrkt": "ジャム を つくる の に りんご が <b>みっつ</b> いります。",
+      "latn": "jamu wo tsukuru no ni ringo ga <b>mittsu</b> irimasu.",
+      "en": "We need three apples to make jam.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/7443ecb8nk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ナイフ",
+  "hrkt": "ナイフ",
+  "latn": "naifu",
+  "en": "knife",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06611A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ナイフ</b>で手を切った。",
+      "hrkt": "<b>ナイフ</b> で て を きった。",
+      "latn": "<b>naifu</b> de te wo kitta.",
+      "en": "I cut my hand with a knife.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4550594.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06611A.mp3"
+    },
+    {
+      "ja": "その<b>ナイフ</b>はよく切れます。",
+      "hrkt": "その <b>ナイフ</b> は よく きれます。",
+      "latn": "sono <b>naifu</b> ha yoku kiremasu.",
+      "en": "The knife cuts well.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b5dl7a8b34.mp3"
+    }
+  ]
+}

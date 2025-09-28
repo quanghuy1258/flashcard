@@ -1,0 +1,26 @@
+{
+  "ja": "残る",
+  "hrkt": "のこる",
+  "latn": "nokoru",
+  "en": "remain, be left over",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07082A.mp3",
+  "sentences": [
+    {
+      "ja": "料理がたくさん<b>残りました</b>。",
+      "hrkt": "りょうり が たくさん <b>のこりました</b>。",
+      "latn": "ryouri ga takusan <b>nokorimashita</b>.",
+      "en": "A lot of food was left over.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5375219.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07082A.mp3"
+    },
+    {
+      "ja": "おにぎりはいくつ<b>残って</b>いますか。",
+      "hrkt": "おにぎり は いくつ <b>のこって</b> います か。",
+      "latn": "onigiri ha ikutsu <b>nokotte</b> imasu ka.",
+      "en": "How many rice balls are left?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/660j9600mc.mp3"
+    }
+  ]
+}

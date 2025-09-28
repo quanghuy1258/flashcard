@@ -1,0 +1,18 @@
+{
+  "ja": "班",
+  "hrkt": "はん",
+  "latn": "han",
+  "en": "group, squad",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01460A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>班</b>のメンバーは5人です。",
+      "hrkt": "<b>はん</b> の メンバー は 5 にん です。",
+      "latn": "<b>han</b> no menba- ha 5 nin desu.",
+      "en": "There are five members in the group.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01460A.mp3"
+    }
+  ]
+}

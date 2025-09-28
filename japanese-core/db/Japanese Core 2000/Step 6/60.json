@@ -1,0 +1,26 @@
+{
+  "ja": "滑る",
+  "hrkt": "すべる",
+  "latn": "suberu",
+  "en": "slide, slip",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04615A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は雪の上を<b>滑った</b>。",
+      "hrkt": "かれ は ゆき の うえ を <b>すべった</b>。",
+      "latn": "kare ha yuki no ue wo <b>subetta</b>.",
+      "en": "He slipped on the snow.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5231321.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04615A.mp3"
+    },
+    {
+      "ja": "雪で道が<b>滑ります</b>。",
+      "hrkt": "ゆき で みち が <b>すべります</b>。",
+      "latn": "yuki de michi ga <b>suberimasu</b>.",
+      "en": "The road is slippery due to the snow.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/46ad915hs8.mp3"
+    }
+  ]
+}

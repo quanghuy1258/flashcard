@@ -1,0 +1,18 @@
+{
+  "ja": "耐える",
+  "hrkt": "たえる",
+  "latn": "taeru",
+  "en": "withstand, endure",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00139A.mp3",
+  "sentences": [
+    {
+      "ja": "このビルは大地震に<b>耐えられる</b>でしょうか。",
+      "hrkt": "この ビル は おお じしん に <b>たえられる</b> でしょう か。",
+      "latn": "kono biru ha oo jishin ni <b>taerareru</b> deshou ka.",
+      "en": "Would this building be able to withstand a big earthquake?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00139A.mp3?1220196779"
+    }
+  ]
+}

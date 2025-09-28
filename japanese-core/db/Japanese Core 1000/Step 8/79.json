@@ -1,0 +1,26 @@
+{
+  "ja": "おじ",
+  "hrkt": "おじ",
+  "latn": "oji",
+  "en": "(one's own) uncle",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01070A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>おじ</b>は銀行に勤めています。",
+      "hrkt": "<b>おじ</b> は ぎんこう に つとめて います。",
+      "latn": "<b>oji</b> ha ginkou ni tsutomete imasu.",
+      "en": "My uncle works at a bank.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4896515.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01070A.mp3"
+    },
+    {
+      "ja": "大阪から<b>おじ</b>が来ています。",
+      "hrkt": "おおさか から <b>おじ</b> が きて います。",
+      "latn": "oosaka kara <b>oji</b> ga kite imasu.",
+      "en": "My uncle is visiting us from Osaka.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a46d2ual8o.mp3"
+    }
+  ]
+}

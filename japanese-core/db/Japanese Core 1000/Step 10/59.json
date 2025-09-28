@@ -1,0 +1,26 @@
+{
+  "ja": "乾く",
+  "hrkt": "かわく",
+  "latn": "kawaku",
+  "en": "become dry",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01854A.mp3",
+  "sentences": [
+    {
+      "ja": "夏は洗濯物がすぐ<b>乾く</b>。",
+      "hrkt": "なつ は せんたくもの が すぐ <b>かわく</b>。",
+      "latn": "natsu ha sentakumono ga sugu <b>kawaku</b>.",
+      "en": "Laundry dries quickly in summer.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5363661.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01854A.mp3"
+    },
+    {
+      "ja": "洗濯物がまだ<b>乾いて</b>いない。",
+      "hrkt": "せんたく もの が まだ <b>かわいて</b> いない。",
+      "latn": "sentaku mono ga mada <b>kawaite</b> inai.",
+      "en": "My laundries haven't dried yet.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/86e0fj0o7g.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "ひげ",
+  "hrkt": "ひげ",
+  "latn": "hige",
+  "en": "beard, moustache",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07667A.mp3",
+  "sentences": [
+    {
+      "ja": "父は<b>ひげ</b>をはやしています。",
+      "hrkt": "ちち は <b>ひげ</b> を はやして います。",
+      "latn": "chichi ha <b>hige</b> wo hayashite imasu.",
+      "en": "My father's growing a beard.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5132276.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07667A.mp3"
+    },
+    {
+      "ja": "猫の<b>ひげ</b>は切ってはいけません。",
+      "hrkt": "ねこ の <b>ひげ</b> は きって は いけません。",
+      "latn": "neko no <b>hige</b> ha kitte ha ikemasen.",
+      "en": "You must not cut cat whiskers.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c517bj3lfc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "入選",
+  "hrkt": "にゅうせん",
+  "latn": "nyuusen",
+  "en": "being selected for a contest, etc., being nominated",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02656A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の絵がコンクールに<b>入選</b>した。",
+      "hrkt": "かれ の え が コンクール に <b>にゅうせん</b> した。",
+      "latn": "kare no e ga konku-ru ni <b>nyuusen</b> shita.",
+      "en": "His painting was nominated for the contest.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02656A.mp3"
+    }
+  ]
+}

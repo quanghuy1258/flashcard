@@ -1,0 +1,18 @@
+{
+  "ja": "そろえる",
+  "hrkt": "そろえる",
+  "latn": "soroeru",
+  "en": "make (something) uniform, put (something) in order",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03703A.mp3",
+  "sentences": [
+    {
+      "ja": "花は長さを<b>そろえて</b>花瓶にさしましょう。",
+      "hrkt": "はな は ながさ を <b>そろえて</b> かびん に さしましょう。",
+      "latn": "hana ha nagasa wo <b>soroete</b> kabin ni sashimashou.",
+      "en": "Cut the flowers the same length and then put them in the vase.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03703A.mp3"
+    }
+  ]
+}

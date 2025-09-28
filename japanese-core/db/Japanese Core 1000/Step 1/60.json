@@ -1,0 +1,26 @@
+{
+  "ja": "住む",
+  "hrkt": "すむ",
+  "latn": "sumu",
+  "en": "live, reside",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04629A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は会社の近くに<b>住んで</b>いる。",
+      "hrkt": "かれ は かいしゃ の ちかく に <b>すんで</b> いる。",
+      "latn": "kare ha kaisha no chikaku ni <b>sunde</b> iru.",
+      "en": "He lives near his office.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6177932.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04629A.mp3"
+    },
+    {
+      "ja": "彼はアパートに<b>住んで</b>います。",
+      "hrkt": "かれ は アパート に <b>すんで</b> います。",
+      "latn": "kare ha apa-to ni <b>sunde</b> imasu.",
+      "en": "He lives in an apartment.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4575477.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00205A.mp3"
+    }
+  ]
+}

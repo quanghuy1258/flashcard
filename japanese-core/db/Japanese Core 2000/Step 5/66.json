@@ -1,0 +1,26 @@
+{
+  "ja": "受付",
+  "hrkt": "うけつけ",
+  "latn": "uketsuke",
+  "en": "receptionist, information office",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00671A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>受付</b>は9時からです。",
+      "hrkt": "<b>うけつけ</b> は 9 じ から です。",
+      "latn": "<b>uketsuke</b> ha 9 ji kara desu.",
+      "en": "Registration starts from nine o'clock.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5548859.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00671A.mp3"
+    },
+    {
+      "ja": "<b>受付</b>はこちらです。",
+      "hrkt": "<b>うけつけ</b> は こちら です。",
+      "latn": "<b>uketsuke</b> ha kochira desu.",
+      "en": "The reception desk is this way.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/al9h0o333k6rk.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03139A.mp3"
+    }
+  ]
+}

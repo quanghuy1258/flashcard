@@ -1,0 +1,18 @@
+{
+  "ja": "委員",
+  "hrkt": "いいん",
+  "latn": "iin",
+  "en": "committee member, delegate",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00500A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>委員</b>に選ばれました。",
+      "hrkt": "かれ は <b>いいん</b> に えらばれました。",
+      "latn": "kare ha <b>iin</b> ni erabaremashita.",
+      "en": "He was elected to the committee.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00500A.mp3"
+    }
+  ]
+}

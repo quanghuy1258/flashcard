@@ -1,0 +1,18 @@
+{
+  "ja": "人名",
+  "hrkt": "じんめい",
+  "latn": "jinmei",
+  "en": "person's name",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02564A.mp3",
+  "sentences": [
+    {
+      "ja": "これは日本の<b>人名</b>ですか。",
+      "hrkt": "これ は にほん の <b>じんめい</b> です か。",
+      "latn": "kore ha nihon no <b>jinmei</b> desu ka.",
+      "en": "Is this a Japanese name?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02564A.mp3"
+    }
+  ]
+}

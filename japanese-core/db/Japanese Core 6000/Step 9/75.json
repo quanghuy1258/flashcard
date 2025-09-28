@@ -1,0 +1,18 @@
+{
+  "ja": "上下",
+  "hrkt": "うえした",
+  "latn": "ueshita",
+  "en": "top and bottom (Japanese origin)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03536A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>上下</b>おそろいの服を着ていますね。",
+      "hrkt": "かれ は <b>うえした</b> おそろい の ふく を きて います ね。",
+      "latn": "kare ha <b>ueshita</b> osoroi no fuku wo kite imasu ne.",
+      "en": "He is wearing a matching top and bottom.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03536A.mp3"
+    }
+  ]
+}

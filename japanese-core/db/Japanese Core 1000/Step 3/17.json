@@ -1,0 +1,26 @@
+{
+  "ja": "起きる",
+  "hrkt": "おきる",
+  "latn": "okiru",
+  "en": "occur, happen",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01029A.mp3",
+  "sentences": [
+    {
+      "ja": "近所で盗難事件が<b>起きました</b>。",
+      "hrkt": "きんじょ で とうなん じけん が <b>おきました</b>。",
+      "latn": "kinjo de tounan jiken ga <b>okimashita</b>.",
+      "en": "A burglary occured in my neighborhood.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5168403.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01029A.mp3"
+    },
+    {
+      "ja": "事故はここで<b>起きました</b>。",
+      "hrkt": "じこ は ここ で <b>おきました</b>。",
+      "latn": "jiko ha koko de <b>okimashita</b>.",
+      "en": "The accident occurred here.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a5ap3n3c5s.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "通帳",
+  "hrkt": "つうちょう",
+  "latn": "tsuuchou",
+  "en": "bankbook, passbook",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03733A.mp3",
+  "sentences": [
+    {
+      "ja": "銀行の<b>通帳</b>を持ってきてください。",
+      "hrkt": "ぎんこう の <b>つうちょう</b> を もって きて ください。",
+      "latn": "ginkou no <b>tsuuchou</b> wo motte kite kudasai.",
+      "en": "Please bring your bank book.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/dbep7e0nc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03733A.mp3"
+    }
+  ]
+}

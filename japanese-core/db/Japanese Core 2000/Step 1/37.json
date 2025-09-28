@@ -1,0 +1,26 @@
+{
+  "ja": "医者",
+  "hrkt": "いしゃ",
+  "latn": "isha",
+  "en": "doctor (colloquial, plain)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00430A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>医者</b>に相談した。",
+      "hrkt": "わたし は <b>いしゃ</b> に そうだん した。",
+      "latn": "watashi ha <b>isha</b> ni soudan shita.",
+      "en": "I consulted the doctor.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3924891.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00430A.mp3"
+    },
+    {
+      "ja": "彼は<b>医者</b>になりました。",
+      "hrkt": "かれ は <b>いしゃ</b> に なりました。",
+      "latn": "kare ha <b>isha</b> ni narimashita.",
+      "en": "He became a doctor.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5141756.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06750A.mp3"
+    }
+  ]
+}

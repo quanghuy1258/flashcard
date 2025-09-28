@@ -1,0 +1,18 @@
+{
+  "ja": "下痢",
+  "hrkt": "げり",
+  "latn": "geri",
+  "en": "diarrhea",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02297A.mp3",
+  "sentences": [
+    {
+      "ja": "古いお寿司を食べて<b>下痢</b>をしてしまったんだ。",
+      "hrkt": "ふるい おすし を たべて <b>げり</b> を して しまった ん だ。",
+      "latn": "furui osushi wo tabete <b>geri</b> wo shite shimatta n da.",
+      "en": "I got diarrhea from eating old sushi.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02297A.mp3"
+    }
+  ]
+}

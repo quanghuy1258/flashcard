@@ -1,0 +1,18 @@
+{
+  "ja": "待ち望む",
+  "hrkt": "まちのぞむ",
+  "latn": "machinozomu",
+  "en": "look forward to, hope for",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02788A.mp3",
+  "sentences": [
+    {
+      "ja": "その国の人々は平和を<b>待ち望んで</b>いるの。",
+      "hrkt": "その くに の ひとびと は へいわ を <b>まちのぞんで</b> いる の。",
+      "latn": "sono kuni no hitobito ha heiwa wo <b>machinozonde</b> iru no.",
+      "en": "The people in that country are hoping for peace.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02788A.mp3"
+    }
+  ]
+}

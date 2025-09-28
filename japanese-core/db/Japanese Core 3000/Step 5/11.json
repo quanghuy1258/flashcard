@@ -1,0 +1,18 @@
+{
+  "ja": "駅前",
+  "hrkt": "えきまえ",
+  "latn": "ekimae",
+  "en": "in front of the station",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01272A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>駅前</b>に交番があります。",
+      "hrkt": "<b>えき まえ</b> に こうばん が あります 。",
+      "latn": "<b>eki mae</b> ni kouban ga arimasu .",
+      "en": "There is a police box in front of the station.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/85bo955d7k.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01272A.mp3"
+    }
+  ]
+}

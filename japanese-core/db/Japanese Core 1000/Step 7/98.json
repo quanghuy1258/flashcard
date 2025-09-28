@@ -1,0 +1,26 @@
+{
+  "ja": "教授",
+  "hrkt": "きょうじゅ",
+  "latn": "kyouju",
+  "en": "professor",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02260A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は化学の<b>教授</b>です。",
+      "hrkt": "かれ は かがく の <b>きょうじゅ</b> です。",
+      "latn": "kare ha kagaku no <b>kyouju</b> desu.",
+      "en": "He's a chemistry professor.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6397258.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02260A.mp3"
+    },
+    {
+      "ja": "<b>教授</b>はカナダ出身です。",
+      "hrkt": "<b>きょうじゅ</b> は カナダ しゅっしん です。",
+      "latn": "<b>kyouju</b> ha kanada shusshin desu.",
+      "en": "The professor is from Canada.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/750213.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00530A.mp3"
+    }
+  ]
+}

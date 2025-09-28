@@ -1,0 +1,26 @@
+{
+  "ja": "開始",
+  "hrkt": "かいし",
+  "latn": "kaishi",
+  "en": "beginning",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01358A.mp3",
+  "sentences": [
+    {
+      "ja": "運動会は9時<b>開始</b>です。",
+      "hrkt": "うんどうかい は 9 じ <b>かいし</b> です。",
+      "latn": "undoukai ha 9 ji <b>kaishi</b> desu.",
+      "en": "The sports festival begins at nine o'clock.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2158430.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01358A.mp3"
+    },
+    {
+      "ja": "私たちはツアーの<b>開始</b>時間に間に合いませんでした。",
+      "hrkt": "わたし たち は ツアー の <b>かいし</b> じかん に まにあいません でした。",
+      "latn": "watashi tachi ha tsua- no <b>kaishi</b> jikan ni maniaimasen deshita.",
+      "en": "We didn't make it for the starting time of the tour.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c25f5eboh4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "乱れる",
+  "hrkt": "みだれる",
+  "latn": "midareru",
+  "en": "be disordered, get messed up",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01609A.mp3",
+  "sentences": [
+    {
+      "ja": "風で髪が<b>乱れた</b>ね。",
+      "hrkt": "かぜ で かみ が <b>みだれた</b> ね。",
+      "latn": "kaze de kami ga <b>midareta</b> ne.",
+      "en": "Your hair got messed up in the wind.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01609A.mp3"
+    }
+  ]
+}

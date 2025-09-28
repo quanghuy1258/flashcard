@@ -1,0 +1,18 @@
+{
+  "ja": "問答",
+  "hrkt": "もんどう",
+  "latn": "mondou",
+  "en": "questions and answers, dialogue",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02748A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたと<b>問答</b>している暇はないの。",
+      "hrkt": "あなた と <b>もんどう</b> して いる ひま は ない の。",
+      "latn": "anata to <b>mondou</b> shite iru hima ha nai no.",
+      "en": "I have no time to argue with you.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02748A.mp3"
+    }
+  ]
+}

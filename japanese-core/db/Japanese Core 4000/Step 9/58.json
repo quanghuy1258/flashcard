@@ -1,0 +1,18 @@
+{
+  "ja": "兼ねる",
+  "hrkt": "かねる",
+  "latn": "kaneru",
+  "en": "serve two functions, combine",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01227A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は秘書と事務の担当を<b>兼ねて</b>います。",
+      "hrkt": "かのじょ は ひしょ と じむ の たんとう を <b>かねて</b> います。",
+      "latn": "kanojo ha hisho to jimu no tantou wo <b>kanete</b> imasu.",
+      "en": "She's in charge of both secretarial and clerical work.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01227A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "仲良し",
+  "hrkt": "なかよし",
+  "latn": "nakayoshi",
+  "en": "good friend",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02935A.mp3",
+  "sentences": [
+    {
+      "ja": "あの3人組は<b>仲良し</b>ですね。",
+      "hrkt": "あの 3 にん ぐみ は <b>なかよし</b> です ね。",
+      "latn": "ano 3 nin gumi ha <b>nakayoshi</b> desu ne.",
+      "en": "Those three are good friends.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1904358.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02935A.mp3"
+    },
+    {
+      "ja": "娘は<b>仲良し</b>グループの子としか話しません。",
+      "hrkt": "むすめ は <b>なかよし</b> グループ の こ と しか はなしません。",
+      "latn": "musume ha <b>nakayoshi</b> guru-pu no ko to shika hanashimasen.",
+      "en": "My daughter only talks with a group of good friends.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c5ao0605sc.mp3"
+    }
+  ]
+}

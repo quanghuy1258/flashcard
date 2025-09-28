@@ -1,0 +1,26 @@
+{
+  "ja": "塩辛い",
+  "hrkt": "しおからい",
+  "latn": "shiokarai",
+  "en": "salty",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03598A.mp3",
+  "sentences": [
+    {
+      "ja": "海の水は<b>塩辛い</b>。",
+      "hrkt": "うみ の みず は <b>しおからい</b>。",
+      "latn": "umi no mizu ha <b>shiokarai</b>.",
+      "en": "Sea water is salty.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3774569.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03598A.mp3"
+    },
+    {
+      "ja": "ここの料理は少し<b>塩辛い</b>ですね。",
+      "hrkt": "ここ の りょうり は すこし <b>しおからい</b> です ね。",
+      "latn": "koko no ryouri ha sukoshi <b>shiokarai</b> desu ne.",
+      "en": "The food here is a little salty.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/145c67elrg.mp3"
+    }
+  ]
+}

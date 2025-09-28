@@ -1,0 +1,26 @@
+{
+  "ja": "磨く",
+  "hrkt": "みがく",
+  "latn": "migaku",
+  "en": "polish, grind, brush",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08860A.mp3",
+  "sentences": [
+    {
+      "ja": "靴を<b>磨いて</b>ください。",
+      "hrkt": "くつ を <b>みがいて</b> ください。",
+      "latn": "kutsu wo <b>migaite</b> kudasai.",
+      "en": "Please polish your shoes.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4736420.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08860A.mp3"
+    },
+    {
+      "ja": "私は日本語のスキルを<b>磨きたい</b>です。",
+      "hrkt": "わたし は にほん ご の スキル を <b>みがきたい</b> です。",
+      "latn": "watashi ha nihon go no sukiru wo <b>migakitai</b> desu.",
+      "en": "I want to polish my Japanese skills.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/156c8pd84s.mp3"
+    }
+  ]
+}

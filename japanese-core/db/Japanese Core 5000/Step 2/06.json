@@ -1,0 +1,18 @@
+{
+  "ja": "揉む",
+  "hrkt": "もむ",
+  "latn": "momu",
+  "en": "rub, massage",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03493A.mp3",
+  "sentences": [
+    {
+      "ja": "肩を<b>揉んで</b>ください。",
+      "hrkt": "かた を <b>もんで</b> ください。",
+      "latn": "kata wo <b>monde</b> kudasai.",
+      "en": "Please massage my shoulders.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03493A.mp3"
+    }
+  ]
+}

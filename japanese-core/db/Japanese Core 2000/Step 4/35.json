@@ -1,0 +1,26 @@
+{
+  "ja": "空く",
+  "hrkt": "あく",
+  "latn": "aku",
+  "en": "become available or vacant",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00068A.mp3",
+  "sentences": [
+    {
+      "ja": "後ろの席が<b>空いて</b>います。",
+      "hrkt": "うしろ の せき が <b>あいて</b> います。",
+      "latn": "ushiro no seki ga <b>aite</b> imasu.",
+      "en": "The rear seat is empty.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1581257.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00068A.mp3"
+    },
+    {
+      "ja": "来月の一日は<b>空いて</b>いますか。",
+      "hrkt": "らいげつ の ついたち は <b>あいて</b> います か。",
+      "latn": "raigetsu no tsuitachi ha <b>aite</b> imasu ka.",
+      "en": "Are you free on the 1st of next month?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4822491.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05789A.mp3"
+    }
+  ]
+}

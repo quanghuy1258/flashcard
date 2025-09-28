@@ -1,0 +1,18 @@
+{
+  "ja": "どうやら",
+  "hrkt": "どうやら",
+  "latn": "douyara",
+  "en": "looks like, apparently",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01342A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は<b>どうやら</b>雨らしいよ。",
+      "hrkt": "あした は <b>どうやら</b> あめ らしい よ。",
+      "latn": "ashita ha <b>douyara</b> ame rashii yo.",
+      "en": "It looks like it's going to rain tomorrow.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01342A.mp3"
+    }
+  ]
+}

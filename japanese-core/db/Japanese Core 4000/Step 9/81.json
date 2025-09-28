@@ -1,0 +1,18 @@
+{
+  "ja": "接する",
+  "hrkt": "せっする",
+  "latn": "sessuru",
+  "en": "come in contact, adjoin",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03694A.mp3",
+  "sentences": [
+    {
+      "ja": "子供が動物に<b>接する</b>のは良いことです。",
+      "hrkt": "こども が どうぶつ に <b>せっする</b> の は いい こと です。",
+      "latn": "kodomo ga doubutsu ni <b>sessuru</b> no ha ii koto desu.",
+      "en": "It's good for children to have contact with animals.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03694A.mp3"
+    }
+  ]
+}

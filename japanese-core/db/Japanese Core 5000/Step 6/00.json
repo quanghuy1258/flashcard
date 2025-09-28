@@ -1,0 +1,18 @@
+{
+  "ja": "航空券",
+  "hrkt": "こうくうけん",
+  "latn": "koukuuken",
+  "en": "airline ticket",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03613A.mp3",
+  "sentences": [
+    {
+      "ja": "電話で<b>航空券</b>を予約しました。",
+      "hrkt": "でんわ で <b>こうくうけん</b> を よやく しました。",
+      "latn": "denwa de <b>koukuuken</b> wo yoyaku shimashita.",
+      "en": "I booked an airline ticket by phone.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03613A.mp3"
+    }
+  ]
+}

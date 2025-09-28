@@ -1,0 +1,18 @@
+{
+  "ja": "市内",
+  "hrkt": "しない",
+  "latn": "shinai",
+  "en": "in the city",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00093A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は<b>市内</b>を観光する予定です。",
+      "hrkt": "あした は <b>しない</b> を かんこう する よてい です。",
+      "latn": "ashita ha <b>shinai</b> wo kankou suru yotei desu.",
+      "en": "I'm planning go sightseeing in the city tomorrow.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00093A.mp3"
+    }
+  ]
+}

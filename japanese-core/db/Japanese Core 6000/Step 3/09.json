@@ -1,0 +1,18 @@
+{
+  "ja": "墜落",
+  "hrkt": "ついらく",
+  "latn": "tsuiraku",
+  "en": "fall, crash",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01135A.mp3",
+  "sentences": [
+    {
+      "ja": "飛行機の<b>墜落</b>事故があったんだ。",
+      "hrkt": "ひこうき の <b>ついらく</b> じこ が あった ん だ。",
+      "latn": "hikouki no <b>tsuiraku</b> jiko ga atta n da.",
+      "en": "There was a plane crash.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01135A.mp3"
+    }
+  ]
+}

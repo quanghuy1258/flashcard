@@ -1,0 +1,26 @@
+{
+  "ja": "毎朝",
+  "hrkt": "まいあさ",
+  "latn": "maiasa",
+  "en": "every morning",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08632A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>毎朝</b>ジョギングをします。",
+      "hrkt": "わたし は <b>まいあさ</b> ジョギング を します。",
+      "latn": "watashi ha <b>maiasa</b> jogingu wo shimasu.",
+      "en": "I jog every morning.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4435955.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08632A.mp3"
+    },
+    {
+      "ja": "私は<b>毎朝</b>ラジオを聞きます。",
+      "hrkt": "わたし は <b>まいあさ</b> ラジオ を ききます。",
+      "latn": "watashi ha <b>maiasa</b> rajio wo kikimasu.",
+      "en": "I listen to the radio every morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3909956.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09778A.mp3"
+    }
+  ]
+}

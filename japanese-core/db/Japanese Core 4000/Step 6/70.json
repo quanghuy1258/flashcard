@@ -1,0 +1,18 @@
+{
+  "ja": "来日",
+  "hrkt": "らいにち",
+  "latn": "rainichi",
+  "en": "visit to Japan",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03956A.mp3",
+  "sentences": [
+    {
+      "ja": "有名なバンドが<b>来日</b>していますね。",
+      "hrkt": "ゆうめいな バンド が <b>らいにち</b> して います ね。",
+      "latn": "yuumeina bando ga <b>rainichi</b> shite imasu ne.",
+      "en": "A famous band is visiting Japan.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03956A.mp3"
+    }
+  ]
+}

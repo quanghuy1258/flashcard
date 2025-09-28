@@ -1,0 +1,18 @@
+{
+  "ja": "ムード",
+  "hrkt": "ムード",
+  "latn": "mu-do",
+  "en": "mood",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01169A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋を暗くして<b>ムード</b>を出してみたよ。",
+      "hrkt": "へや を くらく して <b>ムード</b> を だして みた よ。",
+      "latn": "heya wo kuraku shite <b>mu-do</b> wo dashite mita yo.",
+      "en": "I darkened the room to set the mood.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/45a89i6s2c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01169A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "背景",
+  "hrkt": "はいけい",
+  "latn": "haikei",
+  "en": "background, backdrop",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07175A.mp3",
+  "sentences": [
+    {
+      "ja": "事件の<b>背景</b>に何があったのだろう。",
+      "hrkt": "じけん の <b>はいけい</b> に なに が あった の だろう。",
+      "latn": "jiken no <b>haikei</b> ni nani ga atta no darou.",
+      "en": "I wonder what was behind the incident.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6011676.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07175A.mp3"
+    },
+    {
+      "ja": "私は山を<b>背景</b>に写真を撮りました。",
+      "hrkt": "わたし は やま を <b>はいけい</b> に しゃしん を とりました。",
+      "latn": "watashi ha yama wo <b>haikei</b> ni shashin wo torimashita.",
+      "en": "I took a picture with a mountain in the background.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/668p4icuns.mp3"
+    }
+  ]
+}

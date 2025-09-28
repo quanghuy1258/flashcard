@@ -1,0 +1,26 @@
+{
+  "ja": "クリスマス",
+  "hrkt": "クリスマス",
+  "latn": "kurisumasu",
+  "en": "Christmas",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02540A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>クリスマス</b>にはケーキを食べます。",
+      "hrkt": "<b>クリスマス</b> に は ケーキ を たべます。",
+      "latn": "<b>kurisumasu</b> ni ha ke-ki wo tabemasu.",
+      "en": "We eat cake at Christmas.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4821055.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02540A.mp3"
+    },
+    {
+      "ja": "<b>クリスマス</b>に雪が降りました。",
+      "hrkt": "<b>クリスマス</b> に ゆき が ふりました。",
+      "latn": "<b>kurisumasu</b> ni yuki ga furimashita.",
+      "en": "It snowed on Christmas Day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6284593.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09535A.mp3"
+    }
+  ]
+}

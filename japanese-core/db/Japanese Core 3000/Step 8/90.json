@@ -1,0 +1,18 @@
+{
+  "ja": "被害",
+  "hrkt": "ひがい",
+  "latn": "higai",
+  "en": "damage, harm",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00248A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の家は台風の<b>被害</b>にあったの。",
+      "hrkt": "かれ の いえ は たいふう の <b>ひがい</b> に あった の。",
+      "latn": "kare no ie ha taifuu no <b>higai</b> ni atta no.",
+      "en": "His house was damaged in the typhoon.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/930q1i1tic.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00248A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "反する",
+  "hrkt": "はんする",
+  "latn": "hansuru",
+  "en": "oppose, go against",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01620A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の行いはモラルに<b>反して</b>います。",
+      "hrkt": "かれ の おこない は モラル に <b>はんして</b> います。",
+      "latn": "kare no okonai ha moraru ni <b>hanshite</b> imasu.",
+      "en": "His actions go against morals.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01620A.mp3"
+    }
+  ]
+}

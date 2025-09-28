@@ -1,0 +1,18 @@
+{
+  "ja": "ファックス",
+  "hrkt": "ファックス",
+  "latn": "fakkusu",
+  "en": "fax",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03851A.mp3",
+  "sentences": [
+    {
+      "ja": "詳細は<b>ファックス</b>で送ります。",
+      "hrkt": "しょうさい は <b>ファックス</b> で おくります。",
+      "latn": "shousai ha <b>fakkusu</b> de okurimasu.",
+      "en": "I'll send the details by fax.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03851A.mp3"
+    }
+  ]
+}

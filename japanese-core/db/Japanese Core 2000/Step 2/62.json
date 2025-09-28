@@ -1,0 +1,26 @@
+{
+  "ja": "揺れる",
+  "hrkt": "ゆれる",
+  "latn": "yureru",
+  "en": "shake, sway",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09569A.mp3",
+  "sentences": [
+    {
+      "ja": "風で木が<b>揺れて</b>います。",
+      "hrkt": "かぜ で き が <b>ゆれて</b> います。",
+      "latn": "kaze de ki ga <b>yurete</b> imasu.",
+      "en": "The trees are swaying in the wind.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/3l5m70dqro3mg.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09569A.mp3"
+    },
+    {
+      "ja": "地震で家がかなり<b>揺れました</b>。",
+      "hrkt": "じしん で いえ が かなり <b>ゆれました</b>。",
+      "latn": "jishin de ie ga kanari <b>yuremashita</b>.",
+      "en": "The house shook quite a lot due to an earthquake.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/228o4l0k8s.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "果たして",
+  "hrkt": "はたして",
+  "latn": "hatashite",
+  "en": "really",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01210A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>果たして</b>彼は現れるだろうか。",
+      "hrkt": "<b>はたして</b> かれ は あらわれる だろう か。",
+      "latn": "<b>hatashite</b> kare ha arawareru darou ka.",
+      "en": "I wonder if he'll really show up.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01210A.mp3"
+    }
+  ]
+}

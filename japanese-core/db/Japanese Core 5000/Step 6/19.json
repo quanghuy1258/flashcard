@@ -1,0 +1,18 @@
+{
+  "ja": "注ぐ",
+  "hrkt": "そそぐ",
+  "latn": "sosogu",
+  "en": "pour into (liquid)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02008A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなのグラスにジュースを<b>注いだ</b>よ。",
+      "hrkt": "みんな の グラス に ジュース を <b>そそいだ</b> よ。",
+      "latn": "minna no gurasu ni ju-su wo <b>sosoida</b> yo.",
+      "en": "I poured juice into everyone's glass.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02008A.mp3"
+    }
+  ]
+}

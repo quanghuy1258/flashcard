@@ -1,0 +1,26 @@
+{
+  "ja": "開ける",
+  "hrkt": "あける",
+  "latn": "akeru",
+  "en": "open, unlock (doors, windows, etc.)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00091A.mp3",
+  "sentences": [
+    {
+      "ja": "窓を<b>開けて</b>ください。",
+      "hrkt": "まど を <b>あけて</b> ください。",
+      "latn": "mado wo <b>akete</b> kudasai.",
+      "en": "Please open the window.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3670944.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/mado_sentence.mp3"
+    },
+    {
+      "ja": "朝、カーテンを<b>開けた</b>。",
+      "hrkt": "あさ、カーテン を <b>あけた</b>。",
+      "latn": "asa,ka-ten wo <b>aketa</b>.",
+      "en": "I opened the curtains in the morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3808335.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01308A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "例",
+  "hrkt": "れい",
+  "latn": "rei",
+  "en": "example",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09898A.mp3",
+  "sentences": [
+    {
+      "ja": "一つ<b>例</b>を挙げてください。",
+      "hrkt": "ひとつ <b>れい</b> を あげて ください。",
+      "latn": "hitotsu <b>rei</b> wo agete kudasai.",
+      "en": "Please give an example.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5649443.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09898A.mp3"
+    },
+    {
+      "ja": "具体的な<b>例</b>をいくつか見せてください。",
+      "hrkt": "ぐたいてきな <b>れい</b> を いくつ か みせて ください。",
+      "latn": "gutaitekina <b>rei</b> wo ikutsu ka misete kudasai.",
+      "en": "Please show me some concrete examples.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6136827.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02451A.mp3"
+    }
+  ]
+}

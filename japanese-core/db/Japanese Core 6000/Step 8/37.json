@@ -1,0 +1,18 @@
+{
+  "ja": "例題",
+  "hrkt": "れいだい",
+  "latn": "reidai",
+  "en": "example problem",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03060A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなで<b>例題</b>を解いてみましょう。",
+      "hrkt": "みんな で <b>れいだい</b> を といて みましょう。",
+      "latn": "minna de <b>reidai</b> wo toite mimashou.",
+      "en": "Let's solve the example problem together.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03060A.mp3"
+    }
+  ]
+}

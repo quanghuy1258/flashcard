@@ -1,0 +1,26 @@
+{
+  "ja": "蹴る",
+  "hrkt": "ける",
+  "latn": "keru",
+  "en": "kick",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02729A.mp3",
+  "sentences": [
+    {
+      "ja": "ゴールキーパーがボールを<b>蹴った</b>。",
+      "hrkt": "ゴールキーパー が ボール を <b>けった</b>。",
+      "latn": "go-ruki-pa- ga bo-ru wo <b>ketta</b>.",
+      "en": "The goalkeeper kicked the ball.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1998127.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02729A.mp3"
+    },
+    {
+      "ja": "飛行機で前の席を<b>蹴らないで</b>ください。",
+      "hrkt": "ひこうき で まえ の せき を <b>けらないで</b> ください。",
+      "latn": "hikouki de mae no seki wo <b>keranaide</b> kudasai.",
+      "en": "Please don't kick the seat in front of you on the plane.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e6247g4ki0.mp3"
+    }
+  ]
+}

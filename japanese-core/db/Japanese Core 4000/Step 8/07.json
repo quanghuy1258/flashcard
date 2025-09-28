@@ -1,0 +1,18 @@
+{
+  "ja": "始まり",
+  "hrkt": "はじまり",
+  "latn": "hajimari",
+  "en": "beginning, start, cause",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01790A.mp3",
+  "sentences": [
+    {
+      "ja": "いよいよ劇の<b>始まり</b>ですね。",
+      "hrkt": "いよいよ げき の <b>はじまり</b> です ね。",
+      "latn": "iyoiyo geki no <b>hajimari</b> desu ne.",
+      "en": "The play is about to start.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01790A.mp3"
+    }
+  ]
+}

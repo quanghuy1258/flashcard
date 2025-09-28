@@ -1,0 +1,26 @@
+{
+  "ja": "限る",
+  "hrkt": "かぎる",
+  "latn": "kagiru",
+  "en": "be limited to",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01483A.mp3",
+  "sentences": [
+    {
+      "ja": "このサービスは週末に<b>限ります</b>。",
+      "hrkt": "この サービス は しゅうまつ に <b>かぎります</b>。",
+      "latn": "kono sa-bisu ha shuumatsu ni <b>kagirimasu</b>.",
+      "en": "This service is offered on weekends only.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/664581.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01483A.mp3"
+    },
+    {
+      "ja": "このサービスは学生に<b>限られて</b>います。",
+      "hrkt": "この サービス は がくせい に <b>かぎられて</b> います。",
+      "latn": "kono sa-bisu ha gakusei ni <b>kagirarete</b> imasu.",
+      "en": "This service is limited to students.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/927l67cfc0.mp3"
+    }
+  ]
+}

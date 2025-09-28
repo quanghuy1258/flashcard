@@ -1,0 +1,26 @@
+{
+  "ja": "お辞儀",
+  "hrkt": "おじぎ",
+  "latn": "ojigi",
+  "en": "bow",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01078A.mp3",
+  "sentences": [
+    {
+      "ja": "皆、社長に<b>お辞儀</b>をした。",
+      "hrkt": "みな、しゃちょう に <b>おじぎ</b> を した。",
+      "latn": "mina,shachou ni <b>ojigi</b> wo shita.",
+      "en": "Everyone bowed to the company president.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1069180.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01078A.mp3"
+    },
+    {
+      "ja": "お客様には深く<b>お辞儀</b>をしてください。",
+      "hrkt": "おきゃくさま に は ふかく <b>おじぎ</b> を して ください。",
+      "latn": "okyakusama ni ha fukaku <b>ojigi</b> wo shite kudasai.",
+      "en": "Please bow deeply to customers.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/654f0v939c.mp3"
+    }
+  ]
+}

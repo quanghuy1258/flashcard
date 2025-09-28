@@ -1,0 +1,26 @@
+{
+  "ja": "フィルム",
+  "hrkt": "フィルム",
+  "latn": "firumu",
+  "en": "film",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07955A.mp3",
+  "sentences": [
+    {
+      "ja": "旅行のためにたくさん<b>フィルム</b>を買った。",
+      "hrkt": "りょこう の ため に たくさん <b>フィルム</b> を かった。",
+      "latn": "ryokou no tame ni takusan <b>firumu</b> wo katta.",
+      "en": "I bought a lot of film for the trip.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5584617.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07955A.mp3"
+    },
+    {
+      "ja": "私は<b>フィルム</b>で写真を撮るのが好きです。",
+      "hrkt": "わたし は <b>フィルム</b> で しゃしん を とる の が すき です。",
+      "latn": "watashi ha <b>firumu</b> de shashin wo toru no ga suki desu.",
+      "en": "I like to take film photographs.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e6283fa824.mp3"
+    }
+  ]
+}

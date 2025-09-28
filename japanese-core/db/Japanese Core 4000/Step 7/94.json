@@ -1,0 +1,18 @@
+{
+  "ja": "飛行",
+  "hrkt": "ひこう",
+  "latn": "hikou",
+  "en": "flight",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03842A.mp3",
+  "sentences": [
+    {
+      "ja": "このフライトの<b>飛行</b>時間は約3時間です。",
+      "hrkt": "この フライト の <b>ひこう</b> じかん は やく 3 じかん です。",
+      "latn": "kono furaito no <b>hikou</b> jikan ha yaku 3 jikan desu.",
+      "en": "The flight time is about three hours.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03842A.mp3"
+    }
+  ]
+}

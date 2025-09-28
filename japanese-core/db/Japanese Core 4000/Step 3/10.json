@@ -1,0 +1,18 @@
+{
+  "ja": "重ねる",
+  "hrkt": "かさねる",
+  "latn": "kasaneru",
+  "en": "put (something) on top of another, pile up",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00661A.mp3",
+  "sentences": [
+    {
+      "ja": "荷物はここに<b>重ねて</b>ください。",
+      "hrkt": "にもつ は ここ に <b>かさねて</b> ください。",
+      "latn": "nimotsu ha koko ni <b>kasanete</b> kudasai.",
+      "en": "Please pile up the luggage here.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00661A.mp3"
+    }
+  ]
+}

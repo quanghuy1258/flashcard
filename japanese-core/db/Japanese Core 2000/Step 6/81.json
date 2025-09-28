@@ -1,0 +1,26 @@
+{
+  "ja": "習慣",
+  "hrkt": "しゅうかん",
+  "latn": "shuukan",
+  "en": "custom, habit",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03954A.mp3",
+  "sentences": [
+    {
+      "ja": "毎朝コーヒーを飲むのが<b>習慣</b>です。",
+      "hrkt": "まいあさ コーヒー を のむ の が <b>しゅうかん</b> です。",
+      "latn": "maiasa ko-hi- wo nomu no ga <b>shuukan</b> desu.",
+      "en": "I'm in the habit of drinking coffee every morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5596393.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03954A.mp3"
+    },
+    {
+      "ja": "私は、朝ゆっくり新聞を読むのを<b>習慣</b>にしています。",
+      "hrkt": "わたし は、あさ ゆっくり しんぶん を よむ の を <b>しゅうかん</b> に して います。",
+      "latn": "watashi ha,asa yukkuri shinbun wo yomu no wo <b>shuukan</b> ni shite imasu.",
+      "en": "I've made it a habit to take my time reading the paper in the morning.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c52q1l8lhs.mp3"
+    }
+  ]
+}

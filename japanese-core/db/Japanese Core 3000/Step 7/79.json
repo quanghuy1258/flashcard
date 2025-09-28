@@ -1,0 +1,18 @@
+{
+  "ja": "事",
+  "hrkt": "こと",
+  "latn": "koto",
+  "en": "thing, incident",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00877A.mp3",
+  "sentences": [
+    {
+      "ja": "そんな<b>事</b>をしてはいけません。",
+      "hrkt": "そんな <b>こと</b> を して は いけません。",
+      "latn": "sonna <b>koto</b> wo shite ha ikemasen.",
+      "en": "Don't do such a thing.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/2p9l8l6nc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00877A.mp3"
+    }
+  ]
+}

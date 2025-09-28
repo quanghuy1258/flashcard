@@ -1,0 +1,18 @@
+{
+  "ja": "祝う",
+  "hrkt": "いわう",
+  "latn": "iwau",
+  "en": "celebrate, congratulate",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01483A.mp3",
+  "sentences": [
+    {
+      "ja": "家族で彼の合格を<b>祝った</b>よ。",
+      "hrkt": "かぞく で かれ の ごうかく を <b>いわった</b> よ。",
+      "latn": "kazoku de kare no goukaku wo <b>iwatta</b> yo.",
+      "en": "His whole family celebrated his success in the exam.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01483A.mp3"
+    }
+  ]
+}

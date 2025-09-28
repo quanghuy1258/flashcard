@@ -1,0 +1,26 @@
+{
+  "ja": "違い",
+  "hrkt": "ちがい",
+  "latn": "chigai",
+  "en": "difference, mistake",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03721A.mp3",
+  "sentences": [
+    {
+      "ja": "この二つには大きな<b>違い</b>がある。",
+      "hrkt": "この ふたつ に は おおきな <b>ちがい</b> が ある。",
+      "latn": "kono futatsu ni ha ookina <b>chigai</b> ga aru.",
+      "en": "There's a big difference between these two.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2874885.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03721A.mp3"
+    },
+    {
+      "ja": "イントネーションの<b>違い</b>に気を付けて。",
+      "hrkt": "イントネーション の <b>ちがい</b> に きをつけて。",
+      "latn": "intone-shon no <b>chigai</b> ni kiwotsukete.",
+      "en": "Be careful about the difference in intonation.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/024r0u70po.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03125A.mp3"
+    }
+  ]
+}

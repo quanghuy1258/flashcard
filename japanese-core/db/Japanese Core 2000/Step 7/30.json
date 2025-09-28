@@ -1,0 +1,26 @@
+{
+  "ja": "トイレットペーパー",
+  "hrkt": "トイレットペーパー",
+  "latn": "toirettope-pa-",
+  "en": "toilet paper",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06201A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>トイレットペーパー</b>を交換しました。",
+      "hrkt": "<b>トイレットペーパー</b> を こうかん しました。",
+      "latn": "<b>toirettope-pa-</b> wo koukan shimashita.",
+      "en": "I changed the toilet paper.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4924829.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06201A.mp3"
+    },
+    {
+      "ja": "トイレに入ったら、<b>トイレットペーパー</b>がなくて困りました。",
+      "hrkt": "トイレ に はいったら、<b>トイレットペーパー</b> が なくて こまりました。",
+      "latn": "toire ni haittara,<b>toirettope-pa-</b> ga nakute komarimashita.",
+      "en": "When I went to the washroom, there was no toilet paper, so I didn't know what to do.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/35c9a8dej8.mp3"
+    }
+  ]
+}

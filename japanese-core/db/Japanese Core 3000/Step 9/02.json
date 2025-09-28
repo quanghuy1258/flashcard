@@ -1,0 +1,18 @@
+{
+  "ja": "演奏",
+  "hrkt": "えんそう",
+  "latn": "ensou",
+  "en": "musical performance",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01448A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女のピアノの<b>演奏</b>は素晴らしいね。",
+      "hrkt": "かのじょ の ピアノ の <b>えんそう</b> は すばらしい ね。",
+      "latn": "kanojo no piano no <b>ensou</b> ha subarashii ne.",
+      "en": "Her piano performance is wonderful.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b36s11ateo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01448A.mp3"
+    }
+  ]
+}

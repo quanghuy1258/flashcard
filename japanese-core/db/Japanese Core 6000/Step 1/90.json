@@ -1,0 +1,18 @@
+{
+  "ja": "テープ",
+  "hrkt": "テープ",
+  "latn": "te-pu",
+  "en": "tape",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06026A.mp3",
+  "sentences": [
+    {
+      "ja": "市長が<b>テープ</b>をカットした。",
+      "hrkt": "しちょう が <b>テープ</b> を カット した。",
+      "latn": "shichou ga <b>te-pu</b> wo katto shita.",
+      "en": "The mayor cut the tape.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01348A.mp3"
+    }
+  ]
+}

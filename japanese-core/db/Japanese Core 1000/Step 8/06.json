@@ -1,0 +1,26 @@
+{
+  "ja": "深い",
+  "hrkt": "ふかい",
+  "latn": "fukai",
+  "en": "deep, profound",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07978A.mp3",
+  "sentences": [
+    {
+      "ja": "あの池はとても<b>深い</b>。",
+      "hrkt": "あの いけ は とても <b>ふかい</b>。",
+      "latn": "ano ike ha totemo <b>fukai</b>.",
+      "en": "That pond is very deep.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4984033.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07978A.mp3"
+    },
+    {
+      "ja": "あの辺は雪が<b>深い</b>。",
+      "hrkt": "あの へん は ゆき が <b>ふかい</b>。",
+      "latn": "ano hen ha yuki ga <b>fukai</b>.",
+      "en": "The snow is deep around there.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/536p5o1bus.mp3"
+    }
+  ]
+}

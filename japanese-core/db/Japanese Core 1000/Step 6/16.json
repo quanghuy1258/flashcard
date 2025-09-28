@@ -1,0 +1,26 @@
+{
+  "ja": "どっち",
+  "hrkt": "どっち",
+  "latn": "docchi",
+  "en": "which (casual)",
+  "pos": "Interrogative",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06462A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>どっち</b>の色が好きですか。",
+      "hrkt": "<b>どっち</b> の いろ が すき です か。",
+      "latn": "<b>docchi</b> no iro ga suki desu ka.",
+      "en": "Which color do you like?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5856048.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06462A.mp3"
+    },
+    {
+      "ja": "お寿司とラーメン、<b>どっち</b>がいい？",
+      "hrkt": "おすし と ラーメン、<b>どっち</b> が いい？",
+      "latn": "osushi to ra-men,<b>docchi</b> ga ii?",
+      "en": "Which would you like, sushi or ramen?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c56ffi9c8c.mp3"
+    }
+  ]
+}

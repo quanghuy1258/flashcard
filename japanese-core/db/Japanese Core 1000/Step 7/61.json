@@ -1,0 +1,26 @@
+{
+  "ja": "伝える",
+  "hrkt": "つたえる",
+  "latn": "tsutaeru",
+  "en": "convey, transmit",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05883A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなにこのことを<b>伝えて</b>ください。",
+      "hrkt": "みんな に この こと を <b>つたえて</b> ください。",
+      "latn": "minna ni kono koto wo <b>tsutaete</b> kudasai.",
+      "en": "Please tell everyone about this matter.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5327644.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05883A.mp3"
+    },
+    {
+      "ja": "お母さんによろしくお<b>伝え</b>ください。",
+      "hrkt": "おかあさん に よろしく お<b>つたえ</b> ください。",
+      "latn": "okaasan ni yoroshiku o<b>tsutae</b> kudasai.",
+      "en": "Please say hello to your mother.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3858995.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01003A.mp3"
+    }
+  ]
+}

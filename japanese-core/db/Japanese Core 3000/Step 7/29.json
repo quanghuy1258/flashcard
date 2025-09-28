@@ -1,0 +1,18 @@
+{
+  "ja": "真ん丸",
+  "hrkt": "まんまる",
+  "latn": "manmaru",
+  "en": "perfect circle, perfectly round",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03320A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は月が<b>真ん丸</b>です。",
+      "hrkt": "きょう は つき が <b>まんまる</b> です。",
+      "latn": "kyou ha tsuki ga <b>manmaru</b> desu.",
+      "en": "The moon is perfectly round today.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/553i1sa2io.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03320A.mp3"
+    }
+  ]
+}

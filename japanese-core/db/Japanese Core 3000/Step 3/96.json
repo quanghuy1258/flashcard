@@ -1,0 +1,18 @@
+{
+  "ja": "ジャンプ",
+  "hrkt": "ジャンプ",
+  "latn": "janpu",
+  "en": "jump",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02775A.mp3",
+  "sentences": [
+    {
+      "ja": "猿が高い木に<b>ジャンプ</b>した。",
+      "hrkt": "さる が たかい き に <b>ジャンプ</b> した。",
+      "latn": "saru ga takai ki ni <b>janpu</b> shita.",
+      "en": "A monkey jumped onto a tall tree.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/15br0ufepc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02775A.mp3"
+    }
+  ]
+}

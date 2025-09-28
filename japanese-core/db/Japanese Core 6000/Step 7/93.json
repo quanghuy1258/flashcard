@@ -1,0 +1,18 @@
+{
+  "ja": "派出所",
+  "hrkt": "はしゅつじょ",
+  "latn": "hashutsujo",
+  "en": "police box, police station",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02425A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>派出所</b>にだれもいないな。",
+      "hrkt": "<b>はしゅつじょ</b> に だれ も いない な。",
+      "latn": "<b>hashutsujo</b> ni dare mo inai na.",
+      "en": "There's no one in the police box.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02425A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "屋根",
+  "hrkt": "やね",
+  "latn": "yane",
+  "en": "roof",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09434A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>屋根</b>にカラスが止まっています。",
+      "hrkt": "<b>やね</b> に カラス が とまって います。",
+      "latn": "<b>yane</b> ni karasu ga tomatte imasu.",
+      "en": "There's a crow on the roof.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/76865.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09434A.mp3"
+    },
+    {
+      "ja": "ネコが<b>屋根</b>に上っている。",
+      "hrkt": "ネコ が <b>やね</b> に のぼって いる。",
+      "latn": "neko ga <b>yane</b> ni nobotte iru.",
+      "en": "The cat's up on the roof.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2946225.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07109A.mp3"
+    }
+  ]
+}

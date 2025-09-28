@@ -1,0 +1,26 @@
+{
+  "ja": "番号",
+  "hrkt": "ばんごう",
+  "latn": "bangou",
+  "en": "assigned number",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07538A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>番号</b>に電話してください。",
+      "hrkt": "この <b>ばんごう</b> に でんわ して ください。",
+      "latn": "kono <b>bangou</b> ni denwa shite kudasai.",
+      "en": "Please call this number.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4469431.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07538A.mp3"
+    },
+    {
+      "ja": "電話<b>番号</b>を間違えました。",
+      "hrkt": "でんわ <b>ばんごう</b> を まちがえました。",
+      "latn": "denwa <b>bangou</b> wo machigaemashita.",
+      "en": "I called the wrong number.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/913112.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08731A.mp3"
+    }
+  ]
+}

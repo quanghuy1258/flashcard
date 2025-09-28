@@ -1,0 +1,18 @@
+{
+  "ja": "戦場",
+  "hrkt": "せんじょう",
+  "latn": "senjou",
+  "en": "battlefield",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01232A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父は<b>戦場</b>に行ったことがあるそうです。",
+      "hrkt": "そふ は <b>せんじょう</b> に いった こと が ある そうです。",
+      "latn": "sofu ha <b>senjou</b> ni itta koto ga aru soudesu.",
+      "en": "I heard that my grandfather has been to the battlefield.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01232A.mp3"
+    }
+  ]
+}

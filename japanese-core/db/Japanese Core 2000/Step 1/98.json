@@ -1,0 +1,26 @@
+{
+  "ja": "牛",
+  "hrkt": "うし",
+  "latn": "ushi",
+  "en": "cattle, cow",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00685A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>牛</b>が草を食べています。",
+      "hrkt": "<b>うし</b> が くさ を たべて います。",
+      "latn": "<b>ushi</b> ga kusa wo tabete imasu.",
+      "en": "The cow is eating grass.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4788828.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00685A.mp3"
+    },
+    {
+      "ja": "<b>牛</b>は上手に泳ぐことができます。",
+      "hrkt": "<b>うし</b> は じょうず に およぐ こと が できます。",
+      "latn": "<b>ushi</b> ha jouzu ni oyogu koto ga dekimasu.",
+      "en": "Cows can swim well.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b55lfnfb4s.mp3"
+    }
+  ]
+}

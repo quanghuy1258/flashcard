@@ -1,0 +1,26 @@
+{
+  "ja": "システム",
+  "hrkt": "システム",
+  "latn": "shisutemu",
+  "en": "system (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03698A.mp3",
+  "sentences": [
+    {
+      "ja": "全ての<b>システム</b>が停止した。",
+      "hrkt": "すべて の <b>システム</b> が ていし した。",
+      "latn": "subete no <b>shisutemu</b> ga teishi shita.",
+      "en": "All systems stopped working.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2540497.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03698A.mp3"
+    },
+    {
+      "ja": "会社に新しい<b>システム</b>が入った。",
+      "hrkt": "かいしゃ に あたらしい <b>システム</b> が はいった。",
+      "latn": "kaisha ni atarashii <b>shisutemu</b> ga haitta.",
+      "en": "A new system has been introduced to the company.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/851f9u70q8.mp3"
+    }
+  ]
+}

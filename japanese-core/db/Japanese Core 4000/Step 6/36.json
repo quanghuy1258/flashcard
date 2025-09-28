@@ -1,0 +1,18 @@
+{
+  "ja": "ジャーナリスト",
+  "hrkt": "ジャーナリスト",
+  "latn": "ja-narisuto",
+  "en": "journalist",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01351A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は有能な<b>ジャーナリスト</b>だ。",
+      "hrkt": "かのじょ は ゆうのうな <b>ジャーナリスト</b> だ。",
+      "latn": "kanojo ha yuunouna <b>ja-narisuto</b> da.",
+      "en": "She is an able journalist.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01351A.mp3"
+    }
+  ]
+}

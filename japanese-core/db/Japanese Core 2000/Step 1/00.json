@@ -1,0 +1,26 @@
+{
+  "ja": "凄い",
+  "hrkt": "すごい",
+  "latn": "sugoi",
+  "en": "great, incredible",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04554A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>凄い</b>雨になった。",
+      "hrkt": "<b>すごい</b> あめ に なった。",
+      "latn": "<b>sugoi</b> ame ni natta.",
+      "en": "It began raining heavily.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2768530.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04554A.mp3"
+    },
+    {
+      "ja": "彼はいつもテストで100点を取ります。<b>凄い</b>人です。",
+      "hrkt": "かれ は いつも テスト で 100 てん を とります。 <b>すごい</b> ひと です。",
+      "latn": "kare ha itsumo tesuto de 100 ten wo torimasu. <b>sugoi</b> hito desu.",
+      "en": "He always gets perfect scores on tests. He is an incredible person.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b43b6u253k.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "瓶",
+  "hrkt": "びん",
+  "latn": "bin",
+  "en": "bottle",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07916A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>瓶</b>ビールを注文した。",
+      "hrkt": "<b>びん</b> ビール を ちゅうもん した。",
+      "latn": "<b>bin</b> bi-ru wo chuumon shita.",
+      "en": "I ordered a bottle of beer.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6455897.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07916A.mp3"
+    },
+    {
+      "ja": "<b>瓶</b>はリサイクルに出します。",
+      "hrkt": "<b>びん</b> は リサイクル に だします。",
+      "latn": "<b>bin</b> ha risaikuru ni dashimasu.",
+      "en": "Bottles should be taken out for recycling.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/76681h285c.mp3"
+    }
+  ]
+}

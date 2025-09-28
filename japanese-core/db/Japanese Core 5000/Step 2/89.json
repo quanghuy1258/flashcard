@@ -1,0 +1,18 @@
+{
+  "ja": "議員",
+  "hrkt": "ぎいん",
+  "latn": "giin",
+  "en": "legislator, assembly member",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01987A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は国会<b>議員</b>です。",
+      "hrkt": "かれ は こっかい <b>ぎいん</b> です。",
+      "latn": "kare ha kokkai <b>giin</b> desu.",
+      "en": "He's a legislator.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01987A.mp3"
+    }
+  ]
+}

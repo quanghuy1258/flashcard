@@ -1,0 +1,18 @@
+{
+  "ja": "小",
+  "hrkt": "しょう",
+  "latn": "shou",
+  "en": "small version, small size",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03662A.mp3",
+  "sentences": [
+    {
+      "ja": "この箱の<b>小</b>をください。",
+      "hrkt": "この はこ の <b>しょう</b> を ください。",
+      "latn": "kono hako no <b>shou</b> wo kudasai.",
+      "en": "Please give me a small version of this box.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03662A.mp3"
+    }
+  ]
+}

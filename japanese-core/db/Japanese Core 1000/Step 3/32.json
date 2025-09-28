@@ -1,0 +1,26 @@
+{
+  "ja": "土曜日",
+  "hrkt": "どようび",
+  "latn": "doyoubi",
+  "en": "Saturday",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06522A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>土曜日</b>の夜はクラブに行きます。",
+      "hrkt": "<b>どようび</b> の よる は クラブ に いきます。",
+      "latn": "<b>doyoubi</b> no yoru ha kurabu ni ikimasu.",
+      "en": "I'm going to a club Saturday night.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3836573.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06522A.mp3"
+    },
+    {
+      "ja": "<b>土曜日</b>はよく友達と映画を見ます。",
+      "hrkt": "<b>どようび</b> は よく ともだち と えいが を みます。",
+      "latn": "<b>doyoubi</b> ha yoku tomodachi to eiga wo mimasu.",
+      "en": "On Saturdays, I often watch movies with my friends.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a69gd79iko.mp3"
+    }
+  ]
+}

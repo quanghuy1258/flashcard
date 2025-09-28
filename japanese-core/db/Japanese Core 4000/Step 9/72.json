@@ -1,0 +1,18 @@
+{
+  "ja": "調節",
+  "hrkt": "ちょうせつ",
+  "latn": "chousetsu",
+  "en": "adjustment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01533A.mp3",
+  "sentences": [
+    {
+      "ja": "ここで部屋の温度が<b>調節</b>できます。",
+      "hrkt": "ここ で へや の おんど が <b>ちょうせつ</b> できます。",
+      "latn": "koko de heya no ondo ga <b>chousetsu</b> dekimasu.",
+      "en": "You can adjust the room temperature here.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01533A.mp3"
+    }
+  ]
+}

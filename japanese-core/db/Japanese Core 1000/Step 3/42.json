@@ -1,0 +1,26 @@
+{
+  "ja": "ミーティング",
+  "hrkt": "ミーティング",
+  "latn": "mi-tingu",
+  "en": "meeting (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/users/Cerego/2925dbbfe91fccbbfe3e889d4c2c10c1.mp3",
+  "sentences": [
+    {
+      "ja": "朝9時から<b>ミーティング</b>が始まった。",
+      "hrkt": "あさ 9 じ から <b>ミーティング</b> が はじまった。",
+      "latn": "asa 9 ji kara <b>mi-tingu</b> ga hajimatta.",
+      "en": "The meeting started at 9 a.m.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1758016.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08847A.mp3"
+    },
+    {
+      "ja": "<b>ミーティング</b>は2時からです。",
+      "hrkt": "<b>ミーティング</b> は 2 じ から です。",
+      "latn": "<b>mi-tingu</b> ha 2 ji kara desu.",
+      "en": "The meeting starts at two o'clock.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/144c6fda84.mp3"
+    }
+  ]
+}

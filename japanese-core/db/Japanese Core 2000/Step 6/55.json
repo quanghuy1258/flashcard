@@ -1,0 +1,26 @@
+{
+  "ja": "訳",
+  "hrkt": "やく",
+  "latn": "yaku",
+  "en": "translation",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09380A.mp3",
+  "sentences": [
+    {
+      "ja": "その文の<b>訳</b>を読みました。",
+      "hrkt": "その ぶん の <b>やく</b> を よみました。",
+      "latn": "sono bun no <b>yaku</b> wo yomimashita.",
+      "en": "I read a translation of that sentence.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3866940.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09380A.mp3"
+    },
+    {
+      "ja": "この日本語<b>訳</b>は間違っています。",
+      "hrkt": "この にほん ご <b>やく</b> は まちがって います。",
+      "latn": "kono nihon go <b>yaku</b> ha machigatte imasu.",
+      "en": "This Japanese translation is wrong.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c636b61bno.mp3"
+    }
+  ]
+}

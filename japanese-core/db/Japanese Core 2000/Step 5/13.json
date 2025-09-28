@@ -1,0 +1,26 @@
+{
+  "ja": "バナナ",
+  "hrkt": "バナナ",
+  "latn": "banana",
+  "en": "banana",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07426A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎朝<b>バナナ</b>を食べます。",
+      "hrkt": "わたし は まいあさ <b>バナナ</b> を たべます。",
+      "latn": "watashi ha maiasa <b>banana</b> wo tabemasu.",
+      "en": "I eat a banana every morning.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5397882.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07426A.mp3"
+    },
+    {
+      "ja": "<b>バナナ</b>が七本あります。",
+      "hrkt": "<b>バナナ</b> が なな ほん あります。",
+      "latn": "<b>banana</b> ga nana hon arimasu.",
+      "en": "There are seven bananas.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6284017.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06702A.mp3"
+    }
+  ]
+}

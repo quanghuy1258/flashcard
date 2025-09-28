@@ -1,0 +1,26 @@
+{
+  "ja": "長女",
+  "hrkt": "ちょうじょ",
+  "latn": "choujo",
+  "en": "eldest daughter",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05712A.mp3",
+  "sentences": [
+    {
+      "ja": "うちの<b>長女</b>は10歳です。",
+      "hrkt": "うち の <b>ちょうじょ</b> は 10 さい です。",
+      "latn": "uchi no <b>choujo</b> ha 10 sai desu.",
+      "en": "Our oldest daughter is ten.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5565119.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05712A.mp3"
+    },
+    {
+      "ja": "彼女は3人兄弟の<b>長女</b>です。",
+      "hrkt": "かのじょ は 3 にん きょうだい の <b>ちょうじょ</b> です。",
+      "latn": "kanojo ha 3 nin kyoudai no <b>choujo</b> desu.",
+      "en": "She is the eldest daughter of three siblings.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/43bd28aehc.mp3"
+    }
+  ]
+}

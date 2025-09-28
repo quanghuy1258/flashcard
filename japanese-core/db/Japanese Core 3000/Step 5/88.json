@@ -1,0 +1,18 @@
+{
+  "ja": "葉っぱ",
+  "hrkt": "はっぱ",
+  "latn": "happa",
+  "en": "leaf (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03825A.mp3",
+  "sentences": [
+    {
+      "ja": "もみじの<b>葉っぱ</b>が赤くなりましたね。",
+      "hrkt": "もみじ の <b>はっぱ</b> が あかく なりました ね。",
+      "latn": "momiji no <b>happa</b> ga akaku narimashita ne.",
+      "en": "The maple leaves have turned red.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f4754of4s8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03825A.mp3"
+    }
+  ]
+}

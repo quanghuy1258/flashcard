@@ -1,0 +1,18 @@
+{
+  "ja": "ベテラン",
+  "hrkt": "ベテラン",
+  "latn": "beteran",
+  "en": "experienced person, veteran",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01344A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>ベテラン</b>の運転手です。",
+      "hrkt": "かれ は <b>ベテラン</b> の うんてんしゅ です。",
+      "latn": "kare ha <b>beteran</b> no untenshu desu.",
+      "en": "He's an experienced driver.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01344A.mp3"
+    }
+  ]
+}

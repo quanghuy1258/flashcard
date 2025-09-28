@@ -1,0 +1,26 @@
+{
+  "ja": "運転",
+  "hrkt": "うんてん",
+  "latn": "unten",
+  "en": "drive",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00818A.mp3",
+  "sentences": [
+    {
+      "ja": "父は安全<b>運転</b>だ。",
+      "hrkt": "ちち は あんぜん <b>うんてん</b> だ。",
+      "latn": "chichi ha anzen <b>unten</b> da.",
+      "en": "My father drives safely.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6420620.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00818A.mp3"
+    },
+    {
+      "ja": "トラックを<b>運転</b>できますか。",
+      "hrkt": "トラック を <b>うんてん</b> できます か。",
+      "latn": "torakku wo <b>unten</b> dekimasu ka.",
+      "en": "Can you drive a truck?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1577497.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06528A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "老人",
+  "hrkt": "ろうじん",
+  "latn": "roujin",
+  "en": "old person, elderly",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00104A.mp3",
+  "sentences": [
+    {
+      "ja": "子供が<b>老人</b>の手を引いて歩いていたの。",
+      "hrkt": "こども が <b>ろうじん</b> の て を ひいて あるいて いた の。",
+      "latn": "kodomo ga <b>roujin</b> no te wo hiite aruite ita no.",
+      "en": "A child was holding an old person's hand as they walked.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00104A.mp3"
+    }
+  ]
+}

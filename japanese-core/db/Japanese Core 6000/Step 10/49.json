@@ -1,0 +1,18 @@
+{
+  "ja": "大正",
+  "hrkt": "たいしょう",
+  "latn": "taishou",
+  "en": "Taisho era",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01059A.mp3",
+  "sentences": [
+    {
+      "ja": "祖母は<b>大正</b>生まれです。",
+      "hrkt": "そぼ は <b>たいしょう</b> うまれ です。",
+      "latn": "sobo ha <b>taishou</b> umare desu.",
+      "en": "My grandmother was born in the Taisho era.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01059A.mp3"
+    }
+  ]
+}

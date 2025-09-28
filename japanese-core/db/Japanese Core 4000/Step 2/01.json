@@ -1,0 +1,18 @@
+{
+  "ja": "載る",
+  "hrkt": "のる",
+  "latn": "noru",
+  "en": "appear in print, be published",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00950A.mp3",
+  "sentences": [
+    {
+      "ja": "先生の論文が雑誌に<b>載りました</b>よ。",
+      "hrkt": "せんせい の ろんぶん が ざっし に <b>のりました</b> よ。",
+      "latn": "sensei no ronbun ga zasshi ni <b>norimashita</b> yo.",
+      "en": "Our professor's paper was published in a magazine.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e30q20ba58.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00950A.mp3"
+    }
+  ]
+}

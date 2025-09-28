@@ -1,0 +1,18 @@
+{
+  "ja": "木造",
+  "hrkt": "もくぞう",
+  "latn": "mokuzou",
+  "en": "being made of wood, wooden (things)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03490A.mp3",
+  "sentences": [
+    {
+      "ja": "隣に<b>木造</b>の家が建ったね。",
+      "hrkt": "となり に <b>もくぞう</b> の いえ が たった ね。",
+      "latn": "tonari ni <b>mokuzou</b> no ie ga tatta ne.",
+      "en": "They have built a wooden house next door.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03490A.mp3"
+    }
+  ]
+}

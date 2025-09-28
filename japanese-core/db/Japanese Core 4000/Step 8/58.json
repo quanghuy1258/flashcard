@@ -1,0 +1,18 @@
+{
+  "ja": "浮く",
+  "hrkt": "うく",
+  "latn": "uku",
+  "en": "rise to a surface, float",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02019A.mp3",
+  "sentences": [
+    {
+      "ja": "氷は水に<b>浮きます</b>。",
+      "hrkt": "こおり は みず に <b>うきます</b>。",
+      "latn": "koori ha mizu ni <b>ukimasu</b>.",
+      "en": "Ice floats on water.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02019A.mp3"
+    }
+  ]
+}

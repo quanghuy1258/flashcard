@@ -1,0 +1,18 @@
+{
+  "ja": "記述",
+  "hrkt": "きじゅつ",
+  "latn": "kijutsu",
+  "en": "description",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00225A.mp3",
+  "sentences": [
+    {
+      "ja": "日本の古い料理法についての<b>記述</b>を読んだんだ。",
+      "hrkt": "にほん の ふるい りょうり ほう について の <b>きじゅつ</b> を よんだ ん だ。",
+      "latn": "nihon no furui ryouri hou nitsuite no <b>kijutsu</b> wo yonda n da.",
+      "en": "I read a description of old Japanese cooking methods.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00225A.mp3"
+    }
+  ]
+}

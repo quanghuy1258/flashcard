@@ -1,0 +1,18 @@
+{
+  "ja": "刀",
+  "hrkt": "かたな",
+  "latn": "katana",
+  "en": "sword, blade",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02023A.mp3",
+  "sentences": [
+    {
+      "ja": "日本映画で<b>刀</b>を見た。",
+      "hrkt": "にほん えいが で <b>かたな</b> を みた。",
+      "latn": "nihon eiga de <b>katana</b> wo mita.",
+      "en": "I saw a sword in a Japanese movie.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02023A.mp3"
+    }
+  ]
+}

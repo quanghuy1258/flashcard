@@ -1,0 +1,26 @@
+{
+  "ja": "バイク",
+  "hrkt": "バイク",
+  "latn": "baiku",
+  "en": "motorcycle",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07172A.mp3",
+  "sentences": [
+    {
+      "ja": "兄は<b>バイク</b>が大好きです。",
+      "hrkt": "あに は <b>バイク</b> が だいすき です。",
+      "latn": "ani ha <b>baiku</b> ga daisuki desu.",
+      "en": "My older brother loves motorcycles.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4287204.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07172A.mp3"
+    },
+    {
+      "ja": "私は毎朝<b>バイク</b>で駅まで行きます。",
+      "hrkt": "わたし は まいあさ <b>バイク</b> で えき まで いきます。",
+      "latn": "watashi ha maiasa <b>baiku</b> de eki made ikimasu.",
+      "en": "I go to the station by motorcycle every morning.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c69n055pbs.mp3"
+    }
+  ]
+}

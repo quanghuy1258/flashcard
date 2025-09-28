@@ -1,0 +1,26 @@
+{
+  "ja": "年月",
+  "hrkt": "ねんげつ",
+  "latn": "nengetsu",
+  "en": "years, period of time",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02833A.mp3",
+  "sentences": [
+    {
+      "ja": "そのお寺は長い<b>年月</b>をかけて建てられた。",
+      "hrkt": "その おてら は ながい <b>ねんげつ</b> を かけて たてられた。",
+      "latn": "sono otera ha nagai <b>nengetsu</b> wo kakete taterareta.",
+      "en": "The temple was built over a long period of time.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1104204.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02833A.mp3"
+    },
+    {
+      "ja": "昔の写真を見ると<b>年月</b>を感じます。",
+      "hrkt": "むかし の しゃしん を みる と <b>ねんげつ</b> を かんじます。",
+      "latn": "mukashi no shashin wo miru to <b>nengetsu</b> wo kanjimasu.",
+      "en": "When looking at old pictures, I feel the passage of time.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/94886b58ds.mp3"
+    }
+  ]
+}

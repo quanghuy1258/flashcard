@@ -1,0 +1,18 @@
+{
+  "ja": "留守番",
+  "hrkt": "るすばん",
+  "latn": "rusuban",
+  "en": "looking after the house",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02708A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>留守番</b>の者です。",
+      "hrkt": "わたし は <b>るすばん</b> の もの です。",
+      "latn": "watashi ha <b>rusuban</b> no mono desu.",
+      "en": "I'm looking after the house.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/54fv652a4s.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02708A.mp3"
+    }
+  ]
+}

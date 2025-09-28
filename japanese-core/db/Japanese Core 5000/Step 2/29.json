@@ -1,0 +1,18 @@
+{
+  "ja": "憎む",
+  "hrkt": "にくむ",
+  "latn": "nikumu",
+  "en": "hate, detest",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02362A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はもう彼女を<b>憎んで</b>はいないよ。",
+      "hrkt": "かれ は もう かのじょ を <b>にくんで</b> は いない よ。",
+      "latn": "kare ha mou kanojo wo <b>nikunde</b> ha inai yo.",
+      "en": "He no longer hates her.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02362A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "信号",
+  "hrkt": "しんごう",
+  "latn": "shingou",
+  "en": "signal, traffic light",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04379A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>信号</b>が青になった。",
+      "hrkt": "<b>しんごう</b> が あお に なった。",
+      "latn": "<b>shingou</b> ga ao ni natta.",
+      "en": "The traffic light turned green.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5259821.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04379A.mp3"
+    },
+    {
+      "ja": "<b>信号</b>は黄色でした。",
+      "hrkt": "<b>しんごう</b> は きいろ でした。",
+      "latn": "<b>shingou</b> ha kiiro deshita.",
+      "en": "The traffic light was yellow.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4268707.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01985A.mp3"
+    }
+  ]
+}

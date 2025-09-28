@@ -1,0 +1,18 @@
+{
+  "ja": "予報",
+  "hrkt": "よほう",
+  "latn": "yohou",
+  "en": "forecast, prediction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02260A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>予報</b>では明日は雨ですね。",
+      "hrkt": "<b>よほう</b> で は あした は あめ です ね。",
+      "latn": "<b>yohou</b> de ha ashita ha ame desu ne.",
+      "en": "It will rain tomorrow according to the forecast.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02260A.mp3"
+    }
+  ]
+}

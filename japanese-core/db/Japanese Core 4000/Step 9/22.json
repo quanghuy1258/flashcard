@@ -1,0 +1,18 @@
+{
+  "ja": "クリーム",
+  "hrkt": "クリーム",
+  "latn": "kuri-mu",
+  "en": "cream",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02918A.mp3",
+  "sentences": [
+    {
+      "ja": "私は洗い物をしたあと、手に<b>クリーム</b>をぬります。",
+      "hrkt": "わたし は あらいもの を した あと、て に <b>クリーム</b> を ぬります。",
+      "latn": "watashi ha araimono wo shita ato,te ni <b>kuri-mu</b> wo nurimasu.",
+      "en": "I put on hand cream after doing the dishes.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02918A.mp3"
+    }
+  ]
+}

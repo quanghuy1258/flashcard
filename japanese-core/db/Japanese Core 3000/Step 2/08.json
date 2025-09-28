@@ -1,0 +1,18 @@
+{
+  "ja": "何で",
+  "hrkt": "なんで",
+  "latn": "nande",
+  "en": "why, what for",
+  "pos": "Interrogative",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03156A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>何で</b>来ないんだろう。",
+      "hrkt": "かのじょ は <b>なんで</b> こない ん だろう。",
+      "latn": "kanojo ha <b>nande</b> konai n darou.",
+      "en": "I wonder why she's not coming.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/440bev4rn4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03156A.mp3"
+    }
+  ]
+}

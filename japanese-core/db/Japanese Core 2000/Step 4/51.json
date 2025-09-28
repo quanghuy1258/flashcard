@@ -1,0 +1,26 @@
+{
+  "ja": "歩道",
+  "hrkt": "ほどう",
+  "latn": "hodou",
+  "en": "sidewalk, pavement",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08559A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>歩道</b>を歩きましょう。",
+      "hrkt": "<b>ほどう</b> を あるきましょう。",
+      "latn": "<b>hodou</b> wo arukimashou.",
+      "en": "Let's walk on the pavement.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5750218.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08559A.mp3"
+    },
+    {
+      "ja": "その<b>歩道</b>は狭くて危ないです。",
+      "hrkt": "その <b>ほどう</b> は せまくて あぶない です。",
+      "latn": "sono <b>hodou</b> ha semakute abunai desu.",
+      "en": "The sidewalk is narrow and dangerous.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d55t5a0kjs.mp3"
+    }
+  ]
+}

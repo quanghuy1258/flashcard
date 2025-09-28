@@ -1,0 +1,18 @@
+{
+  "ja": "見舞う",
+  "hrkt": "みまう",
+  "latn": "mimau",
+  "en": "visit someone sick",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01394A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日友人を<b>見舞った</b>の。",
+      "hrkt": "きのう ゆうじん を <b>みまった</b> の。",
+      "latn": "kinou yuujin wo <b>mimatta</b> no.",
+      "en": "I went to visit a friend in hospital yesterday.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01394A.mp3"
+    }
+  ]
+}

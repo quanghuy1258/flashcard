@@ -1,0 +1,26 @@
+{
+  "ja": "軽い",
+  "hrkt": "かるい",
+  "latn": "karui",
+  "en": "light (of weight, degree, etc.)",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01830A.mp3",
+  "sentences": [
+    {
+      "ja": "この靴はとても<b>軽い</b>。",
+      "hrkt": "この くつ は とても <b>かるい</b>。",
+      "latn": "kono kutsu ha totemo <b>karui</b>.",
+      "en": "These shoes are very light.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3620247.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01830A.mp3"
+    },
+    {
+      "ja": "あなたのかばんは<b>軽い</b>ですね。",
+      "hrkt": "あなた の かばん は <b>かるい</b> です ね。",
+      "latn": "anata no kaban ha <b>karui</b> desu ne.",
+      "en": "Your bag is light.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/840t2af64g.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "乱す",
+  "hrkt": "みだす",
+  "latn": "midasu",
+  "en": "throw (something) into disorder, corrupt (something)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02223A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は風紀を<b>乱して</b>いる。",
+      "hrkt": "かれ は ふうき を <b>みだして</b> いる。",
+      "latn": "kare ha fuuki wo <b>midashite</b> iru.",
+      "en": "He's corrupting public morals.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02223A.mp3"
+    }
+  ]
+}

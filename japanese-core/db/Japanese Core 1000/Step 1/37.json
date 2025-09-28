@@ -1,0 +1,26 @@
+{
+  "ja": "本",
+  "hrkt": "ほん",
+  "latn": "hon",
+  "en": "book",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08587A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>本</b>を1冊買いました。",
+      "hrkt": "<b>ほん</b> を 1 さつ かいました。",
+      "latn": "<b>hon</b> wo 1 satsu kaimashita.",
+      "en": "I bought one book.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6533855.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08587A.mp3"
+    },
+    {
+      "ja": "この<b>本</b>はすごく面白かった。",
+      "hrkt": "この <b>ほん</b> は すごく おもしろかった。",
+      "latn": "kono <b>hon</b> ha sugoku omoshirokatta.",
+      "en": "This book was very interesting.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5054991.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01217A.mp3"
+    }
+  ]
+}

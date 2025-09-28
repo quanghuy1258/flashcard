@@ -1,0 +1,18 @@
+{
+  "ja": "閉会",
+  "hrkt": "へいかい",
+  "latn": "heikai",
+  "en": "closing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02624A.mp3",
+  "sentences": [
+    {
+      "ja": "会長が<b>閉会</b>の挨拶をしました。",
+      "hrkt": "かいちょう が <b>へいかい</b> の あいさつ を しました。",
+      "latn": "kaichou ga <b>heikai</b> no aisatsu wo shimashita.",
+      "en": "The chairperson made closing remarks.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02624A.mp3"
+    }
+  ]
+}

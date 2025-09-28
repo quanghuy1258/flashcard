@@ -1,0 +1,18 @@
+{
+  "ja": "言い表す",
+  "hrkt": "いいあらわす",
+  "latn": "iiarawasu",
+  "en": "express in words",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03523A.mp3",
+  "sentences": [
+    {
+      "ja": "この気持ちをうまく<b>言い表せません</b>。",
+      "hrkt": "この きもち を うまく <b>いいあらわせません</b>。",
+      "latn": "kono kimochi wo umaku <b>iiarawasemasen</b>.",
+      "en": "I can't express this feeling well.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03523A.mp3"
+    }
+  ]
+}

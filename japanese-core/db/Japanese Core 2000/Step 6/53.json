@@ -1,0 +1,26 @@
+{
+  "ja": "花見",
+  "hrkt": "はなみ",
+  "latn": "hanami",
+  "en": "flower viewing",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07432A.mp3",
+  "sentences": [
+    {
+      "ja": "友達と<b>花見</b>をしました。",
+      "hrkt": "ともだち と <b>はなみ</b> を しました。",
+      "latn": "tomodachi to <b>hanami</b> wo shimashita.",
+      "en": "I went cherry blossom-viewing with my friend.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5452510.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07432A.mp3"
+    },
+    {
+      "ja": "今日は公園にお<b>花見</b>に行きましょう。",
+      "hrkt": "きょう は こうえん に お<b>はなみ</b> に いきましょう。",
+      "latn": "kyou ha kouen ni o<b>hanami</b> ni ikimashou.",
+      "en": "Let's go flower-viewing in the park today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/555j30d1o4.mp3"
+    }
+  ]
+}

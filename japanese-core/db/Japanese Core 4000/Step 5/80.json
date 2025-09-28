@@ -1,0 +1,18 @@
+{
+  "ja": "収穫",
+  "hrkt": "しゅうかく",
+  "latn": "shuukaku",
+  "en": "harvest, harvesting",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01266A.mp3",
+  "sentences": [
+    {
+      "ja": "お米の<b>収穫</b>が始まったね。",
+      "hrkt": "おこめ の <b>しゅうかく</b> が はじまった ね。",
+      "latn": "okome no <b>shuukaku</b> ga hajimatta ne.",
+      "en": "The rice harvest has started.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01266A.mp3"
+    }
+  ]
+}

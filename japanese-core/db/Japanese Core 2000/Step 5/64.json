@@ -1,0 +1,26 @@
+{
+  "ja": "踏切",
+  "hrkt": "ふみきり",
+  "latn": "fumikiri",
+  "en": "railroad crossing",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08158A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>踏切</b>は長い。",
+      "hrkt": "その <b>ふみきり</b> は ながい。",
+      "latn": "sono <b>fumikiri</b> ha nagai.",
+      "en": "You have to expect a long wait at this railroad crossing.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5073852.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08158A.mp3"
+    },
+    {
+      "ja": "この<b>踏切</b>は全然開きません。",
+      "hrkt": "この <b>ふみきり</b> は ぜんぜん あきません。",
+      "latn": "kono <b>fumikiri</b> ha zenzen akimasen.",
+      "en": "This railroad crossing doesn't open at all.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f42cfidouk.mp3"
+    }
+  ]
+}

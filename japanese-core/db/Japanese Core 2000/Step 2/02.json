@@ -1,0 +1,26 @@
+{
+  "ja": "何度",
+  "hrkt": "なんど",
+  "latn": "nando",
+  "en": "how many times, how many degrees",
+  "pos": "Interrogative",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06776A.mp3",
+  "sentences": [
+    {
+      "ja": "あの店には<b>何度</b>も行きました。",
+      "hrkt": "あの みせ に は <b>なんど</b> も いきました。",
+      "latn": "ano mise ni ha <b>nando</b> mo ikimashita.",
+      "en": "I've been to that shop many times.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3983236.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06776A.mp3"
+    },
+    {
+      "ja": "子どもの時、母と一緒に<b>何度</b>かディズニーランドに行きました。",
+      "hrkt": "こども の とき、はは と いっしょ に <b>なんど</b> か ディズニーランド に いきました。",
+      "latn": "kodomo no toki,haha to issho ni <b>nando</b> ka dizuni-rando ni ikimashita.",
+      "en": "When I was a child, I went to Disney Land several times with my mother.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e6b9baf1a0.mp3"
+    }
+  ]
+}

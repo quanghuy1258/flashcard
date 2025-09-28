@@ -1,0 +1,18 @@
+{
+  "ja": "面する",
+  "hrkt": "めんする",
+  "latn": "mensuru",
+  "en": "face, look out on",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01196A.mp3",
+  "sentences": [
+    {
+      "ja": "私の家は川に<b>面して</b>います。",
+      "hrkt": "わたし の いえ は かわ に <b>めんして</b> います。",
+      "latn": "watashi no ie ha kawa ni <b>menshite</b> imasu.",
+      "en": "My house faces the river.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01196A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "直接",
+  "hrkt": "ちょくせつ",
+  "latn": "chokusetsu",
+  "en": "directly",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05742A.mp3",
+  "sentences": [
+    {
+      "ja": "彼に<b>直接</b>お願いしなさい。",
+      "hrkt": "かれ に <b>ちょくせつ</b> おねがい しなさい。",
+      "latn": "kare ni <b>chokusetsu</b> onegai shinasai.",
+      "en": "Ask him directly.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6277254.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05742A.mp3"
+    },
+    {
+      "ja": "<b>直接</b>会って話したいです。",
+      "hrkt": "<b>ちょくせつ</b> あって はなしたい です。",
+      "latn": "<b>chokusetsu</b> atte hanashitai desu.",
+      "en": "I want to talk to you in person (directly).",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c45ica7u70.mp3"
+    }
+  ]
+}

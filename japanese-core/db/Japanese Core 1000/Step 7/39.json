@@ -1,0 +1,26 @@
+{
+  "ja": "彼ら",
+  "hrkt": "かれら",
+  "latn": "karera",
+  "en": "they",
+  "pos": "Pronoun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01840A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>彼ら</b>はバスケットの選手です。",
+      "hrkt": "<b>かれら</b> は バスケット の せんしゅ です。",
+      "latn": "<b>karera</b> ha basuketto no senshu desu.",
+      "en": "They're basketball players.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5072984.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01840A.mp3"
+    },
+    {
+      "ja": "<b>彼ら</b>はよくテニスをしています。",
+      "hrkt": "<b>かれら</b> は よく テニス を して います。",
+      "latn": "<b>karera</b> ha yoku tenisu wo shite imasu.",
+      "en": "They often play tennis.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4338337.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06107A.mp3"
+    }
+  ]
+}

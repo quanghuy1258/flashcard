@@ -1,0 +1,18 @@
+{
+  "ja": "代金",
+  "hrkt": "だいきん",
+  "latn": "daikin",
+  "en": "charge, fee (in exchange for goods, etc.)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01067A.mp3",
+  "sentences": [
+    {
+      "ja": "ここで<b>代金</b>をお支払いください。",
+      "hrkt": "ここ で <b>だいきん</b> を おしはらい ください。",
+      "latn": "koko de <b>daikin</b> wo oshiharai kudasai.",
+      "en": "Please pay the fee here.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01067A.mp3"
+    }
+  ]
+}

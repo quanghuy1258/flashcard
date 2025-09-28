@@ -1,0 +1,26 @@
+{
+  "ja": "パチンコ",
+  "hrkt": "パチンコ",
+  "latn": "pachinko",
+  "en": "pachinko (Japanese pinball)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07349A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は毎日<b>パチンコ</b>をしています。",
+      "hrkt": "かれ は まいにち <b>パチンコ</b> を して います。",
+      "latn": "kare ha mainichi <b>pachinko</b> wo shite imasu.",
+      "en": "He plays pachinko every day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5440122.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07349A.mp3"
+    },
+    {
+      "ja": "私は<b>パチンコ</b>の面白さが分かりません。",
+      "hrkt": "わたし は <b>パチンコ</b> の おもしろさ が わかりません。",
+      "latn": "watashi ha <b>pachinko</b> no omoshirosa ga wakarimasen.",
+      "en": "I don't understand what's so fun about pachinko.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/125pa30kkc.mp3"
+    }
+  ]
+}

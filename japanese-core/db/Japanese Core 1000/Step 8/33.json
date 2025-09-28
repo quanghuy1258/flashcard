@@ -1,0 +1,26 @@
+{
+  "ja": "ポスト",
+  "hrkt": "ポスト",
+  "latn": "posuto",
+  "en": "postbox, mailbox",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08528A.mp3",
+  "sentences": [
+    {
+      "ja": "手紙を<b>ポスト</b>に入れました。",
+      "hrkt": "てがみ を <b>ポスト</b> に いれました。",
+      "latn": "tegami wo <b>posuto</b> ni iremashita.",
+      "en": "I put a letter in the mailbox.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4510335.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08528A.mp3"
+    },
+    {
+      "ja": "<b>ポスト</b>はそこの曲がり角にあります。",
+      "hrkt": "<b>ポスト</b> は そこ の まがりかど に あります。",
+      "latn": "<b>posuto</b> ha soko no magarikado ni arimasu.",
+      "en": "There's a post box on that corner.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4790187.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08662A.mp3"
+    }
+  ]
+}

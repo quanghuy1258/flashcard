@@ -1,0 +1,26 @@
+{
+  "ja": "背中",
+  "hrkt": "せなか",
+  "latn": "senaka",
+  "en": "(one's) back",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01156A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>背中</b>がかゆい。",
+      "hrkt": "<b>せなか</b> が かゆい。",
+      "latn": "<b>senaka</b> ga kayui.",
+      "en": "My back itches.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/el7bbectfifbg.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01156A.mp3"
+    },
+    {
+      "ja": "<b>背中</b>に痛みがあります。",
+      "hrkt": "<b>せなか</b> に いたみ が あります。",
+      "latn": "<b>senaka</b> ni itami ga arimasu.",
+      "en": "I have a pain in my back.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/clem05377p75o.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01500A.mp3"
+    }
+  ]
+}

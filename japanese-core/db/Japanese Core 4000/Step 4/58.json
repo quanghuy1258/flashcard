@@ -1,0 +1,18 @@
+{
+  "ja": "列車",
+  "hrkt": "れっしゃ",
+  "latn": "ressha",
+  "en": "train",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00439A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>列車</b>がホームに入ってきた。",
+      "hrkt": "<b>れっしゃ</b> が ホーム に はいって きた。",
+      "latn": "<b>ressha</b> ga ho-mu ni haitte kita.",
+      "en": "The train has arrived at the platform.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00439A.mp3"
+    }
+  ]
+}

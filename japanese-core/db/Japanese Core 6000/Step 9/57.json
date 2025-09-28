@@ -1,0 +1,18 @@
+{
+  "ja": "局",
+  "hrkt": "きょく",
+  "latn": "kyoku",
+  "en": "bureau, station",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00992A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はラジオ<b>局</b>で働いています。",
+      "hrkt": "かのじょ は ラジオ <b>きょく</b> で はたらいて います。",
+      "latn": "kanojo ha rajio <b>kyoku</b> de hataraite imasu.",
+      "en": "She works at a radio station.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00992A.mp3"
+    }
+  ]
+}

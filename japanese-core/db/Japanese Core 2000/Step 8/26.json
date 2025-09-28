@@ -1,0 +1,26 @@
+{
+  "ja": "怪我",
+  "hrkt": "けが",
+  "latn": "kega",
+  "en": "injury",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02653A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は腕を<b>怪我</b>した。",
+      "hrkt": "かのじょ は うで を <b>けが</b> した。",
+      "latn": "kanojo ha ude wo <b>kega</b> shita.",
+      "en": "She injured her arm.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5882221.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02653A.mp3"
+    },
+    {
+      "ja": "彼は事故で<b>怪我</b>をしました。",
+      "hrkt": "かれ は じこ で <b>けが</b> を しました。",
+      "latn": "kare ha jiko de <b>kega</b> wo shimashita.",
+      "en": "He was injured in the accident.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3815685.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03656A.mp3"
+    }
+  ]
+}

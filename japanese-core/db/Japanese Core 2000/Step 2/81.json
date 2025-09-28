@@ -1,0 +1,26 @@
+{
+  "ja": "家賃",
+  "hrkt": "やちん",
+  "latn": "yachin",
+  "en": "rent for a place to live",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09418A.mp3",
+  "sentences": [
+    {
+      "ja": "ここの<b>家賃</b>は12万円です。",
+      "hrkt": "ここ の <b>やちん</b> は 12 まん えん です。",
+      "latn": "koko no <b>yachin</b> ha 12 man en desu.",
+      "en": "The rent here is 120,000 yen.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3305380.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09418A.mp3"
+    },
+    {
+      "ja": "ここは<b>家賃</b>が高いので引っ越したいです。",
+      "hrkt": "ここ は <b>やちん</b> が たかい ので ひっこしたい です。",
+      "latn": "koko ha <b>yachin</b> ga takai node hikkoshitai desu.",
+      "en": "The rent is expensive here, so I want to move out.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a502cc6pj4.mp3"
+    }
+  ]
+}

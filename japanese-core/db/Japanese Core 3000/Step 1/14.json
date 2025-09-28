@@ -1,0 +1,18 @@
+{
+  "ja": "手前",
+  "hrkt": "てまえ",
+  "latn": "temae",
+  "en": "in front",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01535A.mp3",
+  "sentences": [
+    {
+      "ja": "駅の<b>手前</b>に郵便局があります。",
+      "hrkt": "えき の <b>てまえ</b> に ゆうびんきょく が あります。",
+      "latn": "eki no <b>temae</b> ni yuubinkyoku ga arimasu.",
+      "en": "There's a post office before the station.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/65de520ou4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01535A.mp3"
+    }
+  ]
+}

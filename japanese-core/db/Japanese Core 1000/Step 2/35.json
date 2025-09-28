@@ -1,0 +1,26 @@
+{
+  "ja": "授業",
+  "hrkt": "じゅぎょう",
+  "latn": "jugyou",
+  "en": "class session, lecture",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04033A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は日本語の<b>授業</b>があります。",
+      "hrkt": "きょう は にほんご の <b>じゅぎょう</b> が あります。",
+      "latn": "kyou ha nihongo no <b>jugyou</b> ga arimasu.",
+      "en": "We have a Japanese class today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4694939.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04033A.mp3"
+    },
+    {
+      "ja": "私は英語の<b>授業</b>が好きです。",
+      "hrkt": "わたし は えいご の <b>じゅぎょう</b> が すき です。",
+      "latn": "watashi ha eigo no <b>jugyou</b> ga suki desu.",
+      "en": "I like my English class.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e512add37s.mp3"
+    }
+  ]
+}

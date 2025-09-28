@@ -1,0 +1,26 @@
+{
+  "ja": "一言",
+  "hrkt": "ひとこと",
+  "latn": "hitokoto",
+  "en": "single word, brief speech",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03478A.mp3",
+  "sentences": [
+    {
+      "ja": "社長に<b>一言</b>お願いしたの。",
+      "hrkt": "しゃちょう に <b>ひとこと</b> おねがい した の。",
+      "latn": "shachou ni <b>hitokoto</b> onegai shita no.",
+      "en": "I asked the president to deliver a brief speech.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/894827.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03478A.mp3"
+    },
+    {
+      "ja": "最後に<b>一言</b>言わせてください。",
+      "hrkt": "さいご に <b>ひとこと</b> いわせて ください。",
+      "latn": "saigo ni <b>hitokoto</b> iwasete kudasai.",
+      "en": "Please let me get in one last word.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/96e2fjaupo.mp3"
+    }
+  ]
+}

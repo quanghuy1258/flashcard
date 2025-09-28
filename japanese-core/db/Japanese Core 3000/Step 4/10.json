@@ -1,0 +1,26 @@
+{
+  "ja": "デザート",
+  "hrkt": "デザート",
+  "latn": "deza-to",
+  "en": "dessert",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03234A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>デザート</b>にケーキを食べました。",
+      "hrkt": "<b>デザート</b> に ケーキ を たべました。",
+      "latn": "<b>deza-to</b> ni ke-ki wo tabemashita.",
+      "en": "I had cake for dessert.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/05617b6qm8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03234A.mp3"
+    },
+    {
+      "ja": "<b>デザート</b>に果物を食べましょう。",
+      "hrkt": "<b>デザート</b> に くだもの を たべましょう。",
+      "latn": "<b>deza-to</b> ni kudamono wo tabemashou.",
+      "en": "Let's have some fruit for dessert.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4042973.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02459A.mp3"
+    }
+  ]
+}

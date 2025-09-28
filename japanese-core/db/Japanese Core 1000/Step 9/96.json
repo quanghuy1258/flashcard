@@ -1,0 +1,26 @@
+{
+  "ja": "小説",
+  "hrkt": "しょうせつ",
+  "latn": "shousetsu",
+  "en": "novel",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04194A.mp3",
+  "sentences": [
+    {
+      "ja": "私は月に3冊くらい<b>小説</b>を読みます。",
+      "hrkt": "わたし は つき に 3 さつ くらい <b>しょうせつ</b> を よみます。",
+      "latn": "watashi ha tsuki ni 3 satsu kurai <b>shousetsu</b> wo yomimasu.",
+      "en": "I read about three novels a month.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4991875.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04194A.mp3"
+    },
+    {
+      "ja": "彼は今、<b>小説</b>を書いています。",
+      "hrkt": "かれ は いま、<b>しょうせつ</b> を かいて います。",
+      "latn": "kare ha ima,<b>shousetsu</b> wo kaite imasu.",
+      "en": "He's writing a novel now.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a416da2ti4.mp3"
+    }
+  ]
+}

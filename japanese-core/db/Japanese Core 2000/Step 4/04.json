@@ -1,0 +1,26 @@
+{
+  "ja": "噛む",
+  "hrkt": "かむ",
+  "latn": "kamu",
+  "en": "bite, chew",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01777A.mp3",
+  "sentences": [
+    {
+      "ja": "もっとよく<b>噛みなさい</b>。",
+      "hrkt": "もっと よく <b>かみなさい</b>。",
+      "latn": "motto yoku <b>kaminasai</b>.",
+      "en": "You have to chew more.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5620110.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01777A.mp3"
+    },
+    {
+      "ja": "犬が私の手を<b>噛みました</b>。",
+      "hrkt": "いぬ が わたし の て を <b>かみました</b>。",
+      "latn": "inu ga watashi no te wo <b>kamimashita</b>.",
+      "en": "The dog bit my hand.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b68c0h4csg.mp3"
+    }
+  ]
+}

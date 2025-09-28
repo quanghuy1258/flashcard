@@ -1,0 +1,26 @@
+{
+  "ja": "ぎらぎら",
+  "hrkt": "ぎらぎら",
+  "latn": "giragira",
+  "en": "glaring, blinding",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02316A.mp3",
+  "sentences": [
+    {
+      "ja": "太陽が<b>ぎらぎら</b>している。",
+      "hrkt": "たいよう が <b>ぎらぎら</b> して いる。",
+      "latn": "taiyou ga <b>giragira</b> shite iru.",
+      "en": "The sun is glaring.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2529537.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02316A.mp3"
+    },
+    {
+      "ja": "あの人は目が<b>ぎらぎら</b>していて怖い。",
+      "hrkt": "あの ひと は め が <b>ぎらぎら</b> して いて こわい。",
+      "latn": "ano hito ha me ga <b>giragira</b> shite ite kowai.",
+      "en": "That person is scary because his eyes are glaring.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/864j7oacs8.mp3"
+    }
+  ]
+}

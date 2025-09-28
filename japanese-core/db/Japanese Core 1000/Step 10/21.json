@@ -1,0 +1,26 @@
+{
+  "ja": "両方",
+  "hrkt": "りょうほう",
+  "latn": "ryouhou",
+  "en": "both",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09865A.mp3",
+  "sentences": [
+    {
+      "ja": "チョコレートとケーキを<b>両方</b>ください。",
+      "hrkt": "チョコレート と ケーキ を <b>りょうほう</b> ください。",
+      "latn": "chokore-to to ke-ki wo <b>ryouhou</b> kudasai.",
+      "en": "I'll have both the chocolate and cake, please.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4750314.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09865A.mp3"
+    },
+    {
+      "ja": "私は赤ワインも白ワインも<b>両方</b>好きです。",
+      "hrkt": "わたし は あか ワイン も しろ ワイン も <b>りょうほう</b> すき です。",
+      "latn": "watashi ha aka wain mo shiro wain mo <b>ryouhou</b> suki desu.",
+      "en": "I like both red wine and white wine.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/936pd68ric.mp3"
+    }
+  ]
+}

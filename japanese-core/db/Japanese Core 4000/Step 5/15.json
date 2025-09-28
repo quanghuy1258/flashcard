@@ -1,0 +1,18 @@
+{
+  "ja": "疲れ",
+  "hrkt": "つかれ",
+  "latn": "tsukare",
+  "en": "fatigue, exhaustion",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01400A.mp3",
+  "sentences": [
+    {
+      "ja": "最近<b>疲れ</b>がたまっています。",
+      "hrkt": "さいきん <b>つかれ</b> が たまって います。",
+      "latn": "saikin <b>tsukare</b> ga tamatte imasu.",
+      "en": "My fatigue is building up these days.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01400A.mp3"
+    }
+  ]
+}

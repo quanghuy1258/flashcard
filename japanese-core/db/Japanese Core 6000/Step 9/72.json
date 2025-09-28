@@ -1,0 +1,18 @@
+{
+  "ja": "農民",
+  "hrkt": "のうみん",
+  "latn": "noumin",
+  "en": "peasant, farmer",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00417A.mp3",
+  "sentences": [
+    {
+      "ja": "中世の<b>農民</b>は貧しかった。",
+      "hrkt": "ちゅうせい の <b>のうみん</b> は まずしかった。",
+      "latn": "chuusei no <b>noumin</b> ha mazushikatta.",
+      "en": "Farmers in the Middle Ages were poor.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00417A.mp3"
+    }
+  ]
+}

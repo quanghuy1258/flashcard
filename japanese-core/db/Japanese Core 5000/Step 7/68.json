@@ -1,0 +1,18 @@
+{
+  "ja": "精算",
+  "hrkt": "せいさん",
+  "latn": "seisan",
+  "en": "settlement of accounts, adjustment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02730A.mp3",
+  "sentences": [
+    {
+      "ja": "降りる駅で料金を<b>精算</b>してください。",
+      "hrkt": "おりる えき で りょうきん を <b>せいさん</b> して ください。",
+      "latn": "oriru eki de ryoukin wo <b>seisan</b> shite kudasai.",
+      "en": "Please adjust the fare when you get off at the station.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02730A.mp3"
+    }
+  ]
+}

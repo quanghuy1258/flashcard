@@ -1,0 +1,18 @@
+{
+  "ja": "工学部",
+  "hrkt": "こうがくぶ",
+  "latn": "kougakubu",
+  "en": "department of engineering",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02024A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>工学部</b>の教授です。",
+      "hrkt": "かれ は <b>こう がくぶ</b> の きょうじゅ です。",
+      "latn": "kare ha <b>kou gakubu</b> no kyouju desu.",
+      "en": "He is a professor in the Department of Engineering.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02024A.mp3"
+    }
+  ]
+}

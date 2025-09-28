@@ -1,0 +1,26 @@
+{
+  "ja": "葉",
+  "hrkt": "は",
+  "latn": "ha",
+  "en": "leaf",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07145A.mp3",
+  "sentences": [
+    {
+      "ja": "これは桜の<b>葉</b>です。",
+      "hrkt": "これ は さくら の <b>は</b> です。",
+      "latn": "kore ha sakura no <b>ha</b> desu.",
+      "en": "This is a cherry tree leaf.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5742332.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07145A.mp3"
+    },
+    {
+      "ja": "秋は木の<b>葉</b>が赤や黄色になります。",
+      "hrkt": "あき は き の <b>は</b> が あか や きいろ に なります。",
+      "latn": "aki ha ki no <b>ha</b> ga aka ya kiiro ni narimasu.",
+      "en": "In fall, the tree leaves turn red or yellow.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/668k1nfqtc.mp3"
+    }
+  ]
+}

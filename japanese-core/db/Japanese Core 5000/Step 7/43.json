@@ -1,0 +1,18 @@
+{
+  "ja": "離陸",
+  "hrkt": "りりく",
+  "latn": "ririku",
+  "en": "takeoff",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01741A.mp3",
+  "sentences": [
+    {
+      "ja": "まもなく飛行機が<b>離陸</b>します。",
+      "hrkt": "まもなく ひこうき が <b>りりく</b> します。",
+      "latn": "mamonaku hikouki ga <b>ririku</b> shimasu.",
+      "en": "The airplane will be taking off soon.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01741A.mp3"
+    }
+  ]
+}

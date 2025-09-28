@@ -1,0 +1,18 @@
+{
+  "ja": "攻撃",
+  "hrkt": "こうげき",
+  "latn": "kougeki",
+  "en": "attack, assault",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02897A.mp3",
+  "sentences": [
+    {
+      "ja": "2003年にアメリカはイラクを<b>攻撃</b>した。",
+      "hrkt": "2003 ねん に アメリカ は イラク を <b>こうげき</b> した。",
+      "latn": "2003 nen ni amerika ha iraku wo <b>kougeki</b> shita.",
+      "en": "The United States attacked Iraq in 2003.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/45dcdt94hg.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02897A.mp3"
+    }
+  ]
+}

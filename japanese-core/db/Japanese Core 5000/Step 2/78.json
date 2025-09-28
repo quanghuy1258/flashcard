@@ -1,0 +1,18 @@
+{
+  "ja": "帰す",
+  "hrkt": "かえす",
+  "latn": "kaesu",
+  "en": "send (someone) home",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02675A.mp3",
+  "sentences": [
+    {
+      "ja": "学校は生徒たちを午前中に<b>帰した</b>ね。",
+      "hrkt": "がっこう は せいと たち を ごぜん ちゅう に <b>かえした</b> ね。",
+      "latn": "gakkou ha seito tachi wo gozen chuu ni <b>kaeshita</b> ne.",
+      "en": "The school sent the students home in the morning.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02675A.mp3"
+    }
+  ]
+}

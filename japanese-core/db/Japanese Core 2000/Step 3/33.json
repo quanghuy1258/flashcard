@@ -1,0 +1,26 @@
+{
+  "ja": "余る",
+  "hrkt": "あまる",
+  "latn": "amaru",
+  "en": "remain, be in excess",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00235A.mp3",
+  "sentences": [
+    {
+      "ja": "夕食の料理がたくさん<b>余った</b>。",
+      "hrkt": "ゆうしょく の りょうり が たくさん <b>あまった</b>。",
+      "latn": "yuushoku no ryouri ga takusan <b>amatta</b>.",
+      "en": "We have a lot of leftover from dinner.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3815741.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00235A.mp3"
+    },
+    {
+      "ja": "みんなから集めたお金が少し<b>余りました</b>。",
+      "hrkt": "みんな から あつめた おかね が すこし <b>あまりました</b>。",
+      "latn": "minna kara atsumeta okane ga sukoshi <b>amarimashita</b>.",
+      "en": "There's a bit of money leftover (from the amount that) we collected from everybody.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/44eabjfg1o.mp3"
+    }
+  ]
+}

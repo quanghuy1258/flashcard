@@ -1,0 +1,18 @@
+{
+  "ja": "保護者",
+  "hrkt": "ほごしゃ",
+  "latn": "hogosha",
+  "en": "guardian, parent",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02740A.mp3",
+  "sentences": [
+    {
+      "ja": "私はこの子の<b>保護者</b>です。",
+      "hrkt": "わたし は この こ の <b>ほごしゃ</b> です。",
+      "latn": "watashi ha kono ko no <b>hogosha</b> desu.",
+      "en": "I'm this child's guardian.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02740A.mp3"
+    }
+  ]
+}

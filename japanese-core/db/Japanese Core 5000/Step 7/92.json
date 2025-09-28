@@ -1,0 +1,18 @@
+{
+  "ja": "見落とす",
+  "hrkt": "みおとす",
+  "latn": "miotosu",
+  "en": "miss, fail to notice",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02312A.mp3",
+  "sentences": [
+    {
+      "ja": "間違いを<b>見落とした</b>の。",
+      "hrkt": "まちがい を <b>みおとした</b> の。",
+      "latn": "machigai wo <b>miotoshita</b> no.",
+      "en": "I failed to notice a mistake.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02312A.mp3"
+    }
+  ]
+}

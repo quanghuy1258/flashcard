@@ -1,0 +1,26 @@
+{
+  "ja": "ある",
+  "hrkt": "ある",
+  "latn": "aru",
+  "en": "exist, there is",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00287A.mp3",
+  "sentences": [
+    {
+      "ja": "私の机の上に書類がたくさん<b>あります</b>。",
+      "hrkt": "わたし の つくえ の うえ に しょるい が たくさん <b>あります</b> 。",
+      "latn": "watashi no tsukue no ue ni shorui ga takusan <b>arimasu</b> .",
+      "en": "There are a lot of documents on my desk.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3008367.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00287A.mp3"
+    },
+    {
+      "ja": "財布は机の下に<b>あった</b>。",
+      "hrkt": "さいふ は つくえ の した に <b>あった</b>。",
+      "latn": "saifu ha tsukue no shita ni <b>atta</b>.",
+      "en": "My purse was under the desk.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/f26m6b4s88.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03714A.mp3"
+    }
+  ]
+}

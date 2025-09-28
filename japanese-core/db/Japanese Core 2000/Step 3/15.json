@@ -1,0 +1,26 @@
+{
+  "ja": "速さ",
+  "hrkt": "はやさ",
+  "latn": "hayasa",
+  "en": "speed",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07470A.mp3",
+  "sentences": [
+    {
+      "ja": "新幹線の<b>速さ</b>はどれくらいですか。",
+      "hrkt": "しんかんせん の <b>はやさ</b> は どれ くらい です か。",
+      "latn": "shinkansen no <b>hayasa</b> ha dore kurai desu ka.",
+      "en": "How fast is the bullet train?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2709031.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07470A.mp3"
+    },
+    {
+      "ja": "彼はすごい<b>速さ</b>で走っていきました。",
+      "hrkt": "かれ は すごい <b>はやさ</b> で はしって いきました。",
+      "latn": "kare ha sugoi <b>hayasa</b> de hashitte ikimashita.",
+      "en": "He ran off at a great speed.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/061kfh0t98.mp3"
+    }
+  ]
+}

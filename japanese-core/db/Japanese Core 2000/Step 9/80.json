@@ -1,0 +1,26 @@
+{
+  "ja": "歓迎",
+  "hrkt": "かんげい",
+  "latn": "kangei",
+  "en": "welcome, greet",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00481A.mp3",
+  "sentences": [
+    {
+      "ja": "温かい<b>歓迎</b>を受けました。",
+      "hrkt": "あたたかい <b>かんげい</b> を うけました。",
+      "latn": "atatakai <b>kangei</b> wo ukemashita.",
+      "en": "I received a warm welcome.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/al4bfe9tkljks.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00481A.mp3"
+    },
+    {
+      "ja": "日本に来てくれたらいつでも<b>歓迎</b>します。",
+      "hrkt": "にほん に きて くれたら いつでも <b>かんげい</b> します。",
+      "latn": "nihon ni kite kuretara itsudemo <b>kangei</b> shimasu.",
+      "en": "If you can make it to Japan, you'll be welcome anytime.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a35k9pe538.mp3"
+    }
+  ]
+}

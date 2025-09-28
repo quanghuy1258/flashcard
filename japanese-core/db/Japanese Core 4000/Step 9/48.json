@@ -1,0 +1,18 @@
+{
+  "ja": "丼",
+  "hrkt": "どんぶり",
+  "latn": "donburi",
+  "en": "bowl",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03783A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はご飯を<b>丼</b>で食べたよ。",
+      "hrkt": "かれ は ごはん を <b>どんぶり</b> で たべた よ。",
+      "latn": "kare ha gohan wo <b>donburi</b> de tabeta yo.",
+      "en": "He ate rice in a bowl.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03783A.mp3"
+    }
+  ]
+}

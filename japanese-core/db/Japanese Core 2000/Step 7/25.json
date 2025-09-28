@@ -1,0 +1,26 @@
+{
+  "ja": "定期券",
+  "hrkt": "ていきけん",
+  "latn": "teikiken",
+  "en": "commuter pass",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05994A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>定期券</b>は1万2千円でした。",
+      "hrkt": "<b>ていきけん</b> は 1 まん 2 せん えん でした。",
+      "latn": "<b>teikiken</b> ha 1 man 2 sen en deshita.",
+      "en": "The commuter pass was 12,000 yen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/408776.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05994A.mp3"
+    },
+    {
+      "ja": "私は<b>定期券</b>を持っていないので、切符を買ってきます。",
+      "hrkt": "わたし は <b>ていきけん</b> を もって いない ので、きっぷ を かって きます。",
+      "latn": "watashi ha <b>teikiken</b> wo motte inai node,kippu wo katte kimasu.",
+      "en": "I don't have a commuter pass, so I'll go and buy a ticket.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/04c35gclto.mp3"
+    }
+  ]
+}

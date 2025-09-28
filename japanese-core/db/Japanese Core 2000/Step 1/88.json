@@ -1,0 +1,26 @@
+{
+  "ja": "すり",
+  "hrkt": "すり",
+  "latn": "suri",
+  "en": "pickpocket",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03225A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>すり</b>に財布をとられた。",
+      "hrkt": "<b>すり</b> に さいふ を とられた。",
+      "latn": "<b>suri</b> ni saifu wo torareta.",
+      "en": "A pickpocket took my wallet.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/1lbe3l8itgh0c.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03225A.mp3"
+    },
+    {
+      "ja": "海外に行く時は<b>すり</b>に気を付けてください。",
+      "hrkt": "かいがい に いく とき は <b>すり</b> に き を つけて ください。",
+      "latn": "kaigai ni iku toki ha <b>suri</b> ni ki wo tsukete kudasai.",
+      "en": "Please watch out for pickpockets when you go abroad.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/83dc2u9et8.mp3"
+    }
+  ]
+}

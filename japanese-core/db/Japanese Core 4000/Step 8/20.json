@@ -1,0 +1,18 @@
+{
+  "ja": "譲る",
+  "hrkt": "ゆずる",
+  "latn": "yuzuru",
+  "en": "give, hand over",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01584A.mp3",
+  "sentences": [
+    {
+      "ja": "上司が車を<b>譲って</b>くれたの。",
+      "hrkt": "じょうし が くるま を <b>ゆずって</b> くれた の。",
+      "latn": "joushi ga kuruma wo <b>yuzutte</b> kureta no.",
+      "en": "My boss gave me his car.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01584A.mp3"
+    }
+  ]
+}

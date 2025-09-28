@@ -1,0 +1,18 @@
+{
+  "ja": "構造",
+  "hrkt": "こうぞう",
+  "latn": "kouzou",
+  "en": "construction, structure",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02940A.mp3",
+  "sentences": [
+    {
+      "ja": "この建物の<b>構造</b>は複雑です。",
+      "hrkt": "この たてもの の <b>こうぞう</b> は ふくざつ です。",
+      "latn": "kono tatemono no <b>kouzou</b> ha fukuzatsu desu.",
+      "en": "The structure of this building is complex.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/655p7bf738.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02940A.mp3"
+    }
+  ]
+}

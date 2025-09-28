@@ -1,0 +1,18 @@
+{
+  "ja": "同意",
+  "hrkt": "どうい",
+  "latn": "doui",
+  "en": "consent, agreement",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01618A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の意見には<b>同意</b>できません。",
+      "hrkt": "かれ の いけん に は <b>どうい</b> できません。",
+      "latn": "kare no iken ni ha <b>doui</b> dekimasen.",
+      "en": "I can't agree with his opinion.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01618A.mp3"
+    }
+  ]
+}

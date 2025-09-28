@@ -1,0 +1,18 @@
+{
+  "ja": "返却",
+  "hrkt": "へんきゃく",
+  "latn": "henkyaku",
+  "en": "return",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02889A.mp3",
+  "sentences": [
+    {
+      "ja": "図書館に本を<b>返却</b>したよ。",
+      "hrkt": "としょかん に ほん を <b>へんきゃく</b> した よ。",
+      "latn": "toshokan ni hon wo <b>henkyaku</b> shita yo.",
+      "en": "I returned the book to the library.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02889A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "柄",
+  "hrkt": "え",
+  "latn": "e",
+  "en": "handle, grip",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02509A.mp3",
+  "sentences": [
+    {
+      "ja": "この傘は<b>柄</b>が丈夫だな。",
+      "hrkt": "この かさ は <b>え</b> が じょうぶ だ な。",
+      "latn": "kono kasa ha <b>e</b> ga joubu da na.",
+      "en": "The handle of this umbrella is sturdy.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02509A.mp3"
+    }
+  ]
+}

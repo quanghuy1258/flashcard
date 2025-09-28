@@ -1,0 +1,18 @@
+{
+  "ja": "制御",
+  "hrkt": "せいぎょ",
+  "latn": "seigyo",
+  "en": "control, command",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00239A.mp3",
+  "sentences": [
+    {
+      "ja": "ここのパネルで機械全体を<b>制御</b>できます。",
+      "hrkt": "ここ の パネル で きかい ぜんたい を <b>せいぎょ</b> できます。",
+      "latn": "koko no paneru de kikai zentai wo <b>seigyo</b> dekimasu.",
+      "en": "You can control the entire machine with this panel.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00239A.mp3"
+    }
+  ]
+}

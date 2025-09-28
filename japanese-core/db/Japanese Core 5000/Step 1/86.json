@@ -1,0 +1,18 @@
+{
+  "ja": "名所",
+  "hrkt": "めいしょ",
+  "latn": "meisho",
+  "en": "famous place",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03916A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは桜の<b>名所</b>です。",
+      "hrkt": "ここ は さくら の <b>めいしょ</b> です。",
+      "latn": "koko ha sakura no <b>meisho</b> desu.",
+      "en": "This place is famous for its cherry blossoms.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03916A.mp3"
+    }
+  ]
+}

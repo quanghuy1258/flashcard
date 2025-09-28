@@ -1,0 +1,26 @@
+{
+  "ja": "早口",
+  "hrkt": "はやくち",
+  "latn": "hayakuchi",
+  "en": "speaking fast",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07469A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>早口</b>だ。",
+      "hrkt": "かのじょ は <b>はやくち</b> だ。",
+      "latn": "kanojo ha <b>hayakuchi</b> da.",
+      "en": "She talks fast.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5921236.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07469A.mp3"
+    },
+    {
+      "ja": "彼は<b>早口</b>で、何を言っているか分かりません。",
+      "hrkt": "かれ は <b>はやくち</b> で、なに を いって いる か わかりません。",
+      "latn": "kare ha <b>hayakuchi</b> de,nani wo itte iru ka wakarimasen.",
+      "en": "He speaks so fast that I don't understand what he's saying.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/62ct630oj4.mp3"
+    }
+  ]
+}

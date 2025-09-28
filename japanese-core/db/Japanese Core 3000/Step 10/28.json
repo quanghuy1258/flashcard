@@ -1,0 +1,18 @@
+{
+  "ja": "現象",
+  "hrkt": "げんしょう",
+  "latn": "genshou",
+  "en": "phenomenon",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00207A.mp3",
+  "sentences": [
+    {
+      "ja": "村では最近、不思議な<b>現象</b>が起きています。",
+      "hrkt": "むら で は さいきん、ふしぎな <b>げんしょう</b> が おきて います。",
+      "latn": "mura de ha saikin,fushigina <b>genshou</b> ga okite imasu.",
+      "en": "Mysterious phenomena have occurred in the village recently.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/113b734v70.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00207A.mp3"
+    }
+  ]
+}

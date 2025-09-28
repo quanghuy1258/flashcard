@@ -1,0 +1,18 @@
+{
+  "ja": "頷く",
+  "hrkt": "うなずく",
+  "latn": "unazuku",
+  "en": "nod",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03542A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>頷いて</b>同意を示したの。",
+      "hrkt": "かのじょ は <b>うなずいて</b> どうい を しめした の。",
+      "latn": "kanojo ha <b>unazuite</b> doui wo shimeshita no.",
+      "en": "She showed agreement with a nod.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/11cc518nos.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03542A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "注目",
+  "hrkt": "ちゅうもく",
+  "latn": "chuumoku",
+  "en": "attention, notice",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05680A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちはその会社に<b>注目</b>している。",
+      "hrkt": "わたし たち は その かいしゃ に <b>ちゅうもく</b> して いる。",
+      "latn": "watashi tachi ha sono kaisha ni <b>chuumoku</b> shite iru.",
+      "en": "We have our eyes on that company.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5650689.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05680A.mp3"
+    },
+    {
+      "ja": "この写真の右側の花に<b>注目</b>してください。",
+      "hrkt": "この しゃしん の みぎがわ の はな に <b>ちゅうもく</b> して ください。",
+      "latn": "kono shashin no migigawa no hana ni <b>chuumoku</b> shite kudasai.",
+      "en": "Please pay attention to the flowers on the right side of this picture.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/922sdod9n4.mp3"
+    }
+  ]
+}

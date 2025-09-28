@@ -1,0 +1,18 @@
+{
+  "ja": "遠足",
+  "hrkt": "えんそく",
+  "latn": "ensoku",
+  "en": "excursion",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02233A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は<b>遠足</b>で動物園に行きます。",
+      "hrkt": "あす は <b>えんそく</b> で どうぶつえん に いきます。",
+      "latn": "asu ha <b>ensoku</b> de doubutsuen ni ikimasu.",
+      "en": "We're going to the zoo on an excursion tomorrow.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02233A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "賭ける",
+  "hrkt": "かける",
+  "latn": "kakeru",
+  "en": "bet, stake",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01114A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は新しい仕事に人生を<b>賭けて</b>いる。",
+      "hrkt": "かれ は あたらしい しごと に じんせい を <b>かけて</b> いる。",
+      "latn": "kare ha atarashii shigoto ni jinsei wo <b>kakete</b> iru.",
+      "en": "He stakes his fate on the new job.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01114A.mp3"
+    }
+  ]
+}

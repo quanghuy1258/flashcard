@@ -1,0 +1,18 @@
+{
+  "ja": "匂う",
+  "hrkt": "におう",
+  "latn": "niou",
+  "en": "smell (pleasant)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03794A.mp3",
+  "sentences": [
+    {
+      "ja": "バラの花が甘く<b>匂って</b>いるね。",
+      "hrkt": "バラ の はな が あまく <b>におって</b> いる ね。",
+      "latn": "bara no hana ga amaku <b>niotte</b> iru ne.",
+      "en": "Roses smell sweet.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03794A.mp3"
+    }
+  ]
+}

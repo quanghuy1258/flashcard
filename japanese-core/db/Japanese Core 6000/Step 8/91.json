@@ -1,0 +1,18 @@
+{
+  "ja": "府立",
+  "hrkt": "ふりつ",
+  "latn": "furitsu",
+  "en": "prefectural (Osaka or Kyoto)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03481A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>府立</b>大学に通っています。",
+      "hrkt": "かのじょ は <b>ふりつ</b> だいがく に かよって います。",
+      "latn": "kanojo ha <b>furitsu</b> daigaku ni kayotte imasu.",
+      "en": "She goes to a (Osaka or Kyoto) prefectural university.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03481A.mp3"
+    }
+  ]
+}

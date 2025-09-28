@@ -1,0 +1,18 @@
+{
+  "ja": "海水",
+  "hrkt": "かいすい",
+  "latn": "kaisui",
+  "en": "seawater",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01036A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>海水</b>から塩を作ります。",
+      "hrkt": "<b>かいすい</b> から しお を つくります。",
+      "latn": "<b>kaisui</b> kara shio wo tsukurimasu.",
+      "en": "We make salt from seawater.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01036A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "公害",
+  "hrkt": "こうがい",
+  "latn": "kougai",
+  "en": "(environmental) pollution",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00942A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>公害</b>を減らすよう努力しています。",
+      "hrkt": "わたしたち は <b>こうがい</b> を へらす よう どりょくして います。",
+      "latn": "watashitachi ha <b>kougai</b> wo herasu you doryokushite imasu.",
+      "en": "We're doing our best to decrease pollution.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00942A.mp3"
+    }
+  ]
+}

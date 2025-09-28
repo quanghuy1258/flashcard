@@ -1,0 +1,26 @@
+{
+  "ja": "五日",
+  "hrkt": "いつか",
+  "latn": "itsuka",
+  "en": "five days, fifth of the month",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00504A.mp3",
+  "sentences": [
+    {
+      "ja": "五月<b>五日</b>は祝日です。",
+      "hrkt": "ご がつ <b>いつか</b> は しゅくじつ です。",
+      "latn": "go gatsu <b>itsuka</b> ha shukujitsu desu.",
+      "en": "May 5th is a holiday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4099184.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00504A.mp3"
+    },
+    {
+      "ja": "あと<b>五日</b>でクリスマスだ。",
+      "hrkt": "あと <b>いつか</b> で クリスマス だ。",
+      "latn": "ato <b>itsuka</b> de kurisumasu da.",
+      "en": "There are five more days until Christmas.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/06aa9q2pl8.mp3"
+    }
+  ]
+}

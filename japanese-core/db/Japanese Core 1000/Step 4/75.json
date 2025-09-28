@@ -1,0 +1,26 @@
+{
+  "ja": "来年",
+  "hrkt": "らいねん",
+  "latn": "rainen",
+  "en": "next year",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09769A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>来年</b>一緒に旅行しましょう。",
+      "hrkt": "<b>らいねん</b> いっしょ に りょこう しましょう。",
+      "latn": "<b>rainen</b> issho ni ryokou shimashou.",
+      "en": "Let's travel together next year.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6066674.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09769A.mp3"
+    },
+    {
+      "ja": "妹は<b>来年</b>、二十歳になります。",
+      "hrkt": "いもうと は <b>らいねん</b>、はたち に なります。",
+      "latn": "imouto ha <b>rainen</b>,hatachi ni narimasu.",
+      "en": "My little sister will be 20 next year.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5271352.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07336A.mp3"
+    }
+  ]
+}

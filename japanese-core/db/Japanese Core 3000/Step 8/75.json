@@ -1,0 +1,18 @@
+{
+  "ja": "予算",
+  "hrkt": "よさん",
+  "latn": "yosan",
+  "en": "budget",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00040A.mp3",
+  "sentences": [
+    {
+      "ja": "車の費用、<b>予算</b>オーバーだ。",
+      "hrkt": "くるま の ひよう、 <b>よさん</b> オーバー だ。",
+      "latn": "kuruma no hiyou, <b>yosan</b> o-ba- da.",
+      "en": "The car expenses are over budget.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/94b180dvac.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00040A.mp3?1220179182"
+    }
+  ]
+}

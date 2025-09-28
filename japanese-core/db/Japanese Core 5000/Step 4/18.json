@@ -1,0 +1,18 @@
+{
+  "ja": "車庫",
+  "hrkt": "しゃこ",
+  "latn": "shako",
+  "en": "garage",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02412A.mp3",
+  "sentences": [
+    {
+      "ja": "車を<b>車庫</b>に入れておきました。",
+      "hrkt": "くるま を <b>しゃこ</b> に いれて おきました。",
+      "latn": "kuruma wo <b>shako</b> ni irete okimashita.",
+      "en": "I put the car in the garage.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02412A.mp3"
+    }
+  ]
+}

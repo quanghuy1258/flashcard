@@ -1,0 +1,26 @@
+{
+  "ja": "午前",
+  "hrkt": "ごぜん",
+  "latn": "gozen",
+  "en": "morning, a.m.",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03125A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>午前</b>9時のニュースです。",
+      "hrkt": "<b>ごぜん</b> 9 じ の ニュース です。",
+      "latn": "<b>gozen</b> 9 ji no nyu-su desu.",
+      "en": "Now for the 9.00 a.m. news.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6351096.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03125A.mp3"
+    },
+    {
+      "ja": "ロンドンには<b>午前</b>10時に着きます。",
+      "hrkt": "ロンドン に は <b>ごぜん</b> 10 じ に つきます。",
+      "latn": "rondon ni ha <b>gozen</b> 10 ji ni tsukimasu.",
+      "en": "We're going to arrive in London at 10:00 a.m.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/25dl16eijg.mp3"
+    }
+  ]
+}

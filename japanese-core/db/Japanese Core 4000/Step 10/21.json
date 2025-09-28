@@ -1,0 +1,18 @@
+{
+  "ja": "パイロット",
+  "hrkt": "パイロット",
+  "latn": "pairotto",
+  "en": "pilot",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01330A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>パイロット</b>です。",
+      "hrkt": "かれ は <b>パイロット</b> です。",
+      "latn": "kare ha <b>pairotto</b> desu.",
+      "en": "He's a pilot.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01330A.mp3"
+    }
+  ]
+}

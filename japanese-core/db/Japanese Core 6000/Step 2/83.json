@@ -1,0 +1,18 @@
+{
+  "ja": "受かる",
+  "hrkt": "うかる",
+  "latn": "ukaru",
+  "en": "pass (an exam)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02670A.mp3",
+  "sentences": [
+    {
+      "ja": "第一志望の大学に<b>受かりました</b>。",
+      "hrkt": "だいいち しぼう の だいがく に <b>うかりました</b>。",
+      "latn": "daiichi shibou no daigaku ni <b>ukarimashita</b>.",
+      "en": "I passed the entrance exam to the university of my first choice.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02670A.mp3"
+    }
+  ]
+}

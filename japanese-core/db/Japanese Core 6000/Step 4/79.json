@@ -1,0 +1,18 @@
+{
+  "ja": "傷つく",
+  "hrkt": "きずつく",
+  "latn": "kizutsuku",
+  "en": "get hurt",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03592A.mp3",
+  "sentences": [
+    {
+      "ja": "私は彼女の言葉に<b>傷つきました</b>。",
+      "hrkt": "わたし は かのじょ の ことば に <b>きずつきました</b>。",
+      "latn": "watashi ha kanojo no kotoba ni <b>kizutsukimashita</b>.",
+      "en": "Her words hurt me.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03592A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "仲人",
+  "hrkt": "なこうど",
+  "latn": "nakoudo",
+  "en": "go-between, matchmaker",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03787A.mp3",
+  "sentences": [
+    {
+      "ja": "あの夫婦は私たちの<b>仲人</b>です。",
+      "hrkt": "あの ふうふ は わたし たち の <b>なこうど</b> です。",
+      "latn": "ano fuufu ha watashi tachi no <b>nakoudo</b> desu.",
+      "en": "That couple is our go-between.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03787A.mp3"
+    }
+  ]
+}

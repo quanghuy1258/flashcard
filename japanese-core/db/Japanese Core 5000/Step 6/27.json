@@ -1,0 +1,18 @@
+{
+  "ja": "盆",
+  "hrkt": "ぼん",
+  "latn": "bon",
+  "en": "tray",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03880A.mp3",
+  "sentences": [
+    {
+      "ja": "母が料理をお<b>盆</b>に乗せたの。",
+      "hrkt": "はは が りょうり を お<b>ぼん</b> に のせた の。",
+      "latn": "haha ga ryouri wo o<b>bon</b> ni noseta no.",
+      "en": "My mother put the dishes on a tray.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03880A.mp3"
+    }
+  ]
+}

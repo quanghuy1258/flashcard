@@ -1,0 +1,26 @@
+{
+  "ja": "スター",
+  "hrkt": "スター",
+  "latn": "suta-",
+  "en": "star",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01409A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はそのとき<b>スター</b>だったよ。",
+      "hrkt": "かれ は その とき <b>スター</b> だった よ 。",
+      "latn": "kare ha sono toki <b>suta-</b> datta yo .",
+      "en": "He was a star at the time.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/el4edl8ivts10.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01409A.mp3"
+    },
+    {
+      "ja": "彼女は有名な映画<b>スター</b>です。",
+      "hrkt": "かのじょ は ゆうめいな えいが <b>スター</b> です。",
+      "latn": "kanojo ha yuumeina eiga <b>suta-</b> desu.",
+      "en": "She is a famous movie star.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f31m149d4k.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "あっち",
+  "hrkt": "あっち",
+  "latn": "acchi",
+  "en": "other side, over there (casual)",
+  "pos": "Pronoun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00170A.mp3",
+  "sentences": [
+    {
+      "ja": "郵便局は<b>あっち</b>です。",
+      "hrkt": "ゆうびんきょく は <b>あっち</b> です。",
+      "latn": "yuubinkyoku ha <b>acchi</b> desu.",
+      "en": "The post office is that way.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5944190.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00170A.mp3"
+    },
+    {
+      "ja": "<b>あっち</b>の方が人が少ないですよ。",
+      "hrkt": "<b>あっち</b> の ほう が ひと が すくない です よ。",
+      "latn": "<b>acchi</b> no hou ga hito ga sukunai desu yo.",
+      "en": "There are fewer people over there.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/377i5r5qt0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "工事",
+  "hrkt": "こうじ",
+  "latn": "kouji",
+  "en": "construction, repairing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02917A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>工事</b>の音がうるさい。",
+      "hrkt": "<b>こうじ</b> の おと が うるさい。",
+      "latn": "<b>kouji</b> no oto ga urusai.",
+      "en": "The construction site is noisy.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4228053.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02917A.mp3"
+    },
+    {
+      "ja": "<b>工事</b>は3月まで続きます。",
+      "hrkt": "<b>こうじ</b> は 3 がつ まで つづきます。",
+      "latn": "<b>kouji</b> ha 3 gatsu made tsuzukimasu.",
+      "en": "Construction will continue until March.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4485510.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05890A.mp3"
+    }
+  ]
+}

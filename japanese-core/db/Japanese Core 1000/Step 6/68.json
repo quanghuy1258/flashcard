@@ -1,0 +1,26 @@
+{
+  "ja": "決める",
+  "hrkt": "きめる",
+  "latn": "kimeru",
+  "en": "decide, agree upon",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02162A.mp3",
+  "sentences": [
+    {
+      "ja": "帰国することに<b>決めました</b>。",
+      "hrkt": "きこく する こと に <b>きめました</b>。",
+      "latn": "kikoku suru koto ni <b>kimemashita</b>.",
+      "en": "I've decided to go back to my country.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4807876.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02162A.mp3"
+    },
+    {
+      "ja": "私は彼女との結婚を<b>決めた</b>。",
+      "hrkt": "わたし は かのじょ と の けっこん を <b>きめた</b>。",
+      "latn": "watashi ha kanojo to no kekkon wo <b>kimeta</b>.",
+      "en": "I decided to marry her.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c4fiecdsik.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "任せる",
+  "hrkt": "まかせる",
+  "latn": "makaseru",
+  "en": "entrust to, leave it to",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01496A.mp3",
+  "sentences": [
+    {
+      "ja": "この仕事は君に<b>任せる</b>。",
+      "hrkt": "この しごと は きみ に <b>まかせる</b>。",
+      "latn": "kono shigoto ha kimi ni <b>makaseru</b>.",
+      "en": "I'm leaving this work up to you.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01496A.mp3"
+    }
+  ]
+}

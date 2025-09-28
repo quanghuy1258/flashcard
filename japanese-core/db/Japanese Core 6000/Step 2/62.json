@@ -1,0 +1,18 @@
+{
+  "ja": "日の丸",
+  "hrkt": "ひのまる",
+  "latn": "hinomaru",
+  "en": "Japanese flag",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01608A.mp3",
+  "sentences": [
+    {
+      "ja": "日本の国旗は<b>日の丸</b>と呼ばれています。",
+      "hrkt": "にっぽん の こっき は <b>ひのまる</b> と よばれて います。",
+      "latn": "nippon no kokki ha <b>hinomaru</b> to yobarete imasu.",
+      "en": "The national flag of Japan is known as \"Hinomaru.\"",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01608A.mp3"
+    }
+  ]
+}

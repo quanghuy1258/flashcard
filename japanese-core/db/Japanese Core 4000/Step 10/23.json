@@ -1,0 +1,18 @@
+{
+  "ja": "明ける",
+  "hrkt": "あける",
+  "latn": "akeru",
+  "en": "dawn, end",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01585A.mp3",
+  "sentences": [
+    {
+      "ja": "もうすぐ夜が<b>明ける</b>ね。",
+      "hrkt": "もう すぐ よ が <b>あける</b> ね。",
+      "latn": "mou sugu yo ga <b>akeru</b> ne.",
+      "en": "Dawn will break soon.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01585A.mp3"
+    }
+  ]
+}

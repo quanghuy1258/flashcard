@@ -1,0 +1,26 @@
+{
+  "ja": "消える",
+  "hrkt": "きえる",
+  "latn": "kieru",
+  "en": "be extinguished, disappear",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01988A.mp3",
+  "sentences": [
+    {
+      "ja": "突然、電気が<b>消えた</b>。",
+      "hrkt": "とつぜん でんき が <b>きえた</b>。",
+      "latn": "totsuzen denki ga <b>kieta</b>.",
+      "en": "Suddenly the lights went out.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5264059.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01988A.mp3"
+    },
+    {
+      "ja": "私はもう、<b>消えて</b>しまいたい。",
+      "hrkt": "わたし は もう、 <b>きえて</b> しまいたい。",
+      "latn": "watashi ha mou, <b>kiete</b> shimaitai.",
+      "en": "I want to disappear now.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b64ka741r4.mp3"
+    }
+  ]
+}

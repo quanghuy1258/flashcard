@@ -1,0 +1,18 @@
+{
+  "ja": "映す",
+  "hrkt": "うつす",
+  "latn": "utsusu",
+  "en": "reflect (something), project (an image)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01934A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は自分の姿を鏡に<b>映した</b>の。",
+      "hrkt": "かのじょ は じぶん の すがた を かがみ に <b>うつした</b> の。",
+      "latn": "kanojo ha jibun no sugata wo kagami ni <b>utsushita</b> no.",
+      "en": "She looked at herself in the mirror.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01934A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "多忙",
+  "hrkt": "たぼう",
+  "latn": "tabou",
+  "en": "busy",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02246A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>多忙</b>な人です。",
+      "hrkt": "かのじょ は <b>たぼう</b>な ひと です。",
+      "latn": "kanojo ha <b>tabou</b>na hito desu.",
+      "en": "She's a busy person.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02246A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "休業",
+  "hrkt": "きゅうぎょう",
+  "latn": "kyuugyou",
+  "en": "suspension of a business operation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02146A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は臨時に<b>休業</b>します。",
+      "hrkt": "あした は りんじ に <b>きゅうぎょう</b> します。",
+      "latn": "ashita ha rinji ni <b>kyuugyou</b> shimasu.",
+      "en": "We'll be temporarily closed tomorrow.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02146A.mp3"
+    }
+  ]
+}

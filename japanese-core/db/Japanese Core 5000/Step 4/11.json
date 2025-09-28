@@ -1,0 +1,18 @@
+{
+  "ja": "ペンキ",
+  "hrkt": "ペンキ",
+  "latn": "penki",
+  "en": "paint",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02288A.mp3",
+  "sentences": [
+    {
+      "ja": "床に<b>ペンキ</b>をこぼしてしまいました。",
+      "hrkt": "ゆか に <b>ペンキ</b> を こぼして しまいました。",
+      "latn": "yuka ni <b>penki</b> wo koboshite shimaimashita.",
+      "en": "I spilt paint on the floor.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02288A.mp3"
+    }
+  ]
+}

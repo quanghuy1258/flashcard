@@ -1,0 +1,18 @@
+{
+  "ja": "重たい",
+  "hrkt": "おもたい",
+  "latn": "omotai",
+  "en": "heavy, serious",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03014A.mp3",
+  "sentences": [
+    {
+      "ja": "この鞄は<b>重たい</b>です。",
+      "hrkt": "この かばん は <b>おもたい</b> です。",
+      "latn": "kono kaban ha <b>omotai</b> desu.",
+      "en": "This bag is heavy for me.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f50mdm4pfc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03014A.mp3"
+    }
+  ]
+}

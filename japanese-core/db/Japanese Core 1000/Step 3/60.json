@@ -1,0 +1,26 @@
+{
+  "ja": "入る",
+  "hrkt": "はいる",
+  "latn": "hairu",
+  "en": "enter",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07208A.mp3",
+  "sentences": [
+    {
+      "ja": "寒いので中に<b>入って</b>ください。",
+      "hrkt": "さむい ので なか に <b>はいって</b> ください。",
+      "latn": "samui node naka ni <b>haitte</b> kudasai.",
+      "en": "It's cold, so please come inside.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5181313.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07208A.mp3"
+    },
+    {
+      "ja": "<b>入る</b>時はドアをノックしてください。",
+      "hrkt": "<b>はいる</b> とき は ドア を ノック して ください。",
+      "latn": "<b>hairu</b> toki ha doa wo nokku shite kudasai.",
+      "en": "Please knock before entering.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4008484.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07091A.mp3"
+    }
+  ]
+}

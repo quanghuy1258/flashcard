@@ -1,0 +1,18 @@
+{
+  "ja": "養う",
+  "hrkt": "やしなう",
+  "latn": "yashinau",
+  "en": "raise (children), foster",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02108A.mp3",
+  "sentences": [
+    {
+      "ja": "私は3人の子供を<b>養って</b>います。",
+      "hrkt": "わたし は 3 にん の こども を <b>やしなって</b> います。",
+      "latn": "watashi ha 3 nin no kodomo wo <b>yashinatte</b> imasu.",
+      "en": "I'm raising three children.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02108A.mp3"
+    }
+  ]
+}

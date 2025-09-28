@@ -1,0 +1,18 @@
+{
+  "ja": "持ち込む",
+  "hrkt": "もちこむ",
+  "latn": "mochikomu",
+  "en": "bring in, carry on",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00634A.mp3",
+  "sentences": [
+    {
+      "ja": "機内に荷物を<b>持ち込んだ</b>の。",
+      "hrkt": "きない に にもつ を <b>もちこんだ</b> の。",
+      "latn": "kinai ni nimotsu wo <b>mochikonda</b> no.",
+      "en": "I carried my luggage onto the plane.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00634A.mp3"
+    }
+  ]
+}

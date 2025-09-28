@@ -1,0 +1,18 @@
+{
+  "ja": "西洋",
+  "hrkt": "せいよう",
+  "latn": "seiyou",
+  "en": "the West",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01479A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>西洋</b>の建築に興味があります。",
+      "hrkt": "わたし は <b>せいよう</b> の けんちく に きょうみ が あります。",
+      "latn": "watashi ha <b>seiyou</b> no kenchiku ni kyoumi ga arimasu.",
+      "en": "I'm interested in Western architecture.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01479A.mp3"
+    }
+  ]
+}

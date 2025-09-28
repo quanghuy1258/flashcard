@@ -1,0 +1,18 @@
+{
+  "ja": "どく",
+  "hrkt": "どく",
+  "latn": "doku",
+  "en": "get out of the way, step aside",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01194A.mp3",
+  "sentences": [
+    {
+      "ja": "そこを<b>どいて</b>ください。",
+      "hrkt": "そこ を <b>どいて</b> ください。",
+      "latn": "soko wo <b>doite</b> kudasai.",
+      "en": "Please get out of the way there.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01194A.mp3"
+    }
+  ]
+}

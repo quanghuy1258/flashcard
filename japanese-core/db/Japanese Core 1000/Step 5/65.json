@@ -1,0 +1,26 @@
+{
+  "ja": "暗い",
+  "hrkt": "くらい",
+  "latn": "kurai",
+  "en": "dark, gloomy",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02521A.mp3",
+  "sentences": [
+    {
+      "ja": "東の空が<b>暗い</b>です。",
+      "hrkt": "ひがし の そら が <b>くらい</b> です。",
+      "latn": "higashi no sora ga <b>kurai</b> desu.",
+      "en": "The sky in the east is dark.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5315108.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02521A.mp3"
+    },
+    {
+      "ja": "この部屋は少し<b>暗い</b>ですね。",
+      "hrkt": "この へや は すこし <b>くらい</b> です ね。",
+      "latn": "kono heya ha sukoshi <b>kurai</b> desu ne.",
+      "en": "It's a little dark in this room.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/14f82raveg.mp3"
+    }
+  ]
+}

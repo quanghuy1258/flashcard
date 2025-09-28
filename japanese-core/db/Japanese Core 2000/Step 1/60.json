@@ -1,0 +1,26 @@
+{
+  "ja": "案内",
+  "hrkt": "あんない",
+  "latn": "annai",
+  "en": "guide, guidance",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00326A.mp3",
+  "sentences": [
+    {
+      "ja": "私が中をご<b>案内</b>します。",
+      "hrkt": "わたし が なか を ご<b>あんない</b> します。",
+      "latn": "watashi ga naka wo go<b>annai</b> shimasu.",
+      "en": "I'll show you around inside.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1663073.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00326A.mp3?1219919221"
+    },
+    {
+      "ja": "友達が東京を<b>案内</b>してくれました。",
+      "hrkt": "ともだち が とうきょう を <b>あんない</b> して くれました。",
+      "latn": "tomodachi ga toukyou wo <b>annai</b> shite kuremashita.",
+      "en": "My friend showed me around Tokyo.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e55kbeb0nc.mp3"
+    }
+  ]
+}

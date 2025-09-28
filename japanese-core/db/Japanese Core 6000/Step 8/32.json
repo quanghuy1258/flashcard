@@ -1,0 +1,18 @@
+{
+  "ja": "出前",
+  "hrkt": "でまえ",
+  "latn": "demae",
+  "en": "home delivery of food",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03037A.mp3",
+  "sentences": [
+    {
+      "ja": "寿司の<b>出前</b>を頼んだよ。",
+      "hrkt": "すし の <b>でまえ</b> を たのんだ よ。",
+      "latn": "sushi no <b>demae</b> wo tanonda yo.",
+      "en": "We ordered sushi delivery to our house.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03037A.mp3"
+    }
+  ]
+}

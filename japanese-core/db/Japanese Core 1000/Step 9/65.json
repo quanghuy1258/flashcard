@@ -1,0 +1,26 @@
+{
+  "ja": "着く",
+  "hrkt": "つく",
+  "latn": "tsuku",
+  "en": "arrive at, reach",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05851A.mp3",
+  "sentences": [
+    {
+      "ja": "午後8時に大阪に<b>着きます</b>。",
+      "hrkt": "ごご 8 じ に おおさか に <b>つきます</b>。",
+      "latn": "gogo 8 ji ni oosaka ni <b>tsukimasu</b>.",
+      "en": "I will arrive in Osaka at 8:00 pm.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5296697.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05851A.mp3"
+    },
+    {
+      "ja": "今ホテルに<b>着きました</b>。",
+      "hrkt": "いま ホテル に <b>つきました</b>。",
+      "latn": "ima hoteru ni <b>tsukimashita</b>.",
+      "en": "I've just arrived at the hotel.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3253181.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08557A.mp3"
+    }
+  ]
+}

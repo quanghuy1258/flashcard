@@ -1,0 +1,26 @@
+{
+  "ja": "いくら",
+  "hrkt": "いくら",
+  "latn": "ikura",
+  "en": "how much (money)",
+  "pos": "Interrogative",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00400A.mp3",
+  "sentences": [
+    {
+      "ja": "この靴は<b>いくら</b>ですか。",
+      "hrkt": "この くつ は <b>いくら</b> です か 。",
+      "latn": "kono kutsu ha <b>ikura</b> desu ka .",
+      "en": "How much are these shoes?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5183983.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00400A.mp3"
+    },
+    {
+      "ja": "カラーコピーは一枚<b>いくら</b>ですか。",
+      "hrkt": "カラー コピー は いち まい <b>いくら</b> です か。",
+      "latn": "kara- kopi- ha ichi mai <b>ikura</b> desu ka.",
+      "en": "How much is a color copy?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5009635.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01799A.mp3"
+    }
+  ]
+}

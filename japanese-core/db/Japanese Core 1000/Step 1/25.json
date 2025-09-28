@@ -1,0 +1,26 @@
+{
+  "ja": "聞く",
+  "hrkt": "きく",
+  "latn": "kiku",
+  "en": "hear, ask, listen",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02020A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はラジオを<b>聞いて</b>います。",
+      "hrkt": "かのじょ は ラジオ を <b>きいて</b> います。",
+      "latn": "kanojo ha rajio wo <b>kiite</b> imasu.",
+      "en": "She's listening to the radio.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1307677.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02020A.mp3"
+    },
+    {
+      "ja": "誰かに<b>聞いて</b>みてください。",
+      "hrkt": "だれ か に <b>きいて</b> みて ください。",
+      "latn": "dare ka ni <b>kiite</b> mite kudasai.",
+      "en": "Please ask someone.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5759523.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05486A.mp3?1216463412"
+    }
+  ]
+}

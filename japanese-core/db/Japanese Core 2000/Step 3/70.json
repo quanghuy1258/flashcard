@@ -1,0 +1,26 @@
+{
+  "ja": "焼ける",
+  "hrkt": "やける",
+  "latn": "yakeru",
+  "en": "burn, cook",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09400A.mp3",
+  "sentences": [
+    {
+      "ja": "肉が<b>焼けました</b>。",
+      "hrkt": "にく が <b>やけました</b>。",
+      "latn": "niku ga <b>yakemashita</b>.",
+      "en": "The meat is cooked.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4802869.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09400A.mp3"
+    },
+    {
+      "ja": "その家は火事で<b>焼けて</b>しまいました。",
+      "hrkt": "その いえ は かじ で <b>やけて</b> しまいました。",
+      "latn": "sono ie ha kaji de <b>yakete</b> shimaimashita.",
+      "en": "The house burned down in a fire.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d4bd90b01c.mp3"
+    }
+  ]
+}

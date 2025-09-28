@@ -1,0 +1,18 @@
+{
+  "ja": "学者",
+  "hrkt": "がくしゃ",
+  "latn": "gakusha",
+  "en": "scholar",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00519A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は作家であり<b>学者</b>です。",
+      "hrkt": "かれ は さっか で あり <b>がくしゃ</b> です。",
+      "latn": "kare ha sakka de ari <b>gakusha</b> desu.",
+      "en": "He is a writer and a scholar.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f2du3k008k.png",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00519A.mp3"
+    }
+  ]
+}

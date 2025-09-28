@@ -1,0 +1,26 @@
+{
+  "ja": "完成",
+  "hrkt": "かんせい",
+  "latn": "kansei",
+  "en": "completion, finish making or building something",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01931A.mp3",
+  "sentences": [
+    {
+      "ja": "新しいホームページが<b>完成</b>した。",
+      "hrkt": "あたらしい ホームページ が <b>かんせい</b> した。",
+      "latn": "atarashii ho-mupe-ji ga <b>kansei</b> shita.",
+      "en": "Our new home page is now complete.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4540526.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01931A.mp3"
+    },
+    {
+      "ja": "全体の80パーセントが<b>完成</b>しました。",
+      "hrkt": "ぜんたい の 80 パーセント が <b>かんせい</b> しました。",
+      "latn": "zentai no 80 pa-sento ga <b>kansei</b> shimashita.",
+      "en": "80 percent of the total has been completed.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4627765.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04903A.mp3"
+    }
+  ]
+}

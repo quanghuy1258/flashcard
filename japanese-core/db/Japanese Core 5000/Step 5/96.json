@@ -1,0 +1,18 @@
+{
+  "ja": "洗面器",
+  "hrkt": "せんめんき",
+  "latn": "senmenki",
+  "en": "wash bowl",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03452A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>洗面器</b>でハンカチを洗ったの。",
+      "hrkt": "<b>せんめんき</b> で ハンカチ を あらった の。",
+      "latn": "<b>senmenki</b> de hankachi wo aratta no.",
+      "en": "I washed my handkerchief in a washbowl.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03452A.mp3"
+    }
+  ]
+}

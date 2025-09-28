@@ -1,0 +1,18 @@
+{
+  "ja": "包丁",
+  "hrkt": "ほうちょう",
+  "latn": "houchou",
+  "en": "kitchen knife",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02311A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>包丁</b>で指を切った。",
+      "hrkt": "<b>ほうちょう</b> で ゆび を きった。",
+      "latn": "<b>houchou</b> de yubi wo kitta.",
+      "en": "I cut my finger with a kitchen knife.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/4440ao9n58.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02311A.mp3"
+    }
+  ]
+}

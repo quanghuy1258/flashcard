@@ -1,0 +1,18 @@
+{
+  "ja": "採点",
+  "hrkt": "さいてん",
+  "latn": "saiten",
+  "en": "marking, grading",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02090A.mp3",
+  "sentences": [
+    {
+      "ja": "先生は試験の<b>採点</b>が終わったようね。",
+      "hrkt": "せんせい は しけん の <b>さいてん</b> が おわった よう ね。",
+      "latn": "sensei ha shiken no <b>saiten</b> ga owatta you ne.",
+      "en": "It seems that the teacher has finished grading the exams.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02090A.mp3"
+    }
+  ]
+}

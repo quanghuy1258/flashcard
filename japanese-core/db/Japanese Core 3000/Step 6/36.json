@@ -1,0 +1,18 @@
+{
+  "ja": "領収書",
+  "hrkt": "りょうしゅうしょ",
+  "latn": "ryoushuusho",
+  "en": "bill of receipt (for payment only)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03962A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>領収書</b>をください。",
+      "hrkt": "<b>りょうしゅうしょ</b> を ください。",
+      "latn": "<b>ryoushuusho</b> wo kudasai.",
+      "en": "Please give me a bill of receipt.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03962A.mp3"
+    }
+  ]
+}

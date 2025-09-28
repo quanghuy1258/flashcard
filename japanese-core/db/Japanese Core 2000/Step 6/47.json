@@ -1,0 +1,26 @@
+{
+  "ja": "アナウンサー",
+  "hrkt": "アナウンサー",
+  "latn": "anaunsa-",
+  "en": "announcer",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00195A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>アナウンサー</b>になりたい。",
+      "hrkt": "わたし は <b>アナウンサー</b> に なりたい。",
+      "latn": "watashi ha <b>anaunsa-</b> ni naritai.",
+      "en": "I want to become an announcer.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4646167.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00195A.mp3"
+    },
+    {
+      "ja": "その<b>アナウンサー</b>は毎日テレビに出ています。",
+      "hrkt": "その <b>アナウンサー</b> は まいにち テレビ に でて います。",
+      "latn": "sono <b>anaunsa-</b> ha mainichi terebi ni dete imasu.",
+      "en": "The news anchor appears on TV every day.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/74eial6jd4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "タオル",
+  "hrkt": "タオル",
+  "latn": "taoru",
+  "en": "towel",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05288A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>タオル</b>で顔をふいた。",
+      "hrkt": "わたし は <b>タオル</b> で かお を ふいた。",
+      "latn": "watashi ha <b>taoru</b> de kao wo fuita.",
+      "en": "I wiped my face with a towel.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4389243.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05288A.mp3"
+    },
+    {
+      "ja": "彼は頭に<b>タオル</b>を巻いていた。",
+      "hrkt": "かれ は あたま に <b>タオル</b> を まいて いた。",
+      "latn": "kare ha atama ni <b>taoru</b> wo maite ita.",
+      "en": "He had a towel tied around his head.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3841856.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08670A.mp3"
+    }
+  ]
+}

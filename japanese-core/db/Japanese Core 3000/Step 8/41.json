@@ -1,0 +1,18 @@
+{
+  "ja": "明日",
+  "hrkt": "みょうにち",
+  "latn": "myounichi",
+  "en": "tomorrow (very formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01444A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>明日</b>、会議を開きます。",
+      "hrkt": "<b>みょうにち</b>、かいぎ を ひらきます。",
+      "latn": "<b>myounichi</b>,kaigi wo hirakimasu.",
+      "en": "We'll have a meeting tomorrow.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/2262d90l6g.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01444A.mp3"
+    }
+  ]
+}

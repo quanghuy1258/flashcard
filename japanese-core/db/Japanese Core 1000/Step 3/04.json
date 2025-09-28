@@ -1,0 +1,26 @@
+{
+  "ja": "楽しい",
+  "hrkt": "たのしい",
+  "latn": "tanoshii",
+  "en": "fun, enjoyable",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05422A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はとても<b>楽しい</b>人です。",
+      "hrkt": "かれ は とても <b>たのしい</b> ひと です。",
+      "latn": "kare ha totemo <b>tanoshii</b> hito desu.",
+      "en": "He's a very fun person.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3146494.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05422A.mp3"
+    },
+    {
+      "ja": "日本での生活は<b>楽しい</b>です。",
+      "hrkt": "にほん で の せいかつ は <b>たのしい</b> です。",
+      "latn": "nihon de no seikatsu ha <b>tanoshii</b> desu.",
+      "en": "Life in Japan is fun.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04673A.mp3"
+    }
+  ]
+}

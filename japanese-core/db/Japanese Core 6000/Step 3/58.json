@@ -1,0 +1,18 @@
+{
+  "ja": "現像",
+  "hrkt": "げんぞう",
+  "latn": "genzou",
+  "en": "developing a film",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01696A.mp3",
+  "sentences": [
+    {
+      "ja": "このフィルムを<b>現像</b>してください。",
+      "hrkt": "この フィルム を <b>げんぞう</b> して ください。",
+      "latn": "kono firumu wo <b>genzou</b> shite kudasai.",
+      "en": "Please develop this film.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01696A.mp3"
+    }
+  ]
+}

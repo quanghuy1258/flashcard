@@ -1,0 +1,18 @@
+{
+  "ja": "取り組む",
+  "hrkt": "とりくむ",
+  "latn": "torikumu",
+  "en": "work on, tackle",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00050A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はスペイン語に<b>取り組んで</b>います。",
+      "hrkt": "かのじょ は スペイン ご に <b>とりくんで</b> います。",
+      "latn": "kanojo ha supein go ni <b>torikunde</b> imasu.",
+      "en": "She's working on her Spanish.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d5072q3of4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00050A.mp3"
+    }
+  ]
+}

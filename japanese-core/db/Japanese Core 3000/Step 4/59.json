@@ -1,0 +1,26 @@
+{
+  "ja": "ネットワーク",
+  "hrkt": "ネットワーク",
+  "latn": "nettowa-ku",
+  "en": "network",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00323A.mp3",
+  "sentences": [
+    {
+      "ja": "最近、社内<b>ネットワーク</b>の調子が悪い。",
+      "hrkt": "さいきん、しゃない <b>ネットワーク</b> の ちょうし が わるい。",
+      "latn": "saikin,shanai <b>nettowa-ku</b> no choushi ga warui.",
+      "en": "Our office intranet doesn't work well recently.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/5196ci4t44.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00323A.mp3"
+    },
+    {
+      "ja": "コンピューターを<b>ネットワーク</b>に接続しました。",
+      "hrkt": "コンピューター を <b>ネットワーク</b> に せつぞく しました。",
+      "latn": "konpyu-ta- wo <b>nettowa-ku</b> ni setsuzoku shimashita.",
+      "en": "The computer has been connected with the network.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6176399.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00060A.mp3"
+    }
+  ]
+}

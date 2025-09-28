@@ -1,0 +1,18 @@
+{
+  "ja": "好き嫌い",
+  "hrkt": "すききらい",
+  "latn": "sukikirai",
+  "en": "likes and dislikes, taste",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02825A.mp3",
+  "sentences": [
+    {
+      "ja": "食べ物の<b>好き嫌い</b>は特にありません。",
+      "hrkt": "たべもの の <b>すき きらい</b> は とくに ありません。",
+      "latn": "tabemono no <b>suki kirai</b> ha tokuni arimasen.",
+      "en": "I have no particular likes or dislikes when it comes to food.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/9500869po4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02825A.mp3"
+    }
+  ]
+}

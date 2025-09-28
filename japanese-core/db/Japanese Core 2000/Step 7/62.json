@@ -1,0 +1,26 @@
+{
+  "ja": "スケート",
+  "hrkt": "スケート",
+  "latn": "suke-to",
+  "en": "skate, skates",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04552A.mp3",
+  "sentences": [
+    {
+      "ja": "湖で<b>スケート</b>をした。",
+      "hrkt": "みずうみ で <b>スケート</b> を した。",
+      "latn": "mizuumi de <b>suke-to</b> wo shita.",
+      "en": "We went skating on the lake.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2551267.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04552A.mp3"
+    },
+    {
+      "ja": "彼は<b>スケート</b>のプロです。",
+      "hrkt": "かれ は <b>スケート</b> の プロ です。",
+      "latn": "kare ha <b>suke-to</b> no puro desu.",
+      "en": "He's a professional skater.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/e27jerbk4s.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00895A.mp3"
+    }
+  ]
+}

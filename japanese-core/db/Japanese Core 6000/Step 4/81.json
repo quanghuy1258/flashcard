@@ -1,0 +1,18 @@
+{
+  "ja": "こたつ",
+  "hrkt": "こたつ",
+  "latn": "kotatsu",
+  "en": "table with an electric heater and a coverlet",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03623A.mp3",
+  "sentences": [
+    {
+      "ja": "寒いので<b>こたつ</b>を出しました。",
+      "hrkt": "さむい ので <b>こたつ</b> を だしました。",
+      "latn": "samui node <b>kotatsu</b> wo dashimashita.",
+      "en": "We got out the kotatsu because it was cold.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03623A.mp3"
+    }
+  ]
+}

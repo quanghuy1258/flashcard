@@ -1,0 +1,26 @@
+{
+  "ja": "学校",
+  "hrkt": "がっこう",
+  "latn": "gakkou",
+  "en": "school",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01684A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>学校</b>は8時半に始まります。",
+      "hrkt": "<b>がっこう</b> は 8 じ はん に はじまります。",
+      "latn": "<b>gakkou</b> ha 8 ji han ni hajimarimasu.",
+      "en": "School starts at 8:30.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4024010.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01684A.mp3"
+    },
+    {
+      "ja": "この<b>学校</b>は1クラス30人です。",
+      "hrkt": "この <b>がっこう</b> は 1 クラス 30 にん です。",
+      "latn": "kono <b>gakkou</b> ha 1 kurasu 30 nin desu.",
+      "en": "This school has 30 people in each class.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1330233.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02526A.mp3"
+    }
+  ]
+}

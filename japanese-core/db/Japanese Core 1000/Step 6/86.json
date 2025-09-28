@@ -1,0 +1,26 @@
+{
+  "ja": "昨夜",
+  "hrkt": "ゆうべ",
+  "latn": "yuube",
+  "en": "last night, last evening (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09517A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>昨夜</b>、流れ星を見ました。",
+      "hrkt": "<b>ゆうべ</b>、ながれぼし を みました。",
+      "latn": "<b>yuube</b>,nagareboshi wo mimashita.",
+      "en": "I saw a shooting star last night.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4160950.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09517A.mp3"
+    },
+    {
+      "ja": "<b>昨夜</b>は涼しかったので、走りに行きました。",
+      "hrkt": "<b>ゆうべ</b> は すずしかった ので、はしり に いきました。",
+      "latn": "<b>yuube</b> ha suzushikatta node,hashiri ni ikimashita.",
+      "en": "It was cool out last night, so I went running.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d73ifj3h6g.mp3"
+    }
+  ]
+}

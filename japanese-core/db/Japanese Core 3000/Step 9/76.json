@@ -1,0 +1,18 @@
+{
+  "ja": "回答",
+  "hrkt": "かいとう",
+  "latn": "kaitou",
+  "en": "reply, answer",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00657A.mp3",
+  "sentences": [
+    {
+      "ja": "アンケートに<b>回答</b>しました。",
+      "hrkt": "アンケート に <b>かいとう</b> しました。",
+      "latn": "anke-to ni <b>kaitou</b> shimashita.",
+      "en": "I answered the questionnaire.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a3929c4r3c.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00657A.mp3"
+    }
+  ]
+}

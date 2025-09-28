@@ -1,0 +1,26 @@
+{
+  "ja": "持って行く",
+  "hrkt": "もっていく",
+  "latn": "motteiku",
+  "en": "take, bring",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09296A.mp3",
+  "sentences": [
+    {
+      "ja": "水を<b>持って行きましょう</b>。",
+      "hrkt": "みず を <b>もって いきましょう</b>。",
+      "latn": "mizu wo <b>motte ikimashou</b>.",
+      "en": "Let's bring some water.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1459724.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09296A.mp3"
+    },
+    {
+      "ja": "私は海に大きなタオルを<b>持って行きました</b>。",
+      "hrkt": "わたし は うみ に おおきな タオル を <b>もって いきました</b>。",
+      "latn": "watashi ha umi ni ookina taoru wo <b>motte ikimashita</b>.",
+      "en": "I brought a big towel to the sea.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c4be6d4ib0.mp3"
+    }
+  ]
+}

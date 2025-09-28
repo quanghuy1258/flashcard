@@ -1,0 +1,18 @@
+{
+  "ja": "所々",
+  "hrkt": "ところどころ",
+  "latn": "tokorodokoro",
+  "en": "here and there, in places",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03462A.mp3",
+  "sentences": [
+    {
+      "ja": "この本はページが<b>所々</b>破れているね。",
+      "hrkt": "この ほん は ページ が <b>ところどころ</b> やぶれて いる ね。",
+      "latn": "kono hon ha pe-ji ga <b>tokorodokoro</b> yaburete iru ne.",
+      "en": "The pages in this book are torn here and there.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03462A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "包み紙",
+  "hrkt": "つつみがみ",
+  "latn": "tsutsumigami",
+  "en": "wrapping paper",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03742A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>包み紙</b>はたたんでください。",
+      "hrkt": "<b>つつみ がみ</b> は たたんで ください。",
+      "latn": "<b>tsutsumi gami</b> ha tatande kudasai.",
+      "en": "Please make sure to fold the wrapping paper.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03742A.mp3"
+    }
+  ]
+}

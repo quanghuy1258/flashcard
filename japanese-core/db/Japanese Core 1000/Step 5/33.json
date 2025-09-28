@@ -1,0 +1,26 @@
+{
+  "ja": "力",
+  "hrkt": "ちから",
+  "latn": "chikara",
+  "en": "strength, power",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05578A.mp3",
+  "sentences": [
+    {
+      "ja": "私にそんな<b>力</b>はありません。",
+      "hrkt": "わたし に そんな <b>ちから</b> は ありません。",
+      "latn": "watashi ni sonna <b>chikara</b> ha arimasen.",
+      "en": "I don't have the strength.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/85c8fg4958.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f5484g39bg.mp3"
+    },
+    {
+      "ja": "彼の声には<b>力</b>がなかった。",
+      "hrkt": "かれ の こえ に は <b>ちから</b> が なかった。",
+      "latn": "kare no koe ni ha <b>chikara</b> ga nakatta.",
+      "en": "There was no strength in his voice.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/14cd6ff5ss.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "酒屋",
+  "hrkt": "さかや",
+  "latn": "sakaya",
+  "en": "liquor store",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02682A.mp3",
+  "sentences": [
+    {
+      "ja": "そこの<b>酒屋</b>さんでビールを買ってきて。",
+      "hrkt": "そこ の <b>さかや</b> さん で ビール を かって きて。",
+      "latn": "soko no <b>sakaya</b> san de bi-ru wo katte kite.",
+      "en": "Can you get some beer at that liquor store?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02682A.mp3"
+    }
+  ]
+}

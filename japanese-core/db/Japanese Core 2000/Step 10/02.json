@@ -1,0 +1,26 @@
+{
+  "ja": "確かめる",
+  "hrkt": "たしかめる",
+  "latn": "tashikameru",
+  "en": "check, confirm",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00316A.mp3",
+  "sentences": [
+    {
+      "ja": "母はお釣りを<b>確かめた</b>の。",
+      "hrkt": "はは は おつり を <b>たしかめた</b> の。",
+      "latn": "haha ha otsuri wo <b>tashikameta</b> no.",
+      "en": "My mother checked the change.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/cl8mb5a76p3go.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00316A.mp3"
+    },
+    {
+      "ja": "レシートで買い物の金額を<b>確かめた</b>よ。",
+      "hrkt": "レシート で かいもの の きんがく を <b>たしかめた</b> よ。",
+      "latn": "reshi-to de kaimono no kingaku wo <b>tashikameta</b> yo.",
+      "en": "I confirmed the cost of the shopping with the receipt.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4792973.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00485A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "綿",
+  "hrkt": "めん",
+  "latn": "men",
+  "en": "cotton (fabric)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02746A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>綿</b>のシャツをよく着ます。",
+      "hrkt": "わたし は <b>めん</b> の シャツ を よく きます。",
+      "latn": "watashi ha <b>men</b> no shatsu wo yoku kimasu.",
+      "en": "I wear cotton shirts a lot.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02746A.mp3"
+    }
+  ]
+}

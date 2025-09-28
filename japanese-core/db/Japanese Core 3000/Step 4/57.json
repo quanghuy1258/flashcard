@@ -1,0 +1,18 @@
+{
+  "ja": "本日",
+  "hrkt": "ほんじつ",
+  "latn": "honjitsu",
+  "en": "today (formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02892A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>本日</b>のランチはハンバーグでございます。",
+      "hrkt": "<b>ほんじつ</b> の ランチ は ハンバーグ で ございます。",
+      "latn": "<b>honjitsu</b> no ranchi ha hanba-gu de gozaimasu.",
+      "en": "The lunch of the day is hamburger steak.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/557c858aek.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02892A.mp3"
+    }
+  ]
+}

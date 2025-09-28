@@ -1,0 +1,18 @@
+{
+  "ja": "呼びかける",
+  "hrkt": "よびかける",
+  "latn": "yobikakeru",
+  "en": "call, urge",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02544A.mp3",
+  "sentences": [
+    {
+      "ja": "友人たちに協力を<b>呼びかけた</b>の。",
+      "hrkt": "ゆうじん たち に きょうりょく を <b>よびかけた</b> の。",
+      "latn": "yuujin tachi ni kyouryoku wo <b>yobikaketa</b> no.",
+      "en": "I asked my friends for their cooperation.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02544A.mp3"
+    }
+  ]
+}

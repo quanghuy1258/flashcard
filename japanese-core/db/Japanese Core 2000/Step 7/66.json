@@ -1,0 +1,26 @@
+{
+  "ja": "真っ青",
+  "hrkt": "まっさお",
+  "latn": "massao",
+  "en": "deep-blue, pale",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08752A.mp3",
+  "sentences": [
+    {
+      "ja": "空が<b>真っ青</b>です。",
+      "hrkt": "そら が <b>まっさお</b> です。",
+      "latn": "sora ga <b>massao</b> desu.",
+      "en": "The sky is deep blue.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4545741.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08752A.mp3"
+    },
+    {
+      "ja": "顔が<b>真っ青</b>ですよ。大丈夫ですか。",
+      "hrkt": "かお が <b>まっさお</b> です よ。だいじょうぶ です か。",
+      "latn": "kao ga <b>massao</b> desu yo.daijoubu desu ka.",
+      "en": "You look pale. Are you OK?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/054he3es9o.mp3"
+    }
+  ]
+}

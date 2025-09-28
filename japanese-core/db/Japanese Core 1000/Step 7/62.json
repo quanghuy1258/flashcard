@@ -1,0 +1,26 @@
+{
+  "ja": "膝",
+  "hrkt": "ひざ",
+  "latn": "hiza",
+  "en": "knee",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07679A.mp3",
+  "sentences": [
+    {
+      "ja": "スキーで<b>膝</b>を怪我しました。",
+      "hrkt": "スキー で <b>ひざ</b> を けが しました 。",
+      "latn": "suki- de <b>hiza</b> wo kega shimashita .",
+      "en": "I injured my knee while skiing.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4272273.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07679A.mp3"
+    },
+    {
+      "ja": "<b>膝</b>に痛みを感じます。",
+      "hrkt": "<b>ひざ</b> に いたみ を かんじます。",
+      "latn": "<b>hiza</b> ni itami wo kanjimasu.",
+      "en": "I feel a pain in my knee.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6238643.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01925A.mp3"
+    }
+  ]
+}

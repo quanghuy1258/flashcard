@@ -1,0 +1,18 @@
+{
+  "ja": "害",
+  "hrkt": "がい",
+  "latn": "gai",
+  "en": "harm, damage",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02766A.mp3",
+  "sentences": [
+    {
+      "ja": "お酒の飲み過ぎは健康に<b>害</b>があります。",
+      "hrkt": "おさけ の のみすぎ は けんこう に <b>がい</b> が あります。",
+      "latn": "osake no nomisugi ha kenkou ni <b>gai</b> ga arimasu.",
+      "en": "Too much drinking damages your health.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02766A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "まずい",
+  "hrkt": "まずい",
+  "latn": "mazui",
+  "en": "bad (taste), distasteful",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08706A.mp3",
+  "sentences": [
+    {
+      "ja": "ここの料理は<b>まずい</b>。",
+      "hrkt": "ここ の りょうり は <b>まずい</b>。",
+      "latn": "koko no ryouri ha <b>mazui</b>.",
+      "en": "The food here is bad.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/501174.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08706A.mp3"
+    },
+    {
+      "ja": "あの店のラーメンはすごく<b>まずい</b>ですよ。",
+      "hrkt": "あの みせ の ラーメン は すごく <b>まずい</b> です よ。",
+      "latn": "ano mise no ra-men ha sugoku <b>mazui</b> desu yo.",
+      "en": "That ramen shop is very bad.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/43bo9e4dvo.mp3"
+    }
+  ]
+}

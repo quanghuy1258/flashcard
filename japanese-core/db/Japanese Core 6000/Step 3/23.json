@@ -1,0 +1,18 @@
+{
+  "ja": "大金",
+  "hrkt": "たいきん",
+  "latn": "taikin",
+  "en": "large amount of money",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03228A.mp3",
+  "sentences": [
+    {
+      "ja": "このかばんには<b>大金</b>が入っています。",
+      "hrkt": "この かばん に は <b>たいきん</b> が はいって います。",
+      "latn": "kono kaban ni ha <b>taikin</b> ga haitte imasu.",
+      "en": "This bag contains a lot of money.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03228A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "トップ",
+  "hrkt": "トップ",
+  "latn": "toppu",
+  "en": "top, the best",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00257A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>トップ</b>の成績で合格しました。",
+      "hrkt": "かれ は <b>トップ</b> の せいせき で ごうかく しました。",
+      "latn": "kare ha <b>toppu</b> no seiseki de goukaku shimashita.",
+      "en": "He passed with the top grades.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/538kdpecug.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00257A.mp3"
+    }
+  ]
+}

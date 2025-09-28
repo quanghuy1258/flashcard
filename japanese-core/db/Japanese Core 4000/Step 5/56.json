@@ -1,0 +1,18 @@
+{
+  "ja": "外す",
+  "hrkt": "はずす",
+  "latn": "hazusu",
+  "en": "remove (something), take off",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01039A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はメガネを<b>外しました</b>。",
+      "hrkt": "かれ は メガネ を <b>はずしました</b>。",
+      "latn": "kare ha megane wo <b>hazushimashita</b>.",
+      "en": "He took off his glasses.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01039A.mp3"
+    }
+  ]
+}

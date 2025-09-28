@@ -1,0 +1,18 @@
+{
+  "ja": "まく",
+  "hrkt": "まく",
+  "latn": "maku",
+  "en": "sow (seeds)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03884A.mp3",
+  "sentences": [
+    {
+      "ja": "庭に花の種を<b>まきました</b>。",
+      "hrkt": "にわ に はな の たね を <b>まきました</b>。",
+      "latn": "niwa ni hana no tane wo <b>makimashita</b>.",
+      "en": "I sowed some flower seeds in the garden.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03884A.mp3"
+    }
+  ]
+}

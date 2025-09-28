@@ -1,0 +1,18 @@
+{
+  "ja": "肌色",
+  "hrkt": "はだいろ",
+  "latn": "hadairo",
+  "en": "flesh color, skin color",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03472A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>肌色</b>のシャツを着ています。",
+      "hrkt": "かのじょ は <b>はだいろ</b> の シャツ を きて います。",
+      "latn": "kanojo ha <b>hadairo</b> no shatsu wo kite imasu.",
+      "en": "She's wearing a skin-colored shirt.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03472A.mp3"
+    }
+  ]
+}

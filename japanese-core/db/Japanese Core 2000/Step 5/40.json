@@ -1,0 +1,26 @@
+{
+  "ja": "用事",
+  "hrkt": "ようじ",
+  "latn": "youji",
+  "en": "errand, business",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09598A.mp3",
+  "sentences": [
+    {
+      "ja": "父は<b>用事</b>で出掛けています。",
+      "hrkt": "ちち は <b>ようじ</b> で でかけて います。",
+      "latn": "chichi ha <b>youji</b> de dekakete imasu.",
+      "en": "My father is out running errands.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4462509.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09598A.mp3"
+    },
+    {
+      "ja": "急に<b>用事</b>を思い出した。",
+      "hrkt": "きゅう に <b>ようじ</b> を おもいだした。",
+      "latn": "kyuu ni <b>youji</b> wo omoidashita.",
+      "en": "I suddenly remembered I have something to do.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/315171.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02218A.mp3"
+    }
+  ]
+}

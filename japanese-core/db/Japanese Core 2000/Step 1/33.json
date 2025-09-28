@@ -1,0 +1,26 @@
+{
+  "ja": "散歩",
+  "hrkt": "さんぽ",
+  "latn": "sanpo",
+  "en": "walk, stroll",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03556A.mp3",
+  "sentences": [
+    {
+      "ja": "公園を<b>散歩</b>しようか。",
+      "hrkt": "こうえん を <b>さんぽ</b> しよう か。",
+      "latn": "kouen wo <b>sanpo</b> shiyou ka.",
+      "en": "Do you want to take a walk in the park?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4904501.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03556A.mp3"
+    },
+    {
+      "ja": "海岸を<b>散歩</b>しましょう。",
+      "hrkt": "かいがん を <b>さんぽ</b> しましょう。",
+      "latn": "kaigan wo <b>sanpo</b> shimashou.",
+      "en": "Let's take a walk along the coast.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4910271.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01331A.mp3"
+    }
+  ]
+}

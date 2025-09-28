@@ -1,0 +1,26 @@
+{
+  "ja": "島",
+  "hrkt": "しま",
+  "latn": "shima",
+  "en": "island (Japanese origin)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03850A.mp3",
+  "sentences": [
+    {
+      "ja": "日本は<b>島</b>国です。",
+      "hrkt": "にっぽん は <b>しま</b>ぐに です。",
+      "latn": "nippon ha <b>shima</b>guni desu.",
+      "en": "Japan is an island nation.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/551085.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03850A.mp3"
+    },
+    {
+      "ja": "その<b>島</b>には誰も住んでいません。",
+      "hrkt": "その <b>しま</b> に は だれ も すんで いません。",
+      "latn": "sono <b>shima</b> ni ha dare mo sunde imasen.",
+      "en": "Nobody lives on the island.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/542034cnh4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "長い",
+  "hrkt": "ながい",
+  "latn": "nagai",
+  "en": "long",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06628A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の髪はとても<b>長い</b>。",
+      "hrkt": "かのじょ の かみ は とても <b>ながい</b>。",
+      "latn": "kanojo no kami ha totemo <b>nagai</b>.",
+      "en": "Her hair is very long.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4918132.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06628A.mp3"
+    },
+    {
+      "ja": "夏は日が<b>長い</b>。",
+      "hrkt": "なつ は ひ が <b>ながい</b>。",
+      "latn": "natsu ha hi ga <b>nagai</b>.",
+      "en": "Days are longer in summer.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4701420.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07594A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "就職",
+  "hrkt": "しゅうしょく",
+  "latn": "shuushoku",
+  "en": "finding a job, getting a job",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03980A.mp3",
+  "sentences": [
+    {
+      "ja": "最近、若い人たちの<b>就職</b>が難しくなっています。",
+      "hrkt": "さいきん、わかい ひと たち の <b>しゅうしょく</b> が むずかしく なって います。",
+      "latn": "saikin,wakai hito tachi no <b>shuushoku</b> ga muzukashiku natte imasu.",
+      "en": "Young people find it harder to find jobs these days.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c59e726l98.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03980A.mp3"
+    },
+    {
+      "ja": "彼の<b>就職</b>のお祝いをしよう。",
+      "hrkt": "かれ の <b>しゅうしょく</b> の おいわい を しよう。",
+      "latn": "kare no <b>shuushoku</b> no oiwai wo shiyou.",
+      "en": "Let's celebrate his new employment.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1806216.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00935A.mp3"
+    }
+  ]
+}

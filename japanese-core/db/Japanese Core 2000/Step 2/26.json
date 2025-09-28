@@ -1,0 +1,26 @@
+{
+  "ja": "予約",
+  "hrkt": "よやく",
+  "latn": "yoyaku",
+  "en": "reservation, appointment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09731A.mp3",
+  "sentences": [
+    {
+      "ja": "レストランを<b>予約</b>しました。",
+      "hrkt": "レストラン を <b>よやく</b> しました。",
+      "latn": "resutoran wo <b>yoyaku</b> shimashita.",
+      "en": "I made a reservation at the restaurant.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3570847.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09731A.mp3"
+    },
+    {
+      "ja": "<b>予約</b>は要りません。",
+      "hrkt": "<b>よやく</b> は いりません。",
+      "latn": "<b>yoyaku</b> ha irimasen.",
+      "en": "Reservations are not required.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3253087.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00609A.mp3"
+    }
+  ]
+}

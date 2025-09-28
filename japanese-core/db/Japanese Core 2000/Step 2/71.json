@@ -1,0 +1,26 @@
+{
+  "ja": "渡る",
+  "hrkt": "わたる",
+  "latn": "wataru",
+  "en": "cross, go across",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW10048A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは歩いて橋を<b>渡った</b>。",
+      "hrkt": "わたし たち は あるいて はし を <b>わたった</b>。",
+      "latn": "watashi tachi ha aruite hashi wo <b>watatta</b>.",
+      "en": "We walked over the bridge.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4700446.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10048A.mp3"
+    },
+    {
+      "ja": "小さな川を<b>渡りました</b>。",
+      "hrkt": "ちいさな かわ を <b>わたりました</b>。",
+      "latn": "chiisana kawa wo <b>watarimashita</b>.",
+      "en": "I crossed a stream.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1588290.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01845A.mp3"
+    }
+  ]
+}

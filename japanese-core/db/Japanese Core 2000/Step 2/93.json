@@ -1,0 +1,26 @@
+{
+  "ja": "巻く",
+  "hrkt": "まく",
+  "latn": "maku",
+  "en": "roll up, wrap",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08670A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は頭にタオルを<b>巻いて</b>いた。",
+      "hrkt": "かれ は あたま に タオル を <b>まいて</b> いた。",
+      "latn": "kare ha atama ni taoru wo <b>maite</b> ita.",
+      "en": "He had a towel tied around his head.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3841856.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08670A.mp3"
+    },
+    {
+      "ja": "彼女は今日、髪をきれいに<b>巻いて</b>います。",
+      "hrkt": "かのじょ は きょう、かみ を きれい に <b>まいて</b> います。",
+      "latn": "kanojo ha kyou,kami wo kirei ni <b>maite</b> imasu.",
+      "en": "She curled her hair neatly today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/24ffb470d4.mp3"
+    }
+  ]
+}

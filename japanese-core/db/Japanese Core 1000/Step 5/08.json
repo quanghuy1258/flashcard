@@ -1,0 +1,26 @@
+{
+  "ja": "以上",
+  "hrkt": "いじょう",
+  "latn": "ijou",
+  "en": "more than, not less than",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00435A.mp3",
+  "sentences": [
+    {
+      "ja": "飛行機が1時間<b>以上</b>遅れた。",
+      "hrkt": "ひこうき が 1 じかん <b>いじょう</b> おくれた。",
+      "latn": "hikouki ga 1 jikan <b>ijou</b> okureta.",
+      "en": "The plane arrived over an hour late.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2081238.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00435A.mp3"
+    },
+    {
+      "ja": "今日は水を2リットル<b>以上</b>飲んだわ。",
+      "hrkt": "きょう は みず を 2 リットル <b>いじょう</b> のんだ わ。",
+      "latn": "kyou ha mizu wo 2 rittoru <b>ijou</b> nonda wa.",
+      "en": "I drank more than two liters of water today.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/f41i757nbk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02342A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "時計",
+  "hrkt": "とけい",
+  "latn": "tokei",
+  "en": "clock, watch",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06405A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>時計</b>を見たらちょうど3時だった。",
+      "hrkt": "<b>とけい</b> を みたら ちょうど 3 じ だった。",
+      "latn": "<b>tokei</b> wo mitara choudo 3 ji datta.",
+      "en": "It was exactly three when I looked at the clock.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6112542.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06405A.mp3"
+    },
+    {
+      "ja": "あの家には<b>時計</b>が八つあります。",
+      "hrkt": "あの いえ に は <b>とけい</b> が やっつ あります。",
+      "latn": "ano ie ni ha <b>tokei</b> ga yattsu arimasu.",
+      "en": "There are eight clocks in that house.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5219374.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09423A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "最終",
+  "hrkt": "さいしゅう",
+  "latn": "saishuu",
+  "en": "final, last (of something repeated)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00394A.mp3",
+  "sentences": [
+    {
+      "ja": "東京行きの<b>最終</b>電車は何時ですか。",
+      "hrkt": "とうきょう いき の <b>さいしゅう</b> でんしゃ は なん じ です か。",
+      "latn": "toukyou iki no <b>saishuu</b> densha ha nan ji desu ka.",
+      "en": "What time is the last train for Tokyo?",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/94d3915rf8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00394A.mp3"
+    }
+  ]
+}

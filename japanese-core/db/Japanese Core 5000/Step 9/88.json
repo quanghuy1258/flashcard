@@ -1,0 +1,18 @@
+{
+  "ja": "有する",
+  "hrkt": "ゆうする",
+  "latn": "yuusuru",
+  "en": "possess, have (qualification etc.)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01466A.mp3",
+  "sentences": [
+    {
+      "ja": "資格を<b>有する</b>人のみ応募できます。",
+      "hrkt": "しかく を <b>ゆうする</b> ひと のみ おうぼ できます。",
+      "latn": "shikaku wo <b>yuusuru</b> hito nomi oubo dekimasu.",
+      "en": "Only qualified individuals may apply.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01466A.mp3"
+    }
+  ]
+}

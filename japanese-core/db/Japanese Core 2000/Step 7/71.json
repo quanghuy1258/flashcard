@@ -1,0 +1,26 @@
+{
+  "ja": "突き当たり",
+  "hrkt": "つきあたり",
+  "latn": "tsukiatari",
+  "en": "end of a street",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05838A.mp3",
+  "sentences": [
+    {
+      "ja": "この先は<b>突き当たり</b>です。",
+      "hrkt": "この さき は <b>つきあたり</b> です。",
+      "latn": "kono saki ha <b>tsukiatari</b> desu.",
+      "en": "You'll hit the end of the road.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5137647.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05838A.mp3"
+    },
+    {
+      "ja": "2階の<b>突き当たり</b>が私の部屋です。",
+      "hrkt": "2 かい の <b>つきあたり</b> が わたし の へや です。",
+      "latn": "2 kai no <b>tsukiatari</b> ga watashi no heya desu.",
+      "en": "My room is at the end of the second floor.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a3bp2gce6s.mp3"
+    }
+  ]
+}

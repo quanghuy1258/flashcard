@@ -1,0 +1,26 @@
+{
+  "ja": "向こう",
+  "hrkt": "むこう",
+  "latn": "mukou",
+  "en": "over there, on the other side",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09062A.mp3",
+  "sentences": [
+    {
+      "ja": "友達は<b>向こう</b>にいます。",
+      "hrkt": "ともだち は <b>むこう</b> に います。",
+      "latn": "tomodachi ha <b>mukou</b> ni imasu.",
+      "en": "My friend is over there.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4891554.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09062A.mp3"
+    },
+    {
+      "ja": "入り口は<b>向こう</b>です。",
+      "hrkt": "いりぐち は <b>むこう</b> です。",
+      "latn": "iriguchi ha <b>mukou</b> desu.",
+      "en": "The entrance is over there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3901786.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00605A.mp3?1219919452"
+    }
+  ]
+}

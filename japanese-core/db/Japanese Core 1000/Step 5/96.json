@@ -1,0 +1,26 @@
+{
+  "ja": "歯ブラシ",
+  "hrkt": "はブラシ",
+  "latn": "haburashi",
+  "en": "toothbrush",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07452A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>歯ブラシ</b>が必要だ。",
+      "hrkt": "あたらしい <b>はブラシ</b> が ひつよう だ。",
+      "latn": "atarashii <b>haburashi</b> ga hitsuyou da.",
+      "en": "I need a new toothbrush.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5254570.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07452A.mp3"
+    },
+    {
+      "ja": "この<b>歯ブラシ</b>は子供のです。",
+      "hrkt": "この <b>はブラシ</b> は こども の です。",
+      "latn": "kono <b>haburashi</b> ha kodomo no desu.",
+      "en": "This toothbrush is for kids.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/94bs0iad5s.mp3"
+    }
+  ]
+}

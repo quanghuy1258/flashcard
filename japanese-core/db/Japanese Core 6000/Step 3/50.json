@@ -1,0 +1,18 @@
+{
+  "ja": "衣料",
+  "hrkt": "いりょう",
+  "latn": "iryou",
+  "en": "clothing material",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02263A.mp3",
+  "sentences": [
+    {
+      "ja": "その会社は<b>衣料</b>を扱っているんだ。",
+      "hrkt": "その かいしゃ は <b>いりょう</b> を あつかって いる ん だ。",
+      "latn": "sono kaisha ha <b>iryou</b> wo atsukatte iru n da.",
+      "en": "The company sells clothing.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02263A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "アンケート",
+  "hrkt": "アンケート",
+  "latn": "anke-to",
+  "en": "questionnaire",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01271A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>アンケート</b>に答えたよ。",
+      "hrkt": "かのじょ は <b>アンケート</b> に こたえた よ。",
+      "latn": "kanojo ha <b>anke-to</b> ni kotaeta yo.",
+      "en": "She answered the questionnaire.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/5543c18msk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01271A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "欄",
+  "hrkt": "らん",
+  "latn": "ran",
+  "en": "column, field",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03958A.mp3",
+  "sentences": [
+    {
+      "ja": "お名前は上の<b>欄</b>にお書きください。",
+      "hrkt": "おなまえ は うえ の <b>らん</b> に おかき ください。",
+      "latn": "onamae ha ue no <b>ran</b> ni okaki kudasai.",
+      "en": "Please write your name in the top field.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03958A.mp3"
+    }
+  ]
+}

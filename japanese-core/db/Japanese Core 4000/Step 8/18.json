@@ -1,0 +1,18 @@
+{
+  "ja": "生き物",
+  "hrkt": "いきもの",
+  "latn": "ikimono",
+  "en": "living creature",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02232A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>生き物</b>を大切にしましょう。",
+      "hrkt": "<b>いきもの</b> を たいせつ に しましょう。",
+      "latn": "<b>ikimono</b> wo taisetsu ni shimashou.",
+      "en": "Let's care about living things.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02232A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "塔",
+  "hrkt": "とう",
+  "latn": "tou",
+  "en": "tower",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03771A.mp3",
+  "sentences": [
+    {
+      "ja": "あの<b>塔</b>の高さはどれくらいですか。",
+      "hrkt": "あの <b>とう</b> の たかさ は どれ くらい です か。",
+      "latn": "ano <b>tou</b> no takasa ha dore kurai desu ka.",
+      "en": "How tall is that tower?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03771A.mp3"
+    }
+  ]
+}

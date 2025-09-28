@@ -1,0 +1,18 @@
+{
+  "ja": "定価",
+  "hrkt": "ていか",
+  "latn": "teika",
+  "en": "regular price",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02334A.mp3",
+  "sentences": [
+    {
+      "ja": "この本の<b>定価</b>は525円です。",
+      "hrkt": "この ほん の <b>ていか</b> は 525 えん です。",
+      "latn": "kono hon no <b>teika</b> ha 525 en desu.",
+      "en": "The regular price of this book is 525 yen.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02334A.mp3"
+    }
+  ]
+}

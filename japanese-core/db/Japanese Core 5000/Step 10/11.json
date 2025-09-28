@@ -1,0 +1,18 @@
+{
+  "ja": "独占",
+  "hrkt": "どくせん",
+  "latn": "dokusen",
+  "en": "monopoly",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01045A.mp3",
+  "sentences": [
+    {
+      "ja": "この2社が市場を<b>独占</b>しています。",
+      "hrkt": "この 2 しゃ が しじょう を <b>どくせん</b> して います。",
+      "latn": "kono 2 sha ga shijou wo <b>dokusen</b> shite imasu.",
+      "en": "These two companies are monopolizing the market.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01045A.mp3"
+    }
+  ]
+}

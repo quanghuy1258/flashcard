@@ -1,0 +1,18 @@
+{
+  "ja": "流れ",
+  "hrkt": "ながれ",
+  "latn": "nagare",
+  "en": "flow, stream",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00108A.mp3",
+  "sentences": [
+    {
+      "ja": "川の上流は<b>流れ</b>が速いよ。",
+      "hrkt": "かわ の じょうりゅう は <b>ながれ</b> が はやい よ。",
+      "latn": "kawa no jouryuu ha <b>nagare</b> ga hayai yo.",
+      "en": "The river flows fast upstream.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a25088241o.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00108A.mp3"
+    }
+  ]
+}

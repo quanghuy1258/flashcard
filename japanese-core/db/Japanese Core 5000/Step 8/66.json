@@ -1,0 +1,18 @@
+{
+  "ja": "挑戦",
+  "hrkt": "ちょうせん",
+  "latn": "chousen",
+  "en": "challenge",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00717A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は新しいことに<b>挑戦</b>している。",
+      "hrkt": "かれ は あたらしい こと に <b>ちょうせん</b> して いる。",
+      "latn": "kare ha atarashii koto ni <b>chousen</b> shite iru.",
+      "en": "He's taking on a new challenge.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00717A.mp3"
+    }
+  ]
+}

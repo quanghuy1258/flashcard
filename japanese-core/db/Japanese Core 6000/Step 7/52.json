@@ -1,0 +1,18 @@
+{
+  "ja": "冷え込む",
+  "hrkt": "ひえこむ",
+  "latn": "hiekomu",
+  "en": "get cold",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03103A.mp3",
+  "sentences": [
+    {
+      "ja": "明日から急に<b>冷え込むそう</b>です。",
+      "hrkt": "あす から きゅう に <b>ひえこむ</b> そうです。",
+      "latn": "asu kara kyuu ni <b>hiekomu</b> soudesu.",
+      "en": "I hear that it will suddenly get cold from tomorrow.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03103A.mp3"
+    }
+  ]
+}

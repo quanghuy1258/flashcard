@@ -1,0 +1,18 @@
+{
+  "ja": "者",
+  "hrkt": "もの",
+  "latn": "mono",
+  "en": "person (humble)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03932A.mp3",
+  "sentences": [
+    {
+      "ja": "私は先ほど電話した<b>者</b>です。",
+      "hrkt": "わたし は さきほど でんわ した <b>もの</b> です。",
+      "latn": "watashi ha sakihodo denwa shita <b>mono</b> desu.",
+      "en": "I'm the person who called earlier.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f14g4r8uo8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03932A.mp3"
+    }
+  ]
+}

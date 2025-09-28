@@ -1,0 +1,18 @@
+{
+  "ja": "染める",
+  "hrkt": "そめる",
+  "latn": "someru",
+  "en": "dye (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03702A.mp3",
+  "sentences": [
+    {
+      "ja": "髪を赤に<b>染めて</b>みた。",
+      "hrkt": "かみ を あか に <b>そめて</b> みた。",
+      "latn": "kami wo aka ni <b>somete</b> mita.",
+      "en": "I dyed my hair red.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03702A.mp3"
+    }
+  ]
+}

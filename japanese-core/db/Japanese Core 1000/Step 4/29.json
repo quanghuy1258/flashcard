@@ -1,0 +1,26 @@
+{
+  "ja": "駅",
+  "hrkt": "えき",
+  "latn": "eki",
+  "en": "train station",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00857A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>駅</b>はどこですか。",
+      "hrkt": "<b>えき</b> は どこ です か。",
+      "latn": "<b>eki</b> ha doko desu ka.",
+      "en": "Where's the station?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4315959.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00857A.mp3"
+    },
+    {
+      "ja": "私の家は<b>駅</b>の近くです。",
+      "hrkt": "わたし の いえ は <b>えき</b> の ちかく です。",
+      "latn": "watashi no ie ha <b>eki</b> no chikaku desu.",
+      "en": "My house is near the station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3155627.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05567A.mp3"
+    }
+  ]
+}

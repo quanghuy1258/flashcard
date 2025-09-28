@@ -1,0 +1,18 @@
+{
+  "ja": "ゆでる",
+  "hrkt": "ゆでる",
+  "latn": "yuderu",
+  "en": "boil",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03943A.mp3",
+  "sentences": [
+    {
+      "ja": "今、野菜を<b>ゆでて</b>います。",
+      "hrkt": "いま、やさい を <b>ゆでて</b> います。",
+      "latn": "ima,yasai wo <b>yudete</b> imasu.",
+      "en": "I'm boiling some vegetables now.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/758276djs8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03943A.mp3"
+    }
+  ]
+}

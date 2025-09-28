@@ -1,0 +1,18 @@
+{
+  "ja": "値上げ",
+  "hrkt": "ねあげ",
+  "latn": "neage",
+  "en": "price hike, price increase",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00748A.mp3",
+  "sentences": [
+    {
+      "ja": "バス代が<b>値上げ</b>されました。",
+      "hrkt": "バス だい が <b>ねあげ</b> されました。",
+      "latn": "basu dai ga <b>neage</b> saremashita.",
+      "en": "Bus fares have been increased.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00748A.mp3"
+    }
+  ]
+}

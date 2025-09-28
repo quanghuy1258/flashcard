@@ -1,0 +1,26 @@
+{
+  "ja": "ご主人",
+  "hrkt": "ごしゅじん",
+  "latn": "goshujin",
+  "en": "(someone else's) husband",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03116A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ご主人</b>はお元気ですか。",
+      "hrkt": "<b>ごしゅじん</b> は おげんき です か。",
+      "latn": "<b>goshujin</b> ha ogenki desu ka.",
+      "en": "How is your husband?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5004673.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03116A.mp3"
+    },
+    {
+      "ja": "彼女の<b>ご主人</b>はアメリカ人です。",
+      "hrkt": "かのじょ の <b>ごしゅじん</b> は アメリカ じん です。",
+      "latn": "kanojo no <b>goshujin</b> ha amerika jin desu.",
+      "en": "Her husband is American.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f31o8q53f0.mp3"
+    }
+  ]
+}

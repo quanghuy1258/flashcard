@@ -1,0 +1,26 @@
+{
+  "ja": "正月",
+  "hrkt": "しょうがつ",
+  "latn": "shougatsu",
+  "en": "New Year",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04145A.mp3",
+  "sentences": [
+    {
+      "ja": "お<b>正月</b>にはたいてい、家族が集まる。",
+      "hrkt": "お<b>しょうがつ</b> に は たいてい、かぞく が あつまる。",
+      "latn": "o<b>shougatsu</b> ni ha taitei,kazoku ga atsumaru.",
+      "en": "Our family usually gets together for the New Year.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4796711.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04145A.mp3"
+    },
+    {
+      "ja": "お<b>正月</b>にはいろいろな遊びをします。",
+      "hrkt": "お<b>しょうがつ</b> に は いろいろな あそび を します。",
+      "latn": "o<b>shougatsu</b> ni ha iroirona asobi wo shimasu.",
+      "en": "We play a lot of games at New Year's.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3869295.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00135A.mp3"
+    }
+  ]
+}

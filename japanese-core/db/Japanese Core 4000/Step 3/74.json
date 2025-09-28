@@ -1,0 +1,18 @@
+{
+  "ja": "勇気",
+  "hrkt": "ゆうき",
+  "latn": "yuuki",
+  "en": "courage",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01583A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>勇気</b>があるね。",
+      "hrkt": "かれ は <b>ゆうき</b> が ある ね。",
+      "latn": "kare ha <b>yuuki</b> ga aru ne.",
+      "en": "He's courageous.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01583A.mp3"
+    }
+  ]
+}

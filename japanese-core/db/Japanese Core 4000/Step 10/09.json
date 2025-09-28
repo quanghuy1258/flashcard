@@ -1,0 +1,18 @@
+{
+  "ja": "出入り",
+  "hrkt": "でいり",
+  "latn": "deiri",
+  "en": "coming and going",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01341A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の家は人の<b>出入り</b>が多いね。",
+      "hrkt": "かれ の いえ は ひと の <b>でいり</b> が おおい ね。",
+      "latn": "kare no ie ha hito no <b>deiri</b> ga ooi ne.",
+      "en": "There are a lot of people going in and out his house.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01341A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "達する",
+  "hrkt": "たっする",
+  "latn": "tassuru",
+  "en": "attain, reach",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05385A.mp3",
+  "sentences": [
+    {
+      "ja": "気温は35度に<b>達した</b>。",
+      "hrkt": "きおん は 35 ど に <b>たっした</b>。",
+      "latn": "kion ha 35 do ni <b>tasshita</b>.",
+      "en": "The temperature reached 35 degrees.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4039880.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05385A.mp3"
+    },
+    {
+      "ja": "そのサービスのユーザー数は5,000万人に<b>達して</b>います。",
+      "hrkt": "その サービス の ユーザー すう は 5,000 まん にん に <b>たっして</b> います。",
+      "latn": "sono sa-bisu no yu-za- suu ha 5,000 man nin ni <b>tasshite</b> imasu.",
+      "en": "The number of users of the service has reached 50 million.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/346gbpehjk.mp3"
+    }
+  ]
+}

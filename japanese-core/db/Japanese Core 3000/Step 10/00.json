@@ -1,0 +1,18 @@
+{
+  "ja": "検査",
+  "hrkt": "けんさ",
+  "latn": "kensa",
+  "en": "inspection, examination",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01022A.mp3",
+  "sentences": [
+    {
+      "ja": "私は今日、目の<b>検査</b>を受けます。",
+      "hrkt": "わたし は きょう、め の <b>けんさ</b> を うけます。",
+      "latn": "watashi ha kyou,me no <b>kensa</b> wo ukemasu.",
+      "en": "I have an eye exam today.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a10v1s51j3h5g0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01022A.mp3"
+    }
+  ]
+}

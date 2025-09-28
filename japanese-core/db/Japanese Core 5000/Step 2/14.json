@@ -1,0 +1,18 @@
+{
+  "ja": "夕日",
+  "hrkt": "ゆうひ",
+  "latn": "yuuhi",
+  "en": "setting sun",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03940A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>夕日</b>が西の空に沈んだね。",
+      "hrkt": "<b>ゆうひ</b> が にし の そら に しずんだ ね。",
+      "latn": "<b>yuuhi</b> ga nishi no sora ni shizunda ne.",
+      "en": "The evening sun set in the western sky.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03940A.mp3"
+    }
+  ]
+}

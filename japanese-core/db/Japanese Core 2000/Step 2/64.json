@@ -1,0 +1,26 @@
+{
+  "ja": "練習",
+  "hrkt": "れんしゅう",
+  "latn": "renshuu",
+  "en": "practice, training",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09943A.mp3",
+  "sentences": [
+    {
+      "ja": "娘は今、バイオリンを<b>練習</b>しています。",
+      "hrkt": "むすめ は いま、バイオリン を <b>れんしゅう</b> して います。",
+      "latn": "musume ha ima,baiorin wo <b>renshuu</b> shite imasu.",
+      "en": "My daughter is practicing the violin now.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5032543.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09943A.mp3"
+    },
+    {
+      "ja": "息子は土曜日も日曜日もサッカーの<b>練習</b>に行く。",
+      "hrkt": "むすこ は どようび も にちようび も サッカー の <b>れんしゅう</b> に いく。",
+      "latn": "musuko ha doyoubi mo nichiyoubi mo sakka- no <b>renshuu</b> ni iku.",
+      "en": "My son goes to soccer practice on Saturdays and Sundays.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/35ci8fbtkg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "しっかり",
+  "hrkt": "しっかり",
+  "latn": "shikkari",
+  "en": "mature, responsible",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01177A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は若いのに<b>しっかり</b>してるね。",
+      "hrkt": "かれ は わかい のに <b>しっかり</b> してる ね。",
+      "latn": "kare ha wakai noni <b>shikkari</b> shiteru ne.",
+      "en": "He is responsible even though he is young.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3084550.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01177A.mp3"
+    },
+    {
+      "ja": "お兄さんなんだから、もっと<b>しっかり</b>しなさい。",
+      "hrkt": "おにいさん なんだ から、もっと <b>しっかり</b> しなさい。",
+      "latn": "oniisan nanda kara,motto <b>shikkari</b> shinasai.",
+      "en": "You are a big brother, so be more mature.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d4b35ce87c.mp3"
+    }
+  ]
+}

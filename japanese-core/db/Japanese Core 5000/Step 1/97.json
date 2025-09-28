@@ -1,0 +1,18 @@
+{
+  "ja": "ノック",
+  "hrkt": "ノック",
+  "latn": "nokku",
+  "en": "knock",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07091A.mp3",
+  "sentences": [
+    {
+      "ja": "入るときはドアを<b>ノック</b>してください。",
+      "hrkt": "はいる とき は ドア を <b>ノック</b> して ください。",
+      "latn": "hairu toki ha doa wo <b>nokku</b> shite kudasai.",
+      "en": "Please knock on the door before entering.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07091A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "生臭い",
+  "hrkt": "なまぐさい",
+  "latn": "namagusai",
+  "en": "smelling fishy",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03040A.mp3",
+  "sentences": [
+    {
+      "ja": "まな板が<b>生臭い</b>です。",
+      "hrkt": "まないた が <b>なまぐさい</b> です。",
+      "latn": "manaita ga <b>namagusai</b> desu.",
+      "en": "The chopping board smells fishy.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03040A.mp3"
+    }
+  ]
+}

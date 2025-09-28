@@ -1,0 +1,18 @@
+{
+  "ja": "運動場",
+  "hrkt": "うんどうじょう",
+  "latn": "undoujou",
+  "en": "playground, playing field",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02020A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>運動場</b>でサッカーをしよう。",
+      "hrkt": "<b>うんどうじょう</b> で サッカー を しよう。",
+      "latn": "<b>undoujou</b> de sakka- wo shiyou.",
+      "en": "Let's play soccer in the playing field.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02020A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "突っ込む",
+  "hrkt": "つっこむ",
+  "latn": "tsukkomu",
+  "en": "thrust in, run into",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01382A.mp3",
+  "sentences": [
+    {
+      "ja": "ポケットに財布を<b>突っ込んじゃった</b>。",
+      "hrkt": "ポケット に さいふ を <b>つっこんじゃった</b>。",
+      "latn": "poketto ni saifu wo <b>tsukkonjatta</b>.",
+      "en": "I thrust my wallet into my pocket.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01382A.mp3"
+    }
+  ]
+}

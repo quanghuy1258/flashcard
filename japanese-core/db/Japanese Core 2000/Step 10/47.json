@@ -1,0 +1,26 @@
+{
+  "ja": "検討",
+  "hrkt": "けんとう",
+  "latn": "kentou",
+  "en": "examination and consideration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02804A.mp3",
+  "sentences": [
+    {
+      "ja": "今日中にこの問題を<b>検討</b>してください。",
+      "hrkt": "きょう じゅう に この もんだい を <b>けんとう</b> して ください。",
+      "latn": "kyou juu ni kono mondai wo <b>kentou</b> shite kudasai.",
+      "en": "Please examine and consider this problem by the end of the day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5625298.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02804A.mp3"
+    },
+    {
+      "ja": "今、家を買うか<b>検討</b>中です。",
+      "hrkt": "いま、いえ を かう か <b>けんとう</b> ちゅう です。",
+      "latn": "ima,ie wo kau ka <b>kentou</b> chuu desu.",
+      "en": "We are considering buying a house.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/621q8bfvks.mp3"
+    }
+  ]
+}

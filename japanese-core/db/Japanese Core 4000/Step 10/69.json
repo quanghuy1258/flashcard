@@ -1,0 +1,18 @@
+{
+  "ja": "捕まる",
+  "hrkt": "つかまる",
+  "latn": "tsukamaru",
+  "en": "be caught, be arrested",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01412A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はついに<b>捕まりました</b>。",
+      "hrkt": "かのじょ は ついに <b>つかまりました</b>。",
+      "latn": "kanojo ha tsuini <b>tsukamarimashita</b>.",
+      "en": "She was finally caught.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01412A.mp3"
+    }
+  ]
+}

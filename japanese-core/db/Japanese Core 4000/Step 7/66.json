@@ -1,0 +1,18 @@
+{
+  "ja": "試し",
+  "hrkt": "ためし",
+  "latn": "tameshi",
+  "en": "try-on, (by) way of experiment",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02931A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>試し</b>にこの曲を弾いてみてください。",
+      "hrkt": "<b>ためし</b> に この きょく を ひいて みて ください。",
+      "latn": "<b>tameshi</b> ni kono kyoku wo hiite mite kudasai.",
+      "en": "Play this tune, by way of experiment.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02931A.mp3"
+    }
+  ]
+}

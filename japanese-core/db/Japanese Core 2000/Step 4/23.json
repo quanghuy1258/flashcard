@@ -1,0 +1,26 @@
+{
+  "ja": "割れる",
+  "hrkt": "われる",
+  "latn": "wareru",
+  "en": "crack, split",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW10083A.mp3",
+  "sentences": [
+    {
+      "ja": "コップが落ちて<b>割れた</b>。",
+      "hrkt": "コップ が おちて <b>われた</b>。",
+      "latn": "koppu ga ochite <b>wareta</b>.",
+      "en": "The glass fell and broke.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5199787.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS10083A.mp3"
+    },
+    {
+      "ja": "ボールが当たって窓ガラスが<b>割れた</b>。",
+      "hrkt": "ボール が あたって まど ガラス が <b>われた</b>。",
+      "latn": "bo-ru ga atatte mado garasu ga <b>wareta</b>.",
+      "en": "The window glass cracked because a ball hit it.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/55983kfimg.mp3"
+    }
+  ]
+}

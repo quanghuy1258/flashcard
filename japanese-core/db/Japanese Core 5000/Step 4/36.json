@@ -1,0 +1,18 @@
+{
+  "ja": "やかましい",
+  "hrkt": "やかましい",
+  "latn": "yakamashii",
+  "en": "noisy, critical, strict",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02587A.mp3",
+  "sentences": [
+    {
+      "ja": "スピーカーの音が<b>やかましい</b>な。",
+      "hrkt": "スピーカー の おと が <b>やかましい</b> な。",
+      "latn": "supi-ka- no oto ga <b>yakamashii</b> na.",
+      "en": "The sound from the speaker is too noisy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02587A.mp3"
+    }
+  ]
+}

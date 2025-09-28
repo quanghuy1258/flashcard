@@ -1,0 +1,26 @@
+{
+  "ja": "書き方",
+  "hrkt": "かきかた",
+  "latn": "kakikata",
+  "en": "how to write, way of writing",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01473A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はその漢字の<b>書き方</b>が分からない。",
+      "hrkt": "かれ は その かんじ の <b>かき かた</b> が わからない。",
+      "latn": "kare ha sono kanji no <b>kaki kata</b> ga wakaranai.",
+      "en": "He doesn't know how to write that Chinese character.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6546295.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01473A.mp3"
+    },
+    {
+      "ja": "その字の<b>書き方</b>は間違っていますよ。",
+      "hrkt": "その じ の <b>かきかた</b> は まちがって います よ。",
+      "latn": "sono ji no <b>kakikata</b> ha machigatte imasu yo.",
+      "en": "The way of you are writing the letter is wrong.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c61k7m7o3k.mp3"
+    }
+  ]
+}

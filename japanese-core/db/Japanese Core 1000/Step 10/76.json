@@ -1,0 +1,26 @@
+{
+  "ja": "励ます",
+  "hrkt": "はげます",
+  "latn": "hagemasu",
+  "en": "encourage, cheer up",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01428A.mp3",
+  "sentences": [
+    {
+      "ja": "父が息子を<b>励ました</b>の。",
+      "hrkt": "ちち が むすこ を <b>はげました</b> の。",
+      "latn": "chichi ga musuko wo <b>hagemashita</b> no.",
+      "en": "The father encouraged his son.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/elbi4d70r8vj0.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01428A.mp3"
+    },
+    {
+      "ja": "大切な試験の前、友達が<b>励まして</b>くれました。",
+      "hrkt": "たいせつな しけん の まえ、ともだち が <b>はげまして</b> くれました。",
+      "latn": "taisetsuna shiken no mae,tomodachi ga <b>hagemashite</b> kuremashita.",
+      "en": "Before the important exam, my friend cheered me up.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/44af5b4ej0.mp3"
+    }
+  ]
+}

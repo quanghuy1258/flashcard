@@ -1,0 +1,18 @@
+{
+  "ja": "泣き声",
+  "hrkt": "なきごえ",
+  "latn": "nakigoe",
+  "en": "tearful voice, sound of crying",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02531A.mp3",
+  "sentences": [
+    {
+      "ja": "赤ちゃんの<b>泣き声</b>が聞こえますね。",
+      "hrkt": "あかちゃん の <b>なきごえ</b> が きこえます ね。",
+      "latn": "akachan no <b>nakigoe</b> ga kikoemasu ne.",
+      "en": "I can hear a baby crying.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b54b15bc7c.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02531A.mp3"
+    }
+  ]
+}

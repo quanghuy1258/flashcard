@@ -1,0 +1,26 @@
+{
+  "ja": "本当に",
+  "hrkt": "ほんとうに",
+  "latn": "hontouni",
+  "en": "really, truly",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08606A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたが<b>本当に</b>好きです。",
+      "hrkt": "あなた が <b>ほんとう に</b> すき です。",
+      "latn": "anata ga <b>hontou ni</b> suki desu.",
+      "en": "I really like you.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4489276.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08606A.mp3"
+    },
+    {
+      "ja": "私は納豆が<b>本当に</b>嫌いだ。",
+      "hrkt": "わたし は なっとう が <b>ほんとう に</b> きらい だ。",
+      "latn": "watashi ha nattou ga <b>hontou ni</b> kirai da.",
+      "en": "I really hate natto.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/42fq2a9nsc.mp3"
+    }
+  ]
+}

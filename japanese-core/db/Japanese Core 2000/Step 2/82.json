@@ -1,0 +1,26 @@
+{
+  "ja": "計画",
+  "hrkt": "けいかく",
+  "latn": "keikaku",
+  "en": "plan",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02601A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は一人旅の<b>計画</b>を立てた。",
+      "hrkt": "かれ は ひとり たび の <b>けいかく</b> を たてた。",
+      "latn": "kare ha hitori tabi no <b>keikaku</b> wo tateta.",
+      "en": "He planned a journey alone.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5050726.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02601A.mp3"
+    },
+    {
+      "ja": "私たちは今年の夏休みにキャンプを<b>計画</b>しています。",
+      "hrkt": "わたし たち は ことし の なつやすみ に キャンプ を <b>けいかく</b> して います。",
+      "latn": "watashi tachi ha kotoshi no natsuyasumi ni kyanpu wo <b>keikaku</b> shite imasu.",
+      "en": "We are planning a camp during this year's summer vacation.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a38pcrbsvo.mp3"
+    }
+  ]
+}

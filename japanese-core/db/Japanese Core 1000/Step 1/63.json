@@ -1,0 +1,26 @@
+{
+  "ja": "先生",
+  "hrkt": "せんせい",
+  "latn": "sensei",
+  "en": "teacher (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW04895A.mp3",
+  "sentences": [
+    {
+      "ja": "私は日本語の<b>先生</b>になりたいです。",
+      "hrkt": "わたし は にほん ご の <b>せんせい</b> に なりたい です。",
+      "latn": "watashi ha nihon go no <b>sensei</b> ni naritai desu.",
+      "en": "I want to become a Japanese teacher.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2023524.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04895A.mp3"
+    },
+    {
+      "ja": "彼の父親は<b>先生</b>です。",
+      "hrkt": "かれ の ちちおや は <b>せんせい</b> です。",
+      "latn": "kare no chichioya ha <b>sensei</b> desu.",
+      "en": "His father is a teacher.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/182291.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00181A.mp3"
+    }
+  ]
+}

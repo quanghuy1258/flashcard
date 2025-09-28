@@ -1,0 +1,18 @@
+{
+  "ja": "四季",
+  "hrkt": "しき",
+  "latn": "shiki",
+  "en": "the four seasons",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03622A.mp3",
+  "sentences": [
+    {
+      "ja": "日本には<b>四季</b>がある。",
+      "hrkt": "にほん に は <b>しき</b> が ある。",
+      "latn": "nihon ni ha <b>shiki</b> ga aru.",
+      "en": "We have four seasons in Japan.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c5da64fqns.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03622A.mp3"
+    }
+  ]
+}

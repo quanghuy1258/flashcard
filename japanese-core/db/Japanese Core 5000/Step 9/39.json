@@ -1,0 +1,18 @@
+{
+  "ja": "経費",
+  "hrkt": "けいひ",
+  "latn": "keihi",
+  "en": "expense",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00578A.mp3",
+  "sentences": [
+    {
+      "ja": "これからは<b>経費</b>を節約しましょう。",
+      "hrkt": "これから は <b>けいひ</b> を せつやく しましょう。",
+      "latn": "korekara ha <b>keihi</b> wo setsuyaku shimashou.",
+      "en": "Let's cut back on expenses from now on.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00578A.mp3"
+    }
+  ]
+}

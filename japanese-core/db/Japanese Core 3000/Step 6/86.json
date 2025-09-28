@@ -1,0 +1,18 @@
+{
+  "ja": "乗り遅れる",
+  "hrkt": "のりおくれる",
+  "latn": "noriokureru",
+  "en": "miss (a train, bus, etc.)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03377A.mp3",
+  "sentences": [
+    {
+      "ja": "寝坊して新幹線に<b>乗り遅れた</b>よ。",
+      "hrkt": "ねぼう して しんかんせん に <b>のりおくれた</b> よ。",
+      "latn": "nebou shite shinkansen ni <b>noriokureta</b> yo.",
+      "en": "I overslept and missed the Shinkansen.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/258p2p7rfc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03377A.mp3"
+    }
+  ]
+}

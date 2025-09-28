@@ -1,0 +1,18 @@
+{
+  "ja": "駐車",
+  "hrkt": "ちゅうしゃ",
+  "latn": "chuusha",
+  "en": "parking",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01989A.mp3",
+  "sentences": [
+    {
+      "ja": "車はここに<b>駐車</b>してください。",
+      "hrkt": "くるま は ここ に <b>ちゅうしゃ</b> して ください。",
+      "latn": "kuruma ha koko ni <b>chuusha</b> shite kudasai.",
+      "en": "Please park your car here.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/51ef6m6704.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01989A.mp3"
+    }
+  ]
+}

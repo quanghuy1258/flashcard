@@ -1,0 +1,18 @@
+{
+  "ja": "冒険",
+  "hrkt": "ぼうけん",
+  "latn": "bouken",
+  "en": "adventure, venture",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01996A.mp3",
+  "sentences": [
+    {
+      "ja": "昔の子供たちは<b>冒険</b>小説をよく読みました。",
+      "hrkt": "むかし の こども たち は <b>ぼうけん</b> しょうせつ を よく よみました。",
+      "latn": "mukashi no kodomo tachi ha <b>bouken</b> shousetsu wo yoku yomimashita.",
+      "en": "Children in the old days used to read a lot of adventure novels.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01996A.mp3"
+    }
+  ]
+}

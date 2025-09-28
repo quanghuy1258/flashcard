@@ -1,0 +1,18 @@
+{
+  "ja": "部門",
+  "hrkt": "ぶもん",
+  "latn": "bumon",
+  "en": "division, category",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00010A.mp3",
+  "sentences": [
+    {
+      "ja": "あの歌手は3<b>部門</b>で賞を取ったの。",
+      "hrkt": "あの かしゅ は 3 <b>ぶもん</b> で しょう を とった の。",
+      "latn": "ano kashu ha 3 <b>bumon</b> de shou wo totta no.",
+      "en": "That singer won prizes in three categories.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00010A.mp3"
+    }
+  ]
+}

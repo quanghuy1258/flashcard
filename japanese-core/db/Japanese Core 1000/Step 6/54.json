@@ -1,0 +1,26 @@
+{
+  "ja": "良い",
+  "hrkt": "よい",
+  "latn": "yoi",
+  "en": "good (formal/written form)",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09574A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>良い</b>人です。",
+      "hrkt": "かれ は <b>よい</b> ひと です 。",
+      "latn": "kare ha <b>yoi</b> hito desu .",
+      "en": "He's a good person.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4811705.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09574A.mp3"
+    },
+    {
+      "ja": "<b>良い</b>家を選ぶのは難しい。",
+      "hrkt": "<b>よい</b> いえ を えらぶ の は むずかしい。",
+      "latn": "<b>yoi</b> ie wo erabu no ha muzukashii.",
+      "en": "It's difficult to choose a good house.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4543753.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00878A.mp3"
+    }
+  ]
+}

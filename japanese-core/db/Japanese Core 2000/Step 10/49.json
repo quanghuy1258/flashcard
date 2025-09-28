@@ -1,0 +1,26 @@
+{
+  "ja": "備える",
+  "hrkt": "そなえる",
+  "latn": "sonaeru",
+  "en": "provide for, prepare for",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05078A.mp3",
+  "sentences": [
+    {
+      "ja": "災害に<b>備えて</b>大量の水を買い込んだ。",
+      "hrkt": "さいがい に <b>そなえて</b> たいりょう の みず を かいこんだ。",
+      "latn": "saigai ni <b>sonaete</b> tairyou no mizu wo kaikonda.",
+      "en": "I bought a large quantity of water to prepare for disasters.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3260739.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05078A.mp3"
+    },
+    {
+      "ja": "弟は試験に<b>備えて</b>毎晩遅くまで勉強しています。",
+      "hrkt": "おとうと は しけん に <b>そなえて</b> まいばん おそく まで べんきょう して います。",
+      "latn": "otouto ha shiken ni <b>sonaete</b> maiban osoku made benkyou shite imasu.",
+      "en": "My younger brother has been up late studying every day to prepare for the exam.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/16a2et1ju8.mp3"
+    }
+  ]
+}

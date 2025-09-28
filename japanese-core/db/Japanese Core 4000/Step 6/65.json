@@ -1,0 +1,18 @@
+{
+  "ja": "語学",
+  "hrkt": "ごがく",
+  "latn": "gogaku",
+  "en": "language study",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01712A.mp3",
+  "sentences": [
+    {
+      "ja": "海外で<b>語学</b>の勉強をします。",
+      "hrkt": "かいがい で <b>ごがく</b> の べんきょう を します。",
+      "latn": "kaigai de <b>gogaku</b> no benkyou wo shimasu.",
+      "en": "I'm going to study a foreign language abroad.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01712A.mp3"
+    }
+  ]
+}

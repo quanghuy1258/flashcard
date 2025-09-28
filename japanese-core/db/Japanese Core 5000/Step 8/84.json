@@ -1,0 +1,18 @@
+{
+  "ja": "品質",
+  "hrkt": "ひんしつ",
+  "latn": "hinshitsu",
+  "en": "quality of goods",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00426A.mp3",
+  "sentences": [
+    {
+      "ja": "このメーカーの製品は高<b>品質</b>だわね。",
+      "hrkt": "この メーカー の せいひん は こう <b>ひんしつ</b> だ わ ね。",
+      "latn": "kono me-ka- no seihin ha kou <b>hinshitsu</b> da wa ne.",
+      "en": "This manufacturer's products are high-quality.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00426A.mp3"
+    }
+  ]
+}

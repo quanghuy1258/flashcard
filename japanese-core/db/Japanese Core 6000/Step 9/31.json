@@ -1,0 +1,18 @@
+{
+  "ja": "明朝",
+  "hrkt": "みょうちょう",
+  "latn": "myouchou",
+  "en": "tomorrow morning",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03908A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>明朝</b>10時からまた会議です。",
+      "hrkt": "<b>みょうちょう</b> 10 じ から また かいぎ です。",
+      "latn": "<b>myouchou</b> 10 ji kara mata kaigi desu.",
+      "en": "There's another meeting at ten o'clock tomorrow morning.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03908A.mp3"
+    }
+  ]
+}

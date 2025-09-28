@@ -1,0 +1,26 @@
+{
+  "ja": "湯",
+  "hrkt": "ゆ",
+  "latn": "yu",
+  "en": "hot water",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09471A.mp3",
+  "sentences": [
+    {
+      "ja": "お風呂のお<b>湯</b>が一杯です。",
+      "hrkt": "おふろ の お<b>ゆ</b> が いっぱい です。",
+      "latn": "ofuro no o<b>yu</b> ga ippai desu.",
+      "en": "The bath is filled with hot water.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4589149.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09471A.mp3?1216608468"
+    },
+    {
+      "ja": "カップラーメンにお<b>湯</b>を入れてください。",
+      "hrkt": "カップラーメン に お<b>ゆ</b> を いれて ください。",
+      "latn": "kappura-men ni o<b>yu</b> wo irete kudasai.",
+      "en": "Please pour hot water into the instant ramen.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/85chd82g8o.mp3"
+    }
+  ]
+}

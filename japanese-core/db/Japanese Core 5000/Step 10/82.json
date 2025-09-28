@@ -1,0 +1,18 @@
+{
+  "ja": "国産",
+  "hrkt": "こくさん",
+  "latn": "kokusan",
+  "en": "domestically produced (goods)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00757A.mp3",
+  "sentences": [
+    {
+      "ja": "このワインは<b>国産</b>です。",
+      "hrkt": "この ワイン は <b>こくさん</b> です。",
+      "latn": "kono wain ha <b>kokusan</b> desu.",
+      "en": "This wine is a domestic product.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00757A.mp3"
+    }
+  ]
+}

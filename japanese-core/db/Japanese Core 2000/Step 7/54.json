@@ -1,0 +1,26 @@
+{
+  "ja": "文房具",
+  "hrkt": "ぶんぼうぐ",
+  "latn": "bunbougu",
+  "en": "stationery, writing materials",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08271A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい<b>文房具</b>を買いました。",
+      "hrkt": "あたらしい <b>ぶんぼうぐ</b> を かいました。",
+      "latn": "atarashii <b>bunbougu</b> wo kaimashita.",
+      "en": "I bought some new stationery.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5190966.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08271A.mp3"
+    },
+    {
+      "ja": "<b>文房具</b>はコンビニでも買えますよ。",
+      "hrkt": "<b>ぶんぼうぐ</b> は コンビニ で も かえます よ。",
+      "latn": "<b>bunbougu</b> ha konbini de mo kaemasu yo.",
+      "en": "You can buy stationery supplies at convenience stores, too.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/95eu60fgjs.mp3"
+    }
+  ]
+}

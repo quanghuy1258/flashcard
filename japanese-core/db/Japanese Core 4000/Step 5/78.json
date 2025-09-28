@@ -1,0 +1,18 @@
+{
+  "ja": "巡る",
+  "hrkt": "めぐる",
+  "latn": "meguru",
+  "en": "make a round",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01740A.mp3",
+  "sentences": [
+    {
+      "ja": "明日から温泉を<b>巡る</b>旅に出ます。",
+      "hrkt": "あした から おんせん を <b>めぐる</b> たび に でます。",
+      "latn": "ashita kara onsen wo <b>meguru</b> tabi ni demasu.",
+      "en": "I'm going on a tour of hot springs tomorrow.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01740A.mp3"
+    }
+  ]
+}

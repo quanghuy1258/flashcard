@@ -1,0 +1,18 @@
+{
+  "ja": "総数",
+  "hrkt": "そうすう",
+  "latn": "sousuu",
+  "en": "total (number)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01906A.mp3",
+  "sentences": [
+    {
+      "ja": "参加者の<b>総数</b>は705人でした。",
+      "hrkt": "さんか しゃ の <b>そうすう</b> は 705 にん でした。",
+      "latn": "sanka sha no <b>sousuu</b> ha 705 nin deshita.",
+      "en": "The total number of participants was 705.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01906A.mp3"
+    }
+  ]
+}

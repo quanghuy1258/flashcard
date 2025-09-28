@@ -1,0 +1,26 @@
+{
+  "ja": "肘",
+  "hrkt": "ひじ",
+  "latn": "hiji",
+  "en": "elbow",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07686A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>肘</b>に怪我をした。",
+      "hrkt": "かれ は <b>ひじ</b> に けが を した。",
+      "latn": "kare ha <b>hiji</b> ni kega wo shita.",
+      "en": "He injured his elbow.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5041585.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07686A.mp3"
+    },
+    {
+      "ja": "机に<b>肘</b>を付くのは止めなさい。",
+      "hrkt": "つくえ に <b>ひじ</b> を つく の は やめなさい。",
+      "latn": "tsukue ni <b>hiji</b> wo tsuku no ha yamenasai.",
+      "en": "Don't put your elbows on the desk.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c43iedd0ec.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "週刊誌",
+  "hrkt": "しゅうかんし",
+  "latn": "shuukanshi",
+  "en": "weekly magazine",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03956A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>週刊誌</b>はゴシップばかりだ。",
+      "hrkt": "その <b>しゅうかん し</b> は ゴシップ ばかり だ。",
+      "latn": "sono <b>shuukan shi</b> ha goshippu bakari da.",
+      "en": "That weekly is full of gossip.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/112861.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03956A.mp3"
+    },
+    {
+      "ja": "この<b>週刊誌</b>を毎週買っているの。",
+      "hrkt": "この <b>しゅうかん し</b> を まいしゅう かって いる の。",
+      "latn": "kono <b>shuukan shi</b> wo maishuu katte iru no.",
+      "en": "I buy this weekly magazine every week.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/b34h1qb2qo.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02644A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "最近",
+  "hrkt": "さいきん",
+  "latn": "saikin",
+  "en": "recent, latest",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03297A.mp3",
+  "sentences": [
+    {
+      "ja": "それは<b>最近</b>話題の本ですね。",
+      "hrkt": "それ は <b>さいきん</b> わだい の ほん です ね。",
+      "latn": "sore ha <b>saikin</b> wadai no hon desu ne.",
+      "en": "That's the book that people have been talking about lately.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/811990.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03297A.mp3"
+    },
+    {
+      "ja": "<b>最近</b>、仕事がかなりハードです。",
+      "hrkt": "<b>さいきん</b>、しごと が かなり ハード です。",
+      "latn": "<b>saikin</b>,shigoto ga kanari ha-do desu.",
+      "en": "My work is pretty hard these days.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/f3f9bf93bg.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00966A.mp3"
+    }
+  ]
+}

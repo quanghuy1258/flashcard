@@ -1,0 +1,18 @@
+{
+  "ja": "食料",
+  "hrkt": "しょくりょう",
+  "latn": "shokuryou",
+  "en": "food (formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03669A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>食料</b>はこの箱に入っています。",
+      "hrkt": "<b>しょくりょう</b> は この はこ に はいって います。",
+      "latn": "<b>shokuryou</b> ha kono hako ni haitte imasu.",
+      "en": "Food supplies are in this box.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03669A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "インク",
+  "hrkt": "インク",
+  "latn": "inku",
+  "en": "ink",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00628A.mp3",
+  "sentences": [
+    {
+      "ja": "プリンターの<b>インク</b>を買った。",
+      "hrkt": "プリンター の <b>インク</b> を かった。",
+      "latn": "purinta- no <b>inku</b> wo katta.",
+      "en": "I bought some printer ink.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/84736eb884.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00628A.mp3"
+    }
+  ]
+}

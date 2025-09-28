@@ -1,0 +1,18 @@
+{
+  "ja": "神",
+  "hrkt": "かみ",
+  "latn": "kami",
+  "en": "god (plain)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01767A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>神</b>を信じている。",
+      "hrkt": "かれ は <b>かみ</b> を しんじて いる。",
+      "latn": "kare ha <b>kami</b> wo shinjite iru.",
+      "en": "He believes in God.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/44av806gpc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01767A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "引き揚げる",
+  "hrkt": "ひきあげる",
+  "latn": "hikiageru",
+  "en": "withdraw, salvage",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01069A.mp3",
+  "sentences": [
+    {
+      "ja": "沈んだ船を<b>引き揚げた</b>んだ。",
+      "hrkt": "しずんだ ふね を <b>ひきあげた</b> ん だ。",
+      "latn": "shizunda fune wo <b>hikiageta</b> n da.",
+      "en": "The sunken ship was salvaged.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01069A.mp3"
+    }
+  ]
+}

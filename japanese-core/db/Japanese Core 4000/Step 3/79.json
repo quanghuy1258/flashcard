@@ -1,0 +1,18 @@
+{
+  "ja": "爆発",
+  "hrkt": "ばくはつ",
+  "latn": "bakuhatsu",
+  "en": "explosion, eruption",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00441A.mp3",
+  "sentences": [
+    {
+      "ja": "ダイナマイトが<b>爆発</b>したんだ。",
+      "hrkt": "ダイナマイト が <b>ばくはつ</b> した ん だ。",
+      "latn": "dainamaito ga <b>bakuhatsu</b> shita n da.",
+      "en": "The dynamite exploded.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00441A.mp3"
+    }
+  ]
+}

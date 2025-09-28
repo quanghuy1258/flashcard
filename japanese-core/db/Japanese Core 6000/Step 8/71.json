@@ -1,0 +1,18 @@
+{
+  "ja": "後書き",
+  "hrkt": "あとがき",
+  "latn": "atogaki",
+  "en": "afterword",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03329A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>後書き</b>をよく読んでください。",
+      "hrkt": "<b>あとがき</b> を よく よんで ください。",
+      "latn": "<b>atogaki</b> wo yoku yonde kudasai.",
+      "en": "Please read the afterword carefully.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03329A.mp3"
+    }
+  ]
+}

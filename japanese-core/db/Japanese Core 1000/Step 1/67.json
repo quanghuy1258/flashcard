@@ -1,0 +1,26 @@
+{
+  "ja": "安い",
+  "hrkt": "やすい",
+  "latn": "yasui",
+  "en": "cheap, inexpensive",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09409A.mp3",
+  "sentences": [
+    {
+      "ja": "この服はとても<b>安かった</b>。",
+      "hrkt": "この ふく は とても <b>やすかった</b>。",
+      "latn": "kono fuku ha totemo <b>yasukatta</b>.",
+      "en": "These clothes were very cheap.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4934354.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09409A.mp3"
+    },
+    {
+      "ja": "あの店は魚が<b>安い</b>です。",
+      "hrkt": "あの みせ は さかな が <b>やすい</b> です。",
+      "latn": "ano mise ha sakana ga <b>yasui</b> desu.",
+      "en": "The fish at that store is cheap.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c2fcbuak8s.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "まず",
+  "hrkt": "まず",
+  "latn": "mazu",
+  "en": "first of all, to begin with",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08704A.mp3",
+  "sentences": [
+    {
+      "ja": "帰ったら<b>まず</b>手を洗いましょう。",
+      "hrkt": "かえったら <b>まず</b> て を あらいましょう 。",
+      "latn": "kaettara <b>mazu</b> te wo araimashou .",
+      "en": "When you get home, wash your hands first.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3318652.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08704A.mp3"
+    },
+    {
+      "ja": "考える前に<b>まず</b>やってみよう。",
+      "hrkt": "かんがえる まえ に <b>まず</b> やって みよう。",
+      "latn": "kangaeru mae ni <b>mazu</b> yatte miyou.",
+      "en": "Before you think, try.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/45dke61n1s.mp3"
+    }
+  ]
+}

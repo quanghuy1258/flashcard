@@ -1,0 +1,18 @@
+{
+  "ja": "脂",
+  "hrkt": "あぶら",
+  "latn": "abura",
+  "en": "grease, lard",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02756A.mp3",
+  "sentences": [
+    {
+      "ja": "この肉は<b>脂</b>が多い。",
+      "hrkt": "この にく は <b>あぶら</b> が おおい。",
+      "latn": "kono niku ha <b>abura</b> ga ooi.",
+      "en": "This meat is greasy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02756A.mp3"
+    }
+  ]
+}

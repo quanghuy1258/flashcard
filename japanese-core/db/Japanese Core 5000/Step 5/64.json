@@ -1,0 +1,18 @@
+{
+  "ja": "塞がる",
+  "hrkt": "ふさがる",
+  "latn": "fusagaru",
+  "en": "be closed up, be blocked",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03855A.mp3",
+  "sentences": [
+    {
+      "ja": "傷口はもう<b>塞がりました</b>。",
+      "hrkt": "きずぐち は もう <b>ふさがりました</b>。",
+      "latn": "kizuguchi ha mou <b>fusagarimashita</b>.",
+      "en": "The wound has already closed up.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03855A.mp3"
+    }
+  ]
+}

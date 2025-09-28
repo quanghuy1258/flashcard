@@ -1,0 +1,26 @@
+{
+  "ja": "ペン",
+  "hrkt": "ペン",
+  "latn": "pen",
+  "en": "pen",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08344A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ペン</b>を貸してください。",
+      "hrkt": "<b>ペン</b> を かして ください。",
+      "latn": "<b>pen</b> wo kashite kudasai.",
+      "en": "Can I borrow a pen?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3226147.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08344A.mp3"
+    },
+    {
+      "ja": "祖母からもらった<b>ペン</b>がありません。",
+      "hrkt": "そぼ から もらった <b>ペン</b> が ありません。",
+      "latn": "sobo kara moratta <b>pen</b> ga arimasen.",
+      "en": "The pen I got from my grandmother is missing.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f5aq472898.mp3"
+    }
+  ]
+}

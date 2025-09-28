@@ -1,0 +1,18 @@
+{
+  "ja": "いかにも",
+  "hrkt": "いかにも",
+  "latn": "ikanimo",
+  "en": "indeed, as if",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01123A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>いかにも</b>スポーツマンらしいですね。",
+      "hrkt": "かれ は <b>いかにも</b> スポーツマン らしい です ね。",
+      "latn": "kare ha <b>ikanimo</b> supo-tsuman rashii desu ne.",
+      "en": "He indeed looks like an athlete.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01123A.mp3"
+    }
+  ]
+}

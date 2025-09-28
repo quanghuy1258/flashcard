@@ -1,0 +1,18 @@
+{
+  "ja": "火山",
+  "hrkt": "かざん",
+  "latn": "kazan",
+  "en": "volcano",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01104A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日<b>火山</b>が爆発したの。",
+      "hrkt": "きのう <b>かざん</b> が ばくはつ した の。",
+      "latn": "kinou <b>kazan</b> ga bakuhatsu shita no.",
+      "en": "There was a volcano eruption yesterday.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01104A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "縮み",
+  "hrkt": "ちぢみ",
+  "latn": "chijimi",
+  "en": "shrinkage",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03303A.mp3",
+  "sentences": [
+    {
+      "ja": "この服の<b>縮み</b>具合はひどい。",
+      "hrkt": "この ふく の <b>ちぢみ</b> ぐあい は ひどい。",
+      "latn": "kono fuku no <b>chijimi</b> guai ha hidoi.",
+      "en": "These clothes have shrunk terribly.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03303A.mp3"
+    }
+  ]
+}

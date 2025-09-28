@@ -1,0 +1,18 @@
+{
+  "ja": "客席",
+  "hrkt": "きゃくせき",
+  "latn": "kyakuseki",
+  "en": "seat, passenger seat",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01837A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは<b>客席</b>に座ったんだ。",
+      "hrkt": "わたし たち は <b>きゃくせき</b> に すわった ん だ。",
+      "latn": "watashi tachi ha <b>kyakuseki</b> ni suwatta n da.",
+      "en": "We sat on the seats.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01837A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "下町",
+  "hrkt": "したまち",
+  "latn": "shitamachi",
+  "en": "(old) downtown",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02005A.mp3",
+  "sentences": [
+    {
+      "ja": "あの子は<b>下町</b>育ちだ。",
+      "hrkt": "あの こ は <b>したまち</b> そだち だ。",
+      "latn": "ano ko ha <b>shitamachi</b> sodachi da.",
+      "en": "That kid was raised in the downtown area.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02005A.mp3"
+    }
+  ]
+}

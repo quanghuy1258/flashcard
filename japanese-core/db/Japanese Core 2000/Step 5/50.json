@@ -1,0 +1,26 @@
+{
+  "ja": "ガソリンスタンド",
+  "hrkt": "ガソリンスタンド",
+  "latn": "gasorinsutando",
+  "en": "gas station",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01626A.mp3",
+  "sentences": [
+    {
+      "ja": "この近くに<b>ガソリンスタンド</b>はありますか。",
+      "hrkt": "この ちかく に <b>ガソリン スタンド</b> は あります か。",
+      "latn": "kono chikaku ni <b>gasorin sutando</b> ha arimasu ka.",
+      "en": "Is there a gas station nearby?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4553179.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01626A.mp3"
+    },
+    {
+      "ja": "あの<b>ガソリンスタンド</b>にはコンビニもあります。",
+      "hrkt": "あの <b>ガソリン スタンド</b> に は コンビニ も あります。",
+      "latn": "ano <b>gasorin sutando</b> ni ha konbini mo arimasu.",
+      "en": "There is also a convenience store at the gas station.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a55s84765g.mp3"
+    }
+  ]
+}

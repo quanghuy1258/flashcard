@@ -1,0 +1,18 @@
+{
+  "ja": "ウィスキー",
+  "hrkt": "ウィスキー",
+  "latn": "wisuki-",
+  "en": "whisk(e)y",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00647A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>ウィスキー</b>は強いよ。",
+      "hrkt": "この <b>ウィスキー</b> は つよい よ。",
+      "latn": "kono <b>wisuki-</b> ha tsuyoi yo.",
+      "en": "This whisky is strong.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/550548atbs.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00647A.mp3"
+    }
+  ]
+}

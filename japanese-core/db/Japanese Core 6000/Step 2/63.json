@@ -1,0 +1,18 @@
+{
+  "ja": "採算",
+  "hrkt": "さいさん",
+  "latn": "saisan",
+  "en": "profitability",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01254A.mp3",
+  "sentences": [
+    {
+      "ja": "コストがこんなに高くては<b>採算</b>が取れません。",
+      "hrkt": "コスト が こんな に たかくて は <b>さいさん</b> が とれません。",
+      "latn": "kosuto ga konna ni takakute ha <b>saisan</b> ga toremasen.",
+      "en": "With such high costs, we won't be able to make any profit.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01254A.mp3"
+    }
+  ]
+}

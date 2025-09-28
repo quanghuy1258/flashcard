@@ -1,0 +1,18 @@
+{
+  "ja": "体温",
+  "hrkt": "たいおん",
+  "latn": "taion",
+  "en": "body temperature",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02244A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝の<b>体温</b>は36度でした。",
+      "hrkt": "けさ の <b>たいおん</b> は 36 ど でした。",
+      "latn": "kesa no <b>taion</b> ha 36 do deshita.",
+      "en": "My temperature this morning was 36 degrees.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02244A.mp3"
+    }
+  ]
+}

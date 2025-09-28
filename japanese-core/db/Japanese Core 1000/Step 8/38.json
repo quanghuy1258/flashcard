@@ -1,0 +1,26 @@
+{
+  "ja": "ブラウス",
+  "hrkt": "ブラウス",
+  "latn": "burausu",
+  "en": "blouse",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08174A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は白い<b>ブラウス</b>を着ている。",
+      "hrkt": "かのじょ は しろい <b>ブラウス</b> を きて いる。",
+      "latn": "kanojo ha shiroi <b>burausu</b> wo kite iru.",
+      "en": "She's wearing a white blouse.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6012068.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08174A.mp3"
+    },
+    {
+      "ja": "<b>ブラウス</b>をクリーニングに出した。",
+      "hrkt": "<b>ブラウス</b> を クリーニング に だした。",
+      "latn": "<b>burausu</b> wo kuri-ningu ni dashita.",
+      "en": "I took my blouse to the dry cleaner.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e27l2q07fo.mp3"
+    }
+  ]
+}

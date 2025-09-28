@@ -1,0 +1,26 @@
+{
+  "ja": "アパート",
+  "hrkt": "アパート",
+  "latn": "apa-to",
+  "en": "apartment, flat",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00205A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>アパート</b>に住んでいます。",
+      "hrkt": "かれ は <b>アパート</b> に すんで います。",
+      "latn": "kare ha <b>apa-to</b> ni sunde imasu.",
+      "en": "He lives in an apartment.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4575477.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00205A.mp3"
+    },
+    {
+      "ja": "私のうちは<b>アパート</b>の二階です。",
+      "hrkt": "わたし の うち は <b>アパート</b> の に かい です。",
+      "latn": "watashi no uchi ha <b>apa-to</b> no ni kai desu.",
+      "en": "My place is on the second floor of an apartment building.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e21jfgdk04.mp3"
+    }
+  ]
+}

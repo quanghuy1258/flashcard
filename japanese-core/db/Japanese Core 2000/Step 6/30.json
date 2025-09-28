@@ -1,0 +1,26 @@
+{
+  "ja": "ラーメン",
+  "hrkt": "ラーメン",
+  "latn": "ra-men",
+  "en": "ramen (Chinese noodles)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09763A.mp3",
+  "sentences": [
+    {
+      "ja": "夕食に<b>ラーメン</b>を食べました。",
+      "hrkt": "ゆうしょく に <b>ラーメン</b> を たべました。",
+      "latn": "yuushoku ni <b>ra-men</b> wo tabemashita.",
+      "en": "I ate ramen for supper.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/891590.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09763A.mp3"
+    },
+    {
+      "ja": "私はコーンバター<b>ラーメン</b>が大好きです。",
+      "hrkt": "わたし は コーン バター <b>ラーメン</b> が だいすき です。",
+      "latn": "watashi ha ko-n bata- <b>ra-men</b> ga daisuki desu.",
+      "en": "I love corn and butter ramen.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/15dg6gc934.mp3"
+    }
+  ]
+}

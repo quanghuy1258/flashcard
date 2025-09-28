@@ -1,0 +1,18 @@
+{
+  "ja": "薄暗い",
+  "hrkt": "うすぐらい",
+  "latn": "usugurai",
+  "en": "gloomy, dim",
+  "pos": "Adjective",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02000A.mp3",
+  "sentences": [
+    {
+      "ja": "外はもう<b>薄暗く</b>なりましたよ。",
+      "hrkt": "そと は もう <b>うすぐらく</b> なりました よ。",
+      "latn": "soto ha mou <b>usuguraku</b> narimashita yo.",
+      "en": "It is already getting dark outside.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b3bhfg7hgo.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02000A.mp3"
+    }
+  ]
+}

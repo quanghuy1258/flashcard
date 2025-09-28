@@ -1,0 +1,18 @@
+{
+  "ja": "ナンバー",
+  "hrkt": "ナンバー",
+  "latn": "nanba-",
+  "en": "number (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02423A.mp3",
+  "sentences": [
+    {
+      "ja": "その車の<b>ナンバー</b>を覚えていますか。",
+      "hrkt": "その くるま の <b>ナンバー</b> を おぼえて います か。",
+      "latn": "sono kuruma no <b>nanba-</b> wo oboete imasu ka.",
+      "en": "Do you remember the car's license number?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02423A.mp3"
+    }
+  ]
+}

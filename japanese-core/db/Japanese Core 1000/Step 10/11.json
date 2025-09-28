@@ -1,0 +1,26 @@
+{
+  "ja": "通る",
+  "hrkt": "とおる",
+  "latn": "tooru",
+  "en": "pass, go through",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06353A.mp3",
+  "sentences": [
+    {
+      "ja": "毎日、この道を<b>通ります</b>。",
+      "hrkt": "まいにち、この みち を <b>とおります</b>。",
+      "latn": "mainichi,kono michi wo <b>toorimasu</b>.",
+      "en": "I take this road every day.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5019133.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06353A.mp3"
+    },
+    {
+      "ja": "この道は車がたくさん<b>通ります</b>。",
+      "hrkt": "この みち は くるま が たくさん <b>とおります</b>。",
+      "latn": "kono michi ha kuruma ga takusan <b>toorimasu</b>.",
+      "en": "Many cars pass through this road.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/149c3g237g.mp3"
+    }
+  ]
+}

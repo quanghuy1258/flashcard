@@ -1,0 +1,26 @@
+{
+  "ja": "治す",
+  "hrkt": "なおす",
+  "latn": "naosu",
+  "en": "cure (something)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06622A.mp3",
+  "sentences": [
+    {
+      "ja": "早く風邪を<b>治して</b>ください。",
+      "hrkt": "はやく かぜ を <b>なおして</b> ください。",
+      "latn": "hayaku kaze wo <b>naoshite</b> kudasai.",
+      "en": "I hope your cold gets better soon.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5211464.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06622A.mp3"
+    },
+    {
+      "ja": "母の病気を<b>治して</b>ください。",
+      "hrkt": "はは の びょうき を <b>なおして</b> ください。",
+      "latn": "haha no byouki wo <b>naoshite</b> kudasai.",
+      "en": "Please cure my mother's illness.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/04bj995dao.mp3"
+    }
+  ]
+}

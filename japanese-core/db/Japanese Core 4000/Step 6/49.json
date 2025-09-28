@@ -1,0 +1,18 @@
+{
+  "ja": "端",
+  "hrkt": "はし",
+  "latn": "hashi",
+  "en": "end, edge",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02696A.mp3",
+  "sentences": [
+    {
+      "ja": "辞書は本棚の<b>端</b>にあります。",
+      "hrkt": "じしょ は ほんだな の <b>はし</b> に あります。",
+      "latn": "jisho ha hondana no <b>hashi</b> ni arimasu.",
+      "en": "The dictionary is at the end of the bookshelf.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02696A.mp3"
+    }
+  ]
+}

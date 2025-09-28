@@ -1,0 +1,26 @@
+{
+  "ja": "サービス",
+  "hrkt": "サービス",
+  "latn": "sa-bisu",
+  "en": "service",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03282A.mp3",
+  "sentences": [
+    {
+      "ja": "この店は<b>サービス</b>がいい。",
+      "hrkt": "この みせ は <b>サービス</b> が いい。",
+      "latn": "kono mise ha <b>sa-bisu</b> ga ii.",
+      "en": "The service in this restaurant is good.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2367127.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03282A.mp3"
+    },
+    {
+      "ja": "このコーヒーは<b>サービス</b>です。",
+      "hrkt": "この コーヒー は <b>サービス</b> です。",
+      "latn": "kono ko-hi- ha <b>sa-bisu</b> desu.",
+      "en": "This coffee is complimentary.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/241a2q15tg.mp3"
+    }
+  ]
+}

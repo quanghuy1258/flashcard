@@ -1,0 +1,26 @@
+{
+  "ja": "日記",
+  "hrkt": "にっき",
+  "latn": "nikki",
+  "en": "diary",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06851A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎日、<b>日記</b>をつけています。",
+      "hrkt": "わたし は まいにち、<b>にっき</b> を つけて います。",
+      "latn": "watashi ha mainichi,<b>nikki</b> wo tsukete imasu.",
+      "en": "I keep a diary every day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2232273.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06851A.mp3"
+    },
+    {
+      "ja": "姉は毎晩<b>日記</b>を書いています。",
+      "hrkt": "あね は まいばん <b>にっき</b> を かいて います。",
+      "latn": "ane ha maiban <b>nikki</b> wo kaite imasu.",
+      "en": "My older sister writes in her diary every evening.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5409576.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08643A.mp3"
+    }
+  ]
+}

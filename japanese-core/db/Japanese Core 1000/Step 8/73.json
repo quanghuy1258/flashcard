@@ -1,0 +1,26 @@
+{
+  "ja": "昼間",
+  "hrkt": "ひるま",
+  "latn": "hiruma",
+  "en": "daytime, during the day",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07899A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>昼間</b>は仕事で忙しいです。",
+      "hrkt": "<b>ひるま</b> は しごと で いそがしい です。",
+      "latn": "<b>hiruma</b> ha shigoto de isogashii desu.",
+      "en": "I'm busy with work during the daytime.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4880577.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07899A.mp3"
+    },
+    {
+      "ja": "<b>昼間</b>は電気を消してください。",
+      "hrkt": "<b>ひるま</b> は でんき を けして ください。",
+      "latn": "<b>hiruma</b> ha denki wo keshite kudasai.",
+      "en": "Please turn the lights off during the day.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3131151.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02671A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "どうぞ",
+  "hrkt": "どうぞ",
+  "latn": "douzo",
+  "en": "please",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06282A.mp3",
+  "sentences": [
+    {
+      "ja": "こちらへ<b>どうぞ</b>。",
+      "hrkt": "こちら へ <b>どうぞ</b>。",
+      "latn": "kochira he <b>douzo</b>.",
+      "en": "This way please.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4269887.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06282A.mp3"
+    },
+    {
+      "ja": "次の方、<b>どうぞ</b>。",
+      "hrkt": "つぎ の かた、<b>どうぞ</b>。",
+      "latn": "tsugi no kata,<b>douzo</b>.",
+      "en": "Next please.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4904739.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01627A.mp3"
+    }
+  ]
+}

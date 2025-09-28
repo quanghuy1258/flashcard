@@ -1,0 +1,26 @@
+{
+  "ja": "中",
+  "hrkt": "なか",
+  "latn": "naka",
+  "en": "inside, middle",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06625A.mp3",
+  "sentences": [
+    {
+      "ja": "父は家の<b>中</b>にいます。",
+      "hrkt": "ちち は いえ の <b>なか</b> に います。",
+      "latn": "chichi ha ie no <b>naka</b> ni imasu.",
+      "en": "My father is inside the house.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5050654.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06625A.mp3"
+    },
+    {
+      "ja": "寒いので<b>中</b>に入ってください。",
+      "hrkt": "さむい ので <b>なか</b> に はいって ください。",
+      "latn": "samui node <b>naka</b> ni haitte kudasai.",
+      "en": "It's cold so please come inside.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5181313.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07208A.mp3"
+    }
+  ]
+}

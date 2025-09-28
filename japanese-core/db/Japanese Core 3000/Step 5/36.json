@@ -1,0 +1,18 @@
+{
+  "ja": "エアコン",
+  "hrkt": "エアコン",
+  "latn": "eakon",
+  "en": "air-conditioning, air conditioner",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02264A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋に<b>エアコン</b>を取り付けたんだ。",
+      "hrkt": "へや に <b>エアコン</b> を とりつけた ん だ。",
+      "latn": "heya ni <b>eakon</b> wo toritsuketa n da.",
+      "en": "I had an air conditioner installed in my room.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/95514j0eik.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02264A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "もっと",
+  "hrkt": "もっと",
+  "latn": "motto",
+  "en": "more",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09298A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>もっと</b>近くに来てください。",
+      "hrkt": "<b>もっと</b> ちかく に きて ください。",
+      "latn": "<b>motto</b> chikaku ni kite kudasai.",
+      "en": "Please come closer.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/75a46t5u88.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09298A.mp3"
+    },
+    {
+      "ja": "<b>もっと</b>ゆっくり話してください。",
+      "hrkt": "<b>もっと</b> ゆっくり はなして ください。",
+      "latn": "<b>motto</b> yukkuri hanashite kudasai.",
+      "en": "Please speak more slowly.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3106884.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09546A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "薬局",
+  "hrkt": "やっきょく",
+  "latn": "yakkyoku",
+  "en": "drugstore, pharmacy",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02589A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>薬局</b>で目薬を買いました。",
+      "hrkt": "<b>やっきょく</b> で めぐすり を かいました。",
+      "latn": "<b>yakkyoku</b> de megusuri wo kaimashita.",
+      "en": "I bought some eye drops at the drugstore.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/2lcicd70d7tus.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02589A.mp3"
+    },
+    {
+      "ja": "病院の<b>薬局</b>で薬をもらいました。",
+      "hrkt": "びょういん の <b>やっきょく</b> で くすり を もらいました。",
+      "latn": "byouin no <b>yakkyoku</b> de kusuri wo moraimashita.",
+      "en": "I got medicine at the hospital pharmacy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/36f56o3sgc.mp3"
+    }
+  ]
+}

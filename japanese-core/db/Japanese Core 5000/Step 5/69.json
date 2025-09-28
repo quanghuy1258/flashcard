@@ -1,0 +1,18 @@
+{
+  "ja": "欲張り",
+  "hrkt": "よくばり",
+  "latn": "yokubari",
+  "en": "greedy",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03947A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>欲張り</b>です。",
+      "hrkt": "かのじょ は <b>よくばり</b> です。",
+      "latn": "kanojo ha <b>yokubari</b> desu.",
+      "en": "She's greedy.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03947A.mp3"
+    }
+  ]
+}

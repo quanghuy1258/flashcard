@@ -1,0 +1,26 @@
+{
+  "ja": "転勤",
+  "hrkt": "てんきん",
+  "latn": "tenkin",
+  "en": "change of job location, relocation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01493A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大阪に<b>転勤</b>しました。",
+      "hrkt": "かれ は おおさか に <b>てんきん</b> しました。",
+      "latn": "kare ha oosaka ni <b>tenkin</b> shimashita.",
+      "en": "He was transferred to Osaka.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/1l7i9dd0iaus4.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01493A.mp3"
+    },
+    {
+      "ja": "私は来年からロンドンに<b>転勤</b>になります。",
+      "hrkt": "わたし は らいねん から ロンドン に <b>てんきん</b> に なります。",
+      "latn": "watashi ha rainen kara rondon ni <b>tenkin</b> ni narimasu.",
+      "en": "I will be relocated to London from next year.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d482a29qk0.mp3"
+    }
+  ]
+}

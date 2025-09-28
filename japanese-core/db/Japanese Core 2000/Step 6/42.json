@@ -1,0 +1,26 @@
+{
+  "ja": "掲示板",
+  "hrkt": "けいじばん",
+  "latn": "keijiban",
+  "en": "notice board, bulletin board",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02622A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>掲示板</b>のお知らせを見ましたか。",
+      "hrkt": "<b>けいじばん</b> の おしらせ を みました か。",
+      "latn": "<b>keijiban</b> no oshirase wo mimashita ka.",
+      "en": "Did you see the notice on the bulletin board?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2851902.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02622A.mp3"
+    },
+    {
+      "ja": "私は<b>掲示板</b>でアルバイトを見つけました。",
+      "hrkt": "わたし は <b>けいじばん</b> で アルバイト を みつけました。",
+      "latn": "watashi ha <b>keijiban</b> de arubaito wo mitsukemashita.",
+      "en": "I found a part-time job on the bulletin board.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/65eubiea14.mp3"
+    }
+  ]
+}

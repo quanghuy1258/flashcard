@@ -1,0 +1,26 @@
+{
+  "ja": "おばさん",
+  "hrkt": "おばさん",
+  "latn": "obasan",
+  "en": "aunt",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01175A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>おばさん</b>一家が遊びに来ました。",
+      "hrkt": "<b>おばさん</b> いっか が あそび に きました。",
+      "latn": "<b>obasan</b> ikka ga asobi ni kimashita.",
+      "en": "My aunt and her family came to visit me.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5185514.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01175A.mp3"
+    },
+    {
+      "ja": "私の<b>おばさん</b>はおばあちゃんと住んでいます。",
+      "hrkt": "わたし の <b>おばさん</b> は お ばあちゃん と すんで います。",
+      "latn": "watashi no <b>obasan</b> ha o baachan to sunde imasu.",
+      "en": "My aunt lives with my grandmother.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c33neaam90.mp3"
+    }
+  ]
+}

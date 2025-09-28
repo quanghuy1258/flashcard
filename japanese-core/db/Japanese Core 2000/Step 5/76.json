@@ -1,0 +1,26 @@
+{
+  "ja": "革",
+  "hrkt": "かわ",
+  "latn": "kawa",
+  "en": "leather",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01846A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>革</b>のベルトを買いました。",
+      "hrkt": "<b>かわ</b> の ベルト を かいました。",
+      "latn": "<b>kawa</b> no beruto wo kaimashita.",
+      "en": "I bought a leather belt.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6188575.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01846A.mp3"
+    },
+    {
+      "ja": "その<b>革</b>のジャケット、かっこいいですね。",
+      "hrkt": "その <b>かわ</b> の ジャケット、かっこいい です ね。",
+      "latn": "sono <b>kawa</b> no jaketto,kakkoii desu ne.",
+      "en": "The leather jacket is cool.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/0666a34nb4.mp3"
+    }
+  ]
+}

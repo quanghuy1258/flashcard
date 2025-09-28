@@ -1,0 +1,18 @@
+{
+  "ja": "発電所",
+  "hrkt": "はつでんしょ",
+  "latn": "hatsudensho",
+  "en": "power plant",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01656A.mp3",
+  "sentences": [
+    {
+      "ja": "すぐそこに<b>発電所</b>があります。",
+      "hrkt": "すぐ そこ に <b>はつでん しょ</b> が あります。",
+      "latn": "sugu soko ni <b>hatsuden sho</b> ga arimasu.",
+      "en": "There's a power plant near here.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01656A.mp3"
+    }
+  ]
+}

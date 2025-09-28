@@ -1,0 +1,18 @@
+{
+  "ja": "回数",
+  "hrkt": "かいすう",
+  "latn": "kaisuu",
+  "en": "frequency, number of times",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00916A.mp3",
+  "sentences": [
+    {
+      "ja": "最近はテレビを見る<b>回数</b>が減りました。",
+      "hrkt": "さいきん は テレビ を みる <b>かいすう</b> が へりました。",
+      "latn": "saikin ha terebi wo miru <b>kaisuu</b> ga herimashita.",
+      "en": "I watch TV less frequently these days.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00916A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "市民",
+  "hrkt": "しみん",
+  "latn": "shimin",
+  "en": "citizen",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03862A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>市民</b>の安全は大切だ。",
+      "hrkt": "<b>しみん</b> の あんぜん は たいせつ だ。",
+      "latn": "<b>shimin</b> no anzen ha taisetsu da.",
+      "en": "Safety of citizens is important.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4840300.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03862A.mp3"
+    },
+    {
+      "ja": "彼女はアメリカ<b>市民</b>になりました。",
+      "hrkt": "かのじょ は アメリカ <b>しみん</b> に なりました。",
+      "latn": "kanojo ha amerika <b>shimin</b> ni narimashita.",
+      "en": "She’s become an American citizen.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a40bf73fjc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "風呂場",
+  "hrkt": "ふろば",
+  "latn": "furoba",
+  "en": "bathroom",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03388A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>風呂場</b>で歯を磨きます。",
+      "hrkt": "わたし は <b>ふろば</b> で は を みがきます。",
+      "latn": "watashi ha <b>furoba</b> de ha wo migakimasu.",
+      "en": "I brush my teeth in the bathroom.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03388A.mp3"
+    }
+  ]
+}

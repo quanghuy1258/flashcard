@@ -1,0 +1,18 @@
+{
+  "ja": "門",
+  "hrkt": "もん",
+  "latn": "mon",
+  "en": "gate, entrance",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03495A.mp3",
+  "sentences": [
+    {
+      "ja": "8時に学校の<b>門</b>が開きます。",
+      "hrkt": "8 じ に がっこう の <b>もん</b> が ひらきます。",
+      "latn": "8 ji ni gakkou no <b>mon</b> ga hirakimasu.",
+      "en": "The school gate opens at eight o'clock.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03495A.mp3"
+    }
+  ]
+}

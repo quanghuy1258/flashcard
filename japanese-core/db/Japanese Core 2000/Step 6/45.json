@@ -1,0 +1,26 @@
+{
+  "ja": "スーパーマーケット",
+  "hrkt": "スーパーマーケット",
+  "latn": "su-pa-ma-ketto",
+  "en": "supermarket",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04515A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>スーパーマーケット</b>でにんじんを買った。",
+      "hrkt": "<b>スーパーマーケット</b> で にんじん を かった 。",
+      "latn": "<b>su-pa-ma-ketto</b> de ninjin wo katta .",
+      "en": "I bought carrots at the supermarket.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4553918.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04515A.mp3"
+    },
+    {
+      "ja": "この<b>スーパーマーケット</b>は10時に閉まります。",
+      "hrkt": "この <b>スーパーマーケット</b> は 10 じ に しまります。",
+      "latn": "kono <b>su-pa-ma-ketto</b> ha 10 ji ni shimarimasu.",
+      "en": "This supermarket closes at ten o'clock.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/731r4bfhag.mp3"
+    }
+  ]
+}

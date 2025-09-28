@@ -1,0 +1,26 @@
+{
+  "ja": "レモン",
+  "hrkt": "レモン",
+  "latn": "remon",
+  "en": "lemon",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09937A.mp3",
+  "sentences": [
+    {
+      "ja": "紅茶に<b>レモン</b>を入れて飲んだ。",
+      "hrkt": "こうちゃ に <b>レモン</b> を いれて のんだ。",
+      "latn": "koucha ni <b>remon</b> wo irete nonda.",
+      "en": "I put lemon in my tea and drank it.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/599802.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09937A.mp3"
+    },
+    {
+      "ja": "最後に、魚の上に<b>レモン</b>を乗せてください。",
+      "hrkt": "さいご に、さかな の うえ に <b>レモン</b> を のせて ください。",
+      "latn": "saigo ni,sakana no ue ni <b>remon</b> wo nosete kudasai.",
+      "en": "At the end, place a lemon (slice) on the fish.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d4896tc678.mp3"
+    }
+  ]
+}

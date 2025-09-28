@@ -1,0 +1,26 @@
+{
+  "ja": "眼鏡",
+  "hrkt": "めがね",
+  "latn": "megane",
+  "en": "glasses",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09178A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>眼鏡</b>をかけています。",
+      "hrkt": "かれ は <b>めがね</b> を かけて います。",
+      "latn": "kare ha <b>megane</b> wo kakete imasu.",
+      "en": "He's wearing glasses.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5617597.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09178A.mp3"
+    },
+    {
+      "ja": "私の<b>眼鏡</b>を見ませんでしたか。",
+      "hrkt": "わたし の <b>めがね</b> を みません でした か。",
+      "latn": "watashi no <b>megane</b> wo mimasen deshita ka.",
+      "en": "Have you seen my glasses?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c5dc04371g.mp3"
+    }
+  ]
+}

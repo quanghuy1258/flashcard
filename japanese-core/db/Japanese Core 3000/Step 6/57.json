@@ -1,0 +1,18 @@
+{
+  "ja": "先に",
+  "hrkt": "さきに",
+  "latn": "sakini",
+  "en": "before, ahead",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01163A.mp3",
+  "sentences": [
+    {
+      "ja": "では、私たちは<b>先に</b>出発します。",
+      "hrkt": "では、わたし たち は <b>さき に</b> しゅっぱつ します。",
+      "latn": "deha,watashi tachi ha <b>saki ni</b> shuppatsu shimasu.",
+      "en": "We will leave before you then.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01163A.mp3"
+    }
+  ]
+}

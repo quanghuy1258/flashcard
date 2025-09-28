@@ -1,0 +1,18 @@
+{
+  "ja": "バケツ",
+  "hrkt": "バケツ",
+  "latn": "baketsu",
+  "en": "bucket",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02577A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>バケツ</b>に水をくんできてください。",
+      "hrkt": "<b>バケツ</b> に みず を くんで きて ください 。",
+      "latn": "<b>baketsu</b> ni mizu wo kunde kite kudasai .",
+      "en": "Please go get some water in the bucket.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02577A.mp3"
+    }
+  ]
+}

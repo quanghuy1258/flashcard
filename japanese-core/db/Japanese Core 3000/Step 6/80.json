@@ -1,0 +1,18 @@
+{
+  "ja": "きょろきょろ",
+  "hrkt": "きょろきょろ",
+  "latn": "kyorokyoro",
+  "en": "look around",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03280A.mp3",
+  "sentences": [
+    {
+      "ja": "会場で子供が<b>きょろきょろ</b>しているわよ。",
+      "hrkt": "かいじょう で こども が <b>きょろきょろ</b> して いる わ よ。",
+      "latn": "kaijou de kodomo ga <b>kyorokyoro</b> shite iru wa yo.",
+      "en": "The child is staring about the hall.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03280A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "寒暖計",
+  "hrkt": "かんだんけい",
+  "latn": "kandankei",
+  "en": "thermometer",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03277A.mp3",
+  "sentences": [
+    {
+      "ja": "壁に<b>寒暖計</b>が掛かっていました。",
+      "hrkt": "かべ に <b>かんだんけい</b> が かかって いました。",
+      "latn": "kabe ni <b>kandankei</b> ga kakatte imashita.",
+      "en": "There was a thermometer hanging on the wall.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03277A.mp3"
+    }
+  ]
+}

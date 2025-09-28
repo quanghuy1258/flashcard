@@ -1,0 +1,26 @@
+{
+  "ja": "確認",
+  "hrkt": "かくにん",
+  "latn": "kakunin",
+  "en": "confirmation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01526A.mp3",
+  "sentences": [
+    {
+      "ja": "もう一度、予約を<b>確認</b>した。",
+      "hrkt": "もう いちど、よやく を <b>かくにん</b> した。",
+      "latn": "mou ichido,yoyaku wo <b>kakunin</b> shita.",
+      "en": "I confirmed my reservation one more time.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6000774.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01526A.mp3"
+    },
+    {
+      "ja": "ミーティングの時間を<b>確認</b>してください。",
+      "hrkt": "ミーティング の じかん を <b>かくにん</b> して ください。",
+      "latn": "mi-tingu no jikan wo <b>kakunin</b> shite kudasai.",
+      "en": "Please confirm the time of the meeting.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a12hes01k8.mp3"
+    }
+  ]
+}

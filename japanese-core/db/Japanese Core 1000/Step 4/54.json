@@ -1,0 +1,26 @@
+{
+  "ja": "夏",
+  "hrkt": "なつ",
+  "latn": "natsu",
+  "en": "summer",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06694A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>夏</b>が大好き。",
+      "hrkt": "わたし は <b>なつ</b> が だいすき。",
+      "latn": "watashi ha <b>natsu</b> ga daisuki.",
+      "en": "I love summer.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5324432.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06694A.mp3"
+    },
+    {
+      "ja": "<b>夏</b>はビールがとても美味しい。",
+      "hrkt": "<b>なつ</b> は ビール が とても おいしい。",
+      "latn": "<b>natsu</b> ha bi-ru ga totemo oishii.",
+      "en": "Beer tastes really good in summer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4501467.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07607A.mp3"
+    }
+  ]
+}

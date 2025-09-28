@@ -1,0 +1,18 @@
+{
+  "ja": "上がる",
+  "hrkt": "あがる",
+  "latn": "agaru",
+  "en": "eat, drink (honorific)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00006A.mp3",
+  "sentences": [
+    {
+      "ja": "冷めないうちにどうぞお<b>上がり</b>ください。",
+      "hrkt": "さめない うち に どうぞ お<b>あがり</b> ください。",
+      "latn": "samenai uchi ni douzo o<b>agari</b> kudasai.",
+      "en": "Please eat it while it's still hot.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00006A.mp3"
+    }
+  ]
+}

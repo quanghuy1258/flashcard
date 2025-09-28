@@ -1,0 +1,18 @@
+{
+  "ja": "洗面",
+  "hrkt": "せんめん",
+  "latn": "senmen",
+  "en": "washing one's face, washing up",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03359A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>洗面</b>用具を忘れた。",
+      "hrkt": "<b>せんめん</b> ようぐ を わすれた。",
+      "latn": "<b>senmen</b> yougu wo wasureta.",
+      "en": "I forgot my toiletries.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03359A.mp3"
+    }
+  ]
+}

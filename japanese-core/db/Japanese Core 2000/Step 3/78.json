@@ -1,0 +1,26 @@
+{
+  "ja": "丸い",
+  "hrkt": "まるい",
+  "latn": "marui",
+  "en": "round",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08807A.mp3",
+  "sentences": [
+    {
+      "ja": "地球は<b>丸い</b>。",
+      "hrkt": "ちきゅう は <b>まるい</b>。",
+      "latn": "chikyuu ha <b>marui</b>.",
+      "en": "The earth is round.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5675790.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08807A.mp3"
+    },
+    {
+      "ja": "あの子は少し顔が<b>丸く</b>なりましたね。",
+      "hrkt": "あの こ は すこし かお が <b>まるく</b> なりました ね。",
+      "latn": "ano ko ha sukoshi kao ga <b>maruku</b> narimashita ne.",
+      "en": "That child's face has become a bit round.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/930l34160c.mp3"
+    }
+  ]
+}

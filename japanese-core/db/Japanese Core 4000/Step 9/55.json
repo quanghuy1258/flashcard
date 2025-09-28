@@ -1,0 +1,18 @@
+{
+  "ja": "横断",
+  "hrkt": "おうだん",
+  "latn": "oudan",
+  "en": "crossing, traversing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01778A.mp3",
+  "sentences": [
+    {
+      "ja": "道路を<b>横断</b>するときは注意して。",
+      "hrkt": "どうろ を <b>おうだん</b> する とき は ちゅういして。",
+      "latn": "douro wo <b>oudan</b> suru toki ha chuuishite.",
+      "en": "Be careful when crossing the road.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01778A.mp3"
+    }
+  ]
+}

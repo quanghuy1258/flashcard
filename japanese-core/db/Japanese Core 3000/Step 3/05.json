@@ -1,0 +1,18 @@
+{
+  "ja": "足下",
+  "hrkt": "あしもと",
+  "latn": "ashimoto",
+  "en": "step, under foot",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03417A.mp3",
+  "sentences": [
+    {
+      "ja": "暗いので<b>足下</b>に気を付けてください。",
+      "hrkt": "くらい ので <b>あしもと</b> に きをつけて ください。",
+      "latn": "kurai node <b>ashimoto</b> ni kiwotsukete kudasai.",
+      "en": "Please watch your step in the dark.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/347rfo292s.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03417A.mp3"
+    }
+  ]
+}

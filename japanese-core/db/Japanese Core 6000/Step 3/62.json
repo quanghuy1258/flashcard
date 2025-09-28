@@ -1,0 +1,18 @@
+{
+  "ja": "滑らか",
+  "hrkt": "なめらか",
+  "latn": "nameraka",
+  "en": "smooth, glassy",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02198A.mp3",
+  "sentences": [
+    {
+      "ja": "この生地は<b>滑らか</b>な手触りが特長です。",
+      "hrkt": "この きじ は <b>なめらか</b>な てざわり が とくちょう です。",
+      "latn": "kono kiji ha <b>nameraka</b>na tezawari ga tokuchou desu.",
+      "en": "The main feature of this cloth is its smooth texture.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02198A.mp3"
+    }
+  ]
+}

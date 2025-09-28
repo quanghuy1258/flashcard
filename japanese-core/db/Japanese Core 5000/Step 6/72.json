@@ -1,0 +1,18 @@
+{
+  "ja": "男女",
+  "hrkt": "だんじょ",
+  "latn": "danjo",
+  "en": "men and women",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03716A.mp3",
+  "sentences": [
+    {
+      "ja": "そのスポーツは<b>男女</b>一緒にします。",
+      "hrkt": "その スポーツ は <b>だんじょ</b> いっしょ に します。",
+      "latn": "sono supo-tsu ha <b>danjo</b> issho ni shimasu.",
+      "en": "Men and women play that sport together.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03716A.mp3"
+    }
+  ]
+}

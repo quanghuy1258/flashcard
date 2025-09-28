@@ -1,0 +1,18 @@
+{
+  "ja": "積む",
+  "hrkt": "つむ",
+  "latn": "tsumu",
+  "en": "pile up, load",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00343A.mp3",
+  "sentences": [
+    {
+      "ja": "車に荷物を<b>積んで</b>ください。",
+      "hrkt": "くるま に にもつ を <b>つんで</b> ください。",
+      "latn": "kuruma ni nimotsu wo <b>tsunde</b> kudasai.",
+      "en": "Please load the luggage into the car.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00343A.mp3"
+    }
+  ]
+}

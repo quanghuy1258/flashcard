@@ -1,0 +1,26 @@
+{
+  "ja": "突き当たる",
+  "hrkt": "つきあたる",
+  "latn": "tsukiataru",
+  "en": "run into, come to the end (of a road)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05839A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>突き当たったら</b>右に曲がってください。",
+      "hrkt": "<b>つきあたったら</b> みぎ に まがって ください。",
+      "latn": "<b>tsukiatattara</b> migi ni magatte kudasai.",
+      "en": "Please turn right when the street ends.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4849984.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05839A.mp3"
+    },
+    {
+      "ja": "彼は今、大きな壁に<b>突き当たって</b>います。",
+      "hrkt": "かれ は いま、おおきな かべ に <b>つきあたって</b> います。",
+      "latn": "kare ha ima,ookina kabe ni <b>tsukiatatte</b> imasu.",
+      "en": "He's run into a big hurdle.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/06def37njk.mp3"
+    }
+  ]
+}

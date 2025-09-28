@@ -1,0 +1,26 @@
+{
+  "ja": "地下",
+  "hrkt": "ちか",
+  "latn": "chika",
+  "en": "underground, basement",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03720A.mp3",
+  "sentences": [
+    {
+      "ja": "スタジオは<b>地下</b>にあります。",
+      "hrkt": "スタジオ は <b>ちか</b> に あります。",
+      "latn": "sutajio ha <b>chika</b> ni arimasu.",
+      "en": "The studio is in the basement.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2158664.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03720A.mp3"
+    },
+    {
+      "ja": "私の家は<b>地下</b>にも部屋があります。",
+      "hrkt": "わたし の いえ は <b>ちか</b> に も へや が あります。",
+      "latn": "watashi no ie ha <b>chika</b> ni mo heya ga arimasu.",
+      "en": "My house has rooms in the basement, too.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/1437fsfh2o.mp3"
+    }
+  ]
+}

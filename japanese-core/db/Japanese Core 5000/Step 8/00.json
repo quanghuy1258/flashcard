@@ -1,0 +1,18 @@
+{
+  "ja": "心",
+  "hrkt": "こころ",
+  "latn": "kokoro",
+  "en": "heart, mind",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03619A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は素直な<b>心</b>を持っている。",
+      "hrkt": "かれ は すなおな <b>こころ</b> を もって いる。",
+      "latn": "kare ha sunaona <b>kokoro</b> wo motte iru.",
+      "en": "He has a good heart.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03619A.mp3"
+    }
+  ]
+}

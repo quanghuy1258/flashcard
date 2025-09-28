@@ -1,0 +1,26 @@
+{
+  "ja": "パン",
+  "hrkt": "パン",
+  "latn": "pan",
+  "en": "bread",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07520A.mp3",
+  "sentences": [
+    {
+      "ja": "朝ご飯にはいつも<b>パン</b>を食べる。",
+      "hrkt": "あさ ごはん に は いつも <b>パン</b> を たべる。",
+      "latn": "asa gohan ni ha itsumo <b>pan</b> wo taberu.",
+      "en": "I always eat bread for breakfast.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6415144.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07520A.mp3"
+    },
+    {
+      "ja": "私は<b>パン</b>よりご飯が好きだ。",
+      "hrkt": "わたし は <b>パン</b> より ごはん が すき だ。",
+      "latn": "watashi ha <b>pan</b> yori gohan ga suki da.",
+      "en": "I prefer rice to bread.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1461109.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03189A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "筆記試験",
+  "hrkt": "ひっきしけん",
+  "latn": "hikkishiken",
+  "en": "written examination",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03383A.mp3",
+  "sentences": [
+    {
+      "ja": "その会社の<b>筆記試験</b>は難しかったよ。",
+      "hrkt": "その かいしゃ の <b>ひっき しけん</b> は むずかしかった よ。",
+      "latn": "sono kaisha no <b>hikki shiken</b> ha muzukashikatta yo.",
+      "en": "That company's written examination was difficult.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03383A.mp3"
+    }
+  ]
+}

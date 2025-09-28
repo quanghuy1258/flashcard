@@ -1,0 +1,18 @@
+{
+  "ja": "防衛",
+  "hrkt": "ぼうえい",
+  "latn": "bouei",
+  "en": "defense, protection",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00567A.mp3",
+  "sentences": [
+    {
+      "ja": "チャンピオンがタイトルを<b>防衛</b>した。",
+      "hrkt": "チャンピオン が タイトル を <b>ぼうえい</b> した。",
+      "latn": "chanpion ga taitoru wo <b>bouei</b> shita.",
+      "en": "The champion defended his title.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00567A.mp3"
+    }
+  ]
+}

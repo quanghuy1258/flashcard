@@ -1,0 +1,26 @@
+{
+  "ja": "楽しむ",
+  "hrkt": "たのしむ",
+  "latn": "tanoshimu",
+  "en": "enjoy",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05424A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は一人の時間を<b>楽しみたい</b>。",
+      "hrkt": "きょう は ひとり の じかん を <b>たのしみたい</b>。",
+      "latn": "kyou ha hitori no jikan wo <b>tanoshimitai</b>.",
+      "en": "Today I want to enjoy some time to myself.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6062408.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05424A.mp3"
+    },
+    {
+      "ja": "日本の生活を<b>楽しんで</b>ください。",
+      "hrkt": "にほん の せいかつ を <b>たのしんで</b> ください。",
+      "latn": "nihon no seikatsu wo <b>tanoshinde</b> kudasai.",
+      "en": "Please enjoy your life in Japan.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/522q6qf53g.mp3"
+    }
+  ]
+}

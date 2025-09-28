@@ -1,0 +1,18 @@
+{
+  "ja": "種目",
+  "hrkt": "しゅもく",
+  "latn": "shumoku",
+  "en": "item, event",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01800A.mp3",
+  "sentences": [
+    {
+      "ja": "その選手は2<b>種目</b>でメダルを取ったわ。",
+      "hrkt": "その せんしゅ は 2 <b>しゅもく</b> で メダル を とった わ。",
+      "latn": "sono senshu ha 2 <b>shumoku</b> de medaru wo totta wa.",
+      "en": "The athlete won medals in two events.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01800A.mp3"
+    }
+  ]
+}

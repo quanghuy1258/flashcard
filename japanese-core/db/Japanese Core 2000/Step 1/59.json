@@ -1,0 +1,26 @@
+{
+  "ja": "吸う",
+  "hrkt": "すう",
+  "latn": "suu",
+  "en": "inhale, suck",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04507A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大きく息を<b>吸った</b>。",
+      "hrkt": "かれ は おおきく いき を <b>すった</b>。",
+      "latn": "kare ha ookiku iki wo <b>sutta</b>.",
+      "en": "He took a deep breath.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3464541.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04507A.mp3"
+    },
+    {
+      "ja": "彼はたばこを<b>吸いません</b>。",
+      "hrkt": "かれ は たばこ を <b>すいません</b>。",
+      "latn": "kare ha tabako wo <b>suimasen</b>.",
+      "en": "He doesn't smoke.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6213857.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05430A.mp3"
+    }
+  ]
+}

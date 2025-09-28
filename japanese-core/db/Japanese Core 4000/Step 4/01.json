@@ -1,0 +1,18 @@
+{
+  "ja": "解放",
+  "hrkt": "かいほう",
+  "latn": "kaihou",
+  "en": "release, setting free",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01113A.mp3",
+  "sentences": [
+    {
+      "ja": "人質が<b>解放</b>されてよかった。",
+      "hrkt": "ひとじち が <b>かいほう</b> されて よかった。",
+      "latn": "hitojichi ga <b>kaihou</b> sarete yokatta.",
+      "en": "I'm glad that the hostage has been released.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01113A.mp3"
+    }
+  ]
+}

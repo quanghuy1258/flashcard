@@ -1,0 +1,26 @@
+{
+  "ja": "おかず",
+  "hrkt": "おかず",
+  "latn": "okazu",
+  "en": "dishes to go with the rice",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01015A.mp3",
+  "sentences": [
+    {
+      "ja": "晩ご飯の<b>おかず</b>は何？",
+      "hrkt": "ばん ごはん の <b>おかず</b> は なに？",
+      "latn": "ban gohan no <b>okazu</b> ha nani?",
+      "en": "What are we having for dinner?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5326801.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01015A.mp3"
+    },
+    {
+      "ja": "今日のお弁当の<b>おかず</b>はハンバーグでした。",
+      "hrkt": "きょう の おべんとう の <b>おかず</b> は ハンバーグ でした。",
+      "latn": "kyou no obentou no <b>okazu</b> ha hanba-gu deshita.",
+      "en": "Today's dish to go with rice was a hamburger steak.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c56v20bjqg.mp3"
+    }
+  ]
+}

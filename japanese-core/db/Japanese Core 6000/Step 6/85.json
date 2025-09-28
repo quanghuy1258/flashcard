@@ -1,0 +1,18 @@
+{
+  "ja": "段落",
+  "hrkt": "だんらく",
+  "latn": "danraku",
+  "en": "paragraph",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01670A.mp3",
+  "sentences": [
+    {
+      "ja": "次の<b>段落</b>を読んでください。",
+      "hrkt": "つぎ の <b>だんらく</b> を よんで ください。",
+      "latn": "tsugi no <b>danraku</b> wo yonde kudasai.",
+      "en": "Please read the next paragraph.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01670A.mp3"
+    }
+  ]
+}

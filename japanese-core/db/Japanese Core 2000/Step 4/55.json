@@ -1,0 +1,26 @@
+{
+  "ja": "この間",
+  "hrkt": "このあいだ",
+  "latn": "konoaida",
+  "en": "the other day, not so long ago",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03181A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>この間</b>彼女に会った。",
+      "hrkt": "<b>このあいだ</b> かのじょ に あった。",
+      "latn": "<b>konoaida</b> kanojo ni atta.",
+      "en": "I met her the other day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5395435.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03181A.mp3"
+    },
+    {
+      "ja": "<b>この間</b>の話、覚えてますか。",
+      "hrkt": "<b>このあいだ</b> の はなし、おぼえて ます か。",
+      "latn": "<b>konoaida</b> no hanashi,oboete masu ka.",
+      "en": "Do you remember the story from the other day?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/86569k6fe4.mp3"
+    }
+  ]
+}

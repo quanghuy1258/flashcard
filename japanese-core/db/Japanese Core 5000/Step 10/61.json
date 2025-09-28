@@ -1,0 +1,18 @@
+{
+  "ja": "振動",
+  "hrkt": "しんどう",
+  "latn": "shindou",
+  "en": "vibration, oscillation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01507A.mp3",
+  "sentences": [
+    {
+      "ja": "車の<b>振動</b>で棚の荷物が落ちた。",
+      "hrkt": "くるま の <b>しんどう</b> で たな の にもつ が おちた。",
+      "latn": "kuruma no <b>shindou</b> de tana no nimotsu ga ochita.",
+      "en": "Vibration from a passing car caused things on the shelf to fall down.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01507A.mp3"
+    }
+  ]
+}

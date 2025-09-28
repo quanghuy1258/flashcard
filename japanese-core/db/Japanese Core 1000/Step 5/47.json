@@ -1,0 +1,26 @@
+{
+  "ja": "電話",
+  "hrkt": "でんわ",
+  "latn": "denwa",
+  "en": "telephone, phone call",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06190A.mp3",
+  "sentences": [
+    {
+      "ja": "あと で<b>電話</b>します。",
+      "hrkt": "あと で <b>でんわ</b> します。",
+      "latn": "ato de <b>denwa</b> shimasu.",
+      "en": "I will call you later.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3178799.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06190A.mp3?1216574220"
+    },
+    {
+      "ja": "私は毎週母に<b>電話</b>をします。",
+      "hrkt": "わたし は まいしゅう はは に <b>でんわ</b> を します。",
+      "latn": "watashi ha maishuu haha ni <b>denwa</b> wo shimasu.",
+      "en": "I call my mother every week.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5637916.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08635A.mp3"
+    }
+  ]
+}

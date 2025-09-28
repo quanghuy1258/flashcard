@@ -1,0 +1,26 @@
+{
+  "ja": "数える",
+  "hrkt": "かぞえる",
+  "latn": "kazoeru",
+  "en": "count",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01622A.mp3",
+  "sentences": [
+    {
+      "ja": "いすの数を<b>数えて</b>ください。",
+      "hrkt": "いす の かず を <b>かぞえて</b> ください。",
+      "latn": "isu no kazu wo <b>kazoete</b> kudasai.",
+      "en": "Please count the number of chairs.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5853332.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01622A.mp3"
+    },
+    {
+      "ja": "その子は指で十<b>数えました</b>。",
+      "hrkt": "その こ は ゆび で じゅう <b>かぞえました</b>。",
+      "latn": "sono ko ha yubi de juu <b>kazoemashita</b>.",
+      "en": "The child counted to ten on her fingers.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3753820.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03944A.mp3"
+    }
+  ]
+}

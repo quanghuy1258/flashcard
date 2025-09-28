@@ -1,0 +1,26 @@
+{
+  "ja": "米",
+  "hrkt": "こめ",
+  "latn": "kome",
+  "en": "rice (grain)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03208A.mp3",
+  "sentences": [
+    {
+      "ja": "日本人はお<b>米</b>が大好きです。",
+      "hrkt": "にほん じん は お<b>こめ</b> が だいすき です。",
+      "latn": "nihon jin ha o<b>kome</b> ga daisuki desu.",
+      "en": "Japanese people love rice.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5854273.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03208A.mp3"
+    },
+    {
+      "ja": "あのお寿司屋さんはいいお<b>米</b>を使っていますよ。",
+      "hrkt": "あの おすし や さん は いい お<b>こめ</b> を つかって います よ。",
+      "latn": "ano osushi ya san ha ii o<b>kome</b> wo tsukatte imasu yo.",
+      "en": "That sushi restaurant uses good rice.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/822p9ier38.mp3"
+    }
+  ]
+}

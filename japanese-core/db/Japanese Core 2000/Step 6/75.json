@@ -1,0 +1,26 @@
+{
+  "ja": "能力",
+  "hrkt": "のうりょく",
+  "latn": "nouryoku",
+  "en": "capability, capacity, ability",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07069A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>能力</b>のある社員です。",
+      "hrkt": "かれ は <b>のうりょく</b> の ある しゃいん です。",
+      "latn": "kare ha <b>nouryoku</b> no aru shain desu.",
+      "en": "He's a capable employee.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3168545.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07069A.mp3"
+    },
+    {
+      "ja": "あの人は<b>能力</b>がとても高い。",
+      "hrkt": "あの ひと は <b>のうりょく</b> が とても たかい。",
+      "latn": "ano hito ha <b>nouryoku</b> ga totemo takai.",
+      "en": "That person has very strong abilities.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b58s596g5g.mp3"
+    }
+  ]
+}

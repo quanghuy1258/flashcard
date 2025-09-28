@@ -1,0 +1,26 @@
+{
+  "ja": "調べる",
+  "hrkt": "しらべる",
+  "latn": "shiraberu",
+  "en": "investigate, check",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04330A.mp3",
+  "sentences": [
+    {
+      "ja": "この単語の意味を辞書で<b>調べましょう</b>。",
+      "hrkt": "この たんご の いみ を じしょ で <b>しらべましょう</b>。",
+      "latn": "kono tango no imi wo jisho de <b>shirabemashou</b>.",
+      "en": "Let's look up the meaning of this word in a dictionary.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3104662.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04330A.mp3"
+    },
+    {
+      "ja": "日本の社会問題をネットで<b>調べました</b>。",
+      "hrkt": "にほん の しゃかい もんだい を ネット で <b>しらべました</b>。",
+      "latn": "nihon no shakai mondai wo netto de <b>shirabemashita</b>.",
+      "en": "I looked into issues in Japanese society on the Internet.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/55crd13fjc.mp3"
+    }
+  ]
+}

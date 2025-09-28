@@ -1,0 +1,18 @@
+{
+  "ja": "土",
+  "hrkt": "つち",
+  "latn": "tsuchi",
+  "en": "soil, ground",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00736A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>土</b>を掘って木を植えました。",
+      "hrkt": "<b>つち</b> を ほって き を うえました。",
+      "latn": "<b>tsuchi</b> wo hotte ki wo uemashita.",
+      "en": "I dug up the soil and planted a tree.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00736A.mp3?1220179360"
+    }
+  ]
+}

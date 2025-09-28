@@ -1,0 +1,26 @@
+{
+  "ja": "関係",
+  "hrkt": "かんけい",
+  "latn": "kankei",
+  "en": "relation, relationship",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01893A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はその事件に<b>関係</b>がない。",
+      "hrkt": "かれ は その じけん に <b>かんけい</b> が ない。",
+      "latn": "kare ha sono jiken ni <b>kankei</b> ga nai.",
+      "en": "He has nothing to do with that incident.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1550909.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01893A.mp3"
+    },
+    {
+      "ja": "私と彼は親しい<b>関係</b>にあります。",
+      "hrkt": "わたし と かれ は したしい <b>かんけい</b> に あります。",
+      "latn": "watashi to kare ha shitashii <b>kankei</b> ni arimasu.",
+      "en": "He and I have a close relationship.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/133o69b638.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "受け付ける",
+  "hrkt": "うけつける",
+  "latn": "uketsukeru",
+  "en": "receive, accept",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00673A.mp3",
+  "sentences": [
+    {
+      "ja": "郵便物は5時まで<b>受け付けて</b>います。",
+      "hrkt": "ゆうびんぶつ は 5 じ まで <b>うけつけて</b> います。",
+      "latn": "yuubinbutsu ha 5 ji made <b>uketsukete</b> imasu.",
+      "en": "We take mails until five o'clock.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/541367.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00673A.mp3"
+    },
+    {
+      "ja": "彼の胃はもう食べ物を<b>受け付けません</b>。",
+      "hrkt": "かれ の い は もう たべもの を <b>うけつけません</b>。",
+      "latn": "kare no i ha mou tabemono wo <b>uketsukemasen</b>.",
+      "en": "His stomach cannot take food anymore (due to a medical condition).",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b5cdbla7es.mp3"
+    }
+  ]
+}

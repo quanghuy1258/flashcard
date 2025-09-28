@@ -1,0 +1,18 @@
+{
+  "ja": "飛び上がる",
+  "hrkt": "とびあがる",
+  "latn": "tobiagaru",
+  "en": "fly up, jump up",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02615A.mp3",
+  "sentences": [
+    {
+      "ja": "大きな音にびっくりして<b>飛び上がりました</b>。",
+      "hrkt": "おおきな おと に びっくり して <b>とびあがりました</b>。",
+      "latn": "ookina oto ni bikkuri shite <b>tobiagarimashita</b>.",
+      "en": "I jumped up in surprise at the loud noise.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/551h0p1d3k.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02615A.mp3"
+    }
+  ]
+}

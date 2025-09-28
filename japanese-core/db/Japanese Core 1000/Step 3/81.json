@@ -1,0 +1,26 @@
+{
+  "ja": "水曜日",
+  "hrkt": "すいようび",
+  "latn": "suiyoubi",
+  "en": "Wednesday",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04503A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>水曜日</b>はバイトがあります。",
+      "hrkt": "<b>すいようび</b> は バイト が あります。",
+      "latn": "<b>suiyoubi</b> ha baito ga arimasu.",
+      "en": "I work part time on Wednesdays.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5225339.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04503A.mp3"
+    },
+    {
+      "ja": "<b>水曜日</b>は１時半に学校が終わります。",
+      "hrkt": "<b>すいようび</b> は １ じ はん に がっこう が おわります。",
+      "latn": "<b>suiyoubi</b> ha 1 ji han ni gakkou ga owarimasu.",
+      "en": "On Wednesdays, school finishes at 1:30 p.m.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/74bg70epfg.mp3"
+    }
+  ]
+}

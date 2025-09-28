@@ -1,0 +1,18 @@
+{
+  "ja": "一見",
+  "hrkt": "いっけん",
+  "latn": "ikken",
+  "en": "at a glance",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01124A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>一見</b>サラリーマン風ですね。",
+      "hrkt": "かれ は <b>いっけん</b> サラリーマン ふう です ね。",
+      "latn": "kare ha <b>ikken</b> sarari-man fuu desu ne.",
+      "en": "He looks like a salaryman at a glance.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01124A.mp3"
+    }
+  ]
+}

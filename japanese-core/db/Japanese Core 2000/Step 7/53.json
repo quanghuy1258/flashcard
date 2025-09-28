@@ -1,0 +1,26 @@
+{
+  "ja": "日陰",
+  "hrkt": "ひかげ",
+  "latn": "hikage",
+  "en": "shade of the sun",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07617A.mp3",
+  "sentences": [
+    {
+      "ja": "暑いので<b>日陰</b>で休みましょう。",
+      "hrkt": "あつい ので <b>ひかげ</b> で やすみましょう。",
+      "latn": "atsui node <b>hikage</b> de yasumimashou.",
+      "en": "It's hot so let's take a rest in the shade of the sun.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/819741.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07617A.mp3"
+    },
+    {
+      "ja": "ライオンが<b>日陰</b>で休んでいます。",
+      "hrkt": "ライオン が <b>ひかげ</b> で やすんで います。",
+      "latn": "raion ga <b>hikage</b> de yasunde imasu.",
+      "en": "The lion is resting in the shade.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/35cq0k68g0.mp3"
+    }
+  ]
+}

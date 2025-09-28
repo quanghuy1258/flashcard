@@ -1,0 +1,26 @@
+{
+  "ja": "所有",
+  "hrkt": "しょゆう",
+  "latn": "shoyuu",
+  "en": "ownership, own",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/4l3l7n7jhaous.mp3",
+  "sentences": [
+    {
+      "ja": "彼は車を3台<b>所有</b>している。",
+      "hrkt": "かれ は くるま を 3 だい <b>しょゆう</b> して いる。",
+      "latn": "kare ha kuruma wo 3 dai <b>shoyuu</b> shite iru.",
+      "en": "He owns three cars.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/1lal0n4jrrum4.jpg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/3l8l2nak01v10.mp3"
+    },
+    {
+      "ja": "私は会社<b>所有</b>のマンションに住んでいます。",
+      "hrkt": "わたし は かいしゃ <b>しょゆう</b> の マンション に すんで います。",
+      "latn": "watashi ha kaisha <b>shoyuu</b> no manshon ni sunde imasu.",
+      "en": "I live in an apartment building owned by the company.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a4c3449al0.mp3"
+    }
+  ]
+}

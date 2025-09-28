@@ -1,0 +1,18 @@
+{
+  "ja": "メンバー",
+  "hrkt": "メンバー",
+  "latn": "menba-",
+  "en": "member",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00409A.mp3",
+  "sentences": [
+    {
+      "ja": "グループの<b>メンバー</b>は10人です。",
+      "hrkt": "グループ の <b>メンバー</b> は 10 にん です。",
+      "latn": "guru-pu no <b>menba-</b> ha 10 nin desu.",
+      "en": "There are 10 members in the group.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c33k477lss.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00409A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "遅刻",
+  "hrkt": "ちこく",
+  "latn": "chikoku",
+  "en": "tardiness, lateness",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05592A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>遅刻</b>しないでください。",
+      "hrkt": "<b>ちこく</b> しないで ください。",
+      "latn": "<b>chikoku</b> shinaide kudasai.",
+      "en": "Please don't be late.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4045293.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05592A.mp3"
+    },
+    {
+      "ja": "彼は時々<b>遅刻</b>します。",
+      "hrkt": "かれ は ときどき <b>ちこく</b> します。",
+      "latn": "kare ha tokidoki <b>chikoku</b> shimasu.",
+      "en": "He's sometimes late.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5476327.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06363A.mp3"
+    }
+  ]
+}

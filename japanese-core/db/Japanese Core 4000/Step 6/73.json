@@ -1,0 +1,18 @@
+{
+  "ja": "満ちる",
+  "hrkt": "みちる",
+  "latn": "michiru",
+  "en": "become full, wax",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01346A.mp3",
+  "sentences": [
+    {
+      "ja": "月が<b>満ちて</b>きましたね。",
+      "hrkt": "つき が <b>みちて</b> きました ね。",
+      "latn": "tsuki ga <b>michite</b> kimashita ne.",
+      "en": "The moon is waxing.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01346A.mp3"
+    }
+  ]
+}

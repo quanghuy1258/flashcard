@@ -1,0 +1,18 @@
+{
+  "ja": "乗り降り",
+  "hrkt": "のりおり",
+  "latn": "noriori",
+  "en": "getting on and off",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03046A.mp3",
+  "sentences": [
+    {
+      "ja": "この駅でたくさんの人が<b>乗り降り</b>しますね。",
+      "hrkt": "この えき で たくさん の ひと が <b>のりおり</b> します ね。",
+      "latn": "kono eki de takusan no hito ga <b>noriori</b> shimasu ne.",
+      "en": "A large number of people get on and off at this station.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b5548i8u28.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03046A.mp3"
+    }
+  ]
+}

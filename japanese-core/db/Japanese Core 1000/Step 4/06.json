@@ -1,0 +1,26 @@
+{
+  "ja": "あそこ",
+  "hrkt": "あそこ",
+  "latn": "asoko",
+  "en": "over there",
+  "pos": "Pronoun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00134A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>あそこ</b>にバス停があります。",
+      "hrkt": "<b>あそこ</b> に バス てい が あります。",
+      "latn": "<b>asoko</b> ni basu tei ga arimasu.",
+      "en": "There's a bus stop over there.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/7l3hbob399pdo.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00134A.mp3"
+    },
+    {
+      "ja": "出口は<b>あそこ</b>です。",
+      "hrkt": "でぐち は <b>あそこ</b> です。",
+      "latn": "deguchi ha <b>asoko</b> desu.",
+      "en": "The exit's over there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5626791.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06066A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "そろそろ",
+  "hrkt": "そろそろ",
+  "latn": "sorosoro",
+  "en": "soon, it's about time",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05120A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>そろそろ</b>始めましょうか。",
+      "hrkt": "<b>そろそろ</b> はじめましょう か。",
+      "latn": "<b>sorosoro</b> hajimemashou ka.",
+      "en": "It's about time to begin.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2055715.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05120A.mp3"
+    },
+    {
+      "ja": "では<b>そろそろ</b>失礼します。",
+      "hrkt": "では <b>そろそろ</b> しつれい します。",
+      "latn": "deha <b>sorosoro</b> shitsurei shimasu.",
+      "en": "Well, it's about time for me to go.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3730922.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03788A.mp3"
+    }
+  ]
+}

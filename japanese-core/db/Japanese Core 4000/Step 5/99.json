@@ -1,0 +1,18 @@
+{
+  "ja": "文書",
+  "hrkt": "ぶんしょ",
+  "latn": "bunsho",
+  "en": "document, writing",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/132p2t04hc.mp3",
+  "sentences": [
+    {
+      "ja": "今日の会議の内容は<b>文書</b>で残しておいてください。",
+      "hrkt": "きょう の かいぎ の ないよう は <b>ぶんしょ</b> で のこして おいて ください。",
+      "latn": "kyou no kaigi no naiyou ha <b>bunsho</b> de nokoshite oite kudasai.",
+      "en": "Please keep a written record of today's meeting.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/blelbnejjp3l8.mp3"
+    }
+  ]
+}

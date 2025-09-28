@@ -1,0 +1,26 @@
+{
+  "ja": "時期",
+  "hrkt": "じき",
+  "latn": "jiki",
+  "en": "time, season",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03627A.mp3",
+  "sentences": [
+    {
+      "ja": "今はあなたにとって大事な<b>時期</b>です。",
+      "hrkt": "いま は あなた にとって だいじな <b>じき</b> です。",
+      "latn": "ima ha anata nitotte daijina <b>jiki</b> desu.",
+      "en": "It's an important time for you now.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5370003.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03627A.mp3"
+    },
+    {
+      "ja": "一年のこの<b>時期</b>は雨が多いです。",
+      "hrkt": "いち ねん の この <b>じき</b> は あめ が おおい です。",
+      "latn": "ichi nen no kono <b>jiki</b> ha ame ga ooi desu.",
+      "en": "We have lots of rain at this time of year.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f44i594pcs.mp3"
+    }
+  ]
+}

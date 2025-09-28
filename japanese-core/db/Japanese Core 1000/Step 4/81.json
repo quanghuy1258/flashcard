@@ -1,0 +1,26 @@
+{
+  "ja": "自分",
+  "hrkt": "じぶん",
+  "latn": "jibun",
+  "en": "self, oneself",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03837A.mp3",
+  "sentences": [
+    {
+      "ja": "宿題は<b>自分</b>でやりなさい。",
+      "hrkt": "しゅくだい は <b>じぶん</b> で やりなさい。",
+      "latn": "shukudai ha <b>jibun</b> de yarinasai.",
+      "en": "Do your homework on your own.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5165276.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03837A.mp3"
+    },
+    {
+      "ja": "彼は<b>自分</b>が大好きだ。",
+      "hrkt": "かれ は <b>じぶん</b> が だいすき だ。",
+      "latn": "kare ha <b>jibun</b> ga daisuki da.",
+      "en": "He loves himself.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/63br6la7t8.mp3"
+    }
+  ]
+}

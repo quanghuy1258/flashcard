@@ -1,0 +1,18 @@
+{
+  "ja": "体育",
+  "hrkt": "たいいく",
+  "latn": "taiiku",
+  "en": "physical training, physical education",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01943A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>体育</b>の授業があります。",
+      "hrkt": "きょう は <b>たいいく</b> の じゅぎょう が あります。",
+      "latn": "kyou ha <b>taiiku</b> no jugyou ga arimasu.",
+      "en": "There's a PE class today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01943A.mp3"
+    }
+  ]
+}

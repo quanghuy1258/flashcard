@@ -1,0 +1,18 @@
+{
+  "ja": "雇用",
+  "hrkt": "こよう",
+  "latn": "koyou",
+  "en": "employment, hiring",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00382A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はその会社と<b>雇用</b>契約を結んだの。",
+      "hrkt": "かれ は その かいしゃ と <b>こよう</b> けいやく を むすんだ の。",
+      "latn": "kare ha sono kaisha to <b>koyou</b> keiyaku wo musunda no.",
+      "en": "He signed an employment contract with the company.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00382A.mp3"
+    }
+  ]
+}

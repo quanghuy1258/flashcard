@@ -1,0 +1,18 @@
+{
+  "ja": "パンダ",
+  "hrkt": "パンダ",
+  "latn": "panda",
+  "en": "panda",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03102A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>パンダ</b>は笹を食べます。",
+      "hrkt": "<b>パンダ</b> は ささ を たべます。",
+      "latn": "<b>panda</b> ha sasa wo tabemasu.",
+      "en": "Pandas eat bamboo grass.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03102A.mp3"
+    }
+  ]
+}

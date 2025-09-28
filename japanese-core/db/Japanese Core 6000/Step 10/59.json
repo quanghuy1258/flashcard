@@ -1,0 +1,18 @@
+{
+  "ja": "聞き手",
+  "hrkt": "ききて",
+  "latn": "kikite",
+  "en": "listener, audience",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02913A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はいつも<b>聞き手</b>にまわるね。",
+      "hrkt": "かのじょ は いつも <b>ききて</b> に まわる ね。",
+      "latn": "kanojo ha itsumo <b>kikite</b> ni mawaru ne.",
+      "en": "She's always a listener.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02913A.mp3"
+    }
+  ]
+}

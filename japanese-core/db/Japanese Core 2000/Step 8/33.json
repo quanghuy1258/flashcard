@@ -1,0 +1,26 @@
+{
+  "ja": "どんどん",
+  "hrkt": "どんどん",
+  "latn": "dondon",
+  "en": "quickly, rapidly",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00610A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は山道を<b>どんどん</b>進んでいったの。",
+      "hrkt": "かれ は やまみち を <b>どんどん</b> すすんで いった の 。",
+      "latn": "kare ha yamamichi wo <b>dondon</b> susunde itta no .",
+      "en": "He made quick progress along the mountain path.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/al1gfscvicp6g.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00610A.mp3"
+    },
+    {
+      "ja": "色々な問題が<b>どんどん</b>出てきますね。",
+      "hrkt": "いろいろな もんだい が <b>どんどん</b> でて きます ね。",
+      "latn": "iroirona mondai ga <b>dondon</b> dete kimasu ne.",
+      "en": "Various problems are emerging quickly.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e60f521o48.mp3"
+    }
+  ]
+}

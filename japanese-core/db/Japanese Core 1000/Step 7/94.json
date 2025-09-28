@@ -1,0 +1,26 @@
+{
+  "ja": "国際",
+  "hrkt": "こくさい",
+  "latn": "kokusai",
+  "en": "international",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03049A.mp3",
+  "sentences": [
+    {
+      "ja": "ここで<b>国際</b>会議が開かれます。",
+      "hrkt": "ここ で <b>こくさい</b> かいぎ が ひらかれます。",
+      "latn": "koko de <b>kokusai</b> kaigi ga hirakaremasu.",
+      "en": "An international conference is going to be held here.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5663021.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03049A.mp3"
+    },
+    {
+      "ja": "今日の授業は<b>国際</b>社会についてです。",
+      "hrkt": "きょう の じゅぎょう は <b>こくさい</b> しゃかい について です。",
+      "latn": "kyou no jugyou ha <b>kokusai</b> shakai nitsuite desu.",
+      "en": "Today's lesson is about international society.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/64b0bl7oco.mp3"
+    }
+  ]
+}

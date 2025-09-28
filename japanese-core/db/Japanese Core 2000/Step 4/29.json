@@ -1,0 +1,26 @@
+{
+  "ja": "きっと",
+  "hrkt": "きっと",
+  "latn": "kitto",
+  "en": "surely, certainly",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02118A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は<b>きっと</b>雨が降ります。",
+      "hrkt": "あした は <b>きっと</b> あめ が ふります。",
+      "latn": "ashita ha <b>kitto</b> ame ga furimasu.",
+      "en": "I'm sure it'll rain tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3145034.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02118A.mp3"
+    },
+    {
+      "ja": "おばあちゃんは<b>きっと</b>すぐに良くなりますよ。",
+      "hrkt": "おばあちゃん は <b>きっと</b> すぐ に よく なります よ。",
+      "latn": "obaachan ha <b>kitto</b> sugu ni yoku narimasu yo.",
+      "en": "Your grandmother will surely get better soon.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/847heo7kfs.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "去る",
+  "hrkt": "さる",
+  "latn": "saru",
+  "en": "go away, leave",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00302A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>去る</b>者は追わず。",
+      "hrkt": "<b>さる</b> もの は おわず。",
+      "latn": "<b>saru</b> mono ha owazu.",
+      "en": "Do not chase after one who leaves.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f5a50s67t0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00302A.mp3"
+    }
+  ]
+}

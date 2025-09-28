@@ -1,0 +1,26 @@
+{
+  "ja": "日曜日",
+  "hrkt": "にちようび",
+  "latn": "nichiyoubi",
+  "en": "Sunday",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06846A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>日曜日</b>は海に行きました。",
+      "hrkt": "<b>にちようび</b> は うみ に いきました。",
+      "latn": "<b>nichiyoubi</b> ha umi ni ikimashita.",
+      "en": "We went to the beach on Sunday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5237857.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06846A.mp3"
+    },
+    {
+      "ja": "<b>日曜日</b>は図書館に行きます。",
+      "hrkt": "<b>にちようび</b> は としょかん に いきます。",
+      "latn": "<b>nichiyoubi</b> ha toshokan ni ikimasu.",
+      "en": "I go to the library on Sundays.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3835135.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00393A.mp3"
+    }
+  ]
+}

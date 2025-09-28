@@ -1,0 +1,26 @@
+{
+  "ja": "掃除",
+  "hrkt": "そうじ",
+  "latn": "souji",
+  "en": "cleaning",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04982A.mp3",
+  "sentences": [
+    {
+      "ja": "週末は部屋の<b>掃除</b>をしました。",
+      "hrkt": "しゅうまつ は へや の <b>そうじ</b> を しました。",
+      "latn": "shuumatsu ha heya no <b>souji</b> wo shimashita.",
+      "en": "I cleaned my room on the weekend.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6419370.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04982A.mp3?1216463570"
+    },
+    {
+      "ja": "トイレを<b>掃除</b>しましたか。",
+      "hrkt": "トイレ を <b>そうじ</b> しました か。",
+      "latn": "toire wo <b>souji</b> shimashita ka.",
+      "en": "Did you clean the toilet?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6026300.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06200A.mp3"
+    }
+  ]
+}

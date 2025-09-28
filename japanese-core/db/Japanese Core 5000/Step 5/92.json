@@ -1,0 +1,18 @@
+{
+  "ja": "お坊さん",
+  "hrkt": "おぼうさん",
+  "latn": "obousan",
+  "en": "monk, priest",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03269A.mp3",
+  "sentences": [
+    {
+      "ja": "お寺から<b>お坊さん</b>が出てきましたよ。",
+      "hrkt": "おてら から <b>おぼうさん</b> が でて きました よ。",
+      "latn": "otera kara <b>obousan</b> ga dete kimashita yo.",
+      "en": "A monk came out of the temple.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03269A.mp3"
+    }
+  ]
+}

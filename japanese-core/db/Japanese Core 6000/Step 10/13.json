@@ -1,0 +1,18 @@
+{
+  "ja": "液",
+  "hrkt": "えき",
+  "latn": "eki",
+  "en": "liquid, fluid",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01360A.mp3",
+  "sentences": [
+    {
+      "ja": "容器から<b>液</b>がこぼれていますよ。",
+      "hrkt": "ようき から <b>えき</b> が こぼれて います よ。",
+      "latn": "youki kara <b>eki</b> ga koborete imasu yo.",
+      "en": "Liquid is spilling from the container.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01360A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "尊敬",
+  "hrkt": "そんけい",
+  "latn": "sonkei",
+  "en": "respect, esteem",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05127A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父は家族みんなに<b>尊敬</b>されています。",
+      "hrkt": "そふ は かぞく みんな に <b>そんけい</b> されて います。",
+      "latn": "sofu ha kazoku minna ni <b>sonkei</b> sarete imasu.",
+      "en": "My grandfather is respected by the whole family.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2298076.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05127A.mp3"
+    },
+    {
+      "ja": "あなたの<b>尊敬</b>する人は誰ですか。",
+      "hrkt": "あなた の <b>そんけい</b> する ひと は だれ です か。",
+      "latn": "anata no <b>sonkei</b> suru hito ha dare desu ka.",
+      "en": "Who is someone you respect?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/32af41duks.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "文化",
+  "hrkt": "ぶんか",
+  "latn": "bunka",
+  "en": "culture",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08233A.mp3",
+  "sentences": [
+    {
+      "ja": "私はこの国の<b>文化</b>を勉強しています。",
+      "hrkt": "わたし は この くに の <b>ぶんか</b> を べんきょう して います。",
+      "latn": "watashi ha kono kuni no <b>bunka</b> wo benkyou shite imasu.",
+      "en": "I'm studying this country's culture.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5565883.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08233A.mp3"
+    },
+    {
+      "ja": "私は日本の<b>文化</b>をもっと知りたいです。",
+      "hrkt": "わたし は にほん の <b>ぶんか</b> を もっと しりたい です。",
+      "latn": "watashi ha nihon no <b>bunka</b> wo motto shiritai desu.",
+      "en": "I want to learn more about the Japanese culture.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/34fp44b698.mp3"
+    }
+  ]
+}

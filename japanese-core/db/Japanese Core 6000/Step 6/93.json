@@ -1,0 +1,18 @@
+{
+  "ja": "読み書き",
+  "hrkt": "よみかき",
+  "latn": "yomikaki",
+  "en": "reading and writing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02435A.mp3",
+  "sentences": [
+    {
+      "ja": "息子は学校で<b>読み書き</b>を勉強しています。",
+      "hrkt": "むすこ は がっこう で <b>よみ かき</b> を べんきょう して います。",
+      "latn": "musuko ha gakkou de <b>yomi kaki</b> wo benkyou shite imasu.",
+      "en": "My son is learning reading and writing skills at school.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02435A.mp3"
+    }
+  ]
+}

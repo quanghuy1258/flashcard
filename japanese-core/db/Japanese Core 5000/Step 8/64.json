@@ -1,0 +1,18 @@
+{
+  "ja": "不明",
+  "hrkt": "ふめい",
+  "latn": "fumei",
+  "en": "unknown, unclear, unidentified",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01251A.mp3",
+  "sentences": [
+    {
+      "ja": "その病気は原因<b>不明</b>と言われているんだよ。",
+      "hrkt": "その びょうき は げんいん <b>ふめい</b> と いわれて いる ん だ よ。",
+      "latn": "sono byouki ha genin <b>fumei</b> to iwarete iru n da yo.",
+      "en": "The cause of the disease is said to be unidentified.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01251A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "遅れる",
+  "hrkt": "おくれる",
+  "latn": "okureru",
+  "en": "be late",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01046A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝彼女は学校に<b>遅れました</b>。",
+      "hrkt": "けさ かのじょ は がっこう に <b>おくれました</b>。",
+      "latn": "kesa kanojo ha gakkou ni <b>okuremashita</b>.",
+      "en": "She was late for school this morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1053373.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01046A.mp3"
+    },
+    {
+      "ja": "飛行機が1時間以上<b>遅れた</b>。",
+      "hrkt": "ひこうき が 1 じかん いじょう <b>おくれた</b>。",
+      "latn": "hikouki ga 1 jikan ijou <b>okureta</b>.",
+      "en": "The plane arrived over an hour late.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2081238.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00435A.mp3"
+    }
+  ]
+}

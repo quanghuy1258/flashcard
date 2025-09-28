@@ -1,0 +1,26 @@
+{
+  "ja": "鋏",
+  "hrkt": "はさみ",
+  "latn": "hasami",
+  "en": "scissors",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07285A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>鋏</b>はよく切れる。",
+      "hrkt": "この <b>はさみ</b> は よく きれる。",
+      "latn": "kono <b>hasami</b> ha yoku kireru.",
+      "en": "These scissors cut well.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3294977.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07285A.mp3"
+    },
+    {
+      "ja": "<b>鋏</b>は机の奥にあった。",
+      "hrkt": "<b>はさみ</b> は つくえ の おく に あった。",
+      "latn": "<b>hasami</b> ha tsukue no oku ni atta.",
+      "en": "The scissors were at the back of the desk.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3267634.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01031A.mp3"
+    }
+  ]
+}

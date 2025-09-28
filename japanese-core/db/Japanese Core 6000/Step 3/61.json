@@ -1,0 +1,18 @@
+{
+  "ja": "内陸",
+  "hrkt": "ないりく",
+  "latn": "nairiku",
+  "en": "inland",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02307A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は中国の<b>内陸</b>を旅行しました。",
+      "hrkt": "かれ は ちゅうごく の <b>ないりく</b> を りょこう しました。",
+      "latn": "kare ha chuugoku no <b>nairiku</b> wo ryokou shimashita.",
+      "en": "He traveled through inland China.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02307A.mp3"
+    }
+  ]
+}

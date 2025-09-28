@@ -1,0 +1,26 @@
+{
+  "ja": "十",
+  "hrkt": "じゅう",
+  "latn": "juu",
+  "en": "ten",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03944A.mp3",
+  "sentences": [
+    {
+      "ja": "その子は指で<b>十</b>数えました。",
+      "hrkt": "その こ は ゆび で <b>じゅう</b> かぞえました。",
+      "latn": "sono ko ha yubi de <b>juu</b> kazoemashita.",
+      "en": "The child counted to ten on her fingers.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3753820.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03944A.mp3"
+    },
+    {
+      "ja": "昨日、友達<b>十</b>人とカラオケに行きました。",
+      "hrkt": "きのう、ともだち <b>じゅう</b> にん と カラオケ に いきました。",
+      "latn": "kinou,tomodachi <b>juu</b> nin to karaoke ni ikimashita.",
+      "en": "Yesterday, I went to karaoke with ten friends.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/23dfar86og.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "平面",
+  "hrkt": "へいめん",
+  "latn": "heimen",
+  "en": "flat surface",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01471A.mp3",
+  "sentences": [
+    {
+      "ja": "このメガネをかけると<b>平面</b>が立体に見えます。",
+      "hrkt": "この メガネ を かける と <b>へいめん</b> が りったい に みえます。",
+      "latn": "kono megane wo kakeru to <b>heimen</b> ga rittai ni miemasu.",
+      "en": "Through these glasses, flat things look three-dimensional.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01471A.mp3"
+    }
+  ]
+}

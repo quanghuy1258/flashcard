@@ -1,0 +1,18 @@
+{
+  "ja": "菊",
+  "hrkt": "きく",
+  "latn": "kiku",
+  "en": "chrysanthemum",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02268A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>菊</b>の花を買ってきました。",
+      "hrkt": "<b>きく</b> の はな を かって きました。",
+      "latn": "<b>kiku</b> no hana wo katte kimashita.",
+      "en": "I bought some chrysanthemums.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02268A.mp3"
+    }
+  ]
+}

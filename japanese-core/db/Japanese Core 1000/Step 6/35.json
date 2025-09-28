@@ -1,0 +1,26 @@
+{
+  "ja": "仕舞う",
+  "hrkt": "しまう",
+  "latn": "shimau",
+  "en": "put away, put in",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03852A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は大切な書類を机に<b>仕舞った</b>。",
+      "hrkt": "かのじょ は たいせつな しょるい を つくえ に <b>しまった</b>。",
+      "latn": "kanojo ha taisetsuna shorui wo tsukue ni <b>shimatta</b>.",
+      "en": "She put the important documents in her desk.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2850887.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03852A.mp3"
+    },
+    {
+      "ja": "財布をポケットに<b>仕舞った</b>。",
+      "hrkt": "さいふ を ポケット に <b>しまった</b>。",
+      "latn": "saifu wo poketto ni <b>shimatta</b>.",
+      "en": "I put my wallet in my pocket.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6220155.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08499A.mp3"
+    }
+  ]
+}

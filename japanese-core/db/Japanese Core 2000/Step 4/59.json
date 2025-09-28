@@ -1,0 +1,26 @@
+{
+  "ja": "毛",
+  "hrkt": "け",
+  "latn": "ke",
+  "en": "hair, down",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02589A.mp3",
+  "sentences": [
+    {
+      "ja": "猫の<b>毛</b>がセーターに付いた。",
+      "hrkt": "ねこ の <b>け</b> が セーター に ついた。",
+      "latn": "neko no <b>ke</b> ga se-ta- ni tsuita.",
+      "en": "I got cat hair on my sweater.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1212869.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02589A.mp3"
+    },
+    {
+      "ja": "スープに<b>毛</b>が入っていました。",
+      "hrkt": "スープ に <b>け</b> が はいって いました。",
+      "latn": "su-pu ni <b>ke</b> ga haitte imashita.",
+      "en": "There was a hair in the soup.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/4537eraosk.mp3"
+    }
+  ]
+}

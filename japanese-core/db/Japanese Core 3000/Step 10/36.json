@@ -1,0 +1,18 @@
+{
+  "ja": "年齢",
+  "hrkt": "ねんれい",
+  "latn": "nenrei",
+  "en": "age",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00458A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の<b>年齢</b>は27です。",
+      "hrkt": "かのじょ の <b>ねんれい</b> は 27 です。",
+      "latn": "kanojo no <b>nenrei</b> ha 27 desu.",
+      "en": "She's 27 years old.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/55230l3jas.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00458A.mp3"
+    }
+  ]
+}

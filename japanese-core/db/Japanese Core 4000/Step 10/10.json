@@ -1,0 +1,18 @@
+{
+  "ja": "器具",
+  "hrkt": "きぐ",
+  "latn": "kigu",
+  "en": "equipment, instrument",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01919A.mp3",
+  "sentences": [
+    {
+      "ja": "これはスポーツ施設用の<b>器具</b>です。",
+      "hrkt": "これ は スポーツ しせつ よう の <b>きぐ</b> です。",
+      "latn": "kore ha supo-tsu shisetsu you no <b>kigu</b> desu.",
+      "en": "This equipment is for the sports facility.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01919A.mp3"
+    }
+  ]
+}

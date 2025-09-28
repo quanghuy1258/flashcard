@@ -1,0 +1,26 @@
+{
+  "ja": "映画館",
+  "hrkt": "えいがかん",
+  "latn": "eigakan",
+  "en": "movie theater",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00837A.mp3",
+  "sentences": [
+    {
+      "ja": "彼と近くの<b>映画館</b>に行きました。",
+      "hrkt": "かれ と ちかく の <b>えいがかん</b> に いきました。",
+      "latn": "kare to chikaku no <b>eigakan</b> ni ikimashita.",
+      "en": "I went to a nearby movie theater with him.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1885892.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00837A.mp3"
+    },
+    {
+      "ja": "この<b>映画館</b>のポップコーンは美味しいですよ。",
+      "hrkt": "この <b>えいがかん</b> の ポップコーン は おいしい です よ。",
+      "latn": "kono <b>eigakan</b> no poppuko-n ha oishii desu yo.",
+      "en": "The popcorn at this movie theater is good.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/639da3boug.mp3"
+    }
+  ]
+}

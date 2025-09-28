@@ -1,0 +1,18 @@
+{
+  "ja": "しゃがむ",
+  "hrkt": "しゃがむ",
+  "latn": "shagamu",
+  "en": "squat down",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02523A.mp3",
+  "sentences": [
+    {
+      "ja": "お年寄りが道端に<b>しゃがんで</b>いますね。",
+      "hrkt": "おとしより が みちばた に <b>しゃがんで</b> います ね。",
+      "latn": "otoshiyori ga michibata ni <b>shagande</b> imasu ne.",
+      "en": "An elderly person is squatting down on the side of the road.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b24id90sk4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02523A.mp3"
+    }
+  ]
+}

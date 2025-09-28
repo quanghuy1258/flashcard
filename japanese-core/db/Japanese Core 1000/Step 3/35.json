@@ -1,0 +1,26 @@
+{
+  "ja": "多分",
+  "hrkt": "たぶん",
+  "latn": "tabun",
+  "en": "probably, perhaps",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05441A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>多分</b>家で寝ています。",
+      "hrkt": "かのじょ は <b>たぶん</b> いえ で ねて います。",
+      "latn": "kanojo ha <b>tabun</b> ie de nete imasu.",
+      "en": "She's probably sleeping at home.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6633108.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05441A.mp3"
+    },
+    {
+      "ja": "彼は<b>多分</b>、来ないと思います。",
+      "hrkt": "かれ は <b>たぶん</b>、 こない と おもいます。",
+      "latn": "kare ha <b>tabun</b>, konai to omoimasu.",
+      "en": "He's probably not coming.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/364adnbq4c.mp3"
+    }
+  ]
+}

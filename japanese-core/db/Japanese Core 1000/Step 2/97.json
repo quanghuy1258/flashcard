@@ -1,0 +1,26 @@
+{
+  "ja": "親",
+  "hrkt": "おや",
+  "latn": "oya",
+  "en": "parent",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01229A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>親</b>の愛はありがたい。",
+      "hrkt": "<b>おや</b> の あい は ありがたい。",
+      "latn": "<b>oya</b> no ai ha arigatai.",
+      "en": "Parental love should be appreciated.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5677186.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01229A.mp3"
+    },
+    {
+      "ja": "彼女もそのうち、<b>親</b>の気持ちが分かるだろう。",
+      "hrkt": "かのじょ も そのうち、 <b>おや</b> の きもち が わかる だろう。",
+      "latn": "kanojo mo sonouchi, <b>oya</b> no kimochi ga wakaru darou.",
+      "en": "Sooner or later, she'll come to understand her parents' feelings.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/7480dr5vsg.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03701A.mp3"
+    }
+  ]
+}

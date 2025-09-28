@@ -1,0 +1,26 @@
+{
+  "ja": "ぶらぶら",
+  "hrkt": "ぶらぶら",
+  "latn": "burabura",
+  "en": "aimlessly, idly",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08182A.mp3",
+  "sentences": [
+    {
+      "ja": "朝、近所を<b>ぶらぶら</b>した。",
+      "hrkt": "あさ、きんじょ を <b>ぶらぶら</b> した。",
+      "latn": "asa,kinjo wo <b>burabura</b> shita.",
+      "en": "I wandered around the neighborhood aimlessly this morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5617501.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08182A.mp3"
+    },
+    {
+      "ja": "今日は公園を<b>ぶらぶら</b>散歩しました。",
+      "hrkt": "きょう は こうえん を <b>ぶらぶら</b> さんぽ しました。",
+      "latn": "kyou ha kouen wo <b>burabura</b> sanpo shimashita.",
+      "en": "I aimlessly walked (wandered) around the park today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d31ea19674.mp3"
+    }
+  ]
+}

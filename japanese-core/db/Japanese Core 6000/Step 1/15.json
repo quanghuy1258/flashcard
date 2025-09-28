@@ -1,0 +1,18 @@
+{
+  "ja": "取り扱い",
+  "hrkt": "とりあつかい",
+  "latn": "toriatsukai",
+  "en": "handling, dealing with",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01552A.mp3",
+  "sentences": [
+    {
+      "ja": "この機械は<b>取り扱い</b>に注意してください。",
+      "hrkt": "この きかい は <b>とりあつかい</b> に ちゅうい して ください。",
+      "latn": "kono kikai ha <b>toriatsukai</b> ni chuui shite kudasai.",
+      "en": "Be careful when handling this machine.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01552A.mp3"
+    }
+  ]
+}

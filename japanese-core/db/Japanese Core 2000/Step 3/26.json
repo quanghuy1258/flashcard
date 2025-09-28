@@ -1,0 +1,26 @@
+{
+  "ja": "我慢",
+  "hrkt": "がまん",
+  "latn": "gaman",
+  "en": "patience, endurance",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01765A.mp3",
+  "sentences": [
+    {
+      "ja": "彼のわがままには<b>我慢</b>できません。",
+      "hrkt": "かれ の わがまま に は <b>がまん</b> できません。",
+      "latn": "kare no wagamama ni ha <b>gaman</b> dekimasen.",
+      "en": "I can't put up with his selfishness.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2484825.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01765A.mp3"
+    },
+    {
+      "ja": "<b>我慢</b>が必要な時もあります。",
+      "hrkt": "<b>がまん</b> が ひつような とき も あります。",
+      "latn": "<b>gaman</b> ga hitsuyouna toki mo arimasu.",
+      "en": "There are times when patience is required.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a5al0ta124.mp3"
+    }
+  ]
+}

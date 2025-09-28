@@ -1,0 +1,18 @@
+{
+  "ja": "ぐるぐる",
+  "hrkt": "ぐるぐる",
+  "latn": "guruguru",
+  "en": "spinning round and round of things",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02919A.mp3",
+  "sentences": [
+    {
+      "ja": "犬が自分のしっぽを追いかけて<b>ぐるぐる</b>回っている。",
+      "hrkt": "いぬ が じぶん の しっぽ を おいかけて <b>ぐるぐる</b> まわって いる。",
+      "latn": "inu ga jibun no shippo wo oikakete <b>guruguru</b> mawatte iru.",
+      "en": "The dog is running round and round chasing its tail.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/858755b7oc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02919A.mp3"
+    }
+  ]
+}

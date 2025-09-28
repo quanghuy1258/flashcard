@@ -1,0 +1,18 @@
+{
+  "ja": "属する",
+  "hrkt": "ぞくする",
+  "latn": "zokusuru",
+  "en": "belong, be a member (of)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03700A.mp3",
+  "sentences": [
+    {
+      "ja": "私は市民オーケストラに<b>属して</b>います。",
+      "hrkt": "わたし は しみん オーケストラ に <b>ぞくして</b> います。",
+      "latn": "watashi ha shimin o-kesutora ni <b>zokushite</b> imasu.",
+      "en": "I'm a member of the civic orchestra.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03700A.mp3"
+    }
+  ]
+}

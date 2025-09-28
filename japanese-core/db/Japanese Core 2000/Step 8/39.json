@@ -1,0 +1,26 @@
+{
+  "ja": "セロテープ",
+  "hrkt": "セロテープ",
+  "latn": "serote-pu",
+  "en": "scotch tape",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04846A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>セロテープ</b>はありますか。",
+      "hrkt": "<b>セロテープ</b> は あります か。",
+      "latn": "<b>serote-pu</b> ha arimasu ka.",
+      "en": "Do you have any scotch tape?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5049549.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04846A.mp3"
+    },
+    {
+      "ja": "この<b>セロテープ</b>はすぐに取れます。",
+      "hrkt": "この <b>セロテープ</b> は すぐ に とれます。",
+      "latn": "kono <b>serote-pu</b> ha sugu ni toremasu.",
+      "en": "This scotch tape easily comes off.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/46b25dbrfo.mp3"
+    }
+  ]
+}

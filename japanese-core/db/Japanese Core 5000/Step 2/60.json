@@ -1,0 +1,18 @@
+{
+  "ja": "祖先",
+  "hrkt": "そせん",
+  "latn": "sosen",
+  "en": "ancestor",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02156A.mp3",
+  "sentences": [
+    {
+      "ja": "犬も猫も<b>祖先</b>は同じ動物らしいよ。",
+      "hrkt": "いぬ も ねこ も <b>そせん</b> は おなじ どうぶつ らしい よ。",
+      "latn": "inu mo neko mo <b>sosen</b> ha onaji doubutsu rashii yo.",
+      "en": "I hear that the ancestor of dogs and cats is the same animal.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02156A.mp3"
+    }
+  ]
+}

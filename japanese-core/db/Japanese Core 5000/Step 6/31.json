@@ -1,0 +1,18 @@
+{
+  "ja": "罰する",
+  "hrkt": "ばっする",
+  "latn": "bassuru",
+  "en": "punish, penalize",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03380A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は違法駐車で<b>罰せられた</b>んだ。",
+      "hrkt": "かれ は いほう ちゅうしゃ で <b>ばっせられた</b> ん だ。",
+      "latn": "kare ha ihou chuusha de <b>basserareta</b> n da.",
+      "en": "He was penalized for illegal parking.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03380A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "やっぱり",
+  "hrkt": "やっぱり",
+  "latn": "yappari",
+  "en": "just as I thought, after all",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09427A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>やっぱり</b>旅が大好きだ。",
+      "hrkt": "<b>やっぱり</b> たび が だいすき だ。",
+      "latn": "<b>yappari</b> tabi ga daisuki da.",
+      "en": "I just love to travel.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6192683.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09427A.mp3"
+    },
+    {
+      "ja": "<b>やっぱり</b>彼は来ませんでした。",
+      "hrkt": "<b>やっぱり</b> かれ は きません でした。",
+      "latn": "<b>yappari</b> kare ha kimasen deshita.",
+      "en": "He didn't come after all.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/25ak140efc.mp3"
+    }
+  ]
+}

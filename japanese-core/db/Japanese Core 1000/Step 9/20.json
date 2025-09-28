@@ -1,0 +1,26 @@
+{
+  "ja": "通う",
+  "hrkt": "かよう",
+  "latn": "kayou",
+  "en": "go to and from, frequent a place",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01790A.mp3",
+  "sentences": [
+    {
+      "ja": "私はジムに<b>通って</b>います。",
+      "hrkt": "わたし は ジム に <b>かよって</b> います。",
+      "latn": "watashi ha jimu ni <b>kayotte</b> imasu.",
+      "en": "I go to a gym.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3547127.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01790A.mp3"
+    },
+    {
+      "ja": "妹は高校に<b>通って</b>います。",
+      "hrkt": "いもうと は こうこう に <b>かよって</b> います。",
+      "latn": "imouto ha koukou ni <b>kayotte</b> imasu.",
+      "en": "My little sister goes to high school.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4564058.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02902A.mp3"
+    }
+  ]
+}

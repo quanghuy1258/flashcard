@@ -1,0 +1,18 @@
+{
+  "ja": "取り次ぐ",
+  "hrkt": "とりつぐ",
+  "latn": "toritsugu",
+  "en": "transfer a call",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03237A.mp3",
+  "sentences": [
+    {
+      "ja": "電話があったら<b>取り次いで</b>ください。",
+      "hrkt": "でんわ が あったら <b>とりついで</b> ください。",
+      "latn": "denwa ga attara <b>toritsuide</b> kudasai.",
+      "en": "When you get a call, please transfer it to me.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03237A.mp3"
+    }
+  ]
+}

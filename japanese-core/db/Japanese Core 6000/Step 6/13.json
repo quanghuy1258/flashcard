@@ -1,0 +1,18 @@
+{
+  "ja": "一員",
+  "hrkt": "いちいん",
+  "latn": "ichiin",
+  "en": "member, part of an organization, group, etc.",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01416A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は野球部の<b>一員</b>です。",
+      "hrkt": "かれ は やきゅう ぶ の <b>いちいん</b> です。",
+      "latn": "kare ha yakyuu bu no <b>ichiin</b> desu.",
+      "en": "He's a part of the baseball club.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01416A.mp3"
+    }
+  ]
+}

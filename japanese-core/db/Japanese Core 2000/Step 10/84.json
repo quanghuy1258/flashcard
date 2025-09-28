@@ -1,0 +1,26 @@
+{
+  "ja": "文句",
+  "hrkt": "もんく",
+  "latn": "monku",
+  "en": "complaint, grumble",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01556A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はいつも<b>文句</b>ばかり言う。",
+      "hrkt": "かのじょ は いつも <b>もんく</b> ばかり いう。",
+      "latn": "kanojo ha itsumo <b>monku</b> bakari iu.",
+      "en": "She does nothing but complain.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3880718.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01556A.mp3"
+    },
+    {
+      "ja": "宿題が多くて、生徒が<b>文句</b>を言っています。",
+      "hrkt": "しゅくだい が おおくて、せいと が <b>もんく</b> を いって います。",
+      "latn": "shukudai ga ookute,seito ga <b>monku</b> wo itte imasu.",
+      "en": "Students are complaining because they get a lot of homework.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/338dba0ps0.mp3"
+    }
+  ]
+}

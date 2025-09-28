@@ -1,0 +1,18 @@
+{
+  "ja": "街角",
+  "hrkt": "まちかど",
+  "latn": "machikado",
+  "en": "street corner",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03172A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>街角</b>にカフェがありました。",
+      "hrkt": "<b>まちかど</b> に カフェ が ありました 。",
+      "latn": "<b>machikado</b> ni kafe ga arimashita .",
+      "en": "There was a cafe on the street corner.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03172A.mp3"
+    }
+  ]
+}

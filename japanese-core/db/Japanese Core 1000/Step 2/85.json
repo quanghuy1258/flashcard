@@ -1,0 +1,26 @@
+{
+  "ja": "お医者さん",
+  "hrkt": "おいしゃさん",
+  "latn": "oishasan",
+  "en": "doctor (polite)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00928A.mp3",
+  "sentences": [
+    {
+      "ja": "熱があるので<b>お医者さん</b>に行った。",
+      "hrkt": "ねつ が ある ので <b>おいしゃさん</b> に いった。",
+      "latn": "netsu ga aru node <b>oishasan</b> ni itta.",
+      "en": "I went to the doctor because I had a fever.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6286614.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00928A.mp3"
+    },
+    {
+      "ja": "私はこれから<b>お医者さん</b>に行きます。",
+      "hrkt": "わたし は これから <b>おいしゃさん</b> に いきます。",
+      "latn": "watashi ha korekara <b>oishasan</b> ni ikimasu.",
+      "en": "I'm going to a doctor now.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/74e51dc9q0.mp3"
+    }
+  ]
+}

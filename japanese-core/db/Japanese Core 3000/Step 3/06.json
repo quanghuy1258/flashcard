@@ -1,0 +1,18 @@
+{
+  "ja": "うさぎ",
+  "hrkt": "うさぎ",
+  "latn": "usagi",
+  "en": "rabbit, hare",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01853A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>うさぎ</b>とかめの話を知っていますか。",
+      "hrkt": "<b>うさぎ</b> と かめ の はなし を しって います か。",
+      "latn": "<b>usagi</b> to kame no hanashi wo shitte imasu ka.",
+      "en": "Do you know the story of the tortoise and the hare?",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e51b8g2sk4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01853A.mp3"
+    }
+  ]
+}

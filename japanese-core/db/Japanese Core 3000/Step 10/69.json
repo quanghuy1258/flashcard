@@ -1,0 +1,18 @@
+{
+  "ja": "スタイル",
+  "hrkt": "スタイル",
+  "latn": "sutairu",
+  "en": "style, physique",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01365A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はモデルのように<b>スタイル</b>がいいね。",
+      "hrkt": "かのじょ は モデル の ように <b>スタイル</b> が いい ね。",
+      "latn": "kanojo ha moderu no youni <b>sutairu</b> ga ii ne.",
+      "en": "With her good  physique, she looks like a model.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/31ba92ehm0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01365A.mp3"
+    }
+  ]
+}

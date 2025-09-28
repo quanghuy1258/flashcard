@@ -1,0 +1,18 @@
+{
+  "ja": "表紙",
+  "hrkt": "ひょうし",
+  "latn": "hyoushi",
+  "en": "cover (of a book, etc.)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01867A.mp3",
+  "sentences": [
+    {
+      "ja": "その人気アイドルが今月の<b>表紙</b>だよ。",
+      "hrkt": "その にんき アイドル が こんげつ の <b>ひょうし</b> だ よ。",
+      "latn": "sono ninki aidoru ga kongetsu no <b>hyoushi</b> da yo.",
+      "en": "The popular star is on the cover this month.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01867A.mp3"
+    }
+  ]
+}

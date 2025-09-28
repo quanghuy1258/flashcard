@@ -1,0 +1,26 @@
+{
+  "ja": "右手",
+  "hrkt": "みぎて",
+  "latn": "migite",
+  "en": "right hand, the right hand side",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08871A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>右手</b>で字を書きます。",
+      "hrkt": "わたし は <b>みぎて</b> で じ を かきます。",
+      "latn": "watashi ha <b>migite</b> de ji wo kakimasu.",
+      "en": "I write right-handed.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5443024.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08871A.mp3"
+    },
+    {
+      "ja": "彼は<b>右手</b>でボールを取りました。",
+      "hrkt": "かれ は <b>みぎて</b> で ボール を とりました。",
+      "latn": "kare ha <b>migite</b> de bo-ru wo torimashita.",
+      "en": "He caught the ball with his right hand.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/731e9ne35o.mp3"
+    }
+  ]
+}

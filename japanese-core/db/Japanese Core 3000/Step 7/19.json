@@ -1,0 +1,18 @@
+{
+  "ja": "白菜",
+  "hrkt": "はくさい",
+  "latn": "hakusai",
+  "en": "Chinese cabbage",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02659A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>白菜</b>の漬物が好きです。",
+      "hrkt": "かのじょ は <b>はくさい</b> の つけもの が すき です。",
+      "latn": "kanojo ha <b>hakusai</b> no tsukemono ga suki desu.",
+      "en": "She likes pickled nappa cabbage.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/533g1qbd74.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02659A.mp3"
+    }
+  ]
+}

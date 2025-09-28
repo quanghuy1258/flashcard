@@ -1,0 +1,26 @@
+{
+  "ja": "言い方",
+  "hrkt": "いいかた",
+  "latn": "iikata",
+  "en": "way of speaking, expression",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00344A.mp3",
+  "sentences": [
+    {
+      "ja": "そんな<b>言い方</b>をしてはいけません。",
+      "hrkt": "そんな <b>いいかた</b> を して は いけません。",
+      "latn": "sonna <b>iikata</b> wo shite ha ikemasen.",
+      "en": "Don't you ever talk like that.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4085123.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00344A.mp3"
+    },
+    {
+      "ja": "もっと<b>言い方</b>に気を付けてください。",
+      "hrkt": "もっと <b>いいかた</b> に き を つけて ください。",
+      "latn": "motto <b>iikata</b> ni ki wo tsukete kudasai.",
+      "en": "Please be careful about how you say things.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c4f109afao.mp3"
+    }
+  ]
+}

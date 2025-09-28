@@ -1,0 +1,18 @@
+{
+  "ja": "空ける",
+  "hrkt": "あける",
+  "latn": "akeru",
+  "en": "vacate, clear out",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02755A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はお年寄りのために席を<b>空けた</b>んだ。",
+      "hrkt": "かのじょ は おとしより の ため に せき を <b>あけた</b> ん だ。",
+      "latn": "kanojo ha otoshiyori no tame ni seki wo <b>aketa</b> n da.",
+      "en": "She gave up her seat to an elderly person.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02755A.mp3"
+    }
+  ]
+}

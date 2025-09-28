@@ -1,0 +1,26 @@
+{
+  "ja": "十分",
+  "hrkt": "じゅうぶん",
+  "latn": "juubun",
+  "en": "enough, plentiful",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04012A.mp3",
+  "sentences": [
+    {
+      "ja": "お金はまだ<b>十分</b>あります。",
+      "hrkt": "おかね は まだ <b>じゅうぶん</b> あります。",
+      "latn": "okane ha mada <b>juubun</b> arimasu.",
+      "en": "We still have plenty of money.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1352785.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04012A.mp3"
+    },
+    {
+      "ja": "ディズニーランドは大人でも<b>十分</b>楽しめます。",
+      "hrkt": "ディズニーランド は おとな で も <b>じゅうぶん</b> たのしめます。",
+      "latn": "dizuni-rando ha otona de mo <b>juubun</b> tanoshimemasu.",
+      "en": "Even adults can fully enjoy Disney Land.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/240d3nbsek.mp3"
+    }
+  ]
+}

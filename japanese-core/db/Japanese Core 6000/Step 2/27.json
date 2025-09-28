@@ -1,0 +1,18 @@
+{
+  "ja": "結晶",
+  "hrkt": "けっしょう",
+  "latn": "kesshou",
+  "en": "crystal",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00917A.mp3",
+  "sentences": [
+    {
+      "ja": "雪の<b>結晶</b>にはいろいろな形があります。",
+      "hrkt": "ゆき の <b>けっしょう</b> に は いろいろな かたち が あります。",
+      "latn": "yuki no <b>kesshou</b> ni ha iroirona katachi ga arimasu.",
+      "en": "Snow crystals come in a variety of shapes.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00917A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "高校",
+  "hrkt": "こうこう",
+  "latn": "koukou",
+  "en": "high school (for short)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02902A.mp3",
+  "sentences": [
+    {
+      "ja": "妹は<b>高校</b>に通っています。",
+      "hrkt": "いもうと は <b>こうこう</b> に かよって います。",
+      "latn": "imouto ha <b>koukou</b> ni kayotte imasu.",
+      "en": "My little sister goes to high school.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4564058.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02902A.mp3"
+    },
+    {
+      "ja": "彼は<b>高校</b>教師だ。",
+      "hrkt": "かれ は <b>こうこう</b> きょうし だ。",
+      "latn": "kare ha <b>koukou</b> kyoushi da.",
+      "en": "He's a high school teacher.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3909160.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02256A.mp3"
+    }
+  ]
+}

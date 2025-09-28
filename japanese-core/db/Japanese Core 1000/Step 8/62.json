@@ -1,0 +1,26 @@
+{
+  "ja": "ランチ",
+  "hrkt": "ランチ",
+  "latn": "ranchi",
+  "en": "lunch (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09786A.mp3",
+  "sentences": [
+    {
+      "ja": "一緒に<b>ランチ</b>に行きませんか。",
+      "hrkt": "いっしょ に <b>ランチ</b> に いきません か。",
+      "latn": "issho ni <b>ranchi</b> ni ikimasen ka.",
+      "en": "Do you want to go to lunch with us?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3218712.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09786A.mp3"
+    },
+    {
+      "ja": "友達が<b>ランチ</b>をごちそうしてくれた。",
+      "hrkt": "ともだち が <b>ランチ</b> を ごちそう して くれた。",
+      "latn": "tomodachi ga <b>ranchi</b> wo gochisou shite kureta.",
+      "en": "My friend treated me to lunch.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f34rbvc0f4.mp3"
+    }
+  ]
+}

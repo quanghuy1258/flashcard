@@ -1,0 +1,18 @@
+{
+  "ja": "占める",
+  "hrkt": "しめる",
+  "latn": "shimeru",
+  "en": "occupy, hold",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03878A.mp3",
+  "sentences": [
+    {
+      "ja": "私に届くメールのうち、迷惑メールが7割を<b>占めて</b>いる。",
+      "hrkt": "わたし に とどく メール の うち、めいわく メール が 7 わり を <b>しめて</b> いる。",
+      "latn": "watashi ni todoku me-ru no uchi,meiwaku me-ru ga 7 wari wo <b>shimete</b> iru.",
+      "en": "About 70 percent of emails sent to me are junk mail.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03878A.mp3"
+    }
+  ]
+}

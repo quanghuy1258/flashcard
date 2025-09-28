@@ -1,0 +1,26 @@
+{
+  "ja": "息子",
+  "hrkt": "むすこ",
+  "latn": "musuko",
+  "en": "son",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09090A.mp3",
+  "sentences": [
+    {
+      "ja": "うちの<b>息子</b>は大学1年生です。",
+      "hrkt": "うち の <b>むすこ</b> は だいがく 1 ねんせい です。",
+      "latn": "uchi no <b>musuko</b> ha daigaku 1 nensei desu.",
+      "en": "My son's a college freshman.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5882583.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09090A.mp3"
+    },
+    {
+      "ja": "<b>息子</b>は中学生です。",
+      "hrkt": "<b>むすこ</b> は ちゅうがくせい です。",
+      "latn": "<b>musuko</b> ha chuugakusei desu.",
+      "en": "My son is a junior high school student.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4699615.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05650A.mp3"
+    }
+  ]
+}

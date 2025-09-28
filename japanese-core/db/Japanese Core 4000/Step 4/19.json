@@ -1,0 +1,18 @@
+{
+  "ja": "直前",
+  "hrkt": "ちょくぜん",
+  "latn": "chokuzen",
+  "en": "just before, immediately prior",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00476A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は旅行の<b>直前</b>に熱が出たの。",
+      "hrkt": "かれ は りょこう の <b>ちょくぜん</b> に ねつ が でた の。",
+      "latn": "kare ha ryokou no <b>chokuzen</b> ni netsu ga deta no.",
+      "en": "He got a fever just before going on a trip.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00476A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "偏見",
+  "hrkt": "へんけん",
+  "latn": "henken",
+  "en": "prejudice, bias",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02431A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は世の中の<b>偏見</b>と戦ったんだ。",
+      "hrkt": "かれ は よのなか の <b>へんけん</b> と たたかった ん だ。",
+      "latn": "kare ha yononaka no <b>henken</b> to tatakatta n da.",
+      "en": "He fought against prejudice in the world.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02431A.mp3"
+    }
+  ]
+}

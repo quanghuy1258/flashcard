@@ -1,0 +1,26 @@
+{
+  "ja": "得意",
+  "hrkt": "とくい",
+  "latn": "tokui",
+  "en": "one's specialty, be good at",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06375A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は歌が<b>得意</b>です。",
+      "hrkt": "かれ は うた が <b>とくい</b> です。",
+      "latn": "kare ha uta ga <b>tokui</b> desu.",
+      "en": "He's good at singing.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5676017.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06375A.mp3"
+    },
+    {
+      "ja": "彼女はギターが<b>得意</b>です。",
+      "hrkt": "かのじょ は ギター が <b>とくい</b> です。",
+      "latn": "kanojo ha gita- ga <b>tokui</b> desu.",
+      "en": "She's good at the guitar.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6115531.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02090A.mp3"
+    }
+  ]
+}

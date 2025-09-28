@@ -1,0 +1,26 @@
+{
+  "ja": "春",
+  "hrkt": "はる",
+  "latn": "haru",
+  "en": "spring",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07500A.mp3",
+  "sentences": [
+    {
+      "ja": "今年の<b>春</b>は暖かいね。",
+      "hrkt": "ことし の <b>はる</b> は あたたかい ね。",
+      "latn": "kotoshi no <b>haru</b> ha atatakai ne.",
+      "en": "It's warm this spring, don't you think?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6234388.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07500A.mp3"
+    },
+    {
+      "ja": "私の一番好きな季節は<b>春</b>です。",
+      "hrkt": "わたし の いちばん すきな きせつ は <b>はる</b> です。",
+      "latn": "watashi no ichiban sukina kisetsu ha <b>haru</b> desu.",
+      "en": "My favorite season is spring.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5724729.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02077A.mp3"
+    }
+  ]
+}

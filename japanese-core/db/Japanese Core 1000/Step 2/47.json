@@ -1,0 +1,26 @@
+{
+  "ja": "今月",
+  "hrkt": "こんげつ",
+  "latn": "kongetsu",
+  "en": "this month",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03249A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今月</b>はとても忙しい。",
+      "hrkt": "<b>こんげつ</b> は とても いそがしい。",
+      "latn": "<b>kongetsu</b> ha totemo isogashii.",
+      "en": "I'm very busy this month.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5866744.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03249A.mp3"
+    },
+    {
+      "ja": "<b>今月</b>はミーティングがたくさんあります。",
+      "hrkt": "<b>こんげつ</b> は ミーティング が たくさん あります。",
+      "latn": "<b>kongetsu</b> ha mi-tingu ga takusan arimasu.",
+      "en": "This month, we have lots of meetings.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/032t8p02qk.mp3"
+    }
+  ]
+}

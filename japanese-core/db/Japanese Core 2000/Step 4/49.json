@@ -1,0 +1,26 @@
+{
+  "ja": "日",
+  "hrkt": "ひ",
+  "latn": "hi",
+  "en": "(specific) day, sun, daytime",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07594A.mp3",
+  "sentences": [
+    {
+      "ja": "夏は<b>日</b>が長い。",
+      "hrkt": "なつ は <b>ひ</b> が ながい。",
+      "latn": "natsu ha <b>hi</b> ga nagai.",
+      "en": "Days are longer in summer.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4701420.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07594A.mp3"
+    },
+    {
+      "ja": "父は休みの<b>日</b>はずっとテレビを見ている。",
+      "hrkt": "ちち は やすみ の <b>ひ</b> は ずっと テレビ を みて いる。",
+      "latn": "chichi ha yasumi no <b>hi</b> ha zutto terebi wo mite iru.",
+      "en": "My father spends his days off watching television all the time.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4039920.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04585A.mp3"
+    }
+  ]
+}

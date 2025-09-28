@@ -1,0 +1,26 @@
+{
+  "ja": "品物",
+  "hrkt": "しなもの",
+  "latn": "shinamono",
+  "en": "article, goods",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03808A.mp3",
+  "sentences": [
+    {
+      "ja": "その店はいろいろな<b>品物</b>を売っている。",
+      "hrkt": "その みせ は いろいろな <b>しなもの</b> を うって いる。",
+      "latn": "sono mise ha iroirona <b>shinamono</b> wo utte iru.",
+      "en": "The shop sells a lot of products.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5703601.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03808A.mp3"
+    },
+    {
+      "ja": "先週送った<b>品物</b>が届いていません。",
+      "hrkt": "せんしゅう おくった <b>しなもの</b> が とどいて いません。",
+      "latn": "senshuu okutta <b>shinamono</b> ga todoite imasen.",
+      "en": "The goods we sent last week haven't arrived yet.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e57u7iajbs.mp3"
+    }
+  ]
+}

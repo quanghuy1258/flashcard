@@ -1,0 +1,18 @@
+{
+  "ja": "チーム",
+  "hrkt": "チーム",
+  "latn": "chi-mu",
+  "en": "team",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00281A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>チーム</b>の一員です。",
+      "hrkt": "かれ は <b>チーム</b> の いちいん です。",
+      "latn": "kare ha <b>chi-mu</b> no ichiin desu.",
+      "en": "He's a member of the team.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a16k7pe3lo.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00281A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "偉い",
+  "hrkt": "えらい",
+  "latn": "erai",
+  "en": "great, eminent",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00877A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>偉い</b>学者です。",
+      "hrkt": "かれ は <b>えらい</b> がくしゃ です。",
+      "latn": "kare ha <b>erai</b> gakusha desu.",
+      "en": "He's a great scholar.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2632237.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00877A.mp3"
+    },
+    {
+      "ja": "毎日一生懸命勉強して<b>偉い</b>ね。",
+      "hrkt": "まいにち いっしょうけんめい べんきょう して <b>えらい</b> ね。",
+      "latn": "mainichi isshoukenmei benkyou shite <b>erai</b> ne.",
+      "en": "You are great for studying hard every day.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/86375966kk.mp3"
+    }
+  ]
+}

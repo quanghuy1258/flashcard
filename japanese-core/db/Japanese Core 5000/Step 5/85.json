@@ -1,0 +1,18 @@
+{
+  "ja": "弱み",
+  "hrkt": "よわみ",
+  "latn": "yowami",
+  "en": "weakness, disadvantage",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02545A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は私の<b>弱み</b>を握っているんだ。",
+      "hrkt": "かれ は わたし の <b>よわみ</b> を にぎって いる んだ。",
+      "latn": "kare ha watashi no <b>yowami</b> wo nigitte iru nda.",
+      "en": "He has some dirt on me.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02545A.mp3"
+    }
+  ]
+}

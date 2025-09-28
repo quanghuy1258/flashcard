@@ -1,0 +1,18 @@
+{
+  "ja": "頭",
+  "hrkt": "かしら",
+  "latn": "kashira",
+  "en": "head (of a group), chief",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00022A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は一家のお<b>頭</b>だったの。",
+      "hrkt": "かれ は いっか の お<b>かしら</b> だった の。",
+      "latn": "kare ha ikka no o<b>kashira</b> datta no.",
+      "en": "He was the head of the family.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00022A.mp3"
+    }
+  ]
+}

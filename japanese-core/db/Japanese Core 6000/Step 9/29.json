@@ -1,0 +1,18 @@
+{
+  "ja": "町なか",
+  "hrkt": "まちなか",
+  "latn": "machinaka",
+  "en": "in the town",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03887A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>町なか</b>で彼女に出会ったよ。",
+      "hrkt": "<b>まちなか</b> で かのじょ に であった よ。",
+      "latn": "<b>machinaka</b> de kanojo ni deatta yo.",
+      "en": "I met her in the town.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03887A.mp3"
+    }
+  ]
+}

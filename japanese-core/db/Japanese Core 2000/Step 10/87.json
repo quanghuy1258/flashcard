@@ -1,0 +1,26 @@
+{
+  "ja": "サイン",
+  "hrkt": "サイン",
+  "latn": "sain",
+  "en": "signature, autograph",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02025A.mp3",
+  "sentences": [
+    {
+      "ja": "ここに<b>サイン</b>してください。",
+      "hrkt": "ここ に <b>サイン</b> して ください。",
+      "latn": "koko ni <b>sain</b> shite kudasai.",
+      "en": "Please sign here.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/794333.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02025A.mp3"
+    },
+    {
+      "ja": "有名な歌手の<b>サイン</b>をもらいました。",
+      "hrkt": "ゆうめいな かしゅ の <b>サイン</b> を もらいました。",
+      "latn": "yuumeina kashu no <b>sain</b> wo moraimashita.",
+      "en": "I got an autograph of a famous singer.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e4e71sdg94.mp3"
+    }
+  ]
+}

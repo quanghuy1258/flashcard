@@ -1,0 +1,26 @@
+{
+  "ja": "お父さん",
+  "hrkt": "おとうさん",
+  "latn": "otousan",
+  "en": "father, dad (respectful)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01133A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>お父さん</b>は会社員です。",
+      "hrkt": "<b>おとうさん</b> は かいしゃいん です。",
+      "latn": "<b>otousan</b> ha kaishain desu.",
+      "en": "My father's a company employee.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3998270.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01133A.mp3"
+    },
+    {
+      "ja": "私の<b>お父さん</b>はとても優しいです。",
+      "hrkt": "わたし の <b>おとうさん</b> は とても やさしい です。",
+      "latn": "watashi no <b>otousan</b> ha totemo yasashii desu.",
+      "en": "My father is very gentle.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d52t5lc1a4.mp3"
+    }
+  ]
+}

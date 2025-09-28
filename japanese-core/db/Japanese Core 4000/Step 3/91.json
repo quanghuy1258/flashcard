@@ -1,0 +1,18 @@
+{
+  "ja": "構成",
+  "hrkt": "こうせい",
+  "latn": "kousei",
+  "en": "composition, organization",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02931A.mp3",
+  "sentences": [
+    {
+      "ja": "システムの<b>構成</b>を変えてみました。",
+      "hrkt": "システム の <b>こうせい</b> を かえて みました。",
+      "latn": "shisutemu no <b>kousei</b> wo kaete mimashita.",
+      "en": "I've reorganized the system.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02931A.mp3"
+    }
+  ]
+}

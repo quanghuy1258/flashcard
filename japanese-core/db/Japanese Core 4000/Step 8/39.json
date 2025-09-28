@@ -1,0 +1,18 @@
+{
+  "ja": "針",
+  "hrkt": "はり",
+  "latn": "hari",
+  "en": "needle, (clock) hand",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01295A.mp3",
+  "sentences": [
+    {
+      "ja": "よく見たら、時計の<b>針</b>が12時を指してるよ。",
+      "hrkt": "よく みたら、とけい の <b>はり</b> が 12 じ を さしてる よ。",
+      "latn": "yoku mitara,tokei no <b>hari</b> ga 12 ji wo sashiteru yo.",
+      "en": "Now that I'm looking closer, I can see the clock hands pointing at 12.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01295A.mp3"
+    }
+  ]
+}

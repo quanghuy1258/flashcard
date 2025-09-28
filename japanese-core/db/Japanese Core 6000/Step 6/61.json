@@ -1,0 +1,18 @@
+{
+  "ja": "水中",
+  "hrkt": "すいちゅう",
+  "latn": "suichuu",
+  "en": "in water, underwater",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01306A.mp3",
+  "sentences": [
+    {
+      "ja": "このカメラなら<b>水中</b>の写真が撮れますね。",
+      "hrkt": "この カメラ なら <b>すいちゅう</b> の しゃしん が とれます ね。",
+      "latn": "kono kamera nara <b>suichuu</b> no shashin ga toremasu ne.",
+      "en": "With this camera you can take underwater pictures.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01306A.mp3"
+    }
+  ]
+}

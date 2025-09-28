@@ -1,0 +1,26 @@
+{
+  "ja": "半年",
+  "hrkt": "はんとし",
+  "latn": "hantoshi",
+  "en": "half a year",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07568A.mp3",
+  "sentences": [
+    {
+      "ja": "日本に来て<b>半年</b>になります。",
+      "hrkt": "にっぽん に きて <b>はんとし</b> に なります。",
+      "latn": "nippon ni kite <b>hantoshi</b> ni narimasu.",
+      "en": "It has been half a year since I came to Japan.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5284463.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07568A.mp3"
+    },
+    {
+      "ja": "私は<b>半年</b>に1回、旅行に行きます。",
+      "hrkt": "わたし は <b>はんとし</b> に 1 かい、りょこう に いきます。",
+      "latn": "watashi ha <b>hantoshi</b> ni 1 kai,ryokou ni ikimasu.",
+      "en": "I go traveling once every half-a-year.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/66f909dib8.mp3"
+    }
+  ]
+}

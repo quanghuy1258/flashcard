@@ -1,0 +1,18 @@
+{
+  "ja": "そびえる",
+  "hrkt": "そびえる",
+  "latn": "sobieru",
+  "en": "tower, rise high",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02243A.mp3",
+  "sentences": [
+    {
+      "ja": "いくつもの高層ビルが<b>そびえて</b>いたんだ。",
+      "hrkt": "いくつ も の こうそう ビル が <b> そびえて</b> いた ん だ。",
+      "latn": "ikutsu mo no kousou biru ga <b> sobiete</b> ita n da.",
+      "en": "There was a number of high-rise buildings towering over.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02243A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "触れる",
+  "hrkt": "ふれる",
+  "latn": "fureru",
+  "en": "touch, come in contact with",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03863A.mp3",
+  "sentences": [
+    {
+      "ja": "手と手が<b>触れて</b>どきどきしたよ。",
+      "hrkt": "て と て が <b>ふれて</b> どきどき した よ。",
+      "latn": "te to te ga <b>furete</b> dokidoki shita yo.",
+      "en": "My heart pounded as our hands touched.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c397bt056s.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03863A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "石炭",
+  "hrkt": "せきたん",
+  "latn": "sekitan",
+  "en": "coal",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00609A.mp3",
+  "sentences": [
+    {
+      "ja": "小屋に<b>石炭</b>の山があります。",
+      "hrkt": "こや に <b>せきたん</b> の やま が あります。",
+      "latn": "koya ni <b>sekitan</b> no yama ga arimasu.",
+      "en": "There is a mountain of coal in the hut.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00609A.mp3"
+    }
+  ]
+}

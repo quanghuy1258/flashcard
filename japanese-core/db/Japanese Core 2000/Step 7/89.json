@@ -1,0 +1,26 @@
+{
+  "ja": "勘違い",
+  "hrkt": "かんちがい",
+  "latn": "kanchigai",
+  "en": "misunderstanding, wrong idea or assumption",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03019A.mp3",
+  "sentences": [
+    {
+      "ja": "待ち合わせは2時だと<b>勘違い</b>していました。",
+      "hrkt": "まちあわせ は 2 じ だ と <b>かんちがい</b> して いました。",
+      "latn": "machiawase ha 2 ji da to <b>kanchigai</b> shite imashita.",
+      "en": "I mistakenly thought the meeting was at two o'clock.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/7l0ebl1it68gg.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03019A.mp3"
+    },
+    {
+      "ja": "あなたは何か<b>勘違い</b>しています。",
+      "hrkt": "あなた は なに か <b>かんちがい</b> して います。",
+      "latn": "anata ha nani ka <b>kanchigai</b> shite imasu.",
+      "en": "You've misunderstood something.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a47i6mes30.mp3"
+    }
+  ]
+}

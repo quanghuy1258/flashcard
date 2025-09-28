@@ -1,0 +1,18 @@
+{
+  "ja": "うっかり",
+  "hrkt": "うっかり",
+  "latn": "ukkari",
+  "en": "carelessly, accidentally",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03069A.mp3",
+  "sentences": [
+    {
+      "ja": "大事なメールを<b>うっかり</b>消してしまった。",
+      "hrkt": "だいじな メール を <b>うっかり</b> けして しまった。",
+      "latn": "daijina me-ru wo <b>ukkari</b> keshite shimatta.",
+      "en": "I accidentally deleted an important email.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/e26g3ackv8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03069A.mp3"
+    }
+  ]
+}

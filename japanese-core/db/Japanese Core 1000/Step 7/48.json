@@ -1,0 +1,26 @@
+{
+  "ja": "特に",
+  "hrkt": "とくに",
+  "latn": "tokuni",
+  "en": "specially, particularly",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06397A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>特に</b>質問はありません。",
+      "hrkt": "<b>とくに</b> しつもん は ありません。",
+      "latn": "<b>tokuni</b> shitsumon ha arimasen.",
+      "en": "I don't have any particular questions.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4698100.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06397A.mp3"
+    },
+    {
+      "ja": "私は<b>特に</b>ドイツのビールが好きです。",
+      "hrkt": "わたし は <b>とくに</b> ドイツ の ビール が すき です。",
+      "latn": "watashi ha <b>tokuni</b> doitsu no bi-ru ga suki desu.",
+      "en": "I particularly like German beer.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b449f2bn8o.mp3"
+    }
+  ]
+}

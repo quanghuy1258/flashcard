@@ -1,0 +1,18 @@
+{
+  "ja": "少なくとも",
+  "hrkt": "すくなくとも",
+  "latn": "sukunakutomo",
+  "en": "at least, at a minimum",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00388A.mp3",
+  "sentences": [
+    {
+      "ja": "この仕事には<b>少なくとも</b>2週間必要でしょう。",
+      "hrkt": "この しごと に は <b>すくなくとも</b> 2 しゅうかん ひつよう でしょう。",
+      "latn": "kono shigoto ni ha <b>sukunakutomo</b> 2 shuukan hitsuyou deshou.",
+      "en": "It will take at least two weeks to finish this job.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/428j2dagf4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00388A.mp3"
+    }
+  ]
+}

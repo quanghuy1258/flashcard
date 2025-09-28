@@ -1,0 +1,26 @@
+{
+  "ja": "上がる",
+  "hrkt": "あがる",
+  "latn": "agaru",
+  "en": "go up, increase (in quality or quantity)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00053A.mp3",
+  "sentences": [
+    {
+      "ja": "毎年給料が<b>上がる</b>。",
+      "hrkt": "まいねん きゅうりょう が  <b>あがる</b>。",
+      "latn": "mainen kyuuryou ga  <b>agaru</b>.",
+      "en": "My salary goes up every year.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3195104.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08642A.mp3"
+    },
+    {
+      "ja": "成績が<b>上がりました</b>。",
+      "hrkt": "せいせき が <b>あがりました</b>。",
+      "latn": "seiseki ga <b>agarimashita</b>.",
+      "en": "His grades went up.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6202345.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04718A.mp3"
+    }
+  ]
+}

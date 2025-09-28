@@ -1,0 +1,18 @@
+{
+  "ja": "水素",
+  "hrkt": "すいそ",
+  "latn": "suiso",
+  "en": "hydrogen",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01668A.mp3",
+  "sentences": [
+    {
+      "ja": "水は<b>水素</b>と酸素でできています。",
+      "hrkt": "みず は <b>すいそ</b> と さんそ で できて います。",
+      "latn": "mizu ha <b>suiso</b> to sanso de dekite imasu.",
+      "en": "Water is made of hydrogen and oxygen.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01668A.mp3"
+    }
+  ]
+}

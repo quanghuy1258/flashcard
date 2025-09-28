@@ -1,0 +1,18 @@
+{
+  "ja": "がっかり",
+  "hrkt": "がっかり",
+  "latn": "gakkari",
+  "en": "disappointed, disappointing",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02315A.mp3",
+  "sentences": [
+    {
+      "ja": "成績が落ちて<b>がっかり</b>した。",
+      "hrkt": "せいせき が おちて <b>がっかり</b> した。",
+      "latn": "seiseki ga ochite <b>gakkari</b> shita.",
+      "en": "I was disappointed because my grades fell.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/341vd3drck.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02315A.mp3"
+    }
+  ]
+}

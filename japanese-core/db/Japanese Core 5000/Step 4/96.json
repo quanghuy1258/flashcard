@@ -1,0 +1,18 @@
+{
+  "ja": "貸し出し",
+  "hrkt": "かしだし",
+  "latn": "kashidashi",
+  "en": "lending service, checking out",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01956A.mp3",
+  "sentences": [
+    {
+      "ja": "その本は<b>貸し出し</b>していません。",
+      "hrkt": "その ほん は <b>かしだし</b> して いません。",
+      "latn": "sono hon ha <b>kashidashi</b> shite imasen.",
+      "en": "That book can't be checked out.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01956A.mp3"
+    }
+  ]
+}

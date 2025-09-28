@@ -1,0 +1,26 @@
+{
+  "ja": "当然",
+  "hrkt": "とうぜん",
+  "latn": "touzen",
+  "en": "natural, as a matter of course",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06281A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女が怒るのも<b>当然</b>だ。",
+      "hrkt": "かのじょ が おこる の も <b>とうぜん</b> だ。",
+      "latn": "kanojo ga okoru no mo <b>touzen</b> da.",
+      "en": "It's natural that she should be angry.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2440965.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06281A.mp3"
+    },
+    {
+      "ja": "<b>当然</b>、彼も来ると思っていました。",
+      "hrkt": "<b>とうぜん</b>、かれ も くる と おもって いました。",
+      "latn": "<b>touzen</b>,kare mo kuru to omotte imashita.",
+      "en": "Of course I thought he would be coming, too.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/83etb83hnc.mp3"
+    }
+  ]
+}

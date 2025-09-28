@@ -1,0 +1,18 @@
+{
+  "ja": "メーカー",
+  "hrkt": "メーカー",
+  "latn": "me-ka-",
+  "en": "maker, manufacturer",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00073A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は靴の<b>メーカー</b>で働いています。",
+      "hrkt": "かれ は くつ の <b>メーカー</b> で はたらいて います。",
+      "latn": "kare ha kutsu no <b>me-ka-</b> de hataraite imasu.",
+      "en": "He works at a shoe manufacturer.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/ab2ifq3q4.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00073A.mp3"
+    }
+  ]
+}

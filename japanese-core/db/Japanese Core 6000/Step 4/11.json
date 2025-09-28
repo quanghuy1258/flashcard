@@ -1,0 +1,18 @@
+{
+  "ja": "防火",
+  "hrkt": "ぼうか",
+  "latn": "bouka",
+  "en": "fire prevention",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02538A.mp3",
+  "sentences": [
+    {
+      "ja": "学校で<b>防火</b>訓練がありました。",
+      "hrkt": "がっこう で <b>ぼうか</b> くんれん が ありました。",
+      "latn": "gakkou de <b>bouka</b> kunren ga arimashita.",
+      "en": "We had a fire drill at school.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02538A.mp3"
+    }
+  ]
+}

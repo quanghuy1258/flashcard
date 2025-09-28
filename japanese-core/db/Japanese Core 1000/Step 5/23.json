@@ -1,0 +1,26 @@
+{
+  "ja": "話",
+  "hrkt": "はなし",
+  "latn": "hanashi",
+  "en": "talk, story",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07414A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの<b>話</b>は面白いね。",
+      "hrkt": "あなた の <b>はなし</b> は おもしろい ね。",
+      "latn": "anata no <b>hanashi</b> ha omoshiroi ne.",
+      "en": "Your story's interesting.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6152393.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07414A.mp3"
+    },
+    {
+      "ja": "その<b>話</b>は本当ですか。",
+      "hrkt": "その <b>はなし</b> は ほんとう です か。",
+      "latn": "sono <b>hanashi</b> ha hontou desu ka.",
+      "en": "Is the story true?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5759102.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08605A.mp3"
+    }
+  ]
+}

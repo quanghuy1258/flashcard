@@ -1,0 +1,26 @@
+{
+  "ja": "大抵",
+  "hrkt": "たいてい",
+  "latn": "taitei",
+  "en": "generally, mostly",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05230A.mp3",
+  "sentences": [
+    {
+      "ja": "朝食は<b>大抵</b>7時頃に食べます。",
+      "hrkt": "ちょうしょく は <b>たいてい</b> ７ じ ごろ に たべます。",
+      "latn": "choushoku ha <b>taitei</b> 7 ji goro ni tabemasu.",
+      "en": "I generally eat breakfast around seven o'clock.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2346121.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05230A.mp3"
+    },
+    {
+      "ja": "週末は<b>大抵</b>家にいます。",
+      "hrkt": "しゅうまつ は <b>たいてい</b> いえ に います。",
+      "latn": "shuumatsu ha <b>taitei</b> ie ni imasu.",
+      "en": "I mostly stay home on weekends.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a69215flac.mp3"
+    }
+  ]
+}

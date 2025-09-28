@@ -1,0 +1,26 @@
+{
+  "ja": "下手",
+  "hrkt": "へた",
+  "latn": "heta",
+  "en": "bad at, unskilled",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08315A.mp3",
+  "sentences": [
+    {
+      "ja": "私は歌が<b>下手</b>だ。",
+      "hrkt": "わたし は うた が <b>へた</b> だ。",
+      "latn": "watashi ha uta ga <b>heta</b> da.",
+      "en": "I'm a terrible singer.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5195688.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08315A.mp3"
+    },
+    {
+      "ja": "私は字がすごく<b>下手</b>だ。",
+      "hrkt": "わたし は じ が すごく <b>へた</b> だ。",
+      "latn": "watashi ha ji ga sugoku <b>heta</b> da.",
+      "en": "My handwriting is very bad.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d4528feqcc.mp3"
+    }
+  ]
+}

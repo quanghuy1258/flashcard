@@ -1,0 +1,26 @@
+{
+  "ja": "集まる",
+  "hrkt": "あつまる",
+  "latn": "atsumaru",
+  "en": "gather, be collected",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00175A.mp3",
+  "sentences": [
+    {
+      "ja": "駅前に人が<b>集まって</b>います。",
+      "hrkt": "えき まえ に ひと が <b>あつまって</b> います。",
+      "latn": "eki mae ni hito ga <b>atsumatte</b> imasu.",
+      "en": "There are people gathering in front of the station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5141726.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00175A.mp3"
+    },
+    {
+      "ja": "先生の周りに<b>集まって</b>ください。",
+      "hrkt": "せんせい の まわり に <b>あつまって</b> ください。",
+      "latn": "sensei no mawari ni <b>atsumatte</b> kudasai.",
+      "en": "Gather around the teacher.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/616ialf1ps.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02434A.mp3"
+    }
+  ]
+}

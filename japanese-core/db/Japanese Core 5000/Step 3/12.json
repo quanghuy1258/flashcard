@@ -1,0 +1,18 @@
+{
+  "ja": "略す",
+  "hrkt": "りゃくす",
+  "latn": "ryakusu",
+  "en": "abbreviate, omit",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03409A.mp3",
+  "sentences": [
+    {
+      "ja": "国際連合を<b>略して</b>国連といいます。",
+      "hrkt": "こくさい れんごう を <b>りゃくして</b> こくれん と いいます。",
+      "latn": "kokusai rengou wo <b>ryakushite</b> kokuren to iimasu.",
+      "en": "The UN is an abbreviation for the United Nations.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03409A.mp3"
+    }
+  ]
+}

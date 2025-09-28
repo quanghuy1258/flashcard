@@ -1,0 +1,26 @@
+{
+  "ja": "住所",
+  "hrkt": "じゅうしょ",
+  "latn": "juusho",
+  "en": "address",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03977A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>住所</b>に行ってください。",
+      "hrkt": "この <b>じゅうしょ</b> に いって ください。",
+      "latn": "kono <b>juusho</b> ni itte kudasai.",
+      "en": "Please go to this address.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5126789.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03977A.mp3"
+    },
+    {
+      "ja": "ここに<b>住所</b>と氏名を書いてください。",
+      "hrkt": "ここ に <b>じゅうしょ</b> と しめい を かいて ください。",
+      "latn": "koko ni <b>juusho</b> to shimei wo kaite kudasai.",
+      "en": "Please write your name and address here.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2044633.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03867A.mp3"
+    }
+  ]
+}

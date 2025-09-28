@@ -1,0 +1,18 @@
+{
+  "ja": "梅雨入り",
+  "hrkt": "つゆいり",
+  "latn": "tsuyuiri",
+  "en": "start of the rainy season",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03758A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>梅雨入り</b>は6月17日でした。",
+      "hrkt": "<b>つゆいり</b> は 6 がつ 17 にち でした。",
+      "latn": "<b>tsuyuiri</b> ha 6 gatsu 17 nichi deshita.",
+      "en": "The rainy season started on June 17.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03758A.mp3"
+    }
+  ]
+}

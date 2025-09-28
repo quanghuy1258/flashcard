@@ -1,0 +1,26 @@
+{
+  "ja": "パーティー",
+  "hrkt": "パーティー",
+  "latn": "pa-ti-",
+  "en": "party",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07153A.mp3",
+  "sentences": [
+    {
+      "ja": "明日、うちで<b>パーティー</b>を開きます。",
+      "hrkt": "あした、うち で <b>パーティー</b> を ひらきます。",
+      "latn": "ashita,uchi de <b>pa-ti-</b> wo hirakimasu.",
+      "en": "Tomorrow I'm having a party at my house.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4904573.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07153A.mp3"
+    },
+    {
+      "ja": "今晩の<b>パーティー</b>は何時からですか。",
+      "hrkt": "こんばん の パーティー は なん じ から です か。",
+      "latn": "konban no pa-ti- ha nan ji kara desu ka.",
+      "en": "What time does the party start tonight?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4811576.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03266A.mp3"
+    }
+  ]
+}

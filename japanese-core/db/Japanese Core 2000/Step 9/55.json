@@ -1,0 +1,26 @@
+{
+  "ja": "経つ",
+  "hrkt": "たつ",
+  "latn": "tatsu",
+  "en": "pass, elapse",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05375A.mp3",
+  "sentences": [
+    {
+      "ja": "あれから14年が<b>経ちました</b>。",
+      "hrkt": "あれ から 14 ねん が <b>たちました</b>。",
+      "latn": "are kara 14 nen ga <b>tachimashita</b>.",
+      "en": "14 years have passed since then.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4123290.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05375A.mp3"
+    },
+    {
+      "ja": "時の<b>経つ</b>のは早い。",
+      "hrkt": "とき の <b>たつ</b> の は はやい。",
+      "latn": "toki no <b>tatsu</b> no ha hayai.",
+      "en": "Time passes by quickly.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5207247.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06359A.mp3"
+    }
+  ]
+}

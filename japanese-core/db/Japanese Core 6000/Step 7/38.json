@@ -1,0 +1,18 @@
+{
+  "ja": "人出",
+  "hrkt": "ひとで",
+  "latn": "hitode",
+  "en": "turnout, crowd",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02427A.mp3",
+  "sentences": [
+    {
+      "ja": "今日も遊園地は大変な<b>人出</b>だったよ。",
+      "hrkt": "きょう も ゆうえんち は たいへんな <b>ひとで</b> だった よ。",
+      "latn": "kyou mo yuuenchi ha taihenna <b>hitode</b> datta yo.",
+      "en": "As always, the amusement park was very crowded today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02427A.mp3"
+    }
+  ]
+}

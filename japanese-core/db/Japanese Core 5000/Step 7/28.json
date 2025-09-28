@@ -1,0 +1,18 @@
+{
+  "ja": "真夜中",
+  "hrkt": "まよなか",
+  "latn": "mayonaka",
+  "en": "midnight, middle of the night",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02948A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>真夜中</b>に帰ってきたの。",
+      "hrkt": "かれ は <b>まよなか</b> に かえって きた の。",
+      "latn": "kare ha <b>mayonaka</b> ni kaette kita no.",
+      "en": "He came back at midnight.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02948A.mp3"
+    }
+  ]
+}

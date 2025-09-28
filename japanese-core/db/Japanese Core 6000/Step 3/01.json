@@ -1,0 +1,18 @@
+{
+  "ja": "漏らす",
+  "hrkt": "もらす",
+  "latn": "morasu",
+  "en": "give away, leak (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02228A.mp3",
+  "sentences": [
+    {
+      "ja": "秘密を<b>漏らした</b>のは彼です。",
+      "hrkt": "ひみつ を <b>もらした</b> の は かれ です。",
+      "latn": "himitsu wo <b>morashita</b> no ha kare desu.",
+      "en": "He's the one who leaked the secret.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02228A.mp3"
+    }
+  ]
+}

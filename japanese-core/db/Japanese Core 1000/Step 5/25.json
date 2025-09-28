@@ -1,0 +1,26 @@
+{
+  "ja": "もう",
+  "hrkt": "もう",
+  "latn": "mou",
+  "en": "another, again",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09233A.mp3",
+  "sentences": [
+    {
+      "ja": "コーヒーを<b>もう</b>一杯ください。",
+      "hrkt": "コーヒー を <b>もう</b> いっぱい ください。",
+      "latn": "ko-hi- wo <b>mou</b> ippai kudasai.",
+      "en": "Please give me another cup of coffee.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3947460.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09233A.mp3"
+    },
+    {
+      "ja": "<b>もう</b>一度彼女に会いたいです。",
+      "hrkt": "<b>もう</b> いち ど かのじょ に あいたい です。",
+      "latn": "<b>mou</b> ichi do kanojo ni aitai desu.",
+      "en": "I want to see her once again.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b5ed13e43g.mp3"
+    }
+  ]
+}

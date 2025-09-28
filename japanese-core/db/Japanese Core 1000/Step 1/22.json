@@ -1,0 +1,26 @@
+{
+  "ja": "なる",
+  "hrkt": "なる",
+  "latn": "naru",
+  "en": "become",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06750A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は医者に<b>なりました</b>。",
+      "hrkt": "かれ は いしゃ に <b>なりました</b>。",
+      "latn": "kare ha isha ni <b>narimashita</b>.",
+      "en": "He became a doctor.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5141756.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06750A.mp3"
+    },
+    {
+      "ja": "私は日本語の先生に<b>なりたい</b>です。",
+      "hrkt": "わたし は にほん ご の せんせい に <b>なりたい</b> です。",
+      "latn": "watashi ha nihon go no sensei ni <b>naritai</b> desu.",
+      "en": "I want to become a Japanese teacher.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2023524.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04895A.mp3"
+    }
+  ]
+}

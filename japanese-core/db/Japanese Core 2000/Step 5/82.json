@@ -1,0 +1,26 @@
+{
+  "ja": "トマト",
+  "hrkt": "トマト",
+  "latn": "tomato",
+  "en": "tomato",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06500A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>トマト</b>が大好きです。",
+      "hrkt": "わたし は <b>トマト</b> が だいすき です。",
+      "latn": "watashi ha <b>tomato</b> ga daisuki desu.",
+      "en": "I love tomatoes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5897914.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06500A.mp3"
+    },
+    {
+      "ja": "今日は<b>トマト</b>ソースをたくさん作りました。",
+      "hrkt": "きょう は <b>トマト</b> ソース を たくさん つくりました。",
+      "latn": "kyou ha <b>tomato</b> so-su wo takusan tsukurimashita.",
+      "en": "I made a lot of tomato sauce today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a486e11ob0.mp3"
+    }
+  ]
+}

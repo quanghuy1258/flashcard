@@ -1,0 +1,26 @@
+{
+  "ja": "切手",
+  "hrkt": "きって",
+  "latn": "kitte",
+  "en": "postage stamp",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02117A.mp3",
+  "sentences": [
+    {
+      "ja": "ここに<b>切手</b>を貼ってください。",
+      "hrkt": "ここ に <b>きって</b> を はって ください。",
+      "latn": "koko ni <b>kitte</b> wo hatte kudasai.",
+      "en": "Please put a stamp here.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/119443.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02117A.mp3"
+    },
+    {
+      "ja": "弟は<b>切手</b>を集めています。",
+      "hrkt": "おとうと は <b>きって</b> を あつめて います。",
+      "latn": "otouto ha <b>kitte</b> wo atsumete imasu.",
+      "en": "My little brother collects stamps.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3860194.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00176A.mp3"
+    }
+  ]
+}

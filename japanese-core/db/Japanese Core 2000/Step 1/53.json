@@ -1,0 +1,26 @@
+{
+  "ja": "壊す",
+  "hrkt": "こわす",
+  "latn": "kowasu",
+  "en": "break (something), destroy",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03239A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女が私のケータイを<b>壊した</b>。",
+      "hrkt": "かのじょ が わたし の ケータイ を <b>こわした</b>。",
+      "latn": "kanojo ga watashi no ke-tai wo <b>kowashita</b>.",
+      "en": "She destroyed my cell phone.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3660754.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03239A.mp3"
+    },
+    {
+      "ja": "息子が私の眼鏡を<b>壊しました</b>。",
+      "hrkt": "むすこ が わたし の めがね を <b>こわしました</b>。",
+      "latn": "musuko ga watashi no megane wo <b>kowashimashita</b>.",
+      "en": "My son broke my glasses.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/d1dseb7mgc.mp3"
+    }
+  ]
+}

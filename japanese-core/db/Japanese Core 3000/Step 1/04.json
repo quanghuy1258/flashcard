@@ -1,0 +1,18 @@
+{
+  "ja": "戻す",
+  "hrkt": "もどす",
+  "latn": "modosu",
+  "en": "put (something) back",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00896A.mp3",
+  "sentences": [
+    {
+      "ja": "話を<b>戻しましょう</b>。",
+      "hrkt": "はなし を <b>もどしましょう</b>。",
+      "latn": "hanashi wo <b>modoshimashou</b>.",
+      "en": "Let's get back to what we were talking about.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/82459cbn08.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00896A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "未婚",
+  "hrkt": "みこん",
+  "latn": "mikon",
+  "en": "being unmarried, being single",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02585A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はまだ<b>未婚</b>です。",
+      "hrkt": "かれ は まだ <b>みこん</b> です。",
+      "latn": "kare ha mada <b>mikon</b> desu.",
+      "en": "He's still single.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02585A.mp3"
+    }
+  ]
+}

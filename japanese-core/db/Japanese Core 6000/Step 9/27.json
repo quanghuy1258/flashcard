@@ -1,0 +1,18 @@
+{
+  "ja": "はかり",
+  "hrkt": "はかり",
+  "latn": "hakari",
+  "en": "scale",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03818A.mp3",
+  "sentences": [
+    {
+      "ja": "ケーキを作るときは<b>はかり</b>を使います。",
+      "hrkt": "ケーキ を つくる とき は <b>はかり</b> を つかいます 。",
+      "latn": "ke-ki wo tsukuru toki ha <b>hakari</b> wo tsukaimasu .",
+      "en": "I use a kitchen scale when I bake a cake.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03818A.mp3"
+    }
+  ]
+}

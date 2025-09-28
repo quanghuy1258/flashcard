@@ -1,0 +1,18 @@
+{
+  "ja": "つるす",
+  "hrkt": "つるす",
+  "latn": "tsurusu",
+  "en": "hang (something) with a string, etc.",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02099A.mp3",
+  "sentences": [
+    {
+      "ja": "木にブランコを<b>つるしました</b>。",
+      "hrkt": "き に ブランコ を <b>つるしました</b>。",
+      "latn": "ki ni buranko wo <b>tsurushimashita</b>.",
+      "en": "I hung a swing from a tree.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02099A.mp3"
+    }
+  ]
+}

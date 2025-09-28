@@ -1,0 +1,26 @@
+{
+  "ja": "返事",
+  "hrkt": "へんじ",
+  "latn": "henji",
+  "en": "answer, reply",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08362A.mp3",
+  "sentences": [
+    {
+      "ja": "手紙の<b>返事</b>を出しました。",
+      "hrkt": "てがみ の <b>へんじ</b> を だしました。",
+      "latn": "tegami no <b>henji</b> wo dashimashita.",
+      "en": "I sent a reply to the letter.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4699966.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08362A.mp3"
+    },
+    {
+      "ja": "友達から<b>返事</b>が来ました。",
+      "hrkt": "ともだち から <b>へんじ</b> が きました。",
+      "latn": "tomodachi kara <b>henji</b> ga kimashita.",
+      "en": "I've gotten a reply from my friend.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/86506v3h60.mp3"
+    }
+  ]
+}

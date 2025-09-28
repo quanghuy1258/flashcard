@@ -1,0 +1,18 @@
+{
+  "ja": "ステージ",
+  "hrkt": "ステージ",
+  "latn": "sute-ji",
+  "en": "stage (for a performance)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01747A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>ステージ</b>に立ったよ。",
+      "hrkt": "かれ は <b>ステージ</b> に たった よ。",
+      "latn": "kare ha <b>sute-ji</b> ni tatta yo.",
+      "en": "He stood on the stage.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01747A.mp3"
+    }
+  ]
+}

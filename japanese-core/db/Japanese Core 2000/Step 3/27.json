@@ -1,0 +1,26 @@
+{
+  "ja": "国籍",
+  "hrkt": "こくせき",
+  "latn": "kokuseki",
+  "en": "nationality, citizenship",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03055A.mp3",
+  "sentences": [
+    {
+      "ja": "私は日本<b>国籍</b>です。",
+      "hrkt": "わたし は にほん <b>こくせき</b> です。",
+      "latn": "watashi ha nihon <b>kokuseki</b> desu.",
+      "en": "I'm a Japanese citizen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6486023.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03055A.mp3"
+    },
+    {
+      "ja": "彼はアメリカと日本の<b>国籍</b>を持っています。",
+      "hrkt": "かれ は アメリカ と にほん の <b>こくせき</b> を もって います。",
+      "latn": "kare ha amerika to nihon no <b>kokuseki</b> wo motte imasu.",
+      "en": "He has Japanese and American citizenship.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/03fv36ef0k.mp3"
+    }
+  ]
+}

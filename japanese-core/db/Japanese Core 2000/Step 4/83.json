@@ -1,0 +1,26 @@
+{
+  "ja": "近所",
+  "hrkt": "きんじょ",
+  "latn": "kinjo",
+  "en": "neighborhood",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02369A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>近所</b>にカナダ人が住んでいる。",
+      "hrkt": "<b>きんじょ</b> に カナダ じん が すんで いる。",
+      "latn": "<b>kinjo</b> ni kanada jin ga sunde iru.",
+      "en": "A Canadian lives in my neighborhood.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5115133.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02369A.mp3"
+    },
+    {
+      "ja": "うちの<b>近所</b>にいいレストランがあります。",
+      "hrkt": "うち の <b>きんじょ</b> に いい レストラン が あります。",
+      "latn": "uchi no <b>kinjo</b> ni ii resutoran ga arimasu.",
+      "en": "There is a good restaurant in my neighborhood.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/026t1t7e88.mp3"
+    }
+  ]
+}

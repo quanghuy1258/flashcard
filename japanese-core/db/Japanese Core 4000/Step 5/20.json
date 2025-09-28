@@ -1,0 +1,18 @@
+{
+  "ja": "大戦",
+  "hrkt": "たいせん",
+  "latn": "taisen",
+  "en": "world war, great war",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01923A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>大戦</b>で多くの人が亡くなりました。",
+      "hrkt": "<b>たいせん</b> で おおく の ひと が なくなりました。",
+      "latn": "<b>taisen</b> de ooku no hito ga nakunarimashita.",
+      "en": "A lot of people died in the world war.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01923A.mp3"
+    }
+  ]
+}

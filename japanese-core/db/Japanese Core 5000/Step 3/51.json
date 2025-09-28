@@ -1,0 +1,18 @@
+{
+  "ja": "ちぎる",
+  "hrkt": "ちぎる",
+  "latn": "chigiru",
+  "en": "tear, tear off",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03035A.mp3",
+  "sentences": [
+    {
+      "ja": "紙を細かく<b>ちぎって</b>ください。",
+      "hrkt": "かみ を こまかく <b>ちぎって</b> ください。",
+      "latn": "kami wo komakaku <b>chigitte</b> kudasai.",
+      "en": "Please tear the paper into pieces.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03035A.mp3"
+    }
+  ]
+}

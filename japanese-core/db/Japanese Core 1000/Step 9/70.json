@@ -1,0 +1,26 @@
+{
+  "ja": "贈る",
+  "hrkt": "おくる",
+  "latn": "okuru",
+  "en": "offer, give",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01043A.mp3",
+  "sentences": [
+    {
+      "ja": "母に花を<b>贈った</b>。",
+      "hrkt": "はは に はな を <b>おくった</b>。",
+      "latn": "haha ni hana wo <b>okutta</b>.",
+      "en": "I gave my mother some flowers.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3054126.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01043A.mp3"
+    },
+    {
+      "ja": "クラスのみんなで先生にプレゼントを<b>贈りました</b>。",
+      "hrkt": "クラス の みんな で せんせい に プレゼント を <b>おくりました</b>。",
+      "latn": "kurasu no minna de sensei ni purezento wo <b>okurimashita</b>.",
+      "en": "Our class gave our teacher a present.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a25f6bahs4.mp3"
+    }
+  ]
+}

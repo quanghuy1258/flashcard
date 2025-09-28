@@ -1,0 +1,26 @@
+{
+  "ja": "預ける",
+  "hrkt": "あずける",
+  "latn": "azukeru",
+  "en": "deposit, leave (something) with (someone)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00129A.mp3",
+  "sentences": [
+    {
+      "ja": "鍵を彼に<b>預けた</b>。",
+      "hrkt": "かぎ を かれ に <b>あずけた</b>。",
+      "latn": "kagi wo kare ni <b>azuketa</b>.",
+      "en": "I left a key with him.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3586633.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00129A.mp3"
+    },
+    {
+      "ja": "今日は姉に子供を<b>預けます</b>。",
+      "hrkt": "きょう は あね に こども を <b>あずけます</b>。",
+      "latn": "kyou ha ane ni kodomo wo <b>azukemasu</b>.",
+      "en": "Today I'll leave my children with my sister.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/259hfs7um0.mp3"
+    }
+  ]
+}

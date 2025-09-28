@@ -1,0 +1,18 @@
+{
+  "ja": "ねぎ",
+  "hrkt": "ねぎ",
+  "latn": "negi",
+  "en": "spring onion, green onion",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03043A.mp3",
+  "sentences": [
+    {
+      "ja": "みそ汁に<b>ねぎ</b>を入れました。",
+      "hrkt": "みそしる に <b>ねぎ</b> を いれました。",
+      "latn": "misoshiru ni <b>negi</b> wo iremashita.",
+      "en": "I put green onions in the miso soup.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/55d3f578g8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03043A.mp3"
+    }
+  ]
+}

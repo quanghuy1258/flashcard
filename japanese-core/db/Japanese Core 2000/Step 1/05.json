@@ -1,0 +1,26 @@
+{
+  "ja": "冬休み",
+  "hrkt": "ふゆやすみ",
+  "latn": "fuyuyasumi",
+  "en": "winter vacation",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08169A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>冬休み</b>にお祖父ちゃんの家に行きます。",
+      "hrkt": "<b>ふゆやすみ</b> に おじいちゃん の うち に いきます。",
+      "latn": "<b>fuyuyasumi</b> ni ojiichan no uchi ni ikimasu.",
+      "en": "I'm going to my grandpa's house during winter break.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4140144.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08169A.mp3"
+    },
+    {
+      "ja": "<b>冬休み</b>は12月25日に始まります。",
+      "hrkt": "<b>ふゆやすみ</b> は 12 がつ 25 にち に はじまります。",
+      "latn": "<b>fuyuyasumi</b> ha 12 gatsu 25 nichi ni hajimarimasu.",
+      "en": "Winter break starts on December 25th.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a5aacg9rck.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "弱る",
+  "hrkt": "よわる",
+  "latn": "yowaru",
+  "en": "weaken, be debilitated",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02291A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は病気で<b>弱って</b>いるんだ。",
+      "hrkt": "かれ は びょうき で <b>よわって</b> いる ん だ。",
+      "latn": "kare ha byouki de <b>yowatte</b> iru n da.",
+      "en": "He's been getting weaker due to his illness.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02291A.mp3"
+    }
+  ]
+}

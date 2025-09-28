@@ -1,0 +1,18 @@
+{
+  "ja": "測る",
+  "hrkt": "はかる",
+  "latn": "hakaru",
+  "en": "measure (length, depth, distance or dimensions)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01136A.mp3",
+  "sentences": [
+    {
+      "ja": "このドアの高さを<b>測って</b>ください。",
+      "hrkt": "この ドア の たかさ を <b>はかって</b> ください。",
+      "latn": "kono doa no takasa wo <b>hakatte</b> kudasai.",
+      "en": "Please measure the height of this door.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01136A.mp3"
+    }
+  ]
+}

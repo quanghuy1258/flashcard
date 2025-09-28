@@ -1,0 +1,18 @@
+{
+  "ja": "隅",
+  "hrkt": "すみ",
+  "latn": "sumi",
+  "en": "corner",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03680A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋の<b>隅</b>に椅子が積んであったの。",
+      "hrkt": "へや の <b>すみ</b> に いす が つんで あった の。",
+      "latn": "heya no <b>sumi</b> ni isu ga tsunde atta no.",
+      "en": "There was a pile of chairs on the corner of the room.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03680A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "自炊",
+  "hrkt": "じすい",
+  "latn": "jisui",
+  "en": "cooking (for oneself)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03695A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎日、<b>自炊</b>している。",
+      "hrkt": "わたし は まいにち、<b>じすい</b> して いる。",
+      "latn": "watashi ha mainichi,<b>jisui</b> shite iru.",
+      "en": "I cook for myself every day.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4886447.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03695A.mp3"
+    },
+    {
+      "ja": "私は料理ができないので、<b>自炊</b>は無理です。",
+      "hrkt": "わたし は りょうり が できない ので、<b>じすい</b> は むり です。",
+      "latn": "watashi ha ryouri ga dekinai node,<b>jisui</b> ha muri desu.",
+      "en": "I can't cook, so it's impossible for me to cook for myself.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/7603298c5k.mp3"
+    }
+  ]
+}

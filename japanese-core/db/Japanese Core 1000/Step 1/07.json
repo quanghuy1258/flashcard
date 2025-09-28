@@ -1,0 +1,26 @@
+{
+  "ja": "仕事",
+  "hrkt": "しごと",
+  "latn": "shigoto",
+  "en": "work, job",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03665A.mp3",
+  "sentences": [
+    {
+      "ja": "3月は<b>仕事</b>が忙しい。",
+      "hrkt": "3 がつ は <b>しごと</b> が いそがしい。",
+      "latn": "3 gatsu ha <b>shigoto</b> ga isogashii.",
+      "en": "I'm busy at work in March.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5617209.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03665A.mp3"
+    },
+    {
+      "ja": "<b>仕事</b>のあと、映画を見た。",
+      "hrkt": "<b>しごと</b> の あと、 えいが を みた。",
+      "latn": "<b>shigoto</b> no ato, eiga wo mita.",
+      "en": "I saw a movie after work.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4302585.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00187A.mp3"
+    }
+  ]
+}

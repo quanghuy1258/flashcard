@@ -1,0 +1,26 @@
+{
+  "ja": "人気",
+  "hrkt": "にんき",
+  "latn": "ninki",
+  "en": "popularity",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06911A.mp3",
+  "sentences": [
+    {
+      "ja": "このバンドはとても<b>人気</b>があるよ。",
+      "hrkt": "この バンド は とても <b>にんき</b> が ある よ。",
+      "latn": "kono bando ha totemo <b>ninki</b> ga aru yo.",
+      "en": "That band is very popular.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5302201.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06911A.mp3"
+    },
+    {
+      "ja": "あの店は若い人たちに<b>人気</b>です。",
+      "hrkt": "あの みせ は わかい ひと たち に <b>にんき</b> です。",
+      "latn": "ano mise ha wakai hito tachi ni <b>ninki</b> desu.",
+      "en": "That shop is popular among young people.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/458jai0q9k.mp3"
+    }
+  ]
+}

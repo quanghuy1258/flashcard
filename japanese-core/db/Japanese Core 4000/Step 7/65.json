@@ -1,0 +1,18 @@
+{
+  "ja": "森林",
+  "hrkt": "しんりん",
+  "latn": "shinrin",
+  "en": "forest, woodland",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00867A.mp3",
+  "sentences": [
+    {
+      "ja": "世界中で<b>森林</b>が失われています。",
+      "hrkt": "せかい じゅう で <b>しんりん</b> が うしなわれて います。",
+      "latn": "sekai juu de <b>shinrin</b> ga ushinawarete imasu.",
+      "en": "Forests are being lost all over the world.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00867A.mp3"
+    }
+  ]
+}

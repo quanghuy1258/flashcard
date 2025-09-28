@@ -1,0 +1,18 @@
+{
+  "ja": "板",
+  "hrkt": "いた",
+  "latn": "ita",
+  "en": "board, plank",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01283A.mp3",
+  "sentences": [
+    {
+      "ja": "父は長い<b>板</b>を買ってきたんだ。",
+      "hrkt": "ちち は ながい <b>いた</b> を かって きた ん だ。",
+      "latn": "chichi ha nagai <b>ita</b> wo katte kita n da.",
+      "en": "My father bought a long plank.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01283A.mp3"
+    }
+  ]
+}

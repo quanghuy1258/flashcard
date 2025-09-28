@@ -1,0 +1,26 @@
+{
+  "ja": "危ない",
+  "hrkt": "あぶない",
+  "latn": "abunai",
+  "en": "dangerous",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00210A.mp3",
+  "sentences": [
+    {
+      "ja": "その道は車が多くて<b>危ない</b>。",
+      "hrkt": "その みち は くるま が おおくて <b>あぶない</b>。",
+      "latn": "sono michi ha kuruma ga ookute <b>abunai</b>.",
+      "en": "There are many cars on that road, so it's dangerous.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4859638.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00210A.mp3"
+    },
+    {
+      "ja": "後ろから押すと<b>危ない</b>ですよ。",
+      "hrkt": "うしろ から おす と <b>あぶない</b> です よ。",
+      "latn": "ushiro kara osu to <b>abunai</b> desu yo.",
+      "en": "It's dangerous to push from behind.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/1lal5n2jku4do.jpg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/2l6l9n6jku7a8.mp3"
+    }
+  ]
+}

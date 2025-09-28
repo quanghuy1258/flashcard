@@ -1,0 +1,26 @@
+{
+  "ja": "ピンク",
+  "hrkt": "ピンク",
+  "latn": "pinku",
+  "en": "pink",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07919A.mp3",
+  "sentences": [
+    {
+      "ja": "娘が<b>ピンク</b>のドレスを着ている。",
+      "hrkt": "むすめ が <b>ピンク</b> の ドレス を きて いる。",
+      "latn": "musume ga <b>pinku</b> no doresu wo kite iru.",
+      "en": "My daughter is wearing a pink dress.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6137537.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07919A.mp3"
+    },
+    {
+      "ja": "妻は<b>ピンク</b>の花が好きです。",
+      "hrkt": "つま は <b>ピンク</b> の はな が すき です。",
+      "latn": "tsuma ha <b>pinku</b> no hana ga suki desu.",
+      "en": "My wife likes pink flowers.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d650f4cq7s.mp3"
+    }
+  ]
+}

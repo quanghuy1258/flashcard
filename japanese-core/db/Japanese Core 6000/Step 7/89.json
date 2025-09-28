@@ -1,0 +1,18 @@
+{
+  "ja": "田畑",
+  "hrkt": "たはた",
+  "latn": "tahata",
+  "en": "fields and rice paddies",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02195A.mp3",
+  "sentences": [
+    {
+      "ja": "この村には<b>田畑</b>がたくさんあります。",
+      "hrkt": "この むら に は <b>たはた</b> が たくさん あります。",
+      "latn": "kono mura ni ha <b>tahata</b> ga takusan arimasu.",
+      "en": "There are a lot of fields and rice paddies in this village.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Cerego/3eab1d7a23183628a94889d3a48aa277.mp3"
+    }
+  ]
+}

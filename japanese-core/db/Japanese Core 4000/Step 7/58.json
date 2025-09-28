@@ -1,0 +1,18 @@
+{
+  "ja": "前進",
+  "hrkt": "ぜんしん",
+  "latn": "zenshin",
+  "en": "advance, proceed",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00972A.mp3",
+  "sentences": [
+    {
+      "ja": "一列に並んで<b>前進</b>してください。",
+      "hrkt": "いち れつ に ならんで <b>ぜんしん</b> して ください。",
+      "latn": "ichi retsu ni narande <b>zenshin</b> shite kudasai.",
+      "en": "Please line up and proceed forward.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00972A.mp3"
+    }
+  ]
+}

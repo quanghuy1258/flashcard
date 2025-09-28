@@ -1,0 +1,18 @@
+{
+  "ja": "組み込む",
+  "hrkt": "くみこむ",
+  "latn": "kumikomu",
+  "en": "incorporate, introduce (something) into",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00886A.mp3",
+  "sentences": [
+    {
+      "ja": "キャンペーンに新しいイベントを<b>組み込みました</b>。",
+      "hrkt": "キャンペーン に あたらしい イベント を <b>くみこみました</b>。",
+      "latn": "kyanpe-n ni atarashii ibento wo <b>kumikomimashita</b>.",
+      "en": "We introduced a new event into the campaign.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00886A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "仕上げ",
+  "hrkt": "しあげ",
+  "latn": "shiage",
+  "en": "finishing touch",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01578A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は論文の<b>仕上げ</b>に入ったの。",
+      "hrkt": "かれ は ろんぶん の <b>しあげ</b> に はいった の。",
+      "latn": "kare ha ronbun no <b>shiage</b> ni haitta no.",
+      "en": "He's finishing up his thesis.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01578A.mp3"
+    }
+  ]
+}

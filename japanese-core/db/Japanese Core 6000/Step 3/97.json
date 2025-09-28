@@ -1,0 +1,18 @@
+{
+  "ja": "近視",
+  "hrkt": "きんし",
+  "latn": "kinshi",
+  "en": "near-sightedness (formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02916A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は軽い<b>近視</b>です。",
+      "hrkt": "かれ は かるい <b>きんし</b> です。",
+      "latn": "kare ha karui <b>kinshi</b> desu.",
+      "en": "He is slightly near-sighted.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02916A.mp3"
+    }
+  ]
+}

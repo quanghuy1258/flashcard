@@ -1,0 +1,26 @@
+{
+  "ja": "全然",
+  "hrkt": "ぜんぜん",
+  "latn": "zenzen",
+  "en": "(not ) at all",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04897A.mp3",
+  "sentences": [
+    {
+      "ja": "この本は<b>全然</b>面白くなかった。",
+      "hrkt": "この ほん は <b>ぜんぜん</b> おもしろくなかった。",
+      "latn": "kono hon ha <b>zenzen</b> omoshirokunakatta.",
+      "en": "This book wasn't interesting at all.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/859684.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04897A.mp3"
+    },
+    {
+      "ja": "今月はお金が<b>全然</b>足りません。",
+      "hrkt": "こんげつ は おかね が <b>ぜんぜん</b> たりません。",
+      "latn": "kongetsu ha okane ga <b>zenzen</b> tarimasen.",
+      "en": "This month I don't have enough money at all.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c31s9i9c0o.mp3"
+    }
+  ]
+}

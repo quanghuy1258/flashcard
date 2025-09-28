@@ -1,0 +1,18 @@
+{
+  "ja": "追う",
+  "hrkt": "おう",
+  "latn": "ou",
+  "en": "chase, pursue",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00335A.mp3",
+  "sentences": [
+    {
+      "ja": "警官は怪しい男のあとを<b>追った</b>よ。",
+      "hrkt": "けいかん は あやしい おとこ の あと を <b>おった</b> よ。",
+      "latn": "keikan ha ayashii otoko no ato wo <b>otta</b> yo.",
+      "en": "The police officer chased the suspicious man.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/149h10141c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00335A.mp3"
+    }
+  ]
+}

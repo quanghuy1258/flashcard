@@ -1,0 +1,26 @@
+{
+  "ja": "覚える",
+  "hrkt": "おぼえる",
+  "latn": "oboeru",
+  "en": "memorize, learn",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01183A.mp3",
+  "sentences": [
+    {
+      "ja": "妹は平仮名を全部<b>覚えました</b>。",
+      "hrkt": "いもうと は ひらがな を ぜんぶ <b>おぼえました</b>。",
+      "latn": "imouto ha hiragana wo zenbu <b>oboemashita</b>.",
+      "en": "My little sister learned all hiragana.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/379515.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01183A.mp3"
+    },
+    {
+      "ja": "その車のナンバーを<b>覚えて</b>いますか。",
+      "hrkt": "その くるま の ナンバー を <b>おぼえて</b> います か。",
+      "latn": "sono kuruma no nanba- wo <b>oboete</b> imasu ka.",
+      "en": "Do you remember the car's license number?",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/a5fv7lerc4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02423A.mp3"
+    }
+  ]
+}

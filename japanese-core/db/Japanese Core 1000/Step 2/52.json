@@ -1,0 +1,26 @@
+{
+  "ja": "座る",
+  "hrkt": "すわる",
+  "latn": "suwaru",
+  "en": "sit, sit down",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04654A.mp3",
+  "sentences": [
+    {
+      "ja": "私は窓側の席に<b>座った</b>。",
+      "hrkt": "わたし は まどがわ の せき に <b>すわった</b>。",
+      "latn": "watashi ha madogawa no seki ni <b>suwatta</b>.",
+      "en": "I sat in a window seat.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/882224.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04654A.mp3"
+    },
+    {
+      "ja": "そこに<b>座って</b>ください。",
+      "hrkt": "そこ に <b>すわって</b> ください。",
+      "latn": "soko ni <b>suwatte</b> kudasai.",
+      "en": "Please sit there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1549229.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05045A.mp3"
+    }
+  ]
+}

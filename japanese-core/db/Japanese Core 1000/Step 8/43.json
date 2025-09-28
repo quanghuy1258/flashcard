@@ -1,0 +1,26 @@
+{
+  "ja": "宿題",
+  "hrkt": "しゅくだい",
+  "latn": "shukudai",
+  "en": "homework",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04038A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>宿題</b>、手伝ってくれない？",
+      "hrkt": "<b>しゅくだい</b> 、てつだって くれない？",
+      "latn": "<b>shukudai</b> ,tetsudatte kurenai?",
+      "en": "Can you help me with my homework?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4630257.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04038A.mp3"
+    },
+    {
+      "ja": "一緒に<b>宿題</b>をやろう。",
+      "hrkt": "いっしょ に <b>しゅくだい</b> を やろう。",
+      "latn": "issho ni <b>shukudai</b> wo yarou.",
+      "en": "Let's do our homework together.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4629781.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09462A.mp3"
+    }
+  ]
+}

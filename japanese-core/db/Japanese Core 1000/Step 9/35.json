@@ -1,0 +1,26 @@
+{
+  "ja": "ずっと",
+  "hrkt": "ずっと",
+  "latn": "zutto",
+  "en": "all the time, all through",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04585A.mp3",
+  "sentences": [
+    {
+      "ja": "父は休みの日は<b>ずっと</b>テレビを見ている。",
+      "hrkt": "ちち は やすみ の ひ は <b>ずっと</b> テレビ を みて いる。",
+      "latn": "chichi ha yasumi no hi ha <b>zutto</b> terebi wo mite iru.",
+      "en": "My father spends his days off watching TV all the time.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4039920.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04585A.mp3"
+    },
+    {
+      "ja": "これからは<b>ずっと</b>一緒だよ。",
+      "hrkt": "これから は <b>ずっと</b> いっしょ だ よ。",
+      "latn": "korekara ha <b>zutto</b> issho da yo.",
+      "en": "We will be together all the time from now on.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/14a51pf8no.mp3"
+    }
+  ]
+}

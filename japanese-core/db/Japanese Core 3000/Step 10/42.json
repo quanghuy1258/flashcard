@@ -1,0 +1,18 @@
+{
+  "ja": "扱う",
+  "hrkt": "あつかう",
+  "latn": "atsukau",
+  "en": "handle, deal with",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00468A.mp3",
+  "sentences": [
+    {
+      "ja": "この荷物は丁寧に<b>扱って</b>ください。",
+      "hrkt": "この にもつ は ていねい に <b>あつかって</b> ください 。",
+      "latn": "kono nimotsu ha teinei ni <b>atsukatte</b> kudasai .",
+      "en": "Please handle this luggage with care.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/32a1fd8rbg.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00468A.mp3"
+    }
+  ]
+}

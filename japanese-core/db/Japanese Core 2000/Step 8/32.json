@@ -1,0 +1,26 @@
+{
+  "ja": "何しろ",
+  "hrkt": "なにしろ",
+  "latn": "nanishiro",
+  "en": "anyhow, as you may know",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03789A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>何しろ</b>よくしゃべります。",
+      "hrkt": "かれ は <b>なにしろ</b> よく しゃべります。",
+      "latn": "kare ha <b>nanishiro</b> yoku shaberimasu.",
+      "en": "As you may know, he talks a lot.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3326333.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03789A.mp3"
+    },
+    {
+      "ja": "妻は<b>何しろ</b>食べるのが遅い。",
+      "hrkt": "つま は <b>なにしろ</b> たべる の が おそい。",
+      "latn": "tsuma ha <b>nanishiro</b> taberu no ga osoi.",
+      "en": "My wife eats slowly as you may know.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f50ccjev60.mp3"
+    }
+  ]
+}

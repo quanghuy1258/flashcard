@@ -1,0 +1,18 @@
+{
+  "ja": "否定",
+  "hrkt": "ひてい",
+  "latn": "hitei",
+  "en": "denial, negation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00312A.mp3",
+  "sentences": [
+    {
+      "ja": "彼、友達の意見を<b>否定</b>した。",
+      "hrkt": "かれ、ともだち の いけん を <b>ひてい</b> した。",
+      "latn": "kare,tomodachi no iken wo <b>hitei</b> shita.",
+      "en": "He disagreed with his friend's opinion.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/21981ucgn0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00312A.mp3"
+    }
+  ]
+}

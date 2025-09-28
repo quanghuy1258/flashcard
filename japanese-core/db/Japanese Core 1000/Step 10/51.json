@@ -1,0 +1,26 @@
+{
+  "ja": "ビル",
+  "hrkt": "ビル",
+  "latn": "biru",
+  "en": "building (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07894A.mp3",
+  "sentences": [
+    {
+      "ja": "私の会社はあの<b>ビル</b>の8階です。",
+      "hrkt": "わたし の かいしゃ は あの <b>ビル</b> の 8 かい です。",
+      "latn": "watashi no kaisha ha ano <b>biru</b> no 8 kai desu.",
+      "en": "My company's on the eighth floor of that building.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5375076.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07894A.mp3"
+    },
+    {
+      "ja": "これがこの町でいちばん高い<b>ビル</b>です。",
+      "hrkt": "これ が この まち で いちばん たかい ビル です。",
+      "latn": "kore ga kono machi de ichiban takai biru desu.",
+      "en": "This is the tallest building in this town.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4833777.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05292A.mp3"
+    }
+  ]
+}

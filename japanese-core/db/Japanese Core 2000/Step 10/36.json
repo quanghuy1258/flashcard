@@ -1,0 +1,26 @@
+{
+  "ja": "状態",
+  "hrkt": "じょうたい",
+  "latn": "joutai",
+  "en": "state, condition",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04198A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは道の<b>状態</b>がとても悪いです。",
+      "hrkt": "ここ は みち の <b>じょうたい</b> が とても わるい です。",
+      "latn": "koko ha michi no <b>joutai</b> ga totemo warui desu.",
+      "en": "The road here is in a very bad condition.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5532755.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04198A.mp3"
+    },
+    {
+      "ja": "祖父の健康<b>状態</b>はあまりよくありません。",
+      "hrkt": "そふ の けんこう <b>じょうたい</b> は あまり よく ありません。",
+      "latn": "sofu no kenkou <b>joutai</b> ha amari yoku arimasen.",
+      "en": "My grandfather's health condition is not very good.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/325pc4726o.mp3"
+    }
+  ]
+}

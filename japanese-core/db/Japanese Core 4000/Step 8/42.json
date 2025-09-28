@@ -1,0 +1,18 @@
+{
+  "ja": "渋滞",
+  "hrkt": "じゅうたい",
+  "latn": "juutai",
+  "en": "traffic jam, backup",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01799A.mp3",
+  "sentences": [
+    {
+      "ja": "この国道はよく<b>渋滞</b>します。",
+      "hrkt": "この こくどう は よく <b>じゅうたい</b> します。",
+      "latn": "kono kokudou ha yoku <b>juutai</b> shimasu.",
+      "en": "This national highway is often backed up.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01799A.mp3"
+    }
+  ]
+}

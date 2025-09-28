@@ -1,0 +1,18 @@
+{
+  "ja": "延びる",
+  "hrkt": "のびる",
+  "latn": "nobiru",
+  "en": "extend, be postponed",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01719A.mp3",
+  "sentences": [
+    {
+      "ja": "工事の予定が1か月<b>延びて</b>しまった。",
+      "hrkt": "こうじ の よてい が 1 かげつ <b>のびて</b> しまった。",
+      "latn": "kouji no yotei ga 1 kagetsu <b>nobite</b> shimatta.",
+      "en": "The construction schedule has been postponed for one month.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01719A.mp3"
+    }
+  ]
+}

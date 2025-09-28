@@ -1,0 +1,18 @@
+{
+  "ja": "通知",
+  "hrkt": "つうち",
+  "latn": "tsuuchi",
+  "en": "notification",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01733A.mp3",
+  "sentences": [
+    {
+      "ja": "明日、詳細を<b>通知</b>します。",
+      "hrkt": "あす、しょうさい を <b>つうち</b> します。",
+      "latn": "asu,shousai wo <b>tsuuchi</b> shimasu.",
+      "en": "I'll notify you of the details tomorrow.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01733A.mp3"
+    }
+  ]
+}

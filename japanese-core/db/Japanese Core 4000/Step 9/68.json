@@ -1,0 +1,18 @@
+{
+  "ja": "水平",
+  "hrkt": "すいへい",
+  "latn": "suihei",
+  "en": "horizontal, level",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01478A.mp3",
+  "sentences": [
+    {
+      "ja": "この棚は<b>水平</b>になっていませんね。",
+      "hrkt": "この たな は <b>すいへい</b> に なって いません ね。",
+      "latn": "kono tana ha <b>suihei</b> ni natte imasen ne.",
+      "en": "This shelf is not level.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01478A.mp3"
+    }
+  ]
+}

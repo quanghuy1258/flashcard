@@ -1,0 +1,18 @@
+{
+  "ja": "郊外",
+  "hrkt": "こうがい",
+  "latn": "kougai",
+  "en": "suburbs",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00637A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>郊外</b>に家を買いました。",
+      "hrkt": "わたし は <b>こうがい</b> に いえ を かいました。",
+      "latn": "watashi ha <b>kougai</b> ni ie wo kaimashita.",
+      "en": "I bought a house in the suburbs.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00637A.mp3"
+    }
+  ]
+}

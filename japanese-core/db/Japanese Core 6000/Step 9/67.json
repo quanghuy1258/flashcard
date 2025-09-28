@@ -1,0 +1,18 @@
+{
+  "ja": "原",
+  "hrkt": "はら",
+  "latn": "hara",
+  "en": "plain, field",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03831A.mp3",
+  "sentences": [
+    {
+      "ja": "クローバーの<b>原</b>でピクニックをしたよ。",
+      "hrkt": "クローバー の <b>はら</b> で ピクニック を した よ。",
+      "latn": "kuro-ba- no <b>hara</b> de pikunikku wo shita yo.",
+      "en": "We had a picnic in a clover field.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03831A.mp3"
+    }
+  ]
+}

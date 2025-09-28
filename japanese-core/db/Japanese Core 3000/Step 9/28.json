@@ -1,0 +1,18 @@
+{
+  "ja": "タイプ",
+  "hrkt": "タイプ",
+  "latn": "taipu",
+  "en": "type",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00300A.mp3",
+  "sentences": [
+    {
+      "ja": "同じ<b>タイプ</b>で色の違うものはありますか。",
+      "hrkt": "おなじ <b>タイプ</b> で いろ の ちがう もの は あります か。",
+      "latn": "onaji <b>taipu</b> de iro no chigau mono ha arimasu ka.",
+      "en": "Do you have the same type in a different color?",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/34d1206tq8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00300A.mp3"
+    }
+  ]
+}

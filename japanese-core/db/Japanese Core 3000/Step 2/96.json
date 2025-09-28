@@ -1,0 +1,26 @@
+{
+  "ja": "ポイント",
+  "hrkt": "ポイント",
+  "latn": "pointo",
+  "en": "point",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/740g3cc7fc.mp3",
+  "sentences": [
+    {
+      "ja": "話の<b>ポイント</b>を書き取った。",
+      "hrkt": "はなし の <b>ポイント</b> を かきとった 。",
+      "latn": "hanashi no <b>pointo</b> wo kakitotta .",
+      "en": "I wrote down the main points of what was said.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4706304.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01478A.mp3"
+    },
+    {
+      "ja": "先生が授業の<b>ポイント</b>を黒板に書いた。",
+      "hrkt": "せんせい が じゅぎょう の <b>ポイント</b> を こくばん に かいた。",
+      "latn": "sensei ga jugyou no <b>pointo</b> wo kokuban ni kaita.",
+      "en": "The teacher wrote the points of the class on the blackboard.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a464fje68g.mp3"
+    }
+  ]
+}

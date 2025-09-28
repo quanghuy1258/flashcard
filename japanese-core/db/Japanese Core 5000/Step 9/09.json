@@ -1,0 +1,18 @@
+{
+  "ja": "主体",
+  "hrkt": "しゅたい",
+  "latn": "shutai",
+  "en": "agent, main constituent",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01164A.mp3",
+  "sentences": [
+    {
+      "ja": "政治は国民<b>主体</b>であるべきです。",
+      "hrkt": "せいじ は こくみん <b>しゅたい</b> で ある べき です。",
+      "latn": "seiji ha kokumin <b>shutai</b> de aru beki desu.",
+      "en": "The government should be for the people.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01164A.mp3"
+    }
+  ]
+}

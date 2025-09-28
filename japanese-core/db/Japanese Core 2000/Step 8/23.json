@@ -1,0 +1,26 @@
+{
+  "ja": "いよいよ",
+  "hrkt": "いよいよ",
+  "latn": "iyoiyo",
+  "en": "finally, any moment",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00810A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は<b>いよいよ</b>出発の日です。",
+      "hrkt": "あした は <b>いよいよ</b> しゅっぱつ の ひ です。",
+      "latn": "ashita ha <b>iyoiyo</b> shuppatsu no hi desu.",
+      "en": "We'll finally leave here tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3257236.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00810A.mp3"
+    },
+    {
+      "ja": "<b>いよいよ</b>夏休みが始まります。",
+      "hrkt": "<b>いよいよ</b> なつやすみ が はじまります。",
+      "latn": "<b>iyoiyo</b> natsuyasumi ga hajimarimasu.",
+      "en": "Finally, summer vacation is starting.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/640c1o5pp8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "鎖",
+  "hrkt": "くさり",
+  "latn": "kusari",
+  "en": "chain",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03208A.mp3",
+  "sentences": [
+    {
+      "ja": "犬を<b>鎖</b>でつなぎました。",
+      "hrkt": "いぬ を <b>くさり</b> で つなぎました。",
+      "latn": "inu wo <b>kusari</b> de tsunagimashita.",
+      "en": "I tied up the dog with a chain.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03208A.mp3"
+    }
+  ]
+}

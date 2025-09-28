@@ -1,0 +1,26 @@
+{
+  "ja": "マーケット",
+  "hrkt": "マーケット",
+  "latn": "ma-ketto",
+  "en": "market",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01205A.mp3",
+  "sentences": [
+    {
+      "ja": "あの会社は海外<b>マーケット</b>に強いです。",
+      "hrkt": "あの かいしゃ は かいがい <b>マーケット</b> に つよい です。",
+      "latn": "ano kaisha ha kaigai <b>ma-ketto</b> ni tsuyoi desu.",
+      "en": "That company is strong in overseas marketing.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/24fs1hcf90.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/544c158m2s.mp3"
+    },
+    {
+      "ja": "国内<b>マーケット</b>にもチャンスはあります。",
+      "hrkt": "こくない <b>マーケット</b> に も チャンス は あります。",
+      "latn": "kokunai <b>ma-ketto</b> ni mo chansu ha arimasu.",
+      "en": "There is an opportunity in domestic marketing, too.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a41fc811ck.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "好き",
+  "hrkt": "すき",
+  "latn": "suki",
+  "en": "favorite, liked",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04528A.mp3",
+  "sentences": [
+    {
+      "ja": "私はワインが<b>好き</b>です。",
+      "hrkt": "わたし は ワイン が <b>すき</b> です。",
+      "latn": "watashi ha wain ga <b>suki</b> desu.",
+      "en": "I like wine.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4303008.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04528A.mp3"
+    },
+    {
+      "ja": "子供はカレーライスが<b>好き</b>です。",
+      "hrkt": "こども は カレーライス が <b>すき</b> です。",
+      "latn": "kodomo ha kare-raisu ga <b>suki</b> desu.",
+      "en": "Kids like curry and rice.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/431121.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01836A.mp3"
+    }
+  ]
+}

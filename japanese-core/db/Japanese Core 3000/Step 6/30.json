@@ -1,0 +1,18 @@
+{
+  "ja": "つるつる",
+  "hrkt": "つるつる",
+  "latn": "tsurutsuru",
+  "en": "smooth, slippery",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03367A.mp3",
+  "sentences": [
+    {
+      "ja": "床が<b>つるつる</b>すべります。",
+      "hrkt": "ゆか が <b>つるつる</b> すべります。",
+      "latn": "yuka ga <b>tsurutsuru</b> suberimasu.",
+      "en": "The floor is slippery.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c53b63amlk.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03367A.mp3"
+    }
+  ]
+}

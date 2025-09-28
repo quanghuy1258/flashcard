@@ -1,0 +1,18 @@
+{
+  "ja": "タイヤ",
+  "hrkt": "タイヤ",
+  "latn": "taiya",
+  "en": "tire",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01750A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>タイヤ</b>を交換してください。",
+      "hrkt": "<b>タイヤ</b> を こうかん して ください。",
+      "latn": "<b>taiya</b> wo koukan shite kudasai.",
+      "en": "Please change the tires.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01750A.mp3"
+    }
+  ]
+}

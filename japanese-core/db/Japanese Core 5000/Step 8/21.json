@@ -1,0 +1,18 @@
+{
+  "ja": "理論",
+  "hrkt": "りろん",
+  "latn": "riron",
+  "en": "theory",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00327A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は大学で音楽の<b>理論</b>を勉強したんだよ。",
+      "hrkt": "かれ は だいがく で おんがく の <b>りろん</b> を べんきょう した ん だ よ。",
+      "latn": "kare ha daigaku de ongaku no <b>riron</b> wo benkyou shita n da yo.",
+      "en": "He studied music theory in college.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00327A.mp3"
+    }
+  ]
+}

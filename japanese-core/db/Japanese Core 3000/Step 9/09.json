@@ -1,0 +1,18 @@
+{
+  "ja": "話題",
+  "hrkt": "わだい",
+  "latn": "wadai",
+  "en": "topic of conversation, being talked about",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00182A.mp3",
+  "sentences": [
+    {
+      "ja": "ここが<b>話題</b>のレストランです。",
+      "hrkt": "ここ が <b>わだい</b> の レストラン です。",
+      "latn": "koko ga <b>wadai</b> no resutoran desu.",
+      "en": "This is the restaurant everyone is talking about.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/832ibf4mp8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00182A.mp3"
+    }
+  ]
+}

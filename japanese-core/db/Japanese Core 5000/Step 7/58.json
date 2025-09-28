@@ -1,0 +1,18 @@
+{
+  "ja": "値切る",
+  "hrkt": "ねぎる",
+  "latn": "negiru",
+  "en": "ask for a discount, haggle for bargains",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03160A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>値切る</b>のが上手です。",
+      "hrkt": "かれ は <b>ねぎる</b> の が じょうず です。",
+      "latn": "kare ha <b>negiru</b> no ga jouzu desu.",
+      "en": "He's good at haggling for bargains.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03160A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "差す",
+  "hrkt": "さす",
+  "latn": "sasu",
+  "en": "open (an umbrella)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02726A.mp3",
+  "sentences": [
+    {
+      "ja": "雨が降ってきたので傘を<b>差しました</b>。",
+      "hrkt": "あめ が ふって きた ので かさ を <b>さしました</b>。",
+      "latn": "ame ga futte kita node kasa wo <b>sashimashita</b>.",
+      "en": "I opened my umbrella as it started to rain.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02726A.mp3"
+    }
+  ]
+}

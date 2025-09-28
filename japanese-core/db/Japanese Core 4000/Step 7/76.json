@@ -1,0 +1,18 @@
+{
+  "ja": "気候",
+  "hrkt": "きこう",
+  "latn": "kikou",
+  "en": "climate",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01361A.mp3",
+  "sentences": [
+    {
+      "ja": "日本の<b>気候</b>は温暖です。",
+      "hrkt": "にっぽん の <b>きこう</b> は おんだん です。",
+      "latn": "nippon no <b>kikou</b> ha ondan desu.",
+      "en": "The climate in Japan is temperate.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01361A.mp3"
+    }
+  ]
+}

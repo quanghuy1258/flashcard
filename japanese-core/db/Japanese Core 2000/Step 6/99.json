@@ -1,0 +1,26 @@
+{
+  "ja": "大統領",
+  "hrkt": "だいとうりょう",
+  "latn": "daitouryou",
+  "en": "president (of a country)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05233A.mp3",
+  "sentences": [
+    {
+      "ja": "フランスの<b>大統領</b>は誰ですか。",
+      "hrkt": "フランス の <b>だいとうりょう</b> は だれ です か。",
+      "latn": "furansu no <b>daitouryou</b> ha dare desu ka.",
+      "en": "Who's the president of France?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1748136.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05233A.mp3"
+    },
+    {
+      "ja": "今、アメリカの<b>大統領</b>が日本に来ています。",
+      "hrkt": "いま、アメリカ の <b>だいとうりょう</b> が にほん に きて います。",
+      "latn": "ima,amerika no <b>daitouryou</b> ga nihon ni kite imasu.",
+      "en": "The U.S. president is in Japan now.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/356889afbs.mp3"
+    }
+  ]
+}

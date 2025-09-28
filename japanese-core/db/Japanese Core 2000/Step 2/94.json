@@ -1,0 +1,26 @@
+{
+  "ja": "プラスチック",
+  "hrkt": "プラスチック",
+  "latn": "purasuchikku",
+  "en": "plastic",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08179A.mp3",
+  "sentences": [
+    {
+      "ja": "このカップは<b>プラスチック</b>です。",
+      "hrkt": "この カップ は <b>プラスチック</b> です。",
+      "latn": "kono kappu ha <b>purasuchikku</b> desu.",
+      "en": "This cup is plastic.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5341724.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08179A.mp3"
+    },
+    {
+      "ja": "パーティーのために<b>プラスチック</b>のスプーンとフォークを買いました。",
+      "hrkt": "パーティー の ため に <b>プラスチック</b> の スプーン と フォーク を かいました。",
+      "latn": "pa-ti- no tame ni <b>purasuchikku</b> no supu-n to fo-ku wo kaimashita.",
+      "en": "For the party we bought plastic spoons and forks.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/76c9dj2kdg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "生徒",
+  "hrkt": "せいと",
+  "latn": "seito",
+  "en": "pupil, student",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04735A.mp3",
+  "sentences": [
+    {
+      "ja": "このクラスの<b>生徒</b>は30人です。",
+      "hrkt": "この クラス の <b>せいと</b> は 30 にん です。",
+      "latn": "kono kurasu no <b>seito</b> ha 30 nin desu.",
+      "en": "There are 30 students in this class.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3241754.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04735A.mp3"
+    },
+    {
+      "ja": "この学校では一人一人の<b>生徒</b>を大切にしています。",
+      "hrkt": "この がっこう で は ひとり ひとり の <b>せいと</b> を たいせつ に して います。",
+      "latn": "kono gakkou de ha hitori hitori no <b>seito</b> wo taisetsu ni shite imasu.",
+      "en": "Each individual student is valued in this school.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/457m4q5dsc.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e6f43saho4.mp3"
+    }
+  ]
+}

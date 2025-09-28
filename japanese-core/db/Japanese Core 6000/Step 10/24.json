@@ -1,0 +1,18 @@
+{
+  "ja": "茎",
+  "hrkt": "くき",
+  "latn": "kuki",
+  "en": "stem",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02379A.mp3",
+  "sentences": [
+    {
+      "ja": "チューリップは<b>茎</b>が長いです。",
+      "hrkt": "チューリップ は <b>くき</b> が ながい です。",
+      "latn": "chu-rippu ha <b>kuki</b> ga nagai desu.",
+      "en": "Tulips have long stems.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02379A.mp3"
+    }
+  ]
+}

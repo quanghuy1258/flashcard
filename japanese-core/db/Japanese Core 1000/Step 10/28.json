@@ -1,0 +1,26 @@
+{
+  "ja": "用意",
+  "hrkt": "ようい",
+  "latn": "youi",
+  "en": "preparation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09578A.mp3",
+  "sentences": [
+    {
+      "ja": "食事の<b>用意</b>ができました。",
+      "hrkt": "しょくじ の <b>ようい</b> が できました。",
+      "latn": "shokuji no <b>youi</b> ga dekimashita.",
+      "en": "The meal is ready.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4322751.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09578A.mp3"
+    },
+    {
+      "ja": "早く明日の<b>用意</b>をしなさい。",
+      "hrkt": "はやく あした の <b>ようい</b> を しなさい。",
+      "latn": "hayaku ashita no <b>youi</b> wo shinasai.",
+      "en": "Hurry up and prepare for tomorrow.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/05bf4v58gs.mp3"
+    }
+  ]
+}

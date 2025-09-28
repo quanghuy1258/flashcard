@@ -1,0 +1,18 @@
+{
+  "ja": "要旨",
+  "hrkt": "ようし",
+  "latn": "youshi",
+  "en": "overview, summary",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02750A.mp3",
+  "sentences": [
+    {
+      "ja": "会議の<b>要旨</b>は次のとおりです。",
+      "hrkt": "かいぎ の <b>ようし</b> は つぎ の とおり です。",
+      "latn": "kaigi no <b>youshi</b> ha tsugi no toori desu.",
+      "en": "The overview of the meeting is as follows.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02750A.mp3"
+    }
+  ]
+}

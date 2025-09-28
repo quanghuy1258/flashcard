@@ -1,0 +1,26 @@
+{
+  "ja": "パスポート",
+  "hrkt": "パスポート",
+  "latn": "pasupo-to",
+  "en": "passport",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07317A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>パスポート</b>が見つからない。",
+      "hrkt": "<b>パスポート</b> が みつからない。",
+      "latn": "<b>pasupo-to</b> ga mitsukaranai.",
+      "en": "I can't find my passport.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4517031.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07317A.mp3"
+    },
+    {
+      "ja": "私の<b>パスポート</b>がありません。",
+      "hrkt": "わたし の <b>パスポート</b> が ありません。",
+      "latn": "watashi no <b>pasupo-to</b> ga arimasen.",
+      "en": "My passport is missing.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/94e6a470gc.mp3"
+    }
+  ]
+}

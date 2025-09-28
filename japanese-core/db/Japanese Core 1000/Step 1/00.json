@@ -1,0 +1,26 @@
+{
+  "ja": "行く",
+  "hrkt": "いく",
+  "latn": "iku",
+  "en": "go",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00393A.mp3",
+  "sentences": [
+    {
+      "ja": "日曜日は図書館に<b>行きます</b>。",
+      "hrkt": "にちようび は としょかん に <b>いきます</b>。",
+      "latn": "nichiyoubi ha toshokan ni <b>ikimasu</b>.",
+      "en": "I go to the library on Sundays.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3835135.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00393A.mp3"
+    },
+    {
+      "ja": "私は夏休みにプールに<b>行った</b>。",
+      "hrkt": "わたし は なつやすみ に プール に <b>いった</b>。",
+      "latn": "watashi ha natsuyasumi ni pu-ru ni <b>itta</b>.",
+      "en": "I went to the pool during summer vacation.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4059172.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07970A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "白線",
+  "hrkt": "はくせん",
+  "latn": "hakusen",
+  "en": "white (warning) line",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03310A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>白線</b>の内側に下がってお待ちください。",
+      "hrkt": "<b>はくせん</b> の うちがわ に さがって おまち ください。",
+      "latn": "<b>hakusen</b> no uchigawa ni sagatte omachi kudasai.",
+      "en": "Please stand behind the white lines as you wait.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/350a638o4c.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03310A.mp3"
+    }
+  ]
+}

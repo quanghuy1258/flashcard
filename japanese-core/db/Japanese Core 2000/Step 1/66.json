@@ -1,0 +1,26 @@
+{
+  "ja": "卵",
+  "hrkt": "たまご",
+  "latn": "tamago",
+  "en": "egg",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05449A.mp3",
+  "sentences": [
+    {
+      "ja": "ニワトリは<b>卵</b>を産みます。",
+      "hrkt": "ニワトリ は <b>たまご</b> を うみます。",
+      "latn": "niwatori ha <b>tamago</b> wo umimasu.",
+      "en": "Chickens lay eggs.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3982612.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05449A.mp3"
+    },
+    {
+      "ja": "このオムレツに<b>卵</b>を三つ使いました。",
+      "hrkt": "この オムレツ に <b>たまご</b> を みっつ つかいました。",
+      "latn": "kono omuretsu ni <b>tamago</b> wo mittsu tsukaimashita.",
+      "en": "I used three eggs for this omelette.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c65haf1bdg.mp3"
+    }
+  ]
+}

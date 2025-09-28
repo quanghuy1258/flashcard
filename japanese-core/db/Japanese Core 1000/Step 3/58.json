@@ -1,0 +1,26 @@
+{
+  "ja": "つける",
+  "hrkt": "つける",
+  "latn": "tsukeru",
+  "en": "switch on, turn on",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05877A.mp3",
+  "sentences": [
+    {
+      "ja": "電気を<b>つけて</b>ください。",
+      "hrkt": "でんき を <b>つけて</b> ください。",
+      "latn": "denki wo <b>tsukete</b> kudasai.",
+      "en": "Please turn on the light.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3211481.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05877A.mp3"
+    },
+    {
+      "ja": "暑いのでクーラーを<b>つけました</b>。",
+      "hrkt": "あつい ので クーラー を <b>つけました</b>。",
+      "latn": "atsui node ku-ra- wo <b>tsukemashita</b>.",
+      "en": "I turned on the air conditioning because it was hot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5200319.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02418A.mp3"
+    }
+  ]
+}

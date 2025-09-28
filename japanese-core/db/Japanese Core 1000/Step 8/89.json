@@ -1,0 +1,26 @@
+{
+  "ja": "年間",
+  "hrkt": "ねんかん",
+  "latn": "nenkan",
+  "en": "period of one year",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07024A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>年間</b>5万人がここを訪れます。",
+      "hrkt": "<b>ねんかん</b> 5 まん にん が ここ を おとずれます。",
+      "latn": "<b>nenkan</b> 5 man nin ga koko wo otozuremasu.",
+      "en": "This place gets 50,000 visitors a year.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5311860.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07024A.mp3"
+    },
+    {
+      "ja": "私は<b>年間</b>で100万円、娘のバレエのレッスンに使います。",
+      "hrkt": "わたし は <b>ねんかん</b> で 100 まん えん、むすめ の バレエ の レッスン に つかいます。",
+      "latn": "watashi ha <b>nenkan</b> de 100 man en,musume no baree no ressun ni tsukaimasu.",
+      "en": "I spend about a million yen a year on my daughter's ballet lessons.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f30r62054s.mp3"
+    }
+  ]
+}

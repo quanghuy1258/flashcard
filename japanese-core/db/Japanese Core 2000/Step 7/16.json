@@ -1,0 +1,26 @@
+{
+  "ja": "味噌汁",
+  "hrkt": "みそしる",
+  "latn": "misoshiru",
+  "en": "miso soup",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08916A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎日<b>味噌汁</b>を飲みます。",
+      "hrkt": "わたし は まいにち <b>みそしる</b> を のみます。",
+      "latn": "watashi ha mainichi <b>misoshiru</b> wo nomimasu.",
+      "en": "I have miso soup every day.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2209089.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08916A.mp3"
+    },
+    {
+      "ja": "母は<b>味噌汁</b>に水を足した。",
+      "hrkt": "はは は <b>みそしる</b> に みず を たした。",
+      "latn": "haha ha <b>misoshiru</b> ni mizu wo tashita.",
+      "en": "My mother added water to the miso soup.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2287731.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05334A.mp3"
+    }
+  ]
+}

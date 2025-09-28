@@ -1,0 +1,26 @@
+{
+  "ja": "都市",
+  "hrkt": "とし",
+  "latn": "toshi",
+  "en": "city, urban city",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06422A.mp3",
+  "sentences": [
+    {
+      "ja": "東京は日本一大きな<b>都市</b>です。",
+      "hrkt": "とうきょう は にほん いち おおきな <b>とし</b> です。",
+      "latn": "toukyou ha nihon ichi ookina <b>toshi</b> desu.",
+      "en": "Tokyo is the largest city in Japan.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4702153.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06422A.mp3"
+    },
+    {
+      "ja": "その<b>都市</b>には大きな企業がたくさんあります。",
+      "hrkt": "その <b>とし</b> に は おおきな きぎょう が たくさん あります。",
+      "latn": "sono <b>toshi</b> ni ha ookina kigyou ga takusan arimasu.",
+      "en": "There are many large companies in the city.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c13s3s3kug.mp3"
+    }
+  ]
+}

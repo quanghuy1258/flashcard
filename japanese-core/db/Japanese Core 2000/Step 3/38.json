@@ -1,0 +1,26 @@
+{
+  "ja": "水道",
+  "hrkt": "すいどう",
+  "latn": "suidou",
+  "en": "water service, channel",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04493A.mp3",
+  "sentences": [
+    {
+      "ja": "東京は<b>水道</b>の水がまずい。",
+      "hrkt": "とうきょう は <b>すいどう</b> の みず が まずい。",
+      "latn": "toukyou ha <b>suidou</b> no mizu ga mazui.",
+      "en": "Tap water in Tokyo doesn't taste good.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3374296.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04493A.mp3"
+    },
+    {
+      "ja": "この国では<b>水道</b>の水を飲んではいけません。",
+      "hrkt": "この くに で は <b>すいどう</b> の みず を のんで は いけません。",
+      "latn": "kono kuni de ha <b>suidou</b> no mizu wo nonde ha ikemasen.",
+      "en": "In this country, you must not drink the tap water.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/139hcq5ih8.mp3"
+    }
+  ]
+}

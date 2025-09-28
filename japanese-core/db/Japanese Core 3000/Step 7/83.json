@@ -1,0 +1,18 @@
+{
+  "ja": "記事",
+  "hrkt": "きじ",
+  "latn": "kiji",
+  "en": "article, story",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00234A.mp3",
+  "sentences": [
+    {
+      "ja": "環境問題に関する<b>記事</b>を読んだの。",
+      "hrkt": "かんきょう もんだい に かんする <b>きじ</b> を よんだ の。",
+      "latn": "kankyou mondai ni kansuru <b>kiji</b> wo yonda no.",
+      "en": "I read an article on environmental issues.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/457q1h1a4k.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00234A.mp3"
+    }
+  ]
+}

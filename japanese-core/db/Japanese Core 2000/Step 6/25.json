@@ -1,0 +1,26 @@
+{
+  "ja": "覚める",
+  "hrkt": "さめる",
+  "latn": "sameru",
+  "en": "awake, wake up (naturally)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03492A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝は6時に目が<b>覚めた</b>。",
+      "hrkt": "けさ は 6じ に め が <b>さめた</b>。",
+      "latn": "kesa ha 6ji ni me ga <b>sameta</b>.",
+      "en": "I woke up at six o'clock this morning.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4360534.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03492A.mp3"
+    },
+    {
+      "ja": "これが悪い夢なら<b>覚めて</b>ほしい。",
+      "hrkt": "これ が わるい ゆめ なら <b>さめて</b> ほしい。",
+      "latn": "kore ga warui yume nara <b>samete</b> hoshii.",
+      "en": "If this is a bad dream, I want to wake up from it.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c6303j6mdc.mp3"
+    }
+  ]
+}

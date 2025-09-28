@@ -1,0 +1,18 @@
+{
+  "ja": "生産",
+  "hrkt": "せいさん",
+  "latn": "seisan",
+  "en": "production",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04694A.mp3",
+  "sentences": [
+    {
+      "ja": "ボルドーはワインの<b>生産</b>で有名だ。",
+      "hrkt": "ボルドー は ワイン の <b>せいさん</b> で ゆうめい だ。",
+      "latn": "borudo- ha wain no <b>seisan</b> de yuumei da.",
+      "en": "Bordeaux is famous for wine production.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b5fedu5g3g.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04694A.mp3"
+    }
+  ]
+}

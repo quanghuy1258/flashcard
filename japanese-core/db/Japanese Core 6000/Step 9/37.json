@@ -1,0 +1,18 @@
+{
+  "ja": "ごくんと",
+  "hrkt": "ごくんと",
+  "latn": "gokunto",
+  "en": "in one gulp",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03985A.mp3",
+  "sentences": [
+    {
+      "ja": "薬を<b>ごくんと</b>飲み込んだんだ。",
+      "hrkt": "くすり を <b>ごくん と</b> のみこんだ ん だ。",
+      "latn": "kusuri wo <b>gokun to</b> nomikonda n da.",
+      "en": "I swallowed the medicine in one gulp.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03985A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "舐める",
+  "hrkt": "なめる",
+  "latn": "nameru",
+  "en": "lick",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03792A.mp3",
+  "sentences": [
+    {
+      "ja": "犬に顔を<b>舐められました</b>。",
+      "hrkt": "いぬ に かお を <b>なめられました</b>。",
+      "latn": "inu ni kao wo <b>nameraremashita</b>.",
+      "en": "The dog licked my face.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b2dn2fd5tk.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03792A.mp3"
+    }
+  ]
+}

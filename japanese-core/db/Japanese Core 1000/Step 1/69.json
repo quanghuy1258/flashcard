@@ -1,0 +1,26 @@
+{
+  "ja": "帰る",
+  "hrkt": "かえる",
+  "latn": "kaeru",
+  "en": "go back home",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01439A.mp3",
+  "sentences": [
+    {
+      "ja": "家に<b>帰ろう</b>。",
+      "hrkt": "うち に <b>かえろう</b>。",
+      "latn": "uchi ni <b>kaerou</b>.",
+      "en": "Let's go home.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3908627.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01439A.mp3"
+    },
+    {
+      "ja": "彼はもう<b>帰りました</b>。",
+      "hrkt": "かれ は もう <b>かえりました</b>。",
+      "latn": "kare ha mou <b>kaerimashita</b>.",
+      "en": "He's already gone home.",
+      "image": "http://farm1.static.flickr.com/160/341291054_3118f69919.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09232A.mp3?1220256681"
+    }
+  ]
+}

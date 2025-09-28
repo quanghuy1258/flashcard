@@ -1,0 +1,18 @@
+{
+  "ja": "刑務所",
+  "hrkt": "けいむしょ",
+  "latn": "keimusho",
+  "en": "prison",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01450A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は二度と<b>刑務所</b>から出ることができないの。",
+      "hrkt": "かれ は にどと <b>けいむしょ</b> から でる こと が できない の。",
+      "latn": "kare ha nidoto <b>keimusho</b> kara deru koto ga dekinai no.",
+      "en": "He'll never be able to get out of prison.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01450A.mp3"
+    }
+  ]
+}

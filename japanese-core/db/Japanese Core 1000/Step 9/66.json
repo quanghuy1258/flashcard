@@ -1,0 +1,26 @@
+{
+  "ja": "決まる",
+  "hrkt": "きまる",
+  "latn": "kimaru",
+  "en": "be decided",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02155A.mp3",
+  "sentences": [
+    {
+      "ja": "旅行の日程が<b>決まりました</b>。",
+      "hrkt": "りょこう の にってい が <b>きまりました</b>。",
+      "latn": "ryokou no nittei ga <b>kimarimashita</b>.",
+      "en": "I've decided on my travel schedule.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3375319.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02155A.mp3"
+    },
+    {
+      "ja": "新しい仕事が<b>決まりました</b>。",
+      "hrkt": "あたらしい しごと が <b>きまりました</b>。",
+      "latn": "atarashii shigoto ga <b>kimarimashita</b>.",
+      "en": "I got a new job.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c4df6r8ui0.mp3"
+    }
+  ]
+}

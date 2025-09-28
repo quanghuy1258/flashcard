@@ -1,0 +1,26 @@
+{
+  "ja": "名簿",
+  "hrkt": "めいぼ",
+  "latn": "meibo",
+  "en": "name list",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01298A.mp3",
+  "sentences": [
+    {
+      "ja": "私の名前が<b>名簿</b>に入っていません。",
+      "hrkt": "わたし の なまえ が <b>めいぼ</b> に はいって いません。",
+      "latn": "watashi no namae ga <b>meibo</b> ni haitte imasen.",
+      "en": "My name isn't included in the list.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/156q5nar8g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d5cqbncrgk.mp3"
+    },
+    {
+      "ja": "クラスの<b>名簿</b>を作りました。",
+      "hrkt": "クラス の <b>めいぼ</b> を つくりました。",
+      "latn": "kurasu no <b>meibo</b> wo tsukurimashita.",
+      "en": "I made a name list of the people in the class.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f6fe4pelmg.mp3"
+    }
+  ]
+}

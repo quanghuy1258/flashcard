@@ -1,0 +1,26 @@
+{
+  "ja": "兄さん",
+  "hrkt": "にいさん",
+  "latn": "niisan",
+  "en": "(one's own) older brother (polite)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06794A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>兄さん</b>、おめでとう。",
+      "hrkt": "<b>にいさん</b>、おめでとう。",
+      "latn": "<b>niisan</b>,omedetou.",
+      "en": "Congratulations, big brother.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3391565.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06794A.mp3"
+    },
+    {
+      "ja": "<b>兄さん</b>、友達から電話だよ。",
+      "hrkt": "<b>にいさん</b>、ともだち から でんわ だ よ。",
+      "latn": "<b>niisan</b>,tomodachi kara denwa da yo.",
+      "en": "Big brother, you've got a phone call from your friend.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c39telc8b8.mp3"
+    }
+  ]
+}

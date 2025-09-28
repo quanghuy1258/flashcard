@@ -1,0 +1,18 @@
+{
+  "ja": "枯れる",
+  "hrkt": "かれる",
+  "latn": "kareru",
+  "en": "wither, die",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02238A.mp3",
+  "sentences": [
+    {
+      "ja": "花瓶の花が<b>枯れました</b>。",
+      "hrkt": "かびん の はな が <b>かれました</b>。",
+      "latn": "kabin no hana ga <b>karemashita</b>.",
+      "en": "The flowers in the vase died.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02238A.mp3"
+    }
+  ]
+}

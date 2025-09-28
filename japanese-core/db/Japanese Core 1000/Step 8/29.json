@@ -1,0 +1,26 @@
+{
+  "ja": "急ぐ",
+  "hrkt": "いそぐ",
+  "latn": "isogu",
+  "en": "hurry, do quickly",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00453A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは駅へ<b>急ぎました</b>。",
+      "hrkt": "わたし たち は えき へ <b>いそぎました</b>。",
+      "latn": "watashi tachi ha eki he <b>isogimashita</b>.",
+      "en": "We hurried to the station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2910017.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00453A.mp3"
+    },
+    {
+      "ja": "時間がないので<b>急いで</b>ください。",
+      "hrkt": "じかん が ない ので <b>いそいで</b> ください。",
+      "latn": "jikan ga nai node <b>isoide</b> kudasai.",
+      "en": "We don't have time, so please hurry.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/530u2v4h74.mp3"
+    }
+  ]
+}

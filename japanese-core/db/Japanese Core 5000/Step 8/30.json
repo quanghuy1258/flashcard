@@ -1,0 +1,18 @@
+{
+  "ja": "設置",
+  "hrkt": "せっち",
+  "latn": "secchi",
+  "en": "installation, set up",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00030A.mp3",
+  "sentences": [
+    {
+      "ja": "お店に防犯カメラが<b>設置</b>されたわね。",
+      "hrkt": "おみせ に ぼうはん カメラ が <b>せっち</b> された わ ね。",
+      "latn": "omise ni bouhan kamera ga <b>secchi</b> sareta wa ne.",
+      "en": "A security camera has been installed in the shop.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00030A.mp3"
+    }
+  ]
+}

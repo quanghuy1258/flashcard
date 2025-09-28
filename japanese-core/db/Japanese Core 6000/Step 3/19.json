@@ -1,0 +1,18 @@
+{
+  "ja": "渋い",
+  "hrkt": "しぶい",
+  "latn": "shibui",
+  "en": "mouth-puckering",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02382A.mp3",
+  "sentences": [
+    {
+      "ja": "この柿は<b>渋い</b>ね。",
+      "hrkt": "この かき は <b>しぶい</b> ね。",
+      "latn": "kono kaki ha <b>shibui</b> ne.",
+      "en": "This persimmon is mouth-puckering.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02382A.mp3"
+    }
+  ]
+}

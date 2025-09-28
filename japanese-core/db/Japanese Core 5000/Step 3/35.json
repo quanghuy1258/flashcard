@@ -1,0 +1,18 @@
+{
+  "ja": "ことわざ",
+  "hrkt": "ことわざ",
+  "latn": "kotowaza",
+  "en": "proverb, (common) saying",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03625A.mp3",
+  "sentences": [
+    {
+      "ja": "日本の<b>ことわざ</b>をいくつくらい知っていますか。",
+      "hrkt": "にほん の <b>ことわざ</b> を いくつ くらい しって います か。",
+      "latn": "nihon no <b>kotowaza</b> wo ikutsu kurai shitte imasu ka.",
+      "en": "About how many Japanese proverbs do you know?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03625A.mp3"
+    }
+  ]
+}

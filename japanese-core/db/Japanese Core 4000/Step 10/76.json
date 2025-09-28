@@ -1,0 +1,18 @@
+{
+  "ja": "超過",
+  "hrkt": "ちょうか",
+  "latn": "chouka",
+  "en": "excess",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02122A.mp3",
+  "sentences": [
+    {
+      "ja": "この荷物は重量<b>超過</b>です。",
+      "hrkt": "この にもつ は じゅうりょう <b>ちょうか</b> です。",
+      "latn": "kono nimotsu ha juuryou <b>chouka</b> desu.",
+      "en": "This luggage is overweight.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02122A.mp3"
+    }
+  ]
+}

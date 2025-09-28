@@ -1,0 +1,26 @@
+{
+  "ja": "新聞",
+  "hrkt": "しんぶん",
+  "latn": "shinbun",
+  "en": "newspaper",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04439A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の<b>新聞</b>、どこに置いた？",
+      "hrkt": "きょう の <b>しんぶん</b>、どこ に おいた？",
+      "latn": "kyou no <b>shinbun</b>,doko ni oita?",
+      "en": "Where did you put today's newspaper?",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/el4qf56oa84vg.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04439A.mp3"
+    },
+    {
+      "ja": "私は毎朝、電車で<b>新聞</b>を読みます。",
+      "hrkt": "わたし は まいあさ、でんしゃ で <b>しんぶん</b> を よみます。",
+      "latn": "watashi ha maiasa,densha de <b>shinbun</b> wo yomimasu.",
+      "en": "I read the newspaper on the train every morning.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/46723l1cbs.mp3"
+    }
+  ]
+}

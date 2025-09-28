@@ -1,0 +1,18 @@
+{
+  "ja": "スタート",
+  "hrkt": "スタート",
+  "latn": "suta-to",
+  "en": "start, begin (loan word)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00576A.mp3",
+  "sentences": [
+    {
+      "ja": "マラソンは雨の中で<b>スタート</b>したの。",
+      "hrkt": "マラソン は あめ の なか で <b>スタート</b> した の。",
+      "latn": "marason ha ame no naka de <b>suta-to</b> shita no.",
+      "en": "The marathon started in the rain.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/14eb2m9u0k.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00576A.mp3"
+    }
+  ]
+}

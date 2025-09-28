@@ -1,0 +1,26 @@
+{
+  "ja": "ハンカチ",
+  "hrkt": "ハンカチ",
+  "latn": "hankachi",
+  "en": "handkerchief",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07525A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ハンカチ</b>で手をふきました。",
+      "hrkt": "<b>ハンカチ</b> で て を ふきました。",
+      "latn": "<b>hankachi</b> de te wo fukimashita.",
+      "en": "I wiped my hands with my handkerchief.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4084961.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07525A.mp3"
+    },
+    {
+      "ja": "右のポケットに<b>ハンカチ</b>が入っています。",
+      "hrkt": "みぎ の ポケット に <b>ハンカチ</b> が はいって います。",
+      "latn": "migi no poketto ni <b>hankachi</b> ga haitte imasu.",
+      "en": "I have a handkerchief in my right pocket.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5444157.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08869A.mp3"
+    }
+  ]
+}

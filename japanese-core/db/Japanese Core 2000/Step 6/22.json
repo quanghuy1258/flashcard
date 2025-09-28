@@ -1,0 +1,26 @@
+{
+  "ja": "四角",
+  "hrkt": "しかく",
+  "latn": "shikaku",
+  "en": "square",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03607A.mp3",
+  "sentences": [
+    {
+      "ja": "紙を<b>四角</b>に切ってください。",
+      "hrkt": "かみ を <b>しかく</b> に きって ください。",
+      "latn": "kami wo <b>shikaku</b> ni kitte kudasai.",
+      "en": "Please cut the paper into a square.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4899603.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03607A.mp3"
+    },
+    {
+      "ja": "名前はこの<b>四角</b>の中に書いてください。",
+      "hrkt": "なまえ は この <b>しかく</b> の なか に かいて ください。",
+      "latn": "namae ha kono <b>shikaku</b> no naka ni kaite kudasai.",
+      "en": "Please write your name in this square.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f50q507s6k.mp3"
+    }
+  ]
+}

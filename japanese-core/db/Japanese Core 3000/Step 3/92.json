@@ -1,0 +1,18 @@
+{
+  "ja": "地獄",
+  "hrkt": "じごく",
+  "latn": "jigoku",
+  "en": "hell",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02381A.mp3",
+  "sentences": [
+    {
+      "ja": "地震の後、街は<b>地獄</b>のようだったよ。",
+      "hrkt": "じしん の あと、まち は <b>じごく</b> のよう だった よ。",
+      "latn": "jishin no ato,machi ha <b>jigoku</b> noyou datta yo.",
+      "en": "After the earthquake, the town looked like hell.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/858f2jfsj8.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02381A.mp3"
+    }
+  ]
+}

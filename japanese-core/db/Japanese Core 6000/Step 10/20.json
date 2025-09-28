@@ -1,0 +1,18 @@
+{
+  "ja": "本国",
+  "hrkt": "ほんごく",
+  "latn": "hongoku",
+  "en": "one's native country, home country",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01536A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>本国</b>に帰りました。",
+      "hrkt": "かのじょ は <b>ほんごく</b> に かえりました。",
+      "latn": "kanojo ha <b>hongoku</b> ni kaerimashita.",
+      "en": "She returned to her home country.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01536A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "かき回す",
+  "hrkt": "かきまわす",
+  "latn": "kakimawasu",
+  "en": "stir up",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03433A.mp3",
+  "sentences": [
+    {
+      "ja": "母は鍋のシチューを<b>かき回して</b>いるよ。",
+      "hrkt": "はは は なべ の シチュー を <b>かきまわして</b> いる よ。",
+      "latn": "haha ha nabe no shichu- wo <b>kakimawashite</b> iru yo.",
+      "en": "My mother is stirring the stew in the pan.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03433A.mp3"
+    }
+  ]
+}

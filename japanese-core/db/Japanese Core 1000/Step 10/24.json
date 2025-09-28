@@ -1,0 +1,26 @@
+{
+  "ja": "ラジオ",
+  "hrkt": "ラジオ",
+  "latn": "rajio",
+  "en": "radio",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09778A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎朝<b>ラジオ</b>を聞きます。",
+      "hrkt": "わたし は まいあさ <b>ラジオ</b> を ききます。",
+      "latn": "watashi ha maiasa <b>rajio</b> wo kikimasu.",
+      "en": "I listen to the radio every morning.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3909956.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09778A.mp3"
+    },
+    {
+      "ja": "彼女は<b>ラジオ</b>を聞いています。",
+      "hrkt": "かのじょ は <b>ラジオ</b> を きいて います。",
+      "latn": "kanojo ha <b>rajio</b> wo kiite imasu.",
+      "en": "She's listening to the radio.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1307677.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02020A.mp3"
+    }
+  ]
+}

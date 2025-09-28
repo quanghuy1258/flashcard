@@ -1,0 +1,26 @@
+{
+  "ja": "水着",
+  "hrkt": "みずぎ",
+  "latn": "mizugi",
+  "en": "bathing suit, swimsuit",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02402A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>水着</b>に着替えました。",
+      "hrkt": "<b>みずぎ</b> に きがえました。",
+      "latn": "<b>mizugi</b> ni kigaemashita.",
+      "en": "I changed into a swimsuit.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/318v6ncv9u6bp4.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02402A.mp3"
+    },
+    {
+      "ja": "妻はハワイに行く前に新しい<b>水着</b>を買いました。",
+      "hrkt": "つま は ハワイ に いく まえ に あたらしい <b>みずぎ</b> を かいました。",
+      "latn": "tsuma ha hawai ni iku mae ni atarashii <b>mizugi</b> wo kaimashita.",
+      "en": "My wife bought a new bathing suit before going to Hawaii.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/930vbh4fsg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "郵送",
+  "hrkt": "ゆうそう",
+  "latn": "yuusou",
+  "en": "mailing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01950A.mp3",
+  "sentences": [
+    {
+      "ja": "書類を<b>郵送</b>してください。",
+      "hrkt": "しょるい を <b>ゆうそう</b> して ください。",
+      "latn": "shorui wo <b>yuusou</b> shite kudasai.",
+      "en": "Please mail the documents.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01950A.mp3"
+    }
+  ]
+}

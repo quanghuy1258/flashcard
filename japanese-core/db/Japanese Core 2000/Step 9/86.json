@@ -1,0 +1,26 @@
+{
+  "ja": "骨",
+  "hrkt": "ほね",
+  "latn": "hone",
+  "en": "bone",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08566A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は足の<b>骨</b>を折りました。",
+      "hrkt": "かれ は あし の <b>ほね</b> を おりました。",
+      "latn": "kare ha ashi no <b>hone</b> wo orimashita.",
+      "en": "He broke a bone in his foot.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5243674.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08566A.mp3"
+    },
+    {
+      "ja": "牛乳をたくさん飲むので、私は<b>骨</b>が丈夫です。",
+      "hrkt": "ぎゅうにゅう を たくさん のむ ので、わたし は <b>ほね</b> が じょうぶ です。",
+      "latn": "gyuunyuu wo takusan nomu node,watashi ha <b>hone</b> ga joubu desu.",
+      "en": "I drink a lot of milk, so my bones are strong.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/318q6m9q60.mp3"
+    }
+  ]
+}

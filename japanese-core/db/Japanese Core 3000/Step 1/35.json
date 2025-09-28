@@ -1,0 +1,18 @@
+{
+  "ja": "エアメール",
+  "hrkt": "エアメール",
+  "latn": "eame-ru",
+  "en": "airmail (loanword)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00834A.mp3",
+  "sentences": [
+    {
+      "ja": "彼に<b>エアメール</b>を送りました。",
+      "hrkt": "かれ に <b>エアメール</b> を おくりました。",
+      "latn": "kare ni <b>eame-ru</b> wo okurimashita.",
+      "en": "I sent him a letter by airmail.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b686ep3m0o.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00834A.mp3"
+    }
+  ]
+}

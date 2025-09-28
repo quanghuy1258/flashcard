@@ -1,0 +1,26 @@
+{
+  "ja": "二",
+  "hrkt": "に",
+  "latn": "ni",
+  "en": "two",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06790A.mp3",
+  "sentences": [
+    {
+      "ja": "その人には<b>二</b>回会った。",
+      "hrkt": "その ひと に は <b>に</b> かい あった。",
+      "latn": "sono hito ni ha <b>ni</b> kai atta.",
+      "en": "I met that person twice.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4616930.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06790A.mp3"
+    },
+    {
+      "ja": "兄は<b>二</b>階にいます。",
+      "hrkt": "あに は <b>に</b> かい に います。",
+      "latn": "ani ha <b>ni</b> kai ni imasu.",
+      "en": "My elder brother is on the second floor.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4288476.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06800A.mp3"
+    }
+  ]
+}

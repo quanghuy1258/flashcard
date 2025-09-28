@@ -1,0 +1,18 @@
+{
+  "ja": "霧",
+  "hrkt": "きり",
+  "latn": "kiri",
+  "en": "fog, mist",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01629A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>霧</b>の深い夜のことでした。",
+      "hrkt": "<b>きり</b> の ふかい よる の こと でした。",
+      "latn": "<b>kiri</b> no fukai yoru no koto deshita.",
+      "en": "It was a foggy night.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01629A.mp3"
+    }
+  ]
+}

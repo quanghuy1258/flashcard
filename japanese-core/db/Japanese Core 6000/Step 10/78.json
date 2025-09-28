@@ -1,0 +1,18 @@
+{
+  "ja": "和語",
+  "hrkt": "わご",
+  "latn": "wago",
+  "en": "native Japanese word",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02665A.mp3",
+  "sentences": [
+    {
+      "ja": "日本で生まれた言葉を<b>和語</b>といいます。",
+      "hrkt": "にっぽん で うまれた ことば を <b>わご</b> と いいます。",
+      "latn": "nippon de umareta kotoba wo <b>wago</b> to iimasu.",
+      "en": "Native Japanese words are called \"wago.\"",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02665A.mp3"
+    }
+  ]
+}

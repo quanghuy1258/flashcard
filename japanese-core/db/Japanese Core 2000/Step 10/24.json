@@ -1,0 +1,26 @@
+{
+  "ja": "中止",
+  "hrkt": "ちゅうし",
+  "latn": "chuushi",
+  "en": "suspension, cancellation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00654A.mp3",
+  "sentences": [
+    {
+      "ja": "雨で運動会が<b>中止</b>になったの。",
+      "hrkt": "あめ で うんどうかい が <b>ちゅうし</b> に なった の。",
+      "latn": "ame de undoukai ga <b>chuushi</b> ni natta no.",
+      "en": "The sports day has been canceled due to the rain.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/2lbe01dcm7jhg.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00654A.mp3"
+    },
+    {
+      "ja": "なお、雨の場合は<b>中止</b>です。",
+      "hrkt": "なお、あめ の ばあい は <b>ちゅうし</b> です。",
+      "latn": "nao,ame no baai ha <b>chuushi</b> desu.",
+      "en": "Moreover, it will be canceled in the event of rain.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6202451.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06618A.mp3"
+    }
+  ]
+}

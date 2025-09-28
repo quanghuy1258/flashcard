@@ -1,0 +1,26 @@
+{
+  "ja": "歯",
+  "hrkt": "は",
+  "latn": "ha",
+  "en": "tooth",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07146A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>歯</b>は丈夫です。",
+      "hrkt": "わたし の <b>は</b> は じょうぶ です。",
+      "latn": "watashi no <b>ha</b> ha joubu desu.",
+      "en": "I have strong teeth.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5913162.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07146A.mp3"
+    },
+    {
+      "ja": "彼は<b>歯</b>が白い。",
+      "hrkt": "かれ は <b>は</b> が しろい。",
+      "latn": "kare ha <b>ha</b> ga shiroi.",
+      "en": "His teeth are white.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2683096.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04346A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "取り消す",
+  "hrkt": "とりけす",
+  "latn": "torikesu",
+  "en": "cancel",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02491A.mp3",
+  "sentences": [
+    {
+      "ja": "ホテルの予約を<b>取り消した</b>よ。",
+      "hrkt": "ホテル の よやく を <b>とりけした</b> よ。",
+      "latn": "hoteru no yoyaku wo <b>torikeshita</b> yo.",
+      "en": "I canceled our hotel reservation.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/93f60c7srg.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02491A.mp3"
+    }
+  ]
+}

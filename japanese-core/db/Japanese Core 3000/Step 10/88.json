@@ -1,0 +1,18 @@
+{
+  "ja": "著者",
+  "hrkt": "ちょしゃ",
+  "latn": "chosha",
+  "en": "author, writer",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01319A.mp3",
+  "sentences": [
+    {
+      "ja": "この本の<b>著者</b>はイギリス人です。",
+      "hrkt": "この ほん の <b>ちょしゃ</b> は イギリス じん です。",
+      "latn": "kono hon no <b>chosha</b> ha igirisu jin desu.",
+      "en": "The author of this book is British.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/95fnfvef20.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01319A.mp3"
+    }
+  ]
+}

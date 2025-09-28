@@ -1,0 +1,18 @@
+{
+  "ja": "噴水",
+  "hrkt": "ふんすい",
+  "latn": "funsui",
+  "en": "water fountain",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02888A.mp3",
+  "sentences": [
+    {
+      "ja": "公園の<b>噴水</b>の前で会いましょう。",
+      "hrkt": "こうえん の <b>ふんすい</b> の まえ で あいましょう。",
+      "latn": "kouen no <b>funsui</b> no mae de aimashou.",
+      "en": "Let's meet in front of the fountain in the park.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02888A.mp3"
+    }
+  ]
+}

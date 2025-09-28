@@ -1,0 +1,26 @@
+{
+  "ja": "親切",
+  "hrkt": "しんせつ",
+  "latn": "shinsetsu",
+  "en": "kind, kindhearted",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04406A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>親切</b>にしてくださってどうもありがとうございます。",
+      "hrkt": "<b>しんせつ</b> に して くださって どうも ありがとう ございます。",
+      "latn": "<b>shinsetsu</b> ni shite kudasatte doumo arigatou gozaimasu.",
+      "en": "Thank you for being so kind to me.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5344534.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04406A.mp3"
+    },
+    {
+      "ja": "あの村の人々はとても<b>親切</b>です。",
+      "hrkt": "あの むら の ひとびと は とても <b>しんせつ</b> です。",
+      "latn": "ano mura no hitobito ha totemo <b>shinsetsu</b> desu.",
+      "en": "People in that village are very kind.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5507436.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07779A.mp3"
+    }
+  ]
+}

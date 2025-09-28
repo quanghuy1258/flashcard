@@ -1,0 +1,26 @@
+{
+  "ja": "低い",
+  "hrkt": "ひくい",
+  "latn": "hikui",
+  "en": "low, short",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07663A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は背が<b>低い</b>。",
+      "hrkt": "かれ は せ が <b>ひくい</b>。",
+      "latn": "kare ha se ga <b>hikui</b>.",
+      "en": "He's short.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4558890.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07663A.mp3"
+    },
+    {
+      "ja": "彼は<b>低い</b>声で言いました。",
+      "hrkt": "かれ は <b>ひくい</b> こえ で いいました。",
+      "latn": "kare ha <b>hikui</b> koe de iimashita.",
+      "en": "He said (it) in a low voice.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/72bjevc618.mp3"
+    }
+  ]
+}

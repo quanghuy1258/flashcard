@@ -1,0 +1,26 @@
+{
+  "ja": "許す",
+  "hrkt": "ゆるす",
+  "latn": "yurusu",
+  "en": "permit, forgive",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09565A.mp3",
+  "sentences": [
+    {
+      "ja": "私は彼を<b>許しました</b>。",
+      "hrkt": "わたし は かれ を <b>ゆるしました</b>。",
+      "latn": "watashi ha kare wo <b>yurushimashita</b>.",
+      "en": "I forgave him.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5772668.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09565A.mp3"
+    },
+    {
+      "ja": "まあ今回は<b>許して</b>あげよう。",
+      "hrkt": "まあ こんかい は <b>ゆるして</b> あげよう 。",
+      "latn": "maa konkai ha <b>yurushite</b> ageyou .",
+      "en": "Well, I'll let you off this time.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4533923.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03243A.mp3"
+    }
+  ]
+}

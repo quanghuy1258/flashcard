@@ -1,0 +1,26 @@
+{
+  "ja": "お礼",
+  "hrkt": "おれい",
+  "latn": "orei",
+  "en": "thanks, gratitude",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01258A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女に<b>お礼</b>の手紙を書きました。",
+      "hrkt": "かのじょ に <b>おれい</b> の てがみ を かきました。",
+      "latn": "kanojo ni <b>orei</b> no tegami wo kakimashita.",
+      "en": "I wrote her a thank you letter.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2374968.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01258A.mp3"
+    },
+    {
+      "ja": "友達にプレゼントの<b>お礼</b>をしないといけない。",
+      "hrkt": "ともだち に プレゼント の <b>おれい</b> を しない と いけない 。",
+      "latn": "tomodachi ni purezento no <b>orei</b> wo shinai to ikenai .",
+      "en": "I have to do something in return for the present from my friend.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c39v7iaa54.mp3"
+    }
+  ]
+}

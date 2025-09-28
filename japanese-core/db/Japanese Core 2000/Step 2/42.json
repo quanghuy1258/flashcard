@@ -1,0 +1,26 @@
+{
+  "ja": "塗る",
+  "hrkt": "ぬる",
+  "latn": "nuru",
+  "en": "spread on, paint",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06941A.mp3",
+  "sentences": [
+    {
+      "ja": "壁にペンキを<b>塗って</b>います。",
+      "hrkt": "かべ に ペンキ を <b>ぬって</b> います。",
+      "latn": "kabe ni penki wo <b>nutte</b> imasu.",
+      "en": "I'm painting the wall.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4579135.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06941A.mp3"
+    },
+    {
+      "ja": "手にハンドクリームを<b>塗りました</b>。",
+      "hrkt": "て に ハンド クリーム を <b>ぬりました</b>。",
+      "latn": "te ni hando kuri-mu wo <b>nurimashita</b>.",
+      "en": "I put hand cream on my hands.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/54ej2ab2io.mp3"
+    }
+  ]
+}

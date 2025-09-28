@@ -1,0 +1,18 @@
+{
+  "ja": "開催",
+  "hrkt": "かいさい",
+  "latn": "kaisai",
+  "en": "holding (of an event), opening",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01353A.mp3",
+  "sentences": [
+    {
+      "ja": "京都で国際会議が<b>開催</b>された。",
+      "hrkt": "きょうと で こくさい かいぎ が <b>かいさい</b> された。",
+      "latn": "kyouto de kokusai kaigi ga <b>kaisai</b> sareta.",
+      "en": "An international conference was held in Kyoto.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01353A.mp3"
+    }
+  ]
+}

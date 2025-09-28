@@ -1,0 +1,18 @@
+{
+  "ja": "快晴",
+  "hrkt": "かいせい",
+  "latn": "kaisei",
+  "en": "clear and fine weather",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02810A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>快晴</b>ですね。",
+      "hrkt": "きょう は <b>かいせい</b> です ね。",
+      "latn": "kyou ha <b>kaisei</b> desu ne.",
+      "en": "Today's weather is clear and fine.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02810A.mp3"
+    }
+  ]
+}

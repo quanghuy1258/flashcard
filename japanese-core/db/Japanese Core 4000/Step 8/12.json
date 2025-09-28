@@ -1,0 +1,18 @@
+{
+  "ja": "接近",
+  "hrkt": "せっきん",
+  "latn": "sekkin",
+  "en": "approach, to draw near",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01054A.mp3",
+  "sentences": [
+    {
+      "ja": "台風が<b>接近</b>していますね。",
+      "hrkt": "たいふう が <b>せっきん</b> して います ね。",
+      "latn": "taifuu ga <b>sekkin</b> shite imasu ne.",
+      "en": "A typhoon is approaching.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01054A.mp3"
+    }
+  ]
+}

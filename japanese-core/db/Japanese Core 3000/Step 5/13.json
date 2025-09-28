@@ -1,0 +1,18 @@
+{
+  "ja": "キッチン",
+  "hrkt": "キッチン",
+  "latn": "kicchin",
+  "en": "kitchen (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03205A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>キッチン</b>で夕食を作っています。",
+      "hrkt": "かのじょ は <b>キッチン</b> で ゆうしょく を つくって います。",
+      "latn": "kanojo ha <b>kicchin</b> de yuushoku wo tsukutte imasu.",
+      "en": "She is preparing dinner in the kitchen.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/9523e511bg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03205A.mp3"
+    }
+  ]
+}

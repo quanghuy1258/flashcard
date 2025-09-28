@@ -1,0 +1,26 @@
+{
+  "ja": "片道",
+  "hrkt": "かたみち",
+  "latn": "katamichi",
+  "en": "one way (trip)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01654A.mp3",
+  "sentences": [
+    {
+      "ja": "東京まで<b>片道</b>切符を買った。",
+      "hrkt": "とうきょう まで <b>かたみち</b> きっぷ を かった。",
+      "latn": "toukyou made <b>katamichi</b> kippu wo katta.",
+      "en": "I bought a one-way ticket to Tokyo.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3541504.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01654A.mp3"
+    },
+    {
+      "ja": "大阪までバスだと<b>片道</b>4,000円です。",
+      "hrkt": "おおさか まで バス だ と <b>かたみち</b> 4,000 えん です。",
+      "latn": "oosaka made basu da to <b>katamichi</b> 4,000 en desu.",
+      "en": "One way to Osaka by bus costs 4,000 yen.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/048a5pbfq0.mp3"
+    }
+  ]
+}

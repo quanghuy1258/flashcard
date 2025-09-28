@@ -1,0 +1,26 @@
+{
+  "ja": "こぼれる",
+  "hrkt": "こぼれる",
+  "latn": "koboreru",
+  "en": "spill, overflow",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03195A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の目から涙が<b>こぼれた</b>。",
+      "hrkt": "かのじょ の め から なみだ が <b>こぼれた</b>。",
+      "latn": "kanojo no me kara namida ga <b>koboreta</b>.",
+      "en": "Tears rolled down from her eyes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4945707.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03195A.mp3"
+    },
+    {
+      "ja": "大変だ、バスタブからお湯が<b>こぼれてる</b>！",
+      "hrkt": "たいへん だ、バスタブ から おゆ が <b>こぼれてる</b>！",
+      "latn": "taihen da,basutabu kara oyu ga <b>koboreteru</b>!",
+      "en": "Oh no! The bathtub is overflowing with hot water.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/529c4ef8rg.mp3"
+    }
+  ]
+}

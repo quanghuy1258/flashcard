@@ -1,0 +1,18 @@
+{
+  "ja": "ジョギング",
+  "hrkt": "ジョギング",
+  "latn": "jogingu",
+  "en": "jogging",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01921A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎日<b>ジョギング</b>をしています。",
+      "hrkt": "わたし は まいにち <b>ジョギング</b> を して います。",
+      "latn": "watashi ha mainichi <b>jogingu</b> wo shite imasu.",
+      "en": "I jog every day.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b3ad8f8bvk.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01921A.mp3"
+    }
+  ]
+}

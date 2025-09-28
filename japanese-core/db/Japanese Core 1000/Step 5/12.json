@@ -1,0 +1,26 @@
+{
+  "ja": "やる",
+  "hrkt": "やる",
+  "latn": "yaru",
+  "en": "give (to an inferior)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09462A.mp3",
+  "sentences": [
+    {
+      "ja": "犬にえさを<b>やった</b>。",
+      "hrkt": "いぬ に えさ を <b>やった</b>。",
+      "latn": "inu ni esa wo <b>yatta</b>.",
+      "en": "I fed the dog.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2213735.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09463A.mp3"
+    },
+    {
+      "ja": "毎日金魚に餌を<b>やります</b>。",
+      "hrkt": "まいにち きんぎょ に えさ を <b>やります</b>。",
+      "latn": "mainichi kingyo ni esa wo <b>yarimasu</b>.",
+      "en": "I feed the goldfish everyday.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/756gc2dk08.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03545A.mp3"
+    }
+  ]
+}

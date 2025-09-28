@@ -1,0 +1,18 @@
+{
+  "ja": "値打ち",
+  "hrkt": "ねうち",
+  "latn": "neuchi",
+  "en": "(subjective) value, worth",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02657A.mp3",
+  "sentences": [
+    {
+      "ja": "この絵はとても<b>値打ち</b>があります。",
+      "hrkt": "この え は とても <b>ねうち</b> が あります。",
+      "latn": "kono e ha totemo <b>neuchi</b> ga arimasu.",
+      "en": "This painting is very valuable.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02657A.mp3"
+    }
+  ]
+}

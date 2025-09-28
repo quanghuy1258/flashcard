@@ -1,0 +1,18 @@
+{
+  "ja": "レンズ",
+  "hrkt": "レンズ",
+  "latn": "renzu",
+  "en": "lens",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01386A.mp3",
+  "sentences": [
+    {
+      "ja": "眼鏡の<b>レンズ</b>を替えました。",
+      "hrkt": "めがね の <b>レンズ</b> を かえました。",
+      "latn": "megane no <b>renzu</b> wo kaemashita.",
+      "en": "I changed the lenses in my glasses.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01386A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "墓",
+  "hrkt": "はか",
+  "latn": "haka",
+  "en": "grave, tomb",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00988A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父の<b>墓</b>は近くにあります。",
+      "hrkt": "そふ の <b>はか</b> は ちかく に あります。",
+      "latn": "sofu no <b>haka</b> ha chikaku ni arimasu.",
+      "en": "My grandfather's grave is nearby.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00988A.mp3"
+    }
+  ]
+}

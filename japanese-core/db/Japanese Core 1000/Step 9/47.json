@@ -1,0 +1,26 @@
+{
+  "ja": "教師",
+  "hrkt": "きょうし",
+  "latn": "kyoushi",
+  "en": "teacher, instructor (formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02256A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は高校<b>教師</b>だ。",
+      "hrkt": "かれ は こうこう <b>きょうし</b> だ。",
+      "latn": "kare ha koukou <b>kyoushi</b> da.",
+      "en": "He's a high school teacher.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3909160.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02256A.mp3"
+    },
+    {
+      "ja": "父は英語<b>教師</b>です。",
+      "hrkt": "ちち は えいご <b>きょうし</b> です。",
+      "latn": "chichi ha eigo <b>kyoushi</b> desu.",
+      "en": "My father is an English teacher.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/14355c6cvg.mp3"
+    }
+  ]
+}

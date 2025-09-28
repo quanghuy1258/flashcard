@@ -1,0 +1,26 @@
+{
+  "ja": "ショック",
+  "hrkt": "ショック",
+  "latn": "shokku",
+  "en": "shock",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00936A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>ショック</b>で口もきけなかったわ。",
+      "hrkt": "かのじょ は <b>ショック</b> で くち も きけなかった わ。",
+      "latn": "kanojo ha <b>shokku</b> de kuchi mo kikenakatta wa.",
+      "en": "She was too shocked to speak.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b59jct7m98.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00936A.mp3"
+    },
+    {
+      "ja": "そのニュースは彼に大きな<b>ショック</b>を与えた。",
+      "hrkt": "その ニュース は かれ に おおきな <b>ショック</b> を あたえた。",
+      "latn": "sono nyu-su ha kare ni ookina <b>shokku</b> wo ataeta.",
+      "en": "The news gave him a great shock.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5832369.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00139A.mp3"
+    }
+  ]
+}

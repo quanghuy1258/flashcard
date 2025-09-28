@@ -1,0 +1,18 @@
+{
+  "ja": "先ほど",
+  "hrkt": "さきほど",
+  "latn": "sakihodo",
+  "en": "some time ago, a little while ago",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03633A.mp3",
+  "sentences": [
+    {
+      "ja": "その件でしたら、<b>先ほど</b>上司から許可を得ております。",
+      "hrkt": "その けん でしたら、<b>さきほど</b> じょうし から きょか を えて おります。",
+      "latn": "sono ken deshitara,<b>sakihodo</b> joushi kara kyoka wo ete orimasu.",
+      "en": "Regarding that matter, I obtained permission from my boss a little while ago.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03633A.mp3"
+    }
+  ]
+}

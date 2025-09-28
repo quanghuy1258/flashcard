@@ -1,0 +1,18 @@
+{
+  "ja": "幕",
+  "hrkt": "まく",
+  "latn": "maku",
+  "en": "stage curtain, theater drape",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01621A.mp3",
+  "sentences": [
+    {
+      "ja": "ステージの<b>幕</b>が上がったんだ。",
+      "hrkt": "ステージ の <b>まく</b> が あがった ん だ。",
+      "latn": "sute-ji no <b>maku</b> ga agatta n da.",
+      "en": "The stage curtain rose.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01621A.mp3"
+    }
+  ]
+}

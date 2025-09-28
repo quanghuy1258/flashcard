@@ -1,0 +1,18 @@
+{
+  "ja": "運送",
+  "hrkt": "うんそう",
+  "latn": "unsou",
+  "en": "shipping, transportation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03190A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>運送</b>会社に勤めているの。",
+      "hrkt": "かれ は <b>うんそう</b> がいしゃ に つとめて いる の。",
+      "latn": "kare ha <b>unsou</b> gaisha ni tsutomete iru no.",
+      "en": "He works for a transportation company.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03190A.mp3"
+    }
+  ]
+}

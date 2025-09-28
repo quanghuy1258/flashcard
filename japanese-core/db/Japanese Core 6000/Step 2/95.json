@@ -1,0 +1,18 @@
+{
+  "ja": "固有",
+  "hrkt": "こゆう",
+  "latn": "koyuu",
+  "en": "indigenousness, inherence",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01504A.mp3",
+  "sentences": [
+    {
+      "ja": "これは日本<b>固有</b>の鳥です。",
+      "hrkt": "これ は にほん <b>こゆう</b> の とり です。",
+      "latn": "kore ha nihon <b>koyuu</b> no tori desu.",
+      "en": "This bird is indigenous to Japan.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01504A.mp3"
+    }
+  ]
+}

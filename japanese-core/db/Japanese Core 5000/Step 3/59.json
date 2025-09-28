@@ -1,0 +1,18 @@
+{
+  "ja": "終点",
+  "hrkt": "しゅうてん",
+  "latn": "shuuten",
+  "en": "last stop, terminal",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02645A.mp3",
+  "sentences": [
+    {
+      "ja": "電車の<b>終点</b>で降りました。",
+      "hrkt": "でんしゃ の <b>しゅうてん</b> で おりました。",
+      "latn": "densha no <b>shuuten</b> de orimashita.",
+      "en": "I got off the train at the terminal.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02645A.mp3"
+    }
+  ]
+}

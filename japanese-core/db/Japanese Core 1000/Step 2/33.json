@@ -1,0 +1,26 @@
+{
+  "ja": "笑う",
+  "hrkt": "わらう",
+  "latn": "warau",
+  "en": "laugh, smile",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW10060A.mp3",
+  "sentences": [
+    {
+      "ja": "赤ん坊が<b>笑って</b>います。",
+      "hrkt": "あかんぼう が <b>わらって</b> います。",
+      "latn": "akanbou ga <b>waratte</b> imasu.",
+      "en": "The baby is smiling.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3367519.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10060A.mp3"
+    },
+    {
+      "ja": "妹はよく<b>笑います</b>。",
+      "hrkt": "いもうと は よく <b>わらいます</b>。",
+      "latn": "imouto ha yoku <b>waraimasu</b>.",
+      "en": "My little sister laughs a lot.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e3aqer8p44.mp3"
+    }
+  ]
+}

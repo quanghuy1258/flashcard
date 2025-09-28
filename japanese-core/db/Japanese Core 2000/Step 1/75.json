@@ -1,0 +1,26 @@
+{
+  "ja": "遭う",
+  "hrkt": "あう",
+  "latn": "au",
+  "en": "encounter, get caught in",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00029A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は交通事故に<b>遭った</b>。",
+      "hrkt": "かれ は こうつう じこ に <b>あった</b>。",
+      "latn": "kare ha koutsuu jiko ni <b>atta</b>.",
+      "en": "He had a traffic accident.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/900394.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00029A.mp3"
+    },
+    {
+      "ja": "兄と喧嘩して、痛い目に<b>遭いました</b>。",
+      "hrkt": "あに と けんか して、いたい め に <b>あいました</b>。",
+      "latn": "ani to kenka shite,itai me ni <b>aimashita</b>.",
+      "en": "I had a fight with my older brother and ended up in pain.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/269bb39tb0.mp3"
+    }
+  ]
+}

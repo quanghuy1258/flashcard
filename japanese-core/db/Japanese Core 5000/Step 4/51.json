@@ -1,0 +1,18 @@
+{
+  "ja": "海水浴",
+  "hrkt": "かいすいよく",
+  "latn": "kaisuiyoku",
+  "en": "sea bathing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02720A.mp3",
+  "sentences": [
+    {
+      "ja": "夏休みには<b>海水浴</b>に行きます。",
+      "hrkt": "なつやすみ に は <b>かいすいよく</b> に いきます。",
+      "latn": "natsuyasumi ni ha <b>kaisuiyoku</b> ni ikimasu.",
+      "en": "I go to swim in the sea during the summer.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02720A.mp3"
+    }
+  ]
+}

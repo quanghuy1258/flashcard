@@ -1,0 +1,26 @@
+{
+  "ja": "チケット",
+  "hrkt": "チケット",
+  "latn": "chiketto",
+  "en": "ticket (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05591A.mp3",
+  "sentences": [
+    {
+      "ja": "この遊園地の<b>チケット</b>は3000円です。",
+      "hrkt": "この ゆうえんち の <b>チケット</b> は 3000 えん です。",
+      "latn": "kono yuuenchi no <b>chiketto</b> ha 3000 en desu.",
+      "en": "A ticket for this amusement park is 3000 yen.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4558341.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05591A.mp3"
+    },
+    {
+      "ja": "<b>チケット</b>はもう売り切れだって。",
+      "hrkt": "<b>チケット</b> は もう うりきれ だって。",
+      "latn": "<b>chiketto</b> ha mou urikire datte.",
+      "en": "The tickets have sold out already.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1368115.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00788A.mp3"
+    }
+  ]
+}

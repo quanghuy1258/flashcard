@@ -1,0 +1,26 @@
+{
+  "ja": "インタビュー",
+  "hrkt": "インタビュー",
+  "latn": "intabyu-",
+  "en": "interview (loan word)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00932A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>インタビュー</b>に、はきはきと答えてたよ。",
+      "hrkt": "かれ は <b>インタビュー</b> に、はきはき と こたえて た よ。",
+      "latn": "kare ha <b>intabyu-</b> ni,hakihaki to kotaete ta yo.",
+      "en": "His answers were very clear in the interview.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1548915.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00932A.mp3"
+    },
+    {
+      "ja": "今日は<b>インタビュー</b>が二つ入っています。",
+      "hrkt": "きょう は <b>インタビュー</b> が ふたつ はいって います。",
+      "latn": "kyou ha <b>intabyu-</b> ga futatsu haitte imasu.",
+      "en": "I have two interviews today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/76c45d93fs.mp3"
+    }
+  ]
+}

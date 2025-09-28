@@ -1,0 +1,26 @@
+{
+  "ja": "読書",
+  "hrkt": "どくしょ",
+  "latn": "dokusho",
+  "en": "reading books",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00823A.mp3",
+  "sentences": [
+    {
+      "ja": "私の趣味は<b>読書</b>です。",
+      "hrkt": "わたし の しゅみ は <b>どくしょ</b> です。",
+      "latn": "watashi no shumi ha <b>dokusho</b> desu.",
+      "en": "My hobby is reading.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/6l0eel1iufhc0.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00823A.mp3"
+    },
+    {
+      "ja": "秋は<b>読書</b>の季節と言われています。",
+      "hrkt": "あき は <b>どくしょ</b> の きせつ と いわれて います。",
+      "latn": "aki ha <b>dokusho</b> no kisetsu to iwarete imasu.",
+      "en": "Fall is said to be a season for reading.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/75dvde1je8.mp3"
+    }
+  ]
+}

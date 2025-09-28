@@ -1,0 +1,18 @@
+{
+  "ja": "獣",
+  "hrkt": "けもの",
+  "latn": "kemono",
+  "en": "beast",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03285A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>獣</b>のような目をしていたな。",
+      "hrkt": "かれ は <b>けもの</b> の ような め を して いた な。",
+      "latn": "kare ha <b>kemono</b> no youna me wo shite ita na.",
+      "en": "His eyes were like those of a beast.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03285A.mp3"
+    }
+  ]
+}

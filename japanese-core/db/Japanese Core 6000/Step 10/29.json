@@ -1,0 +1,18 @@
+{
+  "ja": "準急",
+  "hrkt": "じゅんきゅう",
+  "latn": "junkyuu",
+  "en": "local express",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03448A.mp3",
+  "sentences": [
+    {
+      "ja": "新宿駅まで<b>準急</b>で行ったのよ。",
+      "hrkt": "しんじゅく えき まで <b>じゅんきゅう</b> で いった の よ。",
+      "latn": "shinjuku eki made <b>junkyuu</b> de itta no yo.",
+      "en": "I went to Shinjuku station by local express.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03448A.mp3"
+    }
+  ]
+}

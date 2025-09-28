@@ -1,0 +1,18 @@
+{
+  "ja": "担任",
+  "hrkt": "たんにん",
+  "latn": "tannin",
+  "en": "teacher in charge",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01925A.mp3",
+  "sentences": [
+    {
+      "ja": "私は3年生のクラスを<b>担任</b>しています。",
+      "hrkt": "わたし は 3 ねんせい の クラス を <b>たんにん</b> して います。",
+      "latn": "watashi ha 3 nensei no kurasu wo <b>tannin</b> shite imasu.",
+      "en": "I'm in charge of the third-grade class.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01925A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "おっしゃる",
+  "hrkt": "おっしゃる",
+  "latn": "ossharu",
+  "en": "say, tell (honorific)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02345A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの<b>おっしゃる</b>通りです。",
+      "hrkt": "あなた の <b>おっしゃる</b> とおり です。",
+      "latn": "anata no <b>ossharu</b> toori desu.",
+      "en": "It is as you say.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/54eh7redqk.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02345A.mp3"
+    }
+  ]
+}

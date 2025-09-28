@@ -1,0 +1,18 @@
+{
+  "ja": "通す",
+  "hrkt": "とおす",
+  "latn": "toosu",
+  "en": "pass (someone/something) through",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00216A.mp3",
+  "sentences": [
+    {
+      "ja": "針に糸を<b>通して</b>ください。",
+      "hrkt": "はり に いと を <b>とおして</b> ください。",
+      "latn": "hari ni ito wo <b>tooshite</b> kudasai.",
+      "en": "Please thread the needle.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00216A.mp3"
+    }
+  ]
+}

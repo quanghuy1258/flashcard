@@ -1,0 +1,18 @@
+{
+  "ja": "学会",
+  "hrkt": "がっかい",
+  "latn": "gakkai",
+  "en": "academic association, academic conference",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01051A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>学会</b>で論文を発表したよ。",
+      "hrkt": "かれ は <b>がっかい</b> で ろんぶん を はっぴょう した よ。",
+      "latn": "kare ha <b>gakkai</b> de ronbun wo happyou shita yo.",
+      "en": "He presented his paper at the academic conference.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01051A.mp3"
+    }
+  ]
+}

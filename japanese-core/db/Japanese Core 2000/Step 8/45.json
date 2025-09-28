@@ -1,0 +1,26 @@
+{
+  "ja": "丸",
+  "hrkt": "まる",
+  "latn": "maru",
+  "en": "circle, round",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08806A.mp3",
+  "sentences": [
+    {
+      "ja": "紙に大きな<b>丸</b>を描きました。",
+      "hrkt": "かみ に おおきな <b>まる</b> を かきました。",
+      "latn": "kami ni ookina <b>maru</b> wo kakimashita.",
+      "en": "I drew a big circle on the paper.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5197423.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08806A.mp3"
+    },
+    {
+      "ja": "正しい答えに<b>丸</b>をつけてください。",
+      "hrkt": "ただしい こたえ に <b>まる</b> を つけて ください。",
+      "latn": "tadashii kotae ni <b>maru</b> wo tsukete kudasai.",
+      "en": "Please circle the correct answer.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e47089atqc.mp3"
+    }
+  ]
+}

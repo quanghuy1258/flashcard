@@ -1,0 +1,18 @@
+{
+  "ja": "新鮮",
+  "hrkt": "しんせん",
+  "latn": "shinsen",
+  "en": "fresh",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01189A.mp3",
+  "sentences": [
+    {
+      "ja": "この店では<b>新鮮</b>な野菜が買えますよ。",
+      "hrkt": "この みせ で は <b>しんせん</b>な やさい が かえます よ。",
+      "latn": "kono mise de ha <b>shinsen</b>na yasai ga kaemasu yo.",
+      "en": "You can buy fresh vegetables at this store.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01189A.mp3"
+    }
+  ]
+}

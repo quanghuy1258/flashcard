@@ -1,0 +1,18 @@
+{
+  "ja": "地帯",
+  "hrkt": "ちたい",
+  "latn": "chitai",
+  "en": "zone, area",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00652A.mp3",
+  "sentences": [
+    {
+      "ja": "この都市は工業<b>地帯</b>です。",
+      "hrkt": "この とし は こうぎょう <b>ちたい</b> です。",
+      "latn": "kono toshi ha kougyou <b>chitai</b> desu.",
+      "en": "This city is an industrial area.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00652A.mp3"
+    }
+  ]
+}

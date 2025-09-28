@@ -1,0 +1,26 @@
+{
+  "ja": "当たる",
+  "hrkt": "あたる",
+  "latn": "ataru",
+  "en": "(go straight and) hit, strike",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00151A.mp3",
+  "sentences": [
+    {
+      "ja": "ボールが彼の頭に<b>当たった</b>。",
+      "hrkt": "ボール が かれ の あたま に <b>あたった</b>。",
+      "latn": "bo-ru ga kare no atama ni <b>atatta</b>.",
+      "en": "The ball went straight to him and hit him on the head.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5507984.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00151A.mp3"
+    },
+    {
+      "ja": "後ろの人のかばんが私の足に<b>当たって</b>いる。",
+      "hrkt": "うしろ の ひと の かばん が わたし の あし に <b>あたって</b> いる。",
+      "latn": "ushiro no hito no kaban ga watashi no ashi ni <b>atatte</b> iru.",
+      "en": "The bag of the person behind me is hitting my leg.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/12dn5i50k4.mp3"
+    }
+  ]
+}

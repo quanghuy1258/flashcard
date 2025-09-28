@@ -1,0 +1,18 @@
+{
+  "ja": "学費",
+  "hrkt": "がくひ",
+  "latn": "gakuhi",
+  "en": "tuition",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02115A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はアルバイトをして<b>学費</b>を稼いだんだ。",
+      "hrkt": "かれ は アルバイト を して <b>がくひ</b> を かせいだ ん だ。",
+      "latn": "kare ha arubaito wo shite <b>gakuhi</b> wo kaseida n da.",
+      "en": "He earned his tuition money by working part-time.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02115A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "小児科",
+  "hrkt": "しょうにか",
+  "latn": "shounika",
+  "en": "pediatrics",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02928A.mp3",
+  "sentences": [
+    {
+      "ja": "子供を<b>小児科</b>に連れていくところです。",
+      "hrkt": "こども を <b>しょうにか</b> に つれて いく ところ です。",
+      "latn": "kodomo wo <b>shounika</b> ni tsurete iku tokoro desu.",
+      "en": "I'm about to take my kid to a pediatrician.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02928A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "小指",
+  "hrkt": "こゆび",
+  "latn": "koyubi",
+  "en": "little finger, little toe",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03287A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>小指</b>を切ってしまいました。",
+      "hrkt": "<b>こゆび</b> を きって しまいました。",
+      "latn": "<b>koyubi</b> wo kitte shimaimashita.",
+      "en": "I cut my little finger.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f476268200.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03287A.mp3"
+    }
+  ]
+}

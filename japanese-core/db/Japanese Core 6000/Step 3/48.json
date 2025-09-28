@@ -1,0 +1,18 @@
+{
+  "ja": "結核",
+  "hrkt": "けっかく",
+  "latn": "kekkaku",
+  "en": "tuberculosis",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01984A.mp3",
+  "sentences": [
+    {
+      "ja": "昔は<b>結核</b>でたくさんの人が亡くなった。",
+      "hrkt": "むかし は <b>けっかく</b> で たくさん の ひと が なくなった。",
+      "latn": "mukashi ha <b>kekkaku</b> de takusan no hito ga nakunatta.",
+      "en": "A lot of people died of tuberculosis in the old days.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01984A.mp3"
+    }
+  ]
+}

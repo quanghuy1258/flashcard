@@ -1,0 +1,26 @@
+{
+  "ja": "付く",
+  "hrkt": "つく",
+  "latn": "tsuku",
+  "en": "be on, be switched on",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05852A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋の電気が<b>付いて</b>います。",
+      "hrkt": "へや の でんき が <b>ついて</b> います。",
+      "latn": "heya no denki ga <b>tsuite</b> imasu.",
+      "en": "The room light is on.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4302599.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05852A.mp3"
+    },
+    {
+      "ja": "電気が<b>付いた</b>ままですよ。",
+      "hrkt": "でんき が <b>ついた</b> まま です よ。",
+      "latn": "denki ga <b>tsuita</b> mama desu yo.",
+      "en": "The light is still on.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4321779.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08794A.mp3"
+    }
+  ]
+}

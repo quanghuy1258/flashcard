@@ -1,0 +1,18 @@
+{
+  "ja": "洪水",
+  "hrkt": "こうずい",
+  "latn": "kouzui",
+  "en": "flood, a shower of (something)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01436A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>洪水</b>でたくさんの家が流されたの。",
+      "hrkt": "<b>こうずい</b> で たくさん の いえ が ながされた の。",
+      "latn": "<b>kouzui</b> de takusan no ie ga nagasareta no.",
+      "en": "Many houses were washed away in the flood.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01436A.mp3"
+    }
+  ]
+}

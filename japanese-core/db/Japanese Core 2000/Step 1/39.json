@@ -1,0 +1,26 @@
+{
+  "ja": "新幹線",
+  "hrkt": "しんかんせん",
+  "latn": "shinkansen",
+  "en": "bullet train",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04366A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>新幹線</b>で京都に行きました。",
+      "hrkt": "<b>しんかんせん</b> で きょうと に いきました。",
+      "latn": "<b>shinkansen</b> de kyouto ni ikimashita.",
+      "en": "I went to Kyoto by bullet train.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/117893.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04366A.mp3"
+    },
+    {
+      "ja": "<b>新幹線</b>の速さはどれくらいですか。",
+      "hrkt": "<b>しんかんせん</b> の はやさ は どれ くらい です か。",
+      "latn": "<b>shinkansen</b> no hayasa ha dore kurai desu ka.",
+      "en": "How fast is the bullet train?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2709031.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07470A.mp3"
+    }
+  ]
+}

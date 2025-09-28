@@ -1,0 +1,26 @@
+{
+  "ja": "食器",
+  "hrkt": "しょっき",
+  "latn": "shokki",
+  "en": "tableware",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02027A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>食器</b>を全部新しくしました。",
+      "hrkt": "<b>しょっき</b> を ぜんぶ あたらしく しました。",
+      "latn": "<b>shokki</b> wo zenbu atarashiku shimashita.",
+      "en": "I bought new tableware and replaced the old one.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/2l5g9sdvfbi10.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02027A.mp3"
+    },
+    {
+      "ja": "結婚のお祝いに<b>食器</b>を頂きました。",
+      "hrkt": "けっこん の おいわい に <b>しょっき</b> を いただきました。",
+      "latn": "kekkon no oiwai ni <b>shokki</b> wo itadakimashita.",
+      "en": "I received tableware as a wedding gift.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/22ci211rng.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01689A.mp3"
+    }
+  ]
+}

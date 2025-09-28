@@ -1,0 +1,26 @@
+{
+  "ja": "拾う",
+  "hrkt": "ひろう",
+  "latn": "hirou",
+  "en": "pick up",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07905A.mp3",
+  "sentences": [
+    {
+      "ja": "道で財布を<b>拾った</b>。",
+      "hrkt": "みち で さいふ を <b> ひろった</b>。",
+      "latn": "michi de saifu wo <b> hirotta</b>.",
+      "en": "I picked up a wallet on the street.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5801786.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07905A.mp3"
+    },
+    {
+      "ja": "私は子猫を<b>拾いました</b>。",
+      "hrkt": "わたし は こ ねこ を <b>ひろいました</b>。",
+      "latn": "watashi ha ko neko wo <b>hiroimashita</b>.",
+      "en": "I picked up a kitten (and brought it home).",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a68edv5jl8.mp3"
+    }
+  ]
+}

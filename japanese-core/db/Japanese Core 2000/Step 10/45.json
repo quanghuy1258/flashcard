@@ -1,0 +1,26 @@
+{
+  "ja": "参加",
+  "hrkt": "さんか",
+  "latn": "sanka",
+  "en": "participation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03526A.mp3",
+  "sentences": [
+    {
+      "ja": "明日は市民マラソンに<b>参加</b>します。",
+      "hrkt": "あす は しみん マラソン に <b>さんか</b> します。",
+      "latn": "asu ha shimin marason ni <b>sanka</b> shimasu.",
+      "en": "I'll participate in the citizen marathon tomorrow.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4755055.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03526A.mp3"
+    },
+    {
+      "ja": "彼女はデモに<b>参加</b>したよ。",
+      "hrkt": "かのじょ は デモ に <b>さんか</b> した よ。",
+      "latn": "kanojo ha demo ni <b>sanka</b> shita yo.",
+      "en": "She participated in the demonstration.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/54cn2a5onc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00392A.mp3"
+    }
+  ]
+}

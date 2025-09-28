@@ -1,0 +1,26 @@
+{
+  "ja": "腕時計",
+  "hrkt": "うでどけい",
+  "latn": "udedokei",
+  "en": "wrist watch",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00741A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>腕時計</b>は遅れている。",
+      "hrkt": "わたし の <b>うでどけい</b> は おくれて いる。",
+      "latn": "watashi no <b>udedokei</b> ha okurete iru.",
+      "en": "My watch is running slow.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5187016.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00741A.mp3"
+    },
+    {
+      "ja": "私は<b>腕時計</b>を四つ持っています。",
+      "hrkt": "わたし は <b>うでどけい</b> を よっつ もって います。",
+      "latn": "watashi ha <b>udedokei</b> wo yottsu motte imasu.",
+      "en": "I have four wristwatches.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6094039.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09702A.mp3"
+    }
+  ]
+}

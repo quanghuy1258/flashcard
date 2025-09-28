@@ -1,0 +1,18 @@
+{
+  "ja": "スモッグ",
+  "hrkt": "スモッグ",
+  "latn": "sumoggu",
+  "en": "smog",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03224A.mp3",
+  "sentences": [
+    {
+      "ja": "都会の空は<b>スモッグ</b>で灰色ね。",
+      "hrkt": "とかい の そら は <b>スモッグ</b> で はいいろ ね。",
+      "latn": "tokai no sora ha <b>sumoggu</b> de haiiro ne.",
+      "en": "The city sky is gray because of smog.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03224A.mp3"
+    }
+  ]
+}

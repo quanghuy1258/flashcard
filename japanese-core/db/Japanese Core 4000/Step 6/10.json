@@ -1,0 +1,18 @@
+{
+  "ja": "輸送",
+  "hrkt": "ゆそう",
+  "latn": "yusou",
+  "en": "transport, ship",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00260A.mp3",
+  "sentences": [
+    {
+      "ja": "この商品はトラックで<b>輸送</b>します。",
+      "hrkt": "この しょうひん は トラック で <b>ゆそう</b> します。",
+      "latn": "kono shouhin ha torakku de <b>yusou</b> shimasu.",
+      "en": "We'll transport these goods by truck.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00260A.mp3"
+    }
+  ]
+}

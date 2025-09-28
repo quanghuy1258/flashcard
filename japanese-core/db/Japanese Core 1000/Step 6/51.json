@@ -1,0 +1,26 @@
+{
+  "ja": "町",
+  "hrkt": "まち",
+  "latn": "machi",
+  "en": "town",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08723A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは小さな<b>町</b>です。",
+      "hrkt": "ここ は ちいさな <b>まち</b> です。",
+      "latn": "koko ha chiisana <b>machi</b> desu.",
+      "en": "This is a small town.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4031781.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08723A.mp3"
+    },
+    {
+      "ja": "これがこの<b>町</b>でいちばん高いビルです。",
+      "hrkt": "これ が この <b>まち</b> で いちばん たかい ビル です。",
+      "latn": "kore ga kono <b>machi</b> de ichiban takai biru desu.",
+      "en": "This is the tallest building in this town.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4833777.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05292A.mp3"
+    }
+  ]
+}

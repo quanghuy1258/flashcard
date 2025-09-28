@@ -1,0 +1,26 @@
+{
+  "ja": "体",
+  "hrkt": "からだ",
+  "latn": "karada",
+  "en": "body, physique, physical condition",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01813A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>体</b>が丈夫だ。",
+      "hrkt": "わたし は <b>からだ</b> が じょうぶ だ。",
+      "latn": "watashi ha <b>karada</b> ga joubu da.",
+      "en": "I'm physically strong.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5320813.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01813A.mp3"
+    },
+    {
+      "ja": "タバコは<b>体</b>に悪い。",
+      "hrkt": "タバコ は <b>からだ</b> に わるい。",
+      "latn": "tabako ha <b>karada</b> ni warui.",
+      "en": "Cigarettes are bad for your health.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5173714.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS10077A.mp3"
+    }
+  ]
+}

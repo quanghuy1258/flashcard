@@ -1,0 +1,18 @@
+{
+  "ja": "だます",
+  "hrkt": "だます",
+  "latn": "damasu",
+  "en": "deceive, cheat",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02485A.mp3",
+  "sentences": [
+    {
+      "ja": "人を<b>だまして</b>はいけません。",
+      "hrkt": "ひと を <b>だまして</b> は いけません。",
+      "latn": "hito wo <b>damashite</b> ha ikemasen.",
+      "en": "Don't deceive people.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02485A.mp3"
+    }
+  ]
+}

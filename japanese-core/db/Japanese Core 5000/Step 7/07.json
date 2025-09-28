@@ -1,0 +1,18 @@
+{
+  "ja": "国道",
+  "hrkt": "こくどう",
+  "latn": "kokudou",
+  "en": "national highway",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01697A.mp3",
+  "sentences": [
+    {
+      "ja": "この道をまっすぐ進むと<b>国道</b>に出ます。",
+      "hrkt": "この みち を まっすぐ すすむ と <b>こくどう</b> に でます。",
+      "latn": "kono michi wo massugu susumu to <b>kokudou</b> ni demasu.",
+      "en": "If you go straight on this road, you will come out on the national highway.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01697A.mp3"
+    }
+  ]
+}

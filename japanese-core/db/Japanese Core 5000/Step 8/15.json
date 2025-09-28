@@ -1,0 +1,18 @@
+{
+  "ja": "報道",
+  "hrkt": "ほうどう",
+  "latn": "houdou",
+  "en": "news, report",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00097A.mp3",
+  "sentences": [
+    {
+      "ja": "夜中もテレビで台風の<b>報道</b>をしていた。",
+      "hrkt": "よなか も テレビ で たいふう の <b>ほうどう</b> を して いた。",
+      "latn": "yonaka mo terebi de taifuu no <b>houdou</b> wo shite ita.",
+      "en": "The typhoon was reported on TV even really late at night.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00097A.mp3"
+    }
+  ]
+}

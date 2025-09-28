@@ -1,0 +1,18 @@
+{
+  "ja": "男子",
+  "hrkt": "だんし",
+  "latn": "danshi",
+  "en": "boy (usually over the age of 7), young man",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03715A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>男子</b>はこっちに並んで。",
+      "hrkt": "<b>だんし</b> は こっち に ならんで。",
+      "latn": "<b>danshi</b> ha kocchi ni narande.",
+      "en": "Boys, you line up here.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03715A.mp3"
+    }
+  ]
+}

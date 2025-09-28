@@ -1,0 +1,18 @@
+{
+  "ja": "アクセント",
+  "hrkt": "アクセント",
+  "latn": "akusento",
+  "en": "accent, stress",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02506A.mp3",
+  "sentences": [
+    {
+      "ja": "アメリカ英語とイギリス英語では<b>アクセント</b>が違うことがあるね。",
+      "hrkt": "アメリカ えいご と イギリス えいご で は <b>アクセント</b> が ちがう こと が ある ね。",
+      "latn": "amerika eigo to igirisu eigo de ha <b>akusento</b> ga chigau koto ga aru ne.",
+      "en": "American English and British English can be different in their accents.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02506A.mp3"
+    }
+  ]
+}

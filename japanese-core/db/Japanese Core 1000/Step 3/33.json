@@ -1,0 +1,26 @@
+{
+  "ja": "痛い",
+  "hrkt": "いたい",
+  "latn": "itai",
+  "en": "sore, painful",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00455A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は頭が<b>痛い</b>です。",
+      "hrkt": "きょう は あたま が <b>いたい</b> です。",
+      "latn": "kyou ha atama ga <b>itai</b> desu.",
+      "en": "I have a headache today.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4196135.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00455A.mp3"
+    },
+    {
+      "ja": "昨日から腰が<b>痛い</b>。",
+      "hrkt": "きのう から こし が <b>いたい</b>。",
+      "latn": "kinou kara koshi ga <b>itai</b>.",
+      "en": "I've had a pain in my lower back since yesterday.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/548j2b1eds.png",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03107A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "つまずく",
+  "hrkt": "つまずく",
+  "latn": "tsumazuku",
+  "en": "stumble, trip on",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03754A.mp3",
+  "sentences": [
+    {
+      "ja": "石に<b>つまずきました</b>。",
+      "hrkt": "いし に <b>つまずきました</b>。",
+      "latn": "ishi ni <b>tsumazukimashita</b>.",
+      "en": "I tripped on a stone.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03754A.mp3"
+    }
+  ]
+}

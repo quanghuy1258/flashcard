@@ -1,0 +1,18 @@
+{
+  "ja": "親子",
+  "hrkt": "おやこ",
+  "latn": "oyako",
+  "en": "parent and child",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00870A.mp3",
+  "sentences": [
+    {
+      "ja": "池にカモの<b>親子</b>がいます。",
+      "hrkt": "いけ に カモ の <b>おやこ</b> が います 。",
+      "latn": "ike ni kamo no <b>oyako</b> ga imasu .",
+      "en": "A mother duck and her ducklings are in the pond.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b49l1gfflg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00870A.mp3"
+    }
+  ]
+}

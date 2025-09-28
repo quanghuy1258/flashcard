@@ -1,0 +1,18 @@
+{
+  "ja": "要項",
+  "hrkt": "ようこう",
+  "latn": "youkou",
+  "en": "important points",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03001A.mp3",
+  "sentences": [
+    {
+      "ja": "募集<b>要項</b>をよくお読みください。",
+      "hrkt": "ぼしゅう <b>ようこう</b> を よく およみ ください。",
+      "latn": "boshuu <b>youkou</b> wo yoku oyomi kudasai.",
+      "en": "Please read the application guidelines carefully.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03001A.mp3"
+    }
+  ]
+}

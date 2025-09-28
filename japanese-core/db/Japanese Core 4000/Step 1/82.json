@@ -1,0 +1,18 @@
+{
+  "ja": "波",
+  "hrkt": "なみ",
+  "latn": "nami",
+  "en": "wave, fluctuations",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03791A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の海は<b>波</b>が穏やかです。",
+      "hrkt": "きょう の うみ は <b>なみ</b> が おだやか です。",
+      "latn": "kyou no umi ha <b>nami</b> ga odayaka desu.",
+      "en": "The waves of the sea are calm today.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/44995r8qas.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03791A.mp3"
+    }
+  ]
+}

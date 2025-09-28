@@ -1,0 +1,18 @@
+{
+  "ja": "損害",
+  "hrkt": "そんがい",
+  "latn": "songai",
+  "en": "damage, loss",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01455A.mp3",
+  "sentences": [
+    {
+      "ja": "町は台風で大きな<b>損害</b>を受けたんだ。",
+      "hrkt": "まち は たいふう で おおきな <b>そんがい</b> を うけた ん だ。",
+      "latn": "machi ha taifuu de ookina <b>songai</b> wo uketa n da.",
+      "en": "The town was greatly damaged in the typhoon.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01455A.mp3"
+    }
+  ]
+}

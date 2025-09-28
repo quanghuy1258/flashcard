@@ -1,0 +1,26 @@
+{
+  "ja": "アイロン",
+  "hrkt": "アイロン",
+  "latn": "airon",
+  "en": "iron (for clothes)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00026A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はシャツに<b>アイロン</b>をかけた。",
+      "hrkt": "かのじょ は シャツ に <b>アイロン</b> を かけた。",
+      "latn": "kanojo ha shatsu ni <b>airon</b> wo kaketa.",
+      "en": "She ironed the shirt.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/0b052o0e0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00026A.mp3"
+    },
+    {
+      "ja": "このシャツは<b>アイロン</b>が必要だ。",
+      "hrkt": "この シャツ は <b>アイロン</b> が ひつよう だ。",
+      "latn": "kono shatsu ha <b>airon</b> ga hitsuyou da.",
+      "en": "This shirt needs ironing.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3984533.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03917A.mp3"
+    }
+  ]
+}

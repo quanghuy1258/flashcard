@@ -1,0 +1,18 @@
+{
+  "ja": "寄せる",
+  "hrkt": "よせる",
+  "latn": "yoseru",
+  "en": "draw (something) near",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00538A.mp3",
+  "sentences": [
+    {
+      "ja": "車を塀に<b>寄せた</b>よ。",
+      "hrkt": "くるま を へい に <b>よせた</b> よ。",
+      "latn": "kuruma wo hei ni <b>yoseta</b> yo.",
+      "en": "I pulled my car over by the wall.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00538A.mp3"
+    }
+  ]
+}

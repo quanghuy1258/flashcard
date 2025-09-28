@@ -1,0 +1,26 @@
+{
+  "ja": "どなた",
+  "hrkt": "どなた",
+  "latn": "donata",
+  "en": "who (polite)",
+  "pos": "Interrogative",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06477A.mp3",
+  "sentences": [
+    {
+      "ja": "失礼ですが、<b>どなた</b>ですか。",
+      "hrkt": "しつれい です が、<b>どなた</b> です か。",
+      "latn": "shitsurei desu ga,<b>donata</b> desu ka.",
+      "en": "Excuse me, but who are you?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5658789.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06477A.mp3"
+    },
+    {
+      "ja": "<b>どなた</b>か私のかばんを見ませんでしたか。",
+      "hrkt": "<b>どなた</b> か わたし の かばん を みません でした か。",
+      "latn": "<b>donata</b> ka watashi no kaban wo mimasen deshita ka.",
+      "en": "Has anyone seen my bag?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d33f77df0s.mp3"
+    }
+  ]
+}

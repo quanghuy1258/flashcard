@@ -1,0 +1,18 @@
+{
+  "ja": "高温",
+  "hrkt": "こうおん",
+  "latn": "kouon",
+  "en": "high temperature",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00797A.mp3",
+  "sentences": [
+    {
+      "ja": "金属は<b>高温</b>で溶かします。",
+      "hrkt": "きんぞく は <b>こうおん</b> で とかします。",
+      "latn": "kinzoku ha <b>kouon</b> de tokashimasu.",
+      "en": "We melt metals at high temperatures.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00797A.mp3"
+    }
+  ]
+}

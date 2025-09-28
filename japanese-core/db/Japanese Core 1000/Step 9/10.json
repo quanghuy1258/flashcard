@@ -1,0 +1,26 @@
+{
+  "ja": "大きさ",
+  "hrkt": "おおきさ",
+  "latn": "ookisa",
+  "en": "size, dimension",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00972A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>大きさ</b>の封筒が欲しいのですが。",
+      "hrkt": "この <b>おおきさ</b> の ふうとう が ほしい の です が。",
+      "latn": "kono <b>ookisa</b> no fuutou ga hoshii no desu ga.",
+      "en": "I'd like an envelope of this size.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4695478.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00972A.mp3"
+    },
+    {
+      "ja": "あなたのスーツケースの<b>大きさ</b>を教えてください。",
+      "hrkt": "あなた の スーツケース の <b>おおきさ</b> を おしえて ください。",
+      "latn": "anata no su-tsuke-su no <b>ookisa</b> wo oshiete kudasai.",
+      "en": "Please tell me the size of your suitcase.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a27o8kckng.mp3"
+    }
+  ]
+}

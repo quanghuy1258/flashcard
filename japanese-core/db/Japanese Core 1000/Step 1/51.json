@@ -1,0 +1,26 @@
+{
+  "ja": "起きる",
+  "hrkt": "おきる",
+  "latn": "okiru",
+  "en": "get up, get out of bed",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01028A.mp3",
+  "sentences": [
+    {
+      "ja": "私は毎朝6時に<b>起きます</b>。",
+      "hrkt": "わたし は まいあさ 6 じ に <b>おきます</b>。",
+      "latn": "watashi ha maiasa 6 ji ni <b>okimasu</b>.",
+      "en": "I get up at six o'clock every morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2984740.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01028A.mp3"
+    },
+    {
+      "ja": "今日は7時に<b>起きました</b>。",
+      "hrkt": "きょう は 7 じ に <b>おきました</b>。",
+      "latn": "kyou ha 7 ji ni <b>okimashita</b>.",
+      "en": "I got up at seven today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d4b99s9rg4.mp3"
+    }
+  ]
+}

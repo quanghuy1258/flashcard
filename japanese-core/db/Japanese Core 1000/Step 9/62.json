@@ -1,0 +1,26 @@
+{
+  "ja": "立てる",
+  "hrkt": "たてる",
+  "latn": "tateru",
+  "en": "stand, set up",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05409A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はケーキにろうそくを<b>立てた</b>。",
+      "hrkt": "かれ は ケーキ に ろうそく を <b>たてた</b>。",
+      "latn": "kare ha ke-ki ni rousoku wo <b>tateta</b>.",
+      "en": "He placed the candles on the cake.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/889116.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05409A.mp3"
+    },
+    {
+      "ja": "みんなで週末の予定を<b>立てました</b>。",
+      "hrkt": "みんな で しゅうまつ の よてい を <b>たてました</b>。",
+      "latn": "minna de shuumatsu no yotei wo <b>tatemashita</b>.",
+      "en": "We made plans for the weekend with everyone.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/737e3r8isg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "お茶",
+  "hrkt": "おちゃ",
+  "latn": "ocha",
+  "en": "tea (polite)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01122A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>お茶</b>を入れましょうか。",
+      "hrkt": "<b>おちゃ</b> を いれましょう か。",
+      "latn": "<b>ocha</b> wo iremashou ka.",
+      "en": "Shall I make tea?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5667448.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01122A.mp3"
+    },
+    {
+      "ja": "私たちは毎日<b>お茶</b>を飲みます。",
+      "hrkt": "わたし たち は まいにち <b>おちゃ</b> を のみます。",
+      "latn": "watashi tachi ha mainichi <b>ocha</b> wo nomimasu.",
+      "en": "We drink tea every day.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6041881.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05620A.mp3"
+    }
+  ]
+}

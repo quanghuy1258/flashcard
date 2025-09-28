@@ -1,0 +1,26 @@
+{
+  "ja": "ボタン",
+  "hrkt": "ボタン",
+  "latn": "botan",
+  "en": "button",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08537A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ボタン</b>を押してください。",
+      "hrkt": "<b>ボタン</b> を おして ください。",
+      "latn": "<b>botan</b> wo oshite kudasai.",
+      "en": "Please press the button.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5329859.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08537A.mp3"
+    },
+    {
+      "ja": "シャツの<b>ボタン</b>が取れた。",
+      "hrkt": "シャツ の <b>ボタン</b> が とれた。",
+      "latn": "shatsu no <b>botan</b> ga toreta.",
+      "en": "My shirt button came off.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4272020.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06576A.mp3"
+    }
+  ]
+}

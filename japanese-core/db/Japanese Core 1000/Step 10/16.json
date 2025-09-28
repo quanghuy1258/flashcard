@@ -1,0 +1,26 @@
+{
+  "ja": "どんどん",
+  "hrkt": "どんどん",
+  "latn": "dondon",
+  "en": "knock, bang",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06590A.mp3",
+  "sentences": [
+    {
+      "ja": "ドアを<b>どんどん</b>とたたいた。",
+      "hrkt": "ドア を <b>どんどん</b> と たたいた。",
+      "latn": "doa wo <b>dondon</b> to tataita.",
+      "en": "I banged on the door.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3733690.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06590A.mp3"
+    },
+    {
+      "ja": "隣から<b>どんどん</b>言う音が聞こえる。",
+      "hrkt": "となり から <b>どんどん</b> いう おと が きこえる。",
+      "latn": "tonari kara <b>dondon</b> iu oto ga kikoeru.",
+      "en": "I hear banging sounds from the next door.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b3cr5a8v5s.mp3"
+    }
+  ]
+}

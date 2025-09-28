@@ -1,0 +1,18 @@
+{
+  "ja": "正面",
+  "hrkt": "しょうめん",
+  "latn": "shoumen",
+  "en": "front, face",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01242A.mp3",
+  "sentences": [
+    {
+      "ja": "その家の<b>正面</b>には大きなバルコニーがあるの。",
+      "hrkt": "その いえ の <b>しょうめん</b> に は おおきな バルコニー が ある の。",
+      "latn": "sono ie no <b>shoumen</b> ni ha ookina barukoni- ga aru no.",
+      "en": "There is a large balcony at the front of the house.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01242A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "東",
+  "hrkt": "ひがし",
+  "latn": "higashi",
+  "en": "east, eastern",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07618A.mp3",
+  "sentences": [
+    {
+      "ja": "日は<b>東</b>から上ります。",
+      "hrkt": "ひ は <b>ひがし</b> から のぼります。",
+      "latn": "hi ha <b>higashi</b> kara noborimasu.",
+      "en": "The sun rises in the east.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4139892.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07618A.mp3"
+    },
+    {
+      "ja": "<b>東</b>の空が暗いです。",
+      "hrkt": "<b>ひがし</b> の そら が くらい です。",
+      "latn": "<b>higashi</b> no sora ga kurai desu.",
+      "en": "The eastern sky is dark.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5315108.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02521A.mp3"
+    }
+  ]
+}

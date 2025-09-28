@@ -1,0 +1,26 @@
+{
+  "ja": "載せる",
+  "hrkt": "のせる",
+  "latn": "noseru",
+  "en": "place, put on",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07083A.mp3",
+  "sentences": [
+    {
+      "ja": "皿にケーキを<b>載せました</b>。",
+      "hrkt": "さら に ケーキ を <b>のせました</b>。",
+      "latn": "sara ni ke-ki wo <b>nosemashita</b>.",
+      "en": "I put the cake on a plate.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4891810.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07083A.mp3"
+    },
+    {
+      "ja": "彼女はかばんを膝に<b>載せた</b>。",
+      "hrkt": "かのじょ は かばん を ひざ に <b>のせた</b>。",
+      "latn": "kanojo ha kaban wo hiza ni <b>noseta</b>.",
+      "en": "She put her bag on her lap.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/545l5baigo.mp3"
+    }
+  ]
+}

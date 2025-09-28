@@ -1,0 +1,18 @@
+{
+  "ja": "高速道路",
+  "hrkt": "こうそくどうろ",
+  "latn": "kousokudouro",
+  "en": "freeway, expressway",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00961A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>高速道路</b>は混んでたよ。",
+      "hrkt": "<b>こうそくどうろ</b> は こんで た よ。",
+      "latn": "<b>kousokudouro</b> ha konde ta yo.",
+      "en": "There was a lot of traffic on the expressway.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/96637h5c14.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00961A.mp3"
+    }
+  ]
+}

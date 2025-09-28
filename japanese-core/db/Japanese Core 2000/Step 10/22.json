@@ -1,0 +1,26 @@
+{
+  "ja": "面倒",
+  "hrkt": "めんどう",
+  "latn": "mendou",
+  "en": "troublesome, difficult",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01212A.mp3",
+  "sentences": [
+    {
+      "ja": "会社で<b>面倒</b>なことが起こったの。",
+      "hrkt": "かいしゃ で <b>めんどう</b>な こと が おこった の。",
+      "latn": "kaisha de <b>mendou</b>na koto ga okotta no.",
+      "en": "There was some trouble at the office.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/894137.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01212A.mp3"
+    },
+    {
+      "ja": "ここからまた会社に戻るのは<b>面倒</b>です。",
+      "hrkt": "ここ から また かいしゃ に もどる の は <b>めんどう</b> です。",
+      "latn": "koko kara mata kaisha ni modoru no ha <b>mendou</b> desu.",
+      "en": "It's a pain to go back to the office again from here.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/224jf88c6s.mp3"
+    }
+  ]
+}

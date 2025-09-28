@@ -1,0 +1,26 @@
+{
+  "ja": "番組",
+  "hrkt": "ばんぐみ",
+  "latn": "bangumi",
+  "en": "(television, radio) program",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07529A.mp3",
+  "sentences": [
+    {
+      "ja": "私はこの<b>番組</b>が好きです。",
+      "hrkt": "わたし は この <b>ばんぐみ</b> が すき です。",
+      "latn": "watashi ha kono <b>bangumi</b> ga suki desu.",
+      "en": "I like this show.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3927910.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07529A.mp3"
+    },
+    {
+      "ja": "クイズ<b>番組</b>を見るのが好きです。",
+      "hrkt": "クイズ <b>ばんぐみ</b> を みる の が すき です。",
+      "latn": "kuizu <b>bangumi</b> wo miru no ga suki desu.",
+      "en": "I like to watch quiz shows.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/05eh4v9u9c.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02917A.mp3"
+    }
+  ]
+}

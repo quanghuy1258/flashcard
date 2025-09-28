@@ -1,0 +1,18 @@
+{
+  "ja": "むく",
+  "hrkt": "むく",
+  "latn": "muku",
+  "en": "peel (something)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03909A.mp3",
+  "sentences": [
+    {
+      "ja": "にんじんの皮を<b>むきました</b>。",
+      "hrkt": "にんじん の かわ を <b>むきました</b> 。",
+      "latn": "ninjin no kawa wo <b>mukimashita</b> .",
+      "en": "I peeled a carrot.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/752nbhf2u8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03909A.mp3"
+    }
+  ]
+}

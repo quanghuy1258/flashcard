@@ -1,0 +1,18 @@
+{
+  "ja": "計る",
+  "hrkt": "はかる",
+  "latn": "hakaru",
+  "en": "compute, measure (number or time)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02309A.mp3",
+  "sentences": [
+    {
+      "ja": "100メートル走のタイムを<b>計った</b>んだ。",
+      "hrkt": "100 メートル そう の タイム を <b>はかった</b> ん だ。",
+      "latn": "100 me-toru sou no taimu wo <b>hakatta</b> n da.",
+      "en": "I timed a 100m race.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02309A.mp3"
+    }
+  ]
+}

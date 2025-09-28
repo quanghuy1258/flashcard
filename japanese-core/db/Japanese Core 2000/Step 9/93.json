@@ -1,0 +1,26 @@
+{
+  "ja": "港",
+  "hrkt": "みなと",
+  "latn": "minato",
+  "en": "port, harbor",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08963A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>港</b>に船が着きました。",
+      "hrkt": "<b>みなと</b> に ふね が つきました。",
+      "latn": "<b>minato</b> ni fune ga tsukimashita.",
+      "en": "The ship arrived at the port.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3891611.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08963A.mp3"
+    },
+    {
+      "ja": "世界最大の<b>港</b>は中国にあります。",
+      "hrkt": "せかい さいだい の <b>みなと</b> は ちゅうごく に あります。",
+      "latn": "sekai saidai no <b>minato</b> ha chuugoku ni arimasu.",
+      "en": "The largest port in the world is in China.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/74b61q86vc.mp3"
+    }
+  ]
+}

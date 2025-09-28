@@ -1,0 +1,26 @@
+{
+  "ja": "事務室",
+  "hrkt": "じむしつ",
+  "latn": "jimushitsu",
+  "en": "clerk's office, office room",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03865A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>事務室</b>でコピーを取ってきます。",
+      "hrkt": "<b>じむしつ</b> で コピー を とって きます。",
+      "latn": "<b>jimushitsu</b> de kopi- wo totte kimasu.",
+      "en": "I'm going to make copies in the office.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1545120.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03865A.mp3"
+    },
+    {
+      "ja": "彼は大学の<b>事務室</b>でアルバイトをしています。",
+      "hrkt": "かれ は だいがく の <b>じむしつ</b> で アルバイト を して います。",
+      "latn": "kare ha daigaku no <b>jimushitsu</b> de arubaito wo shite imasu.",
+      "en": "He has a part-time job at the university office.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/01bn0g8d7g.mp3"
+    }
+  ]
+}

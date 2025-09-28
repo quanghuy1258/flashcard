@@ -1,0 +1,18 @@
+{
+  "ja": "砂",
+  "hrkt": "すな",
+  "latn": "suna",
+  "en": "sand",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03679A.mp3",
+  "sentences": [
+    {
+      "ja": "靴に<b>砂</b>が入ってしまった。",
+      "hrkt": "くつ に <b>すな</b> が はいって しまった。",
+      "latn": "kutsu ni <b>suna</b> ga haitte shimatta.",
+      "en": "I got sand in my shoes.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03679A.mp3"
+    }
+  ]
+}

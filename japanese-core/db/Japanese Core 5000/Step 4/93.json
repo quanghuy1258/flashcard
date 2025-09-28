@@ -1,0 +1,18 @@
+{
+  "ja": "回数券",
+  "hrkt": "かいすうけん",
+  "latn": "kaisuuken",
+  "en": "book of (discounted) tickets",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03070A.mp3",
+  "sentences": [
+    {
+      "ja": "バスの<b>回数券</b>を買いました。",
+      "hrkt": "バス の <b>かいすうけん</b> を かいました。",
+      "latn": "basu no <b>kaisuuken</b> wo kaimashita.",
+      "en": "I bought a strip of discounted bus tickets.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03070A.mp3"
+    }
+  ]
+}

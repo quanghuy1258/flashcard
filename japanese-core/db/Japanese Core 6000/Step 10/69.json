@@ -1,0 +1,18 @@
+{
+  "ja": "天の川",
+  "hrkt": "あまのがわ",
+  "latn": "amanogawa",
+  "en": "Milky Way",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02903A.mp3",
+  "sentences": [
+    {
+      "ja": "今夜は<b>天の川</b>が見えますね。",
+      "hrkt": "こんや は <b>あまのがわ</b> が みえます ね。",
+      "latn": "kon'ya ha <b>amanogawa</b> ga miemasu ne.",
+      "en": "We can see the Milky Way tonight.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02903A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "タイプライター",
+  "hrkt": "タイプライター",
+  "latn": "taipuraita-",
+  "en": "typewriter",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05249A.mp3",
+  "sentences": [
+    {
+      "ja": "母は古い<b>タイプライター</b>を持っています。",
+      "hrkt": "はは は ふるい <b>タイプライター</b> を もって います。",
+      "latn": "haha ha furui <b>taipuraita-</b> wo motte imasu.",
+      "en": "My mother has an old typewriter.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5521746.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05249A.mp3"
+    },
+    {
+      "ja": "今、<b>タイプライター</b>を使っている人はほとんどいません。",
+      "hrkt": "いま、 <b>タイプライター</b> を つかって いる ひと は ほとんど いません。",
+      "latn": "ima, <b>taipuraita-</b> wo tsukatte iru hito ha hotondo imasen.",
+      "en": "There is almost no one who uses a typewriter now.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a58c7j08rk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "諦める",
+  "hrkt": "あきらめる",
+  "latn": "akirameru",
+  "en": "abandon, give up",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03507A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は留学の夢を<b>諦めて</b>いないよ。",
+      "hrkt": "かれ は りゅうがく の ゆめ を <b>あきらめて</b> いない よ。",
+      "latn": "kare ha ryuugaku no yume wo <b>akiramete</b> inai yo.",
+      "en": "He hasn't given up on his dream of studying abroad.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6385132.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03507A.mp3"
+    },
+    {
+      "ja": "野球選手になるのはもう<b>諦めました</b>。",
+      "hrkt": "やきゅう せんしゅ に なる の は もう <b>あきらめました</b>。",
+      "latn": "yakyuu senshu ni naru no ha mou <b>akiramemashita</b>.",
+      "en": "I already gave up on becoming a baseball player.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c2cqdbesqs.mp3"
+    }
+  ]
+}

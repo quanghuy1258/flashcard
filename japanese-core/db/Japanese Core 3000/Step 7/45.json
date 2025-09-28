@@ -1,0 +1,18 @@
+{
+  "ja": "起き上がる",
+  "hrkt": "おきあがる",
+  "latn": "okiagaru",
+  "en": "get up, rise",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02674A.mp3",
+  "sentences": [
+    {
+      "ja": "弟はようやくベッドから<b>起き上がった</b>。",
+      "hrkt": "おとうと は ようやく ベッド から <b>おきあがった</b>。",
+      "latn": "otouto ha youyaku beddo kara <b>okiagatta</b>.",
+      "en": "My younger brother finally got out of bed.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/1114a7b30g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02674A.mp3"
+    }
+  ]
+}

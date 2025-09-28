@@ -1,0 +1,18 @@
+{
+  "ja": "塞ぐ",
+  "hrkt": "ふさぐ",
+  "latn": "fusagu",
+  "en": "block (something) up, cover in",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03856A.mp3",
+  "sentences": [
+    {
+      "ja": "あまりにうるさかったので耳を<b>塞いだ</b>わ。",
+      "hrkt": "あまりに うるさかった ので みみ を <b>ふさいだ</b> わ。",
+      "latn": "amarini urusakatta node mimi wo <b>fusaida</b> wa.",
+      "en": "It was too noisy, so I covered my ears.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03856A.mp3"
+    }
+  ]
+}

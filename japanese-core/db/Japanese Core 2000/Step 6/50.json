@@ -1,0 +1,26 @@
+{
+  "ja": "年下",
+  "hrkt": "としした",
+  "latn": "toshishita",
+  "en": "younger, junior",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06427A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は奥さんより<b>年下</b>です。",
+      "hrkt": "かれ は おくさん より <b>としした</b> です。",
+      "latn": "kare ha okusan yori <b>toshishita</b> desu.",
+      "en": "He's younger than his wife.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2690348.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06427A.mp3"
+    },
+    {
+      "ja": "彼女は<b>年下</b>の男の人が好きです。",
+      "hrkt": "かのじょ は <b>としした</b> の おとこ の ひと が すき です。",
+      "latn": "kanojo ha <b>toshishita</b> no otoko no hito ga suki desu.",
+      "en": "She likes men younger than her.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e54s084u58.mp3"
+    }
+  ]
+}

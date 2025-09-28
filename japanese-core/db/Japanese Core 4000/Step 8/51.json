@@ -1,0 +1,18 @@
+{
+  "ja": "親戚",
+  "hrkt": "しんせき",
+  "latn": "shinseki",
+  "en": "relative",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02386A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父の家に<b>親戚</b>が集まったんだ。",
+      "hrkt": "そふ の いえ に <b>しんせき</b> が あつまった ん だ。",
+      "latn": "sofu no ie ni <b>shinseki</b> ga atsumatta n da.",
+      "en": "Relatives gathered at my grandfather's house.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02386A.mp3"
+    }
+  ]
+}

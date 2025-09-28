@@ -1,0 +1,26 @@
+{
+  "ja": "忙しい",
+  "hrkt": "いそがしい",
+  "latn": "isogashii",
+  "en": "busy, occupied",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00452A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>忙しい</b>ので手伝ってください。",
+      "hrkt": "<b>いそがしい</b> ので てつだって ください。",
+      "latn": "<b>isogashii</b> node tetsudatte kudasai.",
+      "en": "I have a lot to do, so please help me.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5270481.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00452A.mp3"
+    },
+    {
+      "ja": "3月は仕事が<b>忙しい</b>。",
+      "hrkt": "3 がつ は しごと が <b>いそがしい</b>。",
+      "latn": "3 gatsu ha shigoto ga <b>isogashii</b>.",
+      "en": "I'm busy at work in March.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5617209.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03665A.mp3"
+    }
+  ]
+}

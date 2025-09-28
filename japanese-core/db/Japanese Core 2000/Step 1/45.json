@@ -1,0 +1,26 @@
+{
+  "ja": "修理",
+  "hrkt": "しゅうり",
+  "latn": "shuuri",
+  "en": "repair, mending",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04021A.mp3",
+  "sentences": [
+    {
+      "ja": "車を<b>修理</b>に出した。",
+      "hrkt": "くるま を <b>しゅうり</b> に だした。",
+      "latn": "kuruma wo <b>shuuri</b> ni dashita.",
+      "en": "I sent my car for repair.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3474420.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04021A.mp3"
+    },
+    {
+      "ja": "車のモーターを<b>修理</b>したぜ。",
+      "hrkt": "くるま の モーター を <b>しゅうり</b> した ぜ。",
+      "latn": "kuruma no mo-ta- wo <b>shuuri</b> shita ze.",
+      "en": "I repaired the car's motor.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/32c94dav5o.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01824A.mp3"
+    }
+  ]
+}

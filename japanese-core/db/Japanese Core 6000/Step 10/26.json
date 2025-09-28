@@ -1,0 +1,18 @@
+{
+  "ja": "旅客",
+  "hrkt": "りょかく",
+  "latn": "ryokaku",
+  "en": "traveler, passenger",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01893A.mp3",
+  "sentences": [
+    {
+      "ja": "その便は外国人の<b>旅客</b>が多かったよ。",
+      "hrkt": "その びん は がいこく じん の <b>りょかく</b> が おおかった よ。",
+      "latn": "sono bin ha gaikoku jin no <b>ryokaku</b> ga ookatta yo.",
+      "en": "There were a lot of foreign travelers on the flight.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01893A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "洗面所",
+  "hrkt": "せんめんじょ",
+  "latn": "senmenjo",
+  "en": "washroom, bathroom",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04936A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>洗面所</b>で顔を洗った。",
+      "hrkt": "<b>せんめんじょ</b> で かお を あらった。",
+      "latn": "<b>senmenjo</b> de kao wo aratta.",
+      "en": "She washed her face in the washroom.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4289644.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04936A.mp3"
+    },
+    {
+      "ja": "歯磨きはキッチンではなく<b>洗面所</b>でしてください。",
+      "hrkt": "はみがき は キッチン で は なく <b>せんめんじょ</b> で して ください。",
+      "latn": "hamigaki ha kicchin de ha naku <b>senmenjo</b> de shite kudasai.",
+      "en": "Please brush your teeth in the bathroom, not in the kitchen.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/040a654gj0.mp3"
+    }
+  ]
+}

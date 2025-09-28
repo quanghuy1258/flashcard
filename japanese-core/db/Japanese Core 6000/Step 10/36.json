@@ -1,0 +1,18 @@
+{
+  "ja": "漢語",
+  "hrkt": "かんご",
+  "latn": "kango",
+  "en": "words of Chinese origin",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01836A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>漢語</b>はもともと外来語です。",
+      "hrkt": "<b>かんご</b> は もともと がいらい ご です。",
+      "latn": "<b>kango</b> ha motomoto gairai go desu.",
+      "en": "Kango is originally a language of loanwords.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01836A.mp3"
+    }
+  ]
+}

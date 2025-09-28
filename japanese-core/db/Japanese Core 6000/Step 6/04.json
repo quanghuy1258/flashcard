@@ -1,0 +1,18 @@
+{
+  "ja": "海上",
+  "hrkt": "かいじょう",
+  "latn": "kaijou",
+  "en": "on the sea, seaborne",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03431A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>海上</b>で衝突事故が発生した。",
+      "hrkt": "<b>かいじょう</b> で しょうとつ じこ が はっせい した。",
+      "latn": "<b>kaijou</b> de shoutotsu jiko ga hassei shita.",
+      "en": "There was a collision on the sea.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03431A.mp3"
+    }
+  ]
+}

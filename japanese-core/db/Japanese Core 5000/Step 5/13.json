@@ -1,0 +1,18 @@
+{
+  "ja": "払い戻す",
+  "hrkt": "はらいもどす",
+  "latn": "haraimodosu",
+  "en": "pay back, reimburse",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03164A.mp3",
+  "sentences": [
+    {
+      "ja": "飛行機の運賃が<b>払い戻された</b>の。",
+      "hrkt": "ひこうき の うんちん が <b>はらいもどされた</b> の。",
+      "latn": "hikouki no unchin ga <b>haraimodosareta</b> no.",
+      "en": "My airfare was reimbursed.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03164A.mp3"
+    }
+  ]
+}

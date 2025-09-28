@@ -1,0 +1,18 @@
+{
+  "ja": "県庁",
+  "hrkt": "けんちょう",
+  "latn": "kenchou",
+  "en": "prefectural office",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02239A.mp3",
+  "sentences": [
+    {
+      "ja": "あの白い建物が<b>県庁</b>です。",
+      "hrkt": "あの しろい たてもの が <b>けんちょう</b> です。",
+      "latn": "ano shiroi tatemono ga <b>kenchou</b> desu.",
+      "en": "That white building is the prefectural office.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02239A.mp3"
+    }
+  ]
+}

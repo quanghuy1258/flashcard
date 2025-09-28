@@ -1,0 +1,18 @@
+{
+  "ja": "倣う",
+  "hrkt": "ならう",
+  "latn": "narau",
+  "en": "copy, follow an example",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02936A.mp3",
+  "sentences": [
+    {
+      "ja": "この街はロンドンに<b>倣って</b>作られました。",
+      "hrkt": "この まち は ロンドン に <b>ならって</b> つくられました。",
+      "latn": "kono machi ha rondon ni <b>naratte</b> tsukuraremashita.",
+      "en": "This town was built to resemble London.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02936A.mp3"
+    }
+  ]
+}

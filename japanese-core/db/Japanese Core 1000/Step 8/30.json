@@ -1,0 +1,26 @@
+{
+  "ja": "歌",
+  "hrkt": "うた",
+  "latn": "uta",
+  "en": "song",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00701A.mp3",
+  "sentences": [
+    {
+      "ja": "私はその<b>歌</b>を知らなかった。",
+      "hrkt": "わたし は その <b>うた</b> を しらなかった。",
+      "latn": "watashi ha sono <b>uta</b> wo shiranakatta.",
+      "en": "I didn't know that song.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5584542.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00701A.mp3"
+    },
+    {
+      "ja": "妹は<b>歌</b>が上手です。",
+      "hrkt": "いもうと は <b>うた</b> が じょうず です。",
+      "latn": "imouto ha <b>uta</b> ga jouzu desu.",
+      "en": "My little sister can sing.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3480828.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04185A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "病院",
+  "hrkt": "びょういん",
+  "latn": "byouin",
+  "en": "hospital",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07847A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>病院</b>はどこですか。",
+      "hrkt": "<b>びょういん</b> は どこ です か。",
+      "latn": "<b>byouin</b> ha doko desu ka.",
+      "en": "Where is the hospital?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4642134.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07847A.mp3"
+    },
+    {
+      "ja": "あの<b>病院</b>はお医者さんの数が少ないです。",
+      "hrkt": "あの <b>びょういん</b> は おいしゃさん の かず が すくない です。",
+      "latn": "ano <b>byouin</b> ha oishasan no kazu ga sukunai desu.",
+      "en": "That hospital has only a few doctors.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/86e98p1ln4.mp3"
+    }
+  ]
+}

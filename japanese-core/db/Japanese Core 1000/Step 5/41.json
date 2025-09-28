@@ -1,0 +1,26 @@
+{
+  "ja": "比べる",
+  "hrkt": "くらべる",
+  "latn": "kuraberu",
+  "en": "compare, contrast",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02532A.mp3",
+  "sentences": [
+    {
+      "ja": "今月と先月の売上を<b>比べた</b>。",
+      "hrkt": "こんげつ と せんげつ の うりあげ を <b>くらべた</b>。",
+      "latn": "kongetsu to sengetsu no uriage wo <b>kurabeta</b>.",
+      "en": "I compared this month's sales with last month's.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/813455.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02532A.mp3"
+    },
+    {
+      "ja": "ニューヨークと<b>比べて</b>東京はどうですか。",
+      "hrkt": "ニューヨーク と <b>くらべて</b> とうきょう は どう です か。",
+      "latn": "nyu-yo-ku to <b>kurabete</b> toukyou ha dou desu ka.",
+      "en": "How is Tokyo compared to New York?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/059s3h8t34.mp3"
+    }
+  ]
+}

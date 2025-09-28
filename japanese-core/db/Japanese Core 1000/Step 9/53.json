@@ -1,0 +1,26 @@
+{
+  "ja": "食事",
+  "hrkt": "しょくじ",
+  "latn": "shokuji",
+  "en": "meal, food",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04271A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は上司と<b>食事</b>をする。",
+      "hrkt": "きょう は じょうし と <b>しょくじ</b> を する。",
+      "latn": "kyou ha joushi to <b>shokuji</b> wo suru.",
+      "en": "I'm eating with my boss today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2496554.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04271A.mp3"
+    },
+    {
+      "ja": "一緒に<b>食事</b>しようか。",
+      "hrkt": "いっしょ に <b>しょくじ</b> しよう か。",
+      "latn": "issho ni <b>shokuji</b> shiyou ka.",
+      "en": "Do you want to eat together?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1261023.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01095A.mp3"
+    }
+  ]
+}

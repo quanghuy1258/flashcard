@@ -1,0 +1,26 @@
+{
+  "ja": "配る",
+  "hrkt": "くばる",
+  "latn": "kubaru",
+  "en": "hand out, distribute",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02495A.mp3",
+  "sentences": [
+    {
+      "ja": "会議で書類を<b>配った</b>。",
+      "hrkt": "かいぎ で しょるい を <b>くばった</b>。",
+      "latn": "kaigi de shorui wo <b>kubatta</b>.",
+      "en": "I handed out the document at the meeting.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/328476.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02495A.mp3"
+    },
+    {
+      "ja": "道でよくティッシュを<b>配って</b>います。",
+      "hrkt": "みち で よく ティッシュ を <b>くばって</b> います。",
+      "latn": "michi de yoku tisshu wo <b>kubatte</b> imasu.",
+      "en": "Tissue packs are often handed out on the street.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/652de588rg.mp3"
+    }
+  ]
+}

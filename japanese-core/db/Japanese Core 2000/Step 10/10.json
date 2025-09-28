@@ -1,0 +1,26 @@
+{
+  "ja": "もったいない",
+  "hrkt": "もったいない",
+  "latn": "mottainai",
+  "en": "wasteful, a shame",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03000A.mp3",
+  "sentences": [
+    {
+      "ja": "食べ物を残しては<b>もったいない</b>わよ。",
+      "hrkt": "たべもの を のこして は <b>もったいない</b> わ よ。",
+      "latn": "tabemono wo nokoshite ha <b>mottainai</b> wa yo.",
+      "en": "It's wasteful to leave food.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3800820.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03000A.mp3"
+    },
+    {
+      "ja": "その服、捨てるなんて<b>もったいない</b>。",
+      "hrkt": "その ふく、すてる なんて <b>もったいない</b>。",
+      "latn": "sono fuku,suteru nante <b>mottainai</b>.",
+      "en": "It's a waste to throw away that piece of clothing.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/63asbkae8o.mp3"
+    }
+  ]
+}

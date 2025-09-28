@@ -1,0 +1,18 @@
+{
+  "ja": "国外",
+  "hrkt": "こくがい",
+  "latn": "kokugai",
+  "en": "outside the country, abroad",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01176A.mp3",
+  "sentences": [
+    {
+      "ja": "犯人は<b>国外</b>に逃げたようです。",
+      "hrkt": "はんにん は <b>こくがい</b> に にげた ようです。",
+      "latn": "hannin ha <b>kokugai</b> ni nigeta youdesu.",
+      "en": "The criminal seems to have escaped abroad.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01176A.mp3"
+    }
+  ]
+}

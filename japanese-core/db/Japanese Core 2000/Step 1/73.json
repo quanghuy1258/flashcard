@@ -1,0 +1,26 @@
+{
+  "ja": "ひととき",
+  "hrkt": "ひととき",
+  "latn": "hitotoki",
+  "en": "some moments, a while",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/alcl9ndjjurc0.mp3",
+  "sentences": [
+    {
+      "ja": "楽しい<b>ひととき</b>をお過ごしください。",
+      "hrkt": "たのしい <b>ひととき</b> を おすごし ください 。",
+      "latn": "tanoshii <b>hitotoki</b> wo osugoshi kudasai .",
+      "en": "Please have a good time.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/bl3lbnck7eka0.jpg",
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/4laldn6jnml90.mp3"
+    },
+    {
+      "ja": "私は、ディズニーランドで夢のような<b>ひととき</b>を過ごしました。",
+      "hrkt": "わたし は、ディズニーランド で ゆめ の ような <b>ひととき</b> を すごしました。",
+      "latn": "watashi ha,dizuni-rando de yume no youna <b>hitotoki</b> wo sugoshimashita.",
+      "en": "I spent dream-like moments in Disney Land.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/26e3cael6o.mp3"
+    }
+  ]
+}

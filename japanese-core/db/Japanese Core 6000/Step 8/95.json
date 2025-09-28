@@ -1,0 +1,18 @@
+{
+  "ja": "荒らす",
+  "hrkt": "あらす",
+  "latn": "arasu",
+  "en": "damage, ransack",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03518A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は強盗に家の中を<b>荒らされた</b>の。",
+      "hrkt": "かれ は ごうとう に いえ の なか を <b>あらされた</b> の。",
+      "latn": "kare ha goutou ni ie no naka wo <b>arasareta</b> no.",
+      "en": "His house was ransacked by a burglar.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03518A.mp3"
+    }
+  ]
+}

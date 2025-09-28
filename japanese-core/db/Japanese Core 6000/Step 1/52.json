@@ -1,0 +1,18 @@
+{
+  "ja": "罰",
+  "hrkt": "ばつ",
+  "latn": "batsu",
+  "en": "punishment, penalty",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03473A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は悪いことをしたので<b>罰</b>を受けたんだ。",
+      "hrkt": "かれ は わるい こと を した ので <b>ばつ</b> を うけた ん だ。",
+      "latn": "kare ha warui koto wo shita node <b>batsu</b> wo uketa n da.",
+      "en": "He was punished for doing something bad.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03473A.mp3"
+    }
+  ]
+}

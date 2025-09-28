@@ -1,0 +1,26 @@
+{
+  "ja": "歯磨き",
+  "hrkt": "はみがき",
+  "latn": "hamigaki",
+  "en": "brushing one's teeth",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07457A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>歯磨き</b>はしましたか。",
+      "hrkt": "<b>はみがき</b> は しました か。",
+      "latn": "<b>hamigaki</b> ha shimashita ka.",
+      "en": "Did you brush your teeth?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5113129.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07457A.mp3"
+    },
+    {
+      "ja": "朝晩、<b>歯磨き</b>を忘れないで。",
+      "hrkt": "あさ ばん、<b>はみがき</b> を わすれないで。",
+      "latn": "asa ban,<b>hamigaki</b> wo wasurenaide.",
+      "en": "Don't forget to brush your teeth in the morning and evening.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/731c57dgjo.mp3"
+    }
+  ]
+}

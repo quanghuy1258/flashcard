@@ -1,0 +1,18 @@
+{
+  "ja": "低気圧",
+  "hrkt": "ていきあつ",
+  "latn": "teikiatsu",
+  "en": "low pressure, atmospheric depression",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02304A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>低気圧</b>が近づいています。",
+      "hrkt": "<b>ていきあつ</b> が ちかづいて います。",
+      "latn": "<b>teikiatsu</b> ga chikazuite imasu.",
+      "en": "A low pressure is approaching.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02304A.mp3"
+    }
+  ]
+}

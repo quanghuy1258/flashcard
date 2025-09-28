@@ -1,0 +1,18 @@
+{
+  "ja": "へそ",
+  "hrkt": "へそ",
+  "latn": "heso",
+  "en": "belly button",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03866A.mp3",
+  "sentences": [
+    {
+      "ja": "カエルには<b>へそ</b>がないんだ。",
+      "hrkt": "カエル に は <b>へそ</b> が ない ん だ。",
+      "latn": "kaeru ni ha <b>heso</b> ga nai n da.",
+      "en": "Frogs don't have belly buttons.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03866A.mp3"
+    }
+  ]
+}

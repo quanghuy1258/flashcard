@@ -1,0 +1,18 @@
+{
+  "ja": "点",
+  "hrkt": "てん",
+  "latn": "ten",
+  "en": "point (of concern), dot",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03768A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>点</b>は心配ありません。",
+      "hrkt": "その <b>てん</b> は しんぱい ありません。",
+      "latn": "sono <b>ten</b> ha shinpai arimasen.",
+      "en": "You don't need to worry about that.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/a55a2l2c6c.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03768A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "意欲",
+  "hrkt": "いよく",
+  "latn": "iyoku",
+  "en": "morale, motivation",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00616A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は仕事に<b>意欲</b>を燃やしています。",
+      "hrkt": "かれ は しごと に <b>いよく</b> を もやして います。",
+      "latn": "kare ha shigoto ni <b>iyoku</b> wo moyashite imasu.",
+      "en": "He is motivated to work.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00616A.mp3"
+    }
+  ]
+}

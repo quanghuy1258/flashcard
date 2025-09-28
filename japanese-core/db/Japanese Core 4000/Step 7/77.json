@@ -1,0 +1,18 @@
+{
+  "ja": "問い",
+  "hrkt": "とい",
+  "latn": "toi",
+  "en": "question, inquiry",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02279A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>問い</b>に答えられますか。",
+      "hrkt": "この <b>とい</b> に こたえられます か。",
+      "latn": "kono <b>toi</b> ni kotaeraremasu ka.",
+      "en": "Can you answer this question?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02279A.mp3"
+    }
+  ]
+}

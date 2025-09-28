@@ -1,0 +1,26 @@
+{
+  "ja": "ぺこぺこ",
+  "hrkt": "ぺこぺこ",
+  "latn": "pekopeko",
+  "en": "hungry, starving",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08310A.mp3",
+  "sentences": [
+    {
+      "ja": "私はおなかが<b>ぺこぺこ</b>です。",
+      "hrkt": "わたし は おなか が <b>ぺこぺこ</b> です。",
+      "latn": "watashi ha onaka ga <b>pekopeko</b> desu.",
+      "en": "I'm very hungry.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4759137.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08310A.mp3"
+    },
+    {
+      "ja": "おなかが<b>ぺこぺこ</b>で動けません。",
+      "hrkt": "おなか が <b>ぺこぺこ</b> で うごけません。",
+      "latn": "onaka ga <b>pekopeko</b> de ugokemasen.",
+      "en": "I'm too hungry to move.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/654l2ecmis.mp3"
+    }
+  ]
+}

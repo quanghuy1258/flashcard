@@ -1,0 +1,18 @@
+{
+  "ja": "始発",
+  "hrkt": "しはつ",
+  "latn": "shihatsu",
+  "en": "first departure",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02976A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>始発</b>の電車に乗りました。",
+      "hrkt": "<b>しはつ</b> の でんしゃ に のりました。",
+      "latn": "<b>shihatsu</b> no densha ni norimashita.",
+      "en": "I took the first train.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02976A.mp3"
+    }
+  ]
+}

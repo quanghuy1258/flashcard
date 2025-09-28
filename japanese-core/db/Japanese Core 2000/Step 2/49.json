@@ -1,0 +1,26 @@
+{
+  "ja": "左手",
+  "hrkt": "ひだりて",
+  "latn": "hidarite",
+  "en": "left hand",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07716A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>左手</b>で字を書く。",
+      "hrkt": "かのじょ は <b>ひだりて</b> で じ を かく。",
+      "latn": "kanojo ha <b>hidarite</b> de ji wo kaku.",
+      "en": "She writes left-handed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4909376.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07716A.mp3"
+    },
+    {
+      "ja": "私はいつも<b>左手</b>に時計をします。",
+      "hrkt": "わたし は いつも <b>ひだりて</b> に とけい を します。",
+      "latn": "watashi ha itsumo <b>hidarite</b> ni tokei wo shimasu.",
+      "en": "I always wear a watch on my left hand.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/c3fg325t80.mp3"
+    }
+  ]
+}

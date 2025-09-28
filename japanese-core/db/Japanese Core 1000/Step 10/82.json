@@ -1,0 +1,26 @@
+{
+  "ja": "エレベーター",
+  "hrkt": "エレベーター",
+  "latn": "erebe-ta-",
+  "en": "elevator",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00882A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>エレベーター</b>で下に降りましょう。",
+      "hrkt": "<b>エレベーター</b> で した に おりましょう。",
+      "latn": "<b>erebe-ta-</b> de shita ni orimashou.",
+      "en": "Let's take the elevator down.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5916169.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00882A.mp3"
+    },
+    {
+      "ja": "その<b>エレベーター</b>は故障していて使えません。",
+      "hrkt": "その <b>エレベーター</b> は こしょう して いて つかえません。",
+      "latn": "sono <b>erebe-ta-</b> ha koshou shite ite tsukaemasen.",
+      "en": "We can't use the elevator because it's out of order.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/150he9armo.mp3"
+    }
+  ]
+}

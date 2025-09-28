@@ -1,0 +1,26 @@
+{
+  "ja": "お巡りさん",
+  "hrkt": "おまわりさん",
+  "latn": "omawarisan",
+  "en": "police officer (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01189A.mp3",
+  "sentences": [
+    {
+      "ja": "あの<b>お巡りさん</b>に道を聞きましょう。",
+      "hrkt": "あの <b>おまわりさん</b> に みち を ききましょう。",
+      "latn": "ano <b>omawarisan</b> ni michi wo kikimashou.",
+      "en": "Let's ask that police officer for directions.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1035719.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01189A.mp3"
+    },
+    {
+      "ja": "私は<b>お巡りさん</b>になりたかった。",
+      "hrkt": "わたし は <b>おまわりさん</b> に なりたかった。",
+      "latn": "watashi ha <b>omawarisan</b> ni naritakatta.",
+      "en": "I wanted to be a police officer.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/36b89q3hds.mp3"
+    }
+  ]
+}

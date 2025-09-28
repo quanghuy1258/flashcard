@@ -1,0 +1,18 @@
+{
+  "ja": "がくんと",
+  "hrkt": "がくんと",
+  "latn": "gakunto",
+  "en": "sharply, significantly",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03983A.mp3",
+  "sentences": [
+    {
+      "ja": "今学期は成績が<b>がくんと</b>落ちてしまった。",
+      "hrkt": "こん がっき は せいせき が <b>がくん と</b> おちて しまった。",
+      "latn": "kon gakki ha seiseki ga <b>gakun to</b> ochite shimatta.",
+      "en": "My grades fell sharply this semester.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/557nfufstc.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03983A.mp3"
+    }
+  ]
+}

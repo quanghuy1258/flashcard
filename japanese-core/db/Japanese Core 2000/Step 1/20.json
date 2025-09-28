@@ -1,0 +1,26 @@
+{
+  "ja": "育つ",
+  "hrkt": "そだつ",
+  "latn": "sodatsu",
+  "en": "be brought up, grow",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05061A.mp3",
+  "sentences": [
+    {
+      "ja": "野菜がよく<b>育って</b>いる。",
+      "hrkt": "やさい が よく <b>そだって</b> いる。",
+      "latn": "yasai ga yoku <b>sodatte</b> iru.",
+      "en": "The vegetables are growing well.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5763965.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05061A.mp3"
+    },
+    {
+      "ja": "寝る子は<b>育つ</b>。",
+      "hrkt": "ねる こ は <b>そだつ</b>。",
+      "latn": "neru ko ha <b>sodatsu</b>.",
+      "en": "A child who sleeps well grows well.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/954n4b8v50.mp3"
+    }
+  ]
+}

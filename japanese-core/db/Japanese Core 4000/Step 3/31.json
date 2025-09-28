@@ -1,0 +1,18 @@
+{
+  "ja": "滞在",
+  "hrkt": "たいざい",
+  "latn": "taizai",
+  "en": "stay",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00667A.mp3",
+  "sentences": [
+    {
+      "ja": "日本では北海道に<b>滞在</b>しました。",
+      "hrkt": "にっぽん で は ほっかいどう に <b>たいざい</b> しました。",
+      "latn": "nippon de ha hokkaidou ni <b>taizai</b> shimashita.",
+      "en": "I stayed in Hokkaido when I went to Japan.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00667A.mp3?1220196799"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "挨拶",
+  "hrkt": "あいさつ",
+  "latn": "aisatsu",
+  "en": "greet, greeting",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00005A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は笑顔で<b>挨拶</b>した。",
+      "hrkt": "かのじょ は えがお で <b>あいさつ</b> した。",
+      "latn": "kanojo ha egao de <b>aisatsu</b> shita.",
+      "en": "She greeted me with a smile.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5395435.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00005A.mp3"
+    },
+    {
+      "ja": "始めに会長が<b>挨拶</b>した。",
+      "hrkt": "はじめ に かいちょう が <b>あいさつ</b> した。",
+      "latn": "hajime ni kaichou ga <b>aisatsu</b> shita.",
+      "en": "First was the chairman's greetings.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/368898.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01395A.mp3"
+    }
+  ]
+}

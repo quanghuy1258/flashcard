@@ -1,0 +1,18 @@
+{
+  "ja": "胃腸",
+  "hrkt": "いちょう",
+  "latn": "ichou",
+  "en": "stomach and intestines",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03066A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>胃腸</b>が強くありません。",
+      "hrkt": "かれ は <b>いちょう</b> が つよく ありません。",
+      "latn": "kare ha <b>ichou</b> ga tsuyoku arimasen.",
+      "en": "He has a weak stomach.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03066A.mp3"
+    }
+  ]
+}

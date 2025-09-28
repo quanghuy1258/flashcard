@@ -1,0 +1,26 @@
+{
+  "ja": "捕まえる",
+  "hrkt": "つかまえる",
+  "latn": "tsukamaeru",
+  "en": "catch, arrest",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02357A.mp3",
+  "sentences": [
+    {
+      "ja": "蝶蝶を<b>捕まえた</b>よ。",
+      "hrkt": "ちょうちょう を <b>つかまえた</b> よ。",
+      "latn": "chouchou wo <b>tsukamaeta</b> yo.",
+      "en": "I caught a butterfly.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/65fo76bam4.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02357A.mp3"
+    },
+    {
+      "ja": "蛇がカエルを<b>捕まえた</b>の。",
+      "hrkt": "へび が カエル を <b>つかまえた</b> の。",
+      "latn": "hebi ga kaeru wo <b>tsukamaeta</b> no.",
+      "en": "The snake captured the frog.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b41sdgfd8s.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03868A.mp3"
+    }
+  ]
+}

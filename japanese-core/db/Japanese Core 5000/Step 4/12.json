@@ -1,0 +1,18 @@
+{
+  "ja": "和服",
+  "hrkt": "わふく",
+  "latn": "wafuku",
+  "en": "Japanese clothes",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02293A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>和服</b>がよく似合う。",
+      "hrkt": "かのじょ は <b>わふく</b> が よく にあう。",
+      "latn": "kanojo ha <b>wafuku</b> ga yoku niau.",
+      "en": "Japanese clothes suit her very well.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02293A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "上流",
+  "hrkt": "じょうりゅう",
+  "latn": "jouryuu",
+  "en": "upstream",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01593A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>上流</b>には滝があります。",
+      "hrkt": "<b>じょうりゅう</b> に は たき が あります。",
+      "latn": "<b>jouryuu</b> ni ha taki ga arimasu.",
+      "en": "There is a waterfall upstream.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01593A.mp3"
+    }
+  ]
+}

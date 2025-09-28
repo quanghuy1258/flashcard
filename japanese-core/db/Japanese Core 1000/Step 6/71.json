@@ -1,0 +1,26 @@
+{
+  "ja": "動かす",
+  "hrkt": "うごかす",
+  "latn": "ugokasu",
+  "en": "move (something)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00681A.mp3",
+  "sentences": [
+    {
+      "ja": "部屋の家具を<b>動かしました</b>。",
+      "hrkt": "へや の かぐ を <b>うごかしました</b>。",
+      "latn": "heya no kagu wo <b>ugokashimashita</b>.",
+      "en": "I moved the furniture in the room.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3282004.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00681A.mp3"
+    },
+    {
+      "ja": "少し体を<b>動かしたい</b>。",
+      "hrkt": "すこし からだ を <b>うごかしたい</b>。",
+      "latn": "sukoshi karada wo <b>ugokashitai</b>.",
+      "en": "I want to move my body a little.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/98c53l61h8.mp3"
+    }
+  ]
+}

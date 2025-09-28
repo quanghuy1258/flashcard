@@ -1,0 +1,26 @@
+{
+  "ja": "中心",
+  "hrkt": "ちゅうしん",
+  "latn": "chuushin",
+  "en": "center (of a circle, etc.), core",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05669A.mp3",
+  "sentences": [
+    {
+      "ja": "ここが建物の<b>中心</b>です。",
+      "hrkt": "ここ が たてもの の <b>ちゅうしん</b> です。",
+      "latn": "koko ga tatemono no <b>chuushin</b> desu.",
+      "en": "This is the center of the building.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4848968.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05669A.mp3"
+    },
+    {
+      "ja": "ホテルは町の<b>中心</b>にあります。",
+      "hrkt": "ホテル は まち の <b>ちゅうしん</b> に あります。",
+      "latn": "hoteru ha machi no <b>chuushin</b> ni arimasu.",
+      "en": "The hotel is located in the center of town.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d31td47gns.mp3"
+    }
+  ]
+}

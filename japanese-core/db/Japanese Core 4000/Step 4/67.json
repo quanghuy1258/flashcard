@@ -1,0 +1,18 @@
+{
+  "ja": "増す",
+  "hrkt": "ます",
+  "latn": "masu",
+  "en": "increase",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00047A.mp3",
+  "sentences": [
+    {
+      "ja": "大雨で川の水かさが<b>増して</b>いるな。",
+      "hrkt": "おおあめ で かわ の みずかさ が <b>まして</b> いる な。",
+      "latn": "ooame de kawa no mizukasa ga <b>mashite</b> iru na.",
+      "en": "The downpour has caused the water level of the river to increase.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00047A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "区",
+  "hrkt": "く",
+  "latn": "ku",
+  "en": "ward, district",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00910A.mp3",
+  "sentences": [
+    {
+      "ja": "東京には23の<b>区</b>がある。",
+      "hrkt": "とうきょう に は 23 の <b>く</b> が ある。",
+      "latn": "toukyou ni ha 23 no <b>ku</b> ga aru.",
+      "en": "There are 23 wards in Tokyo.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00910A.mp3"
+    }
+  ]
+}

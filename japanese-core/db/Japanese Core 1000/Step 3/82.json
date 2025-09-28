@@ -1,0 +1,26 @@
+{
+  "ja": "二つ",
+  "hrkt": "ふたつ",
+  "latn": "futatsu",
+  "en": "two (things)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08088A.mp3",
+  "sentences": [
+    {
+      "ja": "ソフトクリームを<b>二つ</b>ください。",
+      "hrkt": "ソフトクリーム を <b>ふたつ</b> ください。",
+      "latn": "sofutokuri-mu wo <b>futatsu</b> kudasai.",
+      "en": "Can I get two ice cream cones?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6567096.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08088A.mp3"
+    },
+    {
+      "ja": "テーブルの上にケーキが<b>二つ</b>あります。",
+      "hrkt": "テーブル の うえ に ケーキ が <b>ふたつ</b> あります。",
+      "latn": "te-buru no ue ni ke-ki ga <b>futatsu</b> arimasu.",
+      "en": "There are two pieces of cake on the table.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/c39e6d14ak.mp3"
+    }
+  ]
+}

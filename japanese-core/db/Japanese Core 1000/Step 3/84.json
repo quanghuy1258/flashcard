@@ -1,0 +1,26 @@
+{
+  "ja": "千",
+  "hrkt": "せん",
+  "latn": "sen",
+  "en": "thousand",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04849A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>千</b>円貸してください。",
+      "hrkt": "<b>せん</b> えん かして ください。",
+      "latn": "<b>sen</b> en kashite kudasai.",
+      "en": "Please lend me 1000 yen.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3186998.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04849A.mp3"
+    },
+    {
+      "ja": "その学校には生徒が<b>千</b>人以上いる。",
+      "hrkt": "その がっこう に は せいと が <b>せん</b> にん いじょう いる。",
+      "latn": "sono gakkou ni ha seito ga <b>sen</b> nin ijou iru.",
+      "en": "There are more than a thousand students in the school.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/06aa9j2a80.mp3"
+    }
+  ]
+}

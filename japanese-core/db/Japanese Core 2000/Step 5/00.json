@@ -1,0 +1,26 @@
+{
+  "ja": "出口",
+  "hrkt": "でぐち",
+  "latn": "deguchi",
+  "en": "exit",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06066A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>出口</b>はあそこです。",
+      "hrkt": "<b>でぐち</b> は あそこ です。",
+      "latn": "<b>deguchi</b> ha asoko desu.",
+      "en": "The exit's over there.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5626791.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06066A.mp3"
+    },
+    {
+      "ja": "<b>出口</b>はどこですか。",
+      "hrkt": "<b>でぐち</b> は どこ です か。",
+      "latn": "<b>deguchi</b> ha doko desu ka.",
+      "en": "Where is the exit?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/9466d01pag.mp3"
+    }
+  ]
+}

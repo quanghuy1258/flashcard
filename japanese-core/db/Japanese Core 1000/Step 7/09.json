@@ -1,0 +1,26 @@
+{
+  "ja": "喧嘩",
+  "hrkt": "けんか",
+  "latn": "kenka",
+  "en": "fight, argument",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02743A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>喧嘩</b>はやめて。",
+      "hrkt": "<b>けんか</b> は やめて。",
+      "latn": "<b>kenka</b> ha yamete.",
+      "en": "Stop fighting.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5140795.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02743A.mp3"
+    },
+    {
+      "ja": "妹とひどい<b>喧嘩</b>をした。",
+      "hrkt": "いもうと と ひどい <b>けんか</b> を した。",
+      "latn": "imouto to hidoi <b>kenka</b> wo shita.",
+      "en": "I had an awful fight with my little sister.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1636126.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07757A.mp3"
+    }
+  ]
+}

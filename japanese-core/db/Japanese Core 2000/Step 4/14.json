@@ -1,0 +1,26 @@
+{
+  "ja": "ビニール",
+  "hrkt": "ビニール",
+  "latn": "bini-ru",
+  "en": "plastic, vinyl",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07800A.mp3",
+  "sentences": [
+    {
+      "ja": "ゴミはその<b>ビニール</b>袋に入れてください。",
+      "hrkt": "ゴミ は その <b>ビニール</b> ぶくろ に いれて ください。",
+      "latn": "gomi ha sono <b>bini-ru</b> bukuro ni irete kudasai.",
+      "en": "Please put trash in that plastic bag.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5663718.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07800A.mp3"
+    },
+    {
+      "ja": "青い<b>ビニール</b>の傘は私のです。",
+      "hrkt": "あおい <b>ビニール</b> の かさ は わたし の です。",
+      "latn": "aoi <b>bini-ru</b> no kasa ha watashi no desu.",
+      "en": "The blue plastic umbrella is mine.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/527gdk93ps.mp3"
+    }
+  ]
+}

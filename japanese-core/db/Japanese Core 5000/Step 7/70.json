@@ -1,0 +1,18 @@
+{
+  "ja": "裏返し",
+  "hrkt": "うらがえし",
+  "latn": "uragaeshi",
+  "en": "inside out",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02856A.mp3",
+  "sentences": [
+    {
+      "ja": "シャツを<b>裏返し</b>に着ているよ。",
+      "hrkt": "シャツ を <b>うらがえし</b> に きて いる よ。",
+      "latn": "shatsu wo <b>uragaeshi</b> ni kite iru yo.",
+      "en": "Your shirt is inside out.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02856A.mp3"
+    }
+  ]
+}

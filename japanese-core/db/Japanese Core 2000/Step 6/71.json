@@ -1,0 +1,26 @@
+{
+  "ja": "他",
+  "hrkt": "た",
+  "latn": "ta",
+  "en": "other (Chinese origin)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05138A.mp3",
+  "sentences": [
+    {
+      "ja": "留学生はアジア人が多く、その<b>他</b>は3割です。",
+      "hrkt": "りゅうがくせい は アジア じん が おおく、その<b>た</b> は 3 わり です。",
+      "latn": "ryuugakusei ha ajia jin ga ooku,sono<b>ta</b> ha 3 wari desu.",
+      "en": "The majority of foreign students are Asian, with 30 percent from other regions.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5142404.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05138A.mp3"
+    },
+    {
+      "ja": "今日は<b>他</b>チームの選手と練習しました。",
+      "hrkt": "きょう は <b>た</b> チーム の せんしゅ と れんしゅう しました。",
+      "latn": "kyou ha <b>ta</b> chi-mu no senshu to renshuu shimashita.",
+      "en": "Today we practiced with players from the other team.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/6615dh7qfs.mp3"
+    }
+  ]
+}

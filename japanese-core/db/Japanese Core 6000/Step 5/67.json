@@ -1,0 +1,18 @@
+{
+  "ja": "奇跡",
+  "hrkt": "きせき",
+  "latn": "kiseki",
+  "en": "miracle",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02914A.mp3",
+  "sentences": [
+    {
+      "ja": "彼のマジックはまるで<b>奇跡</b>です。",
+      "hrkt": "かれ の マジック は まるで <b>きせき</b> です。",
+      "latn": "kare no majikku ha marude <b>kiseki</b> desu.",
+      "en": "His magic is like a miracle.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02914A.mp3"
+    }
+  ]
+}

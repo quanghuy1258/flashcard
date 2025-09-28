@@ -1,0 +1,26 @@
+{
+  "ja": "停留所",
+  "hrkt": "ていりゅうじょ",
+  "latn": "teiryuujo",
+  "en": "(bus) stop",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06022A.mp3",
+  "sentences": [
+    {
+      "ja": "バスの<b>停留所</b>で10分待ちました。",
+      "hrkt": "バス の <b>ていりゅうじょ</b> で 10 ぷん まちました。",
+      "latn": "basu no <b>teiryuujo</b> de 10 pun machimashita.",
+      "en": "I waited for ten minutes at the bus stop.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1611963.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06022A.mp3"
+    },
+    {
+      "ja": "次の<b>停留所</b>まで5分かかります。",
+      "hrkt": "つぎ の <b>ていりゅうじょ</b> まで 5 ふん かかります。",
+      "latn": "tsugi no <b>teiryuujo</b> made 5 fun kakarimasu.",
+      "en": "It's five minutes to the next bus stop.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/3690fo2ov8.mp3"
+    }
+  ]
+}

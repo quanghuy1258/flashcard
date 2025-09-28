@@ -1,0 +1,26 @@
+{
+  "ja": "凍る",
+  "hrkt": "こおる",
+  "latn": "kooru",
+  "en": "freeze",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03032A.mp3",
+  "sentences": [
+    {
+      "ja": "寒い朝は道路が<b>凍ります</b>。",
+      "hrkt": "さむい あさ は どうろ が <b>こおります</b>。",
+      "latn": "samui asa ha douro ga <b>koorimasu</b>.",
+      "en": "The roads freeze on cold mornings.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5481906.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03032A.mp3"
+    },
+    {
+      "ja": "寒くてまつげまで<b>凍ります</b>。",
+      "hrkt": "さむくて まつげ まで <b>こおります</b> 。",
+      "latn": "samukute matsuge made <b>koorimasu</b> .",
+      "en": "It's so cold that even eyelashes freeze.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/9427c06pn4.mp3"
+    }
+  ]
+}

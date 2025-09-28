@@ -1,0 +1,26 @@
+{
+  "ja": "鳴る",
+  "hrkt": "なる",
+  "latn": "naru",
+  "en": "sound, ring",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06751A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝、5時に電話が<b>鳴った</b>。",
+      "hrkt": "けさ、5 じ に でんわ が <b>なった</b>。",
+      "latn": "kesa,5 ji ni denwa ga <b>natta</b>.",
+      "en": "The phone rang at five o'clock this morning.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3758296.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06751A.mp3"
+    },
+    {
+      "ja": "玄関のベルが<b>鳴った</b>。",
+      "hrkt": "げんかん の ベル が <b>なった</b>。",
+      "latn": "genkan no beru ga <b>natta</b>.",
+      "en": "The door bell rang.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4045336.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08339A.mp3"
+    }
+  ]
+}

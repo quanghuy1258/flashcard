@@ -1,0 +1,18 @@
+{
+  "ja": "国民",
+  "hrkt": "こくみん",
+  "latn": "kokumin",
+  "en": "citizen",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03617A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>国民</b>の安全が最も大切です。",
+      "hrkt": "<b>こくみん</b> の あんぜん が もっとも たいせつ です。",
+      "latn": "<b>kokumin</b> no anzen ga mottomo taisetsu desu.",
+      "en": "Citizen safety is most important.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/46d0eubld8.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03617A.mp3"
+    }
+  ]
+}

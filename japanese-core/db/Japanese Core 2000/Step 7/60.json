@@ -1,0 +1,26 @@
+{
+  "ja": "カップ",
+  "hrkt": "カップ",
+  "latn": "kappu",
+  "en": "cup",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01700A.mp3",
+  "sentences": [
+    {
+      "ja": "水を1<b>カップ</b>入れてください。",
+      "hrkt": "みず を 1 <b>カップ</b> いれて ください。",
+      "latn": "mizu wo 1 <b>kappu</b> irete kudasai.",
+      "en": "Please put in one cup of water.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5258918.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01700A.mp3"
+    },
+    {
+      "ja": "この<b>カップ</b>はプラスチックです。",
+      "hrkt": "この <b>カップ</b> は プラスチック です。",
+      "latn": "kono <b>kappu</b> ha purasuchikku desu.",
+      "en": "This cup is plastic.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5341724.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08179A.mp3"
+    }
+  ]
+}

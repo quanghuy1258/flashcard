@@ -1,0 +1,26 @@
+{
+  "ja": "木曜日",
+  "hrkt": "もくようび",
+  "latn": "mokuyoubi",
+  "en": "Thursday",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09267A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>木曜日</b>は仕事が休みです。",
+      "hrkt": "<b>もくようび</b> は しごと が やすみ です。",
+      "latn": "<b>mokuyoubi</b> ha shigoto ga yasumi desu.",
+      "en": "I don't have work on Thursday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6109378.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09267A.mp3"
+    },
+    {
+      "ja": "<b>木曜日</b>の３時から会社でミーティングがあります。",
+      "hrkt": "<b>もくようび</b> の ３ じ から かいしゃ で ミーティング が あります。",
+      "latn": "<b>mokuyoubi</b> no 3 ji kara kaisha de mi-tingu ga arimasu.",
+      "en": "We have a meeting at 3 o'clock in the office on Thursday.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/459od00cvg.mp3"
+    }
+  ]
+}

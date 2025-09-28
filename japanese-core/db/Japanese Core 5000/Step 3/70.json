@@ -1,0 +1,18 @@
+{
+  "ja": "溺れる",
+  "hrkt": "おぼれる",
+  "latn": "oboreru",
+  "en": "drown",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03561A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>溺れて</b>いる子を助けたんだ。",
+      "hrkt": "かれ は <b>おぼれて</b> いる こ を たすけた ん だ。",
+      "latn": "kare ha <b>oborete</b> iru ko wo tasuketa n da.",
+      "en": "He saved a drowning child.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03561A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "たんす",
+  "hrkt": "たんす",
+  "latn": "tansu",
+  "en": "chest of drawers, wardrobe",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03717A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、<b>たんす</b>を買いました。",
+      "hrkt": "きのう、 <b>たんす</b> を かいました。",
+      "latn": "kinou, <b>tansu</b> wo kaimashita.",
+      "en": "I bought a chest of drawers yesterday.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03717A.mp3"
+    }
+  ]
+}

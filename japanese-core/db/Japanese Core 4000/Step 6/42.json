@@ -1,0 +1,18 @@
+{
+  "ja": "窓口",
+  "hrkt": "まどぐち",
+  "latn": "madoguchi",
+  "en": "window, contact",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00819A.mp3",
+  "sentences": [
+    {
+      "ja": "お振込みは3番の<b>窓口</b>です。",
+      "hrkt": "おふりこみ は 3 ばん の <b>まどぐち</b> です。",
+      "latn": "ofurikomi ha 3 ban no <b>madoguchi</b> desu.",
+      "en": "Bank transfers can be made at window number 3.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00819A.mp3"
+    }
+  ]
+}

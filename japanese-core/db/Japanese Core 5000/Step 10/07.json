@@ -1,0 +1,18 @@
+{
+  "ja": "兵士",
+  "hrkt": "へいし",
+  "latn": "heishi",
+  "en": "soldier",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00405A.mp3",
+  "sentences": [
+    {
+      "ja": "その爆撃で<b>兵士</b>が3人負傷しました。",
+      "hrkt": "その ばくげき で <b>へいし</b> が 3 にん ふしょう しました。",
+      "latn": "sono bakugeki de <b>heishi</b> ga 3 nin fushou shimashita.",
+      "en": "Three soldiers were injured in the bombing.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00405A.mp3"
+    }
+  ]
+}

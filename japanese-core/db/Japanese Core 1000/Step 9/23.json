@@ -1,0 +1,26 @@
+{
+  "ja": "給料",
+  "hrkt": "きゅうりょう",
+  "latn": "kyuuryou",
+  "en": "salary, pay",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02228A.mp3",
+  "sentences": [
+    {
+      "ja": "来年から<b>給料</b>が上がります。",
+      "hrkt": "らいねん から <b>きゅうりょう</b> が あがります。",
+      "latn": "rainen kara <b>kyuuryou</b> ga agarimasu.",
+      "en": "I'm getting a pay raise as of next year.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3354364.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02228A.mp3"
+    },
+    {
+      "ja": "この会社は<b>給料</b>があまりよくありません。",
+      "hrkt": "この かいしゃ は <b>きゅうりょう</b> が あまり よく ありません。",
+      "latn": "kono kaisha ha <b>kyuuryou</b> ga amari yoku arimasen.",
+      "en": "Salaries at this company aren't that good.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/03ct06cds4.mp3"
+    }
+  ]
+}

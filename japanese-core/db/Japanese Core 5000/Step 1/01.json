@@ -1,0 +1,18 @@
+{
+  "ja": "浮かべる",
+  "hrkt": "うかべる",
+  "latn": "ukaberu",
+  "en": "float (something), set (something) afloat",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01690A.mp3",
+  "sentences": [
+    {
+      "ja": "お風呂に花を<b>浮かべて</b>入ったの。",
+      "hrkt": "おふろ に はな を <b>うかべて</b> はいった の。",
+      "latn": "ofuro ni hana wo <b>ukabete</b> haitta no.",
+      "en": "I floated some flowers in the bath and then got in.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01690A.mp3"
+    }
+  ]
+}

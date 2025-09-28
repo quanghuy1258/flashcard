@@ -1,0 +1,18 @@
+{
+  "ja": "見上げる",
+  "hrkt": "みあげる",
+  "latn": "miageru",
+  "en": "look up",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01622A.mp3",
+  "sentences": [
+    {
+      "ja": "私は空を<b>見上げた</b>の。",
+      "hrkt": "わたし は そら を <b>みあげた</b> の。",
+      "latn": "watashi ha sora wo <b>miageta</b> no.",
+      "en": "I looked up at the sky.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01622A.mp3"
+    }
+  ]
+}

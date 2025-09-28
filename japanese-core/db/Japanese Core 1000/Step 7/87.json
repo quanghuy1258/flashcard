@@ -1,0 +1,26 @@
+{
+  "ja": "地震",
+  "hrkt": "じしん",
+  "latn": "jishin",
+  "en": "earthquake",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03694A.mp3",
+  "sentences": [
+    {
+      "ja": "日本は<b>地震</b>が多いです。",
+      "hrkt": "にほん は <b>じしん</b> が おおい です。",
+      "latn": "nihon ha <b>jishin</b> ga ooi desu.",
+      "en": "There are a lot of earthquakes in Japan.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/317892.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03694A.mp3"
+    },
+    {
+      "ja": "<b>地震</b>でガスが止まった。",
+      "hrkt": "<b>じしん</b> で ガス が とまった。",
+      "latn": "<b>jishin</b> de gasu ga tomatta.",
+      "en": "The gas line stopped due to the earthquake.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4692528.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01605A.mp3"
+    }
+  ]
+}

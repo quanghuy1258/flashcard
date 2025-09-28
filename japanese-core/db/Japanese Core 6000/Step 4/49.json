@@ -1,0 +1,18 @@
+{
+  "ja": "見晴らし",
+  "hrkt": "みはらし",
+  "latn": "miharashi",
+  "en": "view, outlook",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03173A.mp3",
+  "sentences": [
+    {
+      "ja": "このベランダは<b>見晴らし</b>がいい。",
+      "hrkt": "この ベランダ は <b>みはらし</b> が いい。",
+      "latn": "kono beranda ha <b>miharashi</b> ga ii.",
+      "en": "We have a good view from this veranda.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03173A.mp3"
+    }
+  ]
+}

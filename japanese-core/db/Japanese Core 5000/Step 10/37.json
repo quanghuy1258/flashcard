@@ -1,0 +1,18 @@
+{
+  "ja": "看護",
+  "hrkt": "かんご",
+  "latn": "kango",
+  "en": "nursing care",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01627A.mp3",
+  "sentences": [
+    {
+      "ja": "この病院は24時間<b>看護</b>です。",
+      "hrkt": "この びょういん は 24 じかん <b>かんご</b> です。",
+      "latn": "kono byouin ha 24 jikan <b>kango</b> desu.",
+      "en": "This hospital has 24-hour nursing care.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01627A.mp3"
+    }
+  ]
+}

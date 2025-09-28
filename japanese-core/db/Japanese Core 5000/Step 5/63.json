@@ -1,0 +1,18 @@
+{
+  "ja": "引き止める",
+  "hrkt": "ひきとめる",
+  "latn": "hikitomeru",
+  "en": "dissuade someone from leaving, hold back",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03839A.mp3",
+  "sentences": [
+    {
+      "ja": "帰ろうとする友達を<b>引き止めた</b>んだ。",
+      "hrkt": "かえろう と する ともだち を <b>ひきとめた</b> ん だ。",
+      "latn": "kaerou to suru tomodachi wo <b>hikitometa</b> n da.",
+      "en": "I dissuaded my friend from going home.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03839A.mp3"
+    }
+  ]
+}

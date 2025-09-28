@@ -1,0 +1,18 @@
+{
+  "ja": "寄りかかる",
+  "hrkt": "よりかかる",
+  "latn": "yorikakaru",
+  "en": "lean against something",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03954A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はフェンスに<b>寄りかかった</b>。",
+      "hrkt": "かれ は フェンス に <b>よりかかった</b>。",
+      "latn": "kare ha fensu ni <b>yorikakatta</b>.",
+      "en": "He leant against the fence.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/555qdd0dlg.mp3"
+    }
+  ]
+}

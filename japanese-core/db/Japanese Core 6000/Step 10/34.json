@@ -1,0 +1,18 @@
+{
+  "ja": "織物",
+  "hrkt": "おりもの",
+  "latn": "orimono",
+  "en": "textile, woven fabric",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01661A.mp3",
+  "sentences": [
+    {
+      "ja": "その町は<b>織物</b>業で有名です。",
+      "hrkt": "その まち は <b>おりもの</b> ぎょう で ゆうめい です。",
+      "latn": "sono machi ha <b>orimono</b> gyou de yuumei desu.",
+      "en": "The town is famous for its textile industry.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01661A.mp3"
+    }
+  ]
+}

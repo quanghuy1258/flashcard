@@ -1,0 +1,18 @@
+{
+  "ja": "宛先",
+  "hrkt": "あてさき",
+  "latn": "atesaki",
+  "en": "recipient's address",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02668A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>宛先</b>不明で手紙が戻ってきたの。",
+      "hrkt": "<b>あてさき</b> ふめい で てがみ が もどって きた の。",
+      "latn": "<b>atesaki</b> fumei de tegami ga modotte kita no.",
+      "en": "The letter was returned as the recipient's address was unknown.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/35efb777ag.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02668A.mp3"
+    }
+  ]
+}

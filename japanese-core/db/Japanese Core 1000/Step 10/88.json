@@ -1,0 +1,26 @@
+{
+  "ja": "亡くなる",
+  "hrkt": "なくなる",
+  "latn": "nakunaru",
+  "en": "die, pass away",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06666A.mp3",
+  "sentences": [
+    {
+      "ja": "おととい、昔の友人が<b>亡くなった</b>。",
+      "hrkt": "おととい、むかし の ゆうじん が <b>なくなった</b>。",
+      "latn": "ototoi,mukashi no yuujin ga <b>nakunatta</b>.",
+      "en": "Their old friend died the day before yesterday.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5743023.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06666A.mp3"
+    },
+    {
+      "ja": "祖父は去年、<b>亡くなりました</b>。",
+      "hrkt": "そふ は きょねん、<b>なくなりました</b>。",
+      "latn": "sofu ha kyonen,<b>nakunarimashita</b>.",
+      "en": "My grandfather passed away last year.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/23109ibrdg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "傘",
+  "hrkt": "かさ",
+  "latn": "kasa",
+  "en": "umbrella",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01571A.mp3",
+  "sentences": [
+    {
+      "ja": "電車に<b>傘</b>を忘れた。",
+      "hrkt": "でんしゃ に <b>かさ</b> を わすれた。",
+      "latn": "densha ni <b>kasa</b> wo wasureta.",
+      "en": "I left my umbrella on the train.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2768501.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01571A.mp3"
+    },
+    {
+      "ja": "今日は<b>傘</b>を持っていきなさい。",
+      "hrkt": "きょう は <b>かさ</b> を もって いきなさい。",
+      "latn": "kyou ha <b>kasa</b> wo motte ikinasai.",
+      "en": "Take your umbrella with you today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/63an6adgig.mp3"
+    }
+  ]
+}

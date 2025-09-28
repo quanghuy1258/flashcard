@@ -1,0 +1,26 @@
+{
+  "ja": "聞こえる",
+  "hrkt": "きこえる",
+  "latn": "kikoeru",
+  "en": "hear, be heard",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02039A.mp3",
+  "sentences": [
+    {
+      "ja": "隣の部屋からテレビの音が<b>聞こえる</b>。",
+      "hrkt": "となり の へや から テレビ の おと が <b>きこえる</b>。",
+      "latn": "tonari no heya kara terebi no oto ga <b>kikoeru</b>.",
+      "en": "I can hear the sound of TV from the next room.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4314383.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02039A.mp3"
+    },
+    {
+      "ja": "雨の音が<b>聞こえる</b>。",
+      "hrkt": "あめ の おと が <b>きこえる</b>。",
+      "latn": "ame no oto ga <b>kikoeru</b>.",
+      "en": "I can hear the sound of rain.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5701010.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01132A.mp3"
+    }
+  ]
+}

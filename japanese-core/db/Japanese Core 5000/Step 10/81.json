@@ -1,0 +1,18 @@
+{
+  "ja": "用紙",
+  "hrkt": "ようし",
+  "latn": "youshi",
+  "en": "form, printed form",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01142A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>用紙</b>に名前を書いてください。",
+      "hrkt": "この <b>ようし</b> に なまえ を かいて ください。",
+      "latn": "kono <b>youshi</b> ni namae wo kaite kudasai.",
+      "en": "Please write your name on this form.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01142A.mp3"
+    }
+  ]
+}

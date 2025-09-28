@@ -1,0 +1,18 @@
+{
+  "ja": "投書",
+  "hrkt": "とうしょ",
+  "latn": "tousho",
+  "en": "letter to the editor",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01789A.mp3",
+  "sentences": [
+    {
+      "ja": "その事件について新聞に<b>投書</b>したんだ。",
+      "hrkt": "その じけん について しんぶん に <b>とうしょ</b> した ん だ。",
+      "latn": "sono jiken nitsuite shinbun ni <b>tousho</b> shita n da.",
+      "en": "I sent a letter to the editor regarding the incident.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01789A.mp3"
+    }
+  ]
+}

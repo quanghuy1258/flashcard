@@ -1,0 +1,18 @@
+{
+  "ja": "英文",
+  "hrkt": "えいぶん",
+  "latn": "eibun",
+  "en": "English sentence",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01873A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>英文</b>の手紙を書きました。",
+      "hrkt": "かのじょ は <b>えいぶん</b> の てがみ を かきました。",
+      "latn": "kanojo ha <b>eibun</b> no tegami wo kakimashita.",
+      "en": "She wrote an English letter.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01873A.mp3"
+    }
+  ]
+}

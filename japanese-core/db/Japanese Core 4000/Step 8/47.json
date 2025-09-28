@@ -1,0 +1,18 @@
+{
+  "ja": "欠点",
+  "hrkt": "けってん",
+  "latn": "ketten",
+  "en": "fault, flaw",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00918A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>欠点</b>のない人間はいません。",
+      "hrkt": "<b>けってん</b> の ない にんげん は いません。",
+      "latn": "<b>ketten</b> no nai ningen ha imasen.",
+      "en": "Everyone has flaws.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00918A.mp3"
+    }
+  ]
+}

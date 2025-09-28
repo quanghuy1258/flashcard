@@ -1,0 +1,18 @@
+{
+  "ja": "改札",
+  "hrkt": "かいさつ",
+  "latn": "kaisatsu",
+  "en": "ticket gate",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03015A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>改札</b>で3時に会おう。",
+      "hrkt": "<b>かいさつ</b> で 3 じ に あおう。",
+      "latn": "<b>kaisatsu</b> de 3 ji ni aou.",
+      "en": "Let's meet at the ticket gate at 3 o'clock.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/855j0ddl58.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03015A.mp3"
+    }
+  ]
+}

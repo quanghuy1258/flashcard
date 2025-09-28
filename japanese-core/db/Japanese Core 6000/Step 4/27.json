@@ -1,0 +1,18 @@
+{
+  "ja": "水洗",
+  "hrkt": "すいせん",
+  "latn": "suisen",
+  "en": "flushing, washing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02871A.mp3",
+  "sentences": [
+    {
+      "ja": "今はほとんどのトイレが<b>水洗</b>ですよ。",
+      "hrkt": "いま は ほとんど の トイレ が <b>すいせん</b> です よ。",
+      "latn": "ima ha hotondo no toire ga <b>suisen</b> desu yo.",
+      "en": "Most toilets these days flush.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02871A.mp3"
+    }
+  ]
+}

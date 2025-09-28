@@ -1,0 +1,26 @@
+{
+  "ja": "開発",
+  "hrkt": "かいはつ",
+  "latn": "kaihatsu",
+  "en": "development",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01407A.mp3",
+  "sentences": [
+    {
+      "ja": "その会社は社員の能力<b>開発</b>に力を入れています。",
+      "hrkt": "その かいしゃ は しゃいん の のうりょく <b>かいはつ</b> に ちから を いれて います。",
+      "latn": "sono kaisha ha shain no nouryoku <b>kaihatsu</b> ni chikara wo irete imasu.",
+      "en": "The company places emphasis on the professional development of its employees.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/f3cv54b9do.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/52eh2576pk.mp3"
+    },
+    {
+      "ja": "私のチームは今、新しいゲームを<b>開発</b>しています。",
+      "hrkt": "わたし の チーム は いま、あたらしい ゲーム を <b>かいはつ</b> して います。",
+      "latn": "watashi no chi-mu ha ima,atarashii ge-mu wo <b>kaihatsu</b> shite imasu.",
+      "en": "My team is developing a new game now.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/1615du4hcg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "可",
+  "hrkt": "か",
+  "latn": "ka",
+  "en": "permitted, OK",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW01301A.mp3",
+  "sentences": [
+    {
+      "ja": "このアルバイトは「学生<b>可</b>」ですね。",
+      "hrkt": "この アルバイト は 「がくせい <b>か</b>」 です ね。",
+      "latn": "kono arubaito ha 「gakusei <b>ka</b>」 desu ne.",
+      "en": "Students can apply for this part-time job.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS01301A.mp3"
+    }
+  ]
+}

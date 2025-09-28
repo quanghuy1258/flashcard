@@ -1,0 +1,18 @@
+{
+  "ja": "豆",
+  "hrkt": "まめ",
+  "latn": "mame",
+  "en": "bean, peas",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02433A.mp3",
+  "sentences": [
+    {
+      "ja": "今、<b>豆</b>を煮ています。",
+      "hrkt": "いま、<b>まめ</b> を にて います。",
+      "latn": "ima,<b>mame</b> wo nite imasu.",
+      "en": "I'm cooking some beans now.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02433A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "コメント",
+  "hrkt": "コメント",
+  "latn": "komento",
+  "en": "comment",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/847ca35hh4.mp3",
+  "sentences": [
+    {
+      "ja": "今日はユーザーからの<b>コメント</b>はなかった。",
+      "hrkt": "きょう は ユーザー から の <b>コメント</b> は なかった。",
+      "latn": "kyou ha yu-za- kara no <b>komento</b> ha nakatta.",
+      "en": "There was no comment from users today.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/22a1bvaqe0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/61b6c1bjf8.mp3"
+    }
+  ]
+}

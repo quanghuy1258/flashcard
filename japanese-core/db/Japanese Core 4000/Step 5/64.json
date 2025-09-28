@@ -1,0 +1,18 @@
+{
+  "ja": "欠ける",
+  "hrkt": "かける",
+  "latn": "kakeru",
+  "en": "be chipped, be missing",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00960A.mp3",
+  "sentences": [
+    {
+      "ja": "お気に入りのカップが<b>欠けて</b>しまいました。",
+      "hrkt": "おきにいり の カップ が <b>かけて</b> しまいました。",
+      "latn": "okiniiri no kappu ga <b>kakete</b> shimaimashita.",
+      "en": "My favorite cup has been chipped.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00960A.mp3"
+    }
+  ]
+}

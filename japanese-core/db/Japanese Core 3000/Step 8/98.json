@@ -1,0 +1,18 @@
+{
+  "ja": "到着",
+  "hrkt": "とうちゃく",
+  "latn": "touchaku",
+  "en": "arrival",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00602A.mp3",
+  "sentences": [
+    {
+      "ja": "夜9時に東京に<b>到着</b>しました。",
+      "hrkt": "よる 9 じ に とうきょう に <b>とうちゃく</b> しました。",
+      "latn": "yoru 9 ji ni toukyou ni <b>touchaku</b> shimashita.",
+      "en": "I arrived at Tokyo at 9 pm.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/4423bg4i70.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00602A.mp3"
+    }
+  ]
+}

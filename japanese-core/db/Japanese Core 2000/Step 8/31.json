@@ -1,0 +1,26 @@
+{
+  "ja": "掃く",
+  "hrkt": "はく",
+  "latn": "haku",
+  "en": "sweep",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07242A.mp3",
+  "sentences": [
+    {
+      "ja": "床をほうきで<b>掃きました</b>。",
+      "hrkt": "ゆか を ほうき で <b>はきました</b>。",
+      "latn": "yuka wo houki de <b>hakimashita</b>.",
+      "en": "I swept the floor with a broom.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3592901.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07242A.mp3"
+    },
+    {
+      "ja": "家の前を<b>掃いて</b>ください。",
+      "hrkt": "いえ の まえ を <b>はいて</b> ください。",
+      "latn": "ie no mae wo <b>haite</b> kudasai.",
+      "en": "Please sweep in front of the house.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/36060g3bi4.mp3"
+    }
+  ]
+}

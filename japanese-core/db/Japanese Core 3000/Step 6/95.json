@@ -1,0 +1,18 @@
+{
+  "ja": "餃子",
+  "hrkt": "ぎょうざ",
+  "latn": "gyouza",
+  "en": "Chinese dumpling",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03598A.mp3",
+  "sentences": [
+    {
+      "ja": "ここの<b>餃子</b>は美味しいよ。",
+      "hrkt": "ここ の <b>ぎょうざ</b> は おいしい よ 。",
+      "latn": "koko no <b>gyouza</b> ha oishii yo .",
+      "en": "The dumplings here are tasty.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/24a94819lg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03598A.mp3"
+    }
+  ]
+}

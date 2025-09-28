@@ -1,0 +1,18 @@
+{
+  "ja": "恋人",
+  "hrkt": "こいびと",
+  "latn": "koibito",
+  "en": "boyfriend or girlfriend",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02844A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>恋人</b>を失った。",
+      "hrkt": "かれ は <b>こいびと</b> を うしなった。",
+      "latn": "kare ha <b>koibito</b> wo ushinatta.",
+      "en": "He lost his girlfriend.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02844A.mp3"
+    }
+  ]
+}

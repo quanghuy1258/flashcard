@@ -1,0 +1,26 @@
+{
+  "ja": "おかしい",
+  "hrkt": "おかしい",
+  "latn": "okashii",
+  "en": "strange, peculiar",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01010A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の様子が<b>おかしい</b>。",
+      "hrkt": "かれ の ようす が <b>おかしい</b>。",
+      "latn": "kare no yousu ga <b>okashii</b>.",
+      "en": "He's acting strange.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3463982.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01010A.mp3"
+    },
+    {
+      "ja": "近頃、彼女の様子が<b>おかしい</b>。",
+      "hrkt": "ちかごろ、かのじょ の ようす が <b>おかしい</b>。",
+      "latn": "chikagoro,kanojo no yousu ga <b>okashii</b>.",
+      "en": "She's been behaving strangely these days.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/b28q8v4bok.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03722A.mp3"
+    }
+  ]
+}

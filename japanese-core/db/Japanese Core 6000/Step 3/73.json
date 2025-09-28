@@ -1,0 +1,18 @@
+{
+  "ja": "年長",
+  "hrkt": "ねんちょう",
+  "latn": "nenchou",
+  "en": "seniority",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02881A.mp3",
+  "sentences": [
+    {
+      "ja": "彼がこのグループで一番<b>年長</b>です。",
+      "hrkt": "かれ が この グループ で いちばん <b>ねんちょう</b> です。",
+      "latn": "kare ga kono guru-pu de ichiban <b>nenchou</b> desu.",
+      "en": "He's the oldest in this group.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02881A.mp3"
+    }
+  ]
+}

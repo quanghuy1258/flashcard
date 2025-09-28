@@ -1,0 +1,26 @@
+{
+  "ja": "冷やす",
+  "hrkt": "ひやす",
+  "latn": "hiyasu",
+  "en": "chill (something), cool down",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07834A.mp3",
+  "sentences": [
+    {
+      "ja": "頭を<b>冷やしなさい</b>。",
+      "hrkt": "あたま を <b>ひやしなさい</b>。",
+      "latn": "atama wo <b>hiyashinasai</b>.",
+      "en": "Cool down.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5048376.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07834A.mp3"
+    },
+    {
+      "ja": "ビールを<b>冷やして</b>おきました。",
+      "hrkt": "ビール を <b>ひやして</b> おきました。",
+      "latn": "bi-ru wo <b>hiyashite</b> okimashita.",
+      "en": "I chilled beer.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/5638bi65d0.mp3"
+    }
+  ]
+}

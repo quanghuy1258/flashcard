@@ -1,0 +1,26 @@
+{
+  "ja": "いきなり",
+  "hrkt": "いきなり",
+  "latn": "ikinari",
+  "en": "all of a sudden, abruptly",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01144A.mp3",
+  "sentences": [
+    {
+      "ja": "後ろから<b>いきなり</b>肩をたたかれた。",
+      "hrkt": "うしろ から <b>いきなり</b> かた を たたかれた。",
+      "latn": "ushiro kara <b>ikinari</b> kata wo tatakareta.",
+      "en": "Someone tapped on my shoulder from behind all of a sudden.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/0l7g0s6veqn7o.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01144A.mp3"
+    },
+    {
+      "ja": "知らない人から<b>いきなり</b>メールが来て驚きました。",
+      "hrkt": "しらない ひと から <b>いきなり</b> メール が きて おどろきました。",
+      "latn": "shiranai hito kara <b>ikinari</b> me-ru ga kite odorokimashita.",
+      "en": "I was surprised to get an e-mail from a stranger.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a6194ke8to.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "北極",
+  "hrkt": "ほっきょく",
+  "latn": "hokkyoku",
+  "en": "North Pole",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02459A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>北極</b>にペンギンはいません。",
+      "hrkt": "<b>ほっきょく</b> に ペンギン は いません。",
+      "latn": "<b>hokkyoku</b> ni pengin ha imasen.",
+      "en": "There are no penguins at the North Pole.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02459A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "デート",
+  "hrkt": "デート",
+  "latn": "de-to",
+  "en": "date, romantic meeting",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06025A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>デート</b>で遊園地に行きました。",
+      "hrkt": "<b>デート</b> で ゆうえんち に いきました。",
+      "latn": "<b>de-to</b> de yuuenchi ni ikimashita.",
+      "en": "I went to an amusement park on a date.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2298047.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06025A.mp3"
+    },
+    {
+      "ja": "初めての<b>デート</b>はとても緊張しました。",
+      "hrkt": "はじめて の <b>デート</b> は とても きんちょう しました。",
+      "latn": "hajimete no <b>de-to</b> ha totemo kinchou shimashita.",
+      "en": "I was very nervous on my first date.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/04ea723sk4.mp3"
+    }
+  ]
+}

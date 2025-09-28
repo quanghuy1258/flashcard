@@ -1,0 +1,18 @@
+{
+  "ja": "専攻",
+  "hrkt": "せんこう",
+  "latn": "senkou",
+  "en": "major",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01803A.mp3",
+  "sentences": [
+    {
+      "ja": "大学では物理を<b>専攻</b>していました。",
+      "hrkt": "だいがく で は ぶつり を <b>せんこう</b> して いました。",
+      "latn": "daigaku de ha butsuri wo <b>senkou</b> shite imashita.",
+      "en": "I majored in physics at university.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01803A.mp3"
+    }
+  ]
+}

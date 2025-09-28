@@ -1,0 +1,26 @@
+{
+  "ja": "ハイキング",
+  "hrkt": "ハイキング",
+  "latn": "haikingu",
+  "en": "hiking",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07170A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日は友人と<b>ハイキング</b>に行きました。",
+      "hrkt": "きのう は ゆうじん と <b>ハイキング</b> に いきました。",
+      "latn": "kinou ha yuujin to <b>haikingu</b> ni ikimashita.",
+      "en": "I went hiking with my friend yesterday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5278008.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07170A.mp3"
+    },
+    {
+      "ja": "夏に山で<b>ハイキング</b>をしました。",
+      "hrkt": "なつ に やま で <b>ハイキング</b> を しました。",
+      "latn": "natsu ni yama de <b>haikingu</b> wo shimashita.",
+      "en": "In summer, we hiked in the mountain.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/432l336h7c.mp3"
+    }
+  ]
+}

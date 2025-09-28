@@ -1,0 +1,26 @@
+{
+  "ja": "近づく",
+  "hrkt": "ちかづく",
+  "latn": "chikazuku",
+  "en": "approach, come close",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05571A.mp3",
+  "sentences": [
+    {
+      "ja": "女性が<b>近づいてきました</b>。",
+      "hrkt": "じょせい が <b>ちかづいてきました</b> 。",
+      "latn": "josei ga <b>chikazuitekimashita</b> .",
+      "en": "A woman approached me.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3296320.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05571A.mp3"
+    },
+    {
+      "ja": "試験の日が<b>近づいて</b>います。",
+      "hrkt": "しけん の ひ が <b>ちかづいています</b> 。",
+      "latn": "shiken no hi ga <b>chikazuiteimasu</b> .",
+      "en": "The day of the exam is getting close.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/0509788b8c.mp3"
+    }
+  ]
+}

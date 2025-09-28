@@ -1,0 +1,26 @@
+{
+  "ja": "盗む",
+  "hrkt": "ぬすむ",
+  "latn": "nusumu",
+  "en": "steal, rob",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06937A.mp3",
+  "sentences": [
+    {
+      "ja": "誰かが私のカバンを<b>盗みました</b>。",
+      "hrkt": "だれ か が わたし の カバン を <b>ぬすみました</b>。",
+      "latn": "dare ka ga watashi no kaban wo <b>nusumimashita</b>.",
+      "en": "Someone stole my bag.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2671556.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06937A.mp3"
+    },
+    {
+      "ja": "私は財布を<b>盗まれました</b>。",
+      "hrkt": "わたし は さいふ を <b>ぬすまれました</b>。",
+      "latn": "watashi ha saifu wo <b>nusumaremashita</b>.",
+      "en": "My wallet was stolen.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/f5arfkeje4.mp3"
+    }
+  ]
+}

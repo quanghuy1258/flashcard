@@ -1,0 +1,18 @@
+{
+  "ja": "削る",
+  "hrkt": "けずる",
+  "latn": "kezuru",
+  "en": "scrape, cut back",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02673A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は家族のために仕事の時間を<b>削った</b>。",
+      "hrkt": "かれ は かぞく の ため に しごと の じかん を <b>けずった</b>。",
+      "latn": "kare ha kazoku no tame ni shigoto no jikan wo <b>kezutta</b>.",
+      "en": "He reduced his working hours for his family.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b2408b4n64.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02673A.mp3"
+    }
+  ]
+}

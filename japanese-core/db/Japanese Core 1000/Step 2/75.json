@@ -1,0 +1,26 @@
+{
+  "ja": "秋",
+  "hrkt": "あき",
+  "latn": "aki",
+  "en": "autumn, fall",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00057A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>秋</b>に結婚します。",
+      "hrkt": "かのじょ は <b>あき</b> に けっこん します。",
+      "latn": "kanojo ha <b>aki</b> ni kekkon shimasu.",
+      "en": "She'll get married this fall.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4781848.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00057A.mp3"
+    },
+    {
+      "ja": "<b>秋</b>はぶどうがおいしいです。",
+      "hrkt": "<b>あき</b> は ぶどう が おいしい です。",
+      "latn": "<b>aki</b> ha budou ga oishii desu.",
+      "en": "Grapes taste good in the autumn.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/313p41dtm0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "聞き取り",
+  "hrkt": "ききとり",
+  "latn": "kikitori",
+  "en": "listening comprehension",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02813A.mp3",
+  "sentences": [
+    {
+      "ja": "英語の<b>聞き取り</b>試験を受けたよ。",
+      "hrkt": "えいご の <b>ききとり</b> しけん を うけた よ。",
+      "latn": "eigo no <b>kikitori</b> shiken wo uketa yo.",
+      "en": "I took an English listening comprehension exam.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02813A.mp3"
+    }
+  ]
+}

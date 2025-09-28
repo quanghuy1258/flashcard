@@ -1,0 +1,18 @@
+{
+  "ja": "炎",
+  "hrkt": "ほのお",
+  "latn": "honoo",
+  "en": "flame, blaze",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03875A.mp3",
+  "sentences": [
+    {
+      "ja": "ろうそくの<b>炎</b>が部屋を照らしたんだ。",
+      "hrkt": "ろうそく の <b>ほのお</b> が へや を てらした ん だ。",
+      "latn": "rousoku no <b>honoo</b> ga heya wo terashita n da.",
+      "en": "The candle flame lit the room.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03875A.mp3"
+    }
+  ]
+}

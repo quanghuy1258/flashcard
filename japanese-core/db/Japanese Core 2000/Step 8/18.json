@@ -1,0 +1,26 @@
+{
+  "ja": "暖める",
+  "hrkt": "あたためる",
+  "latn": "atatameru",
+  "en": "warm (something) up",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00144A.mp3",
+  "sentences": [
+    {
+      "ja": "今、車を<b>暖めて</b>います。",
+      "hrkt": "いま、くるま を <b>あたためて</b> います。",
+      "latn": "ima,kuruma wo <b>atatamete</b> imasu.",
+      "en": "I'm warming up the car now.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4953528.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00144A.mp3"
+    },
+    {
+      "ja": "もう少し部屋を<b>暖めて</b>ください。",
+      "hrkt": "もう すこし へや を <b>あたためて</b> ください。",
+      "latn": "mou sukoshi heya wo <b>atatamete</b> kudasai.",
+      "en": "Please warm the room a little more.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/14551a41ok.mp3"
+    }
+  ]
+}

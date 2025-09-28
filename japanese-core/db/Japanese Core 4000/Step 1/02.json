@@ -1,0 +1,18 @@
+{
+  "ja": "翻訳",
+  "hrkt": "ほんやく",
+  "latn": "hon'yaku",
+  "en": "translation (of texts)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01224A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>翻訳</b>は分かりやすいですよ。",
+      "hrkt": "かれ の <b>ほんやく</b> は わかりやすい です よ。",
+      "latn": "kare no <b>hon'yaku</b> ha wakariyasui desu yo.",
+      "en": "His translation is easy to understand.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/13725j0lrc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01224A.mp3"
+    }
+  ]
+}

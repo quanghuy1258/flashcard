@@ -1,0 +1,26 @@
+{
+  "ja": "四",
+  "hrkt": "し",
+  "latn": "shi",
+  "en": "four (Chinese origin)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03561A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>四</b>月に大学に入学しました。",
+      "hrkt": "<b>し</b> がつ に だいがく に にゅうがく しました。",
+      "latn": "<b>shi</b> gatsu ni daigaku ni nyuugaku shimashita.",
+      "en": "I entered college in April.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/al3heo23oejn8.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03561A.mp3"
+    },
+    {
+      "ja": "「四」という漢字は「<b>し</b>」とも読みます。",
+      "hrkt": "「 よん 」 と いう かんじ は  「 <b>し</b>」 と も よみます。",
+      "latn": "「 yon 」 to iu kanji ha  「 <b>shi</b>」 to mo yomimasu.",
+      "en": "The Chinese character for \"yon\" (four) can also be read as \"shi.\"",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c5esdnase8.mp3"
+    }
+  ]
+}

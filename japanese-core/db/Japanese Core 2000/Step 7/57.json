@@ -1,0 +1,26 @@
+{
+  "ja": "よろしい",
+  "hrkt": "よろしい",
+  "latn": "yoroshii",
+  "en": "all right",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09747A.mp3",
+  "sentences": [
+    {
+      "ja": "レポートはこれで<b>よろしい</b>ですか。",
+      "hrkt": "レポート は これ で <b>よろしい</b> です か。",
+      "latn": "repo-to ha kore de <b>yoroshii</b> desu ka.",
+      "en": "Is this report all right?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5202405.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09747A.mp3"
+    },
+    {
+      "ja": "もう帰って<b>よろしい</b>でしょうか。",
+      "hrkt": "もう かえって <b>よろしい</b> でしょう か。",
+      "latn": "mou kaette <b>yoroshii</b> deshou ka.",
+      "en": "Is it alright if I go home now?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/051m15e0c4.mp3"
+    }
+  ]
+}

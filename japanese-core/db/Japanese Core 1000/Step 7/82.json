@@ -1,0 +1,26 @@
+{
+  "ja": "危険",
+  "hrkt": "きけん",
+  "latn": "kiken",
+  "en": "danger, dangerous",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02029A.mp3",
+  "sentences": [
+    {
+      "ja": "その地域は今、<b>危険</b>だ。",
+      "hrkt": "その ちいき は いま、<b>きけん</b> だ。",
+      "latn": "sono chiiki ha ima,<b>kiken</b> da.",
+      "en": "That region is dangerous now.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5205013.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02029A.mp3"
+    },
+    {
+      "ja": "それはとても<b>危険</b>な手術です。",
+      "hrkt": "それ は とても <b>きけん</b>な しゅじゅつ です。",
+      "latn": "sore ha totemo <b>kiken</b>na shujutsu desu.",
+      "en": "It's a very dangerous surgery.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/340i9vei6c.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "頼む",
+  "hrkt": "たのむ",
+  "latn": "tanomu",
+  "en": "order, ask for",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05426A.mp3",
+  "sentences": [
+    {
+      "ja": "私はハンバーガーを<b>頼みました</b>。",
+      "hrkt": "わたし は ハンバーガー を <b>たのみました</b>。",
+      "latn": "watashi ha hanba-ga- wo <b>tanomimashita</b>.",
+      "en": "I ordered a hamburger.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5616150.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05426A.mp3"
+    },
+    {
+      "ja": "今夜はピザを<b>頼みましょう</b>。",
+      "hrkt": "こんや は ピザ を <b>たのみましょう</b>。",
+      "latn": "kon'ya ha piza wo <b>tanomimashou</b>.",
+      "en": "Let's order pizza tonight.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/54901bai28.mp3"
+    }
+  ]
+}

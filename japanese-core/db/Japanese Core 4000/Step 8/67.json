@@ -1,0 +1,18 @@
+{
+  "ja": "重量",
+  "hrkt": "じゅうりょう",
+  "latn": "juuryou",
+  "en": "weight (often used for something heavy)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01075A.mp3",
+  "sentences": [
+    {
+      "ja": "この荷物はかなりの<b>重量</b>ですね。",
+      "hrkt": "この にもつ は かなり の <b>じゅうりょう</b> です ね。",
+      "latn": "kono nimotsu ha kanari no <b>juuryou</b> desu ne.",
+      "en": "This luggage is quite heavy.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01075A.mp3"
+    }
+  ]
+}

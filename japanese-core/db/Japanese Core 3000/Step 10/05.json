@@ -1,0 +1,18 @@
+{
+  "ja": "役",
+  "hrkt": "やく",
+  "latn": "yaku",
+  "en": "role, part",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03935A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は弁護士の<b>役</b>を演じているんだ。",
+      "hrkt": "かのじょ は べんごし の <b>やく</b> を えんじて いる ん だ。",
+      "latn": "kanojo ha bengoshi no <b>yaku</b> wo enjite iru n da.",
+      "en": "She's playing the role of a lawyer.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/43ftcs6fo8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03935A.mp3"
+    }
+  ]
+}

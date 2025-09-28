@@ -1,0 +1,26 @@
+{
+  "ja": "休憩",
+  "hrkt": "きゅうけい",
+  "latn": "kyuukei",
+  "en": "break, rest",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02201A.mp3",
+  "sentences": [
+    {
+      "ja": "少し<b>休憩</b>しましょう。",
+      "hrkt": "すこし <b>きゅうけい</b> しましょう。",
+      "latn": "sukoshi <b>kyuukei</b> shimashou.",
+      "en": "Let's take a break.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1976816.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02201A.mp3"
+    },
+    {
+      "ja": "このあと、10分<b>休憩</b>を取ります。",
+      "hrkt": "この あと、10 ぷん <b>きゅうけい</b> を とります。",
+      "latn": "kono ato,10 pun <b>kyuukei</b> wo torimasu.",
+      "en": "After this we will take a ten-minute break.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/e62k6q34u4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "一通り",
+  "hrkt": "ひととおり",
+  "latn": "hitotoori",
+  "en": "briefly, once over",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02940A.mp3",
+  "sentences": [
+    {
+      "ja": "説明書を<b>一通り</b>読んだの。",
+      "hrkt": "せつめい しょ を <b>ひととおり</b> よんだ の。",
+      "latn": "setsumei sho wo <b>hitotoori</b> yonda no.",
+      "en": "I glanced over the manual briefly.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02940A.mp3"
+    }
+  ]
+}

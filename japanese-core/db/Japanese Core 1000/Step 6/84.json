@@ -1,0 +1,26 @@
+{
+  "ja": "天ぷら",
+  "hrkt": "てんぷら",
+  "latn": "tenpura",
+  "en": "Japanese deep-fried food",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06181A.mp3",
+  "sentences": [
+    {
+      "ja": "私はえびの<b>天ぷら</b>が好きです。",
+      "hrkt": "わたし は えび の <b>てんぷら</b> が すき です。",
+      "latn": "watashi ha ebi no <b>tenpura</b> ga suki desu.",
+      "en": "I like shrimp tempura.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3383203.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06181A.mp3"
+    },
+    {
+      "ja": "夕飯にナスの<b>天ぷら</b>を食べました。",
+      "hrkt": "ゆうはん に ナス の <b>てんぷら</b> を たべました。",
+      "latn": "yuuhan ni nasu no <b>tenpura</b> wo tabemashita.",
+      "en": "I ate eggplant tempura for dinner.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/746452.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06682A.mp3"
+    }
+  ]
+}

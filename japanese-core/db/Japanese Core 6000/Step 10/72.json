@@ -1,0 +1,18 @@
+{
+  "ja": "短期大学",
+  "hrkt": "たんきだいがく",
+  "latn": "tankidaigaku",
+  "en": "junior college",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03454A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>短期大学</b>で日本文学を勉強しました。",
+      "hrkt": "かのじょ は <b>たんきだいがく</b> で にほん ぶんがく を べんきょう しました。",
+      "latn": "kanojo ha <b>tankidaigaku</b> de nihon bungaku wo benkyou shimashita.",
+      "en": "She studied Japanese literature in junior college.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03454A.mp3"
+    }
+  ]
+}

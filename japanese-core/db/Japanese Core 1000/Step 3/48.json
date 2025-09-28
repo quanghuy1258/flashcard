@@ -1,0 +1,26 @@
+{
+  "ja": "風邪",
+  "hrkt": "かぜ",
+  "latn": "kaze",
+  "en": "cold (illness)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01610A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>風邪</b>をひきました。",
+      "hrkt": "わたし は <b>かぜ</b> を ひきました 。",
+      "latn": "watashi ha <b>kaze</b> wo hikimashita .",
+      "en": "I caught a cold.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6031883.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01610A.mp3?1220267041"
+    },
+    {
+      "ja": "早く<b>風邪</b>を治してください。",
+      "hrkt": "はやく <b>かぜ</b> を なおして ください。",
+      "latn": "hayaku <b>kaze</b> wo naoshite kudasai.",
+      "en": "I hope your cold gets better soon.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5211464.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06622A.mp3"
+    }
+  ]
+}

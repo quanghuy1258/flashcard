@@ -1,0 +1,18 @@
+{
+  "ja": "都",
+  "hrkt": "みやこ",
+  "latn": "miyako",
+  "en": "capital, city",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00752A.mp3",
+  "sentences": [
+    {
+      "ja": "ミラノはファッションの<b>都</b>です。",
+      "hrkt": "ミラノ は ファッション の <b>みやこ</b> です。",
+      "latn": "mirano ha fasshon no <b>miyako</b> desu.",
+      "en": "Milan is the capital of fashion.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00752A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "私",
+  "hrkt": "わたくし",
+  "latn": "watakushi",
+  "en": "I (formal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03972A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>私</b>は北海道の出身です。",
+      "hrkt": "<b>わたくし</b> は ほっかいどう の しゅっしん です。",
+      "latn": "<b>watakushi</b> ha hokkaidou no shusshin desu.",
+      "en": "I'm from Hokkaido.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/el4ifda0l9v3k.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03972A.mp3"
+    },
+    {
+      "ja": "<b>私</b>が伊藤です。",
+      "hrkt": "<b>わたくし</b> が いとう です。",
+      "latn": "<b>watakushi</b> ga itou desu.",
+      "en": "I'm Ito.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/340e4od47g.mp3"
+    }
+  ]
+}

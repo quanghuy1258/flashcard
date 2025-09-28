@@ -1,0 +1,18 @@
+{
+  "ja": "福祉",
+  "hrkt": "ふくし",
+  "latn": "fukushi",
+  "en": "welfare",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00764A.mp3",
+  "sentences": [
+    {
+      "ja": "姉は<b>福祉</b>の勉強をしています。",
+      "hrkt": "あね は <b>ふくし</b> の べんきょう を して います。",
+      "latn": "ane ha <b>fukushi</b> no benkyou wo shite imasu.",
+      "en": "My big sister is studying social welfare.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00764A.mp3"
+    }
+  ]
+}

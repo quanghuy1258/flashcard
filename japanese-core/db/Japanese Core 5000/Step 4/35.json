@@ -1,0 +1,18 @@
+{
+  "ja": "車掌",
+  "hrkt": "しゃしょう",
+  "latn": "shashou",
+  "en": "train conductor",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02562A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>車掌</b>さんが車内を回ってきたよ。",
+      "hrkt": "<b>しゃしょう</b> さん が しゃない を まわって きた よ。",
+      "latn": "<b>shashou</b> san ga shanai wo mawatte kita yo.",
+      "en": "The conductor went around the carriage.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02562A.mp3"
+    }
+  ]
+}

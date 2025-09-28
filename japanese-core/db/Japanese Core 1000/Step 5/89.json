@@ -1,0 +1,26 @@
+{
+  "ja": "建てる",
+  "hrkt": "たてる",
+  "latn": "tateru",
+  "en": "build, erect",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05410A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは来年、家を<b>建てます</b>。",
+      "hrkt": "わたし たち は らいねん、いえ を <b>たてます</b>。",
+      "latn": "watashi tachi ha rainen,ie wo <b>tatemasu</b>.",
+      "en": "We'll build a house next year.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/1334311.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05410A.mp3"
+    },
+    {
+      "ja": "これは父が<b>建てた</b>家です。",
+      "hrkt": "これ は ちち が <b>たてた</b> いえ です。",
+      "latn": "kore ha chichi ga <b>tateta</b> ie desu.",
+      "en": "This is the house that my father built.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/239m958aqk.mp3"
+    }
+  ]
+}

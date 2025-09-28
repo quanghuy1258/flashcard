@@ -1,0 +1,18 @@
+{
+  "ja": "外れ",
+  "hrkt": "はずれ",
+  "latn": "hazure",
+  "en": "blank, losing",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03246A.mp3",
+  "sentences": [
+    {
+      "ja": "このくじは<b>外れ</b>です。",
+      "hrkt": "この くじ は <b>はずれ</b> です。",
+      "latn": "kono kuji ha <b>hazure</b> desu.",
+      "en": "This is a losing ticket.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03246A.mp3"
+    }
+  ]
+}

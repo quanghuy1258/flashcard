@@ -1,0 +1,18 @@
+{
+  "ja": "炊事",
+  "hrkt": "すいじ",
+  "latn": "suiji",
+  "en": "cooking (for oneself or one's family)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02450A.mp3",
+  "sentences": [
+    {
+      "ja": "うちでは夫も<b>炊事</b>をします。",
+      "hrkt": "うち で は おっと も <b>すいじ</b> を します。",
+      "latn": "uchi de ha otto mo <b>suiji</b> wo shimasu.",
+      "en": "In my household, my husband cooks for our family too.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02450A.mp3"
+    }
+  ]
+}

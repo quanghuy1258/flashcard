@@ -1,0 +1,26 @@
+{
+  "ja": "どうして",
+  "hrkt": "どうして",
+  "latn": "doushite",
+  "en": "how come",
+  "pos": "Interrogative",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06260A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>どうして</b>泣いているの。",
+      "hrkt": "<b>どうして</b> ないて いる の。",
+      "latn": "<b>doushite</b> naite iru no.",
+      "en": "How come you are crying?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4564511.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06260A.mp3"
+    },
+    {
+      "ja": "あなたは<b>どうして</b>人の話を聞かないんですか。",
+      "hrkt": "あなた は <b>どうして</b> ひと の はなし を きかない ん です か。",
+      "latn": "anata ha <b>doushite</b> hito no hanashi wo kikanai n desu ka.",
+      "en": "How come you don't listen to what people say.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/a6caa3eu54.mp3"
+    }
+  ]
+}

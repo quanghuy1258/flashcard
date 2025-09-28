@@ -1,0 +1,18 @@
+{
+  "ja": "動力",
+  "hrkt": "どうりょく",
+  "latn": "douryoku",
+  "en": "power, engine",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01366A.mp3",
+  "sentences": [
+    {
+      "ja": "この車の<b>動力</b>は電気です。",
+      "hrkt": "この くるま の <b>どうりょく</b> は でんき です。",
+      "latn": "kono kuruma no <b>douryoku</b> ha denki desu.",
+      "en": "This car is powered by electricity.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01366A.mp3"
+    }
+  ]
+}

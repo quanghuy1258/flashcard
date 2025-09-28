@@ -1,0 +1,26 @@
+{
+  "ja": "不幸",
+  "hrkt": "ふこう",
+  "latn": "fukou",
+  "en": "unhappiness, misfortune",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08033A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女の家族に<b>不幸</b>があった。",
+      "hrkt": "かのじょ の かぞく に <b>ふこう</b> が あった。",
+      "latn": "kanojo no kazoku ni <b>fukou</b> ga atta.",
+      "en": "A misfortune befell her family.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4330295.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08033A.mp3"
+    },
+    {
+      "ja": "彼女は自分が<b>不幸</b>だと思っています。",
+      "hrkt": "かのじょ は じぶん が <b>ふこう</b> だ と おもって います。",
+      "latn": "kanojo ha jibun ga <b>fukou</b> da to omotte imasu.",
+      "en": "She thinks she is unfortunate.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f6691pbar0.mp3"
+    }
+  ]
+}

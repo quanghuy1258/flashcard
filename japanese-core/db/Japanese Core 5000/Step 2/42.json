@@ -1,0 +1,18 @@
+{
+  "ja": "鈍い",
+  "hrkt": "にぶい",
+  "latn": "nibui",
+  "en": "dull, slow",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01639A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は頭の回転が<b>鈍い</b>です。",
+      "hrkt": "きょう は あたま の かいてん が <b>にぶい</b> です。",
+      "latn": "kyou ha atama no kaiten ga <b>nibui</b> desu.",
+      "en": "My brain is working slowly today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01639A.mp3"
+    }
+  ]
+}

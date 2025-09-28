@@ -1,0 +1,26 @@
+{
+  "ja": "寝る",
+  "hrkt": "ねる",
+  "latn": "neru",
+  "en": "sleep, go to sleep",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07017A.mp3",
+  "sentences": [
+    {
+      "ja": "もう<b>寝よう</b>。",
+      "hrkt": "もう <b>ねよう</b>。",
+      "latn": "mou <b>neyou</b>.",
+      "en": "Let's go to bed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5749967.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07017A.mp3"
+    },
+    {
+      "ja": "彼はベッドで<b>寝て</b>います。",
+      "hrkt": "かれ は ベッド で <b>ねて</b> います。",
+      "latn": "kare ha beddo de <b>nete</b> imasu.",
+      "en": "He's sleeping in the bed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5501411.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08323A.mp3"
+    }
+  ]
+}

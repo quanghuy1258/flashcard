@@ -1,0 +1,26 @@
+{
+  "ja": "長袖",
+  "hrkt": "ながそで",
+  "latn": "nagasode",
+  "en": "long sleeves",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06634A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は寒いので<b>長袖</b>を着ました。",
+      "hrkt": "きょう は さむい ので <b>ながそで</b> を きました。",
+      "latn": "kyou ha samui node <b>nagasode</b> wo kimashita.",
+      "en": "I put on a long-sleeved shirt because it's cold today.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3573459.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06634A.mp3"
+    },
+    {
+      "ja": "山に行くなら夏でも<b>長袖</b>が必要です。",
+      "hrkt": "やま に いく なら なつ で も <b>ながそで</b> が ひつよう です。",
+      "latn": "yama ni iku nara natsu de mo <b>nagasode</b> ga hitsuyou desu.",
+      "en": "If you go to a mountain, you need clothes with long sleeves even in summer.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/63foat625k.mp3"
+    }
+  ]
+}

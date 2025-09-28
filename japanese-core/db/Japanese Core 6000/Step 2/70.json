@@ -1,0 +1,18 @@
+{
+  "ja": "送金",
+  "hrkt": "そうきん",
+  "latn": "soukin",
+  "en": "money transfer, sending money",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01922A.mp3",
+  "sentences": [
+    {
+      "ja": "取引先への<b>送金</b>を済ませました。",
+      "hrkt": "とりひき さき へ の <b>そうきん</b> を すませました。",
+      "latn": "torihiki saki he no <b>soukin</b> wo sumasemashita.",
+      "en": "I've sent the money to our client.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01922A.mp3"
+    }
+  ]
+}

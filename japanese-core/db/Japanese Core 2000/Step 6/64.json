@@ -1,0 +1,26 @@
+{
+  "ja": "きらきら",
+  "hrkt": "きらきら",
+  "latn": "kirakira",
+  "en": "sparkling, glittering",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02315A.mp3",
+  "sentences": [
+    {
+      "ja": "星が<b>きらきら</b>光っている。",
+      "hrkt": "ほし が <b>きらきら</b> ひかって いる。",
+      "latn": "hoshi ga <b>kirakira</b> hikatte iru.",
+      "en": "The stars are shining brightly.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5488424.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02315A.mp3"
+    },
+    {
+      "ja": "サッカーをしている時、彼は<b>きらきら</b>していますね。",
+      "hrkt": "サッカー を して いる とき、かれ は <b>きらきら</b> して います ね。",
+      "latn": "sakka- wo shite iru toki,kare ha <b>kirakira</b> shite imasu ne.",
+      "en": "When he plays soccer, he shines on the field.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/b5ef4pducg.mp3"
+    }
+  ]
+}

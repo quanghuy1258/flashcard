@@ -1,0 +1,26 @@
+{
+  "ja": "優しい",
+  "hrkt": "やさしい",
+  "latn": "yasashii",
+  "en": "gentle, kind",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09403A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はとても<b>優しい</b>人です。",
+      "hrkt": "かれ は とても <b>やさしい</b> ひと です。",
+      "latn": "kare ha totemo <b>yasashii</b> hito desu.",
+      "en": "He's a very kind person.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5929120.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09403A.mp3"
+    },
+    {
+      "ja": "私のお父さんはとても<b>優しい</b>です。",
+      "hrkt": "わたし の おとうさん は とても <b>やさしい</b> です。",
+      "latn": "watashi no otousan ha totemo <b>yasashii</b> desu.",
+      "en": "My father is very gentle.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/650g358bs4.mp3"
+    }
+  ]
+}

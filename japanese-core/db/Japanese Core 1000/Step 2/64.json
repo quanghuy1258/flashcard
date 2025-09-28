@@ -1,0 +1,26 @@
+{
+  "ja": "緑",
+  "hrkt": "みどり",
+  "latn": "midori",
+  "en": "green color, greenery",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08954A.mp3",
+  "sentences": [
+    {
+      "ja": "この町には<b>緑</b>がたくさんあります。",
+      "hrkt": "この まち に は <b>みどり</b> が たくさん あります。",
+      "latn": "kono machi ni ha <b>midori</b> ga takusan arimasu.",
+      "en": "There's a lot of greenery in this town.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3167421.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08954A.mp3"
+    },
+    {
+      "ja": "あの町は<b>緑</b>を増やしています。",
+      "hrkt": "あの まち は <b>みどり</b> を ふやして います。",
+      "latn": "ano machi ha <b>midori</b> wo fuyashite imasu.",
+      "en": "That town is increasing its greenery.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4393860.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08166A.mp3"
+    }
+  ]
+}

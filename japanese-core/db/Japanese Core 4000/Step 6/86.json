@@ -1,0 +1,18 @@
+{
+  "ja": "行方",
+  "hrkt": "ゆくえ",
+  "latn": "yukue",
+  "en": "one's whereabouts",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03941A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の<b>行方</b>が分かりません。",
+      "hrkt": "かれ の <b>ゆくえ</b> が わかりません。",
+      "latn": "kare no <b>yukue</b> ga wakarimasen.",
+      "en": "I don't know his whereabouts.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03941A.mp3"
+    }
+  ]
+}

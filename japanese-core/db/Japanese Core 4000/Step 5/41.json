@@ -1,0 +1,18 @@
+{
+  "ja": "好む",
+  "hrkt": "このむ",
+  "latn": "konomu",
+  "en": "like, be fond of",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01065A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は背の高い男性を<b>好みます</b>ね。",
+      "hrkt": "かのじょ は せ の たかい だんせい を <b>このみます</b> ね。",
+      "latn": "kanojo ha se no takai dansei wo <b>konomimasu</b> ne.",
+      "en": "She likes tall men.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01065A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "台所",
+  "hrkt": "だいどころ",
+  "latn": "daidokoro",
+  "en": "kitchen",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05235A.mp3",
+  "sentences": [
+    {
+      "ja": "お母さんは<b>台所</b>にいます。",
+      "hrkt": "おかあさん は <b>だいどころ</b> に います。",
+      "latn": "okaasan ha <b>daidokoro</b> ni imasu.",
+      "en": "Mother's in the kitchen.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4946793.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05235A.mp3"
+    },
+    {
+      "ja": "<b>台所</b>にねずみが出た。",
+      "hrkt": "<b>だいどころ</b> に ねずみ が でた。",
+      "latn": "<b>daidokoro</b> ni nezumi ga deta.",
+      "en": "A mouse came out in the kitchen.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/2l6iedc0k9ffg.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03803A.mp3"
+    }
+  ]
+}

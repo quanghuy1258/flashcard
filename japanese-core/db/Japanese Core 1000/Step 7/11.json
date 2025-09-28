@@ -1,0 +1,26 @@
+{
+  "ja": "にんじん",
+  "hrkt": "にんじん",
+  "latn": "ninjin",
+  "en": "carrot",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW06919A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>にんじん</b>が嫌いだ。",
+      "hrkt": "わたし は<b> にんじん</b> が きらい だ。",
+      "latn": "watashi ha<b> ninjin</b> ga kirai da.",
+      "en": "I hate carrots.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4993988.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06919A.mp3"
+    },
+    {
+      "ja": "スーパーマーケットで<b>にんじん</b>を買った。",
+      "hrkt": "スーパーマーケット で <b>にんじん</b> を かった 。",
+      "latn": "su-pa-ma-ketto de <b>ninjin</b> wo katta .",
+      "en": "I bought carrots at the supermarket.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4553918.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04515A.mp3"
+    }
+  ]
+}

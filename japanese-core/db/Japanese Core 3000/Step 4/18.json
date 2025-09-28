@@ -1,0 +1,18 @@
+{
+  "ja": "炒める",
+  "hrkt": "いためる",
+  "latn": "itameru",
+  "en": "stir-fry",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03424A.mp3",
+  "sentences": [
+    {
+      "ja": "次に、野菜を<b>炒めて</b>ください。",
+      "hrkt": "つぎ に、 やさい を <b>いためて</b> ください 。",
+      "latn": "tsugi ni, yasai wo <b>itamete</b> kudasai .",
+      "en": "Next, stir-fry the vegetables.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c2elckcgos.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03424A.mp3"
+    }
+  ]
+}

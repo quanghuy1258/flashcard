@@ -1,0 +1,18 @@
+{
+  "ja": "国土",
+  "hrkt": "こくど",
+  "latn": "kokudo",
+  "en": "national land, national territory",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01314A.mp3",
+  "sentences": [
+    {
+      "ja": "わが国の<b>国土</b>は70%が森林です。",
+      "hrkt": "わがくに の <b>こくど</b> は 70% が しんりん です。",
+      "latn": "wagakuni no <b>kokudo</b> ha 70% ga shinrin desu.",
+      "en": "70 % of our national land is forest.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01314A.mp3"
+    }
+  ]
+}

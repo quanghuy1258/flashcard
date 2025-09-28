@@ -1,0 +1,26 @@
+{
+  "ja": "着替える",
+  "hrkt": "きがえる",
+  "latn": "kigaeru",
+  "en": "change clothes",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01999A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はきれいな服に<b>着替えた</b>。",
+      "hrkt": "かれ は きれいな ふく に <b>きがえた</b>。",
+      "latn": "kare ha kireina fuku ni <b>kigaeta</b>.",
+      "en": "He changed into clean clothes.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4616919.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01999A.mp3"
+    },
+    {
+      "ja": "私は、パーティーの前に会社で<b>着替えました</b>。",
+      "hrkt": "わたし は、パーティー の まえ に かいしゃ で <b>きがえました</b>。",
+      "latn": "watashi ha,pa-ti- no mae ni kaisha de <b>kigaemashita</b>.",
+      "en": "I changed my clothes at the office before the party.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d27m51elj4.mp3"
+    }
+  ]
+}

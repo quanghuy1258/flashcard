@@ -1,0 +1,18 @@
+{
+  "ja": "出来上がる",
+  "hrkt": "できあがる",
+  "latn": "dekiagaru",
+  "en": "be completed, be finished",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02072A.mp3",
+  "sentences": [
+    {
+      "ja": "この家は来年<b>出来上がります</b>。",
+      "hrkt": "この いえ は らいねん <b>できあがります</b>。",
+      "latn": "kono ie ha rainen <b>dekiagarimasu</b>.",
+      "en": "This house will be completed next year.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02072A.mp3"
+    }
+  ]
+}

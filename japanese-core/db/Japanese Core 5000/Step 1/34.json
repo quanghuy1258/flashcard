@@ -1,0 +1,18 @@
+{
+  "ja": "現す",
+  "hrkt": "あらわす",
+  "latn": "arawasu",
+  "en": "show, reveal",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03421A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はようやく姿を<b>現しました</b>ね。",
+      "hrkt": "かれ は ようやく すがた を <b>あらわしました</b> ね。",
+      "latn": "kare ha youyaku sugata wo <b>arawashimashita</b> ne.",
+      "en": "He finally showed up.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03421A.mp3"
+    }
+  ]
+}

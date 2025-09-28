@@ -1,0 +1,18 @@
+{
+  "ja": "モーター",
+  "hrkt": "モーター",
+  "latn": "mo-ta-",
+  "en": "motor, engine",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01824A.mp3",
+  "sentences": [
+    {
+      "ja": "車の<b>モーター</b>を修理したぜ。",
+      "hrkt": "くるま の <b>モーター</b> を しゅうり した ぜ。",
+      "latn": "kuruma no <b>mo-ta-</b> wo shuuri shita ze.",
+      "en": "I repaired the car motor.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01824A.mp3"
+    }
+  ]
+}

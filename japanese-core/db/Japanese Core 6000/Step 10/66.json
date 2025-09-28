@@ -1,0 +1,18 @@
+{
+  "ja": "朝顔",
+  "hrkt": "あさがお",
+  "latn": "asagao",
+  "en": "morning glory",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03184A.mp3",
+  "sentences": [
+    {
+      "ja": "紫の<b>朝顔</b>が咲きました。",
+      "hrkt": "むらさき の <b>あさがお</b> が さきました。",
+      "latn": "murasaki no <b>asagao</b> ga sakimashita.",
+      "en": "Purple morning glories have bloomed.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03184A.mp3"
+    }
+  ]
+}

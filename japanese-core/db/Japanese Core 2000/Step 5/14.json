@@ -1,0 +1,26 @@
+{
+  "ja": "可哀相",
+  "hrkt": "かわいそう",
+  "latn": "kawaisou",
+  "en": "poor, pitiful",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01851A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>可哀相</b>な子供たちは食べるものがない。",
+      "hrkt": "その <b>かわいそう</b>な こども たち は たべる もの が ない。",
+      "latn": "sono <b>kawaisou</b>na kodomo tachi ha taberu mono ga nai.",
+      "en": "Those poor children have nothing to eat.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4921495.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01851A.mp3"
+    },
+    {
+      "ja": "母親がいないなんて、その子猫は<b>可哀相</b>だ。",
+      "hrkt": "ははおや が いない なんて、その こ ねこ は <b>かわいそう</b> だ。",
+      "latn": "hahaoya ga inai nante,sono ko neko ha <b>kawaisou</b> da.",
+      "en": "It's pitiful that the kitten doesn't have a mother.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/94c055453g.mp3"
+    }
+  ]
+}

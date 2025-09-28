@@ -1,0 +1,26 @@
+{
+  "ja": "掛け算",
+  "hrkt": "かけざん",
+  "latn": "kakezan",
+  "en": "multiplication",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01552A.mp3",
+  "sentences": [
+    {
+      "ja": "弟は<b>掛け算</b>を習っている。",
+      "hrkt": "おとうと は <b>かけざん</b> を ならって いる。",
+      "latn": "otouto ha <b>kakezan</b> wo naratte iru.",
+      "en": "My little brother is learning multiplication.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2430969.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01552A.mp3"
+    },
+    {
+      "ja": "<b>掛け算</b>は小学校2年生で習います。",
+      "hrkt": "<b>かけざん</b> は しょうがっこう 2 ねんせい で ならいます。",
+      "latn": "<b>kakezan</b> ha shougakkou 2 nensei de naraimasu.",
+      "en": "We learn multiplication in the second grade at elementary school.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/262b1c0nh0.mp3"
+    }
+  ]
+}

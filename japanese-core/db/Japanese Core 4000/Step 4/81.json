@@ -1,0 +1,18 @@
+{
+  "ja": "行事",
+  "hrkt": "ぎょうじ",
+  "latn": "gyouji",
+  "en": "regular event",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00755A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は学校で<b>行事</b>がありました。",
+      "hrkt": "きょう は がっこう で <b>ぎょうじ</b> が ありました。",
+      "latn": "kyou ha gakkou de <b>gyouji</b> ga arimashita.",
+      "en": "There was an event at school today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00755A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "主張",
+  "hrkt": "しゅちょう",
+  "latn": "shuchou",
+  "en": "claim, assertion",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04057A.mp3",
+  "sentences": [
+    {
+      "ja": "上司は私の<b>主張</b>を受け入れた。",
+      "hrkt": "じょうし は わたし の <b>しゅちょう</b> を うけいれた。",
+      "latn": "joushi ha watashi no <b>shuchou</b> wo ukeireta.",
+      "en": "My boss accepted my claim.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/85al1ndeog.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04057A.mp3"
+    }
+  ]
+}

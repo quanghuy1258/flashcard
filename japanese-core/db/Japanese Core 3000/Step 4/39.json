@@ -1,0 +1,18 @@
+{
+  "ja": "眼科",
+  "hrkt": "がんか",
+  "latn": "ganka",
+  "en": "ophthalmology, eye clinic",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03018A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>眼科</b>で視力検査をしました。",
+      "hrkt": "<b>がんか</b> で しりょく けんさ を しました。",
+      "latn": "<b>ganka</b> de shiryoku kensa wo shimashita.",
+      "en": "I took a vision test at the eye clinic.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c4av4a6e6s.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03018A.mp3"
+    }
+  ]
+}

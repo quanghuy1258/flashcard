@@ -1,0 +1,18 @@
+{
+  "ja": "短所",
+  "hrkt": "たんしょ",
+  "latn": "tansho",
+  "en": "weak point",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02649A.mp3",
+  "sentences": [
+    {
+      "ja": "すぐにあきらめてしまうのが彼の<b>短所</b>です。",
+      "hrkt": "すぐ に あきらめて しまう の が かれ の <b>たんしょ</b> です。",
+      "latn": "sugu ni akiramete shimau no ga kare no <b>tansho</b> desu.",
+      "en": "His weak point is that he gives up too easily.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02649A.mp3"
+    }
+  ]
+}

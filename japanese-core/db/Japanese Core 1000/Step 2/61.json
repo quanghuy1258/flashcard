@@ -1,0 +1,26 @@
+{
+  "ja": "引く",
+  "hrkt": "ひく",
+  "latn": "hiku",
+  "en": "draw, pull",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07660A.mp3",
+  "sentences": [
+    {
+      "ja": "このドアは<b>引いて</b>ください。",
+      "hrkt": "この ドア は <b>ひいて</b> ください。",
+      "latn": "kono doa ha <b>hiite</b> kudasai.",
+      "en": "Please pull this door open.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/106957.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07660A.mp3"
+    },
+    {
+      "ja": "赤い線を2本<b>引いて</b>ください。",
+      "hrkt": "あかい せん を 2 ほん <b>ひいて</b> ください。",
+      "latn": "akai sen wo 2 hon <b>hiite</b> kudasai.",
+      "en": "Please draw two red lines.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3641072.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04852A.mp3"
+    }
+  ]
+}

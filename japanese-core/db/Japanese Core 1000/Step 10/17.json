@@ -1,0 +1,26 @@
+{
+  "ja": "並べる",
+  "hrkt": "ならべる",
+  "latn": "naraberu",
+  "en": "line up, arrange",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06747A.mp3",
+  "sentences": [
+    {
+      "ja": "私は料理をテーブルに<b>並べた</b>。",
+      "hrkt": "わたし は りょうり を テーブル に <b>ならべた</b>。",
+      "latn": "watashi ha ryouri wo te-buru ni <b>narabeta</b>.",
+      "en": "I arranged the food on the table.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5554589.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06747A.mp3"
+    },
+    {
+      "ja": "彼は授業中、机の上にえんぴつをきれいに<b>並べた</b>。",
+      "hrkt": "かれ は じゅぎょう ちゅう、つくえ の うえ に えんぴつ を きれい に <b>ならべた</b>。",
+      "latn": "kare ha jugyou chuu,tsukue no ue ni enpitsu wo kirei ni <b>narabeta</b>.",
+      "en": "He arranged his pencils neatly on his desk during a class.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/542gan0osk.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "昼休み",
+  "hrkt": "ひるやすみ",
+  "latn": "hiruyasumi",
+  "en": "lunch break",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07901A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>昼休み</b>に公園に行った。",
+      "hrkt": "<b>ひるやすみ</b> に こうえん に いった。",
+      "latn": "<b>hiruyasumi</b> ni kouen ni itta.",
+      "en": "I went to the park at lunchtime.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3457075.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07901A.mp3"
+    },
+    {
+      "ja": "私の<b>昼休み</b>は1時から2時までです。",
+      "hrkt": "わたし の <b>ひるやすみ</b> は 1 じ から 2 じ まで です。",
+      "latn": "watashi no <b>hiruyasumi</b> ha 1 ji kara 2 ji made desu.",
+      "en": "My lunch break is from one to two.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/73cp321tm8.mp3"
+    }
+  ]
+}

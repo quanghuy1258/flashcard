@@ -1,0 +1,18 @@
+{
+  "ja": "めくる",
+  "hrkt": "めくる",
+  "latn": "mekuru",
+  "en": "turn over",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03918A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はページを<b>めくった</b>の。",
+      "hrkt": "かれ は ページ を <b>めくった</b> の。",
+      "latn": "kare ha pe-ji wo <b>mekutta</b> no.",
+      "en": "He turned the page.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03918A.mp3"
+    }
+  ]
+}

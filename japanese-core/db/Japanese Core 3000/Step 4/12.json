@@ -1,0 +1,18 @@
+{
+  "ja": "中毒",
+  "hrkt": "ちゅうどく",
+  "latn": "chuudoku",
+  "en": "poisoning, addiction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02303A.mp3",
+  "sentences": [
+    {
+      "ja": "そのホテルで食<b>中毒</b>が発生したんだ。",
+      "hrkt": "その ホテル で しょく<b>ちゅうどく</b> が はっせい した ん だ。",
+      "latn": "sono hoteru de shoku<b>chuudoku</b> ga hassei shita n da.",
+      "en": "Food poisoning broke out at the hotel.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/45eoeub2h4.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02303A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "振り向く",
+  "hrkt": "ふりむく",
+  "latn": "furimuku",
+  "en": "turn around, look back",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02429A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>振り向いて</b>俺に微笑んだんだ。",
+      "hrkt": "かのじょ は <b>ふりむいて</b> おれ に ほほえんだ ん だ。",
+      "latn": "kanojo ha <b>furimuite</b> ore ni hohoenda n da.",
+      "en": "She turned around and smiled at me.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/cl4e7l8j9l14g.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02429A.mp3"
+    },
+    {
+      "ja": "その男の子は名前を呼ばれて<b>振り向きました</b>。",
+      "hrkt": "その おとこ の こ は なまえ を よばれて <b>ふりむきました</b>。",
+      "latn": "sono otoko no ko ha namae wo yobarete <b>furimukimashita</b>.",
+      "en": "The boy turned around when his name was called.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/52bealejsc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "靴",
+  "hrkt": "くつ",
+  "latn": "kutsu",
+  "en": "shoes",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02478A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>靴</b>が汚れた。",
+      "hrkt": "<b>くつ</b> が よごれた。",
+      "latn": "<b>kutsu</b> ga yogoreta.",
+      "en": "My shoes got dirty.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6095697.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02478A.mp3"
+    },
+    {
+      "ja": "この<b>靴</b>は1万円です。",
+      "hrkt": "この <b>くつ</b> は 1 まん えん です。",
+      "latn": "kono <b>kutsu</b> ha 1 man en desu.",
+      "en": "These shoes are ten thousand yen.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5267772.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08819A.mp3"
+    }
+  ]
+}

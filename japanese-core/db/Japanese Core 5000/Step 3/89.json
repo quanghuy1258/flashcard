@@ -1,0 +1,18 @@
+{
+  "ja": "煙突",
+  "hrkt": "えんとつ",
+  "latn": "entotsu",
+  "en": "chimney, smokestack",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01832A.mp3",
+  "sentences": [
+    {
+      "ja": "工場の<b>煙突</b>から煙が上がっている。",
+      "hrkt": "こうじょう の <b>えんとつ</b> から けむり が あがって いる。",
+      "latn": "koujou no <b>entotsu</b> kara kemuri ga agatte iru.",
+      "en": "Smoke is rising from the factory smokestacks.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01832A.mp3"
+    }
+  ]
+}

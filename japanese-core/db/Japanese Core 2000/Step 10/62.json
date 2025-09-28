@@ -1,0 +1,26 @@
+{
+  "ja": "報告",
+  "hrkt": "ほうこく",
+  "latn": "houkoku",
+  "en": "report",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08413A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日の会議について<b>報告</b>があります。",
+      "hrkt": "きのう の かいぎ について <b>ほうこく</b> が あります。",
+      "latn": "kinou no kaigi nitsuite <b>houkoku</b> ga arimasu.",
+      "en": "There's a report about yesterday's meeting.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5080703.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08413A.mp3"
+    },
+    {
+      "ja": "会社のみんなに結婚の<b>報告</b>をしました。",
+      "hrkt": "かいしゃ の みんな に けっこん の <b>ほうこく</b> を しました。",
+      "latn": "kaisha no minna ni kekkon no <b>houkoku</b> wo shimashita.",
+      "en": "I made a wedding announcement to everyone at work.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/3667ckdlo4.mp3"
+    }
+  ]
+}

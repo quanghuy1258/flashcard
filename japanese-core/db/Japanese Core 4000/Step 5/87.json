@@ -1,0 +1,18 @@
+{
+  "ja": "記入",
+  "hrkt": "きにゅう",
+  "latn": "kinyuu",
+  "en": "entry, fill in",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02116A.mp3",
+  "sentences": [
+    {
+      "ja": "こちらにお名前をご<b>記入</b>ください。",
+      "hrkt": "こちら に おなまえ を ご<b>きにゅう</b> ください。",
+      "latn": "kochira ni onamae wo go<b>kinyuu</b> kudasai.",
+      "en": "Please fill in your name here.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02116A.mp3"
+    }
+  ]
+}

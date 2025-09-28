@@ -1,0 +1,18 @@
+{
+  "ja": "皮肉",
+  "hrkt": "ひにく",
+  "latn": "hiniku",
+  "en": "sarcasm, irony",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01377A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>皮肉</b>ばかり言います。",
+      "hrkt": "かれ は <b>ひにく</b> ばかり いいます。",
+      "latn": "kare ha <b>hiniku</b> bakari iimasu.",
+      "en": "He always says sarcastic things.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01377A.mp3"
+    }
+  ]
+}

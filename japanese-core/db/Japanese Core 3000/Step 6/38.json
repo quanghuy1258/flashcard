@@ -1,0 +1,18 @@
+{
+  "ja": "とんかつ",
+  "hrkt": "とんかつ",
+  "latn": "tonkatsu",
+  "en": "pork cutlet",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03781A.mp3",
+  "sentences": [
+    {
+      "ja": "昼食に<b>とんかつ</b>を食べました。",
+      "hrkt": "ちゅうしょく に <b>とんかつ</b> を たべました。",
+      "latn": "chuushoku ni <b>tonkatsu</b> wo tabemashita.",
+      "en": "I ate a pork cutlet for lunch.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/d57vck4iq0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03781A.mp3"
+    }
+  ]
+}

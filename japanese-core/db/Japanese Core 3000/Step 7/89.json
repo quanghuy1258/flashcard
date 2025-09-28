@@ -1,0 +1,18 @@
+{
+  "ja": "環境",
+  "hrkt": "かんきょう",
+  "latn": "kankyou",
+  "en": "environment, surroundings",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02812A.mp3",
+  "sentences": [
+    {
+      "ja": "引っ越して<b>環境</b>が変わりました。",
+      "hrkt": "ひっこして <b>かんきょう</b> が かわりました。",
+      "latn": "hikkoshite <b>kankyou</b> ga kawarimashita.",
+      "en": "My environment has changed since I moved.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/15bb41favo.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02812A.mp3"
+    }
+  ]
+}

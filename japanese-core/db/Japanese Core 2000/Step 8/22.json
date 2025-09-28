@@ -1,0 +1,26 @@
+{
+  "ja": "何とか",
+  "hrkt": "なんとか",
+  "latn": "nantoka",
+  "en": "somehow or other",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01244A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>何とか</b>お願いします。",
+      "hrkt": "<b>なんとか</b> おねがい します。",
+      "latn": "<b>nantoka</b> onegai shimasu.",
+      "en": "Please, I'm begging you.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/fl1gesfvfrrr4.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01244A.mp3"
+    },
+    {
+      "ja": "<b>何とか</b>会議に間に合いました。",
+      "hrkt": "<b>なんとか</b> かいぎ に まにあいました。",
+      "latn": "<b>nantoka</b> kaigi ni maniaimashita.",
+      "en": "I made it to the meeting somehow or other.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/856m2iar8k.mp3"
+    }
+  ]
+}

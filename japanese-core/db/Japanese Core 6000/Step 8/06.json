@@ -1,0 +1,26 @@
+{
+  "ja": "隣り合う",
+  "hrkt": "となりあう",
+  "latn": "tonariau",
+  "en": "adjoin, be next door to each other",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02732A.mp3",
+  "sentences": [
+    {
+      "ja": "そこはイタリアンレストランとフレンチレストランが<b>隣り合って</b>います。",
+      "hrkt": "そこ は イタリアン レストラン と フレンチ レストラン が <b>となりあって</b> います。",
+      "latn": "soko ha itarian resutoran to furenchi resutoran ga <b>tonariatte</b> imasu.",
+      "en": "There are Italian and French restaurants side by side there.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/65bo5u3veo.mp3"
+    },
+    {
+      "ja": "上野は動物園と美術館が<b>隣り合って</b>います。",
+      "hrkt": "うえの は どうぶつえん と びじゅつかん が <b>となりあって</b> います。",
+      "latn": "ueno ha doubutsuen to bijutsukan ga <b>tonariatte</b> imasu.",
+      "en": "In Ueno, there is a zoo and an art museum next to each other.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/74bp5k8gj0.mp3"
+    }
+  ]
+}

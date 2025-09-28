@@ -1,0 +1,18 @@
+{
+  "ja": "移転",
+  "hrkt": "いてん",
+  "latn": "iten",
+  "en": "relocation, move",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00505A.mp3",
+  "sentences": [
+    {
+      "ja": "彼の会社は<b>移転</b>したよ。",
+      "hrkt": "かれ の かいしゃ は <b>いてん</b> した よ。",
+      "latn": "kare no kaisha ha <b>iten</b> shita yo.",
+      "en": "His company relocated.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00505A.mp3"
+    }
+  ]
+}

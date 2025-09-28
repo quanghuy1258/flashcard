@@ -1,0 +1,26 @@
+{
+  "ja": "誤解",
+  "hrkt": "ごかい",
+  "latn": "gokai",
+  "en": "misunderstanding",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01349A.mp3",
+  "sentences": [
+    {
+      "ja": "私の気持ちを<b>誤解</b>しているんじゃない！",
+      "hrkt": "わたし の きもち を <b>ごかい</b> して いる ん じゃ ない！",
+      "latn": "watashi no kimochi wo <b>gokai</b> shite iru n ja nai!",
+      "en": "You misunderstand my feelings, don't you?",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2436476.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01349A.mp3"
+    },
+    {
+      "ja": "彼はあまりしゃべらないので、よく<b>誤解</b>されます。",
+      "hrkt": "かれ は あまり しゃべらない ので、よく <b>ごかい</b> されます。",
+      "latn": "kare ha amari shaberanai node,yoku <b>gokai</b> saremasu.",
+      "en": "He doesn't talk much, so he is often misunderstood.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/055ca8auao.mp3"
+    }
+  ]
+}

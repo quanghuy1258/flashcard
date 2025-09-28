@@ -1,0 +1,18 @@
+{
+  "ja": "しわ",
+  "hrkt": "しわ",
+  "latn": "shiwa",
+  "en": "wrinkle",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03675A.mp3",
+  "sentences": [
+    {
+      "ja": "スカートに<b>しわ</b>が寄っているよ。",
+      "hrkt": "スカート に <b>しわ</b> が よって いる よ。",
+      "latn": "suka-to ni <b>shiwa</b> ga yotte iru yo.",
+      "en": "Your skirt is rumpled.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03675A.mp3"
+    }
+  ]
+}

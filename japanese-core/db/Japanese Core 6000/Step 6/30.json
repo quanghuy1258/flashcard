@@ -1,0 +1,18 @@
+{
+  "ja": "七夕",
+  "hrkt": "たなばた",
+  "latn": "tanabata",
+  "en": "The Star Festival",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03709A.mp3",
+  "sentences": [
+    {
+      "ja": "日本では七月七日は<b>七夕</b>の日です。",
+      "hrkt": "にほん で は しち がつ なのか は <b>たなばた</b> の ひ です。",
+      "latn": "nihon de ha shichi gatsu nanoka ha <b>tanabata</b> no hi desu.",
+      "en": "In Japan, July 7th is the day of the Tanabata Festival.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03709A.mp3"
+    }
+  ]
+}

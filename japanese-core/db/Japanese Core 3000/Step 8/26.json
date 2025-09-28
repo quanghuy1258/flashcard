@@ -1,0 +1,18 @@
+{
+  "ja": "テーマ",
+  "hrkt": "テーマ",
+  "latn": "te-ma",
+  "en": "theme, subject matter",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01146A.mp3",
+  "sentences": [
+    {
+      "ja": "講演の<b>テーマ</b>は何ですか。",
+      "hrkt": "こうえん の <b>テーマ</b> は なん です か。",
+      "latn": "kouen no <b>te-ma</b> ha nan desu ka.",
+      "en": "What's the theme of the lecture?",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b38i4ac2ok.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01146A.mp3"
+    }
+  ]
+}

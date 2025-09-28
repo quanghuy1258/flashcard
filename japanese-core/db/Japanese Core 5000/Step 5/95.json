@@ -1,0 +1,18 @@
+{
+  "ja": "割り引き",
+  "hrkt": "わりびき",
+  "latn": "waribiki",
+  "en": "discount, lower estimate",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03503A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は全品10%<b>割り引き</b>です。",
+      "hrkt": "きょう は ぜんぴん 10% <b>わりびき</b> です。",
+      "latn": "kyou ha zenpin 10% <b>waribiki</b> desu.",
+      "en": "All goods are 10% off today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03503A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "柿",
+  "hrkt": "かき",
+  "latn": "kaki",
+  "en": "persimmon",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02811A.mp3",
+  "sentences": [
+    {
+      "ja": "庭に<b>柿</b>の実がなりました。",
+      "hrkt": "にわ に <b>かき</b> の み が なりました。",
+      "latn": "niwa ni <b>kaki</b> no mi ga narimashita.",
+      "en": "The persimmon in the garden has born fruit.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02811A.mp3"
+    }
+  ]
+}

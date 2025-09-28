@@ -1,0 +1,26 @@
+{
+  "ja": "録音",
+  "hrkt": "ろくおん",
+  "latn": "rokuon",
+  "en": "(sound) recording",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09969A.mp3",
+  "sentences": [
+    {
+      "ja": "そのラジオ番組はもう<b>録音</b>しました。",
+      "hrkt": "その ラジオ ばんぐみ は もう <b>ろくおん</b> しました。",
+      "latn": "sono rajio bangumi ha mou <b>rokuon</b> shimashita.",
+      "en": "I've already recorded that radio show.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4651403.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09969A.mp3"
+    },
+    {
+      "ja": "日本人の友達に日本語の文章を<b>録音</b>してもらいました。",
+      "hrkt": "にほん じん の ともだち に にほん ご の ぶんしょう を <b>ろくおん</b> して もらいました。",
+      "latn": "nihon jin no tomodachi ni nihon go no bunshou wo <b>rokuon</b> shite moraimashita.",
+      "en": "I had my Japanese friend record Japanese sentences.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/2599af0mh4.mp3"
+    }
+  ]
+}

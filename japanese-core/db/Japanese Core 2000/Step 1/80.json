@@ -1,0 +1,26 @@
+{
+  "ja": "内側",
+  "hrkt": "うちがわ",
+  "latn": "uchigawa",
+  "en": "inside, interior",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00714A.mp3",
+  "sentences": [
+    {
+      "ja": "白線の<b>内側</b>に下がってください。",
+      "hrkt": "はくせん の <b>うちがわ</b> に さがって ください。",
+      "latn": "hakusen no <b>uchigawa</b> ni sagatte kudasai.",
+      "en": "Please step back behind the white line.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4459041.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00714A.mp3"
+    },
+    {
+      "ja": "カップの<b>内側</b>の線までお湯を入れてください。",
+      "hrkt": "カップ の <b>うちがわ</b> の せん まで おゆ を いれて ください。",
+      "latn": "kappu no <b>uchigawa</b> no sen made oyu wo irete kudasai.",
+      "en": "Please pour hot water up to the line inside the cup.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d3bpcp1894.mp3"
+    }
+  ]
+}

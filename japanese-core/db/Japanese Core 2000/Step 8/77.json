@@ -1,0 +1,26 @@
+{
+  "ja": "無駄",
+  "hrkt": "むだ",
+  "latn": "muda",
+  "en": "pointless, waste",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01482A.mp3",
+  "sentences": [
+    {
+      "ja": "それは時間の<b>無駄</b>です。",
+      "hrkt": "それ は じかん の <b>むだ</b> です。",
+      "latn": "sore ha jikan no <b>muda</b> desu.",
+      "en": "It's a waste of time.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/2l8e9l8j0hv5k.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01482A.mp3"
+    },
+    {
+      "ja": "食べ物を<b>無駄</b>にしないでください。",
+      "hrkt": "たべもの を <b>むだ</b> に しないで ください。",
+      "latn": "tabemono wo <b>muda</b> ni shinaide kudasai.",
+      "en": "Please don't waste food.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d38rdjfdo0.mp3"
+    }
+  ]
+}

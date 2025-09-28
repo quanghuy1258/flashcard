@@ -1,0 +1,26 @@
+{
+  "ja": "ドライブ",
+  "hrkt": "ドライブ",
+  "latn": "doraibu",
+  "en": "drive (loan word)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06526A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は群馬まで<b>ドライブ</b>しました。",
+      "hrkt": "きょう は ぐんま まで <b>ドライブ</b> しました。",
+      "latn": "kyou ha gunma made <b>doraibu</b> shimashita.",
+      "en": "I drove to Gunma today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4386471.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06526A.mp3"
+    },
+    {
+      "ja": "どこかへ<b>ドライブ</b>に行きませんか。",
+      "hrkt": "どこ か へ <b>ドライブ</b> に いきません か。",
+      "latn": "doko ka he <b>doraibu</b> ni ikimasen ka.",
+      "en": "Why don't we go for a drive somewhere?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/46501v8gpg.mp3"
+    }
+  ]
+}

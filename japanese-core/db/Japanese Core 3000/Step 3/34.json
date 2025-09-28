@@ -1,0 +1,26 @@
+{
+  "ja": "登録",
+  "hrkt": "とうろく",
+  "latn": "touroku",
+  "en": "registration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00696A.mp3",
+  "sentences": [
+    {
+      "ja": "心理学の授業に<b>登録</b>しましたか。",
+      "hrkt": "しんり がく の じゅぎょう に <b>とうろく</b> しました か。",
+      "latn": "shinri gaku no jugyou ni <b>touroku</b> shimashita ka.",
+      "en": "Have you registered for the psychology class?",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/aea0d8ec0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00696A.mp3"
+    },
+    {
+      "ja": "新しいゲームサイトに<b>登録</b>した。",
+      "hrkt": "あたらしい ゲーム サイト に <b>とうろく</b> した。",
+      "latn": "atarashii ge-mu saito ni <b>touroku</b> shita.",
+      "en": "I signed up for a new game site.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2988238.jpg",
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/1l1ma022h7eno.mp3"
+    }
+  ]
+}

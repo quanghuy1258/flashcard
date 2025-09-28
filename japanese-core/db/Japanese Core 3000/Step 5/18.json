@@ -1,0 +1,18 @@
+{
+  "ja": "曖昧",
+  "hrkt": "あいまい",
+  "latn": "aimai",
+  "en": "ambiguous, vague",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01387A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>曖昧</b>な返事をしたね。",
+      "hrkt": "かのじょ は <b>あいまい</b>な へんじ を した ね。",
+      "latn": "kanojo ha <b>aimai</b>na henji wo shita ne.",
+      "en": "She gave a vague answer.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/042s8k3588.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01387A.mp3"
+    }
+  ]
+}

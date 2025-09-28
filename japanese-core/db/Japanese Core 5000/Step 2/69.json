@@ -1,0 +1,18 @@
+{
+  "ja": "金庫",
+  "hrkt": "きんこ",
+  "latn": "kinko",
+  "en": "strong box, safe",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03600A.mp3",
+  "sentences": [
+    {
+      "ja": "ホテルの<b>金庫</b>に貴重品を入れたよ。",
+      "hrkt": "ホテル の <b>きんこ</b> に きちょう ひん を いれた よ。",
+      "latn": "hoteru no <b>kinko</b> ni kichou hin wo ireta yo.",
+      "en": "I put my valuables in the safe at the hotel.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03600A.mp3"
+    }
+  ]
+}

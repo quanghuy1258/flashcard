@@ -1,0 +1,18 @@
+{
+  "ja": "寄り道",
+  "hrkt": "よりみち",
+  "latn": "yorimichi",
+  "en": "stopping by, going out of the way",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03259A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>寄り道</b>してから帰ります。",
+      "hrkt": "きょう は <b>よりみち</b> して から かえります。",
+      "latn": "kyou ha <b>yorimichi</b> shite kara kaerimasu.",
+      "en": "I'll stop by somewhere on the way home today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03259A.mp3"
+    }
+  ]
+}

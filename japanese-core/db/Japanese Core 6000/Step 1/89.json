@@ -1,0 +1,18 @@
+{
+  "ja": "物資",
+  "hrkt": "ぶっし",
+  "latn": "busshi",
+  "en": "goods, supplies",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00903A.mp3",
+  "sentences": [
+    {
+      "ja": "被災地に<b>物資</b>を送ったよ。",
+      "hrkt": "ひさい ち に <b>ぶっし</b> を おくった よ。",
+      "latn": "hisai chi ni <b>busshi</b> wo okutta yo.",
+      "en": "We've sent supplies to the disaster area.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00903A.mp3"
+    }
+  ]
+}

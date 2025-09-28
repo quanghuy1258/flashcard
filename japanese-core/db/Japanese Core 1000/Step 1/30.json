@@ -1,0 +1,26 @@
+{
+  "ja": "そう",
+  "hrkt": "そう",
+  "latn": "sou",
+  "en": "so, that way",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04953A.mp3",
+  "sentences": [
+    {
+      "ja": "私も<b>そう</b>思います。",
+      "hrkt": "わたし も <b>そう</b> おもいます。",
+      "latn": "watashi mo <b>sou</b> omoimasu.",
+      "en": "That's what I think too.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5140720.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04953A.mp3"
+    },
+    {
+      "ja": "彼女は<b>そう</b>言いました。",
+      "hrkt": "かのじょ は <b>そう</b> いいました。",
+      "latn": "kanojo ha <b>sou</b> iimashita.",
+      "en": "She said so.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/62eq48f8a4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "流行",
+  "hrkt": "はやり",
+  "latn": "hayari",
+  "en": "fashion, trend (rather casual)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03830A.mp3",
+  "sentences": [
+    {
+      "ja": "この服は今の<b>流行</b>です。",
+      "hrkt": "この ふく は いま の <b>はやり</b> です。",
+      "latn": "kono fuku ha ima no <b>hayari</b> desu.",
+      "en": "These clothes are in fashion now.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03830A.mp3"
+    }
+  ]
+}

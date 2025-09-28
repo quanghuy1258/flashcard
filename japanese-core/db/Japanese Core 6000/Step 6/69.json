@@ -1,0 +1,18 @@
+{
+  "ja": "アルファベット",
+  "hrkt": "アルファベット",
+  "latn": "arufabetto",
+  "en": "alphabet",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03121A.mp3",
+  "sentences": [
+    {
+      "ja": "この子は<b>アルファベット</b>を全部言えます。",
+      "hrkt": "この こ は <b>アルファベット</b> を ぜんぶ いえます。",
+      "latn": "kono ko ha <b>arufabetto</b> wo zenbu iemasu.",
+      "en": "This kid can say the entire alphabet.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03121A.mp3"
+    }
+  ]
+}

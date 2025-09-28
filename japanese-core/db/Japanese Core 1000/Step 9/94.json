@@ -1,0 +1,26 @@
+{
+  "ja": "牛肉",
+  "hrkt": "ぎゅうにく",
+  "latn": "gyuuniku",
+  "en": "beef",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02219A.mp3",
+  "sentences": [
+    {
+      "ja": "夕食に<b>牛肉</b>を買った。",
+      "hrkt": "ゆうしょく に <b>ぎゅうにく</b> を かった。",
+      "latn": "yuushoku ni <b>gyuuniku</b> wo katta.",
+      "en": "I bought beef for dinner.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4996205.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02219A.mp3"
+    },
+    {
+      "ja": "<b>牛肉</b>は高いので、ほとんど買いません。",
+      "hrkt": "<b>ぎゅうにく</b> は たかい ので、ほとんど かいません。",
+      "latn": "<b>gyuuniku</b> ha takai node,hotondo kaimasen.",
+      "en": "Beef is expensive, so I hardly ever buy it.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e5fe8fah40.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "成績",
+  "hrkt": "せいせき",
+  "latn": "seiseki",
+  "en": "results, grade",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04718A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>成績</b>が上がりました。",
+      "hrkt": "<b>せいせき</b> が あがりました。",
+      "latn": "<b>seiseki</b> ga agarimashita.",
+      "en": "His grades went up.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/6202345.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04718A.mp3"
+    },
+    {
+      "ja": "彼の<b>成績</b>はまあまあです。",
+      "hrkt": "かれ の <b>せいせき</b> は まあまあ です。",
+      "latn": "kare no <b>seiseki</b> ha maamaa desu.",
+      "en": "His grades are not bad.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5373213.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08628A.mp3"
+    }
+  ]
+}

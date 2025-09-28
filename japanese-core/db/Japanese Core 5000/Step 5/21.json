@@ -1,0 +1,18 @@
+{
+  "ja": "煮える",
+  "hrkt": "にえる",
+  "latn": "nieru",
+  "en": "become boiled, become simmered",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03240A.mp3",
+  "sentences": [
+    {
+      "ja": "もうすぐじゃがいもが<b>煮えます</b>。",
+      "hrkt": "もう すぐ じゃがいも が <b>にえます</b>。",
+      "latn": "mou sugu jagaimo ga <b>niemasu</b>.",
+      "en": "The potatoes will be cooked soon.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03240A.mp3"
+    }
+  ]
+}

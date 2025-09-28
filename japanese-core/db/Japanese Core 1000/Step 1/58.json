@@ -1,0 +1,26 @@
+{
+  "ja": "車",
+  "hrkt": "くるま",
+  "latn": "kuruma",
+  "en": "car, automobile",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02551A.mp3",
+  "sentences": [
+    {
+      "ja": "弟が<b>車</b>を買った。",
+      "hrkt": "おとうと が <b>くるま</b> を かった。",
+      "latn": "otouto ga <b>kuruma</b> wo katta.",
+      "en": "My younger brother bought a car.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5566129.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02551A.mp3"
+    },
+    {
+      "ja": "<b>車</b>を止めて。",
+      "hrkt": "<b>くるま</b>  を とめて。",
+      "latn": "<b>kuruma</b>  wo tomete.",
+      "en": "Stop the car.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5394268.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06507A.mp3"
+    }
+  ]
+}

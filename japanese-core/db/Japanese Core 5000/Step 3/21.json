@@ -1,0 +1,18 @@
+{
+  "ja": "催し",
+  "hrkt": "もよおし",
+  "latn": "moyooshi",
+  "en": "(special or one-time) event",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01624A.mp3",
+  "sentences": [
+    {
+      "ja": "学校の<b>催し</b>に参加しました。",
+      "hrkt": "がっこう の <b>もよおし</b> に さんか しました。",
+      "latn": "gakkou no <b>moyooshi</b> ni sanka shimashita.",
+      "en": "I took part in a one-time school event.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01624A.mp3"
+    }
+  ]
+}

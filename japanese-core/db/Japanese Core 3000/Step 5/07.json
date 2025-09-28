@@ -1,0 +1,18 @@
+{
+  "ja": "アイドル",
+  "hrkt": "アイドル",
+  "latn": "aidoru",
+  "en": "idol",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02632A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は若者の<b>アイドル</b>です。",
+      "hrkt": "かのじょ は わかもの の <b>アイドル</b> です。",
+      "latn": "kanojo ha wakamono no <b>aidoru</b> desu.",
+      "en": "She is a youth icon.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/75448o9714.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02632A.mp3"
+    }
+  ]
+}

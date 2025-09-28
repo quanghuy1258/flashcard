@@ -1,0 +1,26 @@
+{
+  "ja": "肩",
+  "hrkt": "かた",
+  "latn": "kata",
+  "en": "shoulder",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01628A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>肩</b>が凝りました。",
+      "hrkt": "<b>かた</b> が こりました。",
+      "latn": "<b>kata</b> ga korimashita.",
+      "en": "My shoulders are stiff.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5925327.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01628A.mp3"
+    },
+    {
+      "ja": "この頃、よく<b>肩</b>が凝る。",
+      "hrkt": "このごろ、よく <b>かた</b> が こる。",
+      "latn": "konogoro,yoku <b>kata</b> ga koru.",
+      "en": "These days I often get stiff shoulders.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3109847.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03182A.mp3"
+    }
+  ]
+}

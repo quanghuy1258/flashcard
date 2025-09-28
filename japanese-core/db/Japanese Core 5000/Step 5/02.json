@@ -1,0 +1,18 @@
+{
+  "ja": "不通",
+  "hrkt": "ふつう",
+  "latn": "futsuu",
+  "en": "interruption of service",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03107A.mp3",
+  "sentences": [
+    {
+      "ja": "今朝、停電で電車が<b>不通</b>になったよ。",
+      "hrkt": "けさ、ていでん で でんしゃ が <b>ふつう</b> に なった よ。",
+      "latn": "kesa,teiden de densha ga <b>futsuu</b> ni natta yo.",
+      "en": "The train stopped due to a power failure this morning.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03107A.mp3"
+    }
+  ]
+}

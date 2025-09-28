@@ -1,0 +1,26 @@
+{
+  "ja": "父",
+  "hrkt": "ちち",
+  "latn": "chichi",
+  "en": "one's own father (humble)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05601A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>父</b>が大好きです。",
+      "hrkt": "わたし は <b>ちち</b> が だいすき です。",
+      "latn": "watashi ha <b>chichi</b> ga daisuki desu.",
+      "en": "I love my father.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4793759.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05601A.mp3"
+    },
+    {
+      "ja": "<b>父</b>は家の中にいます。",
+      "hrkt": "<b>ちち</b> は いえ の なか に います。",
+      "latn": "<b>chichi</b> ha ie no naka ni imasu.",
+      "en": "My father is inside the house.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5050654.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06625A.mp3"
+    }
+  ]
+}

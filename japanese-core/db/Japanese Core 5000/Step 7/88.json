@@ -1,0 +1,18 @@
+{
+  "ja": "ごまかす",
+  "hrkt": "ごまかす",
+  "latn": "gomakasu",
+  "en": "deceive, gloss over",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02043A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は質問の答えを<b>ごまかした</b>ね。",
+      "hrkt": "かれ は しつもん の こたえ を <b>ごまかした</b> ね。",
+      "latn": "kare ha shitsumon no kotae wo <b>gomakashita</b> ne.",
+      "en": "He glossed over the answer to the question.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02043A.mp3"
+    }
+  ]
+}

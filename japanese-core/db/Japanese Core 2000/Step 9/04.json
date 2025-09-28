@@ -1,0 +1,26 @@
+{
+  "ja": "間",
+  "hrkt": "あいだ",
+  "latn": "aida",
+  "en": "interval, space between things",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00013A.mp3",
+  "sentences": [
+    {
+      "ja": "雲の<b>間</b>から月が出た。",
+      "hrkt": "くも の <b>あいだ</b> から つき が でた。",
+      "latn": "kumo no <b>aida</b> kara tsuki ga deta.",
+      "en": "The moon came out from between the clouds.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4517310.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00013A.mp3"
+    },
+    {
+      "ja": "その犬は木と木の<b>間</b>に隠れていました。",
+      "hrkt": "その いぬ は き と き の <b>あいだ</b> に かくれて いました。",
+      "latn": "sono inu ha ki to ki no <b>aida</b> ni kakurete imashita.",
+      "en": "The dog was hiding among the trees.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/44e51v3g00.mp3"
+    }
+  ]
+}

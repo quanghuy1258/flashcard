@@ -1,0 +1,18 @@
+{
+  "ja": "手元",
+  "hrkt": "てもと",
+  "latn": "temoto",
+  "en": "at hand",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01965A.mp3",
+  "sentences": [
+    {
+      "ja": "説明書は<b>手元</b>にありますか。",
+      "hrkt": "せつめい しょ は <b>てもと</b> に あります か。",
+      "latn": "setsumei sho ha <b>temoto</b> ni arimasu ka.",
+      "en": "Do you have the manual at hand?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01965A.mp3"
+    }
+  ]
+}

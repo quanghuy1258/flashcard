@@ -1,0 +1,18 @@
+{
+  "ja": "使用人",
+  "hrkt": "しようにん",
+  "latn": "shiyounin",
+  "en": "servant",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02685A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>使用人</b>を首にしたよ。",
+      "hrkt": "かれ は <b>しようにん</b> を くび に した よ。",
+      "latn": "kare ha <b>shiyounin</b> wo kubi ni shita yo.",
+      "en": "He fired the servant.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02685A.mp3"
+    }
+  ]
+}

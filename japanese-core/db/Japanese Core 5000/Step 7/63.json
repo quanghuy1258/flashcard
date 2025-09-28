@@ -1,0 +1,18 @@
+{
+  "ja": "歩行者",
+  "hrkt": "ほこうしゃ",
+  "latn": "hokousha",
+  "en": "pedestrian",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02625A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>歩行者</b>は道の右側を歩いてください。",
+      "hrkt": "<b>ほこう しゃ</b> は みち の みぎ がわ を あるいて ください。",
+      "latn": "<b>hokou sha</b> ha michi no migi gawa wo aruite kudasai.",
+      "en": "Pedestrians must walk on the right side of the road.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02625A.mp3"
+    }
+  ]
+}

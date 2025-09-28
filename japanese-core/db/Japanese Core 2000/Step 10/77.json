@@ -1,0 +1,26 @@
+{
+  "ja": "帰宅",
+  "hrkt": "きたく",
+  "latn": "kitaku",
+  "en": "return home, come home",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01228A.mp3",
+  "sentences": [
+    {
+      "ja": "夜の11時に<b>帰宅</b>しました。",
+      "hrkt": "よる の 11 じ に <b>きたく</b> しました。",
+      "latn": "yoru no 11 ji ni <b>kitaku</b> shimashita.",
+      "en": "I came home at 11 o'clock in the evening.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/8l7ef16cm4chs.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01228A.mp3"
+    },
+    {
+      "ja": "<b>帰宅</b>時間はいつも何時くらいですか。",
+      "hrkt": "<b>きたく</b> じかん は いつも なん じ くらい です か。",
+      "latn": "<b>kitaku</b> jikan ha itsumo nan ji kurai desu ka.",
+      "en": "Around what time do you come home?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/834pbaciqk.mp3"
+    }
+  ]
+}

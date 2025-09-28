@@ -1,0 +1,18 @@
+{
+  "ja": "満たす",
+  "hrkt": "みたす",
+  "latn": "mitasu",
+  "en": "fill (something), fulfill (a requirement, etc.)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00842A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は応募の条件を<b>満たして</b>いない。",
+      "hrkt": "かれ は おうぼ の じょうけん を <b>みたして</b> いない。",
+      "latn": "kare ha oubo no jouken wo <b>mitashite</b> inai.",
+      "en": "He doesn't meet the application requirements.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00842A.mp3?1220179386"
+    }
+  ]
+}

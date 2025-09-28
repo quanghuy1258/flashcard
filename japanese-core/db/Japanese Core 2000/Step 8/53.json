@@ -1,0 +1,26 @@
+{
+  "ja": "刺身",
+  "hrkt": "さしみ",
+  "latn": "sashimi",
+  "en": "sliced raw fish or meat",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03425A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>刺身</b>は食べません。",
+      "hrkt": "わたし は <b>さしみ</b> は たべません。",
+      "latn": "watashi ha <b>sashimi</b> ha tabemasen.",
+      "en": "I don't eat sashimi.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4106406.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03425A.mp3"
+    },
+    {
+      "ja": "母が色々な魚を<b>刺身</b>にしました。",
+      "hrkt": "はは が いろいろな さかな を <b>さしみ</b> に しました。",
+      "latn": "haha ga iroirona sakana wo <b>sashimi</b> ni shimashita.",
+      "en": "My mother sliced various types of raw fish.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/36f1aj0p18.mp3"
+    }
+  ]
+}

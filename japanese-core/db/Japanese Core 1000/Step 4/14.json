@@ -1,0 +1,26 @@
+{
+  "ja": "細い",
+  "hrkt": "ほそい",
+  "latn": "hosoi",
+  "en": "thin, slender",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08530A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は指が<b>細い</b>ですね。",
+      "hrkt": "かのじょ は ゆび が <b>ほそい</b> です ね。",
+      "latn": "kanojo ha yubi ga <b>hosoi</b> desu ne.",
+      "en": "Her fingers are thin.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4612617.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08530A.mp3"
+    },
+    {
+      "ja": "あの子はすごく<b>細い</b>ですね。",
+      "hrkt": "あの こ は すごく <b>ほそい</b> です ね。",
+      "latn": "ano ko ha sugoku <b>hosoi</b> desu ne.",
+      "en": "That child is so thin.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/e5dj6161mk.mp3"
+    }
+  ]
+}

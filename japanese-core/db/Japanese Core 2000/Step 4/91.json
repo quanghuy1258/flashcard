@@ -1,0 +1,26 @@
+{
+  "ja": "絵葉書",
+  "hrkt": "えはがき",
+  "latn": "ehagaki",
+  "en": "picture postcard",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW00874A.mp3",
+  "sentences": [
+    {
+      "ja": "友達から<b>絵葉書</b>が届きました。",
+      "hrkt": "ともだち から <b>えはがき</b> が とどきました。",
+      "latn": "tomodachi kara <b>ehagaki</b> ga todokimashita.",
+      "en": "I received a picture postcard from my friend.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/220geg4kms.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00874A.mp3"
+    },
+    {
+      "ja": "京都から家族に<b>絵葉書</b>を出しました。",
+      "hrkt": "きょうと から かぞく に <b>えはがき</b> を だしました。",
+      "latn": "kyouto kara kazoku ni <b>ehagaki</b> wo dashimashita.",
+      "en": "I sent a postcard to my family from Kyoto.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/64di4r41qc.mp3"
+    }
+  ]
+}

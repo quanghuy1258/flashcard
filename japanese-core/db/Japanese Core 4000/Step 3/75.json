@@ -1,0 +1,18 @@
+{
+  "ja": "売買",
+  "hrkt": "ばいばい",
+  "latn": "baibai",
+  "en": "buying and selling",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03309A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は不動産の<b>売買</b>をしています。",
+      "hrkt": "かれ は ふどうさん の <b>ばいばい</b> を して います。",
+      "latn": "kare ha fudousan no <b>baibai</b> wo shite imasu.",
+      "en": "He buys and sells real estate.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03309A.mp3"
+    }
+  ]
+}

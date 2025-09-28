@@ -1,0 +1,26 @@
+{
+  "ja": "外国人",
+  "hrkt": "がいこくじん",
+  "latn": "gaikokujin",
+  "en": "foreigner",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01351A.mp3",
+  "sentences": [
+    {
+      "ja": "日本に住む<b>外国人</b>が増えています。",
+      "hrkt": "にほん に すむ <b>がいこく じん</b> が ふえて います。",
+      "latn": "nihon ni sumu <b>gaikoku jin</b> ga fuete imasu.",
+      "en": "The number of foreigners living in Japan is increasing.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4129663.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01351A.mp3"
+    },
+    {
+      "ja": "私はシェアハウスで<b>外国人</b>と住んでいます。",
+      "hrkt": "わたし は シェア ハウス で <b>がいこく じん</b> と すんで います。",
+      "latn": "watashi ha shea hausu de <b>gaikoku jin</b> to sunde imasu.",
+      "en": "I lived with foreigners in a shared house.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/74bibj4p10.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "楽しみ",
+  "hrkt": "たのしみ",
+  "latn": "tanoshimi",
+  "en": "enjoyment, something looked forward to",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00930A.mp3",
+  "sentences": [
+    {
+      "ja": "旅行は父の老後の<b>楽しみ</b>です。",
+      "hrkt": "りょこう は ちち の ろうご の <b>たのしみ</b> です。",
+      "latn": "ryokou ha chichi no rougo no <b>tanoshimi</b> desu.",
+      "en": "My father looks forward to traveling in his old age.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3544361.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00930A.mp3"
+    },
+    {
+      "ja": "彼女のいちばんの<b>楽しみ</b>はショッピングです。",
+      "hrkt": "かのじょ の いちばん の <b>たのしみ</b> は ショッピング です。",
+      "latn": "kanojo no ichiban no <b>tanoshimi</b> ha shoppingu desu.",
+      "en": "Her greatest pleasure is shopping.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/c5dv5mdpt0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02869A.mp3"
+    }
+  ]
+}

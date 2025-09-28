@@ -1,0 +1,18 @@
+{
+  "ja": "交ぜる",
+  "hrkt": "まぜる",
+  "latn": "mazeru",
+  "en": "mix (things distinguishable)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03055A.mp3",
+  "sentences": [
+    {
+      "ja": "私も<b>交ぜて</b>ください。",
+      "hrkt": "わたし も <b>まぜて</b> ください。",
+      "latn": "watashi mo <b>mazete</b> kudasai.",
+      "en": "Please include me.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03055A.mp3"
+    }
+  ]
+}

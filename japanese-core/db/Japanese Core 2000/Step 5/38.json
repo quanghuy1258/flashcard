@@ -1,0 +1,26 @@
+{
+  "ja": "役に立つ",
+  "hrkt": "やくにたつ",
+  "latn": "yakunitatsu",
+  "en": "be useful, be helpful",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09391A.mp3",
+  "sentences": [
+    {
+      "ja": "私は人々の<b>役に立ちたい</b>と思っています。",
+      "hrkt": "わたし は ひとびと の <b>やくにたちたい</b> と おもって います。",
+      "latn": "watashi ha hitobito no <b>yakunitachitai</b> to omotte imasu.",
+      "en": "I want to be of service to others.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5469670.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09391A.mp3"
+    },
+    {
+      "ja": "この辞書は全く<b>役に立ちません</b>。",
+      "hrkt": "この じしょ は まったく <b>やくにたちません</b>。",
+      "latn": "kono jisho ha mattaku <b>yakunitachimasen</b>.",
+      "en": "This dictionary is not useful at all.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c3eq0ebttc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "運動",
+  "hrkt": "うんどう",
+  "latn": "undou",
+  "en": "movement, exercise",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00822A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はもっと<b>運動</b>した方がいい。",
+      "hrkt": "かれ は もっと <b>うんどう</b> した ほう が いい。",
+      "latn": "kare ha motto <b>undou</b> shita hou ga ii.",
+      "en": "He should exercise more.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5540383.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00822A.mp3"
+    },
+    {
+      "ja": "私はもっと<b>運動</b>が必要だ。",
+      "hrkt": "わたし は もっと <b>うんどう</b> が ひつよう だ。",
+      "latn": "watashi ha motto <b>undou</b> ga hitsuyou da.",
+      "en": "I need more exercise.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a4c513btdg.mp3"
+    }
+  ]
+}

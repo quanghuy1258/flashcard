@@ -1,0 +1,18 @@
+{
+  "ja": "雑談",
+  "hrkt": "ざつだん",
+  "latn": "zatsudan",
+  "en": "chat, idle talk",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02448A.mp3",
+  "sentences": [
+    {
+      "ja": "その先生はいつも授業の前に<b>雑談</b>をするの。",
+      "hrkt": "その せんせい は いつも じゅぎょう の まえ に <b>ざつだん</b> を する の。",
+      "latn": "sono sensei ha itsumo jugyou no mae ni <b>zatsudan</b> wo suru no.",
+      "en": "The teacher always chats before the class.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02448A.mp3"
+    }
+  ]
+}

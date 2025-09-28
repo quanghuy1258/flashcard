@@ -1,0 +1,26 @@
+{
+  "ja": "転ぶ",
+  "hrkt": "ころぶ",
+  "latn": "korobu",
+  "en": "fall down, fall over",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03236A.mp3",
+  "sentences": [
+    {
+      "ja": "お祖母ちゃんがお風呂場で<b>転んだ</b>。",
+      "hrkt": "おばあちゃん が おふろば で <b>ころんだ</b>。",
+      "latn": "obaachan ga ofuroba de <b>koronda</b>.",
+      "en": "My grandma fell down in the bathroom.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4148354.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03236A.mp3"
+    },
+    {
+      "ja": "<b>転んで</b>ひざを打ちました。",
+      "hrkt": "<b>ころんで</b> ひざ を うちました。",
+      "latn": "<b>koronde</b> hiza wo uchimashita.",
+      "en": "I fell down and hit my knee.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5216384.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00722A.mp3"
+    }
+  ]
+}

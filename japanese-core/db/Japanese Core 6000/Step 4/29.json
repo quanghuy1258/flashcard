@@ -1,0 +1,18 @@
+{
+  "ja": "ひび",
+  "hrkt": "ひび",
+  "latn": "hibi",
+  "en": "crack",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02887A.mp3",
+  "sentences": [
+    {
+      "ja": "窓ガラスに<b>ひび</b>が入ったよ。",
+      "hrkt": "まど ガラス に <b>ひび</b> が はいった よ。",
+      "latn": "mado garasu ni <b>hibi</b> ga haitta yo.",
+      "en": "We've got a crack in the window glass.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02887A.mp3"
+    }
+  ]
+}

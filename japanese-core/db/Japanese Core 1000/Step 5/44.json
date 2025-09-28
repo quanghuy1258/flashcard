@@ -1,0 +1,26 @@
+{
+  "ja": "これら",
+  "hrkt": "これら",
+  "latn": "korera",
+  "en": "these",
+  "pos": "Pronoun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03229A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>これら</b>の問題について話し合います。",
+      "hrkt": "きょう は <b>これら</b> の もんだい について はなしあいます。",
+      "latn": "kyou ha <b>korera</b> no mondai nitsuite hanashiaimasu.",
+      "en": "We will discuss these issues today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4615817.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03229A.mp3"
+    },
+    {
+      "ja": "<b>これら</b>の質問に全部答えてください。",
+      "hrkt": "<b>これら</b> の しつもん に ぜんぶ こたえて ください。",
+      "latn": "<b>korera</b> no shitsumon ni zenbu kotaete kudasai.",
+      "en": "Please answer all these questions.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/734c299p1s.mp3"
+    }
+  ]
+}

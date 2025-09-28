@@ -1,0 +1,26 @@
+{
+  "ja": "分かる",
+  "hrkt": "わかる",
+  "latn": "wakaru",
+  "en": "understand",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW10011A.mp3",
+  "sentences": [
+    {
+      "ja": "質問の意味は<b>分かりました</b>か。",
+      "hrkt": "しつもん の いみ は <b>わかりました</b> か。",
+      "latn": "shitsumon no imi ha <b>wakarimashita</b> ka.",
+      "en": "Did you understand the meaning of the question?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3913755.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS10011A.mp3"
+    },
+    {
+      "ja": "その子は日本語が<b>分からない</b>。",
+      "hrkt": "その こ は にほん ご が <b>わからない</b>。",
+      "latn": "sono ko ha nihon go ga <b>wakaranai</b>.",
+      "en": "That kid doesn't understand Japanese.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4742594.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02827A.mp3"
+    }
+  ]
+}

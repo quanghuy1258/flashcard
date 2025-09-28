@@ -1,0 +1,18 @@
+{
+  "ja": "パイナップル",
+  "hrkt": "パイナップル",
+  "latn": "painappuru",
+  "en": "pineapple",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03100A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>パイナップル</b>を切ってください。",
+      "hrkt": "この <b>パイナップル</b> を きって ください。",
+      "latn": "kono <b>painappuru</b> wo kitte kudasai.",
+      "en": "Please cut up this pineapple.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/86b0ag65rg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03100A.mp3"
+    }
+  ]
+}

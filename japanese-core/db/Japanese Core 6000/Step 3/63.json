@@ -1,0 +1,18 @@
+{
+  "ja": "沸騰",
+  "hrkt": "ふっとう",
+  "latn": "futtou",
+  "en": "boiling",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02942A.mp3",
+  "sentences": [
+    {
+      "ja": "水が<b>沸騰</b>したよ。",
+      "hrkt": "みず が <b>ふっとう</b> した よ。",
+      "latn": "mizu ga <b>futtou</b> shita yo.",
+      "en": "The water has boiled.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02942A.mp3"
+    }
+  ]
+}

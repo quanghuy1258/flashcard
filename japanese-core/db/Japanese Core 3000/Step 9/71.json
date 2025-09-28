@@ -1,0 +1,18 @@
+{
+  "ja": "文",
+  "hrkt": "ぶん",
+  "latn": "bun",
+  "en": "sentence",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03864A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>文</b>は意味が分かりません。",
+      "hrkt": "この <b>ぶん</b> は いみ が わかりません。",
+      "latn": "kono <b>bun</b> ha imi ga wakarimasen.",
+      "en": "I don't understand the meaning of this sentence.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/842d59chfo.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03864A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "疲れる",
+  "hrkt": "つかれる",
+  "latn": "tsukareru",
+  "en": "get tired, become fatigued",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05833A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>疲れました</b>。",
+      "hrkt": "きょう は <b>つかれました</b>。",
+      "latn": "kyou ha <b>tsukaremashita</b>.",
+      "en": "I've been tired today.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4938127.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05833A.mp3"
+    },
+    {
+      "ja": "少し<b>疲れました</b>。",
+      "hrkt": "すこし <b>つかれました</b>。",
+      "latn": "sukoshi <b>tsukaremashita</b>.",
+      "en": "I've been a little tired.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5239730.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04555A.mp3"
+    }
+  ]
+}

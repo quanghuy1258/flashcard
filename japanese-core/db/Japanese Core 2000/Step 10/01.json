@@ -1,0 +1,26 @@
+{
+  "ja": "似合う",
+  "hrkt": "にあう",
+  "latn": "niau",
+  "en": "suit, match well",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02988A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は着物がよく<b>似合います</b>。",
+      "hrkt": "かのじょ は きもの が よく <b>にあいます</b>。",
+      "latn": "kanojo ha kimono ga yoku <b>niaimasu</b>.",
+      "en": "Kimono suits her well.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/9lde216cdd3s4.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02988A.mp3"
+    },
+    {
+      "ja": "彼女はスカートよりパンツが<b>似合う</b>ね。",
+      "hrkt": "かのじょ は スカート より パンツ が <b>にあう</b> ね。",
+      "latn": "kanojo ha suka-to yori pantsu ga <b>niau</b> ne.",
+      "en": "She looks better in pants than in a skirt.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/b58i6cb320.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/users/Cerego/f5926e4ce991dfdfa48e7f3c26b56d21.mp3"
+    }
+  ]
+}

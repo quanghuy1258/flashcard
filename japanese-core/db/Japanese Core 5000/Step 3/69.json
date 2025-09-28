@@ -1,0 +1,18 @@
+{
+  "ja": "答案",
+  "hrkt": "とうあん",
+  "latn": "touan",
+  "en": "exam paper, answer sheet",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02876A.mp3",
+  "sentences": [
+    {
+      "ja": "今から<b>答案</b>を集めます。",
+      "hrkt": "いま から <b>とうあん</b> を あつめます。",
+      "latn": "ima kara <b>touan</b> wo atsumemasu.",
+      "en": "I'll collect the answer sheets now.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02876A.mp3"
+    }
+  ]
+}

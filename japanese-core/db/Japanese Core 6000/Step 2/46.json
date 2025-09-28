@@ -1,0 +1,18 @@
+{
+  "ja": "腸",
+  "hrkt": "ちょう",
+  "latn": "chou",
+  "en": "intestines, entrails",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01990A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>腸</b>の手術を受けたの。",
+      "hrkt": "かれ は <b>ちょう</b> の しゅじゅつ を うけた の。",
+      "latn": "kare ha <b>chou</b> no shujutsu wo uketa no.",
+      "en": "He had surgery on his intestines.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01990A.mp3"
+    }
+  ]
+}

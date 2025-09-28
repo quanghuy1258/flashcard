@@ -1,0 +1,18 @@
+{
+  "ja": "いじめ",
+  "hrkt": "いじめ",
+  "latn": "ijime",
+  "en": "bullying",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02468A.mp3",
+  "sentences": [
+    {
+      "ja": "学校での<b>いじめ</b>はなかなか減らない。",
+      "hrkt": "がっこう で の <b>いじめ</b> は なかなか へらない。",
+      "latn": "gakkou de no <b>ijime</b> ha nakanaka heranai.",
+      "en": "Bullying in schools is hard to decrease.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02468A.mp3"
+    }
+  ]
+}

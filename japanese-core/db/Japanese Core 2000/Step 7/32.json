@@ -1,0 +1,26 @@
+{
+  "ja": "灰皿",
+  "hrkt": "はいざら",
+  "latn": "haizara",
+  "en": "ashtray",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW07177A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>灰皿</b>をください。",
+      "hrkt": "<b>はいざら</b> を ください。",
+      "latn": "<b>haizara</b> wo kudasai.",
+      "en": "Please give me an ashtray.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6263179.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07177A.mp3"
+    },
+    {
+      "ja": "父はいつも<b>灰皿</b>を持ち歩いています。",
+      "hrkt": "ちち は いつも <b>はいざら</b> を もち あるいて います。",
+      "latn": "chichi ha itsumo <b>haizara</b> wo mochi aruite imasu.",
+      "en": "My father always carries around an ashtray.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/045j427hqc.mp3"
+    }
+  ]
+}

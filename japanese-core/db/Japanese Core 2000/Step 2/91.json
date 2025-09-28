@@ -1,0 +1,26 @@
+{
+  "ja": "ボート",
+  "hrkt": "ボート",
+  "latn": "bo-to",
+  "en": "light boat, small craft",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08473A.mp3",
+  "sentences": [
+    {
+      "ja": "池で<b>ボート</b>に乗りました。",
+      "hrkt": "いけ で <b>ボート</b> に のりました。",
+      "latn": "ike de <b>bo-to</b> ni norimashita.",
+      "en": "I got on the boat at the pond.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/345253.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08473A.mp3"
+    },
+    {
+      "ja": "<b>ボート</b>が川に沈んだ。",
+      "hrkt": "<b>ボート</b> が かわ に しずんだ。",
+      "latn": "<b>bo-to</b> ga kawa ni shizunda.",
+      "en": "The boat sank in the river.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4650776.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03700A.mp3"
+    }
+  ]
+}

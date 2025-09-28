@@ -1,0 +1,18 @@
+{
+  "ja": "間隔",
+  "hrkt": "かんかく",
+  "latn": "kankaku",
+  "en": "interval, space",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01856A.mp3",
+  "sentences": [
+    {
+      "ja": "電車は5分<b>間隔</b>で来ますよ。",
+      "hrkt": "でんしゃ は 5 ふん <b>かんかく</b> で きます よ。",
+      "latn": "densha ha 5 fun <b>kankaku</b> de kimasu yo.",
+      "en": "The train comes every five minutes.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01856A.mp3"
+    }
+  ]
+}

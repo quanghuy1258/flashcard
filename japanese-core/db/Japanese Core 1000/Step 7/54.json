@@ -1,0 +1,26 @@
+{
+  "ja": "反対",
+  "hrkt": "はんたい",
+  "latn": "hantai",
+  "en": "oppose, object",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW07557A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>反対</b>です。",
+      "hrkt": "わたし は <b>はんたい</b> です。",
+      "latn": "watashi ha <b>hantai</b> desu.",
+      "en": "I'm against it.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5055587.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07557A.mp3"
+    },
+    {
+      "ja": "両親が私の結婚に<b>反対</b>している。",
+      "hrkt": "りょうしん が わたし の けっこん に <b>はんたい</b> して いる。",
+      "latn": "ryoushin ga watashi no kekkon ni <b>hantai</b> shite iru.",
+      "en": "My parents are against my marriage.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b2ah157828.mp3"
+    }
+  ]
+}

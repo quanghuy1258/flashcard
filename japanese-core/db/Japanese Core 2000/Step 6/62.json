@@ -1,0 +1,26 @@
+{
+  "ja": "裏返す",
+  "hrkt": "うらがえす",
+  "latn": "uragaesu",
+  "en": "turn over, turn inside out",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00777A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は紙を<b>裏返しました</b>。",
+      "hrkt": "かれ は かみ を <b>うらがえしました</b>。",
+      "latn": "kare ha kami wo <b>uragaeshimashita</b>.",
+      "en": "He turned the paper over.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5824206.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00777A.mp3"
+    },
+    {
+      "ja": "5分焼いたら魚を<b>裏返して</b>ください。",
+      "hrkt": "5 ふん やいたら さかな を <b>うらがえして</b> ください。",
+      "latn": "5 fun yaitara sakana wo <b>uragaeshite</b> kudasai.",
+      "en": "After grilling the fish for five minutes, please turn it over.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/b5eq69c9ik.mp3"
+    }
+  ]
+}

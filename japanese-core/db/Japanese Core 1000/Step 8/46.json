@@ -1,0 +1,26 @@
+{
+  "ja": "乗り換える",
+  "hrkt": "のりかえる",
+  "latn": "norikaeru",
+  "en": "change, transfer",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07121A.mp3",
+  "sentences": [
+    {
+      "ja": "次の駅で地下鉄に<b>乗り換えます</b>。",
+      "hrkt": "つぎ の えき で ちかてつ に <b>のりかえます</b>。",
+      "latn": "tsugi no eki de chikatetsu ni <b>norikaemasu</b>.",
+      "en": "I'm transfering to the subway at the next station.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3782377.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07121A.mp3"
+    },
+    {
+      "ja": "私は会社に行くのに2回<b>乗り換えます</b>。",
+      "hrkt": "わたし は かいしゃ に いく の に 2 かい <b>のりかえます</b>。",
+      "latn": "watashi ha kaisha ni iku no ni 2 kai <b>norikaemasu</b>.",
+      "en": "I change trains twice to go to work.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/130e8r36ec.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "原因",
+  "hrkt": "げんいん",
+  "latn": "genin",
+  "en": "cause, origin",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02739A.mp3",
+  "sentences": [
+    {
+      "ja": "この事故の<b>原因</b>は何ですか。",
+      "hrkt": "この じこ の <b>げんいん</b> は なん です か。",
+      "latn": "kono jiko no <b>genin</b> ha nan desu ka.",
+      "en": "What's the cause of this accident?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1647108.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02739A.mp3"
+    },
+    {
+      "ja": "火事の<b>原因</b>はまだ分かっていません。",
+      "hrkt": "かじ の <b>げんいん</b> は まだ わかって いません。",
+      "latn": "kaji no <b>genin</b> ha mada wakatte imasen.",
+      "en": "The cause of the fire is still unknown.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/536k5d9u0k.mp3"
+    }
+  ]
+}

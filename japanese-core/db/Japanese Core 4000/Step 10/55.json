@@ -1,0 +1,18 @@
+{
+  "ja": "満点",
+  "hrkt": "まんてん",
+  "latn": "manten",
+  "en": "perfect score",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02743A.mp3",
+  "sentences": [
+    {
+      "ja": "国語のテストは<b>満点</b>でした。",
+      "hrkt": "こくご の テスト は <b>まんてん</b> でした。",
+      "latn": "kokugo no tesuto ha <b>manten</b> deshita.",
+      "en": "I got a perfect score on the Japanese test.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02743A.mp3"
+    }
+  ]
+}

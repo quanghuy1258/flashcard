@@ -1,0 +1,18 @@
+{
+  "ja": "娯楽",
+  "hrkt": "ごらく",
+  "latn": "goraku",
+  "en": "amusement, pastime",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02350A.mp3",
+  "sentences": [
+    {
+      "ja": "テレビは彼のいちばんの<b>娯楽</b>です。",
+      "hrkt": "テレビ は かれ の いちばん の <b>ごらく</b> です。",
+      "latn": "terebi ha kare no ichiban no <b>goraku</b> desu.",
+      "en": "Watching TV is his favorite pastime.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02350A.mp3"
+    }
+  ]
+}

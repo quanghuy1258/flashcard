@@ -1,0 +1,18 @@
+{
+  "ja": "便箋",
+  "hrkt": "びんせん",
+  "latn": "binsen",
+  "en": "letter paper",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03315A.mp3",
+  "sentences": [
+    {
+      "ja": "友達に手紙を書こうと<b>便箋</b>を買ったんだ。",
+      "hrkt": "ともだち に てがみ を かこう と <b>びんせん</b> を かった ん だ。",
+      "latn": "tomodachi ni tegami wo kakou to <b>binsen</b> wo katta n da.",
+      "en": "I bought letter paper to write to my friend.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03315A.mp3"
+    }
+  ]
+}

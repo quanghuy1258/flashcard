@@ -1,0 +1,18 @@
+{
+  "ja": "導入",
+  "hrkt": "どうにゅう",
+  "latn": "dounyuu",
+  "en": "introduction, implementation",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06302A.mp3",
+  "sentences": [
+    {
+      "ja": "会社で新しいシステムを<b>導入</b>した。",
+      "hrkt": "かいしゃ で あたらしい システム を <b>どうにゅう</b> した。",
+      "latn": "kaisha de atarashii shisutemu wo <b>dounyuu</b> shita.",
+      "en": "A new system was introduced in the company.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06302A.mp3"
+    }
+  ]
+}

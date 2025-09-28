@@ -1,0 +1,18 @@
+{
+  "ja": "汚染",
+  "hrkt": "おせん",
+  "latn": "osen",
+  "en": "pollution, contamination",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00711A.mp3",
+  "sentences": [
+    {
+      "ja": "その川の水は<b>汚染</b>されています。",
+      "hrkt": "その かわ の みず は <b>おせん</b> されて います。",
+      "latn": "sono kawa no mizu ha <b>osen</b> sarete imasu.",
+      "en": "The water in the river is polluted.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00711A.mp3"
+    }
+  ]
+}

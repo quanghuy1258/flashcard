@@ -1,0 +1,18 @@
+{
+  "ja": "夜明け",
+  "hrkt": "よあけ",
+  "latn": "yoake",
+  "en": "dawn, daybreak",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02058A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>夜明け</b>と共に目が覚めたんだ。",
+      "hrkt": "<b>よあけ</b> と とも に め が さめた ん だ。",
+      "latn": "<b>yoake</b> to tomo ni me ga sameta n da.",
+      "en": "I awoke at daybreak.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02058A.mp3"
+    }
+  ]
+}

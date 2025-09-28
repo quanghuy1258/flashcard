@@ -1,0 +1,18 @@
+{
+  "ja": "組む",
+  "hrkt": "くむ",
+  "latn": "kumu",
+  "en": "pair up, partner with",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00735A.mp3",
+  "sentences": [
+    {
+      "ja": "このプロジェクトで私は彼と<b>組んで</b>いるんだ。",
+      "hrkt": "この プロジェクト で わたし は かれ と <b>くんで</b> いる ん だ。",
+      "latn": "kono purojekuto de watashi ha kare to <b>kunde</b> iru n da.",
+      "en": "I'm pairing up with him for this project.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00735A.mp3"
+    }
+  ]
+}

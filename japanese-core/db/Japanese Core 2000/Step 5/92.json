@@ -1,0 +1,26 @@
+{
+  "ja": "寒気",
+  "hrkt": "さむけ",
+  "latn": "samuke",
+  "en": "chill",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02449A.mp3",
+  "sentences": [
+    {
+      "ja": "何だか<b>寒気</b>がします。",
+      "hrkt": "なんだか <b>さむけ</b> が します。",
+      "latn": "nandaka <b>samuke</b> ga shimasu.",
+      "en": "I feel chilly somehow.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/cl5eal8j1oshg.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02449A.mp3"
+    },
+    {
+      "ja": "昨日は熱が高くて<b>寒気</b>がしました。",
+      "hrkt": "きのう は ねつ が たかくて <b>さむけ</b> が しました。",
+      "latn": "kinou ha netsu ga takakute <b>samuke</b> ga shimashita.",
+      "en": "Yesterday I had a high fever and the chills.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d4dkej8cpc.mp3"
+    }
+  ]
+}

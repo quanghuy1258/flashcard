@@ -1,0 +1,18 @@
+{
+  "ja": "航空",
+  "hrkt": "こうくう",
+  "latn": "koukuu",
+  "en": "aviation",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00356A.mp3",
+  "sentences": [
+    {
+      "ja": "会議で<b>航空</b>の安全について話し合ったの。",
+      "hrkt": "かいぎ で <b>こうくう</b> の あんぜん に ついて はなしあった の。",
+      "latn": "kaigi de <b>koukuu</b> no anzen ni tsuite hanashiatta no.",
+      "en": "We discussed airline safety in the meeting.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f3dqaa3h7g.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00356A.mp3"
+    }
+  ]
+}

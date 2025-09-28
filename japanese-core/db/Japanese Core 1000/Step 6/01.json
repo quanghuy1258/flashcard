@@ -1,0 +1,26 @@
+{
+  "ja": "今夜",
+  "hrkt": "こんや",
+  "latn": "kon'ya",
+  "en": "tonight, this evening",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03272A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今夜</b>は月がとてもきれいです。",
+      "hrkt": "<b>こんや</b> は つき が とても きれい です。",
+      "latn": "<b>kon'ya</b> ha tsuki ga totemo kirei desu.",
+      "en": "The moon is very beautiful tonight.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4257966.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03272A.mp3"
+    },
+    {
+      "ja": "<b>今夜</b>は星がよく見えます。",
+      "hrkt": "<b>こんや</b> は ほし が よく みえます。",
+      "latn": "<b>kon'ya</b> ha hoshi ga yoku miemasu.",
+      "en": "You can see the stars clearly tonight.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4504819.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08514A.mp3"
+    }
+  ]
+}

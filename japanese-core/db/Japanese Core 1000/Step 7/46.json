@@ -1,0 +1,26 @@
+{
+  "ja": "進む",
+  "hrkt": "すすむ",
+  "latn": "susumu",
+  "en": "advance, move forward",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04567A.mp3",
+  "sentences": [
+    {
+      "ja": "前に<b>進んで</b>ください。",
+      "hrkt": "まえ に <b>すすんで</b> ください。",
+      "latn": "mae ni <b>susunde</b> kudasai.",
+      "en": "Please move forward.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4640701.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04567A.mp3"
+    },
+    {
+      "ja": "会議の準備は<b>進んで</b>いますか。",
+      "hrkt": "かいぎ の じゅんび は <b>すすんで</b> います か。",
+      "latn": "kaigi no junbi ha <b>susunde</b> imasu ka.",
+      "en": "Are you making progress on the preparation for the meeting?",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/039uea90jg.mp3"
+    }
+  ]
+}

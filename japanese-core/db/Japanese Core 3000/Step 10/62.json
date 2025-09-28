@@ -1,0 +1,18 @@
+{
+  "ja": "おる",
+  "hrkt": "おる",
+  "latn": "oru",
+  "en": "be present, stay (humble)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02719A.mp3",
+  "sentences": [
+    {
+      "ja": "母は今、うちに<b>おりません</b>。",
+      "hrkt": "はは は いま 、 うち に <b>おりません</b> 。",
+      "latn": "haha ha ima , uchi ni <b>orimasen</b> .",
+      "en": "My mother isn't at home now.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/856fe88160.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02719A.mp3"
+    }
+  ]
+}

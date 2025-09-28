@@ -1,0 +1,18 @@
+{
+  "ja": "年月日",
+  "hrkt": "ねんがっぴ",
+  "latn": "nengappi",
+  "en": "year, month and date",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03045A.mp3",
+  "sentences": [
+    {
+      "ja": "申請の<b>年月日</b>を西暦で書いてください。",
+      "hrkt": "しんせい の <b>ねんがっぴ</b> を せいれき で かいて ください。",
+      "latn": "shinsei no <b>nengappi</b> wo seireki de kaite kudasai.",
+      "en": "Please write down the application date in the Western calendar.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03045A.mp3"
+    }
+  ]
+}

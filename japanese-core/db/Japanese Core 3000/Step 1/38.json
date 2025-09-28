@@ -1,0 +1,18 @@
+{
+  "ja": "消防車",
+  "hrkt": "しょうぼうしゃ",
+  "latn": "shoubousha",
+  "en": "fire engine",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04235A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>消防車</b>が4台も来た。",
+      "hrkt": "<b>しょうぼうしゃ</b> が 4 だい も きた。",
+      "latn": "<b>shoubousha</b> ga 4 dai mo kita.",
+      "en": "Four fire engines came.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/736mcrbkg4.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04235A.mp3"
+    }
+  ]
+}

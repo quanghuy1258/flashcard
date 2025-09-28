@@ -1,0 +1,26 @@
+{
+  "ja": "雷",
+  "hrkt": "かみなり",
+  "latn": "kaminari",
+  "en": "thunder, lightning",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01774A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>雷</b>が鳴っています。",
+      "hrkt": "<b>かみなり</b> が なって います。",
+      "latn": "<b>kaminari</b> ga natte imasu.",
+      "en": "Thunder is rumbling.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4387298.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01774A.mp3"
+    },
+    {
+      "ja": "うちの犬は<b>雷</b>が怖い。",
+      "hrkt": "うち の いぬ は <b>かみなり</b> が こわい。",
+      "latn": "uchi no inu ha <b>kaminari</b> ga kowai.",
+      "en": "Our dog is afraid of thunder.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/31dl6a3avk.mp3"
+    }
+  ]
+}

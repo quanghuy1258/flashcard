@@ -1,0 +1,18 @@
+{
+  "ja": "少量",
+  "hrkt": "しょうりょう",
+  "latn": "shouryou",
+  "en": "small quantity, small amount",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01634A.mp3",
+  "sentences": [
+    {
+      "ja": "泡立てたクリームに<b>少量</b>のブランデーを加えます。",
+      "hrkt": "あわだてた クリーム に <b>しょうりょう</b> の ブランデー を くわえます。",
+      "latn": "awadateta kuri-mu ni <b>shouryou</b> no burande- wo kuwaemasu.",
+      "en": "We'll add a small amount of brandy to the whipped cream.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01634A.mp3"
+    }
+  ]
+}

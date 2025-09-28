@@ -1,0 +1,18 @@
+{
+  "ja": "内",
+  "hrkt": "うち",
+  "latn": "uchi",
+  "en": "inside",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01561A.mp3",
+  "sentences": [
+    {
+      "ja": "心の<b>内</b>をお話しください。",
+      "hrkt": "こころ の <b>うち</b> を おはなし ください。",
+      "latn": "kokoro no <b>uchi</b> wo ohanashi kudasai.",
+      "en": "Please tell us what's inside your mind.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/05b0c39vbk.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01561A.mp3"
+    }
+  ]
+}

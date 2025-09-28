@@ -1,0 +1,26 @@
+{
+  "ja": "注意",
+  "hrkt": "ちゅうい",
+  "latn": "chuui",
+  "en": "attention, care",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05643A.mp3",
+  "sentences": [
+    {
+      "ja": "車に<b>注意</b>してください。",
+      "hrkt": "くるま に <b>ちゅうい</b> して ください。",
+      "latn": "kuruma ni <b>chuui</b> shite kudasai.",
+      "en": "Please watch out for cars.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2761744.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05643A.mp3"
+    },
+    {
+      "ja": "この道を走る時は<b>注意</b>が必要だ。",
+      "hrkt": "この みち を はしる とき は <b>ちゅうい</b> が ひつよう だ。",
+      "latn": "kono michi wo hashiru toki ha <b>chuui</b> ga hitsuyou da.",
+      "en": "You need to pay attention when you drive on this road.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/217q4ifekc.mp3"
+    }
+  ]
+}

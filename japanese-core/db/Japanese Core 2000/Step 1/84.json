@@ -1,0 +1,26 @@
+{
+  "ja": "課",
+  "hrkt": "か",
+  "latn": "ka",
+  "en": "section, division",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01303A.mp3",
+  "sentences": [
+    {
+      "ja": "今から<b>課</b>のミーティングがある。",
+      "hrkt": "いま から <b>か</b> の ミーティング が ある。",
+      "latn": "ima kara <b>ka</b> no mi-tingu ga aru.",
+      "en": "Our division is going to have a meeting now.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/530605.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01303A.mp3"
+    },
+    {
+      "ja": "今日は前の<b>課</b>の復習をします。",
+      "hrkt": "きょう は まえ の <b>か</b> の ふくしゅう を します。",
+      "latn": "kyou ha mae no <b>ka</b> no fukushuu wo shimasu.",
+      "en": "Today we are going to review the previous section.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/66ff2865f4.mp3"
+    }
+  ]
+}

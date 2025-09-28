@@ -1,0 +1,18 @@
+{
+  "ja": "割り箸",
+  "hrkt": "わりばし",
+  "latn": "waribashi",
+  "en": "disposable chopsticks",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03974A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>割り箸</b>を使わず、自分の箸を使うの。",
+      "hrkt": "かのじょ は <b>わりばし</b> を つかわず、じぶん の はし を つかう の。",
+      "latn": "kanojo ha <b>waribashi</b> wo tsukawazu,jibun no hashi wo tsukau no.",
+      "en": "She uses her own chopsticks rather than disposable ones.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/25dr7jaggk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03974A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "残り",
+  "hrkt": "のこり",
+  "latn": "nokori",
+  "en": "rest, leftover",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00937A.mp3",
+  "sentences": [
+    {
+      "ja": "仕事の<b>残り</b>は家でします。",
+      "hrkt": "しごと の <b>のこり</b> は いえ で します。",
+      "latn": "shigoto no <b>nokori</b> ha ie de shimasu.",
+      "en": "I'll do the rest of the work at home.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/74emb422pk.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00937A.mp3"
+    }
+  ]
+}

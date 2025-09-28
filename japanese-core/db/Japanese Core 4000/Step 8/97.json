@@ -1,0 +1,18 @@
+{
+  "ja": "産地",
+  "hrkt": "さんち",
+  "latn": "sanchi",
+  "en": "production center, producing area",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01363A.mp3",
+  "sentences": [
+    {
+      "ja": "その地方はお茶の<b>産地</b>です。",
+      "hrkt": "その ちほう は おちゃ の <b>さんち</b> です。",
+      "latn": "sono chihou ha ocha no <b>sanchi</b> desu.",
+      "en": "The region is a production center of tea leaves.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01363A.mp3"
+    }
+  ]
+}

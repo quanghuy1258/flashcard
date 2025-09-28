@@ -1,0 +1,26 @@
+{
+  "ja": "野球",
+  "hrkt": "やきゅう",
+  "latn": "yakyuu",
+  "en": "baseball",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09378A.mp3",
+  "sentences": [
+    {
+      "ja": "友達と<b>野球</b>をしました。",
+      "hrkt": "ともだち と <b>やきゅう</b> を しました。",
+      "latn": "tomodachi to <b>yakyuu</b> wo shimashita.",
+      "en": "I played baseball with my friends.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5678014.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09378A.mp3"
+    },
+    {
+      "ja": "彼は<b>野球</b>がうまい。",
+      "hrkt": "かれ は <b>やきゅう</b> が うまい。",
+      "latn": "kare ha <b>yakyuu</b> ga umai.",
+      "en": "He's good at baseball.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5635720.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00756A.mp3"
+    }
+  ]
+}

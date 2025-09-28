@@ -1,0 +1,26 @@
+{
+  "ja": "厚さ",
+  "hrkt": "あつさ",
+  "latn": "atsusa",
+  "en": "thickness",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00165A.mp3",
+  "sentences": [
+    {
+      "ja": "私は板の<b>厚さ</b>を測った。",
+      "hrkt": "わたし は いた の <b>あつさ</b> を はかった。",
+      "latn": "watashi ha ita no <b>atsusa</b> wo hakatta.",
+      "en": "I measured the thickness of the board.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/589785.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00165A.mp3"
+    },
+    {
+      "ja": "この部屋は壁の<b>厚さ</b>が十分ではありません。",
+      "hrkt": "この へや は かべ の <b>あつさ</b> が じゅうぶん で は ありません。",
+      "latn": "kono heya ha kabe no <b>atsusa</b> ga juubun de ha arimasen.",
+      "en": "The walls are not thick enough (the thickness is not enough).",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e4187u5ass.mp3"
+    }
+  ]
+}

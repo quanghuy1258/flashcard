@@ -1,0 +1,18 @@
+{
+  "ja": "世論",
+  "hrkt": "せろん",
+  "latn": "seron",
+  "en": "popular sentiment",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03695A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>世論</b>はあなたの味方です。",
+      "hrkt": "<b>せろん</b> は あなた の みかた です。",
+      "latn": "<b>seron</b> ha anata no mikata desu.",
+      "en": "Popular sentiment is with you.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03695A.mp3"
+    }
+  ]
+}

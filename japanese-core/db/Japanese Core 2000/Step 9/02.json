@@ -1,0 +1,26 @@
+{
+  "ja": "表",
+  "hrkt": "おもて",
+  "latn": "omote",
+  "en": "front, outside",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01220A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>表</b>に人が来ています。",
+      "hrkt": "<b>おもて</b> に ひと が きて います。",
+      "latn": "<b>omote</b> ni hito ga kite imasu.",
+      "en": "There's someone at the front door.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4040544.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01220A.mp3"
+    },
+    {
+      "ja": "<b>表</b>に救急車が止まっています。",
+      "hrkt": "<b>おもて</b> に きゅうきゅうしゃ が とまって います。",
+      "latn": "<b>omote</b> ni kyuukyuusha ga tomatte imasu.",
+      "en": "An ambulance is parked outside.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d6d00247m0.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "早速",
+  "hrkt": "さっそく",
+  "latn": "sassoku",
+  "en": "immediately, right away",
+  "pos": "Adverb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01566A.mp3",
+  "sentences": [
+    {
+      "ja": "では<b>早速</b>書類をお送りします。",
+      "hrkt": "では <b>さっそく</b> しょるい を おおくりします。",
+      "latn": "deha <b>sassoku</b> shorui wo ookurishimasu.",
+      "en": "I will send the documents immediately.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3192621.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01566A.mp3"
+    },
+    {
+      "ja": "新しいお店に<b>早速</b>行ってきました。",
+      "hrkt": "あたらしい おみせ に <b>さっそく</b> いって きました。",
+      "latn": "atarashii omise ni <b>sassoku</b> itte kimashita.",
+      "en": "I went to the new shop right away.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/03fu0kdl9c.mp3"
+    }
+  ]
+}

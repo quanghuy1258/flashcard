@@ -1,0 +1,18 @@
+{
+  "ja": "要望",
+  "hrkt": "ようぼう",
+  "latn": "youbou",
+  "en": "demand, request",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00890A.mp3",
+  "sentences": [
+    {
+      "ja": "お客様の<b>要望</b>を聞かせてください。",
+      "hrkt": "おきゃくさま の <b>ようぼう</b> を きかせて ください。",
+      "latn": "okyakusama no <b>youbou</b> wo kikasete kudasai.",
+      "en": "What would you like to request?",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/4255cn3ebo.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00890A.mp3"
+    }
+  ]
+}

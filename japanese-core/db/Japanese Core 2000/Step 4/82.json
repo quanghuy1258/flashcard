@@ -1,0 +1,26 @@
+{
+  "ja": "規則",
+  "hrkt": "きそく",
+  "latn": "kisoku",
+  "en": "rule, regulation",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02087A.mp3",
+  "sentences": [
+    {
+      "ja": "あの会社の<b>規則</b>は厳しいです。",
+      "hrkt": "あの かいしゃ の <b>きそく</b> は きびしい です。",
+      "latn": "ano kaisha no <b>kisoku</b> ha kibishii desu.",
+      "en": "That company's rules are strict.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5206645.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02087A.mp3"
+    },
+    {
+      "ja": "私の学校には<b>規則</b>がたくさんあります。",
+      "hrkt": "わたし の がっこう に は <b>きそく</b> が たくさん あります。",
+      "latn": "watashi no gakkou ni ha <b>kisoku</b> ga takusan arimasu.",
+      "en": "My school has many rules.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/a34rbp14ug.mp3"
+    }
+  ]
+}

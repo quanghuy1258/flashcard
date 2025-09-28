@@ -1,0 +1,18 @@
+{
+  "ja": "生け花",
+  "hrkt": "いけばな",
+  "latn": "ikebana",
+  "en": "flower arrangement",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02437A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>生け花</b>の先生です。",
+      "hrkt": "かのじょ は <b>いけばな</b> の せんせい です。",
+      "latn": "kanojo ha <b>ikebana</b> no sensei desu.",
+      "en": "She is a flower arrangement teacher.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02437A.mp3"
+    }
+  ]
+}

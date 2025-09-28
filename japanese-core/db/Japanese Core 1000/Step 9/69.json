@@ -1,0 +1,26 @@
+{
+  "ja": "下げる",
+  "hrkt": "さげる",
+  "latn": "sageru",
+  "en": "lower, turn down",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03407A.mp3",
+  "sentences": [
+    {
+      "ja": "少し音量を<b>下げて</b>ください。",
+      "hrkt": "すこし おんりょう を <b>さげて</b> ください。",
+      "latn": "sukoshi onryou wo <b>sagete</b> kudasai.",
+      "en": "Please turn the volume down a little.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/378116.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03407A.mp3"
+    },
+    {
+      "ja": "彼はお客様に頭を<b>下げた</b>。",
+      "hrkt": "かれ は おきゃくさま に あたま を <b>さげた</b>。",
+      "latn": "kare ha okyakusama ni atama wo <b>sageta</b>.",
+      "en": "He bowed to his customer.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d58c2ofsqc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "ワープロ",
+  "hrkt": "ワープロ",
+  "latn": "wa-puro",
+  "en": "word processor",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00403A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ワープロ</b>で報告書を打ったよ。",
+      "hrkt": "<b>ワープロ</b> で ほうこく しょ を うった よ。",
+      "latn": "<b>wa-puro</b> de houkoku sho wo utta yo.",
+      "en": "I typed up a report using a word processor.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b11abf0mb8.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00403A.mp3"
+    }
+  ]
+}

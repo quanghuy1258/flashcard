@@ -1,0 +1,26 @@
+{
+  "ja": "天井",
+  "hrkt": "てんじょう",
+  "latn": "tenjou",
+  "en": "ceiling",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW06163A.mp3",
+  "sentences": [
+    {
+      "ja": "この部屋は<b>天井</b>が高いですね。",
+      "hrkt": "この へや は <b>てんじょう</b> が たかい です ね。",
+      "latn": "kono heya ha <b>tenjou</b> ga takai desu ne.",
+      "en": "This room has a high ceiling.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4708664.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06163A.mp3"
+    },
+    {
+      "ja": "私は眠れるまでずっと<b>天井</b>を見ていた。",
+      "hrkt": "わたし は ねむれる まで ずっと <b>てんじょう</b> を みて いた。",
+      "latn": "watashi ha nemureru made zutto <b>tenjou</b> wo mite ita.",
+      "en": "I stared at the ceiling until I could fall asleep.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/454aakct6c.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "新人",
+  "hrkt": "しんじん",
+  "latn": "shinjin",
+  "en": "newcomer",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01352A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は今日入ったばかりの<b>新人</b>です。",
+      "hrkt": "かれ は きょう はいった ばかり の <b>しんじん</b> です。",
+      "latn": "kare ha kyou haitta bakari no <b>shinjin</b> desu.",
+      "en": "He's a newcomer who just joined us today.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01352A.mp3"
+    }
+  ]
+}

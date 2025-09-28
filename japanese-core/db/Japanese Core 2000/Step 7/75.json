@@ -1,0 +1,26 @@
+{
+  "ja": "あくび",
+  "hrkt": "あくび",
+  "latn": "akubi",
+  "en": "yawn",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00079A.mp3",
+  "sentences": [
+    {
+      "ja": "父が<b>あくび</b>をした。",
+      "hrkt": "ちち が <b>あくび</b> を した。",
+      "latn": "chichi ga <b>akubi</b> wo shita.",
+      "en": "My father yawned.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/6274220.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00079A.mp3"
+    },
+    {
+      "ja": "会議で<b>あくび</b>が止まりませんでした。",
+      "hrkt": "かいぎ で <b>あくび</b> が とまりません でした。",
+      "latn": "kaigi de <b>akubi</b> ga tomarimasen deshita.",
+      "en": "I couldn't stop yawning in the meeting.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/95ao004d04.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "どうしても",
+  "hrkt": "どうしても",
+  "latn": "doushitemo",
+  "en": "by any means, no matter how",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00869A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>どうしても</b>その訳を知りたい。",
+      "hrkt": "<b>どうして も</b> その わけ を しりたい。",
+      "latn": "<b>doushite mo</b> sono wake wo shiritai.",
+      "en": "By any means, I want to know the reason.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3352126.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00869A.mp3"
+    },
+    {
+      "ja": "私は<b>どうしても</b>イギリスに行きたいんです。",
+      "hrkt": "わたし は <b>どうして も</b> イギリス に いきたい ん です。",
+      "latn": "watashi ha <b>doushite mo</b> igirisu ni ikitai n desu.",
+      "en": "I want to go to England no matter what.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/44257s4nnk.mp3"
+    }
+  ]
+}

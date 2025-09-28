@@ -1,0 +1,26 @@
+{
+  "ja": "一方",
+  "hrkt": "いっぽう",
+  "latn": "ippou",
+  "en": "one way, the other party",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00542A.mp3",
+  "sentences": [
+    {
+      "ja": "ここは<b>一方</b>通行です。",
+      "hrkt": "ここ は <b>いっぽう</b>つうこう です。",
+      "latn": "koko ha <b>ippou</b>tsuukou desu.",
+      "en": "This is a one-way street.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2084654.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00542A.mp3"
+    },
+    {
+      "ja": "<b>一方</b>の意見だけ聞いて判断しないでください。",
+      "hrkt": "<b>いっぽう</b> の いけん だけ きいて はんだん しないで ください。",
+      "latn": "<b>ippou</b> no iken dake kiite handan shinaide kudasai.",
+      "en": "Please don't judge by listening to only one side of the story.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b2eh206q50.mp3"
+    }
+  ]
+}

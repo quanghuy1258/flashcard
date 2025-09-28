@@ -1,0 +1,26 @@
+{
+  "ja": "スカート",
+  "hrkt": "スカート",
+  "latn": "suka-to",
+  "en": "skirt",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04523A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はあまり<b>スカート</b>ははかない。",
+      "hrkt": "かのじょ は あまり <b>スカート</b> は はかない。",
+      "latn": "kanojo ha amari <b>suka-to</b> ha hakanai.",
+      "en": "She doesn't wear skirts very often.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/816vdq6j3cb4nk.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04523A.mp3"
+    },
+    {
+      "ja": "その<b>スカート</b>は短すぎます。",
+      "hrkt": "その <b>スカート</b> は みじかすぎます。",
+      "latn": "sono <b>suka-to</b> ha mijikasugimasu.",
+      "en": "The skirt is too short.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/035p197ibs.mp3"
+    }
+  ]
+}

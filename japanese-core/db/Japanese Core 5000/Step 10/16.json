@@ -1,0 +1,18 @@
+{
+  "ja": "預金",
+  "hrkt": "よきん",
+  "latn": "yokin",
+  "en": "deposit, savings (with a bank)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03946A.mp3",
+  "sentences": [
+    {
+      "ja": "私はこの銀行に<b>預金</b>しています。",
+      "hrkt": "わたし は この ぎんこう に <b>よきん</b> して います。",
+      "latn": "watashi ha kono ginkou ni <b>yokin</b> shite imasu.",
+      "en": "I'm saving money in this bank.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03946A.mp3"
+    }
+  ]
+}

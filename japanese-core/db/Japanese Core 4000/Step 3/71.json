@@ -1,0 +1,18 @@
+{
+  "ja": "祈る",
+  "hrkt": "いのる",
+  "latn": "inoru",
+  "en": "pray, wish for",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01159A.mp3",
+  "sentences": [
+    {
+      "ja": "みんなが人質の無事を<b>祈って</b>いるわよ。",
+      "hrkt": "みんな が ひとじち の ぶじ を <b>いのって</b> いる わ よ。",
+      "latn": "minna ga hitojichi no buji wo <b>inotte</b> iru wa yo.",
+      "en": "Everyone is praying for the safety of the hostage.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01159A.mp3"
+    }
+  ]
+}

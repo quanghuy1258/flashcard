@@ -1,0 +1,18 @@
+{
+  "ja": "技師",
+  "hrkt": "ぎし",
+  "latn": "gishi",
+  "en": "engineer, technician",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01875A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はレントゲン<b>技師</b>です。",
+      "hrkt": "かれ は レントゲン <b>ぎし</b> です。",
+      "latn": "kare ha rentogen <b>gishi</b> desu.",
+      "en": "He is a radiographer.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01875A.mp3"
+    }
+  ]
+}

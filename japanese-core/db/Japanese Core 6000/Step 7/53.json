@@ -1,0 +1,18 @@
+{
+  "ja": "禁酒",
+  "hrkt": "きんしゅ",
+  "latn": "kinshu",
+  "en": "abstention from alcohol",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03134A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>禁酒</b>しています。",
+      "hrkt": "かれ は <b>きんしゅ</b> して います。",
+      "latn": "kare ha <b>kinshu</b> shite imasu.",
+      "en": "He abstains from alcohol.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03134A.mp3"
+    }
+  ]
+}

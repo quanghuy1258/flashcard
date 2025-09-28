@@ -1,0 +1,18 @@
+{
+  "ja": "姓名",
+  "hrkt": "せいめい",
+  "latn": "seimei",
+  "en": "full name",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03358A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたの<b>姓名</b>を教えてください。",
+      "hrkt": "あなた の <b>せいめい</b> を おしえて ください。",
+      "latn": "anata no <b>seimei</b> wo oshiete kudasai.",
+      "en": "Please tell me your full name.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03358A.mp3"
+    }
+  ]
+}

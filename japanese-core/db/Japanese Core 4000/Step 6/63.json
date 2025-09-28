@@ -1,0 +1,18 @@
+{
+  "ja": "角度",
+  "hrkt": "かくど",
+  "latn": "kakudo",
+  "en": "angle",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01103A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>角度</b>からは画面が見えにくいですね。",
+      "hrkt": "この <b>かくど</b> から は がめん が みえ にくい です ね。",
+      "latn": "kono <b>kakudo</b> kara ha gamen ga mie nikui desu ne.",
+      "en": "It's difficult to see the screen from this angle.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01103A.mp3"
+    }
+  ]
+}

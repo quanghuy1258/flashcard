@@ -1,0 +1,26 @@
+{
+  "ja": "協力",
+  "hrkt": "きょうりょく",
+  "latn": "kyouryoku",
+  "en": "cooperation, collaboration",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02285A.mp3",
+  "sentences": [
+    {
+      "ja": "このプロジェクトにはみんなの<b>協力</b>が必要です。",
+      "hrkt": "この プロジェクト に は みんな の <b>きょうりょく</b> が ひつよう です。",
+      "latn": "kono purojekuto ni ha minna no <b>kyouryoku</b> ga hitsuyou desu.",
+      "en": "This project requires everyone's cooperation.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4880665.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02285A.mp3"
+    },
+    {
+      "ja": "皆様のご<b>協力</b>、ありがとうございました。",
+      "hrkt": "みなさま の ご<b>きょうりょく</b>、ありがとう ございました。",
+      "latn": "minasama no go<b>kyouryoku</b>,arigatou gozaimashita.",
+      "en": "Thanks for everyone's cooperation.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/93evbqedt0.mp3"
+    }
+  ]
+}

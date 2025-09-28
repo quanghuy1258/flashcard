@@ -1,0 +1,18 @@
+{
+  "ja": "札",
+  "hrkt": "さつ",
+  "latn": "satsu",
+  "en": "bill, paper money (colloquial)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01505A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はカバンから<b>札</b>の束を取り出したんだ。",
+      "hrkt": "かれ は カバン から <b>さつ</b> の たば を とりだした ん だ。",
+      "latn": "kare ha kaban kara <b>satsu</b> no taba wo toridashita n da.",
+      "en": "He took a bundle of paper money out of his bag.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01505A.mp3"
+    }
+  ]
+}

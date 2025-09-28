@@ -1,0 +1,18 @@
+{
+  "ja": "一周",
+  "hrkt": "いっしゅう",
+  "latn": "isshuu",
+  "en": "going round, circle",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03426A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは庭園を<b>一周</b>しました。",
+      "hrkt": "わたし たち は ていえん を <b>いっしゅう</b> しました。",
+      "latn": "watashi tachi ha teien wo <b>isshuu</b> shimashita.",
+      "en": "We went around the garden.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03426A.mp3"
+    }
+  ]
+}

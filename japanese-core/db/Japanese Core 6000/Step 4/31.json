@@ -1,0 +1,18 @@
+{
+  "ja": "卑しい",
+  "hrkt": "いやしい",
+  "latn": "iyashii",
+  "en": "greedy, vulgar",
+  "pos": "Adjective",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02904A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は金に<b>卑しい</b>ね。",
+      "hrkt": "かれ は かね に <b>いやしい</b> ね。",
+      "latn": "kare ha kane ni <b>iyashii</b> ne.",
+      "en": "He's greedy for money.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02904A.mp3"
+    }
+  ]
+}

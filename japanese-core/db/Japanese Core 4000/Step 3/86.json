@@ -1,0 +1,18 @@
+{
+  "ja": "語る",
+  "hrkt": "かたる",
+  "latn": "kataru",
+  "en": "tell, talk",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01659A.mp3",
+  "sentences": [
+    {
+      "ja": "今夜は大いに<b>語りましょう</b>。",
+      "hrkt": "こんや は おおいに <b>かたりましょう</b>。",
+      "latn": "kon'ya ha ooini <b>katarimashou</b>.",
+      "en": "Let's talk about everything tonight.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01659A.mp3"
+    }
+  ]
+}

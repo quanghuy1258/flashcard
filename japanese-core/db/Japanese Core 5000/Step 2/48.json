@@ -1,0 +1,18 @@
+{
+  "ja": "時速",
+  "hrkt": "じそく",
+  "latn": "jisoku",
+  "en": "speed per hour",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01667A.mp3",
+  "sentences": [
+    {
+      "ja": "新幹線の最高<b>時速</b>は300キロです。",
+      "hrkt": "しんかんせん の さいこう <b>じそく</b> は 300 キロ です。",
+      "latn": "shinkansen no saikou <b>jisoku</b> ha 300 kiro desu.",
+      "en": "The highest speed of the shinkansen train is 300 km per hour.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01667A.mp3"
+    }
+  ]
+}

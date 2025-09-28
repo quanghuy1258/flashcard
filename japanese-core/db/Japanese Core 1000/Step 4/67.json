@@ -1,0 +1,26 @@
+{
+  "ja": "見える",
+  "hrkt": "みえる",
+  "latn": "mieru",
+  "en": "be visible, can see",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08851A.mp3",
+  "sentences": [
+    {
+      "ja": "ここから富士山がよく<b>見えます</b>。",
+      "hrkt": "ここ から ふじさん が よく <b>みえます</b>。",
+      "latn": "koko kara fujisan ga yoku <b>miemasu</b>.",
+      "en": "You can see Mount Fuji well from here.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2742121.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08851A.mp3?1220270039"
+    },
+    {
+      "ja": "遠くに船が<b>見えます</b>。",
+      "hrkt": "とおく に ふね が <b>みえます</b>。",
+      "latn": "tooku ni fune ga <b>miemasu</b>.",
+      "en": "I can see a ship in the distance.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/175651.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06343A.mp3"
+    }
+  ]
+}

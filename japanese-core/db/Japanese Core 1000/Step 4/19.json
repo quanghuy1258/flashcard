@@ -1,0 +1,26 @@
+{
+  "ja": "強い",
+  "hrkt": "つよい",
+  "latn": "tsuyoi",
+  "en": "strong",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05951A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は風が<b>強い</b>。",
+      "hrkt": "きょう は かぜ が <b>つよい</b>。",
+      "latn": "kyou ha kaze ga <b>tsuyoi</b>.",
+      "en": "There's a strong wind today.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3774481.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05951A.mp3"
+    },
+    {
+      "ja": "このウィスキーは<b>強い</b>よ。",
+      "hrkt": "この ウィスキー は <b>つよい</b> よ。",
+      "latn": "kono wisuki- ha <b>tsuyoi</b> yo.",
+      "en": "This whisky is strong.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4967802.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00647A.mp3"
+    }
+  ]
+}

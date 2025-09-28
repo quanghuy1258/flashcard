@@ -1,0 +1,18 @@
+{
+  "ja": "逮捕",
+  "hrkt": "たいほ",
+  "latn": "taiho",
+  "en": "arrest, capture",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05259A.mp3",
+  "sentences": [
+    {
+      "ja": "逃げていた犯人が<b>逮捕</b>されました。",
+      "hrkt": "にげて いた はんにん が <b>たいほ</b> されました。",
+      "latn": "nigete ita hannin ga <b>taiho</b> saremashita.",
+      "en": "The runaway criminal has been arrested.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b5bef6bb9g.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05259A.mp3"
+    }
+  ]
+}

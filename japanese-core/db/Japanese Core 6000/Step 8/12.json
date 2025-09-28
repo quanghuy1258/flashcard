@@ -1,0 +1,18 @@
+{
+  "ja": "領事館",
+  "hrkt": "りょうじかん",
+  "latn": "ryoujikan",
+  "en": "consulate",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02853A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はアメリカ<b>領事館</b>に出かけたよ。",
+      "hrkt": "かれ は アメリカ <b>りょうじかん</b> に でかけた よ。",
+      "latn": "kare ha amerika <b>ryoujikan</b> ni dekaketa yo.",
+      "en": "He went to the American consulate.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02853A.mp3"
+    }
+  ]
+}

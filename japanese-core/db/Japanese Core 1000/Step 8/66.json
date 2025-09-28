@@ -1,0 +1,26 @@
+{
+  "ja": "みかん",
+  "hrkt": "みかん",
+  "latn": "mikan",
+  "en": "mandarin orange",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08867A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>みかん</b>を1つください。",
+      "hrkt": "<b>みかん</b> を ひとつ ください。",
+      "latn": "<b>mikan</b> wo hitotsu kudasai.",
+      "en": "Please give me a tangerine.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5900784.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08867A.mp3"
+    },
+    {
+      "ja": "うちの庭に<b>みかん</b>の木があります。",
+      "hrkt": "うち の にわ に <b>みかん</b> の き が あります。",
+      "latn": "uchi no niwa ni <b>mikan</b> no ki ga arimasu.",
+      "en": "There is a mandarin orange tree in our yard.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d37pes9t4g.mp3"
+    }
+  ]
+}

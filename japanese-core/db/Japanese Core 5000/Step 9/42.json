@@ -1,0 +1,18 @@
+{
+  "ja": "作用",
+  "hrkt": "さよう",
+  "latn": "sayou",
+  "en": "effect, acting on",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00768A.mp3",
+  "sentences": [
+    {
+      "ja": "この薬は神経に<b>作用</b>します。",
+      "hrkt": "この くすり は しんけい に <b>さよう</b> します。",
+      "latn": "kono kusuri ha shinkei ni <b>sayou</b> shimasu.",
+      "en": "This medicine acts on the nerves.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00768A.mp3"
+    }
+  ]
+}

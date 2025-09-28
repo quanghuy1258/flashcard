@@ -1,0 +1,26 @@
+{
+  "ja": "悪口",
+  "hrkt": "わるくち",
+  "latn": "warukuchi",
+  "en": "slander, abuse",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03976A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は決して人の<b>悪口</b>を言わないの。",
+      "hrkt": "かれ は けっして ひと の <b>わるくち</b> を いわない の。",
+      "latn": "kare ha kesshite hito no <b>warukuchi</b> wo iwanai no.",
+      "en": "He never speaks ill of other people.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4489378.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03976A.mp3"
+    },
+    {
+      "ja": "誰かが私の<b>悪口</b>を言っているらしい。",
+      "hrkt": "だれ か が わたし の <b>わるくち</b> を いって いる らしい。",
+      "latn": "dare ka ga watashi no <b>warukuchi</b> wo itte iru rashii.",
+      "en": "Someone seems to speak ill of me.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/35cgc79218.mp3"
+    }
+  ]
+}

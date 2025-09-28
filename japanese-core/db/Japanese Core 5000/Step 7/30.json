@@ -1,0 +1,18 @@
+{
+  "ja": "大雪",
+  "hrkt": "おおゆき",
+  "latn": "ooyuki",
+  "en": "heavy snow",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02235A.mp3",
+  "sentences": [
+    {
+      "ja": "10年ぶりの<b>大雪</b>です。",
+      "hrkt": "10 ねん ぶり の <b>おおゆき</b> です。",
+      "latn": "10 nen buri no <b>ooyuki</b> desu.",
+      "en": "We're having the heaviest snow in ten years.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02235A.mp3"
+    }
+  ]
+}

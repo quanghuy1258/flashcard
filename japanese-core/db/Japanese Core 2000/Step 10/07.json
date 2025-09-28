@@ -1,0 +1,26 @@
+{
+  "ja": "ぴったり",
+  "hrkt": "ぴったり",
+  "latn": "pittari",
+  "en": "exactly right, perfect",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02017A.mp3",
+  "sentences": [
+    {
+      "ja": "この服はあなたに<b>ぴったり</b>ですね。",
+      "hrkt": "この ふく は あなた に <b>ぴったり</b> です ね。",
+      "latn": "kono fuku ha anata ni <b>pittari</b> desu ne.",
+      "en": "These clothes suit you perfectly.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4620231.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02017A.mp3"
+    },
+    {
+      "ja": "母に<b>ぴったり</b>のプレゼントを見つけました。",
+      "hrkt": "はは に <b>ぴったり</b> の プレゼント を みつけました。",
+      "latn": "haha ni <b>pittari</b> no purezento wo mitsukemashita.",
+      "en": "I found the perfect gift for my mother.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/53el6b1470.mp3"
+    }
+  ]
+}

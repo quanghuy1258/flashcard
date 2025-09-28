@@ -1,0 +1,26 @@
+{
+  "ja": "暖房",
+  "hrkt": "だんぼう",
+  "latn": "danbou",
+  "en": "heating",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05545A.mp3",
+  "sentences": [
+    {
+      "ja": "冬は<b>暖房</b>が必要です。",
+      "hrkt": "ふゆ は <b>だんぼう</b> が ひつよう です。",
+      "latn": "fuyu ha <b>danbou</b> ga hitsuyou desu.",
+      "en": "Heating is necessary in winter.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4486093.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05545A.mp3"
+    },
+    {
+      "ja": "寒いので、<b>暖房</b>をつけてください。",
+      "hrkt": "さむい ので、<b>だんぼう</b> を つけて ください。",
+      "latn": "samui node,<b>danbou</b> wo tsukete kudasai.",
+      "en": "It's cold, so please turn on the heating.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/54d3cm97cg.mp3"
+    }
+  ]
+}

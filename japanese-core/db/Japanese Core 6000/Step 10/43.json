@@ -1,0 +1,18 @@
+{
+  "ja": "上がる",
+  "hrkt": "あがる",
+  "latn": "agaru",
+  "en": "be completed, be finished (literary)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00005A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は仕事が早く<b>上がった</b>んだ。",
+      "hrkt": "きょう は しごと が はやく <b>あがった</b> ん だ。",
+      "latn": "kyou ha shigoto ga hayaku <b>agatta</b> n da.",
+      "en": "I finished work early today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00005A.mp3"
+    }
+  ]
+}

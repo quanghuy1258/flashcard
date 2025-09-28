@@ -1,0 +1,26 @@
+{
+  "ja": "こう",
+  "hrkt": "こう",
+  "latn": "kou",
+  "en": "like this, such",
+  "pos": "Adverb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02846A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>こう</b>小さい字は読めない。",
+      "hrkt": "<b>こう</b> ちいさい じ は よめない。",
+      "latn": "<b>kou</b> chiisai ji ha yomenai.",
+      "en": "I can't read such small letters.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4832858.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02846A.mp3"
+    },
+    {
+      "ja": "母はいつも私に「<b>こう</b>しなさい。」と言います。",
+      "hrkt": "はは は いつも わたし に 「<b>こう</b> しなさい。」 と いいます。",
+      "latn": "haha ha itsumo watashi ni 「<b>kou</b> shinasai.」 to iimasu.",
+      "en": "My mother always tells to do things \"this (her) way.\"",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d38oe86egs.mp3"
+    }
+  ]
+}

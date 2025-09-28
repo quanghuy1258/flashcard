@@ -1,0 +1,26 @@
+{
+  "ja": "コート",
+  "hrkt": "コート",
+  "latn": "ko-to",
+  "en": "coat, jacket (loan word)",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03025A.mp3",
+  "sentences": [
+    {
+      "ja": "寒かったので<b>コート</b>を着た。",
+      "hrkt": "さむかった ので <b>コート</b> を きた。",
+      "latn": "samukatta node <b>ko-to</b> wo kita.",
+      "en": "I put on a coat because it was cold.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5616072.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03025A.mp3"
+    },
+    {
+      "ja": "この<b>コート</b>はとても暖かい。",
+      "hrkt": "この <b>コート</b> は とても あたたかい。",
+      "latn": "kono <b>ko-to</b> ha totemo atatakai.",
+      "en": "This coat is really warm.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5199873.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00142A.mp3"
+    }
+  ]
+}

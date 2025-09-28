@@ -1,0 +1,26 @@
+{
+  "ja": "痩せる",
+  "hrkt": "やせる",
+  "latn": "yaseru",
+  "en": "lose weight, become thin",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09416A.mp3",
+  "sentences": [
+    {
+      "ja": "私は少し<b>痩せました</b>。",
+      "hrkt": "わたし は すこし <b>やせました</b>。",
+      "latn": "watashi ha sukoshi <b>yasemashita</b>.",
+      "en": "I've lost a little weight.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5098090.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09416A.mp3"
+    },
+    {
+      "ja": "お医者さんに<b>痩せる</b>ように言われました。",
+      "hrkt": "おいしゃさん に <b>やせる</b> よう に いわれました。",
+      "latn": "oishasan ni <b>yaseru</b> you ni iwaremashita.",
+      "en": "I was told by my doctor to lose weight.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/92an3r2ci8.mp3"
+    }
+  ]
+}

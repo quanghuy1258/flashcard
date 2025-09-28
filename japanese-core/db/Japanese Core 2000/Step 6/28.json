@@ -1,0 +1,26 @@
+{
+  "ja": "真っ黒",
+  "hrkt": "まっくろ",
+  "latn": "makkuro",
+  "en": "black, jet-black",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08750A.mp3",
+  "sentences": [
+    {
+      "ja": "インクで手が<b>真っ黒</b>になった。",
+      "hrkt": "インク で て が <b>まっくろ</b> に なった 。",
+      "latn": "inku de te ga <b>makkuro</b> ni natta .",
+      "en": "My hands got all black with ink.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1031983.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08750A.mp3"
+    },
+    {
+      "ja": "あなたの髪は<b>真っ黒</b>ですね。",
+      "hrkt": "あなた の かみ は <b>まっくろ</b> です ね。",
+      "latn": "anata no kami ha <b>makkuro</b> desu ne.",
+      "en": "Your hair is jet-black.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e66477438k.mp3"
+    }
+  ]
+}

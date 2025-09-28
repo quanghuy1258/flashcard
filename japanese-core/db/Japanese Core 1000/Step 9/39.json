@@ -1,0 +1,26 @@
+{
+  "ja": "紹介",
+  "hrkt": "しょうかい",
+  "latn": "shoukai",
+  "en": "introduction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04138A.mp3",
+  "sentences": [
+    {
+      "ja": "両親に彼女を<b>紹介</b>した。",
+      "hrkt": "りょうしん に かのじょ を <b>しょうかい</b> した。",
+      "latn": "ryoushin ni kanojo wo <b>shoukai</b> shita.",
+      "en": "I introduced my girlfriend to my parents.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5343476.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04138A.mp3"
+    },
+    {
+      "ja": "誰かいい人を<b>紹介</b>してください。",
+      "hrkt": "だれ か いい ひと を <b>しょうかい</b> して ください。",
+      "latn": "dare ka ii hito wo <b>shoukai</b> shite kudasai.",
+      "en": "Please introduce me to someone nice.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/936ea4ebfo.mp3"
+    }
+  ]
+}

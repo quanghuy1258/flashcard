@@ -1,0 +1,26 @@
+{
+  "ja": "休日",
+  "hrkt": "きゅうじつ",
+  "latn": "kyuujitsu",
+  "en": "day off, holiday",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02208A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>休日</b>は家でよくテレビを見ます。",
+      "hrkt": "<b>きゅうじつ</b> は いえ で よく テレビ を みます。",
+      "latn": "<b>kyuujitsu</b> ha ie de yoku terebi wo mimasu.",
+      "en": "I often watch television at home on my days off.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3507470.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02208A.mp3"
+    },
+    {
+      "ja": "明後日は<b>休日</b>です。",
+      "hrkt": "あさって は <b>きゅうじつ</b> です。",
+      "latn": "asatte ha <b>kyuujitsu</b> desu.",
+      "en": "The day after tomorrow's a holiday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/597416.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00107A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "偶然",
+  "hrkt": "ぐうぜん",
+  "latn": "guuzen",
+  "en": "by chance, coincidence",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01240A.mp3",
+  "sentences": [
+    {
+      "ja": "街で<b>偶然</b>友人に会いました。",
+      "hrkt": "まち で <b>ぐうぜん</b> ゆうじん に あいました。",
+      "latn": "machi de <b>guuzen</b> yuujin ni aimashita.",
+      "en": "I ran into a friend of mine in the town.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/cl1b8e5tikeqg.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01240A.mp3"
+    },
+    {
+      "ja": "私たち、誕生日が同じだなんて<b>偶然</b>ですね。",
+      "hrkt": "わたし たち、たんじょうび が おなじ だ なんて <b>ぐうぜん</b> です ね。",
+      "latn": "watashi tachi,tanjoubi ga onaji da nante <b>guuzen</b> desu ne.",
+      "en": "It's a coincidence that our birthdays are same.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/c6a6713d8g.mp3"
+    }
+  ]
+}

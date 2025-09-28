@@ -1,0 +1,18 @@
+{
+  "ja": "地名",
+  "hrkt": "ちめい",
+  "latn": "chimei",
+  "en": "name of a place",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02157A.mp3",
+  "sentences": [
+    {
+      "ja": "その<b>地名</b>は聞いたことがないな。",
+      "hrkt": "その <b>ちめい</b> は きいた こと が ない な。",
+      "latn": "sono <b>chimei</b> ha kiita koto ga nai na.",
+      "en": "I've never heard of that place.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02157A.mp3"
+    }
+  ]
+}

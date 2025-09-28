@@ -1,0 +1,26 @@
+{
+  "ja": "建つ",
+  "hrkt": "たつ",
+  "latn": "tatsu",
+  "en": "be built, be erected",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW05376A.mp3",
+  "sentences": [
+    {
+      "ja": "ここに来年、家が<b>建ちます</b>。",
+      "hrkt": "ここ に らいねん、いえ が <b>たちます</b>。",
+      "latn": "koko ni rainen,ie ga <b>tachimasu</b>.",
+      "en": "Our house will be built here next year.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2936389.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS05376A.mp3"
+    },
+    {
+      "ja": "丘の上にホテルが<b>建ちました</b>ね。",
+      "hrkt": "おか の うえ に ホテル が <b>たちました</b> ね。",
+      "latn": "oka no ue ni hoteru ga <b>tachimashita</b> ne.",
+      "en": "A hotel was built on top of the hill.",
+      "image": "https://assets2.iknow.jp/assets/users/Ratatosukuru/9lck5gffr3q00.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02061A.mp3"
+    }
+  ]
+}

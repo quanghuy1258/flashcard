@@ -1,0 +1,26 @@
+{
+  "ja": "子供",
+  "hrkt": "こども",
+  "latn": "kodomo",
+  "en": "child",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03174A.mp3",
+  "sentences": [
+    {
+      "ja": "電車で<b>子供</b>が騒いでいた。",
+      "hrkt": "でんしゃ で <b>こども</b> が さわいで いた。",
+      "latn": "densha de <b>kodomo</b> ga sawaide ita.",
+      "en": "Children were making a lot of noise in the train.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5915583.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03174A.mp3"
+    },
+    {
+      "ja": "<b>子供</b>はカレーライスが好きです。",
+      "hrkt": "<b>こども</b> は カレーライス が すき です。",
+      "latn": "<b>kodomo</b> ha kare-raisu ga suki desu.",
+      "en": "Kids like curry and rice.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/431121.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01836A.mp3"
+    }
+  ]
+}

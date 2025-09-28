@@ -1,0 +1,26 @@
+{
+  "ja": "事故",
+  "hrkt": "じこ",
+  "latn": "jiko",
+  "en": "accident, trouble",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03656A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>事故</b>で怪我をしました。",
+      "hrkt": "かれ は <b>じこ</b> で けが を しました。",
+      "latn": "kare ha <b>jiko</b> de kega wo shimashita.",
+      "en": "He was injured in the accident.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3815685.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03656A.mp3"
+    },
+    {
+      "ja": "今朝、<b>事故</b>で電車が止まりました。",
+      "hrkt": "けさ、<b>じこ</b> で でんしゃ が とまりました。",
+      "latn": "kesa,<b>jiko</b> de densha ga tomarimashita.",
+      "en": "The train stopped this morning due to an accident.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1103664.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS06502A.mp3"
+    }
+  ]
+}

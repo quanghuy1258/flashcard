@@ -1,0 +1,18 @@
+{
+  "ja": "支出",
+  "hrkt": "ししゅつ",
+  "latn": "shishutsu",
+  "en": "expense, spending",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00905A.mp3",
+  "sentences": [
+    {
+      "ja": "今月のわが家の<b>支出</b>は15万円です。",
+      "hrkt": "こんげつ の わがや の <b>ししゅつ</b> は 15 まん えん です。",
+      "latn": "kongetsu no wagaya no <b>shishutsu</b> ha 15 man en desu.",
+      "en": "Our household expenses are 150,000 yen this month.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00905A.mp3"
+    }
+  ]
+}

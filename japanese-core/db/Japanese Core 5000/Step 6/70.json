@@ -1,0 +1,18 @@
+{
+  "ja": "仕組み",
+  "hrkt": "しくみ",
+  "latn": "shikumi",
+  "en": "construction, mechanism",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00555A.mp3",
+  "sentences": [
+    {
+      "ja": "この機械の<b>仕組み</b>は複雑だ。",
+      "hrkt": "この きかい の <b>しくみ</b> は ふくざつ だ。",
+      "latn": "kono kikai no <b>shikumi</b> ha fukuzatsu da.",
+      "en": "The mechanism of this machine is complex.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00555A.mp3"
+    }
+  ]
+}

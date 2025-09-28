@@ -1,0 +1,26 @@
+{
+  "ja": "全部",
+  "hrkt": "ぜんぶ",
+  "latn": "zenbu",
+  "en": "all, whole",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04928A.mp3",
+  "sentences": [
+    {
+      "ja": "それ、<b>全部</b>ください。",
+      "hrkt": "それ <b>ぜんぶ</b> ください。",
+      "latn": "sore <b>zenbu</b> kudasai.",
+      "en": "I'll take them all.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5689324.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04928A.mp3"
+    },
+    {
+      "ja": "私は平仮名を<b>全部</b>読めます。",
+      "hrkt": "わたし は ひらがな を <b>ぜんぶ</b> よめます。",
+      "latn": "watashi ha hiragana wo <b>zenbu</b> yomemasu.",
+      "en": "I can read all hiragana.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/654571.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07881A.mp3"
+    }
+  ]
+}

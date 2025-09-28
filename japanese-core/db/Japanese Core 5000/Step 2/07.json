@@ -1,0 +1,18 @@
+{
+  "ja": "合図",
+  "hrkt": "あいず",
+  "latn": "aizu",
+  "en": "signal, sign",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01915A.mp3",
+  "sentences": [
+    {
+      "ja": "車掌が発車の<b>合図</b>をしたよ。",
+      "hrkt": "しゃしょう が はっしゃ の <b>あいず</b> を した よ。",
+      "latn": "shashou ga hassha no <b>aizu</b> wo shita yo.",
+      "en": "The conductor gave a signal for departure.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01915A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "理屈",
+  "hrkt": "りくつ",
+  "latn": "rikutsu",
+  "en": "reason, logic",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01573A.mp3",
+  "sentences": [
+    {
+      "ja": "彼には<b>理屈</b>が通じない。",
+      "hrkt": "かれ に は <b>りくつ</b> が つうじない。",
+      "latn": "kare ni ha <b>rikutsu</b> ga tsuujinai.",
+      "en": "You can't reason with him.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01573A.mp3"
+    }
+  ]
+}

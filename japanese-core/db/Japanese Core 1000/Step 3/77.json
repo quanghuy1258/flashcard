@@ -1,0 +1,26 @@
+{
+  "ja": "こっち",
+  "hrkt": "こっち",
+  "latn": "kocchi",
+  "en": "here, this way (casual)",
+  "pos": "Pronoun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03152A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>こっち</b>に来てください。",
+      "hrkt": "<b>こっち</b> に きて ください 。",
+      "latn": "<b>kocchi</b> ni kite kudasai .",
+      "en": "Please come here.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5468064.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03152A.mp3"
+    },
+    {
+      "ja": "<b>こっち</b>を向いてください。",
+      "hrkt": "<b>こっち</b> を むいて ください。",
+      "latn": "<b>kocchi</b> wo muite kudasai.",
+      "en": "Please turn this way.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5088586.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09051A.mp3"
+    }
+  ]
+}

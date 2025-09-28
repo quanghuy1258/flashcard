@@ -1,0 +1,26 @@
+{
+  "ja": "別",
+  "hrkt": "べつ",
+  "latn": "betsu",
+  "en": "another, different",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08319A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>別</b>の本も見せてください。",
+      "hrkt": "<b>べつ</b> の ほん も みせて ください。",
+      "latn": "<b>betsu</b> no hon mo misete kudasai.",
+      "en": "Please show me another book.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4264478.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08319A.mp3"
+    },
+    {
+      "ja": "このTシャツの<b>別</b>の色はありますか。",
+      "hrkt": "この ティーシャツ の <b>べつ</b> の いろ は あります か。",
+      "latn": "kono ti-shatsu no <b>betsu</b> no iro ha arimasu ka.",
+      "en": "Do you have this T-shirt in another color?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/14fn441ung.mp3"
+    }
+  ]
+}

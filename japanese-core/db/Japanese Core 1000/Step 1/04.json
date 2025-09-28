@@ -1,0 +1,26 @@
+{
+  "ja": "これ",
+  "hrkt": "これ",
+  "latn": "kore",
+  "en": "this, this one",
+  "pos": "Pronoun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03226A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>これ</b>をください。",
+      "hrkt": "<b>これ</b> を ください。",
+      "latn": "<b>kore</b> wo kudasai.",
+      "en": "I'll have this please.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5413548.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03226A.mp3"
+    },
+    {
+      "ja": "<b>これ</b>はあなたの鞄ですか。",
+      "hrkt": "<b>これ</b> は あなた の かばん です か。",
+      "latn": "<b>kore</b> ha anata no kaban desu ka.",
+      "en": "Is this your bag?",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5542044.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00197A.mp3"
+    }
+  ]
+}

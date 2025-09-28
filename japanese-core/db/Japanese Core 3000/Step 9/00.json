@@ -1,0 +1,18 @@
+{
+  "ja": "章",
+  "hrkt": "しょう",
+  "latn": "shou",
+  "en": "chapter",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03222A.mp3",
+  "sentences": [
+    {
+      "ja": "この本の第6<b>章</b>が特に好きです。",
+      "hrkt": "この ほん の だい 6 <b>しょう</b> が とくに すき です。",
+      "latn": "kono hon no dai 6 <b>shou</b> ga tokuni suki desu.",
+      "en": "I especially like the chapter 6 of this book.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a465af4v6g.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03222A.mp3"
+    }
+  ]
+}

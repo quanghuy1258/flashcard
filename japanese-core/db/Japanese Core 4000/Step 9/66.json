@@ -1,0 +1,18 @@
+{
+  "ja": "開会",
+  "hrkt": "かいかい",
+  "latn": "kaikai",
+  "en": "opening, start (of a meeting etc.)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01501A.mp3",
+  "sentences": [
+    {
+      "ja": "運動会は9時に<b>開会</b>します。",
+      "hrkt": "うんどうかい は 9 じ に <b>かいかい</b> します。",
+      "latn": "undoukai ha 9 ji ni <b>kaikai</b> shimasu.",
+      "en": "The sports festival starts at nine o'clock.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01501A.mp3"
+    }
+  ]
+}

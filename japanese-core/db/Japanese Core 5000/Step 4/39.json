@@ -1,0 +1,18 @@
+{
+  "ja": "跳ねる",
+  "hrkt": "はねる",
+  "latn": "haneru",
+  "en": "bounce, hop",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02617A.mp3",
+  "sentences": [
+    {
+      "ja": "ウサギが雪の上を<b>跳ねて</b>いったよ。",
+      "hrkt": "ウサギ が ゆき の うえ を <b>はねて</b> いった よ。",
+      "latn": "usagi ga yuki no ue wo <b>hanete</b> itta yo.",
+      "en": "The rabbit hopped through the snow.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02617A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "生える",
+  "hrkt": "はえる",
+  "latn": "haeru",
+  "en": "grow, spring up",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01515A.mp3",
+  "sentences": [
+    {
+      "ja": "息子に新しい歯が<b>生えました</b>。",
+      "hrkt": "むすこ に あたらしい は が <b>はえました</b>。",
+      "latn": "musuko ni atarashii ha ga <b>haemashita</b>.",
+      "en": "My son is growing a new tooth.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01515A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "かみそり",
+  "hrkt": "かみそり",
+  "latn": "kamisori",
+  "en": "razor",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03274A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>かみそり</b>の刃で指を切りました。",
+      "hrkt": "<b>かみそり</b> の は で ゆび を きりました。",
+      "latn": "<b>kamisori</b> no ha de yubi wo kirimashita.",
+      "en": "I cut my finger with a razor blade.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a52m2l64bc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03274A.mp3"
+    }
+  ]
+}

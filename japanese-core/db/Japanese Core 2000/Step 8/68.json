@@ -1,0 +1,26 @@
+{
+  "ja": "汗",
+  "hrkt": "あせ",
+  "latn": "ase",
+  "en": "sweat",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01016A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は額に<b>汗</b>をかいていたの。",
+      "hrkt": "かれ は ひたい に <b>あせ</b> を かいて いた の。",
+      "latn": "kare ha hitai ni <b>ase</b> wo kaite ita no.",
+      "en": "He was sweating from his forehead.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/elaidd10qhu2c.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01016A.mp3"
+    },
+    {
+      "ja": "その選手はタオルで<b>汗</b>を拭きました。",
+      "hrkt": "その せんしゅ は タオル で <b>あせ</b> を ふきました。",
+      "latn": "sono senshu ha taoru de <b>ase</b> wo fukimashita.",
+      "en": "The athlete wiped the sweat with a towel.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/34b9772m2k.mp3"
+    }
+  ]
+}

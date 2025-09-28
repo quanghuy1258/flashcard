@@ -1,0 +1,26 @@
+{
+  "ja": "泊める",
+  "hrkt": "とめる",
+  "latn": "tomeru",
+  "en": "let (someone) stay over",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW06508A.mp3",
+  "sentences": [
+    {
+      "ja": "友達をうちに<b>泊めて</b>あげました。",
+      "hrkt": "ともだち を うち に <b>とめて</b> あげました。",
+      "latn": "tomodachi wo uchi ni <b>tomete</b> agemashita.",
+      "en": "I let my friend stay over at my house.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/3164137.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06508A.mp3"
+    },
+    {
+      "ja": "一晩<b>泊めて</b>ください。",
+      "hrkt": "ひと ばん <b>とめて</b> ください。",
+      "latn": "hito ban <b>tomete</b> kudasai.",
+      "en": "Please let me stay over for one night.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/75fvai8uqs.mp3"
+    }
+  ]
+}

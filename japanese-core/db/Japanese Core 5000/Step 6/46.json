@@ -1,0 +1,18 @@
+{
+  "ja": "日の入り",
+  "hrkt": "ひのいり",
+  "latn": "hinoiri",
+  "en": "sunset",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03385A.mp3",
+  "sentences": [
+    {
+      "ja": "今日の<b>日の入り</b>は午後6時でした。",
+      "hrkt": "きょう の <b>ひのいり</b> は ごご 6 じ でした。",
+      "latn": "kyou no <b>hinoiri</b> ha gogo 6 ji deshita.",
+      "en": "The sun set at 6 p.m. today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03385A.mp3"
+    }
+  ]
+}

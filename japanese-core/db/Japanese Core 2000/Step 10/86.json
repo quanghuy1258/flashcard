@@ -1,0 +1,26 @@
+{
+  "ja": "面接",
+  "hrkt": "めんせつ",
+  "latn": "mensetsu",
+  "en": "interview",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01430A.mp3",
+  "sentences": [
+    {
+      "ja": "新しい仕事の<b>面接</b>に行ってきました。",
+      "hrkt": "あたらしい しごと の <b>めんせつ</b> に いって きました。",
+      "latn": "atarashii shigoto no <b>mensetsu</b> ni itte kimashita.",
+      "en": "I had a interview for my new job.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5400258.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01430A.mp3"
+    },
+    {
+      "ja": "明日、成績について先生と<b>面接</b>があります。",
+      "hrkt": "あした、せいせき について せんせい と <b>めんせつ</b> が あります。",
+      "latn": "ashita,seiseki nitsuite sensei to <b>mensetsu</b> ga arimasu.",
+      "en": "I have an interview with the teacher about my grades tomorrow.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/84ddctafeo.mp3"
+    }
+  ]
+}

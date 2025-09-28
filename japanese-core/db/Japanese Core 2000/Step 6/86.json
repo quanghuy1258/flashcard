@@ -1,0 +1,26 @@
+{
+  "ja": "吹く",
+  "hrkt": "ふく",
+  "latn": "fuku",
+  "en": "blow, play (a wind instrument)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08007A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は北風が<b>吹いて</b>いる。",
+      "hrkt": "きょう は きたかぜ が <b>ふいて</b> いる。",
+      "latn": "kyou ha kitakaze ga <b>fuite</b> iru.",
+      "en": "The north wind is blowing today.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2229761.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08007A.mp3"
+    },
+    {
+      "ja": "姉がフルートを<b>吹いて</b>くれました。",
+      "hrkt": "あね が フルート を <b>ふいて</b> くれました。",
+      "latn": "ane ga furu-to wo <b>fuite</b> kuremashita.",
+      "en": "My sister played the flute for me.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d20qc3c0pg.mp3"
+    }
+  ]
+}

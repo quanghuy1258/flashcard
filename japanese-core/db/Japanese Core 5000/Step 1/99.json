@@ -1,0 +1,18 @@
+{
+  "ja": "綱",
+  "hrkt": "つな",
+  "latn": "tsuna",
+  "en": "thick rope",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03743A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>綱</b>は直径20cmあるそうです。",
+      "hrkt": "この <b>つな</b> は ちょっけい 20 センチ ある そう です。",
+      "latn": "kono <b>tsuna</b> ha chokkei 20 senchi aru sou desu.",
+      "en": "I hear the diameter of the thick rope is 20cm.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03743A.mp3"
+    }
+  ]
+}

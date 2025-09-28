@@ -1,0 +1,26 @@
+{
+  "ja": "静か",
+  "hrkt": "しずか",
+  "latn": "shizuka",
+  "en": "quiet",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW03696A.mp3",
+  "sentences": [
+    {
+      "ja": "今年の夏休みには<b>静か</b>な所へ行きたい。",
+      "hrkt": "ことし の なつやすみ に は <b>しずか</b>な ところ へ いきたい。",
+      "latn": "kotoshi no natsuyasumi ni ha <b>shizuka</b>na tokoro he ikitai.",
+      "en": "I want to go to a quiet place this summer vacation.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4923968.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS03696A.mp3"
+    },
+    {
+      "ja": "今日はみんな、<b>静か</b>ですね。",
+      "hrkt": "きょう は みんな、<b>しずか</b> です ね。",
+      "latn": "kyou ha minna,<b>shizuka</b> desu ne.",
+      "en": "Everybody is quiet today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/b36c185ihc.mp3"
+    }
+  ]
+}

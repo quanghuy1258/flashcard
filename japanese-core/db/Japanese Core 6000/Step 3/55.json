@@ -1,0 +1,18 @@
+{
+  "ja": "使い道",
+  "hrkt": "つかいみち",
+  "latn": "tsukaimichi",
+  "en": "usage",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02574A.mp3",
+  "sentences": [
+    {
+      "ja": "ボーナスの<b>使い道</b>を考えているところです。",
+      "hrkt": "ボーナス の <b>つかいみち</b> を かんがえて いる ところ です。",
+      "latn": "bo-nasu no <b>tsukaimichi</b> wo kangaete iru tokoro desu.",
+      "en": "I'm thinking about what I should use the bonus for.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02574A.mp3"
+    }
+  ]
+}

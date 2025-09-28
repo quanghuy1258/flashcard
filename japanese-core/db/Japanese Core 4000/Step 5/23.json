@@ -1,0 +1,18 @@
+{
+  "ja": "溢れる",
+  "hrkt": "あふれる",
+  "latn": "afureru",
+  "en": "overflow, flood",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03515A.mp3",
+  "sentences": [
+    {
+      "ja": "バスタブからお湯が<b>溢れました</b>。",
+      "hrkt": "バスタブ から おゆ が <b>あふれました</b> 。",
+      "latn": "basutabu kara oyu ga <b>afuremashita</b> .",
+      "en": "Hot water overflowed from the bathtub.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03515A.mp3"
+    }
+  ]
+}

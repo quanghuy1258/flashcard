@@ -1,0 +1,26 @@
+{
+  "ja": "祖母",
+  "hrkt": "そぼ",
+  "latn": "sobo",
+  "en": "(one's own) grandmother (formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05094A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>祖母</b>は京都で生まれました。",
+      "hrkt": "<b>そぼ</b> は きょうと で うまれました。",
+      "latn": "<b>sobo</b> ha kyouto de umaremashita.",
+      "en": "My grandmother was born in Kyoto.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5857384.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05094A.mp3"
+    },
+    {
+      "ja": "私の<b>祖母</b>は百才です。",
+      "hrkt": "わたし の <b>そぼ</b> は ひゃくさい です。",
+      "latn": "watashi no <b>sobo</b> ha hyakusai desu.",
+      "en": "My grandmother is 100 years old.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5431594.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07831A.mp3"
+    }
+  ]
+}

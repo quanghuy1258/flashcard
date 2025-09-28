@@ -1,0 +1,26 @@
+{
+  "ja": "本物",
+  "hrkt": "ほんもの",
+  "latn": "honmono",
+  "en": "real, truly worthy (things, people)",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01149A.mp3",
+  "sentences": [
+    {
+      "ja": "これは<b>本物</b>のダイヤモンドです。",
+      "hrkt": "これ は <b>ほんもの</b> の ダイヤモンド です。",
+      "latn": "kore ha <b>honmono</b> no daiyamondo desu.",
+      "en": "This is a real diamond.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3922263.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01149A.mp3"
+    },
+    {
+      "ja": "彼女の能力は<b>本物</b>だ。",
+      "hrkt": "かのじょ の のうりょく は <b>ほんもの</b> だ。",
+      "latn": "kanojo no nouryoku ha <b>honmono</b> da.",
+      "en": "Her abilities are the real deal.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a65c4757r8.mp3"
+    }
+  ]
+}

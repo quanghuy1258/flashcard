@@ -1,0 +1,18 @@
+{
+  "ja": "乗車",
+  "hrkt": "じょうしゃ",
+  "latn": "jousha",
+  "en": "boarding, getting on board",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02776A.mp3",
+  "sentences": [
+    {
+      "ja": "このバスの運賃は<b>乗車</b>するときに払います。",
+      "hrkt": "この バス の うんちん は <b>じょうしゃ</b> する とき に はらいます。",
+      "latn": "kono basu no unchin ha <b>jousha</b> suru toki ni haraimasu.",
+      "en": "On this bus, you pay the fare when you get on.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02776A.mp3"
+    }
+  ]
+}

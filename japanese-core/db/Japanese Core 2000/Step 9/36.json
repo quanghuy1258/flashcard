@@ -1,0 +1,26 @@
+{
+  "ja": "パーセント",
+  "hrkt": "パーセント",
+  "latn": "pa-sento",
+  "en": "percent",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07152A.mp3",
+  "sentences": [
+    {
+      "ja": "この村の80<b>パーセント</b>は老人です。",
+      "hrkt": "この むら の 80 <b>パーセント</b> は ろうじん です。",
+      "latn": "kono mura no 80 <b>pa-sento</b> ha roujin desu.",
+      "en": "80 percent of the people in this village are elderly.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4488706.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07152A.mp3"
+    },
+    {
+      "ja": "全体の80<b>パーセント</b>が完成しました。",
+      "hrkt": "ぜんたい の 80 <b>パーセント</b> が かんせい しました。",
+      "latn": "zentai no 80 <b>pa-sento</b> ga kansei shimashita.",
+      "en": "80 percent of the total has been completed.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4627765.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS04903A.mp3"
+    }
+  ]
+}

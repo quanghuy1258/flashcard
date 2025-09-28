@@ -1,0 +1,26 @@
+{
+  "ja": "未来",
+  "hrkt": "みらい",
+  "latn": "mirai",
+  "en": "future",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09008A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>未来</b>は誰にも分からない。",
+      "hrkt": "<b>みらい</b> は だれ に も わからない。",
+      "latn": "<b>mirai</b> ha dare ni mo wakaranai.",
+      "en": "No one knows the future.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2878321.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09008A.mp3"
+    },
+    {
+      "ja": "お二人の<b>未来</b>に乾杯しましょう。",
+      "hrkt": "おふたり の <b>みらい</b> に かんぱい しましょう。",
+      "latn": "ofutari no <b>mirai</b> ni kanpai shimashou.",
+      "en": "Let's drink a toast to the couple's future.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4275278.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01958A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "湿気",
+  "hrkt": "しっけ",
+  "latn": "shikke",
+  "en": "humidity, dampness",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03650A.mp3",
+  "sentences": [
+    {
+      "ja": "この部屋は暗くて<b>湿気</b>が多いね。",
+      "hrkt": "この へや は くらくて <b>しっけ</b> が おおい ね。",
+      "latn": "kono heya ha kurakute <b>shikke</b> ga ooi ne.",
+      "en": "This room is dark and damp.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03650A.mp3"
+    }
+  ]
+}

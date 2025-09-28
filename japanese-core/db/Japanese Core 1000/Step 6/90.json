@@ -1,0 +1,26 @@
+{
+  "ja": "零",
+  "hrkt": "れい",
+  "latn": "rei",
+  "en": "zero",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09899A.mp3",
+  "sentences": [
+    {
+      "ja": "今ちょうど<b>零</b>時です。",
+      "hrkt": "いま ちょうど <b>れい</b> じ です。",
+      "latn": "ima choudo <b>rei</b> ji desu.",
+      "en": "It's exactly midnight now.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4382829.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09899A.mp3"
+    },
+    {
+      "ja": "日本語のテストで<b>零</b>点を取った。",
+      "hrkt": "にほんご の テスト で <b>れい</b> てん を とった。",
+      "latn": "nihongo no tesuto de <b>rei</b> ten wo totta.",
+      "en": "I got a zero on the Japanese test.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/0808dq9pf8.mp3"
+    }
+  ]
+}

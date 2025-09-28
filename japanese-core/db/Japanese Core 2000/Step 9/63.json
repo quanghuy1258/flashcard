@@ -1,0 +1,26 @@
+{
+  "ja": "目的",
+  "hrkt": "もくてき",
+  "latn": "mokuteki",
+  "en": "objective, purpose",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09264A.mp3",
+  "sentences": [
+    {
+      "ja": "彼が来た<b>目的</b>が分かりません。",
+      "hrkt": "かれ が きた <b>もくてき</b> が わかりません。",
+      "latn": "kare ga kita <b>mokuteki</b> ga wakarimasen.",
+      "en": "I don't know the purpose of his visit.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5290011.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09264A.mp3"
+    },
+    {
+      "ja": "旅行の<b>目的</b>は何ですか。",
+      "hrkt": "りょこう の <b>もくてき</b> は なん です か。",
+      "latn": "ryokou no <b>mokuteki</b> ha nan desu ka.",
+      "en": "What's the purpose of your trip?",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e55qcq0nk4.mp3"
+    }
+  ]
+}

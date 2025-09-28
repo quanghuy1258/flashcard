@@ -1,0 +1,18 @@
+{
+  "ja": "退院",
+  "hrkt": "たいいん",
+  "latn": "taiin",
+  "en": "discharge from hospital",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05154A.mp3",
+  "sentences": [
+    {
+      "ja": "母が今日<b>退院</b>します。",
+      "hrkt": "はは が きょう <b>たいいん</b> します。",
+      "latn": "haha ga kyou <b>taiin</b> shimasu.",
+      "en": "My mother is being discharged from the hospital today.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/9bb5fv44c.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05154A.mp3"
+    }
+  ]
+}

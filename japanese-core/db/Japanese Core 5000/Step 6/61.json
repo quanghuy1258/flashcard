@@ -1,0 +1,18 @@
+{
+  "ja": "たく",
+  "hrkt": "たく",
+  "latn": "taku",
+  "en": "make (a fire)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05308A.mp3",
+  "sentences": [
+    {
+      "ja": "薪を集めて火を<b>たいた</b>よ。",
+      "hrkt": "まき を あつめて ひ を <b>たいた</b> よ。",
+      "latn": "maki wo atsumete hi wo <b>taita</b> yo.",
+      "en": "I gathered wood and made a fire.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02245A.mp3"
+    }
+  ]
+}

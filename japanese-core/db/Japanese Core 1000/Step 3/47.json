@@ -1,0 +1,26 @@
+{
+  "ja": "黄色い",
+  "hrkt": "きいろい",
+  "latn": "kiiroi",
+  "en": "yellow",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01986A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女に<b>黄色い</b>バラを買いました。",
+      "hrkt": "かのじょ に <b>きいろい</b> バラ を かいました。",
+      "latn": "kanojo ni <b>kiiroi</b> bara wo kaimashita.",
+      "en": "I bought her a yellow rose.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5140003.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01986A.mp3"
+    },
+    {
+      "ja": "私は<b>黄色い</b>Tシャツを買いました。",
+      "hrkt": "わたし は <b>きいろい</b> ティーシャツ を かいました。",
+      "latn": "watashi ha <b>kiiroi</b> ti-shatsu wo kaimashita.",
+      "en": "I bought a yellow T-shirt.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/450n9d6mb8.mp3"
+    }
+  ]
+}

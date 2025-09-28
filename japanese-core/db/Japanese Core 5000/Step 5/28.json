@@ -1,0 +1,18 @@
+{
+  "ja": "湯気",
+  "hrkt": "ゆげ",
+  "latn": "yuge",
+  "en": "steam, vapor",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03942A.mp3",
+  "sentences": [
+    {
+      "ja": "やかんから<b>湯気</b>が出ていますよ。",
+      "hrkt": "やかん から <b>ゆげ</b> が でて います よ。",
+      "latn": "yakan kara <b>yuge</b> ga dete imasu yo.",
+      "en": "Steam is coming out from the kettle.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03942A.mp3"
+    }
+  ]
+}

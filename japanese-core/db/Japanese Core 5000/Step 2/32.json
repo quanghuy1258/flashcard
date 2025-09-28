@@ -1,0 +1,18 @@
+{
+  "ja": "混ざる",
+  "hrkt": "まざる",
+  "latn": "mazaru",
+  "en": "be mixed, be stirred",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03317A.mp3",
+  "sentences": [
+    {
+      "ja": "水と油は<b>混ざりません</b>。",
+      "hrkt": "みず と あぶら は <b>まざりません</b>。",
+      "latn": "mizu to abura ha <b>mazarimasen</b>.",
+      "en": "Water and oil don't mix.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03317A.mp3"
+    }
+  ]
+}

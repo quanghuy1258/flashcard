@@ -1,0 +1,18 @@
+{
+  "ja": "字引",
+  "hrkt": "じびき",
+  "latn": "jibiki",
+  "en": "dictionary, encyclopedia",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03652A.mp3",
+  "sentences": [
+    {
+      "ja": "この漢字を<b>字引</b>で引いてみて。",
+      "hrkt": "この かんじ を <b>じびき</b> で ひいて みて。",
+      "latn": "kono kanji wo <b>jibiki</b> de hiite mite.",
+      "en": "Look up this kanji in a dictionary.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03652A.mp3"
+    }
+  ]
+}

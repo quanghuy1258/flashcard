@@ -1,0 +1,18 @@
+{
+  "ja": "笑顔",
+  "hrkt": "えがお",
+  "latn": "egao",
+  "en": "smiling face, smile",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00990A.mp3",
+  "sentences": [
+    {
+      "ja": "赤ちゃんの<b>笑顔</b>が可愛い。",
+      "hrkt": "あかちゃん の <b>えがお</b> が かわいい 。",
+      "latn": "akachan no <b>egao</b> ga kawaii .",
+      "en": "The baby's smile is cute.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/a47m2p43h4.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00990A.mp3"
+    }
+  ]
+}

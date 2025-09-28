@@ -1,0 +1,26 @@
+{
+  "ja": "ビデオ",
+  "hrkt": "ビデオ",
+  "latn": "bideo",
+  "en": "video",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07752A.mp3",
+  "sentences": [
+    {
+      "ja": "私はその番組を<b>ビデオ</b>に撮った。",
+      "hrkt": "わたし は その ばんぐみ を <b>ビデオ</b> に とった。",
+      "latn": "watashi ha sono bangumi wo <b>bideo</b> ni totta.",
+      "en": "I recorded that program on video.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2769722.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07752A.mp3"
+    },
+    {
+      "ja": "彼に<b>ビデオ</b>を借りました。",
+      "hrkt": "かれ に <b>ビデオ</b> を かりました。",
+      "latn": "kare ni <b>bideo</b> wo karimashita.",
+      "en": "I borrowed a video from him.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/1387285.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01827A.mp3"
+    }
+  ]
+}

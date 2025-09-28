@@ -1,0 +1,26 @@
+{
+  "ja": "片付ける",
+  "hrkt": "かたづける",
+  "latn": "katazukeru",
+  "en": "put in order, clean up",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW01647A.mp3",
+  "sentences": [
+    {
+      "ja": "早く部屋を<b>片付けなさい</b>。",
+      "hrkt": "はやく へや を <b>かたづけなさい</b>。",
+      "latn": "hayaku heya wo <b>katazukenasai</b>.",
+      "en": "Hurry and clean up your room.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/527614.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS01647A.mp3?1216574530"
+    },
+    {
+      "ja": "テーブルのお皿を<b>片付けて</b>ください。",
+      "hrkt": "テーブル の おさら を <b>かたづけて</b> ください。",
+      "latn": "te-buru no osara wo <b>katazukete</b> kudasai.",
+      "en": "Please clear the dishes on the table.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a21f5u31jo.mp3"
+    }
+  ]
+}

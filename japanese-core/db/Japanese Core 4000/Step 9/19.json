@@ -1,0 +1,18 @@
+{
+  "ja": "ハンドル",
+  "hrkt": "ハンドル",
+  "latn": "handoru",
+  "en": "steering wheel",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01972A.mp3",
+  "sentences": [
+    {
+      "ja": "この車は左<b>ハンドル</b>です。",
+      "hrkt": "この くるま は ひだり <b>ハンドル</b> です。",
+      "latn": "kono kuruma ha hidari <b>handoru</b> desu.",
+      "en": "This car has a steering wheel on the left.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01972A.mp3"
+    }
+  ]
+}

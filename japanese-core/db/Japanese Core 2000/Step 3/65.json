@@ -1,0 +1,26 @@
+{
+  "ja": "切符",
+  "hrkt": "きっぷ",
+  "latn": "kippu",
+  "en": "ticket",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW02121A.mp3",
+  "sentences": [
+    {
+      "ja": "東京までの<b>切符</b>を買った。",
+      "hrkt": "とうきょう まで の <b>きっぷ</b> を かった。",
+      "latn": "toukyou made no <b>kippu</b> wo katta.",
+      "en": "I bought a ticket to Tokyo.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2014426.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS02121A.mp3"
+    },
+    {
+      "ja": "往復<b>切符</b>をください。",
+      "hrkt": "おうふく <b>きっぷ</b> を ください。",
+      "latn": "oufuku <b>kippu</b> wo kudasai.",
+      "en": "I'd like a roundtrip ticket please.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3384572.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00955A.mp3"
+    }
+  ]
+}

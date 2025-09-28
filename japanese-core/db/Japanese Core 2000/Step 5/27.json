@@ -1,0 +1,26 @@
+{
+  "ja": "変",
+  "hrkt": "へん",
+  "latn": "hen",
+  "en": "strange, weird",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08341A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>変</b>な音が聞こえます。",
+      "hrkt": "<b>へん</b>な おと が きこえます。",
+      "latn": "<b>hen</b>na oto ga kikoemasu.",
+      "en": "I hear a strange sound.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4244866.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08341A.mp3"
+    },
+    {
+      "ja": "彼は最近、ちょっと<b>変</b>です。",
+      "hrkt": "かれ は さいきん、ちょっと <b>へん</b> です。",
+      "latn": "kare ha saikin,chotto <b>hen</b> desu.",
+      "en": "He's been a little weird lately.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/93c0csd3r4.mp3"
+    }
+  ]
+}

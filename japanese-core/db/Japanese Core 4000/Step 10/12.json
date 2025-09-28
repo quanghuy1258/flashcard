@@ -1,0 +1,18 @@
+{
+  "ja": "頭痛",
+  "hrkt": "ずつう",
+  "latn": "zutsuu",
+  "en": "headache",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02387A.mp3",
+  "sentences": [
+    {
+      "ja": "今日は<b>頭痛</b>がします。",
+      "hrkt": "きょう は <b>ずつう</b> が します。",
+      "latn": "kyou ha <b>zutsuu</b> ga shimasu.",
+      "en": "I have a headache today.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02387A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "こちら",
+  "hrkt": "こちら",
+  "latn": "kochira",
+  "en": "here, this way (polite)",
+  "pos": "Pronoun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW03139A.mp3",
+  "sentences": [
+    {
+      "ja": "受付は<b>こちら</b>です。",
+      "hrkt": "うけつけ は <b>こちら</b> です。",
+      "latn": "uketsuke ha <b>kochira</b> desu.",
+      "en": "The reception desk is this way.",
+      "image": "https://assets0.iknow.jp/assets/users/Smart.fm/al9h0o333k6rk.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03139A.mp3"
+    },
+    {
+      "ja": "<b>こちら</b>へどうぞ。",
+      "hrkt": "<b>こちら</b> へ どうぞ。",
+      "latn": "<b>kochira</b> he douzo.",
+      "en": "This way please.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4269887.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS06282A.mp3"
+    }
+  ]
+}

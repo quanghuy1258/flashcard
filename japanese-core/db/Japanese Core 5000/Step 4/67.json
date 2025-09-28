@@ -1,0 +1,18 @@
+{
+  "ja": "落第",
+  "hrkt": "らくだい",
+  "latn": "rakudai",
+  "en": "failing an exam",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02852A.mp3",
+  "sentences": [
+    {
+      "ja": "このテストに失敗したら<b>落第</b>です。",
+      "hrkt": "この テスト に しっぱい したら <b>らくだい</b> です。",
+      "latn": "kono tesuto ni shippai shitara <b>rakudai</b> desu.",
+      "en": "You're going to flunk if you fail this test.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02852A.mp3"
+    }
+  ]
+}

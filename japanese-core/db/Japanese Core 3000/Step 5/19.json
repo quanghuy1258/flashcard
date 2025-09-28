@@ -1,0 +1,18 @@
+{
+  "ja": "カタログ",
+  "hrkt": "カタログ",
+  "latn": "katarogu",
+  "en": "catalogue",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02001A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>カタログ</b>を見て注文したんだ。",
+      "hrkt": "<b>カタログ</b> を みて ちゅうもん した ん だ。",
+      "latn": "<b>katarogu</b> wo mite chuumon shita n da.",
+      "en": "I looked at the catalogue and placed an order.",
+      "image": "https://assets3.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/b4843p3nkg.jpeg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02001A.mp3"
+    }
+  ]
+}

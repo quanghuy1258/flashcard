@@ -1,0 +1,26 @@
+{
+  "ja": "雄",
+  "hrkt": "おす",
+  "latn": "osu",
+  "en": "male (animal)",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03556A.mp3",
+  "sentences": [
+    {
+      "ja": "うちの猫は<b>雄</b>です。",
+      "hrkt": "うち の ねこ は <b>おす</b> です。",
+      "latn": "uchi no neko ha <b>osu</b> desu.",
+      "en": "Our cat is male.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3838540.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03556A.mp3"
+    },
+    {
+      "ja": "あなたの犬は雌ですか、<b>雄</b>ですか。",
+      "hrkt": "あなた の いぬ は めす です か、<b>おす</b> です か。",
+      "latn": "anata no inu ha mesu desu ka,<b>osu</b> desu ka.",
+      "en": "Is your dog female or male?",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/446a52677o.mp3"
+    }
+  ]
+}

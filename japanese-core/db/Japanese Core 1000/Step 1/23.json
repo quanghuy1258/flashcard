@@ -1,0 +1,26 @@
+{
+  "ja": "まだ",
+  "hrkt": "まだ",
+  "latn": "mada",
+  "en": "(not) yet, still",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08718A.mp3",
+  "sentences": [
+    {
+      "ja": "宿題は<b>まだ</b>終わっていません。",
+      "hrkt": "しゅくだい は <b>まだ</b> おわって いません。",
+      "latn": "shukudai ha <b>mada</b> owatte imasen.",
+      "en": "I haven't finished my homework yet.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5450373.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08718A.mp3"
+    },
+    {
+      "ja": "彼は<b>まだ</b>若いです。",
+      "hrkt": "かれ は <b>まだ</b> わかい です。",
+      "latn": "kare ha <b>mada</b> wakai desu.",
+      "en": "He's still young.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6292700.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS10002A.mp3"
+    }
+  ]
+}

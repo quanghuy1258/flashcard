@@ -1,0 +1,18 @@
+{
+  "ja": "付近",
+  "hrkt": "ふきん",
+  "latn": "fukin",
+  "en": "neighborhood, vicinity",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00611A.mp3",
+  "sentences": [
+    {
+      "ja": "事件現場<b>付近</b>で怪しい人物を見た。",
+      "hrkt": "じけん げんば <b>ふきん</b> で あやしい じんぶつ を みた。",
+      "latn": "jiken genba <b>fukin</b> de ayashii jinbutsu wo mita.",
+      "en": "I saw a suspicious person in the vicinity of the crime scene.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00611A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "演劇",
+  "hrkt": "えんげき",
+  "latn": "engeki",
+  "en": "drama, theatrical performance",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01262A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>演劇</b>を学んでいます。",
+      "hrkt": "かのじょ は <b>えんげき</b> を まなんで います。",
+      "latn": "kanojo ha <b>engeki</b> wo manande imasu.",
+      "en": "She's studying drama.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01262A.mp3"
+    }
+  ]
+}

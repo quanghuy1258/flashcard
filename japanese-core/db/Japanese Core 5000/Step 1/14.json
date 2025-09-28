@@ -1,0 +1,18 @@
+{
+  "ja": "鐘",
+  "hrkt": "かね",
+  "latn": "kane",
+  "en": "bell, gong",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01981A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>鐘</b>の音はとてもきれいですね。",
+      "hrkt": "この <b>かね</b> の ね は とても きれい です ね。",
+      "latn": "kono <b>kane</b> no ne ha totemo kirei desu ne.",
+      "en": "The sound of this bell is very beautiful.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01981A.mp3"
+    }
+  ]
+}

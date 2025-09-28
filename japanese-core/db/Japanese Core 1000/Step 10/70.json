@@ -1,0 +1,26 @@
+{
+  "ja": "火",
+  "hrkt": "ひ",
+  "latn": "hi",
+  "en": "fire, flame",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW07593A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>火</b>を消して。",
+      "hrkt": "<b>ひ</b> を けして。",
+      "latn": "<b>hi</b> wo keshite.",
+      "en": "Put out the fire.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/2811584.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS07593A.mp3"
+    },
+    {
+      "ja": "その家は<b>火</b>の海となった。",
+      "hrkt": "その いえ は <b>ひ</b> の うみ と なった。",
+      "latn": "sono ie ha <b>hi</b> no umi to natta.",
+      "en": "The house was engulfed in flames.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/a49i3gfpgo.mp3"
+    }
+  ]
+}

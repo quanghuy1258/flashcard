@@ -1,0 +1,18 @@
+{
+  "ja": "ケース",
+  "hrkt": "ケース",
+  "latn": "ke-su",
+  "en": "case",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00197A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>ケース</b>にはCDが50枚入ります。",
+      "hrkt": "この <b>ケース</b> に は CD が 50 まい はいります。",
+      "latn": "kono <b>ke-su</b> ni ha CD ga 50 mai hairimasu.",
+      "en": "50 CDs can fit in this case.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/02340c9nbc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00197A.mp3"
+    }
+  ]
+}

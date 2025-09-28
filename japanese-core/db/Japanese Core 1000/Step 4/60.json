@@ -1,0 +1,26 @@
+{
+  "ja": "一日",
+  "hrkt": "ついたち",
+  "latn": "tsuitachi",
+  "en": "first of the month",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05789A.mp3",
+  "sentences": [
+    {
+      "ja": "来月の<b>一日</b>は空いていますか。",
+      "hrkt": "らいげつ の <b>ついたち</b> は あいて います か。",
+      "latn": "raigetsu no <b>tsuitachi</b> ha aite imasu ka.",
+      "en": "Are you available on the first of next month?",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4822491.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05789A.mp3"
+    },
+    {
+      "ja": "日本でも四月<b>一日</b>はエイプリルフールです。",
+      "hrkt": "にほん で も し がつ <b>ついたち</b> は エイプリルフール です。",
+      "latn": "nihon de mo shi gatsu <b>tsuitachi</b> ha eipurirufu-ru desu.",
+      "en": "April 1st is April Fool in Japan as well.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/e4611q3crg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "限度",
+  "hrkt": "げんど",
+  "latn": "gendo",
+  "en": "limit, boundary",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01229A.mp3",
+  "sentences": [
+    {
+      "ja": "物事には<b>限度</b>があります。",
+      "hrkt": "ものごと に は <b>げんど</b> が あります。",
+      "latn": "monogoto ni ha <b>gendo</b> ga arimasu.",
+      "en": "Every matter has its limit.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01229A.mp3"
+    }
+  ]
+}

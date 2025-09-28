@@ -1,0 +1,18 @@
+{
+  "ja": "目覚まし",
+  "hrkt": "めざまし",
+  "latn": "mezamashi",
+  "en": "waking up",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03400A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>目覚まし</b>にコーヒーを飲んだの。",
+      "hrkt": "<b>めざまし</b> に コーヒー を のんだ の。",
+      "latn": "<b>mezamashi</b> ni ko-hi- wo nonda no.",
+      "en": "I drank coffee to wake myself up.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03400A.mp3"
+    }
+  ]
+}

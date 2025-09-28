@@ -1,0 +1,18 @@
+{
+  "ja": "成人",
+  "hrkt": "せいじん",
+  "latn": "seijin",
+  "en": "adult, to be of age",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01680A.mp3",
+  "sentences": [
+    {
+      "ja": "娘が今年<b>成人</b>します。",
+      "hrkt": "むすめ が ことし <b>せいじん</b> します。",
+      "latn": "musume ga kotoshi <b>seijin</b> shimasu.",
+      "en": "My daughter will come of age this year.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01680A.mp3"
+    }
+  ]
+}

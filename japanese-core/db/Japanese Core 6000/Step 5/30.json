@@ -1,0 +1,18 @@
+{
+  "ja": "金利",
+  "hrkt": "きんり",
+  "latn": "kinri",
+  "en": "interest, interest rate",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00099A.mp3",
+  "sentences": [
+    {
+      "ja": "最近、銀行の<b>金利</b>が少し上がった。",
+      "hrkt": "さいきん、ぎんこう の <b>きんり</b> が すこし あがった。",
+      "latn": "saikin,ginkou no <b>kinri</b> ga sukoshi agatta.",
+      "en": "The bank's interest rates went up a little bit recently.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00099A.mp3"
+    }
+  ]
+}

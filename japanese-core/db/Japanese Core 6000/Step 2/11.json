@@ -1,0 +1,18 @@
+{
+  "ja": "物体",
+  "hrkt": "ぶったい",
+  "latn": "buttai",
+  "en": "object, physical body",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00726A.mp3",
+  "sentences": [
+    {
+      "ja": "謎の<b>物体</b>が空を飛んでいます。",
+      "hrkt": "なぞ の <b>ぶったい</b> が そら を とんで います。",
+      "latn": "nazo no <b>buttai</b> ga sora wo tonde imasu.",
+      "en": "A mysterious object is flying in the sky.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00726A.mp3"
+    }
+  ]
+}

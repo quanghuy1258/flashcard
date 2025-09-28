@@ -1,0 +1,18 @@
+{
+  "ja": "理系",
+  "hrkt": "りけい",
+  "latn": "rikei",
+  "en": "science, in science",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03119A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>理系</b>の学生です。",
+      "hrkt": "かれ は <b>りけい</b> の がくせい です。",
+      "latn": "kare ha <b>rikei</b> no gakusei desu.",
+      "en": "He's a student who majors in science.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03119A.mp3"
+    }
+  ]
+}

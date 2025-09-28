@@ -1,0 +1,18 @@
+{
+  "ja": "食う",
+  "hrkt": "くう",
+  "latn": "kuu",
+  "en": "eat (casual)",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00837A.mp3",
+  "sentences": [
+    {
+      "ja": "腹一杯<b>食った</b>。",
+      "hrkt": "はらいっぱい <b>くった</b>。",
+      "latn": "haraippai <b>kutta</b>.",
+      "en": "I ate heartily.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f43n1v4320.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00837A.mp3"
+    }
+  ]
+}

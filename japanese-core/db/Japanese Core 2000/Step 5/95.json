@@ -1,0 +1,26 @@
+{
+  "ja": "くすぐったい",
+  "hrkt": "くすぐったい",
+  "latn": "kusuguttai",
+  "en": "ticklish",
+  "pos": "Adjective",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03283A.mp3",
+  "sentences": [
+    {
+      "ja": "犬に顔をなめられて<b>くすぐったい</b>よ。",
+      "hrkt": "いぬ に かお を なめられて <b>くすぐったい</b> よ。",
+      "latn": "inu ni kao wo namerarete <b>kusuguttai</b> yo.",
+      "en": "It tickles to have my face licked by a dog.",
+      "image": "https://assets3.iknow.jp/assets/users/Smart.fm/6lfi7da0rh550.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03283A.mp3"
+    },
+    {
+      "ja": "<b>くすぐったい</b>から足の裏を触らないで。",
+      "hrkt": "<b>くすぐったい</b> から あし の うら を さわらないで。",
+      "latn": "<b>kusuguttai</b> kara ashi no ura wo sawaranaide.",
+      "en": "Don't touch my soles because it tickles.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/a6e70891bg.mp3"
+    }
+  ]
+}

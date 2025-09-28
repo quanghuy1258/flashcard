@@ -1,0 +1,26 @@
+{
+  "ja": "教室",
+  "hrkt": "きょうしつ",
+  "latn": "kyoushitsu",
+  "en": "classroom, class",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW02258A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>教室</b>は3階にあります。",
+      "hrkt": "わたし の <b>きょうしつ</b> は 3 がい に あります。",
+      "latn": "watashi no <b>kyoushitsu</b> ha 3 gai ni arimasu.",
+      "en": "My classroom is on the third floor.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4647296.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02258A.mp3"
+    },
+    {
+      "ja": "その学校は<b>教室</b>がとても広いです。",
+      "hrkt": "その がっこう は <b>きょうしつ</b> が とても ひろい です。",
+      "latn": "sono gakkou ha <b>kyoushitsu</b> ga totemo hiroi desu.",
+      "en": "Classrooms in the school are very spacious.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/542a4i16hk.mp3"
+    }
+  ]
+}

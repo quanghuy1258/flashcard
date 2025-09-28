@@ -1,0 +1,26 @@
+{
+  "ja": "書き取る",
+  "hrkt": "かきとる",
+  "latn": "kakitoru",
+  "en": "write down, note down",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01478A.mp3",
+  "sentences": [
+    {
+      "ja": "話のポイントを<b>書き取った</b>。",
+      "hrkt": "はなし の ポイント を <b>かきとった</b> 。",
+      "latn": "hanashi no pointo wo <b>kakitotta</b> .",
+      "en": "I wrote down the main points of the speech.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4706304.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01478A.mp3"
+    },
+    {
+      "ja": "これから言う文章を<b>書き取って</b>ください。",
+      "hrkt": "これから いう ぶんしょう を <b>かきとって</b> ください。",
+      "latn": "korekara iu bunshou wo <b>kakitotte</b> kudasai.",
+      "en": "Please write down what I'll say from now.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/620v6p9m28.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "嬉しい",
+  "hrkt": "うれしい",
+  "latn": "ureshii",
+  "en": "happy, glad",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00802A.mp3",
+  "sentences": [
+    {
+      "ja": "彼に会えて<b>嬉しかった</b>。",
+      "hrkt": "かれ に あえて <b>うれしかった</b>。",
+      "latn": "kare ni aete <b>ureshikatta</b>.",
+      "en": "I was glad to meet him.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/3638076.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00802A.mp3"
+    },
+    {
+      "ja": "今日は授業がなくて<b>嬉しい</b>です。",
+      "hrkt": "きょう は じゅぎょう が なくて <b>うれしい</b> です。",
+      "latn": "kyou ha jugyou ga nakute <b>ureshii</b> desu.",
+      "en": "I'm glad I don't have a class today.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/d5eob0e11k.mp3"
+    }
+  ]
+}

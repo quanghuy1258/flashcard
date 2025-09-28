@@ -1,0 +1,18 @@
+{
+  "ja": "姓",
+  "hrkt": "せい",
+  "latn": "sei",
+  "en": "family name, surname",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03450A.mp3",
+  "sentences": [
+    {
+      "ja": "結婚して<b>姓</b>が変わりました。",
+      "hrkt": "けっこん して <b>せい</b> が かわりました。",
+      "latn": "kekkon shite <b>sei</b> ga kawarimashita.",
+      "en": "I got married and changed my family name.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03450A.mp3"
+    }
+  ]
+}

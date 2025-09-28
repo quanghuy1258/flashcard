@@ -1,0 +1,18 @@
+{
+  "ja": "出力",
+  "hrkt": "しゅつりょく",
+  "latn": "shutsuryoku",
+  "en": "output",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00084A.mp3",
+  "sentences": [
+    {
+      "ja": "このプリンターで写真を<b>出力</b>できます。",
+      "hrkt": "この プリンター で しゃしん を <b>しゅつりょく</b> できます。",
+      "latn": "kono purinta- de shashin wo <b>shutsuryoku</b> dekimasu.",
+      "en": "You can output pictures with this printer.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00084A.mp3"
+    }
+  ]
+}

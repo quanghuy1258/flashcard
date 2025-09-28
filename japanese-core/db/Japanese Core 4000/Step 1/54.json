@@ -1,0 +1,18 @@
+{
+  "ja": "出来事",
+  "hrkt": "できごと",
+  "latn": "dekigoto",
+  "en": "occurrence, incident",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00986A.mp3",
+  "sentences": [
+    {
+      "ja": "面白い<b>出来事</b>がありました。",
+      "hrkt": "おもしろい <b>できごと</b> が ありました。",
+      "latn": "omoshiroi <b>dekigoto</b> ga arimashita.",
+      "en": "Something interesting happened.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f1fe0jekc8.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00986A.mp3"
+    }
+  ]
+}

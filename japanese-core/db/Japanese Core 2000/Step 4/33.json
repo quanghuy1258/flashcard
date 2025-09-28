@@ -1,0 +1,26 @@
+{
+  "ja": "冷房",
+  "hrkt": "れいぼう",
+  "latn": "reibou",
+  "en": "air conditioning (cooling)",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW09918A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>冷房</b>を入れてください。",
+      "hrkt": "<b>れいぼう</b> を いれて ください。",
+      "latn": "<b>reibou</b> wo irete kudasai.",
+      "en": "Please turn on the air-conditioner.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4257713.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09918A.mp3"
+    },
+    {
+      "ja": "<b>冷房</b>を消してください。寒いです。",
+      "hrkt": "<b>れいぼう</b> を けして ください。さむい です。",
+      "latn": "<b>reibou</b> wo keshite kudasai.samui desu.",
+      "en": "Please turn off the air conditioning. I'm cold.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/235e6c1lu0.mp3"
+    }
+  ]
+}

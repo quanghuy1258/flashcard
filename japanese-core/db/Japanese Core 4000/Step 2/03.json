@@ -1,0 +1,18 @@
+{
+  "ja": "説",
+  "hrkt": "せつ",
+  "latn": "setsu",
+  "en": "theory, opinion",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00625A.mp3",
+  "sentences": [
+    {
+      "ja": "私は彼の<b>説</b>が正しいと思う。",
+      "hrkt": "わたし は かれ の <b>せつ</b> が ただしい と おもう。",
+      "latn": "watashi ha kare no <b>setsu</b> ga tadashii to omou.",
+      "en": "I think that his theory is correct.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/71fe4s337o.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00625A.mp3"
+    }
+  ]
+}

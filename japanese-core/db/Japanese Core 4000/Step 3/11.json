@@ -1,0 +1,18 @@
+{
+  "ja": "抵抗",
+  "hrkt": "ていこう",
+  "latn": "teikou",
+  "en": "resistance",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00504A.mp3",
+  "sentences": [
+    {
+      "ja": "犯人は警察に<b>抵抗</b>したの。",
+      "hrkt": "はんにん は けいさつ に <b>ていこう</b> した の。",
+      "latn": "hannin ha keisatsu ni <b>teikou</b> shita no.",
+      "en": "The criminal resisted the police.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00504A.mp3"
+    }
+  ]
+}

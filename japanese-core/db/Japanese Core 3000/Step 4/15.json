@@ -1,0 +1,18 @@
+{
+  "ja": "学歴",
+  "hrkt": "がくれき",
+  "latn": "gakureki",
+  "en": "educational background",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01611A.mp3",
+  "sentences": [
+    {
+      "ja": "その職は大卒の<b>学歴</b>が必要だ。",
+      "hrkt": "その しょく は だいそつ の <b>がくれき</b> が ひつよう だ。",
+      "latn": "sono shoku ha daisotsu no <b>gakureki</b> ga hitsuyou da.",
+      "en": "That job requires a college diploma.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/2b572e5g0.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01611A.mp3"
+    }
+  ]
+}

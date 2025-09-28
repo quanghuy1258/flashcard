@@ -1,0 +1,18 @@
+{
+  "ja": "故郷",
+  "hrkt": "こきょう",
+  "latn": "kokyou",
+  "en": "hometown, birthplace (formal)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00633A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は久しぶりに<b>故郷</b>に帰りました。",
+      "hrkt": "かのじょ は ひさしぶり に <b>こきょう</b> に かえりました。",
+      "latn": "kanojo ha hisashiburi ni <b>kokyou</b> ni kaerimashita.",
+      "en": "She returned to her hometown after a long time.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00633A.mp3"
+    }
+  ]
+}

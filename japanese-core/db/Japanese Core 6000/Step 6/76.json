@@ -1,0 +1,18 @@
+{
+  "ja": "北東",
+  "hrkt": "ほくとう",
+  "latn": "hokutou",
+  "en": "northeast",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01930A.mp3",
+  "sentences": [
+    {
+      "ja": "町の<b>北東</b>に山があります。",
+      "hrkt": "まち の <b>ほくとう</b> に やま が あります。",
+      "latn": "machi no <b>hokutou</b> ni yama ga arimasu.",
+      "en": "There's a mountain in the northeastern part of the town.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01930A.mp3"
+    }
+  ]
+}

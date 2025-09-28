@@ -1,0 +1,26 @@
+{
+  "ja": "金額",
+  "hrkt": "きんがく",
+  "latn": "kingaku",
+  "en": "amount of money, sum",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00485A.mp3",
+  "sentences": [
+    {
+      "ja": "レシートで買い物の<b>金額</b>を確かめたよ。",
+      "hrkt": "レシート で かいもの の <b>きんがく</b> を たしかめた よ。",
+      "latn": "reshi-to de kaimono no <b>kingaku</b> wo tashikameta yo.",
+      "en": "I confirmed the cost of the shopping with the receipt.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4792973.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00485A.mp3"
+    },
+    {
+      "ja": "この絵はかなりの<b>金額</b>でした。",
+      "hrkt": "この え は かなり の <b>きんがく</b> でした。",
+      "latn": "kono e ha kanari no <b>kingaku</b> deshita.",
+      "en": "This painting cost quite a lot of money.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/15bqcdabb4.mp3"
+    }
+  ]
+}

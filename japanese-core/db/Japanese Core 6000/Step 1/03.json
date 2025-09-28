@@ -1,0 +1,18 @@
+{
+  "ja": "合成",
+  "hrkt": "ごうせい",
+  "latn": "gousei",
+  "en": "composition, synthesis",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01131A.mp3",
+  "sentences": [
+    {
+      "ja": "このソフトで画像を<b>合成</b>できます。",
+      "hrkt": "この ソフト で がぞう を <b>ごうせい</b> できます。",
+      "latn": "kono sofuto de gazou wo <b>gousei</b> dekimasu.",
+      "en": "Images can be synthesized with this software.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01131A.mp3"
+    }
+  ]
+}

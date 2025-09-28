@@ -1,0 +1,26 @@
+{
+  "ja": "失敗",
+  "hrkt": "しっぱい",
+  "latn": "shippai",
+  "en": "failure, mistake",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00199A.mp3",
+  "sentences": [
+    {
+      "ja": "一度の<b>失敗</b>であきらめてはいけないよ。",
+      "hrkt": "いちど の <b>しっぱい</b> で あきらめて は いけない よ。",
+      "latn": "ichido no <b>shippai</b> de akiramete ha ikenai yo.",
+      "en": "You shouldn't give up just because you've failed once.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3443895.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00199A.mp3"
+    },
+    {
+      "ja": "<b>失敗</b>は成功の母。",
+      "hrkt": "<b>しっぱい</b> は せいこう の はは。",
+      "latn": "<b>shippai</b> ha seikou no haha.",
+      "en": "Failure is the mother of success.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/759m3aaptk.mp3"
+    }
+  ]
+}

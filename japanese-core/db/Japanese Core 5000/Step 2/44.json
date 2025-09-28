@@ -1,0 +1,18 @@
+{
+  "ja": "向かい",
+  "hrkt": "むかい",
+  "latn": "mukai",
+  "en": "opposite side",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03175A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>向かい</b>の席が空いていますよ。",
+      "hrkt": "<b>むかい</b> の せき が あいて います よ。",
+      "latn": "<b>mukai</b> no seki ga aite imasu yo.",
+      "en": "The seat opposite is vacant.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03175A.mp3"
+    }
+  ]
+}

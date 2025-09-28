@@ -1,0 +1,26 @@
+{
+  "ja": "越える",
+  "hrkt": "こえる",
+  "latn": "koeru",
+  "en": "go over, go across",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW03021A.mp3",
+  "sentences": [
+    {
+      "ja": "私たちは高い山を<b>越えました</b>。",
+      "hrkt": "わたし たち は たかい やま を <b>こえました</b>。",
+      "latn": "watashi tachi ha takai yama wo <b>koemashita</b>.",
+      "en": "We went over a high mountain.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1488158.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS03021A.mp3"
+    },
+    {
+      "ja": "この犬は、アメリカから海を<b>越えて</b>来ました。",
+      "hrkt": "この いぬ は 、 アメリカ から うみ を <b>こえて</b> きました。",
+      "latn": "kono inu ha , amerika kara umi wo <b>koete</b> kimashita.",
+      "en": "This dog came across the ocean from America.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/f6370ibci8.mp3"
+    }
+  ]
+}

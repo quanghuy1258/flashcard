@@ -1,0 +1,26 @@
+{
+  "ja": "眠る",
+  "hrkt": "ねむる",
+  "latn": "nemuru",
+  "en": "sleep, lie idle",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07013A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日は8時間<b>眠りました</b>。",
+      "hrkt": "きのう は 8 じかん <b>ねむりました</b>。",
+      "latn": "kinou ha 8 jikan <b>nemurimashita</b>.",
+      "en": "I slept for eight hours yesterday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5437706.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07013A.mp3"
+    },
+    {
+      "ja": "ベッドで赤ちゃんが<b>眠って</b>います。",
+      "hrkt": "ベッド で あかちゃん が <b>ねむって</b> います。",
+      "latn": "beddo de akachan ga <b>nemutte</b> imasu.",
+      "en": "The baby's sleeping in the bed.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5363353.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00047A.mp3"
+    }
+  ]
+}

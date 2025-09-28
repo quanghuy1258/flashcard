@@ -1,0 +1,18 @@
+{
+  "ja": "従業員",
+  "hrkt": "じゅうぎょういん",
+  "latn": "juugyouin",
+  "en": "employee, worker",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00223A.mp3",
+  "sentences": [
+    {
+      "ja": "会社は<b>従業員</b>の数を増やす予定だ。",
+      "hrkt": "かいしゃ は <b>じゅうぎょういん</b> の かず を ふやす よてい だ。",
+      "latn": "kaisha ha <b>juugyouin</b> no kazu wo fuyasu yotei da.",
+      "en": "The company plans to increase the number of employees.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00223A.mp3"
+    }
+  ]
+}

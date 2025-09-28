@@ -1,0 +1,18 @@
+{
+  "ja": "値する",
+  "hrkt": "あたいする",
+  "latn": "ataisuru",
+  "en": "be worth, deserve",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02037A.mp3",
+  "sentences": [
+    {
+      "ja": "その絵は一見に<b>値します</b>よ。",
+      "hrkt": "その え は いっけん に <b>あたいします</b> よ。",
+      "latn": "sono e ha ikken ni <b>ataishimasu</b> yo.",
+      "en": "That painting is worth a look.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02037A.mp3"
+    }
+  ]
+}

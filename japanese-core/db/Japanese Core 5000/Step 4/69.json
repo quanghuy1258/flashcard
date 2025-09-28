@@ -1,0 +1,18 @@
+{
+  "ja": "砕ける",
+  "hrkt": "くだける",
+  "latn": "kudakeru",
+  "en": "be crushed, break",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02860A.mp3",
+  "sentences": [
+    {
+      "ja": "石が粉々に<b>砕けました</b>ね。",
+      "hrkt": "いし が こなごな に <b>くだけました</b> ね。",
+      "latn": "ishi ga konagona ni <b>kudakemashita</b> ne.",
+      "en": "The stone was crushed into pieces.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02860A.mp3"
+    }
+  ]
+}

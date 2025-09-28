@@ -1,0 +1,18 @@
+{
+  "ja": "消火",
+  "hrkt": "しょうか",
+  "latn": "shouka",
+  "en": "fire extinction",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01699A.mp3",
+  "sentences": [
+    {
+      "ja": "火事は無事<b>消火</b>されました。",
+      "hrkt": "かじ は ぶじ <b>しょうか</b> されました。",
+      "latn": "kaji ha buji <b>shouka</b> saremashita.",
+      "en": "The fire was safely extinguished.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01699A.mp3"
+    }
+  ]
+}

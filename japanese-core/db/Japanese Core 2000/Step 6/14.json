@@ -1,0 +1,26 @@
+{
+  "ja": "不便",
+  "hrkt": "ふべん",
+  "latn": "fuben",
+  "en": "inconvenient",
+  "pos": "Adjectival Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW08153A.mp3",
+  "sentences": [
+    {
+      "ja": "私の家は駅から遠くて<b>不便</b>です。",
+      "hrkt": "わたし の いえ は えき から とおくて <b>ふべん</b> です。",
+      "latn": "watashi no ie ha eki kara tookute <b>fuben</b> desu.",
+      "en": "My house is inconveniently located far from the station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5702300.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS08153A.mp3"
+    },
+    {
+      "ja": "母は一人で<b>不便</b>な生活をしています。",
+      "hrkt": "はは は ひとり で <b>ふべん</b>な せいかつ を して います。",
+      "latn": "haha ha hitori de <b>fuben</b>na seikatsu wo shite imasu.",
+      "en": "My mother leads an inconvenient life alone.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/f65eef14sc.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "開く",
+  "hrkt": "あく",
+  "latn": "aku",
+  "en": "open",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW00067A.mp3",
+  "sentences": [
+    {
+      "ja": "電車のドアが<b>開きました</b>。",
+      "hrkt": "でんしゃ の ドア が <b>あきました</b>。",
+      "latn": "densha no doa ga <b>akimashita</b>.",
+      "en": "The train door opened.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/1565575.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS00067A.mp3"
+    },
+    {
+      "ja": "銀行は3時まで<b>開いて</b>います。",
+      "hrkt": "ぎんこう は 3 じ まで <b>あいて</b> います。",
+      "latn": "ginkou ha 3 ji made <b>aite</b> imasu.",
+      "en": "The bank is open until three o'clock.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4877686.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS02364A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "面白い",
+  "hrkt": "おもしろい",
+  "latn": "omoshiroi",
+  "en": "interesting, funny",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01217A.mp3",
+  "sentences": [
+    {
+      "ja": "この本はすごく<b>面白かった</b>。",
+      "hrkt": "この ほん は すごく <b>おもしろかった</b>。",
+      "latn": "kono hon ha sugoku <b>omoshirokatta</b>.",
+      "en": "This book was very interesting.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5054991.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01217A.mp3"
+    },
+    {
+      "ja": "あなたの話は<b>面白い</b>ね。",
+      "hrkt": "あなた の はなし は <b>おもしろい</b> ね。",
+      "latn": "anata no hanashi ha <b>omoshiroi</b> ne.",
+      "en": "Your story's interesting.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6152393.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS07414A.mp3"
+    }
+  ]
+}

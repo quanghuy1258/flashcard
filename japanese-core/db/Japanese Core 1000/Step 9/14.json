@@ -1,0 +1,26 @@
+{
+  "ja": "地図",
+  "hrkt": "ちず",
+  "latn": "chizu",
+  "en": "map, atlas",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05598A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>地図</b>を見てきてください。",
+      "hrkt": "<b>ちず</b> を みて きて ください 。",
+      "latn": "<b>chizu</b> wo mite kite kudasai .",
+      "en": "Please look at the map to get here.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5975675.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05598A.mp3"
+    },
+    {
+      "ja": "私は<b>地図</b>が読めません。",
+      "hrkt": "わたし は <b>ちず</b> が よめません。",
+      "latn": "watashi ha <b>chizu</b> ga yomemasen.",
+      "en": "I can't read a map.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/b35ra9e7hs.mp3"
+    }
+  ]
+}

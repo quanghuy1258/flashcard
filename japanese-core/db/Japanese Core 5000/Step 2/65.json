@@ -1,0 +1,18 @@
+{
+  "ja": "風船",
+  "hrkt": "ふうせん",
+  "latn": "fuusen",
+  "en": "balloon",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02255A.mp3",
+  "sentences": [
+    {
+      "ja": "子供が<b>風船</b>を膨らませているね。",
+      "hrkt": "こども が <b>ふうせん</b> を ふくらませて いる ね。",
+      "latn": "kodomo ga <b>fuusen</b> wo fukuramasete iru ne.",
+      "en": "The child is blowing up a balloon.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02255A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "今度",
+  "hrkt": "こんど",
+  "latn": "kondo",
+  "en": "this time, next time",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW03259A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>今度</b>はどこに行きたいですか。",
+      "hrkt": "<b>こんど</b> は どこ に いきたい です か。",
+      "latn": "<b>kondo</b> ha doko ni ikitai desu ka.",
+      "en": "Where do you want to go this time?",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/5943106.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS03259A.mp3"
+    },
+    {
+      "ja": "<b>今度</b>の休暇にフィリピンに行きます。",
+      "hrkt": "<b>こんど</b> の きゅうか に フィリピン に いきます。",
+      "latn": "<b>kondo</b> no kyuuka ni firipin ni ikimasu.",
+      "en": "I'm going to the Philippines for my next vacation.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/412v6ka420qp8s.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01469A.mp3"
+    }
+  ]
+}

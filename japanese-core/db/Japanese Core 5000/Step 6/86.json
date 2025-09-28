@@ -1,0 +1,18 @@
+{
+  "ja": "つなぐ",
+  "hrkt": "つなぐ",
+  "latn": "tsunagu",
+  "en": "connect (someone, something)",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03746A.mp3",
+  "sentences": [
+    {
+      "ja": "インターネットは世界の人々を<b>つなぎます</b>ね。",
+      "hrkt": "インターネット は せかい の ひとびと を <b>つなぎます</b> ね。",
+      "latn": "inta-netto ha sekai no hitobito wo <b>tsunagimasu</b> ne.",
+      "en": "The Internet connects people all around the world.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03746A.mp3"
+    }
+  ]
+}

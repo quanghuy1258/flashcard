@@ -1,0 +1,26 @@
+{
+  "ja": "見る",
+  "hrkt": "みる",
+  "latn": "miru",
+  "en": "see, look at",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09011A.mp3",
+  "sentences": [
+    {
+      "ja": "私は絵を<b>見る</b>のが好きです。",
+      "hrkt": "わたし は え を <b>みる</b> の が すき です。",
+      "latn": "watashi ha e wo <b>miru</b> no ga suki desu.",
+      "en": "I like looking at pictures.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3336455.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09011A.mp3"
+    },
+    {
+      "ja": "仕事のあと、映画を<b>見た</b>。",
+      "hrkt": "しごと の あと、 えいが を <b>みた</b>。",
+      "latn": "shigoto no ato, eiga wo <b>mita</b>.",
+      "en": "I saw a movie after work.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4302585.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00187A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "参る",
+  "hrkt": "まいる",
+  "latn": "mairu",
+  "en": "go, come (humble)",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02704A.mp3",
+  "sentences": [
+    {
+      "ja": "さあ、<b>参りましょう</b>か。",
+      "hrkt": "さあ、<b>まいりましょう</b> か。",
+      "latn": "saa,<b>mairimashou</b> ka.",
+      "en": "Well, shall we go?",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02704A.mp3"
+    }
+  ]
+}

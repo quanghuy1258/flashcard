@@ -1,0 +1,26 @@
+{
+  "ja": "ワイン",
+  "hrkt": "ワイン",
+  "latn": "wain",
+  "en": "wine",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09998A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>ワイン</b>を少し飲みました。",
+      "hrkt": "<b>ワイン</b> を すこし のみました。",
+      "latn": "<b>wain</b> wo sukoshi nomimashita.",
+      "en": "I drank a little wine.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4400948.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09998A.mp3"
+    },
+    {
+      "ja": "私は<b>ワイン</b>が好きです。",
+      "hrkt": "わたし は <b>ワイン</b> が すき です。",
+      "latn": "watashi ha <b>wain</b> ga suki desu.",
+      "en": "I like wine.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4303008.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04528A.mp3"
+    }
+  ]
+}

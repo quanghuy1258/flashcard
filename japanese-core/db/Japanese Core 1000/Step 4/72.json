@@ -1,0 +1,26 @@
+{
+  "ja": "止める",
+  "hrkt": "やめる",
+  "latn": "yameru",
+  "en": "stop, give up",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09449A.mp3",
+  "sentences": [
+    {
+      "ja": "話すのを<b>止めて</b>ください。",
+      "hrkt": "はなす の を <b>やめて</b> ください。",
+      "latn": "hanasu no wo <b>yamete</b> kudasai.",
+      "en": "Stop talking, please.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4218347.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09449A.mp3"
+    },
+    {
+      "ja": "冗談は<b>止めて</b>ください。",
+      "hrkt": "じょうだん は <b>やめて</b> ください。",
+      "latn": "joudan ha <b>yamete</b> kudasai.",
+      "en": "Please stop joking.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5357600.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04202A.mp3"
+    }
+  ]
+}

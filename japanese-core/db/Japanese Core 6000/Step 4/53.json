@@ -1,0 +1,18 @@
+{
+  "ja": "治まる",
+  "hrkt": "おさまる",
+  "latn": "osamaru",
+  "en": "quiet down, subside",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03192A.mp3",
+  "sentences": [
+    {
+      "ja": "咳が少し<b>治まりました</b>。",
+      "hrkt": "せき が すこし <b>おさまりました</b>。",
+      "latn": "seki ga sukoshi <b>osamarimashita</b>.",
+      "en": "My cough has subsided a little bit.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03192A.mp3"
+    }
+  ]
+}

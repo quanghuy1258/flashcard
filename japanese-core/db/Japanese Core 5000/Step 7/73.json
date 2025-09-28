@@ -1,0 +1,18 @@
+{
+  "ja": "勤め先",
+  "hrkt": "つとめさき",
+  "latn": "tsutomesaki",
+  "en": "workplace",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW02358A.mp3",
+  "sentences": [
+    {
+      "ja": "私の<b>勤め先</b>にご連絡ください。",
+      "hrkt": "わたし の <b>つとめさき</b> に ごれんらく ください。",
+      "latn": "watashi no <b>tsutomesaki</b> ni gorenraku kudasai.",
+      "en": "Please contact my office.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS02358A.mp3"
+    }
+  ]
+}

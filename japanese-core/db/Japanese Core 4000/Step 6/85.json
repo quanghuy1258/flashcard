@@ -1,0 +1,18 @@
+{
+  "ja": "休暇",
+  "hrkt": "きゅうか",
+  "latn": "kyuuka",
+  "en": "holiday, vacation",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01469A.mp3",
+  "sentences": [
+    {
+      "ja": "今度の<b>休暇</b>にフィリピンに行きます。",
+      "hrkt": "こんど の <b>きゅうか</b> に フィリピン に いきます。",
+      "latn": "kondo no <b>kyuuka</b> ni firipin ni ikimasu.",
+      "en": "I'm going to the Philippines for my next vacation.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01469A.mp3"
+    }
+  ]
+}

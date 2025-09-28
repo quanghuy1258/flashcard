@@ -1,0 +1,18 @@
+{
+  "ja": "追い出す",
+  "hrkt": "おいだす",
+  "latn": "oidasu",
+  "en": "throw out, kick out",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02060A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は家から<b>追い出された</b>。",
+      "hrkt": "かれ は いえ から <b>おいだされた</b>。",
+      "latn": "kare ha ie kara <b>oidasareta</b>.",
+      "en": "He got kicked out from his house.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02060A.mp3"
+    }
+  ]
+}

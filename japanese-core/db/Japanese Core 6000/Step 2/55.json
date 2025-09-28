@@ -1,0 +1,18 @@
+{
+  "ja": "市街",
+  "hrkt": "しがい",
+  "latn": "shigai",
+  "en": "urban area, downtown",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW01698A.mp3",
+  "sentences": [
+    {
+      "ja": "夕方の<b>市街</b>は車が渋滞するよ。",
+      "hrkt": "ゆうがた の <b>しがい</b> は くるま が じゅうたい する よ。",
+      "latn": "yuugata no <b>shigai</b> ha kuruma ga juutai suru yo.",
+      "en": "The downtown area gets congested with cars in the late afternoon.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS01698A.mp3"
+    }
+  ]
+}

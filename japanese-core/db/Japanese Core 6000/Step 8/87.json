@@ -1,0 +1,18 @@
+{
+  "ja": "同姓",
+  "hrkt": "どうせい",
+  "latn": "dousei",
+  "en": "same surname",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03460A.mp3",
+  "sentences": [
+    {
+      "ja": "日本では夫婦<b>同姓</b>が一般的よ。",
+      "hrkt": "にっぽん で は ふうふ <b>どうせい</b> が いっぱんてき よ。",
+      "latn": "nippon de ha fuufu <b>dousei</b> ga ippanteki yo.",
+      "en": "In Japan, it's common for a married couple to have the same surname.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03460A.mp3"
+    }
+  ]
+}

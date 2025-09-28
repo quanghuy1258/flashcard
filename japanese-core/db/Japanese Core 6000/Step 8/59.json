@@ -1,0 +1,18 @@
+{
+  "ja": "たこ",
+  "hrkt": "たこ",
+  "latn": "tako",
+  "en": "octopus",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03229A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>たこ</b>には足が8本ある。",
+      "hrkt": "<b>たこ</b> に は あし が 8 ぽん ある。",
+      "latn": "<b>tako</b> ni ha ashi ga 8 pon aru.",
+      "en": "An octopus has eight legs.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03229A.mp3"
+    }
+  ]
+}

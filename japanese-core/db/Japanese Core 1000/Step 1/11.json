@@ -1,0 +1,26 @@
+{
+  "ja": "使う",
+  "hrkt": "つかう",
+  "latn": "tsukau",
+  "en": "use, make use of",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05824A.mp3",
+  "sentences": [
+    {
+      "ja": "このパソコンを<b>使って</b>ください。",
+      "hrkt": "この パソコン を <b>つかって</b> ください。",
+      "latn": "kono pasokon wo <b>tsukatte</b> kudasai.",
+      "en": "Please use this computer.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5927558.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05824A.mp3"
+    },
+    {
+      "ja": "彼女は辞書をよく<b>使います</b>。",
+      "hrkt": "かのじょ は じしょ を よく <b>つかいます</b>。",
+      "latn": "kanojo ha jisho wo yoku <b>tsukaimasu</b>.",
+      "en": "She often uses a dictionary.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4758153.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS03685A.mp3"
+    }
+  ]
+}

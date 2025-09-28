@@ -1,0 +1,18 @@
+{
+  "ja": "時差",
+  "hrkt": "じさ",
+  "latn": "jisa",
+  "en": "time difference",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02608A.mp3",
+  "sentences": [
+    {
+      "ja": "日本とフランスの<b>時差</b>は8時間です。",
+      "hrkt": "にっぽん と フランス の <b>じさ</b> は 8 じかん です。",
+      "latn": "nippon to furansu no <b>jisa</b> ha 8 jikan desu.",
+      "en": "The time difference between Japan and France is eight hours.",
+      "image": "https://assets0.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/85aca2f528.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02608A.mp3"
+    }
+  ]
+}

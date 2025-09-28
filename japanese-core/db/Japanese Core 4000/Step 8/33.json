@@ -1,0 +1,18 @@
+{
+  "ja": "採る",
+  "hrkt": "とる",
+  "latn": "toru",
+  "en": "gather, pick",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01866A.mp3",
+  "sentences": [
+    {
+      "ja": "この山ではきのこが<b>採れます</b>よ。",
+      "hrkt": "この やま で は きのこ が <b>とれます</b> よ。",
+      "latn": "kono yama de ha kinoko ga <b>toremasu</b> yo.",
+      "en": "You can pick mushrooms on this mountain.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01866A.mp3"
+    }
+  ]
+}

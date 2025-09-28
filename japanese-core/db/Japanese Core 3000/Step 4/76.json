@@ -1,0 +1,26 @@
+{
+  "ja": "落ち着く",
+  "hrkt": "おちつく",
+  "latn": "ochitsuku",
+  "en": "calm down, settle in",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00766A.mp3",
+  "sentences": [
+    {
+      "ja": "私の話を<b>落ち着いて</b>聞いてください。",
+      "hrkt": "わたし の はなし を <b>おちついて</b> きいて ください。",
+      "latn": "watashi no hanashi wo <b>ochitsuite</b> kiite kudasai.",
+      "en": "Calm down and listen to me.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/f4aq025ij0.jpeg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00766A.mp3"
+    },
+    {
+      "ja": "まあまあ、<b>落ち着いて</b>ください。",
+      "hrkt": "まあ まあ、<b>おちついて</b> ください。",
+      "latn": "maa maa,<b>ochitsuite</b> kudasai.",
+      "en": "Now, now, please settle down.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/753e4080n0.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03171A.mp3"
+    }
+  ]
+}

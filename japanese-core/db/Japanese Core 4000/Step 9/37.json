@@ -1,0 +1,18 @@
+{
+  "ja": "登山",
+  "hrkt": "とざん",
+  "latn": "tozan",
+  "en": "mountain climbing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01233A.mp3",
+  "sentences": [
+    {
+      "ja": "夏休みには家族で<b>登山</b>をします。",
+      "hrkt": "なつやすみ には かぞく で <b>とざん</b> を します。",
+      "latn": "natsuyasumi niha kazoku de <b>tozan</b> wo shimasu.",
+      "en": "I go mountain climbing with my family during summer vacation.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01233A.mp3"
+    }
+  ]
+}

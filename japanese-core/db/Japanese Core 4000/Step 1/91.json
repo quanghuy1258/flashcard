@@ -1,0 +1,18 @@
+{
+  "ja": "製造",
+  "hrkt": "せいぞう",
+  "latn": "seizou",
+  "en": "production, manufacturing",
+  "pos": "Verbal Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW04722A.mp3",
+  "sentences": [
+    {
+      "ja": "この工場ではエアコンを<b>製造</b>しています。",
+      "hrkt": "この こうじょう で は エアコン を <b>せいぞう</b> して います。",
+      "latn": "kono koujou de ha eakon wo <b>seizou</b> shite imasu.",
+      "en": "This factory manufactures air conditioning units.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/447k3dbrtc.jpeg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS04722A.mp3"
+    }
+  ]
+}

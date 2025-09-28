@@ -1,0 +1,18 @@
+{
+  "ja": "取材",
+  "hrkt": "しゅざい",
+  "latn": "shuzai",
+  "en": "collection of data, reporting",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00012A.mp3",
+  "sentences": [
+    {
+      "ja": "テレビも<b>取材</b>に来たほど有名なレストランです。",
+      "hrkt": "テレビ も <b>しゅざい</b> に きた ほど ゆうめいな レストラン です。",
+      "latn": "terebi mo <b>shuzai</b> ni kita hodo yuumeina resutoran desu.",
+      "en": "The restaurant is so famous that even a TV crew came for reporting.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS00012A.mp3"
+    }
+  ]
+}

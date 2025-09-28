@@ -1,0 +1,26 @@
+{
+  "ja": "彼女",
+  "hrkt": "かのじょ",
+  "latn": "kanojo",
+  "en": "she, girlfriend",
+  "pos": "Pronoun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW01741A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>彼女</b>はOLです。",
+      "hrkt": "<b>かのじょ</b> は オーエル です。",
+      "latn": "<b>kanojo</b> ha o-eru desu.",
+      "en": "She's an office worker.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/3356691.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS01741A.mp3"
+    },
+    {
+      "ja": "<b>彼女</b>はいつも元気だ。",
+      "hrkt": "<b>かのじょ</b> は いつも げんき だ。",
+      "latn": "<b>kanojo</b> ha itsumo genki da.",
+      "en": "She's always full of energy.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5885779.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00544A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "放送",
+  "hrkt": "ほうそう",
+  "latn": "housou",
+  "en": "broadcasting",
+  "pos": "Verbal Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW08433A.mp3",
+  "sentences": [
+    {
+      "ja": "その番組は来週<b>放送</b>されます。",
+      "hrkt": "その ばんぐみ は らいしゅう <b>ほうそう</b> されます。",
+      "latn": "sono bangumi ha raishuu <b>housou</b> saremasu.",
+      "en": "The program will be broadcast next week.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5049900.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08433A.mp3"
+    },
+    {
+      "ja": "社長のインタビューがテレビで<b>放送</b>されました。",
+      "hrkt": "しゃちょう の インタビュー が テレビ で <b>ほうそう</b> されました。",
+      "latn": "shachou no intabyu- ga terebi de <b>housou</b> saremashita.",
+      "en": "The interview of the company president was broadcast on TV.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/46d7258u3k.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "黒い",
+  "hrkt": "くろい",
+  "latn": "kuroi",
+  "en": "black, dark",
+  "pos": "Adjective",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02563A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>黒い</b>ドレスを着ています。",
+      "hrkt": "かのじょ は <b>くろい</b> ドレス を きて います。",
+      "latn": "kanojo ha <b>kuroi</b> doresu wo kite imasu.",
+      "en": "She's wearing a black dress.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5246443.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02563A.mp3"
+    },
+    {
+      "ja": "私は<b>黒い</b>バッグを持っています。",
+      "hrkt": "わたし は <b>くろい</b> バッグ を もって います。",
+      "latn": "watashi ha <b>kuroi</b> baggu wo motte imasu.",
+      "en": "I have a black bag.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5468502.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07365A.mp3"
+    }
+  ]
+}

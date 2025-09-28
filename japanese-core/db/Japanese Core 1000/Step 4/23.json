@@ -1,0 +1,26 @@
+{
+  "ja": "二日",
+  "hrkt": "ふつか",
+  "latn": "futsuka",
+  "en": "two days, second of the month",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08104A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>二日</b>待った。",
+      "hrkt": "わたし は <b>ふつか</b> まった。",
+      "latn": "watashi ha <b>futsuka</b> matta.",
+      "en": "I waited two days.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/3105935.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08104A.mp3"
+    },
+    {
+      "ja": "<b>二日</b>前に駅で彼を見ましたよ。",
+      "hrkt": "<b>ふつか</b> まえ に えき で かれ を みました よ。",
+      "latn": "<b>futsuka</b> mae ni eki de kare wo mimashita yo.",
+      "en": "I saw him at the station two days ago.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/users/Smart.fm/44d76n594c.mp3"
+    }
+  ]
+}

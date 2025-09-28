@@ -1,0 +1,18 @@
+{
+  "ja": "蜂",
+  "hrkt": "はち",
+  "latn": "hachi",
+  "en": "bee",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03247A.mp3",
+  "sentences": [
+    {
+      "ja": "友達が<b>蜂</b>に刺されたんだ。",
+      "hrkt": "ともだち が <b>はち</b> に さされた ん だ。",
+      "latn": "tomodachi ga <b>hachi</b> ni sasareta n da.",
+      "en": "My friend was stung by a bee.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03247A.mp3"
+    }
+  ]
+}

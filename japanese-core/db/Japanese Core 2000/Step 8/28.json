@@ -1,0 +1,26 @@
+{
+  "ja": "祝日",
+  "hrkt": "しゅくじつ",
+  "latn": "shukujitsu",
+  "en": "national holiday",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW04036A.mp3",
+  "sentences": [
+    {
+      "ja": "五月三日は<b>祝日</b>だ。",
+      "hrkt": "ご がつ みっか は <b>しゅくじつ</b> だ。",
+      "latn": "go gatsu mikka ha <b>shukujitsu</b> da.",
+      "en": "May 3rd is a national holiday.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/6345481.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS04036A.mp3"
+    },
+    {
+      "ja": "8月11日は「山の日」という<b>祝日</b>です。",
+      "hrkt": "8 がつ 11 にち は「やま の ひ」と いう <b>しゅくじつ</b> です。",
+      "latn": "8 gatsu 11 nichi ha「yama no hi」to iu <b>shukujitsu</b> desu.",
+      "en": "August 11th is a national holiday called Mountain Day.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/f3ef381h2s.mp3"
+    }
+  ]
+}

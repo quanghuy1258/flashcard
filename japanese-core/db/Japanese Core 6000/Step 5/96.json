@@ -1,0 +1,18 @@
+{
+  "ja": "たばこ屋",
+  "hrkt": "たばこや",
+  "latn": "tabakoya",
+  "en": "cigarette store",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JW05431A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>たばこ屋</b>でライターを買った。",
+      "hrkt": "わたし は <b>たばこ</b> や で ライター を かった。",
+      "latn": "watashi ha <b>tabako</b> ya de raita- wo katta.",
+      "en": "I bought a lighter at the cigarette store.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS05431A.mp3"
+    }
+  ]
+}

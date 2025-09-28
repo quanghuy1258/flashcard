@@ -1,0 +1,26 @@
+{
+  "ja": "順番",
+  "hrkt": "じゅんばん",
+  "latn": "junban",
+  "en": "order, turn",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01649A.mp3",
+  "sentences": [
+    {
+      "ja": "これを<b>順番</b>通りに並べ替えてください。",
+      "hrkt": "これ を <b>じゅんばん</b> どおり に ならべかえて ください。",
+      "latn": "kore wo <b>junban</b> doori ni narabekaete kudasai.",
+      "en": "Please rearrange these in order.",
+      "image": "https://assets2.iknow.jp/assets/users/Smart.fm/8l5b0e6tep9eo.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01649A.mp3"
+    },
+    {
+      "ja": "<b>順番</b>を守ってください。私が先です。",
+      "hrkt": "<b>じゅんばん</b> を まもって ください。わたし が さき です。",
+      "latn": "<b>junban</b> wo mamotte kudasai.watashi ga saki desu.",
+      "en": "Please wait for your turn. I'm ahead of you.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/d67f26eo4g.mp3"
+    }
+  ]
+}

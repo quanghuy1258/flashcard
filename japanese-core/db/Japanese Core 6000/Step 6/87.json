@@ -1,0 +1,18 @@
+{
+  "ja": "戦死",
+  "hrkt": "せんし",
+  "latn": "senshi",
+  "en": "death in war",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01338A.mp3",
+  "sentences": [
+    {
+      "ja": "祖父は<b>戦死</b>しました。",
+      "hrkt": "そふ は <b>せんし</b> しました。",
+      "latn": "sofu ha <b>senshi</b> shimashita.",
+      "en": "My grandfather died in the war.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01338A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "小麦粉",
+  "hrkt": "こむぎこ",
+  "latn": "komugiko",
+  "en": "flour",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02605A.mp3",
+  "sentences": [
+    {
+      "ja": "うどんは<b>小麦粉</b>から作られます。",
+      "hrkt": "うどん は <b>こむぎこ</b> から つくられます。",
+      "latn": "udon ha <b>komugiko</b> kara tsukuraremasu.",
+      "en": "Udon noodles are made from flour.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02605A.mp3"
+    }
+  ]
+}

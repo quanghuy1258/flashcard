@@ -1,0 +1,26 @@
+{
+  "ja": "歩く",
+  "hrkt": "あるく",
+  "latn": "aruku",
+  "en": "walk, go on foot",
+  "pos": "Verb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00291A.mp3",
+  "sentences": [
+    {
+      "ja": "駅まで<b>歩きましょう</b>。",
+      "hrkt": "えき まで <b>あるきましょう</b>。",
+      "latn": "eki made <b>arukimashou</b>.",
+      "en": "Let's walk to the station.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4317091.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00291A.mp3"
+    },
+    {
+      "ja": "私は森を<b>歩く</b>のが好きです。",
+      "hrkt": "わたし は もり を  <b>あるく</b> の が すき です。",
+      "latn": "watashi ha mori wo  <b>aruku</b> no ga suki desu.",
+      "en": "I like to walk in the forest.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/3978885.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09350A.mp3"
+    }
+  ]
+}

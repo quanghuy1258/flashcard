@@ -1,0 +1,26 @@
+{
+  "ja": "もう",
+  "hrkt": "もう",
+  "latn": "mou",
+  "en": "already, yet",
+  "pos": "Adverb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW09232A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>もう</b>帰りました。",
+      "hrkt": "かれ は <b>もう</b> かえりました。",
+      "latn": "kare ha <b>mou</b> kaerimashita.",
+      "en": "He's already gone home.",
+      "image": "http://farm1.static.flickr.com/160/341291054_3118f69919.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09232A.mp3?1220256681"
+    },
+    {
+      "ja": "<b>もう</b>お金が無くなりました。",
+      "hrkt": "<b>もう</b> おかね が なくなりました。",
+      "latn": "<b>mou</b> okane ga nakunarimashita.",
+      "en": "I've run out of money already.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4688872.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS06665A.mp3"
+    }
+  ]
+}

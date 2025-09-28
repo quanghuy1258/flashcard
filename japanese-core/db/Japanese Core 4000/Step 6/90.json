@@ -1,0 +1,18 @@
+{
+  "ja": "図書",
+  "hrkt": "としょ",
+  "latn": "tosho",
+  "en": "books",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03776A.mp3",
+  "sentences": [
+    {
+      "ja": "これは児童<b>図書</b>です。",
+      "hrkt": "これ は じどう <b>としょ</b> です。",
+      "latn": "kore ha jidou <b>tosho</b> desu.",
+      "en": "This is a children's book.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03776A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "立て替える",
+  "hrkt": "たてかえる",
+  "latn": "tatekaeru",
+  "en": "pay for others (for the time being)",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW03299A.mp3",
+  "sentences": [
+    {
+      "ja": "お金がないなら私が<b>立て替えて</b>おきます。",
+      "hrkt": "おかね が ない なら わたし が <b>たてかえて</b> おきます。",
+      "latn": "okane ga nai nara watashi ga <b>tatekaete</b> okimasu.",
+      "en": "If you don't have any money, I'll pay for you for the time being.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS03299A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ja": "むける",
+  "hrkt": "むける",
+  "latn": "mukeru",
+  "en": "come off, peel",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03910A.mp3",
+  "sentences": [
+    {
+      "ja": "日焼けで皮が<b>むけた</b>。",
+      "hrkt": "ひやけ で かわ が <b>むけた</b>。",
+      "latn": "hiyake de kawa ga <b>muketa</b>.",
+      "en": "My skin peeled due to sunburn.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03910A.mp3"
+    }
+  ]
+}

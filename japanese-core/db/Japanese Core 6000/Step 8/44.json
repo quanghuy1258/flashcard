@@ -1,0 +1,18 @@
+{
+  "ja": "イントネーション",
+  "hrkt": "イントネーション",
+  "latn": "intone-shon",
+  "en": "intonation",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03125A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>イントネーション</b>の違いに気を付けて。",
+      "hrkt": "<b>イントネーション</b> の ちがい に きをつけて。",
+      "latn": "<b>intone-shon</b> no chigai ni kiwotsukete.",
+      "en": "Make sure to note the intonation difference.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03125A.mp3"
+    }
+  ]
+}

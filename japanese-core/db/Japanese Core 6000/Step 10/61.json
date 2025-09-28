@@ -1,0 +1,18 @@
+{
+  "ja": "裏門",
+  "hrkt": "うらもん",
+  "latn": "uramon",
+  "en": "back gate",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03263A.mp3",
+  "sentences": [
+    {
+      "ja": "奴は<b>裏門</b>から出てきたぜ。",
+      "hrkt": "やつ は <b>うらもん</b> から でて きた ぜ。",
+      "latn": "yatsu ha <b>uramon</b> kara dete kita ze.",
+      "en": "He came out from the back gate.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03263A.mp3"
+    }
+  ]
+}

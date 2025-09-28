@@ -1,0 +1,26 @@
+{
+  "ja": "いつでも",
+  "hrkt": "いつでも",
+  "latn": "itsudemo",
+  "en": "at all times, any time",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00533A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>いつでも</b>うちに来てください。",
+      "hrkt": "<b>いつ で も</b> うち に きて ください。",
+      "latn": "<b>itsu de mo</b> uchi ni kite kudasai.",
+      "en": "Please come to my house any time.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4448585.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00533A.mp3"
+    },
+    {
+      "ja": "質問があったら、<b>いつでも</b>聞いてください。",
+      "hrkt": "しつもん が あったら、<b>いつ で も</b> きいて ください。",
+      "latn": "shitsumon ga attara,<b>itsu de mo</b> kiite kudasai.",
+      "en": "If you have questions, please ask me any time.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/530u0i8u8o.mp3"
+    }
+  ]
+}

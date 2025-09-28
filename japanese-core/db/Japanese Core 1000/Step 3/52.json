@@ -1,0 +1,26 @@
+{
+  "ja": "茶色",
+  "hrkt": "ちゃいろ",
+  "latn": "chairo",
+  "en": "brown",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW05621A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>茶色</b>の靴を履いています。",
+      "hrkt": "かのじょ は <b>ちゃいろ</b> の くつ を はいて います。",
+      "latn": "kanojo ha <b>chairo</b> no kutsu wo haite imasu.",
+      "en": "She's wearing brown shoes.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3940210.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS05621A.mp3"
+    },
+    {
+      "ja": "その<b>茶色</b>のかばんが私のです。",
+      "hrkt": "その <b>ちゃいろ</b> の かばん が わたし の です。",
+      "latn": "sono <b>chairo</b> no kaban ga watashi no desu.",
+      "en": "The brown bag is mine.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/150i5db0u8.mp3"
+    }
+  ]
+}

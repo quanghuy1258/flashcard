@@ -1,0 +1,18 @@
+{
+  "ja": "直線",
+  "hrkt": "ちょくせん",
+  "latn": "chokusen",
+  "en": "straight line",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01534A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>直線</b>を描いてください。",
+      "hrkt": "<b>ちょくせん</b> を かいて ください。",
+      "latn": "<b>chokusen</b> wo kaite kudasai.",
+      "en": "Please draw a straight line.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01534A.mp3"
+    }
+  ]
+}

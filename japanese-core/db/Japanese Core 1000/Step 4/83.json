@@ -1,0 +1,26 @@
+{
+  "ja": "見つかる",
+  "hrkt": "みつかる",
+  "latn": "mitsukaru",
+  "en": "be found, be caught",
+  "pos": "Verb",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW08933A.mp3",
+  "sentences": [
+    {
+      "ja": "メガネが<b>見つかりません</b>。",
+      "hrkt": "メガネ が <b>みつかりません</b>。",
+      "latn": "megane ga <b>mitsukarimasen</b>.",
+      "en": "My glasses cannot be found.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4029297.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS08933A.mp3"
+    },
+    {
+      "ja": "パスポートが<b>見つからない</b>。",
+      "hrkt": "パスポート が <b>みつからない</b>。",
+      "latn": "pasupo-to ga <b>mitsukaranai</b>.",
+      "en": "My passport cannot be found.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4517031.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS07317A.mp3"
+    }
+  ]
+}

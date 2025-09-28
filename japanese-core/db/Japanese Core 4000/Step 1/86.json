@@ -1,0 +1,18 @@
+{
+  "ja": "ロボット",
+  "hrkt": "ロボット",
+  "latn": "robotto",
+  "en": "robot",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW09981A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>ロボット</b>の研究をしています。",
+      "hrkt": "かれ は <b>ロボット</b> の けんきゅう を して います。",
+      "latn": "kare ha <b>robotto</b> no kenkyuu wo shite imasu.",
+      "en": "He is doing research on robots.",
+      "image": "https://assets2.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/c10mea6e9c.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS09981A.mp3"
+    }
+  ]
+}

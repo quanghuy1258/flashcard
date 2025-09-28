@@ -1,0 +1,26 @@
+{
+  "ja": "バス停",
+  "hrkt": "バスてい",
+  "latn": "basutei",
+  "en": "bus stop",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07316A.mp3",
+  "sentences": [
+    {
+      "ja": "次の<b>バス停</b>で降ります。",
+      "hrkt": "つぎ の <b>バス てい</b> で おります。",
+      "latn": "tsugi no <b>basu tei</b> de orimasu.",
+      "en": "I'll get off at the next bus stop.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/6150801.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07316A.mp3"
+    },
+    {
+      "ja": "あそこに<b>バス停</b>があります。",
+      "hrkt": "あそこ に <b>バス てい</b> が あります。",
+      "latn": "asoko ni <b>basu tei</b> ga arimasu.",
+      "en": "There's a bus stop over there.",
+      "image": "https://assets1.iknow.jp/assets/users/Smart.fm/7l3hbob399pdo.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS00134A.mp3"
+    }
+  ]
+}

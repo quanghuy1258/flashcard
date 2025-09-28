@@ -1,0 +1,26 @@
+{
+  "ja": "横断歩道",
+  "hrkt": "おうだんほどう",
+  "latn": "oudanhodou",
+  "en": "pedestrian crossing, crosswalk",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW00952A.mp3",
+  "sentences": [
+    {
+      "ja": "あそこに<b>横断歩道</b>があります。",
+      "hrkt": "あそこ に <b>おうだん ほどう</b> が あります。",
+      "latn": "asoko ni <b>oudan hodou</b> ga arimasu.",
+      "en": "There's a crosswalk over there.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/5536430.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS00952A.mp3"
+    },
+    {
+      "ja": "あそこの<b>横断歩道</b>を渡りましょう。",
+      "hrkt": "あそこ の <b>おうだん ほどう</b> を わたりましょう。",
+      "latn": "asoko no <b>oudan hodou</b> wo watarimashou.",
+      "en": "Let's cross at the crosswalk there.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/55dse21jhg.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "水",
+  "hrkt": "みず",
+  "latn": "mizu",
+  "en": "water",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW08889A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>水</b>を一杯ください。",
+      "hrkt": "<b>みず</b> を いっぱい ください。",
+      "latn": "<b>mizu</b> wo ippai kudasai.",
+      "en": "Please give me a glass of water.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/01/108258.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS08889A.mp3"
+    },
+    {
+      "ja": "<b>水</b>を持って行きましょう。",
+      "hrkt": "<b>みず</b> を もって いきましょう。",
+      "latn": "<b>mizu</b> wo motte ikimashou.",
+      "en": "Let's take some water with us.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1459724.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS09296A.mp3"
+    }
+  ]
+}

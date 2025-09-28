@@ -1,0 +1,18 @@
+{
+  "ja": "漁業",
+  "hrkt": "ぎょぎょう",
+  "latn": "gyogyou",
+  "en": "fishery",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW01503A.mp3",
+  "sentences": [
+    {
+      "ja": "彼らは<b>漁業</b>を営んでいるんだ。",
+      "hrkt": "かれら は <b>ぎょぎょう</b> を いとなんで いる ん だ。",
+      "latn": "karera ha <b>gyogyou</b> wo itonande iru n da.",
+      "en": "They are engaged in a fishing business.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS01503A.mp3"
+    }
+  ]
+}

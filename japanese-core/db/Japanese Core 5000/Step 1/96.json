@@ -1,0 +1,18 @@
+{
+  "ja": "チョーク",
+  "hrkt": "チョーク",
+  "latn": "cho-ku",
+  "en": "chalk",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05736A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>チョーク</b>で黒板に字を書きました。",
+      "hrkt": "<b>チョーク</b> で こくばん に じ を かきました。",
+      "latn": "<b>cho-ku</b> de kokuban ni ji wo kakimashita.",
+      "en": "I wrote letters on the blackboard with a piece of chalk.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05736A.mp3"
+    }
+  ]
+}

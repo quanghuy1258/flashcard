@@ -1,0 +1,26 @@
+{
+  "ja": "続き",
+  "hrkt": "つづき",
+  "latn": "tsuzuki",
+  "en": "continuation, sequel",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01910A.mp3",
+  "sentences": [
+    {
+      "ja": "話の<b>続き</b>は電話でしましょう。",
+      "hrkt": "はなし の <b>つづき</b> は でんわ で しましょう。",
+      "latn": "hanashi no <b>tsuzuki</b> ha denwa de shimashou.",
+      "en": "Let's continue this conversation on the phone.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/3298601.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01910A.mp3"
+    },
+    {
+      "ja": "<b>続き</b>は来週やりましょう。",
+      "hrkt": "<b>つづき</b> は らいしゅう やりましょう。",
+      "latn": "<b>tsuzuki</b> ha raishuu yarimashou.",
+      "en": "Let's continue next week.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/4737163.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09766A.mp3"
+    }
+  ]
+}

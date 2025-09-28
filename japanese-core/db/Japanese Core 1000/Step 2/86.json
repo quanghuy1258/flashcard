@@ -1,0 +1,26 @@
+{
+  "ja": "円",
+  "hrkt": "えん",
+  "latn": "en",
+  "en": "Japanese yen",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JW00883A.mp3",
+  "sentences": [
+    {
+      "ja": "カレーライスは700<b>円</b>です。",
+      "hrkt": "カレーライス は 700 <b>え</b>ん です。",
+      "latn": "kare-raisu ha 700 <b>e</b>n desu.",
+      "en": "The curry and rice is 700 yen.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/878927.jpg",
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JS00884A.mp3"
+    },
+    {
+      "ja": "この靴は1万<b>円</b>です。",
+      "hrkt": "この くつ は 1 まん <b>えん</b> です。",
+      "latn": "kono kutsu ha 1 man <b>en</b> desu.",
+      "en": "These shoes are ten thousand yen.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/02/5267772.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS08819A.mp3"
+    }
+  ]
+}

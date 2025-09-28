@@ -1,0 +1,18 @@
+{
+  "ja": "驚かす",
+  "hrkt": "おどろかす",
+  "latn": "odorokasu",
+  "en": "surprise",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02173A.mp3",
+  "sentences": [
+    {
+      "ja": "あなたを<b>驚かす</b>話があります。",
+      "hrkt": "あなた を <b>おどろかす</b> はなし が あります。",
+      "latn": "anata wo <b>odorokasu</b> hanashi ga arimasu.",
+      "en": "I have a surprising story.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02173A.mp3"
+    }
+  ]
+}

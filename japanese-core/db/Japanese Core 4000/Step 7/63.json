@@ -1,0 +1,18 @@
+{
+  "ja": "煙",
+  "hrkt": "けむり",
+  "latn": "kemuri",
+  "en": "smoke",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW03610A.mp3",
+  "sentences": [
+    {
+      "ja": "煙突から<b>煙</b>がまっすぐ上っていたの。",
+      "hrkt": "えんとつ から <b>けむり</b> が まっすぐ あがって いた の。",
+      "latn": "entotsu kara <b>kemuri</b> ga massugu agatte ita no.",
+      "en": "Smoke was rising straight up from the chimney.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS03610A.mp3"
+    }
+  ]
+}

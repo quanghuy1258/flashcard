@@ -1,0 +1,18 @@
+{
+  "ja": "柔道",
+  "hrkt": "じゅうどう",
+  "latn": "juudou",
+  "en": "judo",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW04003A.mp3",
+  "sentences": [
+    {
+      "ja": "私は<b>柔道</b>を習っています。",
+      "hrkt": "わたし は <b>じゅうどう</b> を ならって います。",
+      "latn": "watashi ha <b>juudou</b> wo naratte imasu.",
+      "en": "I'm learning judo.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/213u9q45jc.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS04003A.mp3"
+    }
+  ]
+}

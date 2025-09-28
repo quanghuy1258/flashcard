@@ -1,0 +1,26 @@
+{
+  "ja": "銀",
+  "hrkt": "ぎん",
+  "latn": "gin",
+  "en": "silver",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW02348A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は<b>銀</b>メダルを取った。",
+      "hrkt": "かれ は <b>ぎん</b> メダル を とった。",
+      "latn": "kare ha <b>gin</b> medaru wo totta.",
+      "en": "He got the silver medal.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4379960.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02348A.mp3"
+    },
+    {
+      "ja": "娘に<b>銀</b>のブレスレットを買いました。",
+      "hrkt": "むすめ に <b>ぎん</b> の ブレスレット を かいました。",
+      "latn": "musume ni <b>gin</b> no buresuretto wo kaimashita.",
+      "en": "I bought a silver bracelet for my daughter.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/13bkau3504.mp3"
+    }
+  ]
+}

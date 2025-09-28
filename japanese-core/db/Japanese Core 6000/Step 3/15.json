@@ -1,0 +1,18 @@
+{
+  "ja": "放射能",
+  "hrkt": "ほうしゃのう",
+  "latn": "houshanou",
+  "en": "radioactivity",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01357A.mp3",
+  "sentences": [
+    {
+      "ja": "この地区は<b>放射能</b>に汚染された。",
+      "hrkt": "この ちく は <b>ほうしゃのう</b> に おせん された。",
+      "latn": "kono chiku ha <b>houshanou</b> ni osen sareta.",
+      "en": "This area has been contaminated by radioactivity.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/644acr53bc.mp3"
+    }
+  ]
+}

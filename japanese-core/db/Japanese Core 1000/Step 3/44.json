@@ -1,0 +1,26 @@
+{
+  "ja": "金曜日",
+  "hrkt": "きんようび",
+  "latn": "kin'youbi",
+  "en": "Friday",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02387A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>金曜日</b>の夜は友達と出かけます。",
+      "hrkt": "<b>きんようび</b> の よる は ともだち と でかけます。",
+      "latn": "<b>kin'youbi</b> no yoru ha tomodachi to dekakemasu.",
+      "en": "I go out with my friends on Friday nights.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/3349998.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02387A.mp3"
+    },
+    {
+      "ja": "私は１週間で<b>金曜日</b>がいちばん好きです。",
+      "hrkt": "わたし は １ しゅうかん で <b>きんようび</b> が いちばん すき です。",
+      "latn": "watashi ha 1 shuukan de <b>kin'youbi</b> ga ichiban suki desu.",
+      "en": "Friday is my favorite day of the week.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/d53t3td9p8.mp3"
+    }
+  ]
+}

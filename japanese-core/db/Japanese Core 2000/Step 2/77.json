@@ -1,0 +1,26 @@
+{
+  "ja": "博物館",
+  "hrkt": "はくぶつかん",
+  "latn": "hakubutsukan",
+  "en": "museum",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW07266A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、車の<b>博物館</b>に行った。",
+      "hrkt": "きのう、くるま の <b>はくぶつかん</b> に いった。",
+      "latn": "kinou,kuruma no <b>hakubutsukan</b> ni itta.",
+      "en": "I went to the car museum yesterday.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1059125.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS07266A.mp3"
+    },
+    {
+      "ja": "ロンドンに有名な<b>博物館</b>があります。",
+      "hrkt": "ロンドン に ゆうめいな <b>はくぶつかん</b> が あります。",
+      "latn": "rondon ni yuumeina <b>hakubutsukan</b> ga arimasu.",
+      "en": "There is a famous museum in London.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/e66279b2i0.mp3"
+    }
+  ]
+}

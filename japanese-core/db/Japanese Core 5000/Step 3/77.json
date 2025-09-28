@@ -1,0 +1,18 @@
+{
+  "ja": "適する",
+  "hrkt": "てきする",
+  "latn": "tekisuru",
+  "en": "suit, be suitable",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01167A.mp3",
+  "sentences": [
+    {
+      "ja": "彼はこの仕事に<b>適して</b>います。",
+      "hrkt": "かれ は この しごと に <b>てきして</b> います。",
+      "latn": "kare ha kono shigoto ni <b>tekishite</b> imasu.",
+      "en": "He's suitable for this work.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01167A.mp3"
+    }
+  ]
+}

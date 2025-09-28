@@ -1,0 +1,18 @@
+{
+  "ja": "訓練",
+  "hrkt": "くんれん",
+  "latn": "kunren",
+  "en": "training, drill",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW00324A.mp3",
+  "sentences": [
+    {
+      "ja": "学校で避難<b>訓練</b>がありました。",
+      "hrkt": "がっこう で ひなん <b>くんれん</b> が ありました。",
+      "latn": "gakkou de hinan <b>kunren</b> ga arimashita.",
+      "en": "We had a fire drill at school.",
+      "image": "https://assets1.iknow.jp/assets/users/4e48500021d60135c02f06d594bab18b/93ds2t45is.jpeg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS00324A.mp3"
+    }
+  ]
+}

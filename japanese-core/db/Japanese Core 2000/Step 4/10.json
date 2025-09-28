@@ -1,0 +1,26 @@
+{
+  "ja": "動物園",
+  "hrkt": "どうぶつえん",
+  "latn": "doubutsuen",
+  "en": "zoo",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06312A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日子供たちと<b>動物園</b>に行きました。",
+      "hrkt": "きのう こども たち と <b>どうぶつえん</b> に いきました。",
+      "latn": "kinou kodomo tachi to <b>doubutsuen</b> ni ikimashita.",
+      "en": "I went to the zoo with my kids yesterday.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/4018317.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06312A.mp3"
+    },
+    {
+      "ja": "その<b>動物園</b>にはパンダがいます。",
+      "hrkt": "その <b>どうぶつえん</b> に は パンダ が います。",
+      "latn": "sono <b>doubutsuen</b> ni ha panda ga imasu.",
+      "en": "There are panda bears in the zoo.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c627170s58.mp3"
+    }
+  ]
+}

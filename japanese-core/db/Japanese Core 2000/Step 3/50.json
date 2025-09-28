@@ -1,0 +1,26 @@
+{
+  "ja": "めったに",
+  "hrkt": "めったに",
+  "latn": "mettani",
+  "en": "rarely, seldom",
+  "pos": "Adverb",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JW09206A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は<b>めったに</b>怒りません。",
+      "hrkt": "かのじょ は <b>めった に</b> おこりません。",
+      "latn": "kanojo ha <b>metta ni</b> okorimasen.",
+      "en": "She rarely gets angry.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/01/2790034.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09206A.mp3"
+    },
+    {
+      "ja": "私は<b>めったに</b>テレビを見ません。",
+      "hrkt": "わたし は <b>めった に</b> テレビ を みません。",
+      "latn": "watashi ha <b>metta ni</b> terebi wo mimasen.",
+      "en": "I rarely watch TV.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/84cf6334dg.mp3"
+    }
+  ]
+}

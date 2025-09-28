@@ -1,0 +1,18 @@
+{
+  "ja": "和式",
+  "hrkt": "わしき",
+  "latn": "washiki",
+  "en": "Japanese style",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW03413A.mp3",
+  "sentences": [
+    {
+      "ja": "あの家のトイレは<b>和式</b>です。",
+      "hrkt": "あの うち の トイレ は <b>わしき</b> です。",
+      "latn": "ano uchi no toire ha <b>washiki</b> desu.",
+      "en": "That house has a Japanese-style toilet.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS03413A.mp3"
+    }
+  ]
+}

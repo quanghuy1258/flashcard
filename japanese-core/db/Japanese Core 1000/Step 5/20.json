@@ -1,0 +1,26 @@
+{
+  "ja": "会社",
+  "hrkt": "かいしゃ",
+  "latn": "kaisha",
+  "en": "company, corporation",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW01360A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は小さな<b>会社</b>に勤めています。",
+      "hrkt": "かれ は ちいさな <b>かいしゃ</b> に つとめて います。",
+      "latn": "kare ha chiisana <b>kaisha</b> ni tsutomete imasu.",
+      "en": "He's working at a small business firm.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4755162.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS01360A.mp3"
+    },
+    {
+      "ja": "明日、<b>会社</b>を休みます。",
+      "hrkt": "あした、<b>かいしゃ</b> を やすみます。",
+      "latn": "ashita,<b>kaisha</b> wo yasumimasu.",
+      "en": "I'm off work tomorrow.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/1772899.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS09413A.mp3"
+    }
+  ]
+}

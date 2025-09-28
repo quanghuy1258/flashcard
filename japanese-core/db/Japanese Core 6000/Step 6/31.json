@@ -1,0 +1,18 @@
+{
+  "ja": "半導体",
+  "hrkt": "はんどうたい",
+  "latn": "handoutai",
+  "en": "semiconductor",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW00140A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>半導体</b>はさまざまな製品に使われているよ。",
+      "hrkt": "<b>はんどうたい</b> は さまざまな せいひん に つかわれて いる よ 。",
+      "latn": "<b>handoutai</b> ha samazamana seihin ni tsukawarete iru yo .",
+      "en": "Semiconductors are used in many products.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS00140A.mp3"
+    }
+  ]
+}

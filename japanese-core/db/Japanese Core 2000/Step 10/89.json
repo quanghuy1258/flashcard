@@ -1,0 +1,26 @@
+{
+  "ja": "機嫌",
+  "hrkt": "きげん",
+  "latn": "kigen",
+  "en": "mood, health",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02723A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は大変<b>機嫌</b>がいいね。",
+      "hrkt": "かのじょ は たいへん <b>きげん</b> が いい ね。",
+      "latn": "kanojo ha taihen <b>kigen</b> ga ii ne.",
+      "en": "She is in a very good mood.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/02/4074557.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02723A.mp3"
+    },
+    {
+      "ja": "今日は妻の<b>機嫌</b>が悪い。",
+      "hrkt": "きょう は つま の <b>きげん</b> が わるい。",
+      "latn": "kyou ha tsuma no <b>kigen</b> ga warui.",
+      "en": "My wife is in a bad mood today.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/users/Smart.fm/936p533q0g.mp3"
+    }
+  ]
+}

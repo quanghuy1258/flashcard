@@ -1,0 +1,18 @@
+{
+  "ja": "文学者",
+  "hrkt": "ぶんがくしゃ",
+  "latn": "bungakusha",
+  "en": "literary person, literati",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02703A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は有名な<b>文学者</b>です。",
+      "hrkt": "かれ は ゆうめいな <b>ぶんがくしゃ</b> です。",
+      "latn": "kare ha yuumeina <b>bungakusha</b> desu.",
+      "en": "He's a famous literati.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02703A.mp3"
+    }
+  ]
+}

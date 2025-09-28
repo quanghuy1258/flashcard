@@ -1,0 +1,18 @@
+{
+  "ja": "暑中見舞い",
+  "hrkt": "しょちゅうみまい",
+  "latn": "shochuumimai",
+  "en": "summer greeting",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW03356A.mp3",
+  "sentences": [
+    {
+      "ja": "先生に<b>暑中見舞い</b>を出しました。",
+      "hrkt": "せんせい に <b>しょちゅう みまい</b> を だしました。",
+      "latn": "sensei ni <b>shochuu mimai</b> wo dashimashita.",
+      "en": "I sent a summer greeting card to my teacher.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS03356A.mp3"
+    }
+  ]
+}

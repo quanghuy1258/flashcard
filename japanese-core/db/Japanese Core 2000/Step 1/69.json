@@ -1,0 +1,26 @@
+{
+  "ja": "ソフト",
+  "hrkt": "ソフト",
+  "latn": "sofuto",
+  "en": "software, program (for short)",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW05093A.mp3",
+  "sentences": [
+    {
+      "ja": "この<b>ソフト</b>で日本語を勉強することができます。",
+      "hrkt": "この <b>ソフト</b> で にほん ご を べんきょう する こと が できます。",
+      "latn": "kono <b>sofuto</b> de nihon go wo benkyou suru koto ga dekimasu.",
+      "en": "You can study Japanese with this software.",
+      "image": "https://assets1.iknow.jp/assets/legacy/images/02/5921194.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS05093A.mp3"
+    },
+    {
+      "ja": "この<b>ソフト</b>にはいろいろな機能があります。",
+      "hrkt": "この <b>ソフト</b> に は いろいろな きのう が あります。",
+      "latn": "kono <b>sofuto</b> ni ha iroirona kinou ga arimasu.",
+      "en": "This software has a variety of features.",
+      "image": "https://assets3.iknow.jp/assets/legacy/images/01/2859303.jpg",
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/JS02134A.mp3"
+    }
+  ]
+}

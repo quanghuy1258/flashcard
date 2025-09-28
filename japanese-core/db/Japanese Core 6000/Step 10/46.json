@@ -1,0 +1,34 @@
+{
+  "ja": "学園",
+  "hrkt": "がくえん",
+  "latn": "gakuen",
+  "en": "educational institution, school",
+  "pos": "Noun",
+  "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JW02597A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女は郊外の<b>学園</b>に通っているね。",
+      "hrkt": "かのじょ は こうがい の <b>がくえん</b> に かよって いる ね。",
+      "latn": "kanojo ha kougai no <b>gakuen</b> ni kayotte iru ne.",
+      "en": "She goes to a school in the suburbs.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JS02597A.mp3"
+    },
+    {
+      "ja": "オックスフォードはイギリスの<b>学園</b>都市です。",
+      "hrkt": "オックスフォード は イギリス の <b>がくえん</b> とし です。",
+      "latn": "okkusufo-do ha igirisu no <b>gakuen</b> toshi desu.",
+      "en": "Oxford is a British university town.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/users/Smart.fm/c5fffle5oo.mp3"
+    },
+    {
+      "ja": "当校のサイトで<b>学園</b>生活を紹介しています。",
+      "hrkt": "とうこう の サイト で <b>がくえん</b> せいかつ を しょうかい して います。",
+      "latn": "toukou no saito de <b>gakuen</b> seikatsu wo shoukai shite imasu.",
+      "en": "School life is introduced on our school's website.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/44161n3pbk.mp3"
+    }
+  ]
+}

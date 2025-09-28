@@ -1,0 +1,18 @@
+{
+  "ja": "試みる",
+  "hrkt": "こころみる",
+  "latn": "kokoromiru",
+  "en": "try, attempt",
+  "pos": "Verb",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW00756A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は実験を<b>試みた</b>。",
+      "hrkt": "かれ は じっけん を <b>こころみた</b>。",
+      "latn": "kare ha jikken wo <b>kokoromita</b>.",
+      "en": "He tried an experiment.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/6laj664to2bos.mp3"
+    }
+  ]
+}

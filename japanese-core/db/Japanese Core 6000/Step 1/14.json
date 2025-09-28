@@ -1,0 +1,18 @@
+{
+  "ja": "倒産",
+  "hrkt": "とうさん",
+  "latn": "tousan",
+  "en": "bankruptcy, going out of business",
+  "pos": "Verbal Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW00965A.mp3",
+  "sentences": [
+    {
+      "ja": "会社が<b>倒産</b>しました。",
+      "hrkt": "かいしゃ が <b>とうさん</b> しました。",
+      "latn": "kaisha ga <b>tousan</b> shimashita.",
+      "en": "The company went bankrupt.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS00965A.mp3"
+    }
+  ]
+}

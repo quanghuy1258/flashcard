@@ -1,0 +1,18 @@
+{
+  "ja": "スタンド",
+  "hrkt": "スタンド",
+  "latn": "sutando",
+  "en": "table lamp, desk lamp",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW02276A.mp3",
+  "sentences": [
+    {
+      "ja": "姉は<b>スタンド</b>の下で本を読んでいたんだ。",
+      "hrkt": "あね は <b>スタンド</b> の した で ほん を よんで いた ん だ。",
+      "latn": "ane ha <b>sutando</b> no shita de hon wo yonde ita n da.",
+      "en": "My elder sister was reading a book by a desk lamp.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS02276A.mp3"
+    }
+  ]
+}

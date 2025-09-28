@@ -1,0 +1,18 @@
+{
+  "ja": "区役所",
+  "hrkt": "くやくしょ",
+  "latn": "kuyakusho",
+  "en": "ward office",
+  "pos": "Noun",
+  "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JW02517A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>区役所</b>に書類を届けてください。",
+      "hrkt": "<b>くやくしょ</b> に しょるい を とどけて ください。",
+      "latn": "<b>kuyakusho</b> ni shorui wo todokete kudasai.",
+      "en": "Please deliver the document to the ward office.",
+      "image": null,
+      "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JS02517A.mp3"
+    }
+  ]
+}

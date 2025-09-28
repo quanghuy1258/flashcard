@@ -1,0 +1,18 @@
+{
+  "ja": "伝説",
+  "hrkt": "でんせつ",
+  "latn": "densetsu",
+  "en": "legend",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01843A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は数々の<b>伝説</b>を残しました。",
+      "hrkt": "かれ は かずかず の <b>でんせつ</b> を のこしました。",
+      "latn": "kare ha kazukazu no <b>densetsu</b> wo nokoshimashita.",
+      "en": "He left a number of legends.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01843A.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ja": "届く",
+  "hrkt": "とどく",
+  "latn": "todoku",
+  "en": "reach, be received",
+  "pos": "Verb",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW06469A.mp3",
+  "sentences": [
+    {
+      "ja": "昨日、父から手紙が<b>届いた</b>。",
+      "hrkt": "きのう、ちち から てがみ が <b>とどいた</b>。",
+      "latn": "kinou,chichi kara tegami ga <b>todoita</b>.",
+      "en": "I got a letter from my father yesterday.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/2705571.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS06469A.mp3"
+    },
+    {
+      "ja": "さっき郵便が<b>届きました</b>。",
+      "hrkt": "さっき ゆうびん が <b>とどきました</b>。",
+      "latn": "sakki yuubin ga <b>todokimashita</b>.",
+      "en": "The mail has just arrived.",
+      "image": "https://assets0.iknow.jp/assets/legacy/images/01/3067318.jpg",
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/JS09513A.mp3"
+    }
+  ]
+}

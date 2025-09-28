@@ -1,0 +1,18 @@
+{
+  "ja": "通行",
+  "hrkt": "つうこう",
+  "latn": "tsuukou",
+  "en": "passage, traffic",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01269A.mp3",
+  "sentences": [
+    {
+      "ja": "この道は<b>通行</b>できません。",
+      "hrkt": "この みち は <b>つうこう</b> できません。",
+      "latn": "kono michi ha <b>tsuukou</b> dekimasen.",
+      "en": "This is an impassable road.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01269A.mp3"
+    }
+  ]
+}

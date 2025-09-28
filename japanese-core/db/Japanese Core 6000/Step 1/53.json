@@ -1,0 +1,18 @@
+{
+  "ja": "新築",
+  "hrkt": "しんちく",
+  "latn": "shinchiku",
+  "en": "newly built",
+  "pos": "Verbal Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/Int/JW01714A.mp3",
+  "sentences": [
+    {
+      "ja": "彼は去年、家を<b>新築</b>しました。",
+      "hrkt": "かれ は きょねん、いえ を <b>しんちく</b> しました。",
+      "latn": "kare ha kyonen,ie wo <b>shinchiku</b> shimashita.",
+      "en": "He built a new house last year.",
+      "image": null,
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/Int/JS01714A.mp3"
+    }
+  ]
+}

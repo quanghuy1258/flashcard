@@ -1,0 +1,26 @@
+{
+  "ja": "企業",
+  "hrkt": "きぎょう",
+  "latn": "kigyou",
+  "en": "corporation, business",
+  "pos": "Noun",
+  "sound": "https://assets2.iknow.jp/assets/legacy/JLL/audio/JW02017A.mp3",
+  "sentences": [
+    {
+      "ja": "彼女はアメリカの<b>企業</b>で働いています。",
+      "hrkt": "かのじょ は アメリカ の <b>きぎょう</b> で はたらいて います。",
+      "latn": "kanojo ha amerika no <b>kigyou</b> de hataraite imasu.",
+      "en": "She works at an American company.",
+      "image": "https://assets2.iknow.jp/assets/legacy/images/02/4907688.jpg",
+      "sound": "https://assets0.iknow.jp/assets/legacy/JLL/audio/JS02017A.mp3"
+    },
+    {
+      "ja": "その会社はブラック<b>企業</b>で、休みがほとんどありません。",
+      "hrkt": "その かいしゃ は ブラック <b>きぎょう</b> で、やすみ が ほとんど ありません。",
+      "latn": "sono kaisha ha burakku <b>kigyou</b> de,yasumi ga hotondo arimasen.",
+      "en": "That company has terrible working conditions and almost no days off.",
+      "image": null,
+      "sound": "https://assets1.iknow.jp/assets/users/Smart.fm/14aa9e5e54.mp3"
+    }
+  ]
+}

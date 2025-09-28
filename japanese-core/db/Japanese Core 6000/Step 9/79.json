@@ -1,0 +1,18 @@
+{
+  "ja": "兵隊",
+  "hrkt": "へいたい",
+  "latn": "heitai",
+  "en": "soldier, troops",
+  "pos": "Noun",
+  "sound": "https://assets1.iknow.jp/assets/legacy/JLL/audio/Int/JW01181A.mp3",
+  "sentences": [
+    {
+      "ja": "<b>兵隊</b>が銃をかまえていたよ。",
+      "hrkt": "<b>へいたい</b> が じゅう を かまえて いた よ。",
+      "latn": "<b>heitai</b> ga juu wo kamaete ita yo.",
+      "en": "A soldier was holding a gun at the ready.",
+      "image": null,
+      "sound": "https://assets3.iknow.jp/assets/legacy/JLL/audio/Int/JS01181A.mp3"
+    }
+  ]
+}
