@@ -54,7 +54,7 @@ for i in sorted(listdir("db")):
 
         sound = "japanese-core_sentence-{:05d}.mp3".format(sentence_index)
         if not exists(f"{media_folder}/{sound}"):
-          response = download_response(w["sound"])
+          response = download_response(s["sound"])
           with open(f"{media_folder}/{sound}", "wb") as sound_file:
             sound_file.write(response.content)
         sentence_index += 1
